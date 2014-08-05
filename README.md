@@ -21,8 +21,8 @@ This means that you will need to learn some basic Git commands for working with 
 From your local machine, open Git (e.g. using Git Bash from a Windows machine), and 'pull' down the most up-to-date
 version of the database after making sure you're in the right directory housing the repository.
 
-`$ cd git/dietdatabase`
-`$ git pull origin master`
+```$ cd git/dietdatabase
+$ git pull origin master```
 
 You can now open the database file ('AvianDietDatabase.csv') in Excel or Open Office and begin entering data. More details
 on this below. When you are finished with data entry for the day, be sure to Save As a .csv file (with the same name,
@@ -31,8 +31,8 @@ in the same folder).
 Now you need to stage your committed changes, add a descriptive message of what you've added, and 'push' the new version
 to the master repository.
 
-`$ git commit -am "added 3 diet studies for red-eyed vireo and 2 for white-eyed vireo"`
-`$ git push origin master`
+```$ git commit -am "added 3 diet studies for red-eyed vireo and 2 for white-eyed vireo"
+$ git push origin master```
 
 Enter your github userid and password if prompted. Now your up-to-date files are available for incorporation into GloBI and
 for others to add to!
@@ -44,7 +44,7 @@ of these fields, and how data should be entered.
 
 <table>
   <tr>
-    <td>__Field__</td>
+    <td>**Field**</td>
     <td>__Description__</td>
   </tr>
   <tr>
