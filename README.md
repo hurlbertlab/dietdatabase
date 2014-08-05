@@ -142,6 +142,10 @@ of these fields, and how data should be entered.
     <td>The year in which diet data were last collected.</td>
   </tr>
   <tr>
+    <td>Observation_Season</td>
+    <td>The season in which diet data were last collected. Possible values include spring, summer, fall, winter, or multiple.</td>
+  </tr>
+  <tr>
     <td>Prey_Kingdom</td>
     <td>Kingdom to which the prey item belongs (e.g. Plantae, Animalia).</td>
   </tr>
