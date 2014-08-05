@@ -75,8 +75,8 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Longitude_dd</td>
-    <td>Longitude of the study, if provided, in decimal degrees. __Note__: Most studies that provide lat-long info will do
-    so by providing it in degree-minutes-seconds, e.g. 89W 30' 15", 34N 47', _so you will have to convert such values_ to decimal
+    <td>Longitude of the study, if provided, in decimal degrees. NOTE: Most studies that provide lat-long info will do
+    so by providing it in degree-minutes-seconds, e.g. 89W 30' 15", 34N 47', so you will have to convert such values to decimal
     degrees. Do this by adding up the degrees, the minutes/60, and the seconds/3600. E.g., 89 + 30/60 + 15/3600, and 34 + 47/60. Lastly, 
     all longitudes west of the prime meridian (e.g. in North America) are NEGATIVE, so be sure to put a minus sign in front!</td>
   </tr>
@@ -159,7 +159,7 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Prey_Suborder</td>
-    <td>Suborder to which the prey item belongs. __Need explanatory note about Hemiptera__.</td>
+    <td>Suborder to which the prey item belongs. **Need explanatory note about Hemiptera**.</td>
   </tr>
   <tr>
     <td>Prey_Family</td>
