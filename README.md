@@ -41,6 +41,28 @@ $ git push origin master
 Enter your github userid and password if prompted. Now your up-to-date files are available for incorporation into GloBI and
 for others to add to!
 
+##Finding Diet Data
+We are focusing our search for diet data in the published literature. References related to avian diets have been scraped
+from individual species accounts on the [Birds of North America website](http://bna.birds.cornell.edu/bna/), and are
+provided in the file 'NA_avian_diet_refs.txt'. For each species, look up the listed references to see if they contain
+raw diet data summaries. If you were able to look up the reference, put a 'y' in the 'checked' column. If the reference was 
+unavailable (couldn't access it online, not in the library) put a 'n'. For those that you checked, indicate (y/n) whether it
+contained diet data in the 'useable_data' column.
+
+After you have examined all of the references listed in this table for a given species, you will perform a literature search
+to see if any additional papers have been published on the diet of this species since the Birds of North America species
+account was published or last revised (the year in the "revised" column). 
+
+###Web of Science search
+Go to [Web of Science](http://apps.webofknowledge.com) and in the Topic search box enter:  
+
+"[common name] AND (diet OR foraging OR food)", replacing [common name] with the actual common name of the species you are searching.
+
+Click on +Add Another Field, and select Year Published. Search all years since the last revised date for that species as listed in the 
+'NA_avian_diet_refs' table.  
+
+Look up the papers in the search results, and be sure to add any that contain useful data to the NA_avian_diet_refs.txt table.
+
 ##Data Entry Details
 To maximize the utility of the data, we need to record many types of information describing the what, when, where, and how 
 of its collection, and so our database has many fields. In the table below we explain what exactly is characterized in each
@@ -76,13 +98,13 @@ of these fields, and how data should be entered.
   <tr>
     <td>Longitude_dd</td>
     <td>Longitude of the study, if provided, in decimal degrees. NOTE: Most studies that provide lat-long info will do
-    so by providing it in degree-minutes-seconds, e.g. 89W 30' 15", 34N 47', so you will have to convert such values to decimal
-    degrees. Do this by adding up the degrees, the minutes/60, and the seconds/3600. E.g., 89 + 30/60 + 15/3600, and 34 + 47/60. Lastly, 
+    so by providing it in degree-minutes-seconds, e.g. 89W 30' 15", so you will have to convert such values to decimal
+    degrees. Do this by adding up the degrees, the minutes/60, and the seconds/3600. E.g., 89 + 30/60 + 15/3600. Lastly, 
     all longitudes west of the prime meridian (e.g. in North America) are NEGATIVE, so be sure to put a minus sign in front!</td>
   </tr>
   <tr>
     <td>Latitude_dd</td>
-    <td>Latitude of the study, if provided, in decimal degrees. </td>
+    <td>Latitude of the study, if provided, in decimal degrees. Latitudes south of the equator are NEGATIVE.</td>
   </tr>
   <tr>
     <td>Altitude_min_m</td>
@@ -96,7 +118,7 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Altitude_max_m</td>
-    <td>Minimum altitude of the study in meters if a range was provided. If altitude is given in anything other than meters, don't
+    <td>Maximum altitude of the study in meters if a range was provided. If altitude is given in anything other than meters, don't
     forget to convert first!</td>
   </tr>
   <tr>
@@ -115,14 +137,14 @@ of these fields, and how data should be entered.
         +forest
         +deciduous forest
         +coniferous forest
-        +mixed forest
         +woodland
         +scrubland
         +grassland
         +desert
         +wetland
         +agriculture
-        +urban
+        +urban. 
+        E.g. "deciduous forest; woodland"
         </td>
   </tr>
   <tr>
@@ -131,7 +153,7 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Observation_Year_Begin</td>
-    <td>The year in which diet data were first collected.</td>
+    <td>The year in which diet data were first collected in the study.</td>
   </tr>
   <tr>
     <td>Observation_Month_End</td>
@@ -139,11 +161,11 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Observation_Year_End</td>
-    <td>The year in which diet data were last collected.</td>
+    <td>The year in which diet data were last collected in the study.</td>
   </tr>
   <tr>
     <td>Observation_Season</td>
-    <td>The season in which diet data were last collected. Possible values include spring, summer, fall, winter, or multiple.</td>
+    <td>The season(s) in which diet data were last collected. Possible values include spring, summer, fall, winter, or multiple.</td>
   </tr>
   <tr>
     <td>Prey_Kingdom</td>
@@ -163,7 +185,10 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Prey_Suborder</td>
-    <td>Suborder to which the prey item belongs. **Need explanatory note about Hemiptera**.</td>
+    <td>Suborder to which the prey item belongs. This field will most frequently be used when older studies report prey orders 
+    "Homoptera", "Hemiptera", and "Heteroptera", which now all fall under the Order Hemiptera. Thus, a report of "Homoptera" should
+    be classified as Order Hemiptera, Suborder Homoptera. A report of "Hemiptera" should be classified as Order Hemiptera, 
+    Suborder Heteroptera.</td>
   </tr>
   <tr>
     <td>Prey_Family</td>
