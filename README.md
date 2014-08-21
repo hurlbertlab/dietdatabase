@@ -251,7 +251,8 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Study_Type</td>
-    <td>The way that diet data were collected. Options include: emetic, fecal examination, stomach contents. "Stomach contents"
+    <td>The way that diet data were collected. Options include: emetic, fecal examination, stomach contents, 
+	behavioral observation. "Stomach contents"
     implies that the birds were sacrificed and their complete stomach contents were examined.</td>
   </tr>
   <tr>
