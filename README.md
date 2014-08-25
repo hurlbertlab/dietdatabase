@@ -68,6 +68,14 @@ To maximize the utility of the data, we need to record many types of information
 of its collection, and so our database has many fields. In the table below we explain what exactly is characterized in each
 of these fields, and how data should be entered.
 
+Field | Description
+---|----------
+Common_Name | The common name of the species whose diet is being characterized.
+Scientific_Name | Genus and species of the species whose diet is being characterized. For North American birds 
+    we will generally follow the most recent AOU checklist. Make sure that this is the currently accepted name by 
+    checking [here](http://help.ebird.org/customer/portal/kb_article_attachments/35388/original.xls?1407441617) and [here]
+    (http://avibase.bsc-eoc.org/avibase.jsp?lang=EN). Names from older papers are potentially out of date.
+
 <table>
   <tr>
     <td>Field</td>
