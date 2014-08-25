@@ -74,18 +74,15 @@ of these fields, and how data should be entered.
     <td>Description</td>
   </tr>
   <tr>
-    <td>ID</td>
-    <td>A unique row ID referring to one particular trophic link between a bird and a prey item as identified from a particular study.
-    Each row should be incremented by one.</td>
-  </tr>
-  <tr>
     <td>Common_Name</td>
     <td>The common name of the species whose diet is being characterized.</td>
   </tr>
   <tr>
     <td>Scientific_Name</td>
-    <td>Genus and species of the species whose diet is being characterized. Make sure that this is the currently accepted name by 
-    checking here and here. Names from older papers are potentially out of date.</td>
+    <td>Genus and species of the species whose diet is being characterized. For North American birds 
+    we will generally follow the most recent AOU checklist. Make sure that this is the currently accepted name by 
+    checking [here](http://help.ebird.org/customer/portal/kb_article_attachments/35388/original.xls?1407441617) and [here]
+    (http://avibase.bsc-eoc.org/avibase.jsp?lang=EN). Names from older papers are potentially out of date.</td>
   </tr>
   <tr>
     <td>Family</td>
