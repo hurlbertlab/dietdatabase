@@ -83,7 +83,7 @@ of these fields, and how data should be entered.
     <td>Genus and species of the species whose diet is being characterized. For North American birds 
     we will generally follow the most recent AOU checklist. Make sure that this is the currently accepted name by 
     checking http://help.ebird.org/customer/portal/kb_article_attachments/35388/original.xls?1407441617 and
-    http://avibase.bsc-eoc.org/avibase.jsp?lang=EN. Names from older papers are potentially out of date.</td>
+    http://avibase.bsc-eoc.org/. Names from older papers are potentially out of date.</td>
   </tr>
   <tr>
     <td>Family</td>
