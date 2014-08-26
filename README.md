@@ -68,15 +68,11 @@ To maximize the utility of the data, we need to record many types of information
 of its collection, and so our database has many fields. In the table below we explain what exactly is characterized in each
 of these fields, and how data should be entered.
 
+
 <table>
   <tr>
     <td>Field</td>
     <td>Description</td>
-  </tr>
-  <tr>
-    <td>ID</td>
-    <td>A unique row ID referring to one particular trophic link between a bird and a prey item as identified from a particular study.
-    Each row should be incremented by one.</td>
   </tr>
   <tr>
     <td>Common_Name</td>
@@ -84,8 +80,10 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Scientific_Name</td>
-    <td>Genus and species of the species whose diet is being characterized. Make sure that this is the currently accepted name by 
-    checking here and here. Names from older papers are potentially out of date.</td>
+    <td>Genus and species of the species whose diet is being characterized. For North American birds 
+    we will generally follow the most recent AOU checklist. Make sure that this is the currently accepted name by 
+    checking http://help.ebird.org/customer/portal/kb_article_attachments/35388/original.xls?1407441617 and
+    http://avibase.bsc-eoc.org/. Names from older papers are potentially out of date.</td>
   </tr>
   <tr>
     <td>Family</td>
@@ -251,7 +249,8 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Study_Type</td>
-    <td>The way that diet data were collected. Options include: emetic, fecal examination, stomach contents. "Stomach contents"
+    <td>The way that diet data were collected. Options include: emetic, fecal examination, stomach contents, 
+	behavioral observation. "Stomach contents"
     implies that the birds were sacrificed and their complete stomach contents were examined.</td>
   </tr>
   <tr>
