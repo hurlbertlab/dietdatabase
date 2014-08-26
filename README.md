@@ -22,7 +22,7 @@ From your local machine, open Git (e.g. using Git Bash from a Windows machine), 
 version of the database after making sure you're in the right directory housing the repository.
 
 ```
-$ cd git/dietdatabase
+$ cd /c/git/dietdatabase
 $ git pull origin master
 ```
 
