@@ -11635,6 +11635,7 @@ Willow Flycatcher	Tyrannidae	2000	Feeding	Food Capture And Consumption	"Prescott
 Willow Flycatcher	Tyrannidae	2000	Diet	Quantitative Analysis	"Beal, F. E. L. 1912. Food of our more important flycatchers. Gov. Printing Office, Washington, D.C."	y	y	considered same as alder flycatcher									
 Willow Flycatcher	Tyrannidae	2000	Diet	Quantitative Analysis	"Mccabe, R. A. 1991. The little green bird. Ecology of the Willow Flycatcher. Rusty Rock Press, Madison, WI."	N/A											
 Willow Flycatcher	Tyrannidae	2000	Diet	Quantitative Analysis	"Wetmore, A. 1972. The birds of the Republic of Panama. Smithson. Misc. Collect. 150, pt. 3:475-479."	y	n										
+Willow Flycatcher	Tyrannidae	2008	Diet	Quantitative Analysis	"Durst, S.L., T.C. Theimer, E.H. Paxton, M.K. Sogge. 2008. Age, Habitat, and Yearly Variation in the Diet of a Generalist Insectivore, The Southwestern Willow Flycatcher. Condor 110 (3): 514-525."	y	y										
 Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Parmalee, P. W. and W. E. Klippel. 1991. Seasonal variation in prey of the Barn Owl (Tyto alba) in Tennessee. J. Tenn. Acad. Sci. 66:219-224."												
 Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"David, P. G. 1996. Nesting and food habits of Barn Owls in south Florida. Fla. Field Nat. 24:93-136."												
 Barn Owl	Tytonidae	1-Jun-05	Nutrition And Energetics		"Johnson, W. D. 1974. The bioenergetics of the Barn Owl, Tyto alba. M. A. thesis. California State Univ. Long Beach."												
