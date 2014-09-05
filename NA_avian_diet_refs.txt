@@ -6647,6 +6647,7 @@ Blackpoll Warbler	Parulidae	1999	Nutrition And Energetics		"Yarbrough, C. G. 197
 Blackpoll Warbler	Parulidae	1999	Feeding	Main Foods Taken	"Bent, A. C. 1953. Life histories of North American wood warblers. U.S. Natl. Mus. Bull. no. 203."	y	n										
 Blackpoll Warbler	Parulidae	1999	Feeding	Microhabitats For Foraging	"Morse, D. H. 1979. Habitat use by the Blackpoll Warbler. Wilson Bull. 91:234-243."	y	n										
 Blackpoll Warbler	Parulidae	1999	Feeding	Microhabitats For Foraging	"Sick, H. 1971. Blackpoll Warbler on winter Quarters in Rio de Janeiro, Brazil. Wilson Bull. 83:198-200."	y	n										
+Blackpoll Warbler	Parulidae	1999	diet	Main Foods Taken	"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."	y	y										
 Black-throated Blue Warbler	Parulidae	1-Apr-05	Feeding	Microhabitats For Foraging	"Holmes, R. T., T. W. Sherry, and F. W. Sturges. 1986. Bird community dynamics in a temperate deciduous forest: long-term trends at Hubbard Brook. Ecol. Monogr. 56:201-220."	y	n										
 Black-throated Blue Warbler	Parulidae	1-Apr-05	Feeding	Main Foods Taken	"Wetmore, A. 1916. Birds of Puerto Rico. U.S. Dep. Agric. Bull. No. 326."	y	n										
 Black-throated Blue Warbler	Parulidae	1-Apr-05	Feeding	Microhabitats For Foraging	"Whelan, C. J. 1989a. An experimental test of prey distribution learning in two paruline warblers. Condor 91:113-119."	y	n										
