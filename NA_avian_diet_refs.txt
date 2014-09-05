@@ -6749,6 +6749,7 @@ Common Yellowthroat	Parulidae	1999	Diet	Quantitative Analysis	"Butler, A. W. 189
 Common Yellowthroat	Parulidae	1999	Diet	Quantitative Analysis	"Townsend, C. W. 1905. The birds of Essex County Massachusetts. Mem. Nuttall Ornithol. Club 3."												
 Common Yellowthroat	Parulidae	1999	Feeding	Microhabitat For Foraging	"Eckhardt, R. C. 1979. The adaptive syndromes of two guilds of insectivorous birds in the Colorado Rocky Mountains. Ecol. Monogr. 49:129-149."												
 Common Yellowthroat	Parulidae	1999	Feeding	Food Capture And Consumption	"Kelly, J. P. and C. Wood. 1996. Diurnal, intraseasonal, and intersexual variation in foraging behavior of the Common Yellowthroat. Condor 98:491-500."												
+Common Yellowthroat	Parulidae	1999	Diet	Main Foods Taken	"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."	y	y										
 Golden-cheeked Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Beardmore, C. J. 1994. Habitat use of Golden-cheeked Warblers in Travis County, Texas. Master's Thesis. Texas A&M Univ. College Station."												
 Golden-cheeked Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Vidal, R. M., C. Macias-Caballero, and C. D. Duncan. 1994. The occurrence and ecology of the Golden-cheeked Warbler in the highlands of northern Chiapas, Mexico. Condor 96:684-691."												
 Golden-cheeked Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Thompson, D. E. 1995. Observations of Golden-cheeked Warblers wintering in Guatemala and Honduras. Cooperative Agreement no. 1448-00002-94-0846. Final Report to U.S. Fish and Wildlife Service, Austin, TX."												
@@ -6838,6 +6839,7 @@ Palm Warbler	Parulidae	1996	Nutrition And Energetics		"Johnston, D. W. 1968. Bod
 Palm Warbler	Parulidae	1996	Diet	Major Food Items	"Howell, A. H. 1932. Florida bird life. Coward-McCann, New York."												
 Palm Warbler	Parulidae	1996	Diet	Major Food Items	"Welsh, D. A. 1971. Breeding and territoriality of the Palm Warbler in a Nova Scotia bog. Can. Field-Nat. 85:31-37."												
 Palm Warbler	Parulidae	1996	Feeding	Food Capture And Consumption	"Greenberg, R. 1979. Body size, breeding habitat, and winter exploitation systems in Dendroica. Auk 96:736-766."												
+Palm Warbler	Parulidae	1997	Diet	Major Food Items	"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."	y	y										
 Pine Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Latta, S. C. and M. L. Sondreal. 1999. Observations on the abundance, site persistence, home range, foraging, and nesting of the Pine Warbler on Hispaniola. Ornitol. Neotropical 10:43-54."												
 Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Ficken, R. W., M. S. Ficken, and D. H. Morse. 1968. Competition and character displacement in two sympatric pine-dwelling warblers (Dendroica, Parulidae). Evolution 22:307-314."												
 Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Morse, D. H. 1970. Ecological aspects of some mixed-species foraging flocks of birds. Ecol. Monogr. 40:119-168."												
