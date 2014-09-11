@@ -6817,16 +6817,16 @@ Painted Redstart	Parulidae	2000	Feeding	Food Capture And Consumption	"Jablonski,
 Painted Redstart	Parulidae	2000	Feeding	Food Capture And Consumption	"Jablonski, P. G. 1999. A rare predator exploits prey escape behavior: the role of tail-fanning and plumage contrast in foraging of the Painted Redstart (Myioborus pictus). Behav. Ecol. 10:7-14."												
 Painted Redstart	Parulidae	2000	Feeding	Food Capture And Consumption	"Jablonski, P. G. and N. Strausfeld. 1998. Analysis of visual stimuli used by insectivorous flush- pursuing birds (Painted Redstarts Myioborus pictus) to flush their prey-behavioral responses of insects to model birds. Abstracts of the Fifth Int. Congr. of Neuroethol. August 23-28, 1998, San Diego."												
 Painted Redstart	Parulidae	2000	Feeding	Main Foods Taken	"Marshall, J. T. 1957. Birds of the pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna 32:9-56."												
-Palm Warbler	Parulidae	1996	Feeding	Food Capture And Consumption	"Johnston, D. W. 1953. Wintering Palm Warbler at Berkeley, California. Condor 55:276-277."												
+Palm Warbler	Parulidae	1996	Feeding	Food Capture And Consumption	"Johnston, D. W. 1953. Wintering Palm Warbler at Berkeley, California. Condor 55:276-277."	y	n										
 Palm Warbler	Parulidae	1996	Feeding	Main Foods Taken	"Bent, A. C. 1953. Life histories of North American wood warblers. U.S. Natl. Mus. Bull. 203."												
 Palm Warbler	Parulidae	1996	Feeding	Main Foods Taken	"Emlen, J. T. 1973. Territorial aggression in wintering warblers at Bahama agave blossoms. Wilson Bull. 85:71-74."												
-Palm Warbler	Parulidae	1996	Feeding	Main Foods Taken	"Gander, F. F. 1928. Observations on the feeding habits of some common birds. Condor 30:362-363."												
+Palm Warbler	Parulidae	1996	Feeding	Main Foods Taken	"Gander, F. F. 1928. Observations on the feeding habits of some common birds. Condor 30:362-363."	y	n										
 Palm Warbler	Parulidae	1996	Feeding	Main Foods Taken	"Knight, O. W. 1904. Contributions to the life history of the Yellow Palm Warbler. J. Maine Ornithol. Soc. 6:36-41."												
 Palm Warbler	Parulidae	1996	Feeding	Microhabitat For Foraging	"Cadman, M. D., P. F. J. Eagles, and F. M. Helleiner. 1987. Atlas of the breeding birds of Ontario. Univ. of Waterloo Press, Waterloo, ON."												
 Palm Warbler	Parulidae	1996	Feeding	Microhabitat For Foraging	"Lack, D. and P. Lack. 1972. Wintering warblers in Jamaica. Living Bird 11:129-153."												
 Palm Warbler	Parulidae	1996	Diet	Major Food Items	"Long, W. S. 1935. Spring notes from Lawrence, Kansas. Auk 52:467-468."												
 Palm Warbler	Parulidae	1996	Feeding	Main Foods Taken	"Wunderle, Jr., J. M. 1978. Territorial defense of a nectar source by a Palm Warbler. Wilson Bull. 90:297-299."												
-Palm Warbler	Parulidae	1996	Feeding	Food Capture And Consumption	"Graber, J. W. and R. R. Graber. 1983. Feeding rates of warblers in spring. Condor 85:139-150."												
+Palm Warbler	Parulidae	1996	Feeding	Food Capture And Consumption	"Graber, J. W. and R. R. Graber. 1983. Feeding rates of warblers in spring. Condor 85:139-150."	y	n										
 Palm Warbler	Parulidae	1996	Feeding	Food Capture And Consumption	"Hanowski, J. M. and G. J. Niemi. 1990. Effects of unknown sex in analyses of foraging behavior. Stud. Avian Biol. 13:280-283."												
 Palm Warbler	Parulidae	1996	Feeding	Main Foods Taken	"Forbush, E. H. 1929. Birds of Massachusetts and other New England states, Pt. 3. Mass. Dep. Agric. Boston."												
 Palm Warbler	Parulidae	1996	Feeding	Main Foods Taken	"Roberts, T. S. 1932. The birds of Minnesota. Univ. of Minnesota Press, Minneapolis."												
@@ -6846,7 +6846,7 @@ Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Morse, D. H. 1
 Pine Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Emlen, J. T. and M. J. DeJong. 1981. Intrinsic factors in the selection of foraging substrates by Pine Warblers: a test of an hypothesis. Auk 98:294-298."												
 Pine Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Morse, D. H. 1974. Foraging of Pine Warblers allopatric and sympatric to Yellow-throated Warblers. Wilson Bull. 86:474-477."												
 Pine Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Emlen, J. T. 1981. Divergence in the foraging responses of birds on two Bahama islands. Ecology 62:289-295."												
-Pine Warbler	Parulidae	1999	Diet		"Sample, B. E., R. J. Cooper, and R. C. Whitmore. 1993. Dietary shifts among songbirds in a diflubenzuron-treated forest. Condor 95:616624."												
+Pine Warbler	Parulidae	1999	Diet		"Sample, B. E., R. J. Cooper, and R. C. Whitmore. 1993. Dietary shifts among songbirds in a diflubenzuron-treated forest. Condor 95:616624."	y	n										
 Pine Warbler	Parulidae	1999	Metabolism And Temperature Regulation		"Dorsey, T. 1986. Winter Pine Warbler in Austin. Loon 58:48."												
 Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Skinner, M. P. 1928. A guide to the winter birds of the North Carolina Sandhills. Sci. Press Printing Co. Albany, NY."												
 Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Brush, T. and E. W. Stiles. 1990. Habitat use by breeding birds in the New Jersey pine barrens. Bull. N.J. Acad. Sci. 35:13-16."												
