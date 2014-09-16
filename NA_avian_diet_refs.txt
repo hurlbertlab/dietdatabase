@@ -6952,7 +6952,7 @@ Worm-eating Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Rappole, J
 Worm-eating Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Remsen, Jr., J. V. and T. A. Parker III. 1984. Arboreal dead-leaf-searching birds of the Neotropics. Condor 86:36-41."	y	n										
 Worm-eating Warbler	Parulidae	1998	Feeding	Food Capture And Consumption	"Griscom, L. and A. Sprunt. 1957. The Warblers of America. Devin-Adair Co. New York."												
 Yellow Warbler	Parulidae	1999	Feeding	Main Foods Taken	"Stevenson, H. M. and B. H. Anderson. 1994. The birdlife of Florida. Univ. Press of Florida, Gainesville."												
-Yellow Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Morse, D. H. 1973. The foraging of small populations of Yellow Warblers and American Redstarts. Ecology 54:346-355."												
+Yellow Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Morse, D. H. 1973. The foraging of small populations of Yellow Warblers and American Redstarts. Ecology 54:346-355."	y	n										
 Yellow Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Frydendall, M. J. 1967. Feeding ecology and territorial behavior of the Yellow Warbler. Phd Thesis. Utah State Univ. Logan, UT."												
 Yellow Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Hutto, R. L. 1981. Seasonal variation in the foraging behavior of some migratory western wood warblers. Auk 98:765-777."	y	n										
 Yellow Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Busby, D. G. and S. G. Sealy. 1979. Feeding ecology of a population of nesting Yellow Warblers. Can. J. Zool. 57:1670-1681."												
@@ -6978,8 +6978,8 @@ Yellow-breasted Chat	Parulidae	2001	Diet	Quantitative Analysis	"Rosenberg, K. V.
 Yellow-breasted Chat	Parulidae	2001	Diet	Quantitative Analysis	"Graber, J. W., R. R. Graber, and E. L. Kirk. 1983. Illinois birds: wood warblers. Ill. Nat. Hist. Surv. Biol. Notes 118."												
 Yellow-breasted Chat	Parulidae	2001	Diet	Quantitative Analysis	"Hess, G. K., R. L. West, M. V. Barnhill III, and L. M. Fleming. 2000. Birds of Delaware. Univ. of Pittsburgh Press, Pittsburgh, PA."												
 Yellow-breasted Chat	Parulidae	2001	Nutrition And Energetics		"Tordoff, H. B. and R. M. Mengel. 1956. Studies of birds killed in nocturnal migration. Univ. Kans. Publ. Mus. Nat. Hist. 10:1-44."												
-Yellow-rumped Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Macarthur, R. H. 1958. Population ecology of some warblers of northeastern coniferous forests. Ecology 39:599-619."												
-Yellow-rumped Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Morse, D. H. 1968. A quantitative study of foraging of male and female spruce-woods warblers Dendroica magnolia, Dendroica coronata, Dendroica virens, Dendroica fusca. Ecology 49:779-784."												
+Yellow-rumped Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Macarthur, R. H. 1958. Population ecology of some warblers of northeastern coniferous forests. Ecology 39:599-619."	y	n										
+Yellow-rumped Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Morse, D. H. 1968. A quantitative study of foraging of male and female spruce-woods warblers Dendroica magnolia, Dendroica coronata, Dendroica virens, Dendroica fusca. Ecology 49:779-784."	y	n										
 Yellow-rumped Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Morse, D. H. 1989a. American Warblers: an ecological and behavioral perspective. Harvard Univ. Press, Cambridge, MA."												
 Yellow-rumped Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Bent, A. C. 1953. Life histories of North American wood warblers. U.S. Natl. Mus. Bull. 203."												
 Yellow-rumped Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Franzreb, K. E. 1983a. Inter-sexual habitat partitioning in Yellow-rumped Warblers Dendroica coronata during the breeding season. Wilson Bull. 95:581-590."												
@@ -6998,7 +6998,7 @@ Yellow-rumped Warbler	Parulidae	2003	Feeding	Food Capture And Consumption	"Franz
 Yellow-rumped Warbler	Parulidae	2003	Feeding	Food Capture And Consumption	"Forbush, E. H. 1929. Birds of Massachusetts and other New England states. Pt. 3. Massachusetts Dept. Agriculture, Boston, MA."												
 Yellow-rumped Warbler	Parulidae	2003	Feeding	Food Capture And Consumption	"Morse, D. H. 1981. Foraging speeds of warblers in large populations and in isolation. Wilson Bull. 93:334-339."												
 Yellow-rumped Warbler	Parulidae	2003	Feeding	Food Capture And Consumption	"Morse, D. H. 1976b. Hostile encounters among spruce-woods warblers (Dendroica Parulidae). Anim. Behav. 24:764-771."												
-Yellow-rumped Warbler	Parulidae	2003	Feeding	Food Capture And Consumption	"Morse, D. H. 1971. The foraging of warblers isolated on small islands. Ecology 52:216-228."												
+Yellow-rumped Warbler	Parulidae	2003	Feeding	Food Capture And Consumption	"Morse, D. H. 1971. The foraging of warblers isolated on small islands. Ecology 52:216-228."	y	n										
 Yellow-rumped Warbler	Parulidae	2003	Feeding	Food Capture And Consumption	"Martin, T. E. and J. R. Karr. 1990. Behavioral plasticity of foraging maneuvers of migratory warblers: multiple selection periods for niches? Stud. Avian Biol. 13:353-359."												
 Yellow-rumped Warbler	Parulidae	2003	Feeding	Food Capture And Consumption	"Petit, D. R., K. E. Petit, and L. J. Petit. 1990. Geographic variation in foraging ecology of North American insectivorous birds. Stud. Avian Biol. 13:254-263."												
 Yellow-rumped Warbler	Parulidae	2003	Feeding	Food Capture And Consumption	"Block, W. M. 1990. Geographic variation in foraging ecologies of breeding and nonbreeding birds in oak woodlands. Stud. Avian Biol. 13:264-269."												
