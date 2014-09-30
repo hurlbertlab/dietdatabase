@@ -6777,11 +6777,11 @@ Hermit Warbler	Parulidae	1997	Feeding	Microhabitat For Foraging	"Airola, D. A. a
 Hermit Warbler	Parulidae	1997	Diet		"Hutto, R. L. 1987. A description of mixed-species insectivorous bird flocks in western Mexico. Condor 89:282-292."	y	n										
 Hermit Warbler	Parulidae	1997	Feeding	Main Foods Taken	"Bowles, J. H. 1906. The Hermit Warbler in Washington. Condor 8:40-42."	y	n										
 Kentucky Warbler	Parulidae	1998	Diet	Major Food Items	"Howell, A. H. 1924. Birds of Alabama. Brown Printing Co. Montgomery, AL."	y	y										
-Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Coates-Estrada, R. and A. Estrada. 1989. Avian attendance and foraging at army ant swarms in the tropical rain forest of Los Tuxtlas Veracruz Mexico. J. Trop. Ecol. 53:281-292."												
-Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Willis, E. O. 1986. Vireos, wood warblers and warblers as ant followers. Le Gerfaut. 76:177-186."												
-Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Wetmore, A., R. F. Pasquier, and S. L. Olson. 1984. The birds of the Republic of Panama, Part 4. Smithson. Misc. Coll. 150."												
-Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Forbush, E. H. 1929. Birds of Massachusetts and other New England states. Vol. 3. Mass. Dep. Agric."												
-Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Willis, E. O. 1966. The role of migrant birds at swarms of army ants. Living Bird 5:187-231."												
+Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Coates-Estrada, R. and A. Estrada. 1989. Avian attendance and foraging at army ant swarms in the tropical rain forest of Los Tuxtlas Veracruz Mexico. J. Trop. Ecol. 53:281-292."	y	n										
+Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Willis, E. O. 1986. Vireos, wood warblers and warblers as ant followers. Le Gerfaut. 76:177-186."	n		NA									
+Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Wetmore, A., R. F. Pasquier, and S. L. Olson. 1984. The birds of the Republic of Panama, Part 4. Smithson. Misc. Coll. 150."	y	n										
+Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Forbush, E. H. 1929. Birds of Massachusetts and other New England states. Vol. 3. Mass. Dep. Agric."	y	n										
+Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Willis, E. O. 1966. The role of migrant birds at swarms of army ants. Living Bird 5:187-231."	n		NA									
 Kirtland's Warbler	Parulidae	1992	Feeding		"Radabaugh, B. E. 1974. Kirtland's Warbler and its Bahama wintering ground. Wilson Bull. 86:374-383."	y	n										
 Kirtland's Warbler	Parulidae	1992	Diet		"Sykes, Jr., P. W. 1989. Kirtland's Warblers on their wintering grounds in the Bahamas Archipelago-a preliminary report. Proc. Kirtland's Warbler Symposium. U.S. Forest Service, Lansing, Michigan."												
 MacGillivray's Warbler	Parulidae	1995	Diet	Major Food Items	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."												
