@@ -6782,8 +6782,10 @@ Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Willis, E. O.
 Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Wetmore, A., R. F. Pasquier, and S. L. Olson. 1984. The birds of the Republic of Panama, Part 4. Smithson. Misc. Coll. 150."	y	n										
 Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Forbush, E. H. 1929. Birds of Massachusetts and other New England states. Vol. 3. Mass. Dep. Agric."	y	n										
 Kentucky Warbler	Parulidae	1998	Feeding	Microhabitat For Foraging	"Willis, E. O. 1966. The role of migrant birds at swarms of army ants. Living Bird 5:187-231."	n		NA									
-Kirtland's Warbler	Parulidae	1992	Feeding		"Radabaugh, B. E. 1974. Kirtland's Warbler and its Bahama wintering ground. Wilson Bull. 86:374-383."	y	n										
-Kirtland's Warbler	Parulidae	1992	Diet		"Sykes, Jr., P. W. 1989. Kirtland's Warblers on their wintering grounds in the Bahamas Archipelago-a preliminary report. Proc. Kirtland's Warbler Symposium. U.S. Forest Service, Lansing, Michigan."												
+Kirtland's Warbler	Parulidae	2001	Feeding		"Radabaugh, B. E. 1974. Kirtland's Warbler and its Bahama wintering ground. Wilson Bull. 86:374-383."	y	n	Need data for this species									
+Kirtland's Warbler	Parulidae	2001	Diet		"Sykes, Jr., P. W. 1989. Kirtland's Warblers on their wintering grounds in the Bahamas Archipelago-a preliminary report. Proc. Kirtland's Warbler Symposium. U.S. Forest Service, Lansing, Michigan."	y	n										
+Kirtland's Warbler	Parulidae	2001	Feeding		"Mayfield, H.F. 1972. Winter habitat of Kirtland’s warbler. Wilson Bulletin 84(3):347-349."	y	n										
+Kirtland's Warbler	Parulidae	2001	Diet	Quantitative Analysis	"Deloria-Sheffield, C.M., et al. 2001. Kirtland's warbler diet as determined through fecal analysis. Wilson Bulletin 113(4): 384-387."												
 MacGillivray's Warbler	Parulidae	1995	Diet	Major Food Items	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."												
 MacGillivray's Warbler	Parulidae	1995	Feeding	Microhabitat For Foraging	"Morrison, M. L. 1981. The structure of western warbler assemblages: analysis of foraging behavior and habitat selection in Oregon. Auk 98:578-588."	y	n										
 MacGillivray's Warbler	Parulidae	1995	Feeding	Microhabitat For Foraging	"Cody, M. L. 1974. Bird communities. Princeton Univ. Press, Princeton, NJ."												
