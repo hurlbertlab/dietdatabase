@@ -6853,12 +6853,12 @@ Pine Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Emlen, J. T. and 
 Pine Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Morse, D. H. 1974. Foraging of Pine Warblers allopatric and sympatric to Yellow-throated Warblers. Wilson Bull. 86:474-477."	y	n										
 Pine Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Emlen, J. T. 1981. Divergence in the foraging responses of birds on two Bahama islands. Ecology 62:289-295."	y	n										
 Pine Warbler	Parulidae	1999	Diet		"Sample, B. E., R. J. Cooper, and R. C. Whitmore. 1993. Dietary shifts among songbirds in a diflubenzuron-treated forest. Condor 95:616624."	y	n										
-Pine Warbler	Parulidae	1999	Metabolism And Temperature Regulation		"Dorsey, T. 1986. Winter Pine Warbler in Austin. Loon 58:48."												
-Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Skinner, M. P. 1928. A guide to the winter birds of the North Carolina Sandhills. Sci. Press Printing Co. Albany, NY."												
-Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Brush, T. and E. W. Stiles. 1990. Habitat use by breeding birds in the New Jersey pine barrens. Bull. N.J. Acad. Sci. 35:13-16."												
-Pine Warbler	Parulidae	1999	Metabolism And Temperature Regulation		"Root, T. 1988a. Atlas of wintering North American birds. Univ. of Chicago Press, Chicago, IL."												
+Pine Warbler	Parulidae	1999	Metabolism And Temperature Regulation		"Dorsey, T. 1986. Winter Pine Warbler in Austin. Loon 58:48."	y	n										
+Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Skinner, M. P. 1928. A guide to the winter birds of the North Carolina Sandhills. Sci. Press Printing Co. Albany, NY."	y	n										
+Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Brush, T. and E. W. Stiles. 1990. Habitat use by breeding birds in the New Jersey pine barrens. Bull. N.J. Acad. Sci. 35:13-16."	n 		NA									
+Pine Warbler	Parulidae	1999	Metabolism And Temperature Regulation		"Root, T. 1988a. Atlas of wintering North American birds. Univ. of Chicago Press, Chicago, IL."	y	n										
 Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Morse, D. H. 1967. Foraging relationships of Brown-headed Nuthatches and Pine Warblers. Ecology 48:94-103."	y	n										
-Pine Warbler	Parulidae	1999	Diet		"Nesbitt, S. A. and W. M. Hetrick. 1976. Foods of the Pine Warbler and Brown-headed Nuthatch. Fla. Field Nat. 4:28-33."												
+Pine Warbler	Parulidae	1999	Diet	Quantitative Analysis	"Nesbitt, S. A. and W. M. Hetrick. 1976. Foods of the Pine Warbler and Brown-headed Nuthatch. Fla. Field Nat. 4:28-33."	y	y										
 Pine Warbler	Parulidae	1999	Diet		"Leatherman, D. A. 1993. Some feeding observations of Pine Warblers wintering in Boulder, Colorado. Colo. Field Ornithol. J. 27:140-141."	y	n										
 Pine Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Latta, S. C. and J. M. Wunderle, Jr. 1998. The assemblage of birds foraging in native West Indian pine (Pinus occidentalis) forests of the Dominican Republic during the non-breeding season. Biotropica 30:645-656."												
 Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Petit, D. R., K. E. Petit, and L. J. Petit. 1990. Geographic variation in foraging ecology of North American insectivorous birds. Stud. Avian Biol. 13:254-263."												
@@ -6866,6 +6866,7 @@ Pine Warbler	Parulidae	1999	Feeding	Food Capture And Consumption	"Roberts, T. S.
 Pine Warbler	Parulidae	1999	Metabolism And Temperature Regulation		"Root, T. 1988b. Energy constraints on avian distributions and abundances. Ecology 69:330-339."	y	n										
 Pine Warbler	Parulidae	1999	Diet		"Bent, A. C. 1953. Life histories of North American wood warblers. U.S. Natl. Mus. Bull. 203."												
 Pine Warbler	Parulidae	1999	Diet		"Potter, E. F. 1983. Ingestion of grit by wood warblers. Chat 47:103-104."												
+Pine Warbler	Parulidae	2000	Diet		"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."	y	y										
 Pine Warbler	Parulidae	1999	Metabolism And Temperature Regulation		"Yarbrough, C. G. 1971. The influence of distribution and ecology on the thermoregulation of small birds. Comp. Biochem. Physiol. 39A:235-266."												
 Prairie Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Stacier, C. A. 1992. Social behavior of the Northern Parula, Cape May Warbler, and Prairie Warbler wintering in second-growth forest in southwestern Puerto Rico. Pages 308-320 in Ecology and conservation of neotropical migrant landbirds. (Hagan III, J. M. and D. W. Johnston, Eds.) Smithson. Inst. Press, Washington, D.C."												
 Prairie Warbler	Parulidae	1999	"Drinking, Pellet-Casting, And Defecation"		"James, F. C. 1971. Ordinations of habitat relationships among breeding birds. Wilson Bull. 83:215-236."	y	n										
@@ -9493,7 +9494,7 @@ Brown-headed Nuthatch	Sittidae	1998	Feeding	Microhabitat For Foraging	"Bent, A. 
 Brown-headed Nuthatch	Sittidae	1998	Feeding	Food Capture And Consumption	"Pranty, B. 1995. Tool use by Brown-headed Nuthatches in two Florida slash pine forests. Fla. Field Nat. 23:33-34."												
 Brown-headed Nuthatch	Sittidae	1998	Feeding	Food Capture And Consumption	"Morse, D. H. 1970. Ecological aspects of some mixed-species foraging flocks of birds. Ecol. Monogr. 40:119-168."												
 Brown-headed Nuthatch	Sittidae	1998	Feeding	Main Foods Taken	"Norris, R. A. 1958. Comparative biosystematics and life history of the nuthatches Sitta pygmaea and Sitta pusilla. Univ. Calif. Publ. Zool. 56:119-300."												
-Brown-headed Nuthatch	Sittidae	1998	Feeding	Main Foods Taken	"Nesbitt, S. A. and W. M. Hetrick. 1976. Foods of the Pine Warbler and Brown-headed Nuthatch. Fla. Field Nat. 4:28-33."												
+Brown-headed Nuthatch	Sittidae	1998	Feeding	Main Foods Taken	"Nesbitt, S. A. and W. M. Hetrick. 1976. Foods of the Pine Warbler and Brown-headed Nuthatch. Fla. Field Nat. 4:28-33."	y	y										
 Brown-headed Nuthatch	Sittidae	1998	Feeding	Microhabitat For Foraging	"Slater, G. 1997. Brown-headed Nuthatches and Eastern Bluebirds in southern Florida pinelands: breeding biology, nest-site selection, and the influence of habitat on nesting success. Master's Thesis. Univ. of Florida, Gainesville."												
 Brown-headed Nuthatch	Sittidae	1998	Feeding	Microhabitat For Foraging	"Morse, D. H. 1967. Foraging relationships of Brown-headed Nuthatches and Pine Warblers. Ecology 48:94-103."												
 Pygmy Nuthatch	Sittidae	2001	Feeding	Microhabitat For Foraging	"Ewell, H. and A. Cruz. 1998. Foraging behavior of the Pygmy Nuthatch in Colorado ponderosa pine forests. West. Birds 29:169-173."												
