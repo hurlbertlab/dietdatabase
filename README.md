@@ -26,8 +26,8 @@ $ cd /c/git/dietdatabase
 $ git pull origin master
 ```
 
-You can now open the database file ('AvianDietDatabase.csv') in Excel or Open Office and begin entering data. More details
-on this below. When you are finished with data entry for the day, be sure to Save As a .csv file (with the same name,
+You can now open the database file ('AvianDietDatabase.txt') in Excel or Open Office and begin entering data. More details
+on this below. When you are finished with data entry for the day, be sure to Save As a tab-delimited .txt file (with the same name,
 in the same folder).
 
 Now you need to stage your committed changes, add a descriptive message of what you've added, and 'push' the new version
