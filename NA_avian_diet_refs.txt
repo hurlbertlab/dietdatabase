@@ -6786,6 +6786,7 @@ Kirtland's Warbler	Parulidae	2001	Feeding		"Radabaugh, B. E. 1974. Kirtland's Wa
 Kirtland's Warbler	Parulidae	2001	Diet		"Sykes, Jr., P. W. 1989. Kirtland's Warblers on their wintering grounds in the Bahamas Archipelago-a preliminary report. Proc. Kirtland's Warbler Symposium. U.S. Forest Service, Lansing, Michigan."	y	n										
 Kirtland's Warbler	Parulidae	2001	Feeding		"Mayfield, H.F. 1972. Winter habitat of Kirtland?s warbler. Wilson Bulletin 84(3):347-349."	y	n										
 Kirtland's Warbler	Parulidae	2001	Diet	Quantitative Analysis	"Deloria-Sheffield, C.M., et al. 2001. Kirtland's warbler diet as determined through fecal analysis. Wilson Bulletin 113(4): 384-387."	y	y										
+Lucy's Warbler	Parulidae	2004	Diet	Quantitative Analysis	"Yard, H.K., C. Van Riper III, B.T. Brown, and M.J. Kearsley. 2004. Diets of insectivorous birds along the Colorado River in Grand Canyon, Arizona. Condor 106(1): 106-115."	y	y										
 MacGillivray's Warbler	Parulidae	2003	Diet	Major Food Items	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."	y	n										
 MacGillivray's Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Morrison, M. L. 1981. The structure of western warbler assemblages: analysis of foraging behavior and habitat selection in Oregon. Auk 98:578-588."	y	n										
 MacGillivray's Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Cody, M. L. 1974. Bird communities. Princeton Univ. Press, Princeton, NJ."	y	n										
@@ -11038,15 +11039,16 @@ Xantus's Hummingbird	Trochilidae	2000	Diet	Nectar Plants	"Arriaga, L., R. Rodrig
 Xantus's Hummingbird	Trochilidae	2000	Diet	Arthropod Consumption	"Schuchmann, K. L. 1999. Family Trochilidae (Hummingbirds). Pages 468-680 in Handbook of the birds of the world. Vol. 5 (del Hoyo, J., A. Elliott, and J. Sargatal, Eds.) Lynx Edicions, Barcelona."												
 Xantus's Hummingbird	Trochilidae	2000	Diet	Arthropod Consumption	"Lamb, C. C. 1925. Observations of the Xantus' Hummingbird. Condor 27:89-92."												
 Xantus's Hummingbird	Trochilidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Calder III, W. A. and S. M. Hiebert. 1983. Nectar feeding, diuresis, and electrolyte replacement of hummingbirds. Physiol. Zool. 56:325-334."												
-Bewick's Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Miller, E. V. 1941. Behavior of the Bewick Wren. Condor 43:81-99."												
-Bewick's Wren	Troglodytidae	1997	Diet		"Bibbee, P. C. 1947. The Bewick's Wren (Thryomanes bewickii (Audubon)). Phd Thesis. Cornell Univ. Ithaca, NY."												
-Bewick's Wren	Troglodytidae	1997	Diet		"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dept. Agric. Biol. Surv. Bull. 30."												
-Bewick's Wren	Troglodytidae	1997	Diet		"Kyle, P. and G. Kyle. 1987. Hand-rearing Carolina and Bewick's Wrens. Wildl. J. 10:4-8."												
-Bewick's Wren	Troglodytidae	1997	Diet		"Farley, G. H. 1987. Comparative breeding strategies of two coexisting passerines: Bell's Vireo (Vireo bellii) and Bewick's Wren (Thryomanes bewickii). Master's Thesis. Kansas State Univ., Manhattan."												
-Bewick's Wren	Troglodytidae	1997	Feeding	Food Capture And Consumption	"Jehl, S. J., J. Verner, and G. W. Bell. 1990. Sequential versus initial observations in studies of avian foraging. Stud. Avian Biol. 13:166-173."												
-Bewick's Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Miles, D. B. 1990. The importance and consequences of temporal variation in avian foraging behavior. Stud. Avian Biol. 13:210-217."												
-Bewick's Wren	Troglodytidae	1997	Nutrition And Energetics		"Hendricks, P. and L. N. Hendricks. 1995. Behavior and interaction of Bewick's and House Wrens at a common dusting site, with comments on the utility of dusting. J. Field Ornithol. 66:492-496."												
-Bewick's Wren	Troglodytidae	1997	Feeding	Food Capture And Consumption	"Panik, H. R. 1976. The vertebrate structure of a pi????on-juniper woodland community in Northwestern Nevada. Phd Thesis. Univ. of Nevada, Reno."												
+Bewick's Wren	Troglodytidae	2004	Feeding	Microhabitat For Foraging	"Miller, E. V. 1941. Behavior of the Bewick Wren. Condor 43:81-99."												
+Bewick's Wren	Troglodytidae	2004	Diet		"Bibbee, P. C. 1947. The Bewick's Wren (Thryomanes bewickii (Audubon)). Phd Thesis. Cornell Univ. Ithaca, NY."												
+Bewick's Wren	Troglodytidae	2004	Diet		"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dept. Agric. Biol. Surv. Bull. 30."												
+Bewick's Wren	Troglodytidae	2004	Diet		"Kyle, P. and G. Kyle. 1987. Hand-rearing Carolina and Bewick's Wrens. Wildl. J. 10:4-8."												
+Bewick's Wren	Troglodytidae	2004	Diet		"Farley, G. H. 1987. Comparative breeding strategies of two coexisting passerines: Bell's Vireo (Vireo bellii) and Bewick's Wren (Thryomanes bewickii). Master's Thesis. Kansas State Univ., Manhattan."												
+Bewick's Wren	Troglodytidae	2004	Feeding	Food Capture And Consumption	"Jehl, S. J., J. Verner, and G. W. Bell. 1990. Sequential versus initial observations in studies of avian foraging. Stud. Avian Biol. 13:166-173."												
+Bewick's Wren	Troglodytidae	2004	Feeding	Microhabitat For Foraging	"Miles, D. B. 1990. The importance and consequences of temporal variation in avian foraging behavior. Stud. Avian Biol. 13:210-217."												
+Bewick's Wren	Troglodytidae	2004	Nutrition And Energetics		"Hendricks, P. and L. N. Hendricks. 1995. Behavior and interaction of Bewick's and House Wrens at a common dusting site, with comments on the utility of dusting. J. Field Ornithol. 66:492-496."												
+Bewick's Wren	Troglodytidae	2004	Feeding	Food Capture And Consumption	"Panik, H. R. 1976. The vertebrate structure of a pi????on-juniper woodland community in Northwestern Nevada. Phd Thesis. Univ. of Nevada, Reno."												
+Bewick's Wren	Troglodytidae	2004	Diet	Quantitative Analysis	"Yard, H.K., C. Van Riper III, B.T. Brown, and M.J. Kearsley. 2004. Diets of insectivorous birds along the Colorado River in Grand Canyon, Arizona. Condor 106(1): 106-115."	y	y										
 Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers, and their allies. U.S. Natl. Mus. Bull. 195."												
 Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Mirsky, E. N. 1976. Ecology of co-existence in a wren-wrentit-warbler guild. Phd Thesis. Univ. of California, Los Angeles."												
 Canyon Wren	Troglodytidae	1995	Feeding	Food Capture And Consumption	"Martin, R. F. 1971. The Ca????on Wren (Catherpes mexicanus) raiding food storage of a trypoxylid wasp. Auk 88:677."												
@@ -11376,6 +11378,7 @@ Ash-throated Flycatcher	Tyrannidae	2002	"Drinking, Pellet-Casting, And Defecatio
 Ash-throated Flycatcher	Tyrannidae	2002	Metabolism And Temperature Regulation		"Bohlen, H. D. 1975. Ash-throated Flycatcher in Illinois: summary of records east of the Mississippi River. Auk 92:165-166."	y	n										
 Ash-throated Flycatcher	Tyrannidae	2002	Feeding	Food Capture And Consumption	"Barrett, N. M. 1987. Ash-throated Flycatcher feeding on a mouse. Oreg. Birds 13:35."	y	n										
 Ash-throated Flycatcher	Tyrannidae	2002	Feeding	Food Capture And Consumption	"Alsop III, F. J. 1990. First Tennessee record of the Ash-throated Flycatcher. Migrant 61:41-43."	y	n										
+Ash-throated Flycatcher	Tyrannidae	2004	Diet	Quantitative Analysis	"Yard, H.K., C. Van Riper III, B.T. Brown, and M.J. Kearsley. 2004. Diets of insectivorous birds along the Colorado River in Grand Canyon, Arizona. Condor 106(1): 106-115."	y	y										
 Black Phoebe	Tyrannidae	1997	Diet	Quantitative Analysis	"Ross, R. C. 1933. Do Black Phoebes eat honey-bees. Condor 35:232."	y 	n										
 Black Phoebe	Tyrannidae	1997	Diet	Quantitative Analysis	"Howell, A. B. 1924. The Black Phoebe as a fisherman. Condor 26:191."	y	n										
 Black Phoebe	Tyrannidae	1997	Diet	Quantitative Analysis	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River valley. Univ. of Arizona Press, Tucson."	y	n										
