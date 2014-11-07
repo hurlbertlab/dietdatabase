@@ -6969,7 +6969,7 @@ Yellow Warbler	Parulidae	2004	Diet	Quantitative Analysis	"Graber, J. W., R. R. G
 Yellow Warbler	Parulidae	2004	Diet	Quantitative Analysis	"Morton, E. S. 1976. The adaptive significance of dull coloration in Yellow Warblers. Condor 78:423."	y	n										
 Yellow Warbler	Parulidae	2004	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"	y	y										
 Yellow Warbler	Parulidae	2004	Diet	Quantitative Analysis	"Yard, H.K., C. Van Riper III, B.T. Brown, and M.J. Kearsley. 2004. Diets of insectivorous birds along the Colorado River in Grand Canyon, Arizona. Condor 106(1): 106-115."	y	y										
-Yellow-breasted Chat	Parulidae	2012	Feeding	Main Foods Taken	"Bent, A. C. 1953. Life histories of North American wood warblers. U.S. Natl. Mus. Bull. 203."	y	n	Need data for this species									
+Yellow-breasted Chat	Parulidae	2012	Feeding	Main Foods Taken	"Bent, A. C. 1953. Life histories of North American wood warblers. U.S. Natl. Mus. Bull. 203."	y	n										
 Yellow-breasted Chat	Parulidae	2012	Feeding	Main Foods Taken	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	y	n										
 Yellow-breasted Chat	Parulidae	2012	Feeding	Main Foods Taken	"Schadd, C. A. 1995. Adult provisioning behavior and nestling begging behavior in the Yellow-breasted Chat (Icteria virens). Master's Thesis. Eastern Kentucky Univ. Richmond."	y	n										
 Yellow-breasted Chat	Parulidae	2012	Feeding	Main Foods Taken	"Petrides, G. A. 1938. A life history study of the Yellow-breasted Chat. Wilson Bull. 50:184-189."	y	n										
