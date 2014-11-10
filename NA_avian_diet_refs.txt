@@ -3826,9 +3826,9 @@ Chipping Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Baumgartner
 Chipping Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Pulliam, H. R. and G. S. Mills. 1977. The use of space by wintering sparrows. Ecology 58:1393-1399."												
 Chipping Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Peterjohn, B. G. 1989. The birds of Ohio. Indiana Univ. Press, Bloomington."												
 Chipping Sparrow	Emberizidae	1998	Diet	Plant Foods	"Veit, R. R. and W. R. Petersen. 1993. Birds of Massachusetts. Massachusetts Audubon Soc., Lincoln, MA."												
-Chipping Sparrow	Emberizidae	1998	Feeding	Main Foods Taken	"Crook, D. 1975. Chipping Sparrows feeding grit to offspring. Wilson Bull. 87:552."												
-Chipping Sparrow	Emberizidae	1998	Nutrition And Energetics		"Browning, N. G. and R. J. Robel. 1981. Metabolizable energy in four seeds fed to Cardinals. Trans. Kans. Acad. Sci. 84:115-118."												
-Chipping Sparrow	Emberizidae	1998	Feeding	Main Foods Taken	"Judd, S. D. 1900. The food of nestling birds. Pages 411-436 in U.S. Dep. Agric. Yearbook."												
+Chipping Sparrow	Emberizidae	1998	Feeding	Main Foods Taken	"Crook, D. 1975. Chipping Sparrows feeding grit to offspring. Wilson Bull. 87:552."	y	n										
+Chipping Sparrow	Emberizidae	1998	Nutrition And Energetics		"Browning, N. G. and R. J. Robel. 1981. Metabolizable energy in four seeds fed to Cardinals. Trans. Kans. Acad. Sci. 84:115-118."	y	n										
+Chipping Sparrow	Emberizidae	1998	Feeding	Main Foods Taken	"Judd, S. D. 1900. The food of nestling birds. Pages 411-436 in U.S. Dep. Agric. Yearbook."	y	N/A	"Unsure if useful, is more than a paper, more of a book, difficult to find information."									
 Chipping Sparrow	Emberizidae	1998	Metabolism And Temperature Regulation		"Dawson, W. R. and F. C. Evans. 1957. Relation of growth and development to temperature regulation in nestling Field and Chipping Sparrows. Physiol. Zool. 30:315-327."												
 Chipping Sparrow	Emberizidae	1998	Diet		"Judd, S. D. 1901. The relation of sparrows to agriculture. U.S. Dep. Agric. Biol. Surv. 15:76-78."												
 Chipping Sparrow	Emberizidae	1998	Feeding	Main Foods Taken	"Allaire, P. N. and C. D. Fisher. 1975. Feeding ecology of three resident sympatric sparrows in eastern Texas. Auk 92:260-269."	y	y										
