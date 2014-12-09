@@ -11142,10 +11142,10 @@ American Robin	Turdidae	1999	Feeding	Microhabitat For Foraging	"Paszkowski, C. A
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Hamilton, Jr., W. J. 1940. Summer food of the Robin determined by fecal analyses. Wilson Bull. 52:179-182."												
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Heppner, F. 1965. Sensory mechanisms and environmental clues used by the American Robin in locating earthworms. Condor 67:247-256."												
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Richmond, M. L. 1975. American Robin feeds garter snake to its nestlings. Wilson Bull. 87:552."												
-American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Wheelwright, N. T. 1986. The diet of American Robins: an analysis of U.S. Biological Survey records. Auk 103:710-725."	y	y										
+American Robin	Turdidae	1999	Feeding	Quantitative Analysis	"Wheelwright, N. T. 1986. The diet of American Robins: an analysis of U.S. Biological Survey records. Auk 103:710-725."	y	y										
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Gochfield, M. and J. Burger. 1984. Age differences in foraging behavior of the American Robin (Turdus migratorius). Anim. Behav. 32:227-239."												
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Courtney, S. P. and R. Sallabanks. 1992. It takes guts to handle fruits. Oikos 65:163-166."												
-American Robin	Turdidae	1999	Food Selection And Storage		"Levey, D. J. and W. H. Karasov. 1989. Digestive responses of temperate birds switched to fruit or insect diets. Auk 106:675-686."												
+American Robin	Turdidae	1999	Food Selection And Storage		"Levey, D. J. and W. H. Karasov. 1989. Digestive responses of temperate birds switched to fruit or insect diets. Auk 106:675-686."	y	n										
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Netting, M. G. 1969. Does the robin eat DeKay's snake? Wilson Bull. 81:471."												
 American Robin	Turdidae	1999	Food Selection And Storage		"Sallabanks, R. and S. P. Courtney. 1993. On fruit-frugivore relationships: variety is the spice of life. Oikos 68:567-570."												
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Chavez-Ramirez, F. and R. D. Slack. 1994. Effects of avian foraging and post-foraging behavior on seed dispersal patterns of Ashe juniper. Oikos 71:40-46."												
