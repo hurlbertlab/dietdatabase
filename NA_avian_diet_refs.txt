@@ -11132,14 +11132,14 @@ American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Levey, D. J. 
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Beal, F. E. L. 1915. Food of the robins and bluebirds of the United States. U.S. Dep. Agric. Bull. 171."												
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Sallabanks, R. and S. P. Courtney. 1992. Frugivory, seed predation, and insect-vertebrate interactions. Ann. Rev. Entomol. 37:377-400."												
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Phillips, J. C. 1927. Catbirds and robins as fisheaters. Bird-Lore 29:342-343."												
-American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Davis, W. F. 1969. Robin kills snake. Wilson Bull. 81:470-471."												
+American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Davis, W. F. 1969. Robin kills snake. Wilson Bull. 81:470-471."	y	n										
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Kimball, J. W. 1944. A fishy bird story. Auk 61:646-647."	y	n										
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Bayer, R. D. 1980. Novel use of an unusual food: American Robin eating parts of fish. J. Field Ornithol. 51:74-75."												
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Michael, C. W. 1934. Unusual behavior of the western robin. Condor 36:33-34."												
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Erickson, D. B. 1978. Robin feeding upon snake. Murrelet 59:26."												
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Sallabanks, R. 1997. Packing fruits at dusk: Fuel storage in an American Robin wintering in western Oregon. Northwest. Nat. 78:62-64."												
 American Robin	Turdidae	1999	Feeding	Microhabitat For Foraging	"Paszkowski, C. A. 1982. Vegetation, ground, and frugivorous foraging of the American Robin. Auk 99:701-709."	y	n										
-American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Hamilton, Jr., W. J. 1940. Summer food of the Robin determined by fecal analyses. Wilson Bull. 52:179-182."												
+American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Hamilton, Jr., W. J. 1940. Summer food of the Robin determined by fecal analyses. Wilson Bull. 52:179-182."	y	y	Add data									
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Heppner, F. 1965. Sensory mechanisms and environmental clues used by the American Robin in locating earthworms. Condor 67:247-256."												
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Richmond, M. L. 1975. American Robin feeds garter snake to its nestlings. Wilson Bull. 87:552."												
 American Robin	Turdidae	1999	Feeding	Quantitative Analysis	"Wheelwright, N. T. 1986. The diet of American Robins: an analysis of U.S. Biological Survey records. Auk 103:710-725."	y	y										
@@ -11153,13 +11153,13 @@ American Robin	Turdidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Sallab
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"White, D. W. and E. W. Stiles. 1990. Co-occurrences of foods in stomachs and feces of fruit-eating birds. Condor 92:291-303."												
 American Robin	Turdidae	1999	Food Selection And Storage		"Murray, K. G., K. Winnett-Murray, E. A. Crombie, M. Minor, and E. Meyers. 1993. The influence of seed packaging and fruit color on feeding preferences of American Robins. Vegetatio 107/108:217-226."												
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Hall, K. J. and T. G. Northcote. 1986. A novel terrestrial-freshwater linkage: robin predation on damselfly nymphs. Discovery (Vancouver Nat. Hist. Soc.) 15:107-109."												
-American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Bergtold, W. H. 1930. Intoxicated robins. Auk 37:571."												
-American Robin	Turdidae	1999	Food Selection And Storage		"Wheelwright, N. T. 1988. Seasonal changes in food preferences of American Robins in captivity. Auk 105:374-379."												
+American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Bergtold, W. H. 1930. Intoxicated robins. Auk 47:571."	y	n										
+American Robin	Turdidae	1999	Food Selection And Storage		"Wheelwright, N. T. 1988. Seasonal changes in food preferences of American Robins in captivity. Auk 105:374-379."	y	n										
 American Robin	Turdidae	1999	Food Selection And Storage		"Willson, M. F. 1994. Fruit choice by captive American Robins. Condor 96:494-502."												
-American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Eiserer, L. A. 1980a. Effects of grass length and mowing on foraging behavior of the American Robin (Turdus migratorius). Auk 97:576-580."												
-American Robin	Turdidae	1999	Food Selection And Storage		"Jung, R. E. 1992. Individual variation in fruit choice by American Robins (Turdus migratorius). Auk 109:98-111."												
+American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Eiserer, L. A. 1980a. Effects of grass length and mowing on foraging behavior of the American Robin (Turdus migratorius). Auk 97:576-580."	y	n										
+American Robin	Turdidae	1999	Food Selection And Storage		"Jung, R. E. 1992. Individual variation in fruit choice by American Robins (Turdus migratorius). Auk 109:98-111."	y	n										
 American Robin	Turdidae	1999	Nutrition And Energetics		"Hazelton, P. K., R. J. Robel, and A. D. Dayton. 1984. Preferences and influence of paired food items on energy intake of American Robins and Gray Catbirds. J. Wildl. Manage. 48:198-202."												
-American Robin	Turdidae	1999	Nutrition And Energetics		"Kendeigh, S. C. 1969. Tolerance of cold and Bergmann's Rule. Auk 86:13-25."												
+American Robin	Turdidae	1999	Nutrition And Energetics		"Kendeigh, S. C. 1969. Tolerance of cold and Bergmann's Rule. Auk 86:13-25."	y	n										
 American Robin	Turdidae	1999	Food Selection And Storage		"Cipollini, M. L. and E. W. Stiles. 1993. Fruit rot, antifungal defense, and palatability of fleshy fruits for frugivorous birds. Ecology 74:751-762."												
 American Robin	Turdidae	1999	Food Selection And Storage		"Lepczyk, C. A. 1993. Assimilation efficiencies and preferences of lipids and reducing sugars in the American Robin (Turdus migratorius). Bios 64:122-129."												
 American Robin	Turdidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Crossland, D. R. and S. P. V. Kloet. 1996. Berry consumption by the American Robin, Turdus migratorius, and the subsequent effect on seed germination, plant vigour, and dispersal of the Lowbush Blueberry, Vaccinium angustifolium. Can. Field-Nat. 110:303-309."												
@@ -11182,7 +11182,7 @@ Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Frazier, 
 Eastern Bluebird	Turdidae	1998	Feeding	Food Capture And Consumption	"Preston, F. W. and J. McCormick. 1948. The eyesight of the bluebird. Wilson Bull. 60:120-121."												
 Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Pinkowski, B. C. 1977c. Foraging behavior of the eastern bluebird. Wilson Bull. 89:404-414."												
 Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."												
-Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Goldman, P. 1975. Hunting behavior of eastern bluebirds. Auk 92:798-801."												
+Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Goldman, P. 1975. Hunting behavior of eastern bluebirds. Auk 92:798-801."	y	n										
 Eastern Bluebird	Turdidae	1998	Nutrition And Energetics		"Buser, C. S. 1980. A time and energy budget study of the eastern bluebird (Sialia sialis) during the breeding season. Master's Thesis. Rutgers Univ. New Brunswick, NJ."												
 Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Pitts, T. D. 1977b. Eastern bluebird mortality at winter roosts in Tennessee. Bird-Banding 49:77-78."												
 Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Pinkowski, B. C. 1974f. Predation on a shrew by an eastern bluebird. Wilson Bull. 86:83."												
@@ -11191,10 +11191,10 @@ Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Bent, A. C. 1949. Lif
 Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Droge, D. L., P. A. Gowaty, and W. W. Weathers. 1991. Sex-biased provisioning: a test for differences in field metabolic rates of nestling eastern bluebirds. Condor 93:793-798."												
 Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Forbes, S. A. 1903. The food of birds. Bull. Illinois Lab. Nat. Hist. 1:86-162."												
 Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Flanigan, A. B. 1971. Predation on snakes by eastern bluebird and brown thrasher. Wilson Bull. 83:441."												
-Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Parker, R. L. and I. D. Parker. 1950. Note on behavior of birds on a cold winter day. Auk 67:108."												
+Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Parker, R. L. and I. D. Parker. 1950. Note on behavior of birds on a cold winter day. Auk 67:108."	y	n										
 Gray-cheeked Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Preble, E. A. and W. L. McAtee. 1923. A biological survey of the Pribilof Islands, Alaska. Part I. Birds and mammals. N. Am. Fauna 46."												
 Gray-cheeked Thrush	Turdidae	2001	Feeding	Food Capture And Consumption	"Yong, W. and F. R. Moore. 1990. Foot-quivering as a foraging maneuver among migrating Catharus thrushes. Wilson Bull. 102:542-545."												
-Gray-cheeked Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Dilger, W. C. 1956b. Hostile behavior and reproductive isolating mechanisms in the avian genera Catharus and Hylocichla. Auk 73:313-353."												
+Gray-cheeked Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Dilger, W. C. 1956b. Hostile behavior and reproductive isolating mechanisms in the avian genera Catharus and Hylocichla. Auk 73:313-353."	y	n										
 Gray-cheeked Thrush	Turdidae	2001	Diet		"Beal, F. E. L. 1915. Food of the thrushes of the United States. U. S. Dept. Agric. Dept. Bull. 280."												
 Gray-cheeked Thrush	Turdidae	2001	Feeding	Food Capture And Consumption	"Willis, E. O. 1966. The role of migrant birds at swarms of army ants. Living Bird 5:187-231."												
 Gray-cheeked Thrush	Turdidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Dilger, W. C. 1956a. Hylocichlid thrushes in captivity with notes on their behaviour. Avicul. Mag. 52:183-189."												
@@ -11299,7 +11299,7 @@ Swainson's Thrush	Turdidae	2000	Diet	Major Food Items	"Beal, F. E. L. 1915. Food
 Swainson's Thrush	Turdidae	2000	Diet	Major Food Items	"Holmes, R. T., T. W. Sherry, and F. W. Sturges. 1986. Bird community dynamics in a temperate deciduous forest: long-term trends at Hubbard Brook. Ecol. Monogr. 56:201-220."												
 Swainson's Thrush	Turdidae	2000	Diet	Major Food Items	"Stanwood, C. J. 1913. The olive-backed thrush (Hylocichla ustulata swainsoni) at his summer home. Wilson Bull. 25:118-137."												
 Swainson's Thrush	Turdidae	2000	Feeding	Food Capture And Consumption	"Yong, W. and F. R. Moore. 1990. Foot-quivering as a foraging maneuver among migrating Catharus thrushes. Wilson Bull. 102:542-545."												
-Swainson's Thrush	Turdidae	2000	Feeding	Food Capture And Consumption	"Dilger, W. C. 1956b. Hostile behavior and reproductive isolating mechanisms in the avian genera Catharus and Hylocichla. Auk 73:313."												
+Swainson's Thrush	Turdidae	2000	Feeding	Food Capture And Consumption	"Dilger, W. C. 1956b. Hostile behavior and reproductive isolating mechanisms in the avian genera Catharus and Hylocichla. Auk 73:313."		y	n									
 Townsend's Solitaire	Turdidae	1997	Diet		"Bowen, R. V. 1995. Behavioral ecology of Townsend's Solitaire: field studies of territorial competition and nest predation. Phd Thesis. Univ. of California, Davis."												
 Townsend's Solitaire	Turdidae	1997	Diet		"Beal, F. E. L. 1915. Food habits of the thrushes of the United States. U.S. Dept. Agricul. Bull. no. 280."												
 Townsend's Solitaire	Turdidae	1997	Diet		"Bent, A. C. 1949. Life histories of North American thrushes, kinglets, and their allies. U.S. Nat. Mus. Bull. no. 196."												
@@ -11333,7 +11333,7 @@ Veery	Turdidae	1-Jan-05	Feeding	Food Capture And Consumption	"Noon, B. R. 1981. 
 Veery	Turdidae	1-Jan-05	Feeding	Food Capture And Consumption	"Holmes, R. T. and S. K. Robinson. 1988. Spatial patterns, foraging tactics, and diets of ground-foraging birds in a northern hardwoods forest. Wilson Bull. 100:377-394."												
 Veery	Turdidae	1-Jan-05	Feeding	Food Capture And Consumption	"Bertin, R. I. 1977. Breeding habitats of the Wood Thrush and Veery. Condor 79:303-311."												
 Veery	Turdidae	1-Jan-05	Feeding	Food Capture And Consumption	"Paszkowski, C. A. 1984. Macrohabitat use, microhabitat use, and foraging behavior of the Hermit Thrush and Veery in a northern Wisconsin forest. Wilson Bull. 96:286-292."												
-Veery	Turdidae	1-Jan-05	Feeding	Food Capture And Consumption	"Dilger, W. C. 1956a. Hostile behavior and reproductive isolating mechanisms in the avian genera Catharus and Hylocichla. Auk 73:313-353."												
+Veery	Turdidae	1-Jan-05	Feeding	Food Capture And Consumption	"Dilger, W. C. 1956a. Hostile behavior and reproductive isolating mechanisms in the avian genera Catharus and Hylocichla. Auk 73:313-353."	y	n										
 Veery	Turdidae	1-Jan-05	Feeding	Food Capture And Consumption	"Yong, W. and F. R. Moore. 1990. Foot-quivering as a foraging maneuver among migrating Catharus thrushes. Wilson Bull. 102:542-545."												
 Veery	Turdidae	1-Jan-05	Diet	Major Food Items	"Sousa, P. J. 1982. Habitat suitability index models: Veery. FWS/OBS-82/10.22. U.S. Fish and Wildl. Serv. Washington, D.C."												
 Veery	Turdidae	1-Jan-05	Diet	Major Food Items	"Hausman, L. A. 1936. The thrushes and mimids of New Jersey. NJ Agricult. Experiment Sta. Bull. 618."												
