@@ -11139,7 +11139,7 @@ American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Mi
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Erickson, D. B. 1978. Robin feeding upon snake. Murrelet 59:26."												
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Sallabanks, R. 1997. Packing fruits at dusk: Fuel storage in an American Robin wintering in western Oregon. Northwest. Nat. 78:62-64."												
 American Robin	Turdidae	1999	Feeding	Microhabitat For Foraging	"Paszkowski, C. A. 1982. Vegetation, ground, and frugivorous foraging of the American Robin. Auk 99:701-709."	y	n										
-American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Hamilton, Jr., W. J. 1940. Summer food of the Robin determined by fecal analyses. Wilson Bull. 52:179-182."	y	y	Add data									
+American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Hamilton, Jr., W. J. 1940. Summer food of the Robin determined by fecal analyses. Wilson Bull. 52:179-182."	y	y										
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Heppner, F. 1965. Sensory mechanisms and environmental clues used by the American Robin in locating earthworms. Condor 67:247-256."												
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Richmond, M. L. 1975. American Robin feeds garter snake to its nestlings. Wilson Bull. 87:552."												
 American Robin	Turdidae	1999	Feeding	Quantitative Analysis	"Wheelwright, N. T. 1986. The diet of American Robins: an analysis of U.S. Biological Survey records. Auk 103:710-725."	y	y										
