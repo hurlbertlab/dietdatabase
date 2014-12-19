@@ -3931,10 +3931,10 @@ Golden-crowned Sparrow	Emberizidae	1998	Feeding	Main Foods Taken	"Beal, F. E. L.
 Golden-crowned Sparrow	Emberizidae	1998	Diet		"Hendricks, P. 1987. Breeding biology and nestling development of Golden-crowned Sparrows in Alaska. Wilson Bull. 99:693-696."	y	n										
 Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Price, J. B. 1931. Some flocking habits of the crowned sparrows. Condor 33:238-242."	y	n										
 Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Davis, J. 1973. Habitat preferences and competition of wintering juncos and Golden-crowned Sparrows. Ecology 54:174-180."	y	n										
-Golden-crowned Sparrow	Emberizidae	1998	Feeding	Food Capture And Consumption	"Woods, R. S. 1932. Acquired food habits of some native birds. Condor 34:237-240."												
-Golden-crowned Sparrow	Emberizidae	1998	Diet		"Allen, A. S. 1943. Additional notes on the birds of a Berkeley hillside. Condor 45:149-157."												
+Golden-crowned Sparrow	Emberizidae	1998	Feeding	Food Capture And Consumption	"Woods, R. S. 1932. Acquired food habits of some native birds. Condor 34:237-240."	y	n										
+Golden-crowned Sparrow	Emberizidae	1998	Diet		"Allen, A. S. 1943. Additional notes on the birds of a Berkeley hillside. Condor 45:149-157."	y	n										
 Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Marsh, R. J. 1964. A field study of the feeding habits of the White- and Golden-crowned sparrows. West. Bird Bander 39:44-45."												
-Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Dewoskin, R. 1980. Heat exchange influence on foraging behavior of Zonotrichia flocks. Ecology 61:30-36."												
+Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Dewoskin, R. 1980. Heat exchange influence on foraging behavior of Zonotrichia flocks. Ecology 61:30-36."	y	n										
 Golden-crowned Sparrow	Emberizidae	1998	Feeding	Food Capture And Consumption	"Grinnell, J. and T. I. Storer. 1924. Animal life in the Yosemite. Univ. of California Press, Berkeley, CA."												
 Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Grinnell, J. and A. H. Miller. 1944. The distribution of the birds of California. Pacific Coast Avifauna 27."												
 Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Salt, W. R. and J. R. Salt. 1976. The birds of Alberta. Hurtig, Edmonton, Alberta."												
