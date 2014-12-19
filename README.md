@@ -59,7 +59,9 @@ person to try to push their changes doesn't have the changes made by the first, 
 Git points out the potential problem.
 
 As the hint message suggests, try re-pulling the repository with a `$ git pull origin master`.
-Usually, this will take care of the problem and you will see a message like this:
+(Note that you need to have closed the database file on your machine before pulling,
+or you will get a message that your file is "unlinked". In that case, just close the file
+and try again.) Usually, this will take care of the problem and you will see a message like this:
 
 ```
 Auto-merging AvianDietDatabase.txt
