@@ -157,7 +157,7 @@ of its collection, and so our database has many fields. In the table below we ex
 of these fields, and how data should be entered.
 
 
-<table width="600">
+<table width="400">
   <tr>
     <td>Field</td>
     <td>Description</td>
