@@ -157,7 +157,7 @@ of its collection, and so our database has many fields. In the table below we ex
 of these fields, and how data should be entered.
 
 
-<table>
+<table width="600">
   <tr>
     <td>Field</td>
     <td>Description</td>
@@ -179,7 +179,8 @@ of these fields, and how data should be entered.
   </tr>
   <tr>
     <td>Taxonomy</td>
-    <td>The taxonomic authority for the scientific name. For example, the American Ornithologists' Union supplement.</td>
+    <td>The taxonomic authority for the scientific name. For example, the American Ornithologists' Union supplement. 
+    Refer to http://avibase.bsc-eoc.org/ (and then search for the species) for the most up to date taxonomy.</td>
   </tr>
   <tr>
     <td>Longitude_dd</td>
