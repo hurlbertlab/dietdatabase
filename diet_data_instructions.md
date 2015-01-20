@@ -99,3 +99,44 @@ Excel, simply select the row above which you would like to insert the new data,
 and then highlight downward as many rows as you will be inserting. Right click
 "Insert" and you should have the appropriate number of blank rows in which to
 enter or paste your new data.
+
+---
+
+Try entering data from the two studies listed below. Open the training_dietdatabase.txt
+template in Excel and then Save into the same folder using a new file name where you add 
+your initials to the end (e.g. 'training_dietdatabase_AHH.txt').
+
+# Training Dataset 1
+
+Beaver and Baldwin 1975. Ecological overlap and the problem of competition and sympatry
+in the Western and Hammond's Flycatchers. Condor 77: 1-13.
+
+Look out for any taxonomic issues!
+
+# Training Dataset 2
+
+Allaire, P. N. and C. D. Fisher. 1975. Feeding ecology of three resident sympatric 
+sparrows in eastern Texas. Auk 92:260-269.
+
+Note here that diet information is provided for different seasons, which should be
+entered separately. 
+
+In addition, percentages given are for seeds and arthropods separately such that 
+each group adds to 100%. If you want to characterize the stomach contents so that
+seeds plus arthropods adds up to 100%, how would you do it? Consider this example,
+where you know that there were 110 total seeds found in the stomach contents, and 30
+total insect individuals.
+
+| Diet item | Percent |
+|----------|---------|
+| Seed 1   | 80 |
+| Seed 2   | 20 |
+| Insect 1 | 60 |
+| Insect 2 | 40 |
+
+Try to work it out for yourself.
+
+You should have gotten 62.9% of Seed 1 (.8 * 110) / (110 + 30), 
+15.7% of Seed 2 (.2 * 110) / (110 + 30) 
+12.9% of Insect 1 (.6 * 30) / (110 + 30), and 
+8.6% of Insect 2 (.4 * 30) / (110 + 30).
