@@ -1,16 +1,16 @@
 INSTRUCTIONS FOR FINDING AND ENTERING AVIAN DIET DATA
 =====================================================
 
-1) Use the "NA_avian_diet_refs.txt" file to identify potential studies with diet
+1. Use the "NA_avian_diet_refs.txt" file to identify potential studies with diet
 information for the species you are working on.
 
-2) Find the study by pasting the title into Google Scholar or Web of Science.
+2. Find the study by pasting the title into Google Scholar or Web of Science.
 
-3) Search for tabular, quantitative diet data. In some cases, it's possible
+3. Search for tabular, quantitative diet data. In some cases, it's possible
 that quantitative diet data is described in the text and a table is not provided
 but this should be rare.
 
-4) Make sure you understand which bird species is being studied. Many species
+4. Make sure you understand which bird species is being studied. Many species
 names (both common names and scientific names) have changed over time, so older
 studies in particular may be using one that is out of date. Paste the scientific
 name into the search bar at http://avibase.bsc-eoc.org. If a "Search results"
