@@ -136,7 +136,7 @@ total insect individuals.
 
 Try to work it out for yourself.
 
-You should have gotten 62.9% of Seed 1 (.8 * 110) / (110 + 30), 
-15.7% of Seed 2 (.2 * 110) / (110 + 30) 
-12.9% of Insect 1 (.6 * 30) / (110 + 30), and 
+You should have gotten 62.9% of Seed 1 (.8 * 110) / (110 + 30),  
+15.7% of Seed 2 (.2 * 110) / (110 + 30),  
+12.9% of Insect 1 (.6 * 30) / (110 + 30), and   
 8.6% of Insect 2 (.4 * 30) / (110 + 30).
