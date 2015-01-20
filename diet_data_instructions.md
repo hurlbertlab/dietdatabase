@@ -21,37 +21,37 @@ and then on "American Ornithologists' Union - versions 1 to 7". In general, we
 will be using the scientific and common names according to the most recent
 edition (currently the 7th) of the American Ornithologists' Union taxonomy.
 
-Try this for the following species and see what happens: 
+    Try this for the following species and see what happens: 
 
-*Dendroica townsendi*. Note that this search goes straight to the taxon page. 
-The taxon grid is quite straightforward, and shows that there is a single 
-species concept which has changed names over time from *Dendroica townsendi* to 
-*Setophaga townsendi*. It's the latter name that should be used in the database
-even if the study the data are coming from called it the former.
+    *Dendroica townsendi*. Note that this search goes straight to the taxon page. 
+    The taxon grid is quite straightforward, and shows that there is a single 
+    species concept which has changed names over time from *Dendroica townsendi* to 
+    *Setophaga townsendi*. It's the latter name that should be used in the database
+    even if the study the data are coming from called it the former.
+ 
+    *Empidonax difficilis*. This one is more complicated, with many more species 
+    concepts listed. Many of these are different subspecies which we can ignore 
+    (e.g., the bottom two rows, and 3 of the middle rows). Otherwise, what this
+    taxon grid shows is that up through the 6th edition (1983), there was a single
+    species concept referred to as *Empidonax difficilis* with the common name 
+    "Western Flycatcher". However, by 1998 and the publication of the 7th edition,
+    taxonomists had split this species into two separate species. One of them
+    retained *Empidonax difficilis* as its scientific name, but the common name
+    changed to "Pacific-slope Flycatcher". The other took on the scientific name
+    *Empidonax occidentalis* and the common name "Cordilleran Flycatcher". 
 
-*Empidonax difficilis*. This one is more complicated, with many more species 
-concepts listed. Many of these are different subspecies which we can ignore 
-(e.g., the bottom two rows, and 3 of the middle rows). Otherwise, what this
-taxon grid shows is that up through the 6th edition (1983), there was a single
-species concept referred to as *Empidonax difficilis* with the common name 
-"Western Flycatcher". However, by 1998 and the publication of the 7th edition,
-taxonomists had split this species into two separate species. One of them
-retained *Empidonax difficilis* as its scientific name, but the common name
-changed to "Pacific-slope Flycatcher". The other took on the scientific name
-*Empidonax occidentalis* and the common name "Cordilleran Flycatcher". 
-
-If you came across a study reporting diet info for *Empidonax difficilis*, 
-which species is it referring to? If it's an older study, it could be referring
-to either one. One way to figure this out is by checking the geographic ranges
-of the two split species. Click on the "eBird" link across the top of this page
-to see where "Pacific-slope Flycatcher" (i.e. the concept that *Empidonax
-difficilis* currently refers to) occurs. Take a look, and then in the "Related 
-taxa" dropdown menu, select "*Empidonax occidentalis*" to see where "Cordilleran
-Flycatcher" occurs. There is some overlap, but if the study was done in
-California, they were probably referring to Pacific-slope Flycatcher. If it was
-done in Colorado, it was probably referring to Cordilleran Flycatcher. Usually 
-(but not always!) this information will help you narrow down which species
-the study actually refers to.
+    If you came across a study reporting diet info for *Empidonax difficilis*, 
+    which species is it referring to? If it's an older study, it could be referring
+    to either one. One way to figure this out is by checking the geographic ranges
+    of the two split species. Click on the "eBird" link across the top of this page
+    to see where "Pacific-slope Flycatcher" (i.e. the concept that *Empidonax
+    difficilis* currently refers to) occurs. Take a look, and then in the "Related 
+    taxa" dropdown menu, select "*Empidonax occidentalis*" to see where "Cordilleran
+    Flycatcher" occurs. There is some overlap, but if the study was done in
+    California, they were probably referring to Pacific-slope Flycatcher. If it was
+    done in Colorado, it was probably referring to Cordilleran Flycatcher. Usually 
+    (but not always!) this information will help you narrow down which species
+    the study actually refers to.
 
 5. Read the study and enter as much information as you can find about where 
 (latitude, longitude, altitude, regions, place names) and when (years, season) 
