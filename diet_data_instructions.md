@@ -62,36 +62,36 @@ README file for more details.
 the study quantified diet. This will determine the column in which you will 
 enter diet data. The options are: 
 
-<table>
-  <tr>
-    <td>Fraction_Diet_By_Wt_or_Vol</td>
-    <td>Fraction of the diet as measured by weight or volume. E.g., all beetles 
-    in the stomach contents were weighed, and this value was divided by the mass
-    of all stomach contents. Convert all %s to fractions between 0 and 1.</td>
-  </tr>
-  <tr>
-    <td>Fraction_Diet_By_Items</td>
-    <td>Fraction of the diet as measured by a count of the number of prey items. 
-    E.g., the number of beetles in the stomach contents were counted, and this 
-    value was divided by the total number of unique prey items in the stomach 
-    contents. Convert all %s to fractions between 0 and 1.</td>
-  </tr>
-  <tr>
-    <td>Fraction_Occurrence</td>
-    <td>Fraction of the birds examined that contained at least one individual of 
-    this prey type.  Convert all %s to fractions between 0 and 1.</td>
-  </tr>
-  <tr>
-    <td>Fraction_Diet_Unspecified</td>
-    <td>Fraction of the diet of the prey item based on a currency unspecified by 
-    the authors.  Convert all %s to fractions between 0 and 1.</td>
-  </tr>
-  <tr>
-</table>
+    <table>
+      <tr>
+        <td>Fraction_Diet_By_Wt_or_Vol</td>
+        <td>Fraction of the diet as measured by weight or volume. E.g., all beetles 
+        in the stomach contents were weighed, and this value was divided by the mass
+        of all stomach contents. Convert all %s to fractions between 0 and 1.</td>
+      </tr>
+      <tr>
+        <td>Fraction_Diet_By_Items</td>
+        <td>Fraction of the diet as measured by a count of the number of prey items. 
+        E.g., the number of beetles in the stomach contents were counted, and this 
+        value was divided by the total number of unique prey items in the stomach 
+        contents. Convert all %s to fractions between 0 and 1.</td>
+      </tr>
+      <tr>
+        <td>Fraction_Occurrence</td>
+        <td>Fraction of the birds examined that contained at least one individual of 
+        this prey type.  Convert all %s to fractions between 0 and 1.</td>
+      </tr>
+      <tr>
+        <td>Fraction_Diet_Unspecified</td>
+        <td>Fraction of the diet of the prey item based on a currency unspecified by 
+        the authors.  Convert all %s to fractions between 0 and 1.</td>
+      </tr>
+      <tr>
+    </table>
 
-In some cases, the data will not be provided as a fraction or %, and you will 
-need to calculate this yourself. If so, make a note about what you did in the
-Notes field.
+    In some cases, the data will not be provided as a fraction or %, and you will 
+    need to calculate this yourself. If so, make a note about what you did in the
+    Notes field.
 
 7. Typically, you will be inserting your rows of data into the middle of the 
 diet database in the section for the relevant Family. If you are working in
