@@ -347,6 +347,10 @@ of these fields, and how data should be entered.
     <td>Any useful information about the nature of the study or the diet information that does not fit in the previous fields.</td>
   </tr>
   <tr>
+    <td>Entered_By</td>
+    <td>Initials of the person entering the data.</td>
+  </tr>
+  <tr>
     <td>Source</td>
     <td>The complete citation of the study from which the diet information comes.</td>
   </tr>
