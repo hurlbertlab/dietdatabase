@@ -11174,14 +11174,14 @@ American Robin	Turdidae	1999	Food Selection And Storage		"Swihart, R. K. and S. 
 Bicknell's Thrush	Turdidae	2001	Metabolism And Temperature Regulation		"Holmes, R. T. and R. H. Sawyer. 1975. Oxygen consumption in relation to ambient temperatures in five species of forest-dwelling thrushes (Hylocichla and Catharus). Comp. Biochem. Physiol. 50:527-531."	y	n	Need info for this species									
 Bicknell's Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Wallace, G. J. 1939. Bicknell's Thrush, its taxonomy, distribution, and life history. Proc. Boston Soc. Nat. Hist. 41:211-402."	y	n										
 Bicknell's Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Dilger, W. C. 1956a. Adaptive modifications and ecological isolating mechanisms in the thrush genera Catharus and Hylocichla. Wilson Bull. 68:171-199."	y	n										
-Bluethroat	Turdidae	2002	Feeding	Food Capture And Consumption	"Cramp, S. 1988. The birds of the Western Palearctic, Vol. 5: tyrant flycatchers to thrushes. Oxford Univ. Press, Oxford, U.K."	y	n										
-Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Manuwal, D. A. 1975. The status of the Bluethroat (Luscinia svecica) in North America. Murrelet 56:5-8."												
-Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Bailey, A. M. 1926. A report on the birds of northwestern Alaska and regions adjacent to Bering Strait, part X. Condor 28:165-170."												
-Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Bent, A. C. 1949. Life histories of North American thrushes, kinglets, and their allies. U.S. Natl. Mus. Bull. 196."												
-Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Frazier, A. and V. Nolan. 1959. Communal roosting by the eastern bluebird in winter. Bird-Banding 30:219-226."												
-Eastern Bluebird	Turdidae	1998	Feeding	Food Capture And Consumption	"Preston, F. W. and J. McCormick. 1948. The eyesight of the bluebird. Wilson Bull. 60:120-121."												
-Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Pinkowski, B. C. 1977c. Foraging behavior of the eastern bluebird. Wilson Bull. 89:404-414."												
-Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."												
+Bluethroat	Turdidae	2002	Feeding	Food Capture And Consumption	"Cramp, S. 1988. The birds of the Western Palearctic, Vol. 5: tyrant flycatchers to thrushes. Oxford Univ. Press, Oxford, U.K."	y	n	Need info for this species									
+Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Manuwal, D. A. 1975. The status of the Bluethroat (Luscinia svecica) in North America. Murrelet 56:5-8."	y	n										
+Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Bailey, A. M. 1926. A report on the birds of northwestern Alaska and regions adjacent to Bering Strait, part X. Condor 28:165-170."	y	n										
+Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Bent, A. C. 1949. Life histories of North American thrushes, kinglets, and their allies. U.S. Natl. Mus. Bull. 196."	y	n										
+Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Frazier, A. and V. Nolan. 1959. Communal roosting by the eastern bluebird in winter. Bird-Banding 30:219-226."	y	n										
+Eastern Bluebird	Turdidae	1998	Feeding	Food Capture And Consumption	"Preston, F. W. and J. McCormick. 1948. The eyesight of the bluebird. Wilson Bull. 60:120-121."	y	n										
+Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Pinkowski, B. C. 1977c. Foraging behavior of the eastern bluebird. Wilson Bull. 89:404-414."	y	n										
+Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."	y	y										
 Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Goldman, P. 1975. Hunting behavior of eastern bluebirds. Auk 92:798-801."	y	n										
 Eastern Bluebird	Turdidae	1998	Nutrition And Energetics		"Buser, C. S. 1980. A time and energy budget study of the eastern bluebird (Sialia sialis) during the breeding season. Master's Thesis. Rutgers Univ. New Brunswick, NJ."												
 Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Pitts, T. D. 1977b. Eastern bluebird mortality at winter roosts in Tennessee. Bird-Banding 49:77-78."												
