@@ -11129,7 +11129,7 @@ Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 198
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Sallabanks, R. 1992b. Fruit fate, frugivory, and fruit characteristics: a study of the hawthorn, Crataegus monogyna (Rosaceae). Oecologia 91:296-304."	y	n										
 American Robin	Turdidae	1999	Food Selection And Storage		"Karasov, W. H. and D. J. Levey. 1990. Digestive system trade-offs and adaptations of frugivorous passerine birds. Physiol. Zool. 63:1248-1270."	y	n										
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Levey, D. J. and G. E. Duke. 1992. How do frugivores process fruit? Gastrointestinal transit and glucose absorption in Cedar Waxwings (Bombycilla cedrorum). Auk 109:722-730."	y	n										
-American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Beal, F. E. L. 1915. Food of the robins and bluebirds of the United States. U.S. Dep. Agric. Bull. 171."												
+American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Beal, F. E. L. 1915. Food of the robins and bluebirds of the United States. U.S. Dep. Agric. Bull. 171."	y	y										
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Sallabanks, R. and S. P. Courtney. 1992. Frugivory, seed predation, and insect-vertebrate interactions. Ann. Rev. Entomol. 37:377-400."	y	n										
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Phillips, J. C. 1927. Catbirds and robins as fisheaters. Bird-Lore 29:342-343."	y	n										
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Davis, W. F. 1969. Robin kills snake. Wilson Bull. 81:470-471."	y	n										
