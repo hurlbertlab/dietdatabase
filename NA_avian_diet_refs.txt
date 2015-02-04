@@ -7725,13 +7725,13 @@ Acorn Woodpecker	Picidae	1995	Metabolism And Temperature Regulation		"Plessis, M
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Stanback, M. T. 1989. Observations on food habits and social organization of Acorn Woodpeckers in Costa Rica. Condor 91:1005-1007."	y	n										
 Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. 1981. Foraging behavior of the Acorn Woodpecker in Belize, Central America. Condor 83:336-339."	y	n										
 Acorn Woodpecker	Picidae	1995	Food Storage		"Ritter, W. E. 1938. The California Woodpecker and I. Univ. of California Press, Berkeley."			requested through interlibrary loan									
-Acorn Woodpecker	Picidae	1995	Nutrition And Energetics		"Koenig, W. D. 1991. The effects of tannins and lipids on the digestibility of acorns by acorn woodpeckers. Auk 108:79-88."												
-Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. 1970. Notes on the food habits and food defense of the Acorn Woodpecker. Condor 72:196-204."												
-Acorn Woodpecker	Picidae	1995	Food Storage		"Walker, K. M. 1952. Northward extension of range of the Acorn Woodpecker in Oregon. Condor 54:315."												
-Acorn Woodpecker	Picidae	1995	Food Storage		"Miller, A. H. 1963. Seasonal activity and ecology of the avifauna of an American equatorial cloud forest. Univ. Calif. Publ. Zool. 66:1-78."												
-Acorn Woodpecker	Picidae	1995	Food Storage		"Mumme, R. L. and A. de Queiroz. 1985. Individual contributions to cooperative behaviour in the Acorn Woodpecker: effects of reproductive status, sex, and group size. Behaviour 95:290-313."												
-Acorn Woodpecker	Picidae	1995	Food Storage		"Dawson, W. L. 1923. The birds of California. South Moulton Co. San Francisco."												
-Acorn Woodpecker	Picidae	1995	Diet		"Koenig, W. D. and R. L. Mumme. 1987. Population ecology of the cooperatively breeding Acorn Woodpecker. Princeton Univ. Press, Princeton, NJ."												
+Acorn Woodpecker	Picidae	1995	Nutrition And Energetics		"Koenig, W. D. 1991. The effects of tannins and lipids on the digestibility of acorns by acorn woodpeckers. Auk 108:79-88."	y	n										
+Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. 1970. Notes on the food habits and food defense of the Acorn Woodpecker. Condor 72:196-204."	y	n										
+Acorn Woodpecker	Picidae	1995	Food Storage		"Walker, K. M. 1952. Northward extension of range of the Acorn Woodpecker in Oregon. Condor 54:315."	n											
+Acorn Woodpecker	Picidae	1995	Food Storage		"Miller, A. H. 1963. Seasonal activity and ecology of the avifauna of an American equatorial cloud forest. Univ. Calif. Publ. Zool. 66:1-78."	n											
+Acorn Woodpecker	Picidae	1995	Food Storage		"Mumme, R. L. and A. de Queiroz. 1985. Individual contributions to cooperative behaviour in the Acorn Woodpecker: effects of reproductive status, sex, and group size. Behaviour 95:290-313."	y	n										
+Acorn Woodpecker	Picidae	1995	Food Storage		"Dawson, W. L. 1923. The birds of California. South Moulton Co. San Francisco."	n											
+Acorn Woodpecker	Picidae	1995	Diet		"Koenig, W. D. and R. L. Mumme. 1987. Population ecology of the cooperatively breeding Acorn Woodpecker. Princeton Univ. Press, Princeton, NJ."			library									
 Acorn Woodpecker	Picidae	1995	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."												
 Acorn Woodpecker	Picidae	1995	Food Storage		Anonymous. 1984. For the birds. Time Magazine 124(January 10):24.												
 Acorn Woodpecker	Picidae	1995	Food Storage		"Jehl, Jr., J. R. 1979. Pine cones as granaries for Acorn Woodpeckers. West. Birds 10:219-220."												
