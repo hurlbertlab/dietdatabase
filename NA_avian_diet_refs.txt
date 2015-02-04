@@ -7721,10 +7721,10 @@ Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Stokka
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Aulie, A. 1976. The pectoral muscles and the development of thermoregulation in chicks of Willow Ptarmigan. Comp. Biochem. Physiol. 53A:343-346."												
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"West, G. C. and M. S. Meng. 1968. Seasonal changes in body weight and fat and the relation of fatty acid composition to diet in the Willow Ptarmigan. Wilson Bull. 80:426-441."												
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Thomas, V. G. 1982. Energetic reserves of Hudson Bay Willow Ptarmigan during winter and spring. Can. J. Zool. 60:1618-1623."												
-Acorn Woodpecker	Picidae	1995	Metabolism And Temperature Regulation		"Plessis, M. Du, W. W. Weathers, and W. D. Koenig. 1994. Energetic benefits of communal roosting by acorn woodpeckers in the non-breeding season. Condor 96:631-637."												
+Acorn Woodpecker	Picidae	1995	Metabolism And Temperature Regulation		"Plessis, M. Du, W. W. Weathers, and W. D. Koenig. 1994. Energetic benefits of communal roosting by acorn woodpeckers in the non-breeding season. Condor 96:631-637."	y	n										
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Stanback, M. T. 1989. Observations on food habits and social organization of Acorn Woodpeckers in Costa Rica. Condor 91:1005-1007."	y	n										
-Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. 1981. Foraging behavior of the Acorn Woodpecker in Belize, Central America. Condor 83:336-339."												
-Acorn Woodpecker	Picidae	1995	Food Storage		"Ritter, W. E. 1938. The California Woodpecker and I. Univ. of California Press, Berkeley."												
+Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. 1981. Foraging behavior of the Acorn Woodpecker in Belize, Central America. Condor 83:336-339."	y	n										
+Acorn Woodpecker	Picidae	1995	Food Storage		"Ritter, W. E. 1938. The California Woodpecker and I. Univ. of California Press, Berkeley."			requested through interlibrary loan									
 Acorn Woodpecker	Picidae	1995	Nutrition And Energetics		"Koenig, W. D. 1991. The effects of tannins and lipids on the digestibility of acorns by acorn woodpeckers. Auk 108:79-88."												
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. 1970. Notes on the food habits and food defense of the Acorn Woodpecker. Condor 72:196-204."												
 Acorn Woodpecker	Picidae	1995	Food Storage		"Walker, K. M. 1952. Northward extension of range of the Acorn Woodpecker in Oregon. Condor 54:315."												
