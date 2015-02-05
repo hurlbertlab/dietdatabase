@@ -7732,17 +7732,17 @@ Acorn Woodpecker	Picidae	1995	Food Storage		"Miller, A. H. 1963. Seasonal activi
 Acorn Woodpecker	Picidae	1995	Food Storage		"Mumme, R. L. and A. de Queiroz. 1985. Individual contributions to cooperative behaviour in the Acorn Woodpecker: effects of reproductive status, sex, and group size. Behaviour 95:290-313."	y	n										
 Acorn Woodpecker	Picidae	1995	Food Storage		"Dawson, W. L. 1923. The birds of California. South Moulton Co. San Francisco."	n											
 Acorn Woodpecker	Picidae	1995	Diet		"Koenig, W. D. and R. L. Mumme. 1987. Population ecology of the cooperatively breeding Acorn Woodpecker. Princeton Univ. Press, Princeton, NJ."			library									
-Acorn Woodpecker	Picidae	1995	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."												
-Acorn Woodpecker	Picidae	1995	Food Storage		Anonymous. 1984. For the birds. Time Magazine 124(January 10):24.												
-Acorn Woodpecker	Picidae	1995	Food Storage		"Jehl, Jr., J. R. 1979. Pine cones as granaries for Acorn Woodpeckers. West. Birds 10:219-220."												
+Acorn Woodpecker	Picidae	1995	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."	y	n										
+Acorn Woodpecker	Picidae	1995	Food Storage		Anonymous. 1984. For the birds. Time Magazine 124(January 10):24.	n											
+Acorn Woodpecker	Picidae	1995	Food Storage		"Jehl, Jr., J. R. 1979. Pine cones as granaries for Acorn Woodpeckers. West. Birds 10:219-220."	n											
 Acorn Woodpecker	Picidae	1995	Diet		"Weathers, W. W., W. D. Koenig, and M. T. Stanback. 1990. Breeding energetics and thermal ecology of the Acorn Woodpecker in central coastal California. Condor 92:341-359."	y	y										
-Acorn Woodpecker	Picidae	1995	Food Storage		"Macroberts, M. H. 1974. Acorns, woodpeckers, grubs, and scientists. Pac. Discovery 27:9-15."												
-Acorn Woodpecker	Picidae	1995	Nutrition And Energetics		"Koenig, W. D. and M. K. Heck. 1988. Ability of two species of oak woodland birds to subsist on acorns. Condor 90:705-708."												
+Acorn Woodpecker	Picidae	1995	Food Storage		"Macroberts, M. H. 1974. Acorns, woodpeckers, grubs, and scientists. Pac. Discovery 27:9-15."	n											
+Acorn Woodpecker	Picidae	1995	Nutrition And Energetics		"Koenig, W. D. and M. K. Heck. 1988. Ability of two species of oak woodland birds to subsist on acorns. Condor 90:705-708."	y	n										
 Acorn Woodpecker	Picidae	1995	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr. Biol. Surv. Bull. 37."	y	n										
 Acorn Woodpecker	Picidae	1995	Diet		"Neff, J. A. 1928. Economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	n										
-Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Skutch, A. F. 1969. Life histories of Central American birds III. Pac. Coast Avifauna 35:1-580."												
-Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. and R. Jansma. 1977. Storage of pi????on nuts by the Acorn Woodpecker in New Mexico. Wilson Bull. 89:150-151."												
-Acorn Woodpecker	Picidae	1995	Food Storage		"Kattan, G. 1988. Food habits and social organization of Acorn Woodpeckers in Colombia. Condor 90:100-106."												
+Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Skutch, A. F. 1969. Life histories of Central American birds III. Pac. Coast Avifauna 35:1-580."	n											
+Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. and R. Jansma. 1977. Storage of pi????on nuts by the Acorn Woodpecker in New Mexico. Wilson Bull. 89:150-151."	y	n										
+Acorn Woodpecker	Picidae	1995	Food Storage		"Kattan, G. 1988. Food habits and social organization of Acorn Woodpeckers in Colombia. Condor 90:100-106."	y											
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. and B. R. MacRoberts. 1976. Social organization and behavior of the Acorn Woodpecker in central coastal California. Ornithol. Monogr. 21:1-115."	y											
 American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Villard, P. 1994. Foraging behavior of Black-backed and Three-toed woodpeckers during spring and summer in a Canadian boreal forest. Can. J. Zool. 72:1957-1959."												
 American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Otvos, I. S. and R. W. Stark. 1985. Arthropod food of some forest-inhabiting birds. Can. Entomol. 117:971-990."												
