@@ -137,6 +137,9 @@ raw diet data summaries. If you were able to look up the reference, put a 'y' in
 unavailable (couldn't access it online, not in the library) put a 'n'. For those that you checked, indicate (y/n) whether it
 contained diet data in the 'useable_data' column.
 
+_*NOTE*_: Place pdfs of all papers you find with usable data in the following folder on the HurlbertLab drive:
+*HurlbertLab > Databases > DietDatabase > Papers with data*. The file should be saved with the last name of the author(s) and the year. For example, "Beaver and Baldwin 1975.pdf" or "Hurlbert et al 2007.pdf".
+
 After you have examined all of the references listed in this table for a given species, you will perform a literature search
 to see if any additional papers have been published on the diet of this species since the Birds of North America species
 account was published or last revised (the year in the "revised" column). 
@@ -221,16 +224,16 @@ of these fields, and how data should be entered.
     <td>Habitat_type</td>
     <td>List one or more of the following habitat designations describing the habitat in which the study was conducted. If listing 
     multiple habitat types, use a ";" to separate them.
-        +forest
-        +deciduous forest
-        +coniferous forest
-        +woodland
-        +scrubland
-        +grassland
-        +desert
-        +wetland
-        +agriculture
-        +urban. 
+        +forest  
+        +deciduous forest  
+        +coniferous forest  
+        +woodland  
+        +scrubland  
+        +grassland  
+        +desert  
+        +wetland  
+        +agriculture  
+        +urban.   
         E.g. "deciduous forest; woodland"
         </td>
   </tr>
@@ -287,8 +290,12 @@ of these fields, and how data should be entered.
     under Prey_Scientific_Name.</td>
   </tr>
   <tr>
-    <td>Prey_Scientific_Name </td>
+    <td>Prey_Scientific_Name</td>
     <td>The full scientific name, genus and species, to which the prey item belongs.</td>
+  </tr>
+  <tr>
+    <td>Unidentified</td>
+    <td>If "NO", then the diet fraction reported represents the fraction made up by all members of that lowest level of taxonomic classification reported. If "YES", then the diet fraction reported represents the fraction made up by those members of that lowest level of taxonomic classification reported that were not identified to lower levels. For example, let's say some diet items are identified to various families within Coleoptera, while some diet items are listed as "Unidentified Coleoptera" with the family unknown. In this case, we would have separate lines for the families "Tenebrionidae" and "Carabidae" for which <i>Unidentified</i> would be "NO", but we might also have a line that identifies only down to Order Coleoptera for which <i>Unidentified</i> would be "YES" because the value in this row does not represent the fraction of the diet made up of all Coleoptera, only the Coleoptera that were not assigned to other groups. <b>Use this field rather than ever entering "Unidentified" or "Unknown" in any of the prey taxonomic rank fields.</b></td>
   </tr>
   <tr>
     <td>Prey_Stage</td>
