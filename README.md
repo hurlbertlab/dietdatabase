@@ -137,8 +137,8 @@ raw diet data summaries. If you were able to look up the reference, put a 'y' in
 unavailable (couldn't access it online, not in the library) put a 'n'. For those that you checked, indicate (y/n) whether it
 contained diet data in the 'useable_data' column.
 
-_NOTE_: Place pdfs of all papers you find with usable data in the following folder on the HurlbertLab drive:
-HurlbertLab > Databases > DietDatabase > Papers with data. The file should be saved with the last name of the author(s) and the year. For example, "Beaver and Baldwin 1975.pdf" or "Hurlbert et al 2007.pdf".
+_*NOTE*_: Place pdfs of all papers you find with usable data in the following folder on the HurlbertLab drive:
+*HurlbertLab > Databases > DietDatabase > Papers with data*. The file should be saved with the last name of the author(s) and the year. For example, "Beaver and Baldwin 1975.pdf" or "Hurlbert et al 2007.pdf".
 
 After you have examined all of the references listed in this table for a given species, you will perform a literature search
 to see if any additional papers have been published on the diet of this species since the Birds of North America species
@@ -287,11 +287,16 @@ of these fields, and how data should be entered.
   <tr>
     <td>Prey_Genus</td>
     <td>Genus to which the prey item belongs. If the prey was identified to species, this field can be left blank and reported
-    under Prey_Scientific_Name.</td>
+    under Prey\_Scientific_Name.</td>
   </tr>
   <tr>
-    <td>Prey_Scientific_Name </td>
+    <td>Prey\_Scientific_Name</td>
     <td>The full scientific name, genus and species, to which the prey item belongs.</td>
+  </tr>
+  <tr>
+    <td>Unassigned</td>
+    <td>If "NO", then the diet fraction reported represents the fraction made up by all members of that lowest level of taxonomic classification reported. If "YES", then the diet fraction reported represents the fraction made up by those members of that lowest level of taxonomic classification reported that were not identified to lower levels. For example, let's say some diet items are identified to various families within Coleoptera, while some diet items are listed as "Unidentified Coleoptera" with the family unknown. In this case, we would have separate lines for the families "Tenebrionidae" and "Carabidae" for which _Unassigned_ would be "NO" because the, but we might also have a line that identifies only down to Order Coleoptera for which _Unassigned_ would be "YES" because the value in this row does not represent the fraction of the diet made up of all Coleoptera, only the Coleoptera that were not assigned to other groups.
+    of the diet in that rank, or it could refer to the fraction of the diet .</td>
   </tr>
   <tr>
     <td>Prey_Stage</td>
