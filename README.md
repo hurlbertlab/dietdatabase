@@ -137,6 +137,9 @@ raw diet data summaries. If you were able to look up the reference, put a 'y' in
 unavailable (couldn't access it online, not in the library) put a 'n'. For those that you checked, indicate (y/n) whether it
 contained diet data in the 'useable_data' column.
 
+_NOTE_: Place pdfs of all papers you find with usable data in the following folder on the HurlbertLab drive:
+HurlbertLab > Databases > DietDatabase > Papers with data. The file should be saved with the last name of the author(s) and the year. For example, "Beaver and Baldwin 1975.pdf" or "Hurlbert et al 2007.pdf".
+
 After you have examined all of the references listed in this table for a given species, you will perform a literature search
 to see if any additional papers have been published on the diet of this species since the Birds of North America species
 account was published or last revised (the year in the "revised" column). 
@@ -221,16 +224,16 @@ of these fields, and how data should be entered.
     <td>Habitat_type</td>
     <td>List one or more of the following habitat designations describing the habitat in which the study was conducted. If listing 
     multiple habitat types, use a ";" to separate them.
-        +forest
-        +deciduous forest
-        +coniferous forest
-        +woodland
-        +scrubland
-        +grassland
-        +desert
-        +wetland
-        +agriculture
-        +urban. 
+        +forest  
+        +deciduous forest  
+        +coniferous forest  
+        +woodland  
+        +scrubland  
+        +grassland  
+        +desert  
+        +wetland  
+        +agriculture  
+        +urban.   
         E.g. "deciduous forest; woodland"
         </td>
   </tr>
