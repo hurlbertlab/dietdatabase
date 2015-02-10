@@ -7741,7 +7741,7 @@ Acorn Woodpecker	Picidae	1995	Food Storage		"Macroberts, M. H. 1974. Acorns, woo
 Acorn Woodpecker	Picidae	1995	Nutrition And Energetics		"Koenig, W. D. and M. K. Heck. 1988. Ability of two species of oak woodland birds to subsist on acorns. Condor 90:705-708."	y	n										
 Acorn Woodpecker	Picidae	1995	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr. Biol. Surv. Bull. 37."	y	y										
 Acorn Woodpecker	Picidae	1995	Diet		"Neff, J. A. 1928. Economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	n											
-Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Skutch, A. F. 1969. Life histories of Central American birds III. Pac. Coast Avifauna 35:1-580."	n											
+Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Skutch, A. F. 1969. Life histories of Central American birds III. Pac. Coast Avifauna 35:1-580."	n	 										
 Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. and R. Jansma. 1977. Storage of pi????on nuts by the Acorn Woodpecker in New Mexico. Wilson Bull. 89:150-151."	y	n										
 Acorn Woodpecker	Picidae	1995	Food Storage		"Kattan, G. 1988. Food habits and social organization of Acorn Woodpeckers in Colombia. Condor 90:100-106."	y	n										
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. and B. R. MacRoberts. 1976. Social organization and behavior of the Acorn Woodpecker in central coastal California. Ornithol. Monogr. 21:1-115."	y	y	summarizes diet data from Beal (1911) and Neff (1928)									
