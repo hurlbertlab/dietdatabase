@@ -10009,7 +10009,7 @@ White Tern	Sternidae	1998	Metabolism And Temperature Regulation		"Pettit, T. N.,
 White Tern	Sternidae	1998	Metabolism And Temperature Regulation		"Pettit, T. N., H. I. Ellis, and G. C. Whittow. 1985. Basal metabolic rate in tropical seabirds. Auk 102:172-174."												
 White Tern	Sternidae	1998	Metabolism And Temperature Regulation		"Pettit, T. N., G. C. Whittow, and G. S. Grant. 1981b. Rete mirabile ophthalmicum in Hawaiian seabirds. Auk 98:844-846."												
 Barred Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Elderkin, M. F. 1987. The breeding and feeding ecology of a Barred Owl Strix varia Barton population in Kings County, Nova Scotia. Master's Thesis. Acadia Univ. Wolfville, NS."	n		not online or in library									
-Barred Owl	Strigidae	2000	Diet		"Takats, D. L. 1998. Barred Owl habitat use and distribution in the Foothills Model Forest. Master's Thesis. Univ. of Alberta, Edmonton."	y	y										
+Barred Owl	Strigidae	2000	Diet		"Takats, D. L. 1998. Barred Owl habitat use and distribution in the Foothills Model Forest. Master's Thesis. Univ. of Alberta, Edmonton."	y	y	Data entered									
 Barred Owl	Strigidae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	includes data for other birds of prey									
 Barred Owl	Strigidae	2000	Diet		"Marks, J. S., D. P. Hendricks, and V. S. Marks. 1984. Winter food habits of Barred Owls in western Montana. Murrelet 65:28-29."	n											
 Barred Owl	Strigidae	2000	Diet		"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20:1-96."	y	n										
