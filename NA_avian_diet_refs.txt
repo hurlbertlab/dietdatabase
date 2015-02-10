@@ -7725,7 +7725,7 @@ Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Thomas
 Acorn Woodpecker	Picidae	1995	Metabolism And Temperature Regulation		"Plessis, M. Du, W. W. Weathers, and W. D. Koenig. 1994. Energetic benefits of communal roosting by acorn woodpeckers in the non-breeding season. Condor 96:631-637."	y	n										
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Stanback, M. T. 1989. Observations on food habits and social organization of Acorn Woodpeckers in Costa Rica. Condor 91:1005-1007."	y	n										
 Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. 1981. Foraging behavior of the Acorn Woodpecker in Belize, Central America. Condor 83:336-339."	y	n										
-Acorn Woodpecker	Picidae	1995	Food Storage		"Ritter, W. E. 1938. The California Woodpecker and I. Univ. of California Press, Berkeley."			requested through interlibrary loan									
+Acorn Woodpecker	Picidae	1995	Food Storage		"Ritter, W. E. 1938. The California Woodpecker and I. Univ. of California Press, Berkeley."	y	y										
 Acorn Woodpecker	Picidae	1995	Nutrition And Energetics		"Koenig, W. D. 1991. The effects of tannins and lipids on the digestibility of acorns by acorn woodpeckers. Auk 108:79-88."	y	n										
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. 1970. Notes on the food habits and food defense of the Acorn Woodpecker. Condor 72:196-204."	y	n										
 Acorn Woodpecker	Picidae	1995	Food Storage		"Walker, K. M. 1952. Northward extension of range of the Acorn Woodpecker in Oregon. Condor 54:315."	n											
@@ -7744,7 +7744,7 @@ Acorn Woodpecker	Picidae	1995	Diet		"Neff, J. A. 1928. Economic status of the co
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Skutch, A. F. 1969. Life histories of Central American birds III. Pac. Coast Avifauna 35:1-580."	n											
 Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. and R. Jansma. 1977. Storage of pi????on nuts by the Acorn Woodpecker in New Mexico. Wilson Bull. 89:150-151."	y	n										
 Acorn Woodpecker	Picidae	1995	Food Storage		"Kattan, G. 1988. Food habits and social organization of Acorn Woodpeckers in Colombia. Condor 90:100-106."	y	n										
-Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. and B. R. MacRoberts. 1976. Social organization and behavior of the Acorn Woodpecker in central coastal California. Ornithol. Monogr. 21:1-115."	y	y	summarizes diet data from Beal (1911)									
+Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. and B. R. MacRoberts. 1976. Social organization and behavior of the Acorn Woodpecker in central coastal California. Ornithol. Monogr. 21:1-115."	y	y	summarizes diet data from Beal (1911) and Neff (1928)									
 American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Villard, P. 1994. Foraging behavior of Black-backed and Three-toed woodpeckers during spring and summer in a Canadian boreal forest. Can. J. Zool. 72:1957-1959."												
 American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Otvos, I. S. and R. W. Stark. 1985. Arthropod food of some forest-inhabiting birds. Can. Entomol. 117:971-990."												
 American Three-toed Woodpecker	Picidae	2001	Diet	Quantitative Analysis	"Koplin, J. R. and P. H. Baldwin. 1970. Woodpecker predation on an endemic population of Engelmann spruce beetles. Am. Midl. Nat. 83:510-515."												
