@@ -1,5 +1,5 @@
-** Contributors to the Avian Diet Database **
-
+Contributors to the Avian Diet Database
+=======================================
 Michael Auriemma, 2014-2015
 Jesse Barnes, 2015-
 Allen Hurlbert, 2012-present
