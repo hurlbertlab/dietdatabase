@@ -68,7 +68,7 @@ Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Stocek, R. F. Diet of
 Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Goulet, R. 2010. Aspects of the Ecology of Urban-nesting Bald Eagles ( Haliaeetus leucocephalus) in South-Coastal British Columbia. McGill University. "	y	Y	
 Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Markham, A. C., and B. D. Watts. 2008. The Influence of Salinity on the Diet of Nesting Bald Eagles. The Journal of Raptor Research. 42:99-109."	y	Y	
 Bald Eagle	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	Y	
-Black-chested Buzzard-eagle	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	
+Black-chested Buzzard-eagle	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."			
 Broad-winged Hawk	Accipitridae	1996	Nutrition And Energetics		"Mosher, J. A. and P. F. Matray. 1974. Size dimorphism: a factor in energy savings for Broad-winged Hawks. Auk 91:325-341."	y	Y	
 Broad-winged Hawk	Accipitridae	1996	Feeding		"Burns, F. L. 1911. A monograph of the Broad-winged Hawk (Buteo platypterus). Wilson Bull. 23(3 and 4):1-320."	y	n	
 Broad-winged Hawk	Accipitridae	1996	Diet	Major Food Items And Quantitative Analysis	"Palmer, R. S. 1988. Handbook of North American birds. Vol. 5. Yale Univ. Press, New Haven, CT."	n		
@@ -108,7 +108,7 @@ Common Black-Hawk	Accipitridae	2015 Literature Search			"Etzel, K. E., T. C. The
 Common Black-Hawk	Accipitridae	Found in Schnell 1994			Van Tyne and Sutton 1937	y	n	
 Common Black-Hawk	Accipitridae	Found in Schnell 1994			Fowler 1903	y	n	
 Common Black-Hawk	Accipitridae	Found in Schnell 1994			Glinski (in Sherrod 1978)	y	Y	
-Common Black-Hawk	Accipitridae	Found in Schnell 1994			Wauer 1969			"cited many other studies, noted below"
+Common Black-Hawk	Accipitridae	Found in Schnell 1994			Wauer 1969	n		"cited many other studies, noted below"
 Cooper's Hawk	Accipitridae	1-Apr-06	Food Selection And Storage		"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."	y	n	
 Cooper's Hawk	Accipitridae	1-Apr-06	Diet	Quantitative Analysis	"Stake, M. M., J. Faaborg, and F. R. Thompson III. 2004. Video identification of predators at Golden-cheeked Warbler nests. J. Field Ornithol. 75(4):337-344."	y	n	
 Cooper's Hawk	Accipitridae	1-Apr-06	Feeding	Food Capture And Consumption	"Fischer, D. L. 1986. Daily activity patterns and habitat use of coexisting Accipiter hawks in Utah. Ph.D. diss. Brigham Young Univ. Provo, UT."	n		requested through ILL; received
