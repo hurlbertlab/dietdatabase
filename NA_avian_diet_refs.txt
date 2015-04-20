@@ -8603,7 +8603,7 @@ Downy Woodpecker	Picidae	2002	Diet		"Moeller, R. K. and M. K. Thogerson. 1978. P
 Downy Woodpecker	Picidae	2002	Diet		"Neff, J. A. 1928. A study of the economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Williams, J. B. and G. O. Batzli. 1979b. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."	y	y	
 Downy Woodpecker	Picidae	2002	Diet		"Confer, J. L., C. J. Hibbard, and D. Ebbets. 1986. Downy Woodpecker reward rates from goldenrod gall insects. Kingbird 36:188-192."	n		
-Downy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric., Biol. Surv. Bull. 34:1-96."	y		
+Downy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric., Biol. Surv. Bull. 34:1-96."	y		*
 Downy Woodpecker	Picidae	2002	Diet		"Waldbauer, G. P., J. G. Sternburg, A. G. Scarbrough, and W. G. George. 1970. Hairy and Downy woodpeckers attacks on cocoons of urban Hyalophora cecropia and other saturniids (Lepidoptera). Ann. Entomol. Soc. Am. 63:1366-1369."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Dennis, J. V. 1951. A comparative study of Florida woodpeckers in the non-breeding season. Master's Thesis. Univ. of Florida, Gainesville."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Jackson, J. A. 1998. Downy Woodpecker. Wildfowl Carving and Collecting 14(3):49-59."	n		
@@ -8617,7 +8617,7 @@ Downy Woodpecker	Picidae	2002	Metabolism And Temperature Regulation		"Pitcher, E
 Downy Woodpecker	Picidae	2002	Nutrition And Energetics		"Grubb, Jr., T. C. 1989. Ptilochronology: feather growth bars as indicators of nutritional status. Auk 106:314-320."	y	n	
 Downy Woodpecker	Picidae	2002	Metabolism And Temperature Regulation		"Askins, R. A. 1981. Survival in winter: the importance of roost holes to resident birds. Loon 53:179-184."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Grubb, Jr., T. C. 1977. Weather-dependent foraging behavior of some birds wintering in a deciduous woodland: horizontal adjustments. Condor 79:271-274."	y	n	
-Downy Woodpecker	Picidae	2002	Diet		"Henderson, J. 1927. The practical value of birds. Macmillan Co. New York."	y		
+Downy Woodpecker	Picidae	2002	Diet		"Henderson, J. 1927. The practical value of birds. Macmillan Co. New York."	y		*
 Downy Woodpecker	Picidae	2002	Nutrition And Energetics		"Brewer, R. 1961. Comparative notes on the life history of the Carolina Chickadee. Wilson Bull. 73:348-373."	y	n	
 Downy Woodpecker	Picidae	2002	Nutrition And Energetics		"Grubb, Jr., T. C. and D. A. Cimprich. 1990. Supplementary food improves the nutritional condition of wintering woodland birds: evidence from ptilochronology. Ornis Scand. 21:277-281."	y	n	
 Downy Woodpecker	Picidae	2002	Diet		"Behrend, F. W. 1946. Downy Woodpecker feeding on corn-ear worm. Migrant 17:46."	n		
@@ -8676,7 +8676,7 @@ Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Kilham, L. 1965
 Hairy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Erlwein, K. M. 1996. Hairy and Red-bellied woodpeckers use bark crevice to break open seeds. King-bird 46:200-201."	n		
 Hairy Woodpecker	Picidae	2002	Diet		"Otvos, I. S. and R. W. Stark. 1985. Arthropod food of some forest-inhabiting birds. Can. Entomol. 117:971-990."	n		
 Hairy Woodpecker	Picidae	2002	Metabolism And Temperature Regulation		"Becker, G. B. and J. W. Stack. 1944. Weights and temperatures of some Michigan birds. Bird-Banding 15:45-68."	y	n	
-Hairy Woodpecker	Picidae	2002	Feeding	Trees And Other Plants Used As Foraging Sites	"Otvos, I. S. 1967. Observations on the feeding habits of some woodpeckers and woodcreepers in Costa Rica. Condor 69:522-525."	y		
+Hairy Woodpecker	Picidae	2002	Feeding	Trees And Other Plants Used As Foraging Sites	"Otvos, I. S. 1967. Observations on the feeding habits of some woodpeckers and woodcreepers in Costa Rica. Condor 69:522-525."	y		*
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Selander, R. K. 1965. Sexual dimorphism in relation to foraging behavior in the Hairy Woodpecker. Wilson Bull. 77:416."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Kilham, L. 1970. Feeding behavior of Downy Woodpeckers. I. Preference for paper birches and sexual differences. Auk 87:544-556."	y	n	
 Hairy Woodpecker	Picidae	2002	Food Selection And Storage		"Alderson, V. A. 1890. Hairy Woodpecker and potato bugs. Oologist 7:147."	n		
@@ -8739,29 +8739,29 @@ Hairy Woodpecker	Picidae	2002	Feeding	Choice Of Foraging Sites	"Hutchison, R. T.
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Bull, E. L., S. R. Peterson, and J. W. Thomas. 1986. Resource partitioning among woodpeckers in northern Oregon. Res. Note PNW 444. U.S. Dep. Agric. For. Serv. Portland, OR."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Ouellet, H. 1997. Comparative foraging ecology of Downy and Hairy woodpeckers (Aves: Picidae). Pages 113-128 in The era of Allan R. Phillips: a Festschrift. (Dickerman, R. W., Ed.) Horizon Comm. Albuquerque, NM."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Villard, P. and C. W. Beninger. 1993. Foraging behavior of male Black-backed and Hairy Woodpeckers in a forest burn. J. Field Ornithol. 64:71-76."	y	n	
-Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Scott, W. E. D. 1886. On the avi-fauna of Pinal County, with remarks on some birds of Pima and Gila Counties, Arizona. Auk 3:249-258, 383-389, 421-432; 4: 16-24, 196-205; 5: 29-36, 159-168."			
-Ladder-backed Woodpecker	Picidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Short, Jr., L. L. 1982. Woodpeckers of the world. Del. Mus. Nat. Hist. Monogr. Ser. 4, Greenville."			
-Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."			
-Ladder-backed Woodpecker	Picidae	2001	Diet	Quantitative Analysis	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."			
+Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Scott, W. E. D. 1886. On the avi-fauna of Pinal County, with remarks on some birds of Pima and Gila Counties, Arizona. Auk 3:249-258, 383-389, 421-432; 4: 16-24, 196-205; 5: 29-36, 159-168."	y	n	
+Ladder-backed Woodpecker	Picidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Short, Jr., L. L. 1982. Woodpeckers of the world. Del. Mus. Nat. Hist. Monogr. Ser. 4, Greenville."	n		
+Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n	
+Ladder-backed Woodpecker	Picidae	2001	Diet	Quantitative Analysis	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
 Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
-Ladder-backed Woodpecker	Picidae	2001	Feeding	Food Capture And Consumption	"Austin, G. T. 1976. Sexual and seasonal differences in foraging of Ladder-backed Woodpeckers. Condor 78:317-323."			
+Ladder-backed Woodpecker	Picidae	2001	Feeding	Food Capture And Consumption	"Austin, G. T. 1976. Sexual and seasonal differences in foraging of Ladder-backed Woodpeckers. Condor 78:317-323."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Hadow, H. H. 1973. Winter ecology of migrant and resident Lewis's Woodpeckers in southeastern Colorado. Condor 75:210-224."	y	y	
-Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Vierling, K. T. 1997. Habitat selection of Lewis's Woodpeckers in southeastern Colorado. Wilson Bull. 109:121-130."			
-Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Tashiro-Vierling, K. Y. 1994. Population trends and ecology of the Lewis's Woodpecker (Melanerpes lewis) in southeastern Colorado. Master's Thesis. Univ. of Colorado, Boulder."			
-Lewis's Woodpecker	Picidae	1997	Nutrition And Energetics		"Koenig, W. D. 1991. The effects of tannins and lipids on digestion of acorns by Acorn Woodpeckers. Auk 108:79-88."			
-Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Snow, R. B. 1941. A natural history of the Lewis Woodpecker Asyndesmus lewis (Gray). Master's Thesis. Univ. of Utah, Salt Lake City."			
-Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Sherwood, W. E. 1927. Feeding habits of Lewis Woodpecker. Condor 29:171."			
-Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Janos, M. 1991. An instance of food caching in a Lewis's Woodpecker (Melanerpes lewis). Colo. Field Ornithol. J. 25:43-44."			
-Lewis's Woodpecker	Picidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr. Biol. Surv. Bull. 37."			
+Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Vierling, K. T. 1997. Habitat selection of Lewis's Woodpeckers in southeastern Colorado. Wilson Bull. 109:121-130."	y	n	
+Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Tashiro-Vierling, K. Y. 1994. Population trends and ecology of the Lewis's Woodpecker (Melanerpes lewis) in southeastern Colorado. Master's Thesis. Univ. of Colorado, Boulder."	n		
+Lewis's Woodpecker	Picidae	1997	Nutrition And Energetics		"Koenig, W. D. 1991. The effects of tannins and lipids on digestion of acorns by Acorn Woodpeckers. Auk 108:79-88."	y	n	
+Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Snow, R. B. 1941. A natural history of the Lewis Woodpecker Asyndesmus lewis (Gray). Master's Thesis. Univ. of Utah, Salt Lake City."	n		
+Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Sherwood, W. E. 1927. Feeding habits of Lewis Woodpecker. Condor 29:171."	n		
+Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Janos, M. 1991. An instance of food caching in a Lewis's Woodpecker (Melanerpes lewis). Colo. Field Ornithol. J. 25:43-44."	n		
+Lewis's Woodpecker	Picidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr. Biol. Surv. Bull. 37."	y	y	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Raphael, M. G. and M. White. 1984. Use of snags by cavity-nesting birds in the Sierra Nevada. Wildl. Monogr. 86:1-66."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Bock, C. E. 1970. The ecology and behavior of the Lewis's Woodpecker (Asyndesmus lewis). Univ. Calif. Publ. Zool. 92:1-100."	y	n	
-Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Tobalske, B. W. 1996. Scaling of muscle composition, wing morphology, and intermittent flight behavior in woodpeckers. Auk 113:151-177."			
+Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Tobalske, B. W. 1996. Scaling of muscle composition, wing morphology, and intermittent flight behavior in woodpeckers. Auk 113:151-177."	y	n	
 Lewis's Woodpecker	Picidae	1997	Diet	Major Food Items	"Neff, J. A. 1928. A study of the economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	
-Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Macroberts, M. H. and B. R. MacRoberts. 1976. Social organization and behavior of the Acorn Woodpecker in central coastal California. Ornithol. Monogr. no. 21."			
-Lewis's Woodpecker	Picidae	1997	Food Selection And Storage		"Constanz, G. D. 1974. Robbing of breeding Lewis's Woodpecker food stores. Auk 91:171."			
-Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Spring, L. W. 1965. Climbing and pecking adaptations in some North American woodpeckers. Condor 67:457-488."			
+Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Macroberts, M. H. and B. R. MacRoberts. 1976. Social organization and behavior of the Acorn Woodpecker in central coastal California. Ornithol. Monogr. no. 21."	y	n	
+Lewis's Woodpecker	Picidae	1997	Food Selection And Storage		"Constanz, G. D. 1974. Robbing of breeding Lewis's Woodpecker food stores. Auk 91:171."	y	n	
+Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Spring, L. W. 1965. Climbing and pecking adaptations in some North American woodpeckers. Condor 67:457-488."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
-Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Linder, K. A. 1994. Habitat utilization and behavior of nesting Lewis's Woodpeckers (Melanerpes lewis) in the Laramie range, southeast Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."			
+Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Linder, K. A. 1994. Habitat utilization and behavior of nesting Lewis's Woodpeckers (Melanerpes lewis) in the Laramie range, southeast Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	n	
 Nuttall's Woodpecker	Picidae	2000	Diet		"Miller, A. H. and C. E. Bock. 1972. Natural history of the Nuttall Woodpecker at the Hastings Reservation. Condor 74:284-294."			
 Nuttall's Woodpecker	Picidae	2000	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."			
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."			
