@@ -169,7 +169,7 @@ Ferruginous Hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Gilmer, D. S. and
 Ferruginous Hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Thurow, T. L., C. M. White, R. P. Howard, and J. F. Sullivan. 1980. Raptor ecology of Raft River valley, Idaho. EG&G Idaho, Inc. Idaho Falls."			
 Ferruginous Hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Smith, D. G. and J. R. Murphy. 1978. Biology of the Ferruginous Hawk in central Utah. Sociobiology 3:79-98."			
 Ferruginous Hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Fitzner, R. E., D. Berry, L. L. Boyd, and C. A. Reick. 1977. Nesting of Ferruginous Hawks (Buteo regalis) in Washington, 1974-75. Condor 79:245-249."			
-Ferruginous Hawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."			
+Ferruginous Hawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
 Ferruginous Hawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Wakeley, J. S. 1974. Activity periods, hunting methods, and efficiency of the Ferruginous Hawk. Raptor Res. 8:67-72."			
 Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Hunsicker, G. R. 1972. Nesting behavior of the Golden Eagle, Aquila chrysaetos, in San Diego County, California. Master's Thesis. Univ. of California, Riverside."			
 Golden Eagle	Accipitridae	2002	Diet	Quantitative Analysis	"Marti, C. D. 1987. Raptor food habits studies. Pages 67-80 in Raptor management techniques manual. (Pendleton, B. G., B. A. Millsap, K. W. Cline, and D. M. Bird, Eds.) Natl. Wildl. Fed. Washington, D.C."			
@@ -239,7 +239,7 @@ Golden Eagle	Accipitridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Elli
 Golden Eagle	Accipitridae	2002	Nutrition And Energetics		"Fevold, H. R. and J. J. Craighead. 1958. Food requirements of the Golden Eagle. Auk 75:312-317."			
 Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Mcwilliams, S. R., J. P. Dunn, and D. G. Raveling. 1994. Predator-prey interactions between eagles and cackling Canada and Ross' geese during winter in California. Wilson Bull. 106:272-288."			
 Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Brown, B. T. 1992. Golden Eagles feeding on fish. J. Raptor Res. 26:36-37."			
-Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 18:1-76."			
+Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 18:1-76."	y	y	
 Golden Eagle	Accipitridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Johnson, R. E. 1994. Use of snow as a water source by Golden Eagles in the Great Basin. J. Field Ornithol. 65:58-59."			
 Gray Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Stensrude, C. 1965. Observations on a pair of Gray Hawks in southern Arizona. Condor 67:319-321."			
 Gray Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Haverschmidt, F. 1962. Notes on the feeding habits and food of some hawks of Surinam. Condor 64:154-158."			
@@ -264,6 +264,7 @@ Hawaiian Hawk	Accipitridae	2000	Diet	Major Food Items	"Berger, A. J. 1981. Hawai
 Hawaiian Hawk	Accipitridae	2000	Feeding	Main Foods Taken	"Munro, G. C. 1944. Birds of Hawaii. Tongg Publ. Co. Honolulu, HI."			
 Hawaiian Hawk	Accipitridae	2000	Feeding	Main Foods Taken	"Olson, S. L. and H. F. James. 1991. Descriptions of thirty-two new species of birds from the Hawaiian islands. Part 1: Non-passeriformes. Ornithol. Monogr. no. 45."			
 Hawaiian Hawk	Accipitridae	2000	Diet	Major Food Items	"Tomich, Q. P. 1971. Notes on foods and feeding behavior of raptorial birds in Hawai'i. Elepaio 31(12):111-113."			
+Hen Harrier	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
 Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Skinner, R. W. 1962. Feeding habits of the Mississippi Kite. Auk 79:273-274."			
 Mississippi Kite	Accipitridae	1999	Diet	Quantitative Analysis	"Parker, J. W. 1996. Urban Ecology of the Mississippi Kite. Pages 45-52 in Raptors in human landscapes. (Bird, D., D. Varland, and J. Negro, Eds.) Academic Press, New York."			
 Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Ganier, A. F. 1902. The Mississippi Kite (Ictinia mississippiensis). Osprey 1:85-90."			
@@ -386,6 +387,7 @@ Red-tailed hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and
 Red-tailed hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."			
 Red-tailed hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."			
 Red-tailed hawk	Accipitridae				"Murphy, R. K. 1993. History, nesting biology, and predation ecology of raptors in the Missouri Coteau of northwestern North Dakota. Diss. Montana State University 116-150."	y	y	
+Red-tailed hawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
 Red-shouldered hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."			
 Red-shouldered hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."			
 Red-shouldered hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982			
@@ -506,6 +508,7 @@ Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Rumbold, D. G
 Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Howell, A. H. 1932. Florida bird life. Fla. Dept. Game Fresh Water Fish, Tallahassee."			
 Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Beissinger, S. R. 1983. Hunting behavior, prey selection, and energetics of Snail Kite in Guyana: consumer choice by a specialist. Auk 100:84-92."			
 Swainson'sHawk	Accipitridae				"Murphy, R. K. 1993. History, nesting biology, and predation ecology of raptors in the Missouri Coteau of northwestern North Dakota. Diss. Montana State University 116-1850."	y	y	
+Swainson'sHawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
 Swallow-tailed Kite	Accipitridae	1995	Diet	Major Food Items	"Lee, D. S. and M. K. Clark. 1993. Notes on post-breeding American Swallow-tailed Kites, Elanoides forficatus (Falconiformes: Accipitridae), in north-central Florida. Brimleyana 19:185-203."			
 Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Sutton, I. D. 1955. Nesting of the Swallow-tailed Kite. Everglades Nat. Hist. 3:72-84."			
 Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Voous, K. H. 1969. Predation potential in birds of prey from Surinam. Ardea 57:117-146."			
@@ -4420,6 +4423,7 @@ Java Sparrow	Estrildidae	1997	Feeding	Main Foods Taken	"Bernstein, H. A. 1861. U
 Java Sparrow	Estrildidae	1997	Feeding	Main Foods Taken	"Becking, J. H. 1989. Henri Jacob Victor Sody (1892-1959): his life and works. E. J. Brill, New York."			
 Java Sparrow	Estrildidae	1997	Feeding	Main Foods Taken	"Ralph, C. J. 1984. Opportunistic nectarivory in some introduced Hawaiian birds. 'Elepaio 45:17-18."			
 Java Sparrow	Estrildidae	1997	Metabolism And Temperature Regulation		"Meienberger, C. and V. Ziswiler. 1990. Die Artabh????ngigkeit der umsatzquotienten nahverwandter v????gel-ein mathematisches problem? J. Ornithol. 131:267-277."			
+American Kestrel	Falconidae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
 American Kestrel	Falconidae	2002	"Nutrition, Energetics, And Metabolism"		"Lacombe, D., D. M. Bird, and K. A. Hibbard. 1994. Influence of reduced food availability on growth of captive American Kestrels. Can. J. Zool. 72:2084-2089."			
 American Kestrel	Falconidae	2002	"Nutrition, Energetics, And Metabolism"		"Daniels, K. and G. E. Duke. 1980. Factors influencing respiratory rates in four species of raptors. Comp. Biochem. Physiol. 66A:703-706."			
 American Kestrel	Falconidae	2002	"Nutrition, Energetics, And Metabolism"		"Negro, J. J., K. L. Bildstein, and D. M. Bird. 1994b. Effects of food deprivation and handling stress on fault-bar formation in nestling American Kestrels Falco sparverius Ardea 82:263-267."			
@@ -4608,7 +4612,7 @@ Prairie Falcon	Falconidae	1998	Diet	Quantitative Analysis	"Maclaren, P. A., S. H
 Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"White, C. M. 1962. Prairie Falcon displays Accipitrine and Circinine hunting methods. Condor 64:439-440."			
 Prairie Falcon	Falconidae	1998	Nutrition And Energetics		"Collopy, M. W. 1978. The bioenergetic requirements for growth and maintenance of raptors common to the Snake River Birds of Prey Natural Area. Final Contract Report ("			
 Prairie Falcon	Falconidae	1998	Food Selection And Storage		"Holthuijzen, A. M. A., W. G. Eastland, A. R. Ansell, M. N. Kochert, R. D. Williams, and L. S. Young. 1990. Effects of blasting on behavior and productivity of nesting Prairie Falcons. Wildl. Soc. Bull. 18:270-281."			
-Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 18:1-76."			
+Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 18:1-76."	y	y	
 Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Marti, C. D. and C. E. Braun. 1975. Use of tundra habitats by Prairie Falcons in Colorado. Condor 77:213-214."			
 Prairie Falcon	Falconidae	1998	Nutrition And Energetics		"U.S. Department Of The Interior. 1979. Snake River Birds of Prey Special Research Report to the Secretary of the Interior. Boise District Bur. Land Manage. Boise, ID."			
 Prairie Falcon	Falconidae	1998	Metabolism And Temperature Regulation		"Kaiser, T. J. and T. L. Bucher. 1985. The consequences of reverse sexual size dimorphism for oxygen consumption, ventilation, and water loss in relation to ambient temperature in the Prairie Falcon, Falco mexicanus. Physiol. Zool. 58:748-758."			
@@ -4642,7 +4646,6 @@ Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Squires, J.
 Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Kaiser, T. J. 1986. Behavior and energetics of Prairie Falcons (Falco mexicanus) breeding in the western Mojave Desert. Phd Thesis. Univ. of California, Los Angeles."	checked	usable_data	
 Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Dunstan, T. C., J. H. Harper, and K. B. Phipps. 1978. Habitat use and hunting strategies of Prairie Falcons, Red-tailed Hawks, and Golden Eagles. Final Report Contract 52500-CT5-1013. Submitted to the Bur. Land Manage. Denver, CO."	checked	usable_data	
 Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Phipps, K. B. 1979. Hunting methods, habitat use and activity patterns of Prairie Falcons in the Snake River Birds of Prey Natural Area, Idaho. Master's Thesis. Western Illinois Univ. Macomb."	checked	usable_data	
-common_name	family	revised	section	subsection	citation			
 Great Frigatebird	Fregatidae	2002	Diet	Food Availability	"Schreiber, R. W. and E. A. Schreiber. 1984. Central Pacific seabirds and the El Ni????o Southern Oscillation: 1982 to 1983 perspectives. Science 225:713-716."			
 Great Frigatebird	Fregatidae	2002	Metabolism And Temperature Regulation	Metabolism	"Birt-Friesen, V. L., W. A. Montevecchi, D. K. Cairns, and S. A. Macko. 1989. Activity specific metabolic rates of free living Northern Gannets and other seabirds. Ecology 70:357-367."			
 Great Frigatebird	Fregatidae	2002	Feeding	Food Capture And Consumption	"Nelson, J. B. 1968. Galapagos, islands of birds. William Morrow and Co. New York."			
@@ -10794,6 +10797,7 @@ Boreal Owl	Strigidae	1993	Diet	Quantitative Analysis	"Marti, C. D., E. Korpimaki
 Boreal Owl	Strigidae	1993	Diet	Major Food Items	"Bondrup-Nielsen, S. 1978. Vocalizations, nesting, and habitat preferences of the Boreal Owl (Aegolius funereus) in North America. Master's Thesis. Univ. Toronto, Ontario, Canada."	n	n	
 Burrowing Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	n	
 Burrowing Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Marti, C. D. 1974. Feeding ecology of four sympatric owls. Condor 76:45-61."	y	n	
+Burrowing Owl	Strigidae		Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
 Eastern Screech-Owl	Strigidae	1995	Food Selection And Storage		"Marti, C. D. and J. G. Hogue. 1979. Selection of prey by size in screech owls. Auk 96:319-327."	y	n	
 Eastern Screech-Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Smith, D. G. and R. Gilbert. 1984. Eastern Screech-Owl home range and use of suburban habitats in southern Connecticut. J. Field Ornithol. 55:322-329."	n		
 Eastern Screech-Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Sparks, E. J., J. R. Belthoff, and G. Ritchison. 1994. Habitat use by Eastern Screech-Owls in central Kentucky. J. Field Ornithol. 65:83-95."	y	n	
@@ -10930,7 +10934,7 @@ Great Horned Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Smith, D. 
 Great Horned Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Fuller, M. R. 1979. Spatiotemporal ecology of four sympatric raptor species. Ph.D. thesis. Univ. of Minnesota, St. Paul."	n		
 Great Horned Owl	Strigidae	1998	Metabolism And Temperature Regulation	Metabolism	"Gardner, L. L. 1929. The nesting of the Great Horned Owl. Auk 46:58-69."	y	y	
 Great Horned Owl	Strigidae	1998	Diet	Major Food Items	"Jaksic, F. M. and J. L. Ya????ez. 1980. Differential utilization of prey resources by Great Horned Owls and Barn Owls in central Chile. Auk 97:895-896."	y	n	same data as other Jaksic study (1981)
-Great Horned Owl	Strigidae	1998	Food Selection And Storage		"Weir, D. and A. Hanson. 1989. Food habits of Great Horned Owls, Bubo virginianus, in the northern taiga of the Yukon Territory and Alaska. Can. Field-Nat. 103:12-17."	y	y	
+Great Horned Owl	Strigidae	1998	Food Selection And Storage		"Weir, D. and A. Hanson. 1989. Food habits of Great Horned Owls, Bubo virginianus, in the northern taiga of the Yukon Territory and Alaska. Can. Field-Nat. 103:12-17."			
 Great Horned Owl	Strigidae	1998	Nutrition And Energetics		"Duke, G. E., O. A. Evanson, and A. Jegers. 1976. Meal to pellet intervals in 14 species of captive raptors. Comp. Biochem. Physiol. 53A:1-6."			
 Great Horned Owl	Strigidae	1998	Diet	Quantitative Analysis	"Adamcik, R. S., A. W. Todd, and L. B. Keith. 1978. Demographic and dietary responses of Great Horned Owls during a snowshoe hare cycle. Can. Field-Nat. 92:156-166."			
 Great Horned Owl	Strigidae	1998	Metabolism And Temperature Regulation	Metabolism	"Burtnick, N. L. and L. A. Degernes. 1993. Electrocardiography on fifty-nine anesthetized convalescing raptors. Pages 111-121 in Raptor biomedicine. (Redig, P. T., J. E. Cooper, J. D. Remple, and D. B. Hunter, Eds.) Univ. of Minnesota Press, Minneapolis."			http://www.canadianfieldnaturalist.ca/index.php/cfn/article/view/1634/1637
@@ -11075,7 +11079,8 @@ Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Walker, A. 1924. Notes 
 Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Norton, W. D. and D. W. Holt. 1982. Simultaneous nesting of Northern Pygmy-Owls and Northern Saw-whet Owls in the same snag. Murrelet 63:94."			
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Sater, D. M. 1993. The biology of the Northern Pygmy-Owl (G. gnoma): A review and discussion of the available information and suggestions for the future. Senior thesis. Reed College, Portland, OR."			
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Brock, E. M. 1958. Some prey of the Pygmy Owl. Condor 60:338."			
-Short-eared Owl	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."			
+Short-eared Owl	Strigidae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."			
+Short-eared Owl	Strigidae		Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Walley, W. J. 1982. Weasel skull in Short-eared Owl pellet. Can. Field-Nat. 96:85."			
 Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Marr, T. G. and D. W. McWhirter. 1982. Differential hunting success in a group of Short-eared Owls. Wilson Bull. 94:82-83."			
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Snetsinger, T. J. 2005. Breeding ecology of the puaiohi (Myadestes palmeri). Wilson Bull. 117(1):72-84."			
