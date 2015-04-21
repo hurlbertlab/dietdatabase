@@ -8762,24 +8762,24 @@ Lewis's Woodpecker	Picidae	1997	Food Selection And Storage		"Constanz, G. D. 197
 Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Spring, L. W. 1965. Climbing and pecking adaptations in some North American woodpeckers. Condor 67:457-488."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Linder, K. A. 1994. Habitat utilization and behavior of nesting Lewis's Woodpeckers (Melanerpes lewis) in the Laramie range, southeast Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	n	
-Nuttall's Woodpecker	Picidae	2000	Diet		"Miller, A. H. and C. E. Bock. 1972. Natural history of the Nuttall Woodpecker at the Hastings Reservation. Condor 74:284-294."			
-Nuttall's Woodpecker	Picidae	2000	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."			
-Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."			
-Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Jenkins, J. M. 1979. Foraging behavior of male and female Nuttall Woodpeckers. Auk 96:418-420."			
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Jackson, J. A. 1976a. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."			
-Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Jackson, J. A. 1977a. Competition for cavities and Red-cockaded Woodpecker management. Pages 103-112 in Management techniques for preserving endangered species. (Temple, S. A., Ed.) Univ. of Wisconsin Press, Madison."			
-Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Rodgers, Jr., S. P. 1990. Predation of domestic fowl eggs by Red-bellied Woodpeckers. Fla. Field Nat. 18:57-58."			
-Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Reller, A. W. 1972. Aspects of behavioral ecology of Red-headed and Red-bellied woodpeckers. Am. Midl. Nat. 88:270-290."			
-Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Breitwisch, R. J. 1977. The ecology and behavior of the Red-bellied Woodpecker, Centurus carolinus (Linnaeus; Aves: Picidae), in south Florida. Master's Thesis. Univ. of Miami, Coral Gables, FL."			
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Reynolds, P. and S. Lima. 1994. Direct use of wings by foraging woodpeckers. Wilson Bull. 106:408-411."			
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kilham, L. 1983. Life history studies of woodpeckers of eastern North America. Nuttall Ornithol. Club, Harvard Univ., Cambridge, MA."			
+Nuttall's Woodpecker	Picidae	2000	Diet		"Miller, A. H. and C. E. Bock. 1972. Natural history of the Nuttall Woodpecker at the Hastings Reservation. Condor 74:284-294."	y	y	summarizes data from Beal 1911
+Nuttall's Woodpecker	Picidae	2000	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
+Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n	
+Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Jenkins, J. M. 1979. Foraging behavior of male and female Nuttall Woodpeckers. Auk 96:418-420."	y	n	
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Jackson, J. A. 1976a. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y		*
+Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Jackson, J. A. 1977a. Competition for cavities and Red-cockaded Woodpecker management. Pages 103-112 in Management techniques for preserving endangered species. (Temple, S. A., Ed.) Univ. of Wisconsin Press, Madison."	n		
+Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Rodgers, Jr., S. P. 1990. Predation of domestic fowl eggs by Red-bellied Woodpeckers. Fla. Field Nat. 18:57-58."	y	n	
+Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Reller, A. W. 1972. Aspects of behavioral ecology of Red-headed and Red-bellied woodpeckers. Am. Midl. Nat. 88:270-290."	y	n	
+Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Breitwisch, R. J. 1977. The ecology and behavior of the Red-bellied Woodpecker, Centurus carolinus (Linnaeus; Aves: Picidae), in south Florida. Master's Thesis. Univ. of Miami, Coral Gables, FL."	n		
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Reynolds, P. and S. Lima. 1994. Direct use of wings by foraging woodpeckers. Wilson Bull. 106:408-411."	y	n	
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kilham, L. 1983. Life history studies of woodpeckers of eastern North America. Nuttall Ornithol. Club, Harvard Univ., Cambridge, MA."	n		
 Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Selander, R. K. 1966. Sexual dimorphism and differential niche utilization in birds. Condor 68:113-151."	y	n	
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Wallace, R. A. 1974. Ecological and social implications of sexual dimorphism in five melanerpine woodpeckers. Condor 76:238-248."			
-Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Walters, J. R. 1990. The Red-cockaded Woodpecker: a primitive cooperative breeder. Pages 69-101 in Cooperative breeding in birds: long term studies of ecology and behavior. (Stacey, P. B. and W. D. Koenig, Eds.) Cambridge Univ. Press, Cambridge, UK."			
-Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Mcguire, N. M. 1932. A Red-bellied Woodpecker robs a sapsucker. Wilson Bull. 44:39."			
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Smith, G. A. and J. A. Jackson. 1994. Red-bellied Woodpecker predation on a green anole. Mississippi Kite 24:7-8."			
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Trail, P. 1991. Nest predation by a Red-bellied Woodpecker. Chat 55:67."			
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kilham, L. 1963. Food storing of Red-bellied Woodpeckers. Wilson Bull. 75:227-234."			
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Wallace, R. A. 1974. Ecological and social implications of sexual dimorphism in five melanerpine woodpeckers. Condor 76:238-248."	y	n	
+Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Walters, J. R. 1990. The Red-cockaded Woodpecker: a primitive cooperative breeder. Pages 69-101 in Cooperative breeding in birds: long term studies of ecology and behavior. (Stacey, P. B. and W. D. Koenig, Eds.) Cambridge Univ. Press, Cambridge, UK."	n		
+Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Mcguire, N. M. 1932. A Red-bellied Woodpecker robs a sapsucker. Wilson Bull. 44:39."	y	n	
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Smith, G. A. and J. A. Jackson. 1994. Red-bellied Woodpecker predation on a green anole. Mississippi Kite 24:7-8."	n		
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Trail, P. 1991. Nest predation by a Red-bellied Woodpecker. Chat 55:67."	n		
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kilham, L. 1963. Food storing of Red-bellied Woodpeckers. Wilson Bull. 75:227-234."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Neill, A. J. and R. G. Harper. 1990. Red-bellied Woodpecker predation on nestling House Wrens. Condor 92:789."			
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Brackbill, H. 1969. Red-bellied Woodpecker taking bird's eggs. Bird-banding 40:323-324."			
 Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Conner, R. N., S. J. Jones, and G. D. Jones. 1994. Snag condition and woodpecker foraging ecology in a bottomland hardwood forest. Wilson Bull. 106:242-257."			
