@@ -3123,7 +3123,7 @@ Clark's Nutcracker	Corvidae	1998	Diet	Major Food Items	"Tomback, D. F. 1982. Dis
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Decker, F. R. and J. H. Bowles. 1931. Summer birds of the Blue Mountains, Washington. Murrelet 12:12-14."			
 Clark's Nutcracker	Corvidae	1998	Metabolism And Temperature Regulation		"Tomback, D. F. 1978b. Pre-roosting flight of the Clark's Nutcracker. Auk 95:554-562."	y	n	
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Rowley, J. S. 1939. Breeding birds of Mono County, California. Condor 41:247-254."			
-Clark's Nutcracker	Corvidae	1998	Diet	Major Food Items	"Tomback, D. F. and Y. B. Linhart. 1990. The evolution of bird-dispersed pines. Evol. Ecol. 4:185-219."			
+Clark's Nutcracker	Corvidae	1998	Diet	Major Food Items	"Tomback, D. F. and Y. B. Linhart. 1990. The evolution of bird-dispersed pines. Evol. Ecol. 4:185-219."	y	n	
 Clark's Nutcracker	Corvidae	1998	Drinking And Defecation		"Skinner, M. P. 1916. The nutcrackers of Yellowstone Park. Condor 18:62-64."	y	n	
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Dixon, J. B. 1934. Nesting of the Clark Nutcracker in California. Condor 36:229-234."	y	n	
 Clark's Nutcracker	Corvidae	1998	Nutcracker-Pine Mutualisms		"Vander Wall, S. B. 1990. Food hoarding in animals. Univ. of Chicago Press, Chicago, IL."	y	n	
@@ -3163,7 +3163,7 @@ Common Raven	Corvidae	1999	Diet	Major Food Items	"Harlow, R. F., R. G. Hooper, D
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Ewins, P. J. 1991. Egg predation by corvids in gull colonies on Lake Huron. Colon. Waterbirds 14:186-189."			
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Zirrer, F. 1945. The raven. Passenger Pigeon 7:61-67."	y	n	
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Mech, L. David. 1970. The wolf: the ecology and behavior of an endangered species. Univ. of Minnesota Press, Minneapolis."			
-Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Marzluff, J. M. 1988. Do Pinyon Jays alter nest placement based on prior experience? Anim. Behav. 36:1-10."			
+Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Marzluff, J. M. 1988. Do Pinyon Jays alter nest placement based on prior experience? Anim. Behav. 36:1-10."	y	n	
 Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Stiehl, R. B. 1978. Aspects of the ecology of the Common Raven in Harney Basin, Oregon. Phd Thesis. Portland State Univ. Portland, OR."	y	n	
 Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Sherman, M. W. 1993. Activity patterns and foraging ecology of nesting Common Ravens in the Mojave Desert, California. Master's Thesis. Colorado State Univ. Fort Collins."	y	n	
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Marr, V. and R. L. Knight. 1982. Raven predation of feral Rock Dove eggs. Murrelet 63:25."	y	n	
@@ -3176,10 +3176,10 @@ Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Heinrich, B., J
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Olson, D. H. 1989. Predation on breeding western toads (Bufo boreas). Copeia 1989:391-397."	y	n	
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Congdon, J. D., A. E. Dunham, and R. C. Van Loben Sels. 1993. Delayed sexual maturity and demographics of blanding's turtles (Emydoidea blandingii): Implications for conservation and management of long-lived organisms. Conserv. Biol. 7:826-833."	y	n	
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Gaston, A. J., D. K. Cairns, R. D. Elliot, and D. G. Noble. 1985. A natural history of Digges Sound. Can. Wildl. Serv. Rep. no. 46."			
-Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Dorn, J. L. 1972. The Common Raven in Jackson Hole, Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."			
-Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Eells, M. M. 1980. Predation on a nesting Common Flicker by a Common Raven. Murrelet 61:36-37."			
-Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Heinrich, B., D. Kaye, T. Knight, and K. Schaumburg. 1994. Dispersal and association among Common Ravens. Condor 96:545-551."			
-Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Heinrich, B. 1988b. Winter foraging at carcasses by three sympatric corvids, with emphasis on recruitment by the raven, Corvus corax. Behav. Ecol. Sociobiol. 23:141-156."			
+Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Dorn, J. L. 1972. The Common Raven in Jackson Hole, Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	n	Entered data
+Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Eells, M. M. 1980. Predation on a nesting Common Flicker by a Common Raven.Murrelet 61:36-37."	y	n	
+Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Heinrich, B., D. Kaye, T. Knight, and K. Schaumburg. 1994. Dispersal and association among Common Ravens. Condor 96:545-551."	y	n	
+Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Heinrich, B. 1988b. Winter foraging at carcasses by three sympatric corvids, with emphasis on recruitment by the raven, Corvus corax. Behav. Ecol. Sociobiol. 23:141-156."	y	n	
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Parmelee, D. F. and J. M. Parmelee. 1988. Ravens observed killing roosting kittywakes. Condor 90:952."			
 Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Camp, R. J., R. L. Knight, H. A. L. Knight, M. W. Sherman, and J. Y. Kawashima. 1993. Food habits of the nesting Common Ravens in the eastern Mojave Desert. Southwest. Nat. 38:163-165."			
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Avery, M. L., D. L. Bergman, D. G. Decker, R. D. Flynt, and C. E. Knittle. 1993. Evaluation of aversive conditioning for reducing raven predation on eggs of California Least Terns, Camp Pendelton, California-1992. U.S. Dept. Agric., Denver Wildl. Res. Center, Florida Field Stn., Gainesville."			
@@ -3566,7 +3566,7 @@ Common Raven	Corvidae	1999	Diet	Major Food Items	"Littlefield, C. D. 1986. Preda
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Heinrich, B., J. Marzluff, and W. Adams. 1995. Fear and food recognition in naive Common Ravens. Auk 112:499-503."			
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Olson, D. H. 1989. Predation on breeding western toads (Bufo boreas). Copeia 1989:391-397."			
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Gaston, A. J., D. K. Cairns, R. D. Elliot, and D. G. Noble. 1985. A natural history of Digges Sound. Can. Wildl. Serv. Rep. no. 46."	y	n	
-Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Dorn, J. L. 1972. The Common Raven in Jackson Hole, Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	n	
+Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Dorn, J. L. 1972. The Common Raven in Jackson Hole, Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	y	Entered data
 Western Scrub-Jay	Corvidae	2002	Food Selection And Storage		"Emery, N. J. and N. S. Clayton. 2001a. Effects of experience and social context on prospective caching strategies by scrub jays. Nature 414:443-446."	y	n	
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Cristol, D. A., P. V. Switzer, K. L. Johnson, and L. S. Walke. 1997. Crows do not use automobiles as nutcrackers: putting an anecdote to the test. Auk 114:296-298."	y	n	
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Powell, R. W. 1972. Operant conditioning in the Common Crow (Corvus brachyrhynchos). Auk 89:738-742."	y	n	
