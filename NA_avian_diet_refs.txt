@@ -3000,17 +3000,10 @@ American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Putnam, M. S. 
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Powell, R. W. 1973. Time-based responding in pigeons and crows. Auk 90:803-808."	y	n	
 American Crow	Corvidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Hicks, R. E. 1979. Guano deposition in an Oklahoma crow roost. Condor 81:247-250."	y	y	
 American Crow	Corvidae	2002	Diet	Quantitative Analysis	"Wing, L. 1941. A study of wintering Tennessee crow specimens. J. Tenn. Acad. Sci. 15:358-370."	y	n	
-<<<<<<< HEAD								
-American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Good, E. E. 1952. The life history of the American Crow Corvus brachyrhynchos Brehm. Phd Thesis. Ohio State Univ. Columbus."	y	n	
-American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Friesen, V. C. 1981. Unusual feeding habits of the Common Crow. Blue Jay 39:208."	y	n	
-American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Grobecker, D. B. and T. W. Pietsch. 1978. Crows use automobiles as nutcrackers. Auk 95:760-761."	y	n	Entered data
-American Crow	Corvidae	2002	Feeding	Microhabitat For Foraging	"Sullivan, B. D. and J. J. Dinsmore. 1992. Home range and foraging habitat of American Crows, Corvus brachyrhynchos, in a waterfowl breeding area in Manitoba. Can. Field-Nat. 106:181-184."	y	n	
-=======								
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Good, E. E. 1952. The life history of the American Crow Corvus brachyrhynchos Brehm. Phd Thesis. Ohio State Univ. Columbus."	y	y	Used data from Klambach 1939
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Friesen, V. C. 1981. Unusual feeding habits of the Common Crow. Blue Jay 39:208."	y	n	
-American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Grobecker, D. B. and T. W. Pietsch. 1978. Crows use automobiles as nutcrackers. Auk 95:760-761."	y	n	
+American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Grobecker, D. B. and T. W. Pietsch. 1978. Crows use automobiles as nutcrackers. Auk 95:760-761."	y	n	Entered data
 American Crow	Corvidae	2002	Feeding	Microhabitat For Foraging	"Sullivan, B. D. and J. J. Dinsmore. 1992. Home range and foraging habitat of American Crows, Corvus brachyrhynchos, in a waterfowl breeding area in Manitoba. Can. Field-Nat. 106:181-184."	y	n	Requested through interlibrary loan
->>>>>>> fad6d5a83d74f0aae978ccbb032035c5da59e42f								
 American Crow	Corvidae	2002	Diet	Quantitative Analysis	"Gionfriddo, J. P. and L. B. Best. 1996. Grit-use patterns in North American birds: the influence of diet, body size, and gender. Wilson Bull. 108:685-696."	y	n	
 American Crow	Corvidae	2002	Diet	Major Food Items	"Kalmbach, E. R. 1937. Crow-waterfowl relationships. U.S. Dep. Agric. Circular no. 433."	y	n	
 American Crow	Corvidae	2002	Diet	Major Food Items	"Solem, J. K. 1997. Birds observed eating adult gypsy moths in June 1990. Maryland Birdlife 53:39."	y	n	Requested through interlibrary loan
@@ -3026,33 +3019,19 @@ American Crow	Corvidae	2002	Food Selection And Storage		"Aleksiuk, M. 1977. Sour
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Maple, T. 1974. Do crows use automobiles as nutcrackers? West. Birds 5:97-98."	y	n	
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Walley, H. D. 1993. Chelydra serpentina (snapping turtle). Predation. Herp. Rev. 24:148-149."	y	y	
 American Crow	Corvidae	2002	Feeding	Microhabitat For Foraging	"Whoriskey, F. G. and G. J. Fitzgerald. 1985. The effects of bird predation on an estuarine stickleback (Pisces: Gasterosteidae) community. Can. J. Zool. 63:301-307."	y	n	
-<<<<<<< HEAD								
-American Crow	Corvidae	2002	Feeding	Main Foods Taken	"Hering, P. E. 1934. The food of the American Crow in central New York State. Auk 51:470-476."	y	n	
-American Crow	Corvidae	2002	Food Selection And Storage		"Cristol, D. A. 2001. American Crows cache less preferred walnuts. Animal Behavior 62:331-336."	y	y	
-American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Caffrey, C. 2000a. Tool modification and use by an American Crow. Wilson Bull. 112:283-284."	y	y	
-American Crow	Corvidae	2002	Food Selection And Storage		"Conner, R. N. and J. H. Williamson. 1984. Food storing by American Crows. Bull. Tex. Ornithol. Soc. 17:13-14."	y	n	
-American Crow	Corvidae	2002	Diet	Major Food Items	"Quiring, D. T. and P. R. Timmins. 1988. Predation by American Crows reduces overwintering European corn borer populations in southwestern Ontario. Can. J. Zool. 66:2143-2145."	y	y	Entered data
-American Crow	Corvidae	2002	Feeding	Main Foods Taken	"Kalmbach, E. R. 1939. The crow in its relation to agriculture. U.S. Dep. Agric. Farmers Bull. no. 1102."	y	n	
-American Crow	Corvidae	2002	Feeding	Main Foods Taken	"Platt, D. 1956. Food of the crow, Corvus brachyrhynchos Brehm, in south-central Kansas. Univ. of Kans. Mus. Nat. Hist. Publ. 8:479-497."	y	y	
-=======								
 American Crow	Corvidae	2002	Feeding	Main Foods Taken	"Hering, P. E. 1934. The food of the American Crow in central New York State. Auk 51:470-476."	y	y	
 American Crow	Corvidae	2002	Food Selection And Storage		"Cristol, D. A. 2001. American Crows cache less preferred walnuts. Animal Behavior 62:331-336."	y	n	
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Caffrey, C. 2000a. Tool modification and use by an American Crow. Wilson Bull. 112:283-284."	y	n	
 American Crow	Corvidae	2002	Food Selection And Storage		"Conner, R. N. and J. H. Williamson. 1984. Food storing by American Crows. Bull. Tex. Ornithol. Soc. 17:13-14."	y	y	
-American Crow	Corvidae	2002	Diet	Major Food Items	"Quiring, D. T. and P. R. Timmins. 1988. Predation by American Crows reduces overwintering European corn borer populations in southwestern Ontario. Can. J. Zool. 66:2143-2145."	y	y	
+American Crow	Corvidae	2002	Diet	Major Food Items	"Quiring, D. T. and P. R. Timmins. 1988. Predation by American Crows reduces overwintering European corn borer populations in southwestern Ontario. Can. J. Zool. 66:2143-2145."	y	y	Entered data
 American Crow	Corvidae	2002	Feeding	Main Foods Taken	"Kalmbach, E. R. 1939. The crow in its relation to agriculture. U.S. Dep. Agric. Farmers Bull. no. 1102."	y	n	Entered data
 American Crow	Corvidae	2002	Feeding	Main Foods Taken	"Platt, D. 1956. Food of the crow, Corvus brachyrhynchos Brehm, in south-central Kansas. Univ. of Kans. Mus. Nat. Hist. Publ. 8:479-497."	y	y	Entered data
->>>>>>> fad6d5a83d74f0aae978ccbb032035c5da59e42f								
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Powell, R. W. 1974. Some measures of feeding behavior in captive Common Crows. Auk 91:571-574."	y	n	
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Montevecchi, W. A. 1976. Egg size and the egg predatory behaviour of crows. Behaviour 57:307-320."	y	y	
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Boswall, J. H. R. 1985. Use of tools. Pages 599 in A dictionary of birds. (Campbell, B. and E. Lack, Eds.) T. and A. Poyser, Calton, Staffordshire, England."	y	n	
 Black-billed Magpie	Corvidae	1999	Diet		"Reebs, S. G. and D. A. Boag. 1987. Regurgitated pellets and late winter diet of Black-billed Magpies (Pica pica) in Central Alberta. Can. Field-Nat. 101:108-110."	y	y	"Entered data, suggests Kalmbach 1927"
 Black-billed Magpie	Corvidae	1999	Diet		"Jones, R. E. and K. E. Hungerford. 1972. Evaluation of nesting cover as protection from Magpie predation. J. Wildl. Manage. 36:727-732."	y	n	
-<<<<<<< HEAD								
-Black-billed Magpie	Corvidae	1999	Diet		"Kalmbach, E. R. 1927. The Magpie in relation to agriculture. USDA Tech. Rep. no. 24:1-29."	y	n	
-=======								
 Black-billed Magpie	Corvidae	1999	Diet		"Kalmbach, E. R. 1927. The Magpie in relation to agriculture. USDA Tech. Rep. no. 24:1-29."	y	y	Entered data
->>>>>>> fad6d5a83d74f0aae978ccbb032035c5da59e42f								
 Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Stirling, D. 1968. Notes on food and feeding habits of some wintering birds. Can. Field-Nat. 82:14-17."	y	n	
 Black-billed Magpie	Corvidae	1999	Nutrition And Energetics		"Mugaas, J. N. and J. R. King. 1981. Annual variation of daily energy expenditure by the Black-billed Magpie: A study of thermal and behavioral energetics. Stud. Avian Biol. no. 5."	y	n	
 Black-billed Magpie	Corvidae	1999	Diet		"Gooch, S., S. R. Baillie, and T. R. Birkhead. 1991. Magpie (Pica pica) and songbird populations: Retrospective investigation of trends in population density and breeding success. J. Appl. Ecol. 28:1068-1086."	y	n	
@@ -3062,15 +3041,6 @@ Black-billed Magpie	Corvidae	1999	"Drinking, Pellet-Casting, And Defecation"		"L
 Black-billed Magpie	Corvidae	1999	Nutrition And Energetics		"Bock, C. E. and L. W. Lepthien. 1975. Distribution and abundance of the Black-billed Magpie (Pica pica) in North America. Great Basin Nat. 35:269-272."	y	n	
 Black-billed Magpie	Corvidae	1999	Feeding	Microhabitat For Foraging	"Birkhead, T. R. 1991. The magpies: The ecology and behaviour of Black-billed and Yellow-billed Magpies. Academic Press, London."	y	n	
 Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Stone, E. 1991. The socioecology of North American Black-billed Magpies. Phd Thesis. Idaho State Univ. Pocatello."	y	n	
-<<<<<<< HEAD								
-Black-billed Magpie	Corvidae	1999	Nutrition And Energetics		"Stevenson, R. E. 1971. Temperature acclimatization in the Black-billed Magpie (Pica pica hudsonia). Phd Thesis. Montana State Univ. Bozeman."	y	y	
-Black-billed Magpie	Corvidae	1999	Food Selection And Storage		"Buitron, D. and G. L. Nuechterlein. 1985. Experiments on olfactory detection of food caches by Black-billed Magpies. Condor 87:92-95."	y	n	
-Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Root, T. 1988. Atlas of wintering North American birds: An analysis of Christmas Bird Count data. Univ. of Chicago Press, Chicago, IL."	y	n	
-Black-billed Magpie	Corvidae	1999	Food Selection And Storage		"Ryser, F. A. 1985. Birds of the Great Basin. Univ. of Nevada Press, Reno."	y	n	
-Black-billed Magpie	Corvidae	1999	Food Selection And Storage		"Samuel, W. M. and D. W. Welch. 1991. Winter ticks on moose and other ungulates: Factors influencing their population size. Alces 27:169-182."	y	y	
-Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Mckinstry, M. C. and R. L. Knight. 1993. Foraging ecology of wintering Black-billed Magpies. Auk 110:632-635."	y	n	
-Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Verbeek, N. A. M. 1970. The exploitation system of the Yellow-billed Magpie. Univ. Calif. Publ. Zool. Berkeley."	y	n	
-=======								
 Black-billed Magpie	Corvidae	1999	Nutrition And Energetics		"Stevenson, R. E. 1971. Temperature acclimatization in the Black-billed Magpie (Pica pica hudsonia). Phd Thesis. Montana State Univ. Bozeman."	y	n	Requested through interlibrary loan
 Black-billed Magpie	Corvidae	1999	Food Selection And Storage		"Buitron, D. and G. L. Nuechterlein. 1985. Experiments on olfactory detection of food caches by Black-billed Magpies. Condor 87:92-95."	y	n	
 Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Root, T. 1988. Atlas of wintering North American birds: An analysis of Christmas Bird Count data. Univ. of Chicago Press, Chicago, IL."	y	n	
@@ -3078,7 +3048,6 @@ Black-billed Magpie	Corvidae	1999	Food Selection And Storage		"Ryser, F. A. 1985
 Black-billed Magpie	Corvidae	1999	Food Selection And Storage		"Samuel, W. M. and D. W. Welch. 1991. Winter ticks on moose and other ungulates: Factors influencing their population size. Alces 27:169-182."	y	n	
 Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Mckinstry, M. C. and R. L. Knight. 1993. Foraging ecology of wintering Black-billed Magpies. Auk 110:632-635."	y	n	
 Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Verbeek, N. A. M. 1970. The exploitation system of the Yellow-billed Magpie. Univ. Calif. Publ. Zool. Berkeley."	y	y	Entered data
->>>>>>> fad6d5a83d74f0aae978ccbb032035c5da59e42f								
 Blue Jay	Corvidae	1999	Diet		"Heinrich, B. 1988. Winter foraging at carcasses by three sympatric corvids, with emphasis on recruitment by the raven, Corvus corax. Behav. Ecol. Sociobiol. 23:141-156."	y	n	
 Blue Jay	Corvidae	1999	Food Selection And Storage		"Johnson, W. C. and C. S. Adkisson. 1985. Dispersal of beech nuts by Blue Jays in fragmented landscapes. Am. Midl. Nat. 113:319-324."	y	n	
 Blue Jay	Corvidae	1999	Food Selection And Storage		"Scarlett, T. L. and K. G. Smith. 1991. Acorn preference of urban Blue Jays (Cyanocitta cristata) during fall and spring in northwestern Arkansas. Condor 93:438-442."	y	n	
@@ -3097,58 +3066,34 @@ Blue Jay	Corvidae	1999	Metabolism And Temperature Regulation		"Clemans, R. J. 19
 Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Kamil, A. C. and S. I. Yoerg. 1985. The effects of prey depletion on the patch choice of foraging Blue Jays (Cyanocitta cristata). Anim. Behav. 33:1089-1095."	y	n	
 Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Shepard, W. D. 1979. Blue Jay predation on paper wasp larvae. Bull. Okla. Ornithol. Soc. 12:24."	y	n	Entered data
 Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Kono, H., P. J. Reid, and A. C. Kamil. 1998. The effect of background cuing on prey detection. Anim. Behav. 56:963-972."	y	n	
-<<<<<<< HEAD								
 Blue Jay	Corvidae	1999	Diet		"Master, T. L. 1979. An incident of Blue Jay predation on a House Sparrow. Wilson Bull. 91:470."	y	y	
-=======								
-Blue Jay	Corvidae	1999	Diet		"Master, T. L. 1979. An incident of Blue Jay predation on a House Sparrow. Wilson Bull. 91:470."	y	n	
->>>>>>> fad6d5a83d74f0aae978ccbb032035c5da59e42f								
 Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Zusi, R. L. 1987. A feeding adaptation of the jaw articulation in New World jays (Corvidae). Auk 104:665-680."	y	n	
 Blue Jay	Corvidae	1999	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Weisbrod, A. R. 1965. The maintenance activities of the Blue Jay, Cyanocitta cristata. Master's Thesis. Cornell Univ., Ithaca, NY."	y	n	Requested through interlibrary loan
 Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Bond, A. B. and A. C. Kamil. 1998. Apostatic selection by Blue Jays produces balanced polymorphism in virtual prey. Nature 395:594-596."	y	n	
 Blue Jay	Corvidae	1999	Food Selection And Storage		"Johnson, W. C., L. Thomas, and C. S. Adkisson. 1993. Dietary circumvention of acorn tannins by Blue Jays: implications for oak demography. Oecologia 94:159-164."	y	y	
 Blue Jay	Corvidae	1999	Metabolism And Temperature Regulation		"Misch, M. S. 1960. Heat regulation in the northern Blue Jay, Cyanocitta cristata bromia Oberholser. Physiol. Zool. 33:252-259."	y	n	
-<<<<<<< HEAD								
-Blue Jay	Corvidae	1999	Diet		"Dixon, M. D., W. C. Johnson, and C. S. Adkisson. 1997. Effects of weevil larvae on acorn use by Blue Jays. Oecologia 111:201-208."	y	n	
-=======								
 Blue Jay	Corvidae	1999	Diet		"Dixon, M. D., W. C. Johnson, and C. S. Adkisson. 1997. Effects of weevil larvae on acorn use by Blue Jays. Oecologia 111:201-208."	y	y	Entered data
->>>>>>> fad6d5a83d74f0aae978ccbb032035c5da59e42f								
 Blue Jay	Corvidae	1999	"Drinking, Pellet-Casting, And Defecation"	Pellet-Casting	"Lamore, D. H. 1958b. Production of pellets by a Blue Jay. Wilson Bull. 70:381."	y	n	
 Blue Jay	Corvidae	1999	"Drinking, Pellet-Casting, And Defecation"	Pellet-Casting	"Woolfenden, G. E. and J. W. Fitzpatrick. 1996. Florida Scrub-jay. in The birds of North America, no. 228. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."	y	n	
 Blue Jay	Corvidae	1999	Nutrition And Energetics		"Garvin, M. C. 1996. Haemoproteus danilewskyi Kruse, 1890, in Blue Jays in south-central Florida: epizootiology, pathogenicity and effect on host reproductive success. Phd Thesis. Univ. of Florida, Gainesville."	y	n	
 Blue Jay	Corvidae	1999	Food Selection And Storage		"Callo, P. A. 1997. Recovery of cached food by captive Blue Jays (Cyanocitta cristata). Master's Thesis. Virginia Polytechnic Institute and State Univ., Blacksburg."	y	n	Requested through interlibrary loan
 Blue Jay	Corvidae	1999	Diet		"Beal, F. E. L. 1922. Some common birds useful to the farmer. U.S.D.A. Farmers' Bull. 630."	y	n	
 Blue Jay	Corvidae	1999	Food Selection And Storage		"Johnson, W. C. and I. T. Webb. 1989. The role of Blue Jays (Cyanocitta cristata L.) in the postglacial dispersal of fagaceous trees in eastern North America. J. Biogeogr. 16:561-571."	y	n	
-<<<<<<< HEAD								
-Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Clements, K. C. 1990. Risk aversion in the foraging Blue Jay, Cyanocitta cristata. Anim. Behav. 40:182-195."	y	n	
-Blue Jay	Corvidae	1999	Diet		"Dubowy, P. J. 1985. Aerial capture of fledgling Mourning Dove by Blue Jay. Prairie Nat. 17:40."	y	y	
-Blue Jay	Corvidae	1999	Food Selection And Storage		"Johnson, W. C. and C. S. Adkisson. 1986. Airlifting the oaks. Nat. Hist. 95:40-47."	y	n	
-Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Yoerg, S. I. and A. C. Kamil. 1988. Diet choices of Blue Jays (Cyanocitta cristata) as a function of time spent foraging. J. Comp. Psychol. 102:230-235."	y	y	
-Blue Jay	Corvidae	1999	Diet		"Johnson, K. W. and J. E. Johnson. 1976. An incident of Blue Jay predation on a Yellow-rumped Warbler. Wilson Bull. 88:509."	y	n	
-Blue Jay	Corvidae	1999	Diet		"Hoffmeister, D. F. and W. L. Downes, Jr. 1964. Blue Jays as predators of red bats. Southwest. Nat. 9:102."	y	n	
-Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Kamil, A. C., R. L. Misthal, and D. W. Stephens. 1993. Failure of simple optimal foraging models to predict residence time when patch quality is uncertain. Behav. Ecol. 4:350-363."	y	n	Entered data
-Chihuahuan Raven	Corvidae	2002	Diet	Quantitative Analysis	"Imler, R. H. 1939. Comparison of the food of White-necked Ravens and crows in Oklahoma. Wilson Bull. 51:121-122."	y	n	
-Chihuahuan Raven	Corvidae	2002	Metabolism And Temperature Regulation		"Hudson, D. M. and M. H. Bernstein. 1983. Gas exchange and energy cost of flight in the White-necked Raven, Corvus cryptoleucus. J. Exp. Biol. 103:121-130."	y	y	
-=======								
 Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Clements, K. C. 1990. Risk aversion in the foraging Blue Jay, Cyanocitta cristata. Anim. Behav. 40:182-195."	y	n	Requested through interlibrary loan
 Blue Jay	Corvidae	1999	Diet		"Dubowy, P. J. 1985. Aerial capture of fledgling Mourning Dove by Blue Jay. Prairie Nat. 17:40."	y	n	
 Blue Jay	Corvidae	1999	Food Selection And Storage		"Johnson, W. C. and C. S. Adkisson. 1986. Airlifting the oaks. Nat. Hist. 95:40-47."	y	n	
 Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Yoerg, S. I. and A. C. Kamil. 1988. Diet choices of Blue Jays (Cyanocitta cristata) as a function of time spent foraging. J. Comp. Psychol. 102:230-235."	y	y	
 Blue Jay	Corvidae	1999	Diet		"Johnson, K. W. and J. E. Johnson. 1976. An incident of Blue Jay predation on a Yellow-rumped Warbler. Wilson Bull. 88:509."	y	n	
 Blue Jay	Corvidae	1999	Diet		"Hoffmeister, D. F. and W. L. Downes, Jr. 1964. Blue Jays as predators of red bats. Southwest. Nat. 9:102."	y	y	
-Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Kamil, A. C., R. L. Misthal, and D. W. Stephens. 1993. Failure of simple optimal foraging models to predict residence time when patch quality is uncertain. Behav. Ecol. 4:350-363."	y	n	
+Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Kamil, A. C., R. L. Misthal, and D. W. Stephens. 1993. Failure of simple optimal foraging models to predict residence time when patch quality is uncertain. Behav. Ecol. 4:350-363."	y	n	Entered data
 Chihuahuan Raven	Corvidae	2002	Diet	Quantitative Analysis	"Imler, R. H. 1939. Comparison of the food of White-necked Ravens and crows in Oklahoma. Wilson Bull. 51:121-122."	y	y	Entered data
 Chihuahuan Raven	Corvidae	2002	Metabolism And Temperature Regulation		"Hudson, D. M. and M. H. Bernstein. 1983. Gas exchange and energy cost of flight in the White-necked Raven, Corvus cryptoleucus. J. Exp. Biol. 103:121-130."	y	n	
->>>>>>> fad6d5a83d74f0aae978ccbb032035c5da59e42f								
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Boarman, W. I. and B. Heinrich. 1999. Common Raven (Corvus corax). in The birds of North America, no. 476. (Poole, A. and F. Gill, Eds.) The Birds of North America, Inc. Philadelphia, PA."	y	n	
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Brandt, H. L. 1940. Texas bird adventures in the Chisos Mountains and on the northern plains. The Bird Res. Foundation, Cleveland, OH."	y	y	
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Swarth, H. S. 1904. Birds of the Huachuca Mountains. Pac. Coast Avifauna no. 4."	y	n	
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Bendire, C. 1895. Life histories of North American birds with special reference to their breeding habits and eggs. U.S. Natl. Mus. Spec. Bull. 3."	y	y	
 Chihuahuan Raven	Corvidae	2002	Metabolism And Temperature Regulation		"Hudson, D. M. and M. H. Bernstein. 1981. Temperature regulation and heat balance in flying White-necked Ravens, Corvus cryptoleucus. J. Exp. Biol. 90:267-281."	y	n	
-<<<<<<< HEAD								
-Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Aldous, S. E. 1942. The White-necked Raven in relation to agriculture. Res. Rep. 5. U.S. Fish Wildl. Serv."	y	n	
-=======								
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Aldous, S. E. 1942. The White-necked Raven in relation to agriculture. Res. Rep. 5. U.S. Fish Wildl. Serv."	y	y	Entered data
->>>>>>> fad6d5a83d74f0aae978ccbb032035c5da59e42f								
 Chihuahuan Raven	Corvidae	2002	Diet	Quantitative Analysis	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Game Fish."	y	n	
 Chihuahuan Raven	Corvidae	2002	Food Selection And Storage		"Oberholser, H. C. 1974. The bird life of Texas. Vol. 2. Univ. of Texas Press, Austin."			
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Ligon, J. S. 1961. New Mexico birds and where to find them. Univ. of New Mexico Press, Albuquerque."	y	n	
