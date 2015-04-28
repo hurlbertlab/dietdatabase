@@ -8837,52 +8837,52 @@ Red-cockaded Woodpecker	Picidae	1994	Diet	Major Food Items	"Jackson, J. A. 1983a
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Microhabitat For Foraging	"Ligon, J. D. 1968a. Sexual differences in foraging behavior in two species of Dendrocopos woodpeckers. Auk 85:203-215."	y	n	
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Food Capture And Consumption	"Jackson, J. A. 1978c. Pine bark redness as an indicator of Red-cockaded Woodpecker activity. Wildl. Soc. Bull. 6:171-172."	y	y	
 Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Repenning, R. W. and R. F. Labisky. 1985. Effects of even-age timber management on bird communities of the longleaf pine forest in northern Florida. J. Wildl. Manage. 49:1088-1098."	y	n	
-Red-headed Woodpecker	Picidae	2000	Feeding		"Roberts, T. S. 1932. The birds of Minnesota. Univ. of Minnesota Press, St. Paul."			
-Red-headed Woodpecker	Picidae	2000	Feeding		"Howe, R. W. 1984. Local dynamics of bird assemblages in small forest habitat islands in Australia and North America. Ecology 65:1585-1601."			
-Red-headed Woodpecker	Picidae	2000	Feeding		"Blake, J. G. and J. R. Karr. 1987. Breeding birds in isolated woodlots: area and habitat relationships. Ecology 68:1724-1734."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Bailey, H. B. 1878. Some new traits for the Red-headed Woodpecker. Bull. Nuttall Ornithol. Club 3:97."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Skinner, M. P. 1928. A guide to the winter birds of the North Carolina Sandhills. Science Press Printing Co. Lancaster, PA."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Bailey, F. M. 1920. The Red-headed Woodpecker. Pages 169-172 in Portraits and habitats of our birds. Vol. 1 (Pearson, T. G., Ed.) Natl. Assoc. Audubon Soc. New York."			
-Red-headed Woodpecker	Picidae	2000	Feeding		"Blake, J. G. 1983. Trophic structure of bird communities in forest patches in east-central Illinois. Wilson Bull. 95:416-430."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Main Food Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. no. 37."			
-Red-headed Woodpecker	Picidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Kilham, L. 1958b. Territorial behavior of wintering Red-headed Woodpeckers. Wilson Bull. 70:347-358."			
-Red-headed Woodpecker	Picidae	2000	Feeding		"Henderson, J. 1927. The practical value of birds. The MacMillan Co. New York."			
-Red-headed Woodpecker	Picidae	2000	Feeding		"Vander Wall, S. B. 1990. Food hoarding in animals. Univ. of Chicago Press, Chicago, IL."			
+Red-headed Woodpecker	Picidae	2000	Feeding		"Roberts, T. S. 1932. The birds of Minnesota. Univ. of Minnesota Press, St. Paul."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding		"Howe, R. W. 1984. Local dynamics of bird assemblages in small forest habitat islands in Australia and North America. Ecology 65:1585-1601."	y	n	
+Red-headed Woodpecker	Picidae	2000	Feeding		"Blake, J. G. and J. R. Karr. 1987. Breeding birds in isolated woodlots: area and habitat relationships. Ecology 68:1724-1734."	y	n	
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Bailey, H. B. 1878. Some new traits for the Red-headed Woodpecker. Bull. Nuttall Ornithol. Club 3:97."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Skinner, M. P. 1928. A guide to the winter birds of the North Carolina Sandhills. Science Press Printing Co. Lancaster, PA."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Bailey, F. M. 1920. The Red-headed Woodpecker. Pages 169-172 in Portraits and habitats of our birds. Vol. 1 (Pearson, T. G., Ed.) Natl. Assoc. Audubon Soc. New York."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding		"Blake, J. G. 1983. Trophic structure of bird communities in forest patches in east-central Illinois. Wilson Bull. 95:416-430."	y	n	
+Red-headed Woodpecker	Picidae	2000	Feeding	Main Food Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. no. 37."	y	y	
+Red-headed Woodpecker	Picidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Kilham, L. 1958b. Territorial behavior of wintering Red-headed Woodpeckers. Wilson Bull. 70:347-358."	y	n	
+Red-headed Woodpecker	Picidae	2000	Feeding		"Henderson, J. 1927. The practical value of birds. The MacMillan Co. New York."	y	y	
+Red-headed Woodpecker	Picidae	2000	Feeding		"Vander Wall, S. B. 1990. Food hoarding in animals. Univ. of Chicago Press, Chicago, IL."	n		
 Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Conner, R. N., S. D. Jones, and G. D. Jones. 1994. Snag condition and woodpecker foraging ecology in a bottomland hardwood forest. Wilson Bull. 106:242-257."	n		
-Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Reller, A. W. 1972. Aspects of behavioral ecology of Red-headed and Red-bellied Woodpeckers. Am. Midl. Nat. 88:270-290."			
-Red-headed Woodpecker	Picidae	2000	Feeding		"Short, L. L. 1982. Woodpeckers of the world. Delaware Mus. Nat. Hist. Monogr. Ser. no. 4."			
-Red-headed Woodpecker	Picidae	2000	Feeding		"Jackson, J. A. 1976. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."			
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Nichols, L. L. and J. A. Jackson. 1987. Interspecific aggression and the sexual monochromism of Red-headed Woodpeckers. J. Field Ornithol. 58:288-290."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Doherty, Jr., P. F., T. C. Grubb, and C. L. Bronson. 1996. Territories and caching-related behaviors of Red-headed Woodpeckers wintering in a beech grove. Wilson Bull. 108:740-747."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Forbush, E. H. 1927. Birds of Massachusetts and other New England states. Vol. 2. Mass. Dep. Agric., Norwood Press, Norwood, MA."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Stoner, D. 1932. Ornithology of the Oneida Lake region. Roosevelt Wild Life Annals 2:268-765."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Monroe, Jr., B. L. 1994. The birds of Kentucky. Indiana Univ. Press, Bloomington."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Mcatee, W. L. 1911. Woodpeckers in relation to trees and wood products. U.S. Dep. Agric. Biol. Surv. Bull. no. 39."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Willson, M. F. 1970. Foraging behavior of some winter birds of deciduous woods. Condor 72:169-174."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Venables, A. and M. W. Collopy. 1989. Seasonal foraging and habitat requirements of Red-headed Woodpeckers in north-central Florida. Nongame Wildl. Prog. Final Rep. Proj. no. GFC-84-006. Fla. Game Fresh Water Fish Comm."			
-Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Williams, J. B. 1975. Habitat utilization by four species of woodpeckers in central Illinois woodland. Am. Midl. Nat. 93:354-367."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Ball, A. E. 1923. Bird biographies. Dodd, Mead and Co. New York."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Moskovits, D. 1978. Winter territorial and foraging behavior of Red-headed Woodpecker in Florida. Wilson Bull. 90:521-535."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Rogers, Jr., D. T., J. A. Jackson, B. J. Schardien, and M. S. Rogers. 1979. Observations at a nest of a partial albino Red-headed Woodpecker. Auk 96:206-207."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Skutch, A. F. 1985. Life of the Woodpecker. Ibis Publ. Co. Santa Monica, CA."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Volman, S. F., T. C. Grubb, Jr., and K. C. Schuett. 1997. Relative hippocampal volume in relation to food-storing behavior in four species of woodpeckers. Brain Behav. Evol. 49:110-120."			
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Davie, O. 1889. Nests and eggs of North American birds. 4th ed. Hann and Adair, Columbus, OH."			
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Belson, M. S. and P. E. Small. 1998. Uncommon behaviors of Red-headed Woodpeckers in central Florida. Fla. Field Nat. 26:44-45."			
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Graber, J. W. and R. R. Graber. 1977. Illinois birds: Picidae. Ill. Nat. Hist. Surv. Biol. Notes no. 102."			
-Red-headed Woodpecker	Picidae	2000	Diet	Quantitative Analysis	"Best, L. B. and J. P. Gionfriddo. 1991. Characteristics of grit use by cornfield birds. Wilson Bull. 103:68-82."			
-Red-headed Woodpecker	Picidae	2000	Diet	Quantitative Analysis	"Gionfriddo, J. P. and L. B. Best. 1996. Grit-use patterns in North American birds: the influence of diet, body size, and gender. Wilson Bull. 108:685-696."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Brewer, T. M. 1853. Wilson's American ornithology. H. S. Samuels, New York."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Baumgartner, F. M. and A. M. Baumgartner. 1992. Oklahoma bird life. Univ. of Oklahoma Press, Norman."			
+Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Reller, A. W. 1972. Aspects of behavioral ecology of Red-headed and Red-bellied Woodpeckers. Am. Midl. Nat. 88:270-290."	y	n	
+Red-headed Woodpecker	Picidae	2000	Feeding		"Short, L. L. 1982. Woodpeckers of the world. Delaware Mus. Nat. Hist. Monogr. Ser. no. 4."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding		"Jackson, J. A. 1976. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y	y	
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Nichols, L. L. and J. A. Jackson. 1987. Interspecific aggression and the sexual monochromism of Red-headed Woodpeckers. J. Field Ornithol. 58:288-290."	y	n	
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Doherty, Jr., P. F., T. C. Grubb, and C. L. Bronson. 1996. Territories and caching-related behaviors of Red-headed Woodpeckers wintering in a beech grove. Wilson Bull. 108:740-747."	y	n	
+Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Forbush, E. H. 1927. Birds of Massachusetts and other New England states. Vol. 2. Mass. Dep. Agric., Norwood Press, Norwood, MA."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Stoner, D. 1932. Ornithology of the Oneida Lake region. Roosevelt Wild Life Annals 2:268-765."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Monroe, Jr., B. L. 1994. The birds of Kentucky. Indiana Univ. Press, Bloomington."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Mcatee, W. L. 1911. Woodpeckers in relation to trees and wood products. U.S. Dep. Agric. Biol. Surv. Bull. no. 39."	y	n	
+Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Willson, M. F. 1970. Foraging behavior of some winter birds of deciduous woods. Condor 72:169-174."	y	n	
+Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Venables, A. and M. W. Collopy. 1989. Seasonal foraging and habitat requirements of Red-headed Woodpeckers in north-central Florida. Nongame Wildl. Prog. Final Rep. Proj. no. GFC-84-006. Fla. Game Fresh Water Fish Comm."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Williams, J. B. 1975. Habitat utilization by four species of woodpeckers in central Illinois woodland. Am. Midl. Nat. 93:354-367."	y	n	
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Ball, A. E. 1923. Bird biographies. Dodd, Mead and Co. New York."	n		
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Moskovits, D. 1978. Winter territorial and foraging behavior of Red-headed Woodpecker in Florida. Wilson Bull. 90:521-535."	y	n	
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Rogers, Jr., D. T., J. A. Jackson, B. J. Schardien, and M. S. Rogers. 1979. Observations at a nest of a partial albino Red-headed Woodpecker. Auk 96:206-207."	y	n	
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Skutch, A. F. 1985. Life of the Woodpecker. Ibis Publ. Co. Santa Monica, CA."	n		
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Volman, S. F., T. C. Grubb, Jr., and K. C. Schuett. 1997. Relative hippocampal volume in relation to food-storing behavior in four species of woodpeckers. Brain Behav. Evol. 49:110-120."	n		
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Davie, O. 1889. Nests and eggs of North American birds. 4th ed. Hann and Adair, Columbus, OH."	y	n	
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Belson, M. S. and P. E. Small. 1998. Uncommon behaviors of Red-headed Woodpeckers in central Florida. Fla. Field Nat. 26:44-45."	n		
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Graber, J. W. and R. R. Graber. 1977. Illinois birds: Picidae. Ill. Nat. Hist. Surv. Biol. Notes no. 102."	y	n	broad and not useful summaries of data from multiple sources
+Red-headed Woodpecker	Picidae	2000	Diet	Quantitative Analysis	"Best, L. B. and J. P. Gionfriddo. 1991. Characteristics of grit use by cornfield birds. Wilson Bull. 103:68-82."	n		
+Red-headed Woodpecker	Picidae	2000	Diet	Quantitative Analysis	"Gionfriddo, J. P. and L. B. Best. 1996. Grit-use patterns in North American birds: the influence of diet, body size, and gender. Wilson Bull. 108:685-696."	y	n	
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Brewer, T. M. 1853. Wilson's American ornithology. H. S. Samuels, New York."	y	n	
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Baumgartner, F. M. and A. M. Baumgartner. 1992. Oklahoma bird life. Univ. of Oklahoma Press, Norman."	n		
 Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kilham, L. 1983. Life history studies of woodpeckers of eastern North America. Publ. Nuttall Ornithol. Club no. 20."	y	n	
-Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kilham, L. 1958a. Sealed-in stores of Red-headed Woodpeckers. Wilson Bull. 70:107-113."			
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Barrows, W. B. 1912. Michigan bird life. Michigan Agric. Coll. Lansing."			
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Williams, J. B. and G. O. Batzli. 1979a. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."			
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Evermann, B. W. and H. W. Clark. 1920. Lake Maxinkuckee: a physical and biological survey. Vol. 1. Indiana Dep. Conserv. Indianapolis."			
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Lockwood, J. A. and L. D. DeBrey. 1990. A solution for the sudden and unexplained extinction of the Rocky Mountain grasshopper (Orthoptera: Acrididae). Environ. Entomol. 19:1194-1205."			
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Zimmerman, J. L. 1993. The birds of Konza. Univ. Press of Kansas, Lawrence."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Sutton, G. M. 1967. Oklahoma birds. Univ. of Oklahoma Press, Norman."			
-Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Hay, O. P. 1887. The Red-headed Woodpecker a hoarder. Auk 4:193-196."			
-Red-naped Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."			
+Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kilham, L. 1958a. Sealed-in stores of Red-headed Woodpeckers. Wilson Bull. 70:107-113."	n		
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Barrows, W. B. 1912. Michigan bird life. Michigan Agric. Coll. Lansing."	n		
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Williams, J. B. and G. O. Batzli. 1979a. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."	y	y	
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Evermann, B. W. and H. W. Clark. 1920. Lake Maxinkuckee: a physical and biological survey. Vol. 1. Indiana Dep. Conserv. Indianapolis."	y	n	
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Lockwood, J. A. and L. D. DeBrey. 1990. A solution for the sudden and unexplained extinction of the Rocky Mountain grasshopper (Orthoptera: Acrididae). Environ. Entomol. 19:1194-1205."	n		
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Zimmerman, J. L. 1993. The birds of Konza. Univ. Press of Kansas, Lawrence."	n		
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Sutton, G. M. 1967. Oklahoma birds. Univ. of Oklahoma Press, Norman."	n		
+Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Hay, O. P. 1887. The Red-headed Woodpecker a hoarder. Auk 4:193-196."	y	n	
+Red-naped Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
 Red-naped Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Zimmerman, K. 1998. Sustaining biological diversity in managed sub-boreal spruce landscapes: residual habitat strategies for cavity nesting species. Master's Thesis. Univ. of Northern British Columbia, Prince George."			
 Red-naped Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Walters, E. L. 1996. Habitat and space use of the Red-naped Sapsucker, Sphyrapicus nuchalis, in the Hat Creek valley, south-central British Columbia. Master's Thesis. Univ. of Victoria, Victoria, BC."			
 Red-naped Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Howell, T. R. 1952. Natural history and differentiation in the Yellow-bellied Sapsucker. Condor 54:237-282."			
