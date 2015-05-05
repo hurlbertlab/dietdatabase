@@ -298,6 +298,10 @@ of these fields, and how data should be entered.
     <td>If "NO", then the diet fraction reported represents the fraction made up by all members of that lowest level of taxonomic classification reported. If "YES", then the diet fraction reported represents the fraction made up by those members of that lowest level of taxonomic classification reported that were not identified to lower levels. For example, let's say some diet items are identified to various families within Coleoptera, while some diet items are listed as "Unidentified Coleoptera" with the family unknown. In this case, we would have separate lines for the families "Tenebrionidae" and "Carabidae" for which <i>Unidentified</i> would be "NO", but we might also have a line that identifies only down to Order Coleoptera for which <i>Unidentified</i> would be "YES" because the value in this row does not represent the fraction of the diet made up of all Coleoptera, only the Coleoptera that were not assigned to other groups. <b>Use this field rather than ever entering "Unidentified" or "Unknown" in any of the prey taxonomic rank fields.</b></td>
   </tr>
   <tr>
+    <td>Prey_Name_Status</td>
+    <td>This field indicates the taxonomic validity of the prey name, taking a value of either 'verified' or 'unknown'. This field will be populated by an R script that examines output of the GloBI Names Report provided by http://globalbioticinteractions.org.</td>
+  </tr>
+  <tr>
     <td>Prey_Stage</td>
     <td>The lifestage of the identified prey item (e.g., adult, larvae, egg).</td>
   </tr>
