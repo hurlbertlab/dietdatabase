@@ -14,13 +14,13 @@ nameReport = read.table('name_report.txt', sep = '\t',
 
 badNames = nameReport$unmatched_name
 
-dd$Name_Status[dd$Prey_Kingdom %in% badNames |
-               dd$Prey_Phylum %in% badNames |
-               dd$Prey_Class %in% badNames |
-               dd$Prey_Order %in% badNames |
-               dd$Prey_Suborder %in% badNames |
-               dd$Prey_Family %in% badNames |
-               dd$Prey_Genus %in% badNames |
-               dd$Prey_Scientific_Name %in% badNames] = 'unknown'
+dd$Prey_Name_Status[dd$Prey_Kingdom %in% badNames |
+                    dd$Prey_Phylum %in% badNames |
+                    dd$Prey_Class %in% badNames |
+                    dd$Prey_Order %in% badNames |
+                    dd$Prey_Suborder %in% badNames |
+                    dd$Prey_Family %in% badNames |
+                    dd$Prey_Genus %in% badNames |
+                    dd$Prey_Scientific_Name %in% badNames] = 'unknown'
 
 write.table(dd, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
