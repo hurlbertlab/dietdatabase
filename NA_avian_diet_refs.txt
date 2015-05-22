@@ -8912,24 +8912,24 @@ White-headed Woodpecker	Picidae	1996	Feeding		"Koch, R. F., A. E. Courchesne, an
 White-headed Woodpecker	Picidae	1996	Feeding		"Tevis, L. and Jr. 1953. Effect of vertebrate animals on seed crop of sugar pine. J. Wildl. Manage. 17:128-131."	y	n	
 White-headed Woodpecker	Picidae	1996	Feeding		"Ligon, J. D. 1973. Foraging behavior of the White-headed Woodpecker in Idaho. Auk 90:862-869."	y	n	
 White-headed Woodpecker	Picidae	1996	Feeding		"Hilkevitch, A. N. 1974. Sexual differences in foraging behavior among White-headed Woodpeckers. Master's Thesis. California State Univ. Long Beach."	n		
-White-headed Woodpecker	Picidae	1996	Feeding		"Bull, E. L. 1980. Resource partitioning among woodpeckers in northeastern Oregon. Phd Thesis. Univ. of Idaho, Moscow."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Raphael, M. G. and M. White. 1984. Use of snags by cavity-nesting birds of the Sierra Nevada. Wildl. Monogr. 86:1-66."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Raphael, M. G. 1990. Use of markov chains in analyses of foraging behavior. Stud. Avian Biol. 13:288-194."			
+White-headed Woodpecker	Picidae	1996	Feeding		"Bull, E. L. 1980. Resource partitioning among woodpeckers in northeastern Oregon. Phd Thesis. Univ. of Idaho, Moscow."	y	n	
+White-headed Woodpecker	Picidae	1996	Feeding		"Raphael, M. G. and M. White. 1984. Use of snags by cavity-nesting birds of the Sierra Nevada. Wildl. Monogr. 86:1-66."	y	n	
+White-headed Woodpecker	Picidae	1996	Feeding		"Raphael, M. G. 1990. Use of markov chains in analyses of foraging behavior. Stud. Avian Biol. 13:288-194."	n		
 White-headed Woodpecker	Picidae	1996	Feeding		"Morrison, M. L., I. C. Timossi, K. A. With, and P. N. Manley. 1985. Use of tree species by forest birds during winter and summer. J. Wildl. Manage. 49:1098-1102."	y	n	
 White-headed Woodpecker	Picidae	1996	Feeding		"Dixon, R. D. 1995b. Ecology of White-headed Woodpeckers in the Central Oregon Cascades. Master's Thesis. Univ. of Idaho, Moscow."	y	n	
-White-headed Woodpecker	Picidae	1996	Feeding		"Weber, W. C. and S. R. Cannings. 1976. The White-headed Woodpecker (Dendrocopos albolarvatus) in British Columbia. Syesis 9:215-220."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Bendire, C. E. 1895. Life histories of North America birds. U.S. Natl. Mus. Bull. 3."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Merrill, J. C. 1888. Notes on the birds of Ft. Klamath, Oregon. Auk 5:251-262."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Remsen, Jr., J. V. and S. K. Robinson. 1990. A classification scheme for foraging behavior of birds in terrestrial habitats. Stud. Avian Biol. 13:144-160."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Dixon, R. D. 1995a. Density, nest-site and roost-site characteristics, home-range, habitat-use, and behavior of White-headed Woodpeckers: Deschutes and Winema National Forests, Oregon. Nongame Rep. 93-3-01. Oregon Dept. Fish and Wildl."			
+White-headed Woodpecker	Picidae	1996	Feeding		"Weber, W. C. and S. R. Cannings. 1976. The White-headed Woodpecker (Dendrocopos albolarvatus) in British Columbia. Syesis 9:215-220."	n		
+White-headed Woodpecker	Picidae	1996	Feeding		"Bendire, C. E. 1895. Life histories of North America birds. U.S. Natl. Mus. Bull. 3."	n		
+White-headed Woodpecker	Picidae	1996	Feeding		"Merrill, J. C. 1888. Notes on the birds of Ft. Klamath, Oregon. Auk 5:251-262."	n		
+White-headed Woodpecker	Picidae	1996	Feeding		"Remsen, Jr., J. V. and S. K. Robinson. 1990. A classification scheme for foraging behavior of birds in terrestrial habitats. Stud. Avian Biol. 13:144-160."	y	n	
+White-headed Woodpecker	Picidae	1996	Feeding		"Dixon, R. D. 1995a. Density, nest-site and roost-site characteristics, home-range, habitat-use, and behavior of White-headed Woodpeckers: Deschutes and Winema National Forests, Oregon. Nongame Rep. 93-3-01. Oregon Dept. Fish and Wildl."	n		
 White-headed Woodpecker	Picidae	1996	Feeding		"Morrison, M. L., K. A. With, I. C. Timossi, W. M. Block, and K. A. Milne. 1987. Foraging behavior of bark-foraging birds in the Sierra Nevada. Condor 89:201-204."	y	n	
-White-headed Woodpecker	Picidae	1996	Diet		"Grinnell, J. and T. I. Storer. 1924. Animal life in the Yosemite. Univ. of California Press, Berkeley."			
-White-headed Woodpecker	Picidae	1996	Diet		"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."			
-White-headed Woodpecker	Picidae	1996	Diet		"Curtis, J. D. 1948. Animals that eat ponderosa pine seed. J. Wildl. Manage. 12:327-328."			
+White-headed Woodpecker	Picidae	1996	Diet		"Grinnell, J. and T. I. Storer. 1924. Animal life in the Yosemite. Univ. of California Press, Berkeley."	y	n	
+White-headed Woodpecker	Picidae	1996	Diet		"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
+White-headed Woodpecker	Picidae	1996	Diet		"Curtis, J. D. 1948. Animals that eat ponderosa pine seed. J. Wildl. Manage. 12:327-328."	y	n	
 White-headed Woodpecker	Picidae	1996	Diet		"Halvorson, C. H. 1986. Influence of vertebrates on conifer seed production. Pages 201-222 in Proceedings-conifer tree seed in the Inland Mountain West symposium. (Shearer, R. C., Ed.) U.S. Dep. Agric. For. Serv. Gen. Tech. Rep. INT-203."	y	y	
-White-headed Woodpecker	Picidae	1996	Diet		"Fowells, H. A. 1956. Seed crops of forest trees in the pine region of California. U.S. Dep. Agric. Tech. Bull. 1150:1-48."			
-White-headed Woodpecker	Picidae	1996	Diet		"Cannings, R. A., R. J. Cannings, and S. G. Cannings. 1987. Birds of the Okanagan Valley, British Columbia. R. Br. Columbia Mus. Victoria."			
-White-headed Woodpecker	Picidae	1996	Diet		"Otvos, I. S. and R. W. Stark. 1985. Arthropod food of some forest-inhabiting birds. Can. Entomol. 117:971-990."			
+White-headed Woodpecker	Picidae	1996	Diet		"Fowells, H. A. 1956. Seed crops of forest trees in the pine region of California. U.S. Dep. Agric. Tech. Bull. 1150:1-48."	y	n	
+White-headed Woodpecker	Picidae	1996	Diet		"Cannings, R. A., R. J. Cannings, and S. G. Cannings. 1987. Birds of the Okanagan Valley, British Columbia. R. Br. Columbia Mus. Victoria."	n		
+White-headed Woodpecker	Picidae	1996	Diet		"Otvos, I. S. and R. W. Stark. 1985. Arthropod food of some forest-inhabiting birds. Can. Entomol. 117:971-990."	n		
 Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Stallcup, P. L. 1968. Spatio-temporal relationships of nuthatches and woodpeckers in ponderosa pine forests of Colorado. Ecology 49:831-843."			
 Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Crockett, A. B. 1975. Ecology and behavior of the Williamson's Sapsucker in Colorado. Phd Thesis. Univ. of Colorado, Boulder."			
 Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Sousa, P. J. 1983. Habitat suitability index models: Williamson's Sapsucker. Fish Wildl. Serv. FWS/OBS-82/10.47. U.S. Dept. Int."			
