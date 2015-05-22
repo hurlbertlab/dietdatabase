@@ -8771,6 +8771,16 @@ Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Linder, K.
 Nuttall's Woodpecker	Picidae	2000	Diet		"Miller, A. H. and C. E. Bock. 1972. Natural history of the Nuttall Woodpecker at the Hastings Reservation. Condor 74:284-294."	y	y	summarizes data from Beal 1911
 Nuttall's Woodpecker	Picidae	2000	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n	
+Pileated Woodpecker	Picidae	2011	Diet	Major Food Items	"Hoyt, S. F. 1957. The ecology of the Pileated Woodpecker. Ecology 38:246-256."			
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Bull, E. L., R. C. Beckwith, and R. S. Holthausen. 1992a. Arthropod diet of Pileated Woodpeckers in northeastern Oregon. Northwest Nat. 73:42-45."			
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Hoyt, J. S. Y. 1948b. Further studies of the Pileated Woodpecker. Phd Thesis. Cornell Univ. Ithaca, NY."			
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Pfitzenmeyer, H. T. 1956. Life history and behavior patterns of the Pileated Woodpecker relative to utility lines. Master's Thesis. Pennsylvania State Univ. State College."			
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Conner, R. N. 1982. Pileated Woodpecker feeds on horned passalus colony. Bull. Texas Ornithol. Soc. 15:15-16."			
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Snyder, T. E. 1948. Our enemy the termite. Comstock Publ. Co. Ithaca, NY."			
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. no. 37."			
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Downing, G. R. 1940. The winter habits of the Northern Pileated Woodpecker in Iowa. Iowa Bird Life 10:43-46."			
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Sprunt, Jr., A. and E. B. Chamberlain. 1970. South Carolina bird life. Univ. of South Carolina Press, Columbia."			
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Carter, T. D. 1942. Northern Pileated Woodpecker eating salmon. Auk 59:585."			
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Jenkins, J. M. 1979. Foraging behavior of male and female Nuttall Woodpeckers. Auk 96:418-420."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Jackson, J. A. 1976a. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y		*
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Jackson, J. A. 1977a. Competition for cavities and Red-cockaded Woodpecker management. Pages 103-112 in Management techniques for preserving endangered species. (Temple, S. A., Ed.) Univ. of Wisconsin Press, Madison."	y	n	
@@ -8894,14 +8904,14 @@ Red-naped Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Raphael, M. 
 Red-naped Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Lundquist, R. W. 1988. Habitat use by cavity-nesting birds in the southern Washington Cascades. Master's Thesis. Univ. of Washington, Seattle."	n		
 Red-naped Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Ziller, W. G. and D. Stirling. 1961. Sapsucker damage in coastal British Columbia. For. Chron. 37:331-335."	n		
 Red-naped Sapsucker	Picidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Walters, E. L., E. H. Miller, and P. E. Lowther. 2002. Yellow-bellied Sapsucker (Sphyrapicus varius). in The birds of North America, no. 662. (Poole, A. and F. Gill, Eds.) The Birds of North America, Inc. Philadelphia, PA."	n		
-Red-naped Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Oliver, W. W. 1968. Sapsucker damage to ponderosa pine. J. For. 66:842-844."			
-Red-naped Sapsucker	Picidae	2002	Metabolism And Temperature Regulation		"Smith, K. G. 1982b. On habitat selection of Williamson's and Red-naped Yellow-bellied Sapsuckers. Southwest. Nat. 27:464-466."			
-Red-naped Sapsucker	Picidae	2002	Food Selection And Storage	Red-Breasted Sapsucker	"Oliver, W. W. 1970. The feeding pattern of sapsuckers on ponderosa pine in northeastern California. Condor 72:241."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agric. Biol. Surv. Bull. 37:1-64."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Koch, R. F., A. E. Courchesne, and C. T. Collins. 1970. Sexual differences in foraging behavior of White-headed Woodpeckers. Bull. S. Calif. Acad. Sci. 69:60-64."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Tevis, L. and Jr. 1953. Effect of vertebrate animals on seed crop of sugar pine. J. Wildl. Manage. 17:128-131."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Ligon, J. D. 1973. Foraging behavior of the White-headed Woodpecker in Idaho. Auk 90:862-869."			
-White-headed Woodpecker	Picidae	1996	Feeding		"Hilkevitch, A. N. 1974. Sexual differences in foraging behavior among White-headed Woodpeckers. Master's Thesis. California State Univ. Long Beach."			
+Red-naped Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Oliver, W. W. 1968. Sapsucker damage to ponderosa pine. J. For. 66:842-844."	n		
+Red-naped Sapsucker	Picidae	2002	Metabolism And Temperature Regulation		"Smith, K. G. 1982b. On habitat selection of Williamson's and Red-naped Yellow-bellied Sapsuckers. Southwest. Nat. 27:464-466."	y	n	
+Red-naped Sapsucker	Picidae	2002	Food Selection And Storage	Red-Breasted Sapsucker	"Oliver, W. W. 1970. The feeding pattern of sapsuckers on ponderosa pine in northeastern California. Condor 72:241."	y	n	
+White-headed Woodpecker	Picidae	1996	Feeding		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agric. Biol. Surv. Bull. 37:1-64."	y	y	
+White-headed Woodpecker	Picidae	1996	Feeding		"Koch, R. F., A. E. Courchesne, and C. T. Collins. 1970. Sexual differences in foraging behavior of White-headed Woodpeckers. Bull. S. Calif. Acad. Sci. 69:60-64."	y	n	
+White-headed Woodpecker	Picidae	1996	Feeding		"Tevis, L. and Jr. 1953. Effect of vertebrate animals on seed crop of sugar pine. J. Wildl. Manage. 17:128-131."	y	n	
+White-headed Woodpecker	Picidae	1996	Feeding		"Ligon, J. D. 1973. Foraging behavior of the White-headed Woodpecker in Idaho. Auk 90:862-869."	y	n	
+White-headed Woodpecker	Picidae	1996	Feeding		"Hilkevitch, A. N. 1974. Sexual differences in foraging behavior among White-headed Woodpeckers. Master's Thesis. California State Univ. Long Beach."	n		
 White-headed Woodpecker	Picidae	1996	Feeding		"Bull, E. L. 1980. Resource partitioning among woodpeckers in northeastern Oregon. Phd Thesis. Univ. of Idaho, Moscow."			
 White-headed Woodpecker	Picidae	1996	Feeding		"Raphael, M. G. and M. White. 1984. Use of snags by cavity-nesting birds of the Sierra Nevada. Wildl. Monogr. 86:1-66."			
 White-headed Woodpecker	Picidae	1996	Feeding		"Raphael, M. G. 1990. Use of markov chains in analyses of foraging behavior. Stud. Avian Biol. 13:288-194."			
