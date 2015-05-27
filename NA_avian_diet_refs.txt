@@ -8771,16 +8771,16 @@ Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Linder, K.
 Nuttall's Woodpecker	Picidae	2000	Diet		"Miller, A. H. and C. E. Bock. 1972. Natural history of the Nuttall Woodpecker at the Hastings Reservation. Condor 74:284-294."	y	y	summarizes data from Beal 1911
 Nuttall's Woodpecker	Picidae	2000	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n	
-Pileated Woodpecker	Picidae	2011	Diet	Major Food Items	"Hoyt, S. F. 1957. The ecology of the Pileated Woodpecker. Ecology 38:246-256."			
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Bull, E. L., R. C. Beckwith, and R. S. Holthausen. 1992a. Arthropod diet of Pileated Woodpeckers in northeastern Oregon. Northwest Nat. 73:42-45."			
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Hoyt, J. S. Y. 1948b. Further studies of the Pileated Woodpecker. Phd Thesis. Cornell Univ. Ithaca, NY."			
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Pfitzenmeyer, H. T. 1956. Life history and behavior patterns of the Pileated Woodpecker relative to utility lines. Master's Thesis. Pennsylvania State Univ. State College."			
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Conner, R. N. 1982. Pileated Woodpecker feeds on horned passalus colony. Bull. Texas Ornithol. Soc. 15:15-16."			
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Snyder, T. E. 1948. Our enemy the termite. Comstock Publ. Co. Ithaca, NY."			
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. no. 37."			
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Downing, G. R. 1940. The winter habits of the Northern Pileated Woodpecker in Iowa. Iowa Bird Life 10:43-46."			
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Sprunt, Jr., A. and E. B. Chamberlain. 1970. South Carolina bird life. Univ. of South Carolina Press, Columbia."			
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Carter, T. D. 1942. Northern Pileated Woodpecker eating salmon. Auk 59:585."			
+Pileated Woodpecker	Picidae	2011	Diet	Major Food Items	"Hoyt, S. F. 1957. The ecology of the Pileated Woodpecker. Ecology 38:246-256."	y	n	"summarizes Beal 1895, general"
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Bull, E. L., R. C. Beckwith, and R. S. Holthausen. 1992a. Arthropod diet of Pileated Woodpeckers in northeastern Oregon. Northwest Nat. 73:42-45."	y		*
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Hoyt, J. S. Y. 1948b. Further studies of the Pileated Woodpecker. Phd Thesis. Cornell Univ. Ithaca, NY."	n		
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Pfitzenmeyer, H. T. 1956. Life history and behavior patterns of the Pileated Woodpecker relative to utility lines. Master's Thesis. Pennsylvania State Univ. State College."	n		
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Conner, R. N. 1982. Pileated Woodpecker feeds on horned passalus colony. Bull. Texas Ornithol. Soc. 15:15-16."	n		
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Snyder, T. E. 1948. Our enemy the termite. Comstock Publ. Co. Ithaca, NY."	y	n	
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. no. 37."	y	n	copy published online skips pages with Pileated Woodpecker diet data
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Downing, G. R. 1940. The winter habits of the Northern Pileated Woodpecker in Iowa. Iowa Bird Life 10:43-46."	n		
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Sprunt, Jr., A. and E. B. Chamberlain. 1970. South Carolina bird life. Univ. of South Carolina Press, Columbia."	n		
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Carter, T. D. 1942. Northern Pileated Woodpecker eating salmon. Auk 59:585."	y	n	
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Jenkins, J. M. 1979. Foraging behavior of male and female Nuttall Woodpeckers. Auk 96:418-420."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Jackson, J. A. 1976a. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y		*
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Jackson, J. A. 1977a. Competition for cavities and Red-cockaded Woodpecker management. Pages 103-112 in Management techniques for preserving endangered species. (Temple, S. A., Ed.) Univ. of Wisconsin Press, Madison."	y	n	
@@ -8930,45 +8930,45 @@ White-headed Woodpecker	Picidae	1996	Diet		"Halvorson, C. H. 1986. Influence of 
 White-headed Woodpecker	Picidae	1996	Diet		"Fowells, H. A. 1956. Seed crops of forest trees in the pine region of California. U.S. Dep. Agric. Tech. Bull. 1150:1-48."	y	n	
 White-headed Woodpecker	Picidae	1996	Diet		"Cannings, R. A., R. J. Cannings, and S. G. Cannings. 1987. Birds of the Okanagan Valley, British Columbia. R. Br. Columbia Mus. Victoria."	n		
 White-headed Woodpecker	Picidae	1996	Diet		"Otvos, I. S. and R. W. Stark. 1985. Arthropod food of some forest-inhabiting birds. Can. Entomol. 117:971-990."	n		
-Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Stallcup, P. L. 1968. Spatio-temporal relationships of nuthatches and woodpeckers in ponderosa pine forests of Colorado. Ecology 49:831-843."			
-Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Crockett, A. B. 1975. Ecology and behavior of the Williamson's Sapsucker in Colorado. Phd Thesis. Univ. of Colorado, Boulder."			
-Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Sousa, P. J. 1983. Habitat suitability index models: Williamson's Sapsucker. Fish Wildl. Serv. FWS/OBS-82/10.47. U.S. Dept. Int."			
+Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Stallcup, P. L. 1968. Spatio-temporal relationships of nuthatches and woodpeckers in ponderosa pine forests of Colorado. Ecology 49:831-843."	y	n	
+Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Crockett, A. B. 1975. Spatio-temporal relationships of nuthatches and woodpeckers in ponderosa pine forests of Colorado. Phd Thesis. Univ. of Colorado, Boulder."	n		
+Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Sousa, P. J. 1983. Habitat suitability index models: Williamson's Sapsucker. Fish Wildl. Serv. FWS/OBS-82/10.47. U.S. Dept. Int."	y	n	summarizes data from Beal 1911
 Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Stanford, J. S. and G. F. Knowlton. 1942. Food of some Utah birds. Auk 59:580-581."	y	n	
 Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Bock, C. E. and D. L. Larson. 1986. Winter habitats of sapsuckers in southeastern Arizona. Condor 88:246-247."	y	n	
-Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr., Biol. Surv. Bull. 37."			
+Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr., Biol. Surv. Bull. 37."	y	y	
 Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Russell, C. P. 1925. Some winter observations on the Williamson's Sapsucker. Yosemite Nature Notes 4:21."	y	y	
 Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Smith, K. G. 1982. On habitat selection of Williamson's and Red-naped Yellow-bellied Sapsuckers. Southwest. Nat. 27:464-466."	n		
-Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Bull, E. L., S. R. Peterson, and J. W. Thomas. 1986. Resource partitioning among woodpeckers in northeastern Oregon. USFS Res. Note PNW 444. U.S. Dept. Agric."			
-Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Short, L. L. 1982. Woodpeckers of the world. Delaware Mus. Nat. His. Monogr. Ser. no. 4."			
+Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Bull, E. L., S. R. Peterson, and J. W. Thomas. 1986. Resource partitioning among woodpeckers in northeastern Oregon. USFS Res. Note PNW 444. U.S. Dept. Agric."	y	n	
+Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Short, L. L. 1982. Woodpeckers of the world. Delaware Mus. Nat. His. Monogr. Ser. no. 4."	n		
 Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Grinnell, J. and T. I. Storer. 1924. Animal life in the Yosemite. Univ. of Calif. Press, Berkeley."	y	n	
-Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Oliver, W. W. 1970. The feeding pattern of sapsuckers on ponderosa pine in northeastern California. Condor 72:241."			
-Williamson's Sapsucker	Picidae	1997	Feeding	Food Capture And Consumption	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."			
-Williamson's Sapsucker	Picidae	1997	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. Dover Publ. Inc., New York."			
-Williamson's Sapsucker	Picidae	1997	Diet	Major Food Items	"Remsen, Jr., J. V. 1991. First record of Williamson's Sapsucker from Louisiana. J. La. Ornithol. 2:15-17."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Mcatee, W. L. 1911. Woodpeckers in relation to trees and wood products. U.S. Dep. Agric. Washington, D.C."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Tate, Jr., J. 1969. Foraging behavior of the Eastern Yellow-bellied Sapsucker (Sphyrapicus varius varius). Phd Thesis. Univ. of Nebraska, Lincoln."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Foster, W. I. and J. Tate, Jr. 1966. The activities and coactions of animals at sapsucker trees. Living Bird 5:87-113."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Erdmann, G. G. and R. R. Oberg. 1974. Sapsucker feeding damages crown-released yellow birch trees. J. For. 72:760-763."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Wilkins, H. D. 2001. The winter foraging ecology of Yellow-bellied Sapsuckers, Sphyrapicus varius, in east-central Mississippi. Phd Thesis. Mississippi State Univ. Mississippi State."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Eberhardt, L. S. 1994. Sap-feeding and its consequences for reproductive success and communication in Yellow-bellied Sapsuckers (Sphyrapicus varius). Phd Thesis. Univ. of Florida, Gainesville."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Gibbon, R. S. 1970. The breeding biology and food of the Yellow-bellied Sapsucker in New Brunswick. Master's Thesis. York Univ. Toronto, ON."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Tate, Jr., J. 1973. Methods and annual sequence of foraging by the sapsucker. Auk 90:840-856."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Williams, J. B. 1980. Foraging by Yellow-bellied Sapsuckers in central Illinois during spring migration. Wilson Bull. 92:519-523."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Williams, J. B. 1975. Habitat utilization by four species of woodpeckers in a central Illinois woodland. Am. Midl. Nat. 93:354-367."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Mcguire, N. M. 1932. A Red-bellied Woodpecker robs a sapsucker. Wilson Bull. 44:39."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Lawrence, L. de K. 1967. A comparative life-history study of four species of woodpeckers. Ornithol. Monogr. 5."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Beach III, J. H. 1974. A quantitative study of the foraging behavior of the Yellow-bellied Sapsucker (Sphyrapicus varius) in eastern Texas. Master's Thesis. Stephen F. Austin State Univ. Nacogdoches, TX."			
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Southwick, E. E. and A. K. Southwick. 1980. Energetics of feeding on tree sap by Ruby-throated Hummingbirds in Michigan. Am. Midl. Nat. 104:328-334."			
+Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Oliver, W. W. 1970. The feeding pattern of sapsuckers on ponderosa pine in northeastern California. Condor 72:241."	y	n	
+Williamson's Sapsucker	Picidae	1997	Feeding	Food Capture And Consumption	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
+Williamson's Sapsucker	Picidae	1997	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. Dover Publ. Inc., New York."	n		
+Williamson's Sapsucker	Picidae	1997	Diet	Major Food Items	"Remsen, Jr., J. V. 1991. First record of Williamson's Sapsucker from Louisiana. J. La. Ornithol. 2:15-17."	n		
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Mcatee, W. L. 1911. Woodpeckers in relation to trees and wood products. U.S. Dep. Agric. Washington, D.C."	y	n	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Tate, Jr., J. 1969. Foraging behavior of the Eastern Yellow-bellied Sapsucker (Sphyrapicus varius varius). Phd Thesis. Univ. of Nebraska, Lincoln."	y	n	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Foster, W. I. and J. Tate, Jr. 1966. The activities and coactions of animals at sapsucker trees. Living Bird 5:87-113."	n		
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Erdmann, G. G. and R. R. Oberg. 1974. Sapsucker feeding damages crown-released yellow birch trees. J. For. 72:760-763."	n		
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Wilkins, H. D. 2001. The winter foraging ecology of Yellow-bellied Sapsuckers, Sphyrapicus varius, in east-central Mississippi. Phd Thesis. Mississippi State Univ. Mississippi State."	y	n	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Eberhardt, L. S. 1994. Sap-feeding and its consequences for reproductive success and communication in Yellow-bellied Sapsuckers (Sphyrapicus varius). Phd Thesis. Univ. of Florida, Gainesville."	n		
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Gibbon, R. S. 1970. The breeding biology and food of the Yellow-bellied Sapsucker in New Brunswick. Master's Thesis. York Univ. Toronto, ON."	y		*
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Tate, Jr., J. 1973. Methods and annual sequence of foraging by the sapsucker. Auk 90:840-856."	y	n	summarizes data from Beal 1911
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Williams, J. B. 1980. Foraging by Yellow-bellied Sapsuckers in central Illinois during spring migration. Wilson Bull. 92:519-523."	y	n	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Williams, J. B. 1975. Habitat utilization by four species of woodpeckers in a central Illinois woodland. Am. Midl. Nat. 93:354-367."	y	n	summarizes general older data from multiple publications
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Mcguire, N. M. 1932. A Red-bellied Woodpecker robs a sapsucker. Wilson Bull. 44:39."	y	n	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Lawrence, L. de K. 1967. A comparative life-history study of four species of woodpeckers. Ornithol. Monogr. 5."	y	n	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Beach III, J. H. 1974. A quantitative study of the foraging behavior of the Yellow-bellied Sapsucker (Sphyrapicus varius) in eastern Texas. Master's Thesis. Stephen F. Austin State Univ. Nacogdoches, TX."	n		
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Southwick, E. E. and A. K. Southwick. 1980. Energetics of feeding on tree sap by Ruby-throated Hummingbirds in Michigan. Am. Midl. Nat. 104:328-334."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Kilham, L. 1964. The relations of breeding Yellow-bellied Sapsuckers to wounded birches and other trees. Auk 81:520-527."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Ohman, J. H. and K. J. Kessler, Jr. 1964. Black bark as an indicator of bird peck defect in sugar maple. Res. Pap. LS-14. U.S. Dep. Agric., For. Serv., Lake States For. Exp. Sta. Marquette, MI."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Bolles, F. 1891. Yellow-bellied Woodpeckers and their uninvited guests. Auk 8:256-270."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Eberhardt, L. S. 2000. Use and selection of sap trees by Yellow-bellied Sapsuckers. Auk 117:41-51."	y	y	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Rudolph, D. C., R. N. Conner, and R. R. Schaefer. 1991. Yellow-bellied Sapsuckers feeding at Red-cockaded Woodpecker resin wells. Wilson Bull. 103:122-123."	y	n	
-Yellow-bellied Sapsucker	Picidae	2002	Diet	Quantitative Analysis	"Short, L. L. 1982. Woodpeckers of the world. Delaware Mus. Nat. Hist., Monogr. Ser. 4, Greenville, DE."			
-Yellow-bellied Sapsucker	Picidae	2002	Food Selection And Storage		"Rushmore, F. M. 1969. Sapsucker damage varies with tree species and seasons. Res. Pap. NE-136. U.S. Dep. Agric., For. Serv., Northeast For. Exp. Sta. Upper Darby, PA."			
-Yellow-bellied Sapsucker	Picidae	2002	Food Selection And Storage		"Conner, R. N. and J. C. Kroll. 1979. Food-storing by Yellow-bellied Sapsuckers. Auk 96:195."			
-Yellow-bellied Sapsucker	Picidae	2002	Food Selection And Storage		"Kilham, L. 1963. Food storing of Red-bellied Woodpeckers. Wilson Bull. 75:227-234."			
+Yellow-bellied Sapsucker	Picidae	2002	Diet	Quantitative Analysis	"Short, L. L. 1982. Woodpeckers of the world. Delaware Mus. Nat. Hist., Monogr. Ser. 4, Greenville, DE."	n		
+Yellow-bellied Sapsucker	Picidae	2002	Food Selection And Storage		"Rushmore, F. M. 1969. Sapsucker damage varies with tree species and seasons. Res. Pap. NE-136. U.S. Dep. Agric., For. Serv., Northeast For. Exp. Sta. Upper Darby, PA."	y	n	
+Yellow-bellied Sapsucker	Picidae	2002	Food Selection And Storage		"Conner, R. N. and J. C. Kroll. 1979. Food-storing by Yellow-bellied Sapsuckers. Auk 96:195."	y	n	
+Yellow-bellied Sapsucker	Picidae	2002	Food Selection And Storage		"Kilham, L. 1963. Food storing of Red-bellied Woodpeckers. Wilson Bull. 75:227-234."	y	n	
 Clark's Grebe	Podicipedidae	1992	Feeding	Microhabitat For Foraging	"Ratti, J. T. 1985. A test of water depth niche partitioning by Western Grebe color morphs. Auk 102:635-637."			
 Clark's Grebe	Podicipedidae	1992	Feeding	Microhabitat For Foraging	"Nuechterlein, G. L. and D. P. Buitron. 1989. Diving differences between Western and Clark's grebes. Auk 106:467-470."			
 Clark's Grebe	Podicipedidae	1992	Feeding	Microhabitat For Foraging	"Nuechterlein, G. L. 1981a. Variations and multiple functions of the Advertising Display of Western Grebes. Behaviour 76:289-317."			
