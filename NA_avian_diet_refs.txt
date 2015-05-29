@@ -8609,7 +8609,7 @@ Downy Woodpecker	Picidae	2002	Diet		"Moeller, R. K. and M. K. Thogerson. 1978. P
 Downy Woodpecker	Picidae	2002	Diet		"Neff, J. A. 1928. A study of the economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Williams, J. B. and G. O. Batzli. 1979b. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."	y	y	
 Downy Woodpecker	Picidae	2002	Diet		"Confer, J. L., C. J. Hibbard, and D. Ebbets. 1986. Downy Woodpecker reward rates from goldenrod gall insects. Kingbird 36:188-192."	n		
-Downy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric., Biol. Surv. Bull. 34:1-96."	y		*
+Downy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric., Biol. Surv. Bull. 34:1-96."	y	y	
 Downy Woodpecker	Picidae	2002	Diet		"Waldbauer, G. P., J. G. Sternburg, A. G. Scarbrough, and W. G. George. 1970. Hairy and Downy woodpeckers attacks on cocoons of urban Hyalophora cecropia and other saturniids (Lepidoptera). Ann. Entomol. Soc. Am. 63:1366-1369."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Dennis, J. V. 1951. A comparative study of Florida woodpeckers in the non-breeding season. Master's Thesis. Univ. of Florida, Gainesville."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Jackson, J. A. 1998. Downy Woodpecker. Wildfowl Carving and Collecting 14(3):49-59."	n		
