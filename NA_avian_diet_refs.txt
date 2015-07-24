@@ -68,6 +68,7 @@ Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Stocek, R. F. Diet of
 Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Goulet, R. 2010. Aspects of the Ecology of Urban-nesting Bald Eagles ( Haliaeetus leucocephalus) in South-Coastal British Columbia. McGill University. "	y	Y	
 Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Markham, A. C., and B. D. Watts. 2008. The Influence of Salinity on the Diet of Nesting Bald Eagles. The Journal of Raptor Research. 42:99-109."	y	Y	
 Bald Eagle	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	Y	
+Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Newsome SD, Collins PW, Sharpe P. Foraging ecology of a reintroduced population of breeding Bald Eagles on the Channel Islands, California, USA, inferred from prey remains and stable isotope analysis. The Condor [Internet]. Cooper Ornithological Society; 2015 Jul 22;117(3):396–413"			
 Black-chested Buzzard-eagle	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."			
 Broad-winged Hawk	Accipitridae	1996	Nutrition And Energetics		"Mosher, J. A. and P. F. Matray. 1974. Size dimorphism: a factor in energy savings for Broad-winged Hawks. Auk 91:325-341."	y	Y	
 Broad-winged Hawk	Accipitridae	1996	Feeding		"Burns, F. L. 1911. A monograph of the Broad-winged Hawk (Buteo platypterus). Wilson Bull. 23(3 and 4):1-320."	y	n	
