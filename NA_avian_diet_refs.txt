@@ -8774,7 +8774,7 @@ Nuttall's Woodpecker	Picidae	2000	Diet		"Miller, A. H. and C. E. Bock. 1972. Nat
 Nuttall's Woodpecker	Picidae	2000	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n	
 Pileated Woodpecker	Picidae	2011	Diet	Major Food Items	"Hoyt, S. F. 1957. The ecology of the Pileated Woodpecker. Ecology 38:246-256."	y	n	"summarizes Beal 1895, general"
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Bull, E. L., R. C. Beckwith, and R. S. Holthausen. 1992a. Arthropod diet of Pileated Woodpeckers in northeastern Oregon. Northwest Nat. 73:42-45."	y		*
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Bull, E. L., R. C. Beckwith, and R. S. Holthausen. 1992a. Arthropod diet of Pileated Woodpeckers in northeastern Oregon. Northwest Nat. 73:42-45."	y	y	
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Hoyt, J. S. Y. 1948b. Further studies of the Pileated Woodpecker. Phd Thesis. Cornell Univ. Ithaca, NY."	n		
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Pfitzenmeyer, H. T. 1956. Life history and behavior patterns of the Pileated Woodpecker relative to utility lines. Master's Thesis. Pennsylvania State Univ. State College."	n		
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Conner, R. N. 1982. Pileated Woodpecker feeds on horned passalus colony. Bull. Texas Ornithol. Soc. 15:15-16."	n		
