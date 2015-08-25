@@ -8784,7 +8784,7 @@ Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Downing, G. R. 1940
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Sprunt, Jr., A. and E. B. Chamberlain. 1970. South Carolina bird life. Univ. of South Carolina Press, Columbia."	n		
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Carter, T. D. 1942. Northern Pileated Woodpecker eating salmon. Auk 59:585."	y	n	
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Jenkins, J. M. 1979. Foraging behavior of male and female Nuttall Woodpeckers. Auk 96:418-420."	y	n	
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Jackson, J. A. 1976a. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y		*
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Jackson, J. A. 1976a. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y	y	
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Jackson, J. A. 1977a. Competition for cavities and Red-cockaded Woodpecker management. Pages 103-112 in Management techniques for preserving endangered species. (Temple, S. A., Ed.) Univ. of Wisconsin Press, Madison."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Rodgers, Jr., S. P. 1990. Predation of domestic fowl eggs by Red-bellied Woodpeckers. Fla. Field Nat. 18:57-58."	n		
 Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Reller, A. W. 1972. Aspects of behavioral ecology of Red-headed and Red-bellied woodpeckers. Am. Midl. Nat. 88:270-290."	y	n	
