@@ -100,6 +100,25 @@ and then highlight downward as many rows as you will be inserting. Right click
 "Insert" and you should have the appropriate number of blank rows in which to
 enter or paste your new data.
 
+8. When entering information on the prey, try to fill in all of the higher taxonomic level 
+information above the taxonomic level reported. For example, if the prey category reported is the Order "Coleoptera" 
+(i.e. beetles), then you would also fill in "Animalia", "Arthropoda", and "Insecta" for the 
+Prey_Kingdom, Prey_Phylum, and Prey_Class fields. You can verify this information by pasting
+the prey name into the [Global Names Resolver](http://resolver.globalnames.biodinfo.org/) and 
+clicking on "Resolve Names". This will generate a report of the hierarchical classification
+of your name as reported by various entities. For consistency, we will typically rely on the 
+reported classification of ITIS (Integrated Taxonomic Information System), which in
+this example provides a report that looks like this (try finding "ITIS" on the browser page 
+using Ctrl-F as it may be a ways down in the report):
+
+Coleoptera Linnaeus, 1758 [ exact canonical match, Score: 0.75 ]  
+ITIS  
+Animalia (Kingdom) >> Bilateria (Subkingdom) >> Protostomia (Infrakingdom) >> Ecdysozoa (Superphylum) >> Arthropoda (Phylum) >> Hexapoda (Subphylum) >> Insecta (Class) >> Pterygota (Subclass) >> Neoptera (Infraclass) >> Holometabola (Superorder) >> Coleoptera (Order)
+
+This provides many intermediate levels of the taxonomic hierarchy, and for our purposes we are just focusing on 
+Kingdom, Phylum, Class, Order, Suborder (if listed), Family, Genus, or full Scientific Name.
+
+
 ---
 
 Try entering data from the two studies listed below. Open the training_dietdatabase.txt
