@@ -111,8 +111,8 @@ reported classification of ITIS (Integrated Taxonomic Information System), which
 this example provides a report that looks like this (try finding "ITIS" on the browser page 
 using Ctrl-F as it may be a ways down in the report):
 
-Coleoptera Linnaeus, 1758 [ exact canonical match, Score: 0.75 ]
-ITIS
+Coleoptera Linnaeus, 1758 [ exact canonical match, Score: 0.75 ]  
+ITIS  
 Animalia (Kingdom) >> Bilateria (Subkingdom) >> Protostomia (Infrakingdom) >> Ecdysozoa (Superphylum) >> Arthropoda (Phylum) >> Hexapoda (Subphylum) >> Insecta (Class) >> Pterygota (Subclass) >> Neoptera (Infraclass) >> Holometabola (Superorder) >> Coleoptera (Order)
 
 This provides many intermediate levels of the taxonomic hierarchy, and for our purposes we are just focusing on 
