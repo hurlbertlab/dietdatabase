@@ -157,7 +157,7 @@ Look up the papers in the search results, and be sure to add any that contain us
 ##Data Entry Details
 To maximize the utility of the data, we need to record many types of information describing the what, when, where, and how 
 of its collection, and so our database has many fields. In the table below we explain what exactly is characterized in each
-of these fields, and how data should be entered.
+of these fields, and how data should be entered. Further instructions about how to enter data in the database are provided [here](https://github.com/hurlbertlab/dietdatabase/blob/master/diet_data_instructions.md).
 
 
 <table>
