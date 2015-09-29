@@ -15,8 +15,8 @@ in on the rows for "Allen Hurlbert. Avian Diet Database".
 
 3) Names to be cleaned are in the "unmatched taxon name" column. To begin cleaning,
 first find and open the PDF of the study (given in the "study" column) this name 
-appeared in. Most pdfs should be in the HurlbertLab folder > Databases > DietDatabase
-> Papers with data. If the paper is not in this folder, track it down online and 
+appeared in. Most pdfs should be in the HurlbertLab folder > Databases > DietDatabase >
+ Papers with data. If the paper is not in this folder, track it down online and 
 save a PDF here.
 
 4) Search the PDF for the unmatched name (use Ctrl-F). 
