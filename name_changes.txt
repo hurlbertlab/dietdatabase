@@ -4,3 +4,4 @@ Cryptopleurus vagans	Cryptopleurum vagans	ITIS:193675		"Beal, F. E. L. 1912. Foo
 Carphophilus hemipterus	Carpophilus hemipterus	ITIS:114296		"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Cedionychis miniata	Oedionychus miniatus			"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Hygrotrechus sp	Gerridae		source taxon name is obsolete and currently accepted classification is unclear past the family Gerridae	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
+Anomaea laticlavia	Anomoea laticlavia	ITIS:721283		"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
