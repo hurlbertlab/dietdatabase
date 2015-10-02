@@ -12770,4 +12770,27 @@ Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Orians and Kuhlman. 1956. Condor. 58 371-385			
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gates. 1972. Wilson Bull. 84 421-433			
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Fitch and Bare. 1978. Tras. Kans. Acad. Sci. 81 1-13			
-Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds						
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Lowe, C. 1978. Certain Life History Aspects of the Red-Tailed Hawk in Cent. Okla. And Interior Alaska. University of Alaska, Fairbanks, M.S. Thesis"			
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Knight, R. L. and Erickson. 1976. Raptor Research. 10 108-111"			
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Fitch et al. 1946. Condor 48 205-237			
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Meslow and Keith. 1966. Candian Field-Naturalist. 80 98-100.			
+Ferruginous Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Howard and Wolfe. 1976. Journal Rqange Management. 29 33-37			
+Ferruginous Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Blair and schitoskey. 1982. Wilson Bull. 94. 46-54			
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Bent. 1937. U.S. Nat. Mus. Bull. 167			
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Errington and Breckenridge. 1936. Am. Midland Nat. 7 831-848.			
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Jackson, V. 1941. Canadian Field-Naturalist. 55 129-130."			
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Racey. 1922. Murrelet 3 6.			
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Sprunt, Jr.. 1940. Auk 57 564-565"			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Morrison, C. F. 1889. Ornith. And Ool.14 25"			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Longhurst et al. 1952. Calif. Dept. Fish and Game, Game Bull. No. 6."			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Nette. 1984. Canadian Field Naturalist. 98 252-254			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Lehti. 1947. Jour. Wildl. Mgmt. 11 348-349.			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Campbell, J.S. 1934. Auk 41 370-371."			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Garrott and Eberhardt. 1982. Jour. Mammal. 63 173-174. 			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			H. S. Ford and Alcorn. 1964. Condor 66 76-77.			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Windigstad et al. 1981. Inland Bird Banding 52 35.			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Eklund. 1946. Auk 63 89-90			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			J. Scott. 1942. Auk 59 477-498.			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			W. Fischer et al.  1980. Beitr. Vogelkd. 26 295-297			
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Kuyt.  1967. Bird-Banding 38 78-79			
+American Kestrel								
