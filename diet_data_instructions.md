@@ -91,7 +91,8 @@ enter diet data. The options are:
 
     In some cases, the data will not be provided as a fraction or %, and you will 
     need to calculate this yourself. If so, make a note about what you did in the
-    Notes field.
+    Notes field. If you are calculating fractions yourself, round entries to the 
+    nearest 0.001.
 
 7. Typically, you will be inserting your rows of data into the middle of the 
 diet database in the section for the relevant Family. If you are working in
