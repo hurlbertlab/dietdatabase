@@ -8,3 +8,4 @@ Anomaea laticlavia	Anomoea laticlavia	ITIS:721283		"Beal, F. E. L. 1912. Food of
 Rhinoneus pyrrhopus	Campylirhynchus pyrrhopus	ITIS:617255		"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Scolytus 4-spinosus	Scolytus quadrispinosus	ITIS:114950		"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Tachycellus atrimedius	Bradycellus atrimedeus	ITIS:111003		"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
+Prunus sp	Prunus avium	ITIS:24770	"specific epithet not listed but common name given as ""domestic cherry"", inferred to be Prunus avium."	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
