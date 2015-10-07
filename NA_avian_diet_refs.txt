@@ -2478,7 +2478,7 @@ Black-headed Grosbeak	Cardinalidae	26-Jul-10	Metabolism And Temperature Regulati
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	"Drinking, Pellet-Casting, And Defecation"		"Miller, A. H. and R. C. Stebbins. 1964. The lives of desert animals in Joshua Tree National Monument. 5. Birds. Univ. of California Press, Berkeley."			
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Main Foods Taken	"Mcatee, W. L. 1908. Food habits of the grosbeaks. U.S. Dept. Agricult. Biol. Surv. Bull. 32."	y	y	
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Microhabitat For Foraging	"Weston, H. G. 1947. Breeding behavior of the Black-headed Grosbeak. Condor 49:54-73."	y	n	
-Black-headed Grosbeak	Cardinalidae	26-Jul-10	Nutrition And Energetics		"Fink, L. S. and L. P. Brower. 1981. Birds can overcome the cardenolide defence of monarch butterflies in Mexico. Science 291:67-70."			
+Black-headed Grosbeak	Cardinalidae	26-Jul-10	Nutrition And Energetics		"Fink, L. S. and L. P. Brower. 1981. Birds can overcome the cardenolide defence of monarch butterflies in Mexico. Science 291:67-70."	y	n	
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."			
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Diet	Major Food Items	"Brower, L. P. and W. H. Calvert. 1985. Foraging dynamics of bird predators on overwintering monarch butterflies in Mexico. Evolution 39:852-868."			
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1957. Birds of pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna no. 32."			
