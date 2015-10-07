@@ -2474,8 +2474,8 @@ Lesser Nighthawk	Caprimulgidae	1997	Metabolism And Temperature Regulation		"Daws
 Lesser Nighthawk	Caprimulgidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Dawson, W. L. 1923. Birds of California. South Moulton Co. Los Angeles."			
 Lesser Nighthawk	Caprimulgidae	1997	Metabolism And Temperature Regulation		"Austin, G. T. and W. G. Bradley. 1969. Additional responses of the Poor-will to low temperatures. Auk 86:717-725."			
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Metabolism And Temperature Regulation		"Callaghan, E. 1983. Breeding the Black-headed Grosbeak. Avicult. Mag. 89:137-145."	n		couldn't locate
-Black-headed Grosbeak	Cardinalidae	26-Jul-10	Metabolism And Temperature Regulation		"Dawson, W. L. 1923. The birds of California. S. Moulton Co. San Diego, CA."			
-Black-headed Grosbeak	Cardinalidae	26-Jul-10	"Drinking, Pellet-Casting, And Defecation"		"Miller, A. H. and R. C. Stebbins. 1964. The lives of desert animals in Joshua Tree National Monument. 5. Birds. Univ. of California Press, Berkeley."			
+Black-headed Grosbeak	Cardinalidae	26-Jul-10	Metabolism And Temperature Regulation		"Dawson, W. L. 1923. The birds of California. S. Moulton Co. San Diego, CA."	n		couldn't locate
+Black-headed Grosbeak	Cardinalidae	26-Jul-10	"Drinking, Pellet-Casting, And Defecation"		"Miller, A. H. and R. C. Stebbins. 1964. The lives of desert animals in Joshua Tree National Monument. 5. Birds. Univ. of California Press, Berkeley."	y	n	
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Main Foods Taken	"Mcatee, W. L. 1908. Food habits of the grosbeaks. U.S. Dept. Agricult. Biol. Surv. Bull. 32."	y	y	
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Microhabitat For Foraging	"Weston, H. G. 1947. Breeding behavior of the Black-headed Grosbeak. Condor 49:54-73."	y	n	
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Nutrition And Energetics		"Fink, L. S. and L. P. Brower. 1981. Birds can overcome the cardenolide defence of monarch butterflies in Mexico. Science 291:67-70."	y	n	
