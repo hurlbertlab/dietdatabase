@@ -2495,7 +2495,7 @@ Dickcissel	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Fretwell, S. 
 Dickcissel	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Basili, G. D. and S. A. Temple. 1999b. Demographic characteristics of Dickcissels in winter. Stud. Avian Biol. 19:281-288."	n		couldn't locate
 Dickcissel	Cardinalidae	2002	Feeding	Main Foods Taken	"Basili, G. D. and S. A. Temple. 1998. Dickcissels and crop damage in Venezuela: defining the problem with ecological models. Ecol. Applic. 9:732-739."	y	n	
 Dickcissel	Cardinalidae	2002	Food Selection And Storage		"Kobal, S. N., N. F. Payne, and D. R. Ludwig. 1998. Nestling food habits of 7 grassland bird species and insect abundance in grassland habitats in northern Illinois. Trans. Ill. Acad. Sci. 91:69-75."	y		
-Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Bradley, H. L. 1948. A life history study of the Indigo Bunting. Jack-Pine Warbler 26:103-113."	y		request sent through Interlibrary Borrowing Services
+Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Bradley, H. L. 1948. A life history study of the Indigo Bunting. Jack-Pine Warbler 26:103-113."	y	n	request through Interlibrary Borrowing Services
 Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Mcatee, W. L. 1926. The relation of birds to woodlots in New York state. Roosevelt Wild Life Bull. 4. 154."			
 Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Butler, A. W. 1897. The birds of Indiana. Indiana Department of Geology and Natural Resources, Annual Report 22:515-1187."			
 Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Trautman, M. B. 1940. The birds of Buckeye Lake, Ohio. Univ. Michigan Museum of Zoology Misc. Publ. 44."			
