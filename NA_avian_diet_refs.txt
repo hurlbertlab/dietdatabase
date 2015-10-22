@@ -585,6 +585,7 @@ Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Norvell, J. R. 
 Horned Lark	Alaudidae	1995	Diet	Quantitative Analysis	"Wiens, J. A. and J. T. Rotenberry. 1980. Patterns of morphology and ecology in grassland and shrubsteppe bird populations. Ecol. Monogr. 50:287-308."			
 Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Beason, R. C. 1970. The annual cycle of the Prairie Horned Lark in west-central Illinois. Master's Thesis. Western Illinois Univ. Macomb."			
 Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Edwards, J. S. and P. C. Banko. 1976. Arthropod fallout and nutrient transport: a quantitative study of Alaskan snowpatches. Arctic Alpine Res. 8:237-245."			
+Horned Lark	Alaudidae	1910	Diet	Major Food Items 	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered; article has Horned Lark's sientific name as Otocoris alpestris (not current)
 Sky Lark	Alaudidae	1997	Feeding	Food Capture And Consumption	"Green, R. 1978. Factors affecting the diet of farmland skylarks Alauda arvensis. J. Anim. Ecol. 47:913-928."			
 Sky Lark	Alaudidae	1997	Feeding	Main Foods Taken	"Stirling, D. 1962. Birding in the snow. Victoria Nat. 18:102-103."			
 Sky Lark	Alaudidae	1997	Feeding	Main Foods Taken	"Munro, G. C. 1960. Birds of Hawaii. Charles E. Tuttle Co. Inc., Rutland, VT and Tokyo, Japan."			
@@ -3351,6 +3352,7 @@ Steller's Jay	Corvidae	1998	Feeding	Food Capture And Consumption	"Carothers, S. 
 Steller's Jay	Corvidae	1998	Diet		"Goodwin, D. 1976. Crows of the world. Cornell Univ. Press, Ithaca, NY."			
 Steller's Jay	Corvidae	1998	Diet		"Hutchins, H. E. and R. M. Lanner. 1982. The central role of Clark's Nutcracker in the dispersal and establishment of whitebark pine. Oecologia 55:192-201."			
 Steller's Jay	Corvidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Hardy, J. W. 1961. Studies in behavior and phylogeny of certain New World jays (Garrulinae). Univ. Kans. Sci. Bull. 42:13-149."			
+Steller's Jay	Corvidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Bull. 34:1-96."			
 Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Carmen, W. J. 1988. Behavioral ecology of the California Scrub Jay (Aphelocoma coerulescens californica): a non-cooperative breeder with close cooperative relatives. Phd Thesis. Univ. of California, Berkeley."			
 Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Hoyt, J. B. B. 1990. Scrub jay resource utilization: foraging ecology in an urban park and an oak woodland. Master's Thesis. California State Univ. Fresno."			
@@ -3504,6 +3506,7 @@ Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Yoerg, S. I. and A.
 Blue Jay	Corvidae	1999	Diet		"Johnson, K. W. and J. E. Johnson. 1976. An incident of Blue Jay predation on a Yellow-rumped Warbler. Wilson Bull. 88:509."			
 Blue Jay	Corvidae	1999	Diet		"Hoffmeister, D. F. and W. L. Downes, Jr. 1964. Blue Jays as predators of red bats. Southwest. Nat. 9:102."	y	y	
 Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Kamil, A. C., R. L. Misthal, and D. W. Stephens. 1993. Failure of simple optimal foraging models to predict residence time when patch quality is uncertain. Behav. Ecol. 4:350-363."			
+California Jay	Corvidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Chihuahuan Raven	Corvidae	2002	Diet	Quantitative Analysis	"Imler, R. H. 1939. Comparison of the food of White-necked Ravens and crows in Oklahoma. Wilson Bull. 51:121-122."	y	y	Entered data
 Chihuahuan Raven	Corvidae	2002	Metabolism And Temperature Regulation		"Hudson, D. M. and M. H. Bernstein. 1983. Gas exchange and energy cost of flight in the White-necked Raven, Corvus cryptoleucus. J. Exp. Biol. 103:121-130."			
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Boarman, W. I. and B. Heinrich. 1999. Common Raven (Corvus corax). in The birds of North America, no. 476. (Poole, A. and F. Gill, Eds.) The Birds of North America, Inc. Philadelphia, PA."			
@@ -4033,7 +4036,7 @@ Brewer's Sparrow	Emberizidae	1999	Diet	Major Food Items	"Rotenberry, J. T. 1980.
 Brewer's Sparrow	Emberizidae	1999	Feeding	Food Capture And Consumption	"Greenlaw, J. S. 1977. Taxonomic distribution, origin, and evolution of bilateral scratching in ground-feeding birds. Condor 79:426-439."			
 Brewer's Sparrow	Emberizidae	1999	Diet	Major Food Items	"Wiens, J. A. and J. T. Rotenberry. 1979. Diet niche relationships among North American grassland and shrubsteppe birds. Oecologia 42:253-292."			
 California Towhee	Emberizidae	16-May-11	Feeding	Main Foods Taken	"Sumner, L. and J. S. Dixon. 1953. Birds and mammals of the Sierra Nevada. Univ. of California Press, Berkeley."			
-California Towhee	Emberizidae	16-May-11	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, pt. 2. U.S. Dep. Agric. Biol. Surv., Bull. 34."			
+California Towhee	Emberizidae	16-May-11	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, pt. 2. U.S. Dep. Agric. Biol. Surv., Bull. 34."	y	y	data has not yet been entered
 California Towhee	Emberizidae	16-May-11	Metabolism And Temperature Regulation		"Bartholomew, G. A. and W. R. Dawson. 1953. Respiratory water loss in some birds of southwestern United States. Physiol. Zool. 26:162-166."			
 California Towhee	Emberizidae	16-May-11	Feeding	Microhabitat For Foraging	"Hejl, S. J. 1981. Foraging ecology of birds in relation to plant phenology in California pine-oak woodlands. Master's Thesis. Univ. of California, Davis."			
 California Towhee	Emberizidae	16-May-11	Feeding		"Davis, J. 1957. Comparative foraging behavior of the Spotted and Brown towhees. Auk 74:129-166."			
@@ -4193,6 +4196,7 @@ Golden-crowned Sparrow	Emberizidae	1998	Feeding	Food Capture And Consumption	"Gr
 Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Grinnell, J. and A. H. Miller. 1944. The distribution of the birds of California. Pacific Coast Avifauna 27."			
 Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Salt, W. R. and J. R. Salt. 1976. The birds of Alberta. Hurtig, Edmonton, Alberta."			
 Golden-crowned Sparrow	Emberizidae	1998	Feeding	Microhabitat For Foraging	"Gabrielson, I. N. and F. C. Lincoln. 1959. The birds of Alaska. Stackpole Co. Harrisburg, PA."			
+Golden-crowned Sparrow	Emberizidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Grasshopper Sparrow	Emberizidae	1996	Feeding	Food Capture And Consumption	"Kaspari, M. 1990. Prey preparation and the determinants of handling time. Anim. Behav. 40:118-126."			
 Grasshopper Sparrow	Emberizidae	1996	Feeding	Microhabitat For Foraging	"Joern, A. 1988. Foraging behavior and switching by the Grasshopper Sparrow (Ammodramus savannarum) searching for multiple prey in a heterogeneous environment. Am. Midl. Nat. 119:225-234."			
 Grasshopper Sparrow	Emberizidae	1996	Diet	Major Food Items	"Wiens, J. A. 1973b. Pattern and process in grassland bird communities. Ecol. Monogr. 43:237-270."			
@@ -4218,6 +4222,7 @@ Henslow's Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Vickery, P
 Henslow's Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Wiens, J. A. 1969. An approach to the study of ecological relationships among grassland birds. Ornithol. Monogr. no. 8."			
 Henslow's Sparrow	Emberizidae	2002	Feeding	Main Foods Taken	"Hyde, A. S. 1939. The life history of Henslow's Sparrow: Passerherbulus henslowi (Audubon). Univ. of Michigan Misc. Publ. Ann Arbor."			
 Henslow's Sparrow	Emberizidae	2002	Diet	Major Food Items	"Stevenson, H. M. and B. A. Anderson. 1994. Ammodramus henslowii (Audubon): Henslow's Sparrow. Pages 1500-1502 in Birdlife of Florida. Univ. Presses of Florida, Gainesville."			
+Intermediate Sparrows; Nuttall Sparrows		1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Lapland Longspur	Emberizidae	2002	Feeding	Main Foods Taken	"Gabrielson, I. N. 1924. Food habits of some winter bird visitants. U.S. Dep. Agric. Bull. 1249:1-32."			
 Lapland Longspur	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Fox, A. D. and D. A. Stroud. 1986. Diurnal rhythms in a snow-surface springtail (Isotoma violacea, Collembola) and its predators in Eqalungmiut Nunaat, West Greenland. Pedobiologia 29:405-412."			
 Lapland Longspur	Emberizidae	2002	Diet	Major Food Items	"Seastedt, T. R. 1980. Diets of young Lapland Longspurs in arctic and subarctic Alaska. Condor 82:232-233."			
@@ -4337,7 +4342,7 @@ Song Sparrow	Emberizidae	2002	Food Selection And Storage		"Madej, C. W. and K. C
 Song Sparrow	Emberizidae	2002	Food Selection And Storage		"Greenberg, R. 1989. Neophobia, aversion to open space, and ecological plasticity in Song and Swamp sparrows. Can. J. Zool. 67:1194-1199."			
 Song Sparrow	Emberizidae	2002	Food Selection And Storage		"Willson, M. F. and J. C. Harmeson. 1973. Seed preferences and digestive efficiency of cardinals and Song Sparrows. Condor 75:225-234."			
 Spotted Towhee	Emberizidae	1996	Feeding	Food Capture And Consumption	"Greenlaw, J. S. 1977. Taxonomic distribution, origin, and evolution of bilateral scratching in ground-feeding birds. Condor 79:426-439."			
-Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. Biol. Surv. Bull. 34:1-96."			
+Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Spotted Towhee	Emberizidae	1996	Feeding		"Davis, J. 1957b. Comparative foraging behavior of the Spotted and Brown towhees. Auk 74:129-166."			
 Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Dahlsten, D. L., M. L. Morrison, D. L. Rowney, M. Wilson, and Y. Cohen. 1985. Bird diets and prey availability in the western Sierra Nevada, California. Calif. Fish and Game 71:172-178."			
 Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Austin, Jr., O. L. 1968. Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. U.S. Natl. Mus. Bull. 237."			
@@ -4371,6 +4376,9 @@ Vesper Sparrow	Emberizidae	2002	Diet		"Krueger, H. O. 1981. Breeding adaptations
 Vesper Sparrow	Emberizidae	2002	Nutrition And Energetics		"Swain, S. D. 1987. Overnight changes in circulating energy substrate concentrations in the Vesper Sparrows (Pooecetes gramineus). Comp. Biochem. Physiol. 86A:439-441."			
 Vesper Sparrow	Emberizidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Ohmart, R. D. and E. L. Smith. 1971. Water deprivation and use of sodium chloride solutions by Vesper Sparrows (Pooecetes gramineus). Condor 73:364-366."			
 Vesper Sparrow	Emberizidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Bartholomew, G. A. 1972. The water economy of seed-eating birds that survive without drinking. Proc. XV Int. Ornithol. Congr. 15:237-254."			
+Western Chipping Sparrow	Emberizidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Western Snowbird	Emberizidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Western Song Sparrow	Emberizidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 White-collared Seedeater	Emberizidae	1997	Feeding	Food Capture And Consumption	"Eitniear, J. and T. Rueckle. 1995. Successful nesting of the White-collared Seedeater in Zapata County, Texas. Bull. Tex. Ornithol. Soc. 28(1):20-21."			
 White-collared Seedeater	Emberizidae	1997	Feeding	Food Capture And Consumption	"Rubenstein, D. L., R. J. Barnett, R. S. Ridgely, and P. H. Klopfer. 1977. Adaptive advantages of mixedspecies feeding flocks among seedeating finches in Costa Rica. Ibis 119:10-21."			
 White-collared Seedeater	Emberizidae	1997	Feeding	Food Capture And Consumption	"Skutch, A. F. 1954. Life histories of Central American birds. Pac. Coast Avifauna 31:33-37."			
@@ -4877,7 +4885,7 @@ Lesser Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Middlet
 Lesser Goldfinch	Fringillidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Coutlee, E. L. 1968b. Maintenance behavior of Lesser and Lawrence's Goldfinches. Condor 70:378-384."			
 Lesser Goldfinch	Fringillidae	1999	Food Selection And Storage		"Coutlee, E. L. 1966. The comparative behavior of Lawrence's and Lesser Goldfinches. Phd Thesis. Univ. of California, Los Angeles, CA."			
 Lesser Goldfinch	Fringillidae	1999	Diet		"Spofford, S. H. and L. H. Fisk. 1977. Additions to the list of nectar feeding birds. West. Birds 8:109-112."			
-Lesser Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, pt. 2. U.S. Dep. Agric. Biol. Surv., Bull. 34:1-96."			
+Lesser Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, pt. 2. U.S. Dep. Agric. Biol. Surv., Bull. 34:1-96."	y	y	data has not yet been entered
 Lesser Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Linsdale, J. M. 1957. Goldfinches on the Hastings Natural History Reservation. Am. Midland Nat. 57:1-119."			
 Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Pittaway, R. 1989. Pine Grosbeaks using bird feeders. Ont. Birds 7:65-67."			
 Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Brooks, M. 1956. Winter foods of Evening and Pine grosbeaks in West Virginia. Wilson Bull. 68:249-250."			
@@ -4987,6 +4995,7 @@ Red Crossbill	Fringillidae	1996	Feeding	Main Foods Taken	"Coombs-Hahn, T. P. 199
 Red Crossbill	Fringillidae	1996	Feeding	Food Capture And Consumption; Foraging Behavior	"Tordoff, H. B. 1954a. Social organization and behavior in a flock of captive, nonbreeding Red Crossbills. Condor 56:346-358."			
 Red Crossbill	Fringillidae	1996	Feeding	Food Capture And Consumption; Foraging Behavior	"Pulliainen, E. 1971. Winter nutrition of crossbills (Loxia curvirostra and L. leucoptera) in northeastern Lapland in 1969. Ann. Zool. Fenn. 8:326-329."			
 Red Crossbill	Fringillidae	1996	Feeding	Food Capture And Consumption; Foraging Behavior	"Bock, C. E. and L. W. Lepthien. 1976. Synchronous eruptions of boreal seed-eating birds. Am. Nat. 110:559-571."			
+Willow Goldfinch	Fringillidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Pacific Loon	Gaviidae	2002	Feeding	Food Capture And Consumption	"Porter, J. M. and S. G. Sealy. 1981. Dynamics of seabird multispecies feeding flocks: chronology of flocking in Barkley Sound, British Columbia, in 1979. Colon. Waterbirds 4:104-113."			
 Pacific Loon	Gaviidae	2002	Diet	Breeding Season	"Sutton, G. M. and D. F. Parmelee. 1956. On the loons of Baffin Island. Auk 73:78-84."			
 Pacific Loon	Gaviidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Mcintyre, J. W. and J. F. Barr. 1997. Common Loon (Gavia immer). in The birds of North America, no. 313. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."			
@@ -5250,6 +5259,7 @@ Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Beecher, W
 Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Wetmore, A. 1944. A collection of birds from northern Guanacaste, Costa Rica. U.S. Natl. Mus. Proc. 95."			
 Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Wetmore, A., R. F. Pasquier, and S. L. Olson. 1984. The birds of the Republic of Panam????. Part 4: Passeriformes. Hirundinidae to Fringillidae. Smithson. Misc. Coll. no. 150."			
 Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Carriker, M. A. 1910. An annotated list of the birds of Costa Rica including Cocos Island. Anns. Carnegie Mus. 6:315-915."			
+Bicolored Redwing	Icteridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Nicholson, D. J. 1960. Attack of four male Boat-tailed Grackles upon a Greater Yellowlegs. Fla. Nat. 33:227."			
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."			
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Mcilhenny, E. A. 1937. Life history of the Boat-tailed Grackle in Louisiana. Auk 54:274-295."			
@@ -5272,7 +5282,7 @@ Bobolink	Icteridae	1995	Diet	Major Food Items And Quantitative Analysis	"Odum, E
 Bobolink	Icteridae	1995	Feeding	Food Capture And Consumption	"Mcatee, W. L. 1919. Observations on the shifting range, migration, and economic value of the Bobolink. Auk 36:430-431."			
 Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Meanley, B. and J. A. Neff. 1953. Food habits of the Bobolink in Arkansas rice fields. Auk 70:211-212."			
 Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Wiens, J. A. 1969. An approach to the study of ecological relationships among grassland birds. Ornithol. Monogr. 8:1-93."			
-Brewer's Blackbird	Icteridae	2002	Diet	Quantitative Analysis	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric. Biol. Surv. Bull. 34:1-96."			
+Brewer's Blackbird	Icteridae	2002	Diet	Quantitative Analysis	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Brewer's Blackbird	Icteridae	2002	Feeding	Microhabitat For Foraging	"Schorger, A. W. 1934. Notes on the distribution of some Wisconsin birds II. Brewer's Blackbird (Euphagus carolinus). Auk 51:482-487."			
 Brewer's Blackbird	Icteridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Balph, M. H. 1975. Development of young Brewer's Blackbirds. Wilson Bull. 87:207-230."			
 Brewer's Blackbird	Icteridae	2002	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."			
@@ -5316,7 +5326,7 @@ Brown-headed Cowbird	Icteridae	1993	Diet	"Major Food Items, Quantitative Analysi
 Bullock's Oriole	Icteridae	1999	Diet	Major Food Items	"Emerson, W. O. 1904. Icterus bullocki [sic] as a honey-eater. Condor 6:78."			
 Bullock's Oriole	Icteridae	1999	Metabolism And Temperature Regulation		"Rising, J. D. 1969. A comparison of metabolism and evaporative water loss of Baltimore and Bullock orioles. Comp. Biochem. Physiol. 31:915-925."			
 Bullock's Oriole	Icteridae	1999	Diet	Quantitative Analysis	"Beal, F. E. L. 1915. Some common birds useful to the farmer. U. S. Dept. Agricult., Farmer's Bull. 630, Washington, D.C."			
-Bullock's Oriole	Icteridae	1999	Diet	Quantitative Analysis	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U. S. Dept. Agricul. Bull. 34, Washington, D.C."			
+Bullock's Oriole	Icteridae	1999	Diet	Quantitative Analysis	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U. S. Dept. Agricul. Bull. 34, Washington, D.C."	y	y	data has not yet been entered
 Bullock's Oriole	Icteridae	1999	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."			
 Bullock's Oriole	Icteridae	1999	Feeding	Microhabitat For Foraging	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1981. Birds of the Lower Colorado River valley. Univ. of Arizona Press, Tucson."			
 Bullock's Oriole	Icteridae	1999	Feeding	Main Foods Taken	"Equiarte, L., C. Martinez del Rio, and H. Arita. 1987. El nectar y el polen como recursos: in papel ecologico de los visitantes a las flores de Pseudobombax ellipticum (H. B.K.) Dugand. Biotropica 19:74-82."			
@@ -5457,6 +5467,7 @@ Tricolored Blackbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Orians
 Tricolored Blackbird	Icteridae	1999	Diet	Breeding Season	"Mailliard, J. 1914. Notes on a colony of Tri-colored Redwings. Condor 16:204-207."			
 Tricolored Blackbird	Icteridae	1999	Diet	Nonbreeding Season	"Crase, F. T. and R. W. DeHaven. 1978. Food selection by five sympatric California blackbird species. Calif. Fish Game 64:255-267."			
 Tricolored Blackbird	Icteridae	1999	Metabolism And Temperature Regulation		"Neff, J. A. 1937. Nesting distribution of the Tri-colored Red-wing. Condor 39:61-81."			
+Western Meadowlark		1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Microhabitat For Foraging	"Orians, G. H. 1980. Some adaptations of marsh nesting blackbirds. Princeton Univ. Press, Princeton, NJ."			
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."			
 Yellow-headed Blackbird	Icteridae	1995	Diet	Major Food Items	"Twedt, D. J., W. J. Bleier, and G. M. Linz. 1991. Geographic and temporal variation in the diet of Yellow-headed Blackbirds. Condor 93:975-986."			
@@ -12447,6 +12458,7 @@ Tropical Kingbird	Tyrannidae	1998	Diet		"Haverschmidt, F. 1971. Large numbers of
 Tropical Kingbird	Tyrannidae	1998	Diet		"Mitchell, M. H. 1957. Observations on birds of southeastern Brazil. Univ. of Toronto Press, Toronto."	y	n	
 Tropical Kingbird	Tyrannidae	1999	Diet	Quantitative Analysis	"Jahn, A.E. 2010. Seasonal differences in rainfall, food availability, and the foraging behavior of Tropical Kingbirds in the southern Amazon Basin. Journal of Field Ornithology 81: 4, 340-348."	y	y	
 Tropical Kingbird	Tyrannidae	1998	Diet		"Willis, E. O. 1966. Competitive exclusion and birds at fruiting trees in western Colombia. Auk 83:479-480."	y	n	
+Western Flycatcher	Tyrannidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Western Kingbird	Tyrannidae	20-Mar-12	Feeding	Microhabitat For Foraging	"Goldberg, N. H. 1979. Behavioral flexibility and foraging strategies in Cassin's and Western kingbirds (Tyrannus vociferans and Tyrannus verticalis) breeding sympatrically in riparian habitats in central Arizona. Phd Thesis. Univ. of Illinois, Urbana-Champaign."	y	n	
 Western Kingbird	Tyrannidae	20-Mar-12	Feeding	Microhabitat For Foraging	"Tatschl, J. L. 1973. Niche exploitation among three closely related flycatchers in Kansas. Phd Thesis. Kansas State Univ. Manhattan."	y	n	
 Western Kingbird	Tyrannidae	20-Mar-12	Feeding	Microhabitat For Foraging	"Blancher, P. J. and R. J. Robertson. 1984. Resource use by sympatric kingbirds. Condor 86:305-313."	y	n	
@@ -12472,6 +12484,7 @@ Western Wood-Pewee	Tyrannidae	1999	Diet	Major Food Items	"Beal, F. E. L. 1912. F
 Western Wood-Pewee	Tyrannidae	1999	Diet	Major Food Items	"Terres, J. K. 1980. The Audubon Society encyclopedia of North American birds. Alfred A. Knopf, New York."	y	y	
 Western Wood-Pewee	Tyrannidae	1999	Diet	Major Food Items	"Otvos, I. S. and R. W. Stark. 1985. Arthropod food of some forest-inhabiting birds. Can. Entomol. 117:971-990."	y	n	
 Western Wood-Pewee	Tyrannidae	1999	Nutrition And Energetics		"Szaro, R. C. and R. P. Balda. 1979. Bird community dynamics in a ponderosa pine forest. Stud. Avian Biol. 3."	y	n	
+Western Wood-Pewee	Tyrannidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Willow Flycatcher	Tyrannidae	2000	Feeding	Microhabitat For Foraging	"Eckhardt, R. C. 1979. The adaptive syndromes of two guilds of insectivorous birds in the Colorado Rocky Mountains. Ecol. Monogr. 49:129-149."	y	n	
 Willow Flycatcher	Tyrannidae	2000	Feeding	Microhabitat For Foraging	"Frakes, R. A. and R. E. Johnson. 1982. Niche convergence in Empidonax flycatchers. Condor 84:286-291."	y	n	
 Willow Flycatcher	Tyrannidae	2000	Feeding	Food Capture And Consumption	"Barlow, J. C. and W. B. McGillivray. 1983. Foraging and habitat relationships of the sibling species Willow Flycatcher (Empidonax traillii) and Alder Flycatcher (E. alnorum) in southern Ontario. Can. J. Zool. 61:1510-1516."	y	n	
