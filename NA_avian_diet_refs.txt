@@ -2480,7 +2480,7 @@ Black-headed Grosbeak	Cardinalidae	26-Jul-10	"Drinking, Pellet-Casting, And Defe
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Main Foods Taken	"Mcatee, W. L. 1908. Food habits of the grosbeaks. U.S. Dept. Agricult. Biol. Surv. Bull. 32."	y	y	**haven't added data to database yet**
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Microhabitat For Foraging	"Weston, H. G. 1947. Breeding behavior of the Black-headed Grosbeak. Condor 49:54-73."	y	n	
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Nutrition And Energetics		"Fink, L. S. and L. P. Brower. 1981. Birds can overcome the cardenolide defence of monarch butterflies in Mexico. Science 291:67-70."	y	n	
-Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	**currently adding data**
+Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Diet	Major Food Items	"Brower, L. P. and W. H. Calvert. 1985. Foraging dynamics of bird predators on overwintering monarch butterflies in Mexico. Evolution 39:852-868."	y	n	
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1957. Birds of pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna no. 32."	y	y	**have not entered diet info yet**
 Black-headed Grosbeak	Cardinalidae	26-Jul-10	Feeding	Microhabitat For Foraging	"Airola, D. A. and R. H. Barrett. 1985. Foraging and habitat relationships of insect-gleaning birds in a Sierra Nevada mixed-conifer forest. Condor 87:205-216."	y	n	
@@ -3352,7 +3352,7 @@ Steller's Jay	Corvidae	1998	Feeding	Food Capture And Consumption	"Carothers, S. 
 Steller's Jay	Corvidae	1998	Diet		"Goodwin, D. 1976. Crows of the world. Cornell Univ. Press, Ithaca, NY."			
 Steller's Jay	Corvidae	1998	Diet		"Hutchins, H. E. and R. M. Lanner. 1982. The central role of Clark's Nutcracker in the dispersal and establishment of whitebark pine. Oecologia 55:192-201."			
 Steller's Jay	Corvidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Hardy, J. W. 1961. Studies in behavior and phylogeny of certain New World jays (Garrulinae). Univ. Kans. Sci. Bull. 42:13-149."			
-Steller's Jay	Corvidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Steller's Jay	Corvidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered; article has common name as Steller Jay
 Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Bull. 34:1-96."			
 Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Carmen, W. J. 1988. Behavioral ecology of the California Scrub Jay (Aphelocoma coerulescens californica): a non-cooperative breeder with close cooperative relatives. Phd Thesis. Univ. of California, Berkeley."			
 Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Hoyt, J. B. B. 1990. Scrub jay resource utilization: foraging ecology in an urban park and an oak woodland. Master's Thesis. California State Univ. Fresno."			
@@ -5319,6 +5319,7 @@ Brewer's Blackbird	Icteridae	2002	Diet	Major Food Items	"Finley, W. L. 1923. Fur
 Brewer's Blackbird	Icteridae	2002	Feeding	Microhabitat For Foraging	"Avery, M. L. and R. DeHaven. 1984. Bird damage chronology and feeding behavior in two sunflower fields, Sacramento, California, 1982. Pages 223-228 in Eleventh Vertebrate Pest Conference. (Clark, D. O., Ed.) Univ. of California, Davis."			
 Brewer's Blackbird	Icteridae	2002	Feeding	Food Capture And Consumption	"Verbeek, N. A. M. 1962. An ecological study of the Brewer's Blackbird during the winter. Bachelor's thesis. Univ. of British Columbia, Vancouver."			
 Brewer's Blackbird	Icteridae	2002	Diet	Major Food Items	"Knowlton, G. F. and P. E. Telford. 1946. Insects eaten by Brewer's Blackbirds. Auk 63:589."			
+Brewer's Blackbird	Icteridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered; article has common name as Brewer Blackbird
 Brown-headed Cowbird	Icteridae	1993	Metabolism And Temperature Regulation		"Lustick, S. 1970. Energy requirements of molt in cowbirds. Auk 87:742-746."			
 Brown-headed Cowbird	Icteridae	1993	Olfaction		"Clark, L. and J. R. Mason. 1989. Sensitivity of Brown-headed Cowbirds to volatiles. Condor 91:922-932."			
 Brown-headed Cowbird	Icteridae	1993	Diet	"Major Food Items, Quantitative Analysis"	"Ankney, C. D. and D. M. Scott. 1980. Changes in nutrient reserves and diet of breeding Brown-headed Cowbirds. Auk 97:684-696."			
@@ -5467,7 +5468,7 @@ Tricolored Blackbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Orians
 Tricolored Blackbird	Icteridae	1999	Diet	Breeding Season	"Mailliard, J. 1914. Notes on a colony of Tri-colored Redwings. Condor 16:204-207."			
 Tricolored Blackbird	Icteridae	1999	Diet	Nonbreeding Season	"Crase, F. T. and R. W. DeHaven. 1978. Food selection by five sympatric California blackbird species. Calif. Fish Game 64:255-267."			
 Tricolored Blackbird	Icteridae	1999	Metabolism And Temperature Regulation		"Neff, J. A. 1937. Nesting distribution of the Tri-colored Red-wing. Condor 39:61-81."			
-Western Meadowlark		1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Western Meadowlark	Icteridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Microhabitat For Foraging	"Orians, G. H. 1980. Some adaptations of marsh nesting blackbirds. Princeton Univ. Press, Princeton, NJ."			
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."			
 Yellow-headed Blackbird	Icteridae	1995	Diet	Major Food Items	"Twedt, D. J., W. J. Bleier, and G. M. Linz. 1991. Geographic and temporal variation in the diet of Yellow-headed Blackbirds. Condor 93:975-986."			
