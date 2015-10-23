@@ -8578,6 +8578,7 @@ Black-backed Woodpecker	Picidae	2000	Feeding	Main Foods Taken	"Goggans, R., R. D
 Black-backed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Villard, P. 1994. Foraging behavior of Black-backed and Three-toed woodpeckers during spring and summer in a Canadian boreal forest. Can. J. Zool. 72:1957-1959."	y	n	
 Black-backed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Apfelbaum, S. and A. Haney. 1981. Bird populations before and after wildfire in a Great Lakes pine forest. Condor 83:347-354."	y	n	
 Black-backed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kirby, V. C. 1980. An adaptive modification in the ribs of woodpeckers and piculets (Picidae). Auk 97:521-532."	y	n	
+California Woodpecker	Picidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Williams, J. B. 1980. Intersexual niche partitioning in Downy Woodpeckers. Wilson Bull. 92:439-451."	y	n	
 Downy Woodpecker	Picidae	2002	Diet		"Mcatee, W. L. 1911. Woodpeckers in relation to trees and wood products. U.S. Dep. Agric., Biol. Surv. Bull. no. 39."	y	n	
 Downy Woodpecker	Picidae	2002	Nutrition And Energetics		"Grubb, Jr., T. C. 1978. Weather-dependent foraging rates of wintering woodland birds. Auk 95:370-376."	y	n	
@@ -8759,6 +8760,7 @@ Hairy Woodpecker	Picidae	2002	Feeding	Choice Of Foraging Sites	"Hutchison, R. T.
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Bull, E. L., S. R. Peterson, and J. W. Thomas. 1986. Resource partitioning among woodpeckers in northern Oregon. Res. Note PNW 444. U.S. Dep. Agric. For. Serv. Portland, OR."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Ouellet, H. 1997. Comparative foraging ecology of Downy and Hairy woodpeckers (Aves: Picidae). Pages 113-128 in The era of Allan R. Phillips: a Festschrift. (Dickerman, R. W., Ed.) Horizon Comm. Albuquerque, NM."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Villard, P. and C. W. Beninger. 1993. Foraging behavior of male Black-backed and Hairy Woodpeckers in a forest burn. J. Field Ornithol. 64:71-76."	y	n	
+Hairy Woodpecker	Picidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Scott, W. E. D. 1886. On the avi-fauna of Pinal County, with remarks on some birds of Pima and Gila Counties, Arizona. Auk 3:249-258, 383-389, 421-432; 4: 16-24, 196-205; 5: 29-36, 159-168."	y	n	
 Ladder-backed Woodpecker	Picidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Short, Jr., L. L. 1982. Woodpeckers of the world. Del. Mus. Nat. Hist. Monogr. Ser. 4, Greenville."	n		
 Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n	
@@ -8785,6 +8787,7 @@ Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Linder, K.
 Nuttall's Woodpecker	Picidae	2000	Diet		"Miller, A. H. and C. E. Bock. 1972. Natural history of the Nuttall Woodpecker at the Hastings Reservation. Condor 74:284-294."	y	y	
 Nuttall's Woodpecker	Picidae	2000	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n	
+Nuttall's Woodpecker	Picidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Pileated Woodpecker	Picidae	2011	Diet	Major Food Items	"Hoyt, S. F. 1957. The ecology of the Pileated Woodpecker. Ecology 38:246-256."	y	n	
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Bull, E. L., R. C. Beckwith, and R. S. Holthausen. 1992a. Arthropod diet of Pileated Woodpeckers in northeastern Oregon. Northwest Nat. 73:42-45."	y	y	
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Hoyt, J. S. Y. 1948b. Further studies of the Pileated Woodpecker. Phd Thesis. Cornell Univ. Ithaca, NY."	n		
@@ -8849,6 +8852,7 @@ Red-breasted Sapsucker	Picidae	2002	Food Selection And Storage	Red-Breasted Saps
 Red-breasted Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Walters, E. L. 1996. Habitat and space use of the Red-naped Sapsucker, Sphyrapicus nuchalis, in the Hat Creek valley, south-central British Columbia. Master's Thesis. Univ. of Victoria, Victoria, BC."	y	n	
 Red-breasted Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Zimmerman, K. 1998. Sustaining biological diversity in managed sub-boreal spruce landscapes: residual habitat strategies for cavity nesting species. Master's Thesis. Univ. of Northern British Columbia, Prince George."	y	n	
 Red-breasted Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Sutherland, G. D., C. L. Gass, P. A. Thompson, and K. P. Lertzman. 1982. Feeding territoriality in migrant Rufous Hummingbirds: defence of Yellow-bellied Sapsucker (Sphyrapicus varius) feeding sites. Can. J. Zool. 60:2046-2050."	y	n	
+Red-breasted Sapsucker	Picidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Microhabitat For Foraging	"Morse, D. H. 1972. Habitat utilization of the Red-cockaded Woodpecker during the winter. Auk 89:429-435."	y	n	
 Red-cockaded Woodpecker	Picidae	1994	Diet	Major Food Items	"Harlow, R. F. and M. R. Lennartz. 1977. Foods of nestling Red-cockaded Woodpeckers in coastal South Carolina. Auk 94:376-377."	y	y	
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Microhabitat For Foraging	"Ramey, P. 1980. Seasonal, sexual, and geographical variation in the foraging ecology of Red-cockaded Woodpeckers (Picoides borealis). Master's Thesis. Mississippi State Univ. Mississippi State, MS."	n		
@@ -8921,6 +8925,7 @@ Red-naped Sapsucker	Picidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Wa
 Red-naped Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Oliver, W. W. 1968. Sapsucker damage to ponderosa pine. J. For. 66:842-844."	n		
 Red-naped Sapsucker	Picidae	2002	Metabolism And Temperature Regulation		"Smith, K. G. 1982b. On habitat selection of Williamson's and Red-naped Yellow-bellied Sapsuckers. Southwest. Nat. 27:464-466."	y	n	
 Red-naped Sapsucker	Picidae	2002	Food Selection And Storage	Red-Breasted Sapsucker	"Oliver, W. W. 1970. The feeding pattern of sapsuckers on ponderosa pine in northeastern California. Condor 72:241."	y	n	
+Red-Shafted Flicker	Picidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 White-headed Woodpecker	Picidae	1996	Feeding		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agric. Biol. Surv. Bull. 37:1-64."	y	y	
 White-headed Woodpecker	Picidae	1996	Feeding		"Koch, R. F., A. E. Courchesne, and C. T. Collins. 1970. Sexual differences in foraging behavior of White-headed Woodpeckers. Bull. S. Calif. Acad. Sci. 69:60-64."	y	n	
 White-headed Woodpecker	Picidae	1996	Feeding		"Tevis, L. and Jr. 1953. Effect of vertebrate animals on seed crop of sugar pine. J. Wildl. Manage. 17:128-131."	y	n	
@@ -12185,6 +12190,7 @@ Alder Flycatcher	Tyrannidae	1999	Metabolism And Temperature Regulation		"West, G
 Alder Flycatcher	Tyrannidae	1999	Diet	Quantitative Analysis	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dept. Agric. Biol. Serv. Bull. no. 44."	y	n	
 Alder Flycatcher	Tyrannidae	1999	Feeding	Food Capture And Consumption	"Gorski, L. G. 1969a. Systematics and ecology of sibling species of Traill's Flycatcher. Phd Thesis. Univ. of Connecticut, Storrs."	y	n	
 Alder Flycatcher	Tyrannidae	1999	Feeding	Microhabitat For Foraging	"Barlow, J. C. and W. B. McGillivray. 1983. Foraging and habitat relationships of the sibling species Willow Flycatcher (Empidonax traillii) and Alder Flycatcher (E. alnorum) in southern Ontario. Can. J. Zool. 61:1510-1516."	y	n	
+Arkansas Kingbird	Tyrannidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Ash-throated Flycatcher	Tyrannidae	2002	Diet	Major Food Items	"Rea, A. M. 1983. Once a river: bird life and habitat changes on the middle Gila. Univ. of Arizona Press, Tucson."	y	n	
 Ash-throated Flycatcher	Tyrannidae	2002	Diet	Quantitative Analysis	"Bent, A. C. 1942. Life histories of North American flycatchers, larks, swallows, and their allies. U.S. Natl. Mus. Bull. 179."	y	n	
 Ash-throated Flycatcher	Tyrannidae	2002	Diet	Quantitative Analysis	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."	y	n	
@@ -12192,7 +12198,7 @@ Ash-throated Flycatcher	Tyrannidae	2002	Diet	Major Food Items	"Kaufman, K. 1996.
 Ash-throated Flycatcher	Tyrannidae	2002	Nutrition And Energetics		"Weathers, W. W. 1983. Birds of Southern California's Deep Canyon. Univ. of Calif. Press, Berkeley and Los Angeles."	y	n	
 Ash-throated Flycatcher	Tyrannidae	2002	Metabolism And Temperature Regulation		"Bancroft, G. 1930. The breeding birds of central lower California. Condor 32:20-49."	y	n	
 Ash-throated Flycatcher	Tyrannidae	2002	Feeding	Microhabitat For Foraging	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River valley. Univ. of Arizona Press, Tucson."	y	n	
-Ash-throated Flycatcher	Tyrannidae	2002	Diet	Quantitative Analysis	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, pt. 2. U.S. Dep. Agric. Biol. Surv. Bull. 34."	y	n	
+Ash-throated Flycatcher	Tyrannidae	2002	Diet	Quantitative Analysis	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, pt. 2. U.S. Dep. Agric. Biol. Surv. Bull. 34."	y	y	data has not yet been entered
 Ash-throated Flycatcher	Tyrannidae	2002	Feeding	Microhabitat For Foraging	"Rosenberg, K. V., R. D. Ohmart, and B. W. Anderson. 1982. Community organization of riparian breeding birds: response to an annual resource peak. Auk 99:260-274."	y	n	
 Ash-throated Flycatcher	Tyrannidae	2002	Feeding	Microhabitat For Foraging	"Brush, T. 1981. Response of secondary cavity-nesting birds to manipulation of nest-site availability. Master's Thesis. Arizona State Univ. Tempe."	y	n	
 Ash-throated Flycatcher	Tyrannidae	2002	Diet	Major Food Items	"Bendire, C. 1892. Life histories of North American birds with special reference to their breeding habits and eggs. U.S. Natl. Mus. Spec. Bull. 1:263-265."	y	n	
@@ -12223,6 +12229,7 @@ Black Phoebe	Tyrannidae	1997	Diet	Quantitative Analysis	"Beal, F. E. L. 1912. Fo
 Black Phoebe	Tyrannidae	1997	Diet	Quantitative Analysis	"Gander, F. F. 1928. Observations on the feeding habits of some common birds. Condor 30:362-363."	y	n	
 Black Phoebe	Tyrannidae	1997	Feeding	Food Capture And Consumption	"Judson, W. B. 1901. Getting a late supper. Condor 3:186."	y	n	
 Black Phoebe	Tyrannidae	1997	Feeding	Food Capture And Consumption	"Oberlander, G. 1939. The history of a family of Black Phoebes. Condor 41:133-151."	y	n	
+Black Phoebe	Tyrannidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Brown-crested Flycatcher	Tyrannidae	2000	Diet	Quantitative Analysis	"Snider, P. R. 1971a. Southwestern region. Am. Birds 25:782."	y	n	
 Brown-crested Flycatcher	Tyrannidae	2000	Feeding	Microhabitat For Foraging	"Rosenberg, K. V., R. D. Ohmart, and B. W. Anderson. 1982. Community organization of riparian breeding birds: response to an annual resource peak. Auk 99:260-274."	y	n	
 Brown-crested Flycatcher	Tyrannidae	2000	Feeding	Microhabitat For Foraging	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River Valley. Univ. of Arizona Press, Tucson."	y	n	
@@ -12413,6 +12420,7 @@ Say's Phoebe	Tyrannidae	1998	Feeding	Microhabitat For Foraging	"Rosenberg, K. V.
 Say's Phoebe	Tyrannidae	1998	Diet	Major Food Items	"Dawson, W. L. 1923. The birds of California. Vol. 2. South Moulton Co. Los Angeles, CA."	y	n	
 Say's Phoebe	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Phillips, A., J. Marshall, and G. Monson. 1964. The birds of Arizona. Univ of Arizona Press, Tucson."	y	n	
 Say's Phoebe	Tyrannidae	1998	Diet	Major Food Items	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. no. 44."	y	n	
+Say's Phoebe	Tyrannidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered; article has common name as Say Phoebe
 Scissor-tailed Flycatcher	Tyrannidae	1998	Diet	Major Food Items	"Ridgely, R. S. and J. A. Gwynne. 1989. A guide to the birds of Panama, with Costa Rica, Nicaragua, and Honduras. 2nd ed. Princeton Univ. Press, Princeton, NJ."	y	n	
 Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Frey, J. K. 1993. Nocturnal foraging by Scissor-tailed Flycatchers under artificial light. West. Birds 24:200."	y	n	
 Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Microhabitat For Foraging	"Foreman, L. D. 1978. Activity patterns and foraging behavior of the Scissor-tailed Flycatcher (Muscivora forficata). Phd Thesis. Texas A&M Univ. College Station, TX."	NA		
