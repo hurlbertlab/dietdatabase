@@ -9191,7 +9191,7 @@ Black-tailed Gnatcatcher	Polioptilidae	2002	Feeding	Microhabitat For Foraging	"R
 Black-tailed Gnatcatcher	Polioptilidae	2002	Metabolism And Temperature Regulation		"Wolf, B. O., K. M. Wooden, and G. E. Walsberg. 1996. The use of thermal refugia by two small desert birds. Condor 98:424-428."			
 Black-tailed Gnatcatcher	Polioptilidae	2002	Feeding	Microhabitat For Foraging	"Smith, E. L. 1967. Behavioral adaptations related to water retention in the Black-tailed Gnatcatcher (Polioptila melanura). Master's Thesis. Univ. of Arizona, Tucson."			
 Blue-gray Gnatcatcher	Polioptilidae				http://bna.birds.cornell.edu/bna/species/023/articles/foodhabits			
-Blue-gray Gnatcatcher	Polioptilidae							
+Blue-gray Gnatcatcher	Polioptilidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 California Gnatcatcher	Polioptilidae	2001	Feeding	Main Foods Taken	"Burger, J. C., M. A. Patten, J. T. Rotenberry, and R. A. Redak. 1999. Foraging ecology of the California Gnatcatcher deduced from fecal samples. Oecologia 120:304-310."			
 California Gnatcatcher	Polioptilidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Woods, R. S. 1928. Nesting of the Black-tailed Gnatcatcher. Condor 30:139-143."			
 California Gnatcatcher	Polioptilidae	2001	Metabolism And Temperature Regulation		"Atwood, J. L., S. H. Tsai, C. A. Reynolds, and M. R. Fugagli. 1998b. Distribution and population size of California Gnatcatchers on the Palos Verdes Peninsula, 1993-1997. West. Birds 29:340-350."			
