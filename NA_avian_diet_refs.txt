@@ -609,7 +609,7 @@ Bushtit	Aegithalidae	2001	Diet		"Bent, A. C. 1946. Life histories of North Ameri
 Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Smith, S. A. 1972. Roosting aggregations of Bushtits in response to cold temperatures. Condor 74:478-479."			
 Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hejl, S. J. and J. Verner. 1990. Within-season and yearly variations in avian foraging locations. Stud. Avian Biol. 13:202-209."			
 Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Chaplin, S. B. 1982. The energetic significance of huddling behavior in Common Bushtits (Psaltriparus minimus). Auk 99:424-430."			
-Bushtit	Aegithalidae	2001	Diet		"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. no. 30."			
+Bushtit	Aegithalidae	2001	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. no. 30."	y	y	data has not yet been entered; article has bird's common name as California Bush Tit
 Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Laudenslayer, Jr., W. F. and R. P. Balda. 1976. Breeding bird use of a pinyon-juniper-ponderosa pine ecotone. Auk 93:571-586."			
 Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hertz, P. E., J. V. Remsen, Jr., and S. I. Jones. 1976. Ecological complimentarity of three sympatric parids in a California oak woodland. Condor 78:307-316."			
 Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Franzreb, K. E. and B. J. Franzreb. 1984. Patterns of habitat utilization in six species of European and American tits. Calif.-Nevada Wildl. Trans. 81-88."			
@@ -9630,7 +9630,7 @@ Golden-crowned Kinglet	Regulidae	1997	Nutrition And Energetics		"Wiens, J. A. an
 Golden-crowned Kinglet	Regulidae	1997	Metabolism And Temperature Regulation		"Thaler, E. 1988. Etho-????kologische Differenzierungen bei amerikanischen Goldh????hnchen: Regulus satrapa, Regulus calendula. Proc. Int. 100. DO-G Meeting. Current Topics Avian Biol. Bonn, Germany."			
 Golden-crowned Kinglet	Regulidae	1997	Feeding	Food Capture And Consumption	"Morse, D. H. 1970. Ecological aspects of some mixed-species foraging flocks. Ecol. Monogr. 40:119-168."			
 Golden-crowned Kinglet	Regulidae	1997	Food Selection And Storage		"Galati, R. 1991. Golden-crowned Kinglets. Iowa State Univ. Press, Ames."			
-Golden-crowned Kinglet	Regulidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dep. Agr., Biol. Surv. Bull. 30."			
+Golden-crowned Kinglet	Regulidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dep. Agr., Biol. Surv. Bull. 30."	y	y	data has not yet been entered
 Golden-crowned Kinglet	Regulidae	1997	Feeding	Microhabitat For Foraging	"Lagory, K. E., M. K. LaGory, D. M. Meyers, and S. G. Herman. 1984. Niche relationships in wintering mixed-species flocks in western Washington. Wilson Bull. 96:108-116."			
 Golden-crowned Kinglet	Regulidae	1997	Feeding	Food Capture And Consumption	"Airola, D. A. and R. H. Barrett. 1985. Foraging and habitat relationships of insect-gleaning birds in a Sierra Nevada mixed-conifer forest. Condor 87:205-216."			
 Golden-crowned Kinglet	Regulidae	1997	Nutrition And Energetics		"Reinertsen, R. E., S. Haftorn, and E. Thaler. 1988. Is hypothermia necessary for winter survival of the Goldcrest Regulus regulus? J. Ornithol. 129:433-437."			
@@ -9649,6 +9649,7 @@ Golden-crowned Kinglet	Regulidae	1997	Nutrition And Energetics		"Blem, C. R. and
 Golden-crowned Kinglet	Regulidae	1997	Nutrition And Energetics		"Blem, C. R. 1990. Avian energy storage. Curr. Ornithol. 7:59-114."			
 Golden-crowned Kinglet	Regulidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"			
 Ruby-crowned Kinglet	Regulidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"			
+Ruby-crowned Kinglet	Regulidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Verdin	Remizidae	1999	Feeding	Main Foods Taken	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River valley. Univ. of Arizona Press, Tucson."			
 Verdin	Remizidae	1999	Feeding	Microhabitat For Foraging	"Taylor, W. K. 1971. A breeding biology study of the Verdin, Auriparus flaviceps (Sundevall) in Arizona. Am. Midl. Nat. 85:289-328."			
 Verdin	Remizidae	1999	Feeding	Microhabitat For Foraging	"Webster, M. D. and W. W. Weathers. 1990. Heat produced as a by-product of foraging activity contributes to thermoregulation by Verdins, Auriparus flaviceps. Physiol. Zool. 63:777-794."			
