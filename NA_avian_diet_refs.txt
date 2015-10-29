@@ -2736,6 +2736,7 @@ Brown Creeper	Certhiidae	2002	Diet	Major Food Items	"Lima, S. L. and R. M. Lee. 
 Brown Creeper	Certhiidae	2002	Feeding	Microhabitat For Foraging	"Weikel, J. M. and J. P. Hayes. 1999. The foraging ecology of cavity-nesting birds in young forests of the Northern Coast Range of Oregon. Condor 101:58-66."			
 Brown Creeper	Certhiidae	2002	Nutrition And Energetics		"Norberg, R. A. 1986. Treecreeper climbing; mechanics, energetics, and structural adaptations. Ornis Scand. 17:191-209."			
 Brown Creeper	Certhiidae	2002	Food Selection And Storage		"Otvos, I. S. 1979. The effects of insectivorous bird activities in forest ecosystems: an evaluation. Pages 341-374 in The role of insectivorous birds in forest ecosystems. (Dickson, J. G., R. N. Conner, R. R. Fleet, J. C. Kroll, and J. A. Jackson, Eds.) Academic Press, New York."			
+California Creeper	Certhiidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Black-bellied Plover	Charadriidae	1995	Feeding	Food Capture And Consumption	"Evans, P. R. 1979. Adaptations shown by foraging shorebirds to cyclical variations in the activity and availability of their intertidal invertebrate prey. Pages 357-366 in Cyclic phenomena in marine plants and animals. (Naylor, E. and R. G. Hartnoll, Eds.) Pergamon Press, Elmsford, NY."			
 Black-bellied Plover	Charadriidae	1995	Diet	Major Food Items	"Schneider, D. C. and B. A. Harrington. 1981. Timing of shorebird migration in relation to prey depletion. Auk 98:801-811."			
 Black-bellied Plover	Charadriidae	1995	Feeding	Food Capture And Consumption	"Evans, P. R., D. M. Herdson, P. J. Knights, and M. W. Pienkowski. 1979. Short-term effects of reclamation of part of Seal Sands, Teesmouth, on wintering waders and Shelduck. I. Shorebird diets, invertebrate densities, and the impact of predation on the invertebrates. Oecologia 41:183-206."			
@@ -6024,6 +6025,7 @@ Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Engels, W. 194
 Brown Thrasher	Mimidae	2000	Metabolism And Temperature Regulation		"Baldwin, S. P. and S. C. Kendeigh. 1932. Physiology of the temperature of birds. Sci. Publ. Cleveland Mus. Nat. Hist. 3:1-173."			
 Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Evans, D. L. 1984. Reactions of some adult passerines to Bombus pennsylvanicus and its mimic, Mallota bautias. Ibis 126:50-58."			
 Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Hilton, Jr., B. 1992. Tool-making and tool-using by a Brown Thrasher (Toxostoma rufum). Chat 56:4-5."			
+California Thrasher	Mimidae	1910	Diet	Major Food Items				
 Crissal Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Hoffman, R. 1927. Birds of the Pacific states. Houghton Mifflin Co., Boston, MA."			
 Crissal Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1960. Interrelations of Abert and brown towhees. Condor 62:49-64."			
 Crissal Thrasher	Mimidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Bendire, C. 1876. The Crissal Thrasher. Forest and Stream 7:148."			
@@ -6067,6 +6069,7 @@ Sage Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Bent, A. C. 194
 Sage Thrasher	Mimidae	1999	Feeding	Microhabitat For Foraging	"Stephens, D. A. 1994. Seasonal diet shifts and prey availability in a shrub-steppe bird community. Northwest Sci. 68:152."			
 Sage Thrasher	Mimidae	1999	Diet		"Knowlton, G. F. and F. C. Harmston. 1943. Grasshoppers and crickets eaten by Utah birds. Auk 60:589-591."			
 Sage Thrasher	Mimidae	1999	Diet		"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River Valley. Univ. of Arizona Press, Tucson."			
+Western Mockingbird	Mimidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Elepaio	Monarchidae	1998	Feeding	Food Capture And Consumption	"Perkins, R. C. L. 1903. Vertebrata (Aves). Pages 368-465 in Fauna Hawaiiensis. (Sharp, D., Ed.) Cambridge Univ. Press, Cambridge, England."			
 Elepaio	Monarchidae	1998	Feeding	Microhabitat For Foraging	"Vanderwerf, E. A. 1993a. Scales of habitat selection by foraging Elepaio in undisturbed and human-altered Hawaiian forests. Condor 95:980-989."			
 Elepaio	Monarchidae	1998	Feeding	Microhabitat For Foraging	"Vanderwerf, E. A. 1994. Intraspecific variation in foraging behavior of Elepaio in Hawaiian forests of different structure. Auk 111:917-932."			
@@ -6795,7 +6798,7 @@ Carolina Chickadee	Paridae	2002	Metabolism And Temperature Regulation		"Mayer, L
 Chestnut-backed Chickadee	Paridae	2002	Food Selection And Storage		"Tait, S. M., D. L. Dahlsten, R. J. Gill, and T. J. Doyen. 1990. Life history of the incense cedar scale on incense cedar in California with a description of the larvae of one of its common predators. Hilgardia 59:1-19."			
 Chestnut-backed Chickadee	Paridae	2002	Feeding	Microhabitat For Foraging	"Brennan, L. A., M. L. Morrison, and D. L. Dahlsten. 2000. Comparative foraging dynamics of Chestnut-backed and Mountain Chickadees in the western Sierra Nevada. Northwest. Nat. 81:129-147."			
 Chestnut-backed Chickadee	Paridae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice. U.S. Natl. Mus. Bull. 191."			
-Chestnut-backed Chickadee	Paridae	2002	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, pt. 1. Biol. Surv. Bull. 30."			
+Chestnut-backed Chickadee	Paridae	2002	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, pt. 1. Biol. Surv. Bull. 30."	y	y	data has not yet been entered; literature has common name as Chestnut-sided Chickadee
 Chestnut-backed Chickadee	Paridae	2002	Food Selection And Storage		"Varley, O. J. 1974. Hoarding behavior of the Black-capped (Parus atricapillus) and the Chestnut-backed Chickadee (P. rufescens). B.Sc. thesis. Dep. Zool., Univ. of British Columbia, Vancouver."			
 Chestnut-backed Chickadee	Paridae	2002	Food Selection And Storage		"Sherry, D. F. 1989. Food storing in the Paridae. Wilson Bull. 101:289-304."			
 Chestnut-backed Chickadee	Paridae	2002	Diet	Major Food Items	"Kleintjes, P. K. and D. L. Dahlsten. 1994. Foraging behavior and nestling diet of Chestnut-backed Chickadees in Monterey Pine. Condor 96:647-653."			
@@ -6897,6 +6900,7 @@ Oak Titmouse	Paridae	2000	"Drinking, Pellet-Casting, And Defecation"		"Williams,
 Oak Titmouse	Paridae	2000	"Drinking, Pellet-Casting, And Defecation"		"Gubanich, A. A. and H. R. Panik. 1987. Avian use of waterholes in pinyon-juniper. U.S. For. Serv. Gen. Tech. Rep. INT- 215:534-540."			
 Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Root, R. B. 1964. Ecological interactions of the Chestnut-backed Chickadee following a range expansion. Condor 66:229-238."			
 Oak Titmouse	Paridae	2000	Food Selection And Storage		"K????llander, H. and H. G. Smith. 1990. Food storing in birds: an evolutionary perspective. Curr. Ornithol. 7:147-207."			
+Plain Titmouse	Paridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. 30."	y	y	data has not yet been entered
 Tufted Titmouse	Paridae	1994	Feeding		"Waite, T. A. and T. C. Jr Grubb. 1987. Dominance Foraging and Predation Risk in the Tufted Titmouse. Condor 89(4):936-940."			
 Tufted Titmouse	Paridae	1994	Feeding		"Bent, A. C. 1946. Life histories of North American jays, crows and titmice. U.S. Natl. Mus. Bull. 191."			
 Tufted Titmouse	Paridae	1994	Feeding		"Dixon, K. L. 1955. An ecological analysis of the interbreeding of crested titmice. Univ. Calif. Publ. Zool. 54:125-205."			
@@ -6993,6 +6997,7 @@ American Redstart	Parulidae	1997	Diet	Major Food Items	"Wetmore, A. 1916. Birds 
 American Redstart	Parulidae	1997	Feeding	Microhabitat For Foraging	"Jeffrey-Smith, M. 1972. Bird-watching in Jamaica. Bolivar Press, Kingston, Jamaica."	y	n	
 American Redstart	Parulidae	1997	Feeding	Food Capture And Consumption	"Sherry, T. W. 1983. Terenotriccus erythrurus (Mosqueitero colirrufo, Tontillo, Ruddy-tailed Flycatcher). Pages 605-607 in Costa Rican natural history. (Janzen, D. H., Ed.) Univ. of Chicago Press, Chicago."	y	n	
 American Redstart	Parulidae	1997	Feeding	Microhabitat For Foraging	"Sherry, T. W. 1979. Competitive interactions and adaptive strategies of American Redstarts and Least Flycatchers in a northern hardwoods forest. Auk 96:265-283."	y	n	
+American Yellow Warbler	Parulidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	"data has not yet been entered; literature has name as ""Summer Warbler"""
 Bay-breasted warbler	Parulidae	2002	Diet	Main Foods Taken	"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."	y	n	
 Bay-breasted warbler	Parulidae	2002	Diet	Main Foods Taken	"McMartin, B., I. Bellocq, and S. M. Smith. Patterns of Consumption and Diet Differentiation for Three Breeding Warbler Species during a Spruce Budworm Outbreak. The Auk 119.1 (2002): 216-20. Web"	y	n	
 Bay-breasted warbler	Parulidae	2002	Diet	Main Foods Taken	"Mcmartin, B. 1996. Impact of insecticide applications on the foraging behaviour and diet of three boreal forest species. Master's Thesis. Univ. of Toronto,"	y	n	
@@ -7291,6 +7296,8 @@ Common Yellowthroat	Parulidae	1999	Diet	Quantitative Analysis	"Townsend, C. W. 1
 Common Yellowthroat	Parulidae	1999	Feeding	Microhabitat For Foraging	"Eckhardt, R. C. 1979. The adaptive syndromes of two guilds of insectivorous birds in the Colorado Rocky Mountains. Ecol. Monogr. 49:129-149."	n		
 Common Yellowthroat	Parulidae	1999	Feeding	Food Capture And Consumption	"Kelly, J. P. and C. Wood. 1996. Diurnal, intraseasonal, and intersexual variation in foraging behavior of the Common Yellowthroat. Condor 98:491-500."	y	n	Need data for this species
 Common Yellowthroat	Parulidae	1999	Diet	Main Foods Taken	"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."	y	n	
+Common Yellowthroat	Parulidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Golden-cheeked Warbler	Parulidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	"data has not yet been entered; literature has common name as ""Golden-Pileolated Warbler"""
 Golden-cheeked Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Beardmore, C. J. 1994. Habitat use of Golden-cheeked Warblers in Travis County, Texas. Master's Thesis. Texas A&M Univ. College Station."	y	n	
 Golden-cheeked Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Vidal, R. M., C. Macias-Caballero, and C. D. Duncan. 1994. The occurrence and ecology of the Golden-cheeked Warbler in the highlands of northern Chiapas, Mexico. Condor 96:684-691."	y	n	
 Golden-cheeked Warbler	Parulidae	1999	Feeding	Microhabitat For Foraging	"Thompson, D. E. 1995. Observations of Golden-cheeked Warblers wintering in Guatemala and Honduras. Cooperative Agreement no. 1448-00002-94-0846. Final Report to U.S. Fish and Wildlife Service, Austin, TX."	y	n	
@@ -7411,6 +7418,7 @@ Northern Waterthrush	Parulidae	1995	Feeding	Main Foods Taken	"Lefebvre, G., B. P
 Northern Waterthrush	Parulidae	1995	Feeding	Main Foods Taken	"Wayne, A. T. 1910. Birds of South Carolina. Charleston Mus. Charleston, SC."	y	n	
 Orange-crowned Warbler	Parulidae	1967	Diet	Major Food Items	"Root, Richard B. The Niche Exploitation of the Blue-Gray Gnatcatcher. Ecological Monographs 37.4 (1967): 317-50. JSTOR. Web. <http://www.jstor.org/stable/1942327>."	y	n	
 Orange-crowned Warbler	Parulidae	1967	Diet	Major Food Items	"Root, Richard B. The Niche Exploitation of the Blue-Gray Gnatcatcher. Ecological Monographs 37.4 (1967): 317-50. JSTOR. Web. <http://www.jstor.org/stable/1942327>."	y	n	
+Orange-crowned Warbler	Parulidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Painted Redstart	Parulidae	2000	Feeding	Main Foods Taken	"Spofford, S. H. and L. H. Fisk. 1977. Additions to the list of nectar feeding birds. West. Birds 8:109-112."	y	n	
 Painted Redstart	Parulidae	2000	Feeding	Microhabitat For Foraging	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Game Fish, Santa Fe."	y	n	
 Painted Redstart	Parulidae	2000	Feeding	Food Capture And Consumption	"Wibble, M. 1967. Wing and tail flashing of Painted Redstart. Wilson Bull. 79:246."	y	n	
@@ -10385,7 +10393,7 @@ Brown-headed Nuthatch	Sittidae	1998	Feeding	Microhabitat For Foraging	"Slater, G
 Brown-headed Nuthatch	Sittidae	1998	Feeding	Microhabitat For Foraging	"Morse, D. H. 1967. Foraging relationships of Brown-headed Nuthatches and Pine Warblers. Ecology 48:94-103."	y	n	
 Pygmy Nuthatch	Sittidae	2001	Feeding	Microhabitat For Foraging	"Ewell, H. and A. Cruz. 1998. Foraging behavior of the Pygmy Nuthatch in Colorado ponderosa pine forests. West. Birds 29:169-173."	y	n	
 Pygmy Nuthatch	Sittidae	2001	Feeding	Microhabitat For Foraging	"Balda, R. P. 1967. Ecological relationships of the breeding birds of the Chiricahua Mountains, Arizona. Phd Thesis. Univ. of Illinois, Urbana."	y	n	
-Pygmy Nuthatch	Sittidae	2001	Feeding	Main Foods Taken	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. U.S. Dep. Agric. Biol. Surv. Bull. 30."	n		
+Pygmy Nuthatch	Sittidae	2001	Feeding	Main Foods Taken	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. U.S. Dep. Agric. Biol. Surv. Bull. 30."	y	y	data has not yet been entered
 Pygmy Nuthatch	Sittidae	2001	Feeding	Microhabitat For Foraging	"Mcellin, S. M. 1979b. Population demographics, spacing, and foraging behaviors of White-breasted and Pigmy nuthatches in ponderosa pine habitat. Pages 301-329 in The role of insectivorous birds in forest ecosystems. (Dickson, J. G., R. N. Conner, R. R. Fleet, J. C. Kroll, and J. A. Jackson, Eds.) Academic Press, New York."	n		
 Pygmy Nuthatch	Sittidae	2001	Feeding	Microhabitat For Foraging	"Stallcup, P. L. 1968. Spatio-temporal relationships of nuthatches and woodpeckers in ponderosa pine forests of Colorado. Ecology 49:831-843."	y	n	
 Pygmy Nuthatch	Sittidae	2001	Nutrition And Energetics		"Szaro, R. C. and R. P. Balda. 1979. Bird community dynamics in a ponderosa pine forest. Stud. Avian Biol. no. 3. Cooper Ornithol. Soc. Lawrence, KS."	n		
@@ -11484,6 +11492,7 @@ Red-footed Booby	Sulidae	1996	Feeding		"Palmer, R. S. 1962. Handbook of North Am
 Red-footed Booby	Sulidae	1996	Feeding		"Schreiber, R. W. and D. A. Hensley. 1976. The diets of Sula dactylatra, Sula sula, and Fregata minor on Christmas Island, Pacific Ocean. Pac. Sci. 30:241-248."			
 Red-footed Booby	Sulidae	1996	Nutrition And Energetics		"Schreiber, E. A. 1994. El Ni????o-Southern Oscillation effects on provisioning and growth in Red-tailed Tropicbirds. Colon. Waterbirds 17:105-215."			
 Red-footed Booby	Sulidae	1996	Nutrition And Energetics		"Ashmole, N. P. 1963. The regulation of numbers of tropical oceanic birds. Ibis 103b:458-473."			
+Wrentit								
 Hepatic Tanager	Thraupidae	2002	Feeding	Main Foods Taken	"Cruden, R. W. and S. M. Hermann-Parker. 1977. Defense of feeding sites by orioles and Hepatic Tanagers in Mexico. Auk 94:594-596."			
 Hepatic Tanager	Thraupidae	2002	Feeding	Main Foods Taken	"Marshall, Jr., J. T. 1957. Birds of pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna no. 32."			
 Hepatic Tanager	Thraupidae	2002	Feeding	Food Capture And Consumption	"Isler, M. L. and P. R. Isler. 1999. The tanagers: natural history, distribution, and identification. Smithson. Inst. Press, Washington, D.C."			
@@ -11590,15 +11599,15 @@ White-faced Ibis	Threskiornithidae	1994	Nutrition And Energetics		"Capen, D. E. 
 Red-billed Leiothrix	Timaliidae	1998	Feeding	Main Foods Taken	"Fisher, H. I. and P. H. Baldwin. 1947. Notes on the Red-billed Leiothrix in Hawai'i. Pac. Sci. 1:45-51."			
 Red-billed Leiothrix	Timaliidae	1998	Feeding	Main Foods Taken	"Gibson, L. 1978. The Red-billed Leiothrix: a four-year study. Avic. Mag. 84:4-17."			
 Red-billed Leiothrix	Timaliidae	1998	Feeding	Main Foods Taken	"Ralph, C. J. and B. R. Noon. 1988. Foraging interactions of small Hawaiian forest birds. Acta XIX Congr. Int. Ornithol. 2:1992-2006."			
-Wrentit	Timaliidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Surv. Bull. 30:71-74."			
-Wrentit	Timaliidae	2002	Feeding	Main Foods Taken	"Erickson, M. M. 1938. Territory, annual cycle, and numbers in a population of wren-tits (Chamaea fasciata). Univ. of California Publ. Zool. 42:247-334."			
-Wrentit	Timaliidae	2002	Feeding	Food Capture And Consumption	"Grinnell, J. 1913. Call notes and mannerisms of the Wrentit. Condor 15:178-181."			
-Wrentit	Timaliidae	2002	Feeding	Food Capture And Consumption	"Clark, Jr., G. A. 1973. Holding food in the feet in passerines. J. Field Ornithol. 44:91-99."			
-Wrentit	Timaliidae	2002	Diet	Major Food Items	"Gander, F. F. 1928. Observations on the feeding habits of some common birds. Condor 30:363."			
-Wrentit	Timaliidae	2002	Diet	Major Food Items	"Dawson, W. L. 1923. The birds of California. Vol. 2. South Moulton Co. San Diego."			
-Wrentit	Timaliidae	2002	Diet	Major Food Items	"Eakin, R. M. 1942. Bathing of young Wrentit by parent. Condor 44:281."			
-Wrentit	Timaliidae	2002	Diet	Quantitative Analysis	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to food habits. McGraw Hill, New York."			
-Wrentit	Timaliidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence in a temperate oak woodland. Auk 97:339-350."			
+Wrentit	Sylviidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Surv. Bull. 30:71-74."	y	y	data has not yet been entered
+Wrentit	Sylviidae	2002	Feeding	Main Foods Taken	"Erickson, M. M. 1938. Territory, annual cycle, and numbers in a population of wren-tits (Chamaea fasciata). Univ. of California Publ. Zool. 42:247-334."			
+Wrentit	Sylviidae	2002	Feeding	Food Capture And Consumption	"Grinnell, J. 1913. Call notes and mannerisms of the Wrentit. Condor 15:178-181."			
+Wrentit	Sylviidae	2002	Feeding	Food Capture And Consumption	"Clark, Jr., G. A. 1973. Holding food in the feet in passerines. J. Field Ornithol. 44:91-99."			
+Wrentit	Sylviidae	2002	Diet	Major Food Items	"Gander, F. F. 1928. Observations on the feeding habits of some common birds. Condor 30:363."			
+Wrentit	Sylviidae	2002	Diet	Major Food Items	"Dawson, W. L. 1923. The birds of California. Vol. 2. South Moulton Co. San Diego."			
+Wrentit	Sylviidae	2002	Diet	Major Food Items	"Eakin, R. M. 1942. Bathing of young Wrentit by parent. Condor 44:281."			
+Wrentit	Sylviidae	2002	Diet	Quantitative Analysis	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to food habits. McGraw Hill, New York."			
+Wrentit	Sylviidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence in a temperate oak woodland. Auk 97:339-350."			
 Allen's Hummingbird	Trochilidae	2000	Metabolism And Temperature Regulation		"Carpenter, F. L. and M. A. Hixon. 1988. A new function of torpor: fat conservation in a wild migrant hummingbird. Condor 90:373-378."			
 Allen's Hummingbird	Trochilidae	2000	Nutrition And Energetics		"Brice, A. T., K. H. Dahl, and C. R. Grau. 1989. Pollen digestibility by hummingbirds and psittacines. Condor 91:681-688."			
 Allen's Hummingbird	Trochilidae	2000	Ecological And Evolutionary Role		"Skinner, M. W. 1988. Comparative pollination ecology and floral evolution in Pacific Coast Lilium. Ph.D. thesis. Harvard Univ., Cambridge, MA."			
@@ -11915,6 +11924,8 @@ Bewick's Wren	Troglodytidae	2004	Nutrition And Energetics		"Hendricks, P. and L.
 Bewick's Wren	Troglodytidae	2004	Feeding	Food Capture And Consumption	"Panik, H. R. 1976. The vertebrate structure of a pi????on-juniper woodland community in Northwestern Nevada. Phd Thesis. Univ. of Nevada, Reno."			
 Bewick's Wren	Troglodytidae	2004	Diet	Quantitative Analysis	"Yard, H.K., C. Van Riper III, B.T. Brown, and M.J. Kearsley. 2004. Diets of insectivorous birds along the Colorado River in Grand Canyon, Arizona. Condor 106(1): 106-115."			
 Bewick's Wren	Troglodytidae	2004	Feeding	Microhabitat For Foraging	"Miller, E. V. 1941. Behavior of the Bewick Wren. Condor 43:81-99."			
+Bewick's Wren	Troglodytidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dept. Agric. Biol. Surv. Bull. 30."	y	y	"data has not yet been entered; literature has common name as ""Bewick Wren"""
+Cactus Wren	Troglodytidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dept. Agric. Biol. Surv. Bull. 30."	y	y	data has not yet been entered
 Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers, and their allies. U.S. Natl. Mus. Bull. 195."			
 Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Mirsky, E. N. 1976. Ecology of co-existence in a wren-wrentit-warbler guild. Phd Thesis. Univ. of California, Los Angeles."			
 Canyon Wren	Troglodytidae	1995	Feeding	Food Capture And Consumption	"Martin, R. F. 1971. The Ca????on Wren (Catherpes mexicanus) raiding food storage of a trypoxylid wasp. Auk 88:677."			
@@ -11937,10 +11948,11 @@ House Wren	Troglodytidae	1998	Nutrition And Energetics		"Dykstra, C. R. and W. H
 House Wren	Troglodytidae	1998	Metabolism And Temperature Regulation		"Baldwin, S. P. and S. C. Kendeigh. 1932. Physiology of the temperature of birds. Sci. Publ. Cleveland. Mus. Nat. Hist. 3:1-173."			
 House Wren	Troglodytidae	1998	Metabolism And Temperature Regulation		"Kendeigh, S. C. 1963a. Thermodynamics of incubation in the House Wren, Troglodytes aedon. Proc. XIII Int. Ornithol. Congr., Ithaca, New York."			
 House Wren	Troglodytidae	1998	Diet	Independent Young And Adults	"Guinan, D. M. and S. G. Sealy. 1987. Diet of House Wrens (Troglodytes aedon) and the abundance of the invertebrate prey in the dune-ridge forest, Delta Marsh, Manitoba. Can. J. Zool. 65:1587-1596."			
+House Wren	Troglodytidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. USDA Biol. Survey Bull. 30."	y	y	"data has not yet been entered; literature has common name as ""western house wren"""
 Marsh Wren	Troglodytidae	1997	Nutrition And Energetics		"Kale II, H. W. 1965. Ecology and bioenergetics of the Long-billed Marsh Wren Telmatodytes palustris griseus (Brewster) in Georgia salt marshes. Publ. Nuttall Ornithol. Club, no. 5."			
 Marsh Wren	Troglodytidae	1997	Diet	Major Food Items	"Kale II, H. W. 1964. Food of the Long-billed Marsh Wren, Telmatodytes palustris griseus, in the salt marshes of Sapelo Island, Georgia. Oriole 29:47-61."			
 Marsh Wren	Troglodytidae	1997	Diet	Major Food Items	"Welter, W. A. 1935. The natural history of the Long-billed Marsh Wren. Wilson Bull. 47:3-34."			
-Marsh Wren	Troglodytidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. USDA Biol. Survey Bull. 30."			
+Marsh Wren	Troglodytidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. USDA Biol. Survey Bull. 30."	y	y	"data has not yet been entered; literature has common name as ""western marsh wren"""
 Marsh Wren	Troglodytidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Kale II, H. W. 1967. Water sources of the Long-billed Marsh Wren in Georgia salt marshes. Auk 84:589-591."			
 Marsh Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Verner, J. 1965a. Breeding biology of the Long-billed Marsh Wren. Condor 67:6-30."			
 Marsh Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Verner, J. 1965b. Time budget of the male Long-billed Marsh Wren during the breeding season. Condor 67:125-139."			
