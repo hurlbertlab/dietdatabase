@@ -55,7 +55,7 @@ study from the 'study' field of the unmatchedTaxa.csv file.
 If the name was typed incorrectly when data were entered, then the name you search
 will not match with anything in the PDF. Try searching just the genus name, or just 
 the species name if this is the case. For example, if the unmatched name is "Apodius 
-vittatus", but this represnts a typo during entry of "Aphodius vittatus". Then 
+vittatus", but this represents a typo during entry of "Aphodius vittatus". Then 
 searches of "Apodius vittatus" or "Apodius" will not match anything in the pdf, but 
 a search of "vittatus" would. At that point you would realize there had been a typo 
 during data entry, and that "Aphodius vittatus" is what should have been entered.
