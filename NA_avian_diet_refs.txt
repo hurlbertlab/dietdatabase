@@ -9885,21 +9885,18 @@ y"""	n
 11801	Say's Phoebe	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Ackerman, G. E. 1988. Anomalous nesting patterns of the Say's Phoebe, Sayornis saya, in southern Nevada. Master's Thesis. Univ. of Nevada, Las Vegas."	y	n		
 11793	Say's Phoebe	Tyrannidae	1998	Diet	Quantitative Analysis	"Bailey, F. M. 1928. Birds of New Mexico. Judd and Detweiler, Inc. Washington, D.C."	y	n		
 11807	Say's Phoebe	Tyrannidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered; article has common name as Say Phoebe	
-11806	Say's Phoebe	Tyrannidae	1998	Diet	Major Food Items	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. no. 44."	y	n		
+11806	Say's Phoebe	Tyrannidae	1998	Diet	Major Food Items	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. no. 44."	y	y		
 11799	Say's Phoebe	Tyrannidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Bendire, C. 1895. Life histories of North American birds, from the parrots to the grackles. U.S. Natl. Mus. Spec. Bull. no. 3."	y	n		
 11802	Say's Phoebe	Tyrannidae	1998	Feeding	Microhabitat For Foraging	"Cade, T. J. and C. M. White. 1973. Breeding of Say's Phoebe in arctic Alaska. Condor 75:360-361."	y	n		
 11804	Say's Phoebe	Tyrannidae	1998	Diet	Major Food Items	"Dawson, W. L. 1923. The birds of California. Vol. 2. South Moulton Co. Los Angeles, CA."	y	n		
-11809	Say's Phoebe	Tyrannidae	1998	Diet	Major Food Items	"Dawson, W. L. 1923. The birds of California. Vol. 2. South Moulton Co. Los Angeles, CA."	y			
 11800	Say's Phoebe	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Grinnell, J. and J. M. Linsdale. 1936. Vertebrate animals of Point Lobos reserve, 1934-35. Carnegie Inst. Washington, Washington, D.C."	y	n		
 11795	Say's Phoebe	Tyrannidae	1998	Diet	Quantitative Analysis	"Ohlendorf, H. M. 1976. Comparative breeding ecology of phoebes in Trans-Pecos Texas. Wilson Bull. 88:255-271."	y	y		
 11805	Say's Phoebe	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Phillips, A., J. Marshall, and G. Monson. 1964. The birds of Arizona. Univ of Arizona Press, Tucson."	y	n		
-11810	Say's Phoebe	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Phillips, A., J. Marshall, and G. Monson. 1964. The birds of Arizona. Univ of Arizona Press, Tucson."	NA	y		
-11803	Say's Phoebe	Tyrannidae	1998	Feeding	Microhabitat For Foraging	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River Valley. Univ. of Arizona Press, Tucson, AZ."	y	y		
+11803	Say's Phoebe	Tyrannidae	1998	Feeding	Microhabitat For Foraging	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River Valley. Univ. of Arizona Press, Tucson, AZ."	y	n		
 11794	Say's Phoebe	Tyrannidae	1998	Feeding	Microhabitat For Foraging	"Ryser, Jr., F. A. 1985. Birds of the Great Basin. Univ. of Nevada Press, Reno."	y	n		
 11798	Say's Phoebe	Tyrannidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Smyth, M. and H. N. Coulombe. 1971. Notes on the use of desert springs by birds in California. Condor 73:240-243."	y	n		
 11797	Say's Phoebe	Tyrannidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Weathers, W. W. 1983. Birds of southern California's Deep Canyon. Univ. of California Press, Berkeley."	y	n		
 11796	Say's Phoebe	Tyrannidae	1998	Diet	Major Food Items	"Wolf, B. O. 1997. Black Phoebe (Sayornis nigricans). in The birds of North America, no. 268. (Pool, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."	y	n		
-11808	Say's Phoebe	Tyrannidae	1998	Diet	Major Food Items	"Wolf, B. O. 1997. Black Phoebe (Sayornis nigricans). in The birds of North America, no. 268. (Pool, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."	y	y		
 10840	Scarlet Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and their allies. U.S. Natl. Mus. Bull. 211."				
 10830	Scarlet Tanager	Thraupidae	1999	Food Selection And Storage		"Cooper, R. J. 1988. Dietary relationships among insectivorous birds of an eastern deciduous forest. Ph.D. thesis. West Virginia Univ., Morgantown."				
 10839	Scarlet Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Cooper, R. J., P. J. Martinat, and R. C. Whitmore. 1990. Dietary similarity among insectivorous birds: Influence of taxonomic versus ecological categorization of prey. Stud. Avian Biol. no. 13:104-109."				
@@ -9917,14 +9914,13 @@ y"""	n
 10835	Scarlet Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Zumeta, D. C. and R. T. Holmes. 1978. Habitat shift and roadside mortality of Scarlet Tanagers during a cold wet New England spring. Wilson Bull. 90:575-586."				
 11816	Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Allan, P. F. 1950. Scissor-tailed Flycatcher, Muscivora forficata, feeding at night. Auk 67:517."	y	n		
 11821	Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Baker, B. W. 1980. Commensal foraging of Scissor-tailed Flycatchers with Rio Grande Turkeys. Wilson Bull. 92:248."	y	n		
-11818	Scissor-tailed Flycatcher	Tyrannidae	1998	Diet	Quantitative Analysis	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dept. Agric. Biol. Surv. Bull. 44, Washington, D.C."	y	n		
-11815	Scissor-tailed Flycatcher	Tyrannidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Fitch, F. W. 1950. Life history and ecology of the Scissor-tailed Flycatcher, Muscivora forficata. Auk 67:145-168."	y	n		
+11818	Scissor-tailed Flycatcher	Tyrannidae	1998	Diet	Quantitative Analysis	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dept. Agric. Biol. Surv. Bull. 44, Washington, D.C."	y	y		
+11818.5	Scissor-tailed Flycatcher	Tyrannidae				"Dick, J. A. and J. D. Rising. 1965. A comparison of foods eaten by Eastern Kingbirds and Western Kingbirds in Kansas. Bull. Kansas Ornithol. Soc. 16:23-24."	y	y		
 11823	Scissor-tailed Flycatcher	Tyrannidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Fitch, F. W. 1950. Life history and ecology of the Scissor-tailed Flycatcher, Muscivora forficata. Auk 67:145-168."	y	y		
-11813	Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Microhabitat For Foraging	"Foreman, L. D. 1978. Activity patterns and foraging behavior of the Scissor-tailed Flycatcher (Muscivora forficata). Phd Thesis. Texas A&M Univ. College Station, TX."	NA			
+11813	Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Microhabitat For Foraging	"Foreman, L. D. 1978. Activity patterns and foraging behavior of the Scissor-tailed Flycatcher (Muscivora forficata). Phd Thesis. Texas A&M Univ. College Station, TX."	n			
 11812	Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Frey, J. K. 1993. Nocturnal foraging by Scissor-tailed Flycatchers under artificial light. West. Birds 24:200."	y	n		
 11820	Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Murphy, M. T. 1987. The impact of weather on kingbird foraging behavior. Condor 89:721-730."	y	n		
 11811	Scissor-tailed Flycatcher	Tyrannidae	1998	Diet	Major Food Items	"Ridgely, R. S. and J. A. Gwynne. 1989. A guide to the birds of Panama, with Costa Rica, Nicaragua, and Honduras. 2nd ed. Princeton Univ. Press, Princeton, NJ."	y	n		
-11814	Scissor-tailed Flycatcher	Tyrannidae	1998	Diet	Major Food Items	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	y	y		
 11822	Scissor-tailed Flycatcher	Tyrannidae	1998	Diet	Major Food Items	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	y	n		
 11819	Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Microhabitat For Foraging	"Tatschl, J. L. 1973. Niche exploitation among three closely related flycatchers in Kansas. Phd Thesis. Kansas State Univ. Manhattan, KS."	y	n		
 11817	Scissor-tailed Flycatcher	Tyrannidae	1998	Feeding	Food Capture And Consumption	"Teather, K. 1992. Foraging patterns of male and female Scissor-tailed Flycatchers. J. Field Ornithol. 63:318-323."	y	n		
