@@ -1,0 +1,132 @@
+Source	Species	Data?	Entered?
+Beal 1907	House finch		
+Beal 1907	Western tanager		
+Beal 1907	Cliff swallow		
+Beal 1907	Barn swallow		
+Beal 1907	Violet-green swallow		
+Beal 1907	Loggerhead shrike		
+Beal 1907	Warbling vireo		
+Beal 1907	Cassin's vireo		
+Beal 1907	Hutton's vireo		
+Beal 1907	Yellow-rumped warbler		
+Beal 1907	Townsend's warbler		
+Beal 1907	Common yellowthroat		
+Beal 1907	Orange-crowned warbler		
+Beal 1907	Golden pileolated warbler		
+Beal 1907	Northern mockingbird		
+Beal 1907	California thrasher		
+Beal 1907	Bewick's wren		
+Beal 1907	House wren		
+Beal 1907	Marsh wren		
+Beal 1907	Cactus wren		
+Beal 1907	Brown creeper		
+Beal 1907	Pygmy nuthatch		
+Beal 1907	Plain titmouse		
+Beal 1907	Chestnut-sided chickadee		
+Beal 1907	Wrentit		
+Beal 1907	Bushtit		
+Beal 1907	Ruby-crowned kinglet		
+Beal 1907	Golden-crowned kinglet		
+Beal 1907	California gnatcatcher		
+Beal 1907	Black-tailed gnatcatcher		
+Beal 1907	Hermit thrush		
+Beal 1907	American robin		
+Beal 1907	Western bluebird		
+Beal 1907	Swainson's thrush		
+Beal 1910	California quail		
+Beal 1910	Hairy woodpecker	y	y
+Beal 1910	Downy woodpecker	y	y
+Beal 1910	Nuttall's woodpecker	y	y
+Beal 1910	Red-breasted sapsucker	y	y
+Beal 1910	Acorn woodpecker	y	y
+Beal 1910	Northern flicker	y	y
+Beal 1910	Ash-throated flycatcher		
+Beal 1910	Western kingbird		
+Beal 1910	Cassin's kingbird		
+Beal 1910	Say's phoebe		
+Beal 1910	Black phoebe		
+Beal 1910	Western wood-pewee		
+Beal 1910	Western flycatcher		
+Beal 1910	Horned lark		
+Beal 1910	Steller's jay		
+Beal 1910	Western scrub jay		
+Beal 1910	Red-winged blackbird		
+Beal 1910	Brewer's blackbird		
+Beal 1910	Western meadowlark		
+Beal 1910	Bullock's oriole		
+Beal 1910	American goldfinch		
+Beal 1910	Lesser goldfinch		
+Beal 1910	White-crowned sparrow		
+Beal 1910	Golden-crowned sparrow		
+Beal 1910	Chipping sparrow		
+Beal 1910	Song sparrow		
+Beal 1910	Spotted towhee		
+Beal 1910	California towhee		
+Beal 1910	Black-headed grosbeak	y	y
+Beal 1911	Hairy woodpecker	y	y
+Beal 1911	Downy woodpecker	y	y
+Beal 1911	Red-cockaded woodpecker	y	y
+Beal 1911	Nuttall's woodpecker	y	y
+Beal 1911	Three-toed woodpecker	y	y
+Beal 1911	Yellow-bellied sapsucker	y	y
+Beal 1911	Red-breasted sapsucker	y	y
+Beal 1911	Williamson's sapsucker	y	y
+Beal 1911	Pileated woodpecker		
+Beal 1911	Red-headed woodpecker		
+Beal 1911	Acorn woodpecker		
+Beal 1911	Lewis' woodpecker	y	y
+Beal 1911	Red-bellied woodpecker	y	y
+Beal 1911	Northern flicker	y	y
+Beal 1911	Ivory-billed woodpecker	y	y
+Beal 1912	Scissor-tailed flycatcher	y	y
+Beal 1912	Eastern kingbird	y	y
+Beal 1912	Western kingbird	y	y
+Beal 1912	Cassin's kingbird	y	y
+Beal 1912	Great crested flycatcher	y	y
+Beal 1912	Ash-throated flycatcher	y	y
+Beal 1912	Eastern phoebe	y	y
+Beal 1912	Say's phoebe	y	y
+Beal 1912	Black phoebe	y	y
+Beal 1912	Olive-sided flycatcher	y	y
+Beal 1912	Eastern wood-pewee	y	y
+Beal 1912	Western wood-pewee	y	y
+Beal 1912	Yellow-bellied flycatcher	y	y
+Beal 1912	Western flycatcher	y	y
+Beal 1912	Acadian flycatcher	y	y
+Beal 1912	Willow/Alder flycatcher	y	y
+Beal 1912	Least flycatcher	y	y
+Beal 1915	American robin	y	y
+Beal 1915	Varied thrush		
+Beal 1915	Eastern bluebird	y	y
+Beal 1915	Western bluebird		
+Beal 1915	Mountain bluebird		
+Beal 1918	Purple martin		
+Beal 1918	Cliff swallow		
+Beal 1918	Barn swallow	y	y
+Beal 1918	Tree swallow		
+Beal 1918	Violet-green swallow		
+Beal 1918	Bank swallow		
+Beal 1918	Northern rough-winged swallow		
+Beal et al. 1941	House wren		
+Beal et al. 1941	Carolina wren		
+Beal et al. 1941	Northern mockingbird		
+Beal et al. 1941	Brown thrasher		
+Beal et al. 1941	Northern cardinal		
+Beal et al. 1941	Pyrrhuloxia		
+Beal et al. 1941	Painted bunting		
+Beal et al. 1941	American crow		
+Beal et al. 1941	Blue jay		
+Beal et al. 1941	Eastern meadowlark		
+Beal et al. 1941	Boat-tailed grackle		
+Beal et al. 1941	Eastern bluebird		
+Beal et al. 1941	Carolina chickadee		
+Beal et al. 1941	Tufted titmouse		
+Beal et al. 1941	Purple martin		
+Beal et al. 1941	Scissor-tailed flycatcher		
+Beal et al. 1941	Red-cockaded woodpecker		
+Beal et al. 1941	Chuck-will's-widow		
+Beal et al. 1941	Common nighthawk		
+Beal et al. 1941	Yellow-billed cuckoo		
+Beal et al. 1941	Northern bobwhite		
+Beal et al. 1941	Swallow-tailed kite		
+Beal et al. 1941	Turkey vulture		
