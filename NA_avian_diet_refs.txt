@@ -209,7 +209,7 @@ Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Hatch, D. R
 Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Brandborg, S. M. 1955. Life history and management of the mountain goat in Idaho. Idaho Dep. Fish Game, Boise."	y	n	
 Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Lafontaine, A. R. and J. H. Fowler. 1976. Golden Eagle preys on Osprey. Auk 93:390."	y	y	
 Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Marzluff, J. M., L. S. Schueck, M. Vekasy, B. A. Kimsey, M. McFadzen, R. R. Townsend, and J. O. McKinley. 1994. Influence of military training on the behavior of raptors in the Snake River Birds of Prey National Conservation Area. Pages 41-112 in Snake River Birds of Prey National Conservation Area, research and monitoring, annual report 1994. (Steenhof, K., Ed.) U.S. Dep. Int., Bur. Land Manage., Boise District, Boise, ID."	n		Not available on WorldCat
-Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Meinertzhagen, R. 1959. Pirates and predators, the piratical and predatory habits of birds. Oliver and Boyd, London, U.K."	y	n	received
+Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Meinertzhagen, R. 1959. Pirates and predators, the piratical and predatory habits of birds. Oliver and Boyd, London, U.K."	y	n	
 Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Reynolds III, H. V. 1969. Population status of the Golden Eagle in south-central Montana. Master's Thesis. Univ. of Montana, Missoula."	y	y	
 Golden Eagle	Accipitridae	2002	Diet	Quantitative Analysis	"Mcgahan, J. 1967. Quantified estimates of predation by a Golden Eagle population. J. Wildl. Manage. 31:496-501."	y	y	
 Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Lockhart, J. M., T. P. McEneaney, A. L. Harting, Jr., and R. L. Phillips. 1977. The effects of coal development on the ecology of birds of prey in southeastern Montana and northern Wyoming, Annu. Progr. Rep. U.S. Dep. Int., Fish Wildl. Serv., Denver Wildl. Res. Center, Denver, CO."	n		not available on WorldCat
@@ -218,7 +218,7 @@ Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Bogg, D. A.
 Golden Eagle	Accipitridae	2002	Nutrition And Energetics		"Collopy, M. W. 1984. Parental care and feeding ecology of Golden Eagle nestlings. Auk 101:753-760."	y	n	
 Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Woodgerd, W. 1952. Food habits of the Golden Eagle. J. Wildl. Manage. 16:457-459."	y	y	
 Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Eakle, W. L. and T. G. Grubb. 1986. Prey remains from Golden Eagle nests in central Arizona. West. Birds 17:87-89."	y	y	
-Golden Eagle	Accipitridae	2002	Diet	Quantitative Analysis	"Kochert, M. N. 1972. Population status and chemical contamination in Golden Eagles in southwestern Idaho. Master's Thesis. Univ. of Idaho, Moscow."	y	y	inputting data
+Golden Eagle	Accipitridae	2002	Diet	Quantitative Analysis	"Kochert, M. N. 1972. Population status and chemical contamination in Golden Eagles in southwestern Idaho. Master's Thesis. Univ. of Idaho, Moscow."	y	y	
 Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Hunt, W. G., R. E. Jackman, T. L. Brown, J. G. Gilardi, D. E. Driscoll, and L. Culp. 1995. A pilot Golden Eagle population study in the Altamont Pass Wind Resource Area, California. Predatory Bird Res. Group, Univ. of California, Santa Cruz."	y	y	
 Golden Eagle	Accipitridae	2002	Nutrition And Energetics		"Collopy, M. W. 1980. Food consumption and growth energetics of nestling Golden Eagles. Phd Thesis. Univ. of Michigan, Ann Arbor."	n		requested through ILL
 Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Ellis, D. H., K. R. Clegg, J. C. Lewis, and E. Spaulding. 1999. Golden Eagle predation on experimental Sandhill and Whooping cranes. Condor 101:664-666."	y	n	
@@ -241,18 +241,18 @@ Golden Eagle	Accipitridae	2002	Nutrition And Energetics		"U.S. Department of Int
 Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Dixon, J. B. 1937. The Golden Eagle in San Diego County, California. Condor 39:49-56."	y	n	
 Golden Eagle	Accipitridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Kish, F. 1970. Egg laying and incubation by American Golden Eagles, Aquila chrysaetos canadensis, at Topeka Zoo. Int. Zoo Yearb. 10:26-29."	y	n	
 Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Poole, K. G. and R. G. Bromley. 1988. Interrelationships within a raptor guild in the central Canadian arctic. Can. J. Zool. 66:2275-2282."	y	n	
-Golden Eagle	Accipitridae	2002	Food Selection And Storage		"Macpherson, H. P. 1910. The home-life of a Golden Eagle. 2nd. rev. ed. Witherby and Co. London, U.K."			
-Golden Eagle	Accipitridae	2002	Nutrition And Energetics		"Collopy, M. W. 1986. Food consumption and growth energetics of nestling Golden Eagles. Wilson Bull. 98:445-458."			
-Golden Eagle	Accipitridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Ellis, D. H. 1979. Development of behavior in the Golden Eagle. Wildl. Monogr. 70:1-94."			
-Golden Eagle	Accipitridae	2002	Nutrition And Energetics		"Fevold, H. R. and J. J. Craighead. 1958. Food requirements of the Golden Eagle. Auk 75:312-317."			
-Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Mcwilliams, S. R., J. P. Dunn, and D. G. Raveling. 1994. Predator-prey interactions between eagles and cackling Canada and Ross' geese during winter in California. Wilson Bull. 106:272-288."			
-Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Brown, B. T. 1992. Golden Eagles feeding on fish. J. Raptor Res. 26:36-37."			
+Golden Eagle	Accipitridae	2002	Food Selection And Storage		"Macpherson, H. P. 1910. The home-life of a Golden Eagle. 2nd. rev. ed. Witherby and Co. London, U.K."	n		requested through ILL
+Golden Eagle	Accipitridae	2002	Nutrition And Energetics		"Collopy, M. W. 1986. Food consumption and growth energetics of nestling Golden Eagles. Wilson Bull. 98:445-458."	y	n	? Same as thesis?
+Golden Eagle	Accipitridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Ellis, D. H. 1979. Development of behavior in the Golden Eagle. Wildl. Monogr. 70:1-94."	y	n	
+Golden Eagle	Accipitridae	2002	Nutrition And Energetics		"Fevold, H. R. and J. J. Craighead. 1958. Food requirements of the Golden Eagle. Auk 75:312-317."	y	n	
+Golden Eagle	Accipitridae	2002	Diet	Major Food Items	"Mcwilliams, S. R., J. P. Dunn, and D. G. Raveling. 1994. Predator-prey interactions between eagles and cackling Canada and Ross' geese during winter in California. Wilson Bull. 106:272-288."	y	n	
+Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Brown, B. T. 1992. Golden Eagles feeding on fish. J. Raptor Res. 26:36-37."	n		requested through ILL
 Golden Eagle	Accipitridae	2002	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 18:1-76."	y	y	
-Golden Eagle	Accipitridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Johnson, R. E. 1994. Use of snow as a water source by Golden Eagles in the Great Basin. J. Field Ornithol. 65:58-59."			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Morrison, C. F. 1889. Ornith. And Ool.14 25"			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Longhurst et al. 1952. Calif. Dept. Fish and Game, Game Bull. No. 6."			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Nette. 1984. Canadian Field Naturalist. 98 252-254			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Lehti. 1947. Jour. Wildl. Mgmt. 11 348-349.			
+Golden Eagle	Accipitridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Johnson, R. E. 1994. Use of snow as a water source by Golden Eagles in the Great Basin. J. Field Ornithol. 65:58-59."	y	n	
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Morrison, C. F. 1889. Ornith. And Ool.14 25"	n		requested through ILL
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Longhurst et al. 1952. Calif. Dept. Fish and Game, Game Bull. No. 6."	n		requested through ILL
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Nette. 1984. Canadian Field Naturalist. 98 252-254	y	n	
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Lehti, Robert W.. “The Golden Eagle Attacking Antelope”. The Journal of Wildlife Management 11.4 (1947): 348–349. Web"	y	n	
 Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Campbell, J.S. 1934. Auk 41 370-371."			
 Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Garrott and Eberhardt. 1982. Jour. Mammal. 63 173-174. 			
 Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			H. S. Ford and Alcorn. 1964. Condor 66 76-77.			
