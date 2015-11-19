@@ -2563,13 +2563,13 @@ Northern Cardinal	Cardinalidae	1999	Nutrition And Energetics		"Linville, S. U. a
 Northern Cardinal	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Dow, D. D. 1969a. Habitat utilization by Cardinals in central and peripheral breeding populations. Can J. Zool. 47:409-417."	y	n	
 Northern Cardinal	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Samuelson, G. A. 1980. Northern Cardinals feeding on flying termites. 'Elepaio 40:157."	y	n	
 Northern Cardinal	Cardinalidae	1999	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: A guide to wildlife food habits. McGraw Hill Book Co. New York."	n		requested through Interlibrary Loan
-Northern Cardinal	Cardinalidae	1999	Nutrition And Energetics		"Shuman, T. W., R. J. Robel, J. L. Zimmerman, and K. E. Kemp. 1989. Variance in digestive efficiencies of four sympatric avian granivores. Auk 106:324-326."			
-Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Dawson, W. R. 1958. Relation of oxygen consumption and evaporative water loss to temperature in the Cardinal. Physiol. Zool. 31:37-48."			
-Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Porter, W. P. and D. M. Gates. 1969. Thermodynamic equilibria of animals with environment. Ecol. Monogr. 39:227-244."			
-Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Hinds, D. S. and W. A. Calder. 1973. Temperature regulation of the Pyrrhuloxia and the Arizona Cardinal. Physiol. Zool. 46:55-71."			
-Northern Cardinal	Cardinalidae	1999	Feeding	Main Foods Taken	"Laskey, A. R. 1944. A study of the Cardinal in Tennessee. Wilson Bull. 56:27-44."			
-Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Root, T. 1991. Positive correlation between range size and body size: a possible mechanism. Acta XX Congr. Int. Ornithol. 817-825."			
-Northern Cardinal	Cardinalidae	1999	Feeding	Main Foods Taken	"Mcatee, W. L. 1908. Food habits of the grosbeaks. Bureau of Biol. Surv. Bull. no. 32. Washington, D.C."			
+Northern Cardinal	Cardinalidae	1999	Nutrition And Energetics		"Shuman, T. W., R. J. Robel, J. L. Zimmerman, and K. E. Kemp. 1989. Variance in digestive efficiencies of four sympatric avian granivores. Auk 106:324-326."	y	n	
+Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Dawson, W. R. 1958. Relation of oxygen consumption and evaporative water loss to temperature in the Cardinal. Physiol. Zool. 31:37-48."	y	n	
+Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Porter, W. P. and D. M. Gates. 1969. Thermodynamic equilibria of animals with environment. Ecol. Monogr. 39:227-244."	y	n	
+Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Hinds, D. S. and W. A. Calder. 1973. Temperature regulation of the Pyrrhuloxia and the Arizona Cardinal. Physiol. Zool. 46:55-71."	y	n	
+Northern Cardinal	Cardinalidae	1999	Feeding	Main Foods Taken	"Laskey, A. R. 1944. A study of the Cardinal in Tennessee. Wilson Bull. 56:27-44."	y	n	
+Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Root, T. 1991. Positive correlation between range size and body size: a possible mechanism. Acta XX Congr. Int. Ornithol. 817-825."	n	requested through Interlibrary loan	
+Northern Cardinal	Cardinalidae	1999	Feeding	Main Foods Taken	"Mcatee, W. L. 1908. Food habits of the grosbeaks. Bureau of Biol. Surv. Bull. no. 32. Washington, D.C."	y	y	**currently adding data**
 Painted Bunting	Cardinalidae	1999	Diet		"Howell, A. H. 1932. Florida bird life. Coward-McCann, New York."			
 Painted Bunting	Cardinalidae	1999	Diet		"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: A guide to wildlife food habits. McGraw-Hill Book Co. New York."			
 Painted Bunting	Cardinalidae	1999	Diet		"Beal, F. E. L., W. L. McAtee, and E. R. Kalmbach. 1916. Common birds of southeastern United States in relation to agriculture. USDA Farmers' Bull. 755."			
