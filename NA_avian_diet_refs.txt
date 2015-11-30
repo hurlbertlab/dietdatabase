@@ -2556,7 +2556,7 @@ Lazuli Bunting	Cardinalidae	1996	Diet	Quantitative Analysis	"Erickson, M. M. 196
 Lazuli Bunting	Cardinalidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Bartholomew, G. A. and T. J. Cade. 1963. The water economy of land birds. Auk 80:505-539."	y	n	
 Lazuli Bunting	Cardinalidae	1996	Nutrition And Energetics		"Paquin, R. 1982. Experience d'elevage: Le Ministre (Passerina cyanea). J. des Oiseux 156:22."	y	n	article in French; also didn’t think there was an quantitative data
 Lazuli Bunting	Cardinalidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Miller, A. H. and R. C. Stebbins. 1964. The lives of desert animals in Joshua Tree National Monument. Univ. of California Press, Berkeley."	y	n	
-Northern Cardinal	Cardinalidae	1999	Nutrition And Energetics		"Browning, N. G. and R. J. Robel. 1981. Metabolizable energy in four seeds fed to Cardinals (Cardinalis cardinalis). Trans. Kans. Acad. Sci. 84:115-118."	y	n	requested through Interlibrary Loan
+Northern Cardinal	Cardinalidae	1999	Nutrition And Energetics		"Browning, N. G. and R. J. Robel. 1981. Metabolizable energy in four seeds fed to Cardinals (Cardinalis cardinalis). Trans. Kans. Acad. Sci. 84:115-118."	y	n	
 Northern Cardinal	Cardinalidae	1999	Food Selection And Storage		"Geis, A. D. 1980. Relative attractiveness of different foods at wild bird feeders. Spec. Sci. Rep.-Wildl. no. 233. U.S. Dept. of the Interior, Fish and Wildl. Serv. Washington, D.C."	y	n	
 Northern Cardinal	Cardinalidae	1999	Nutrition And Energetics		"Brush, A. H. 1978. Avian pigmentation. Pages 141-161 in Chemical Zoology. Vol. X, Aves. (Brush, A. H., Ed.) Academic Press, New York."	y	n	
 Northern Cardinal	Cardinalidae	1999	Nutrition And Energetics		"Linville, S. U. and R. Breitwisch. 1997. Carotenoid availability and plumage coloration in a wild population of Northern Cardinals. Auk 114:796-800."	y	n	
@@ -2568,7 +2568,7 @@ Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Daws
 Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Porter, W. P. and D. M. Gates. 1969. Thermodynamic equilibria of animals with environment. Ecol. Monogr. 39:227-244."	y	n	
 Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Hinds, D. S. and W. A. Calder. 1973. Temperature regulation of the Pyrrhuloxia and the Arizona Cardinal. Physiol. Zool. 46:55-71."	y	n	
 Northern Cardinal	Cardinalidae	1999	Feeding	Main Foods Taken	"Laskey, A. R. 1944. A study of the Cardinal in Tennessee. Wilson Bull. 56:27-44."	y	n	
-Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Root, T. 1991. Positive correlation between range size and body size: a possible mechanism. Acta XX Congr. Int. Ornithol. 817-825."	n	requested through Interlibrary loan	
+Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Root, T. 1991. Positive correlation between range size and body size: a possible mechanism. Acta XX Congr. Int. Ornithol. 817-825."	y	n	
 Northern Cardinal	Cardinalidae	1999	Feeding	Main Foods Taken	"Mcatee, W. L. 1908. Food habits of the grosbeaks. Bureau of Biol. Surv. Bull. no. 32. Washington, D.C."	y	y	**currently adding data**
 Painted Bunting	Cardinalidae	1999	Diet		"Howell, A. H. 1932. Florida bird life. Coward-McCann, New York."			
 Painted Bunting	Cardinalidae	1999	Diet		"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: A guide to wildlife food habits. McGraw-Hill Book Co. New York."			
