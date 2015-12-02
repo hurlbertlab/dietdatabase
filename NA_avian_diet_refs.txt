@@ -2569,7 +2569,7 @@ Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Port
 Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Hinds, D. S. and W. A. Calder. 1973. Temperature regulation of the Pyrrhuloxia and the Arizona Cardinal. Physiol. Zool. 46:55-71."	y	n	
 Northern Cardinal	Cardinalidae	1999	Feeding	Main Foods Taken	"Laskey, A. R. 1944. A study of the Cardinal in Tennessee. Wilson Bull. 56:27-44."	y	n	
 Northern Cardinal	Cardinalidae	1999	Metabolism And Temperature Regulation		"Root, T. 1991. Positive correlation between range size and body size: a possible mechanism. Acta XX Congr. Int. Ornithol. 817-825."	y	n	
-Northern Cardinal	Cardinalidae	1999	Feeding	Main Foods Taken	"Mcatee, W. L. 1908. Food habits of the grosbeaks. Bureau of Biol. Surv. Bull. no. 32. Washington, D.C."	y	y	**currently adding data**
+Northern Cardinal	Cardinalidae	1999	Feeding	Main Foods Taken	"Mcatee, W. L. 1908. Food habits of the grosbeaks. Bureau of Biol. Surv. Bull. no. 32. Washington, D.C."	y	y	
 Painted Bunting	Cardinalidae	1999	Diet		"Howell, A. H. 1932. Florida bird life. Coward-McCann, New York."			
 Painted Bunting	Cardinalidae	1999	Diet		"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: A guide to wildlife food habits. McGraw-Hill Book Co. New York."			
 Painted Bunting	Cardinalidae	1999	Diet		"Beal, F. E. L., W. L. McAtee, and E. R. Kalmbach. 1916. Common birds of southeastern United States in relation to agriculture. USDA Farmers' Bull. 755."			
