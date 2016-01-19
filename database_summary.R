@@ -24,5 +24,8 @@ dietSummary = function(diet) {
   numStudies = length(unique(diet$Source))
   numRecords = nrow(diet)
   recordsPerSpecies = data.frame(table(diet$Common_Name))
-  return(list(numRecords, numSpecies, numStudies, recordsPerSpecies))
+  return(list(numRecords=numRecords,
+              numSpecies=numSpecies, 
+              numStudies=numStudies, 
+              recordsPerSpecies=recordsPerSpecies))
 }
