@@ -13,3 +13,4 @@ Bembex fasciata	Stizus fasciatus	GBIF:4494615		"Beal, F. E. L. 1912. Food of our
 Cedionychis miniata	Kuschelina miniata	ITIS:720757	misspelling of Oedionychis miniata which has also been reclassified as Kuschelina miniata	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Cremastogaster pennsylvanica	Ponera pennsylvanica	ITIS:583962	misspelling in publication and also reclassified	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Scotobates calcaratus	Centronopus calcaratus	GBIF:4725698	reclassification	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
+Allorhina nitida	Cotinis nitida	ITIS:929437	reclassification	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
