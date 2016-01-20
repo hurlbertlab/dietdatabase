@@ -14,3 +14,4 @@ Cedionychis miniata	Kuschelina miniata	ITIS:720757	misspelling of Oedionychis mi
 Cremastogaster pennsylvanica	Ponera pennsylvanica	ITIS:583962	misspelling in publication and also reclassified	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Scotobates calcaratus	Centronopus calcaratus	GBIF:4725698	reclassification	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Allorhina nitida	Cotinis nitida	ITIS:929437	reclassification	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
+Trogosita virescen	Temnochila virescens	ITIS:113851	misspelling and reclassification	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
