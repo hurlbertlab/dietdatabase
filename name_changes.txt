@@ -18,3 +18,4 @@ Trogosita virescen	Temnochila virescens	ITIS:113851	misspelling and reclassifica
 Ulster 16-striatus	Hister		"misspelled genus, unsure of species"	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Centronopus calcaratus	N/A (Order: Coleoptera; Common name: darkling beetle)		no reliable confirmation of acceptance of one scientific name	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Tharops ruficornis	Isorhipis	GBIF:4764415	"reclassified genus, no accepted species name"	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
+Symphorocarpos racemosa	Symphoricarpos albus	ITIS:35332	renamed and misspelled	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
