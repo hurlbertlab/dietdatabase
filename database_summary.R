@@ -19,13 +19,15 @@ diet$Common_Name = gsub('Western Wood-Pewee', 'Western Wood-pewee', diet$Common_
 
 
 dietSummary = function(diet) {
-  species = unique(diet$Common_Name)
-  numSpecies = length(species)
+  species = unique(diet[, c('Common_Name', 'Family')])
+  numSpecies = nrow(species)
   numStudies = length(unique(diet$Source))
   numRecords = nrow(diet)
   recordsPerSpecies = data.frame(table(diet$Common_Name))
+  spCountByFamily = data.frame(table(species$Family))
   return(list(numRecords=numRecords,
               numSpecies=numSpecies, 
               numStudies=numStudies, 
-              recordsPerSpecies=recordsPerSpecies))
+              recordsPerSpecies=recordsPerSpecies,
+              speciesPerFamily = spCountByFamily))
 }
