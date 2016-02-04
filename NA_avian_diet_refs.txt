@@ -5858,7 +5858,8 @@ Sage Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Bent, A. C. 194
 Sage Thrasher	Mimidae	1999	Feeding	Microhabitat For Foraging	"Stephens, D. A. 1994. Seasonal diet shifts and prey availability in a shrub-steppe bird community. Northwest Sci. 68:152."			
 Sage Thrasher	Mimidae	1999	Diet		"Knowlton, G. F. and F. C. Harmston. 1943. Grasshoppers and crickets eaten by Utah birds. Auk 60:589-591."			
 Sage Thrasher	Mimidae	1999	Diet		"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River Valley. Univ. of Arizona Press, Tucson."			
-Western Mockingbird	Mimidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Northern Mockingbird	Mimidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Northern Mockingbird	Mimidae				CHECK BIRDS OF NORTH AMERICA ACCOUNT FOR REFERENCES AND ADD THEM HERE!			
 Elepaio	Monarchidae	1998	Feeding	Food Capture And Consumption	"Perkins, R. C. L. 1903. Vertebrata (Aves). Pages 368-465 in Fauna Hawaiiensis. (Sharp, D., Ed.) Cambridge Univ. Press, Cambridge, England."			
 Elepaio	Monarchidae	1998	Feeding	Microhabitat For Foraging	"Vanderwerf, E. A. 1993a. Scales of habitat selection by foraging Elepaio in undisturbed and human-altered Hawaiian forests. Condor 95:980-989."			
 Elepaio	Monarchidae	1998	Feeding	Microhabitat For Foraging	"Vanderwerf, E. A. 1994. Intraspecific variation in foraging behavior of Elepaio in Hawaiian forests of different structure. Auk 111:917-932."			
