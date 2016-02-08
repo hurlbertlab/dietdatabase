@@ -20,3 +20,5 @@ Centronopus calcaratus	N/A (Order: Coleoptera; Common name: darkling beetle)		no
 Tharops ruficornis	Isorhipis	GBIF:4764415	"reclassified genus, no accepted species name"	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Symphorocarpos racemosa	Symphoricarpos albus	ITIS:35332	renamed and misspelled	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Vitis cordifolia	Vitis vulpina	ITIS:28610	renamed and misspelled	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
+Pupoides fallax	Pupoides marginatus		renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
+Orohelix strigosa	Oreohelix strigosa	ITIS:77693	renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
