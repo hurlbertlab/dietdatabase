@@ -27,3 +27,4 @@ Euthoctha galeator	Euthochtha galeator	ITIS:108325	misspelled in publication	"Be
 Onychylus	Onychylis		misspelled in publication	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Dolopius lateralis	Dalopius marginatus	GBIF:4428376	misspelled genus in publication; renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Orthopterus scutellaris	Orthoperus scutellaris	ITIS:717268	misspelled in publication	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
+Staphylinnus vulpinus	Staphylinus vulpinus		"misspelled, no credible sources for name found"	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
