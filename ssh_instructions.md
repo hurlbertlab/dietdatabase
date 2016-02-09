@@ -1,0 +1,1 @@
+https://github.com/hurlbertlab/core-transient/blob/master/Reference/git_generate_ssh_windows.md
