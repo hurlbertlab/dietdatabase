@@ -25,3 +25,4 @@ Orohelix strigosa	Oreohelix strigosa	ITIS:77693	renamed	"Beal, F. 1915. Food of 
 Metapodius femoratus	Acanthocephala femorata	ITIS:717444	renamed and misspelled in the database entry	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Euthoctha galeator	Euthochtha galeator	ITIS:108325	misspelled in publication	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Onychylus	Onychylis		misspelled in publication	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
+Dolopius lateralis	Dalopius marginatus	GBIF:4428376	misspelled genus in publication; renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
