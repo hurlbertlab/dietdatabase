@@ -28,3 +28,8 @@ Onychylus	Onychylis		misspelled in publication	"Beal, F. 1915. Food of the robin
 Dolopius lateralis	Dalopius marginatus	GBIF:4428376	misspelled genus in publication; renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Orthopterus scutellaris	Orthoperus scutellaris	ITIS:717268	misspelled in publication	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Staphylinnus vulpinus	Staphylinus vulpinus		"misspelled, no credible sources for name found"	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
+Nepholodes violans	Nephelodes violans	GBIF:11367150	misspelled in publication; possibly a synonym for Nephelodes minians	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
+Leucarctia aeraea	Estigmene acrea	ITIS:117299	misspelled in publication and renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
+Crymodes discicollis	Lecontia discicollis	ITIS:708341	reclassified	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
+Scarabidae	Scarabaeidae	ITIS:114493	"renamed, unsure"	multiple
+Dipdomys compactus	Dipodomys compactus	ITIS:180235	misspelled in publication	"Proudfoot, G. A. and S. L. Beasom. 1997. Food habits of nesting Ferruginous Pygmy-Owls in southern Texas. Wilson Bull. 109:741-748."
