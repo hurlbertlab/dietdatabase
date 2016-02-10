@@ -34,3 +34,4 @@ Crymodes discicollis	Lecontia discicollis	ITIS:708341	reclassified	"Beal, F. 191
 Scarabidae	Scarabaeidae	ITIS:114493	"renamed, unsure"	multiple
 Dipdomys compactus	Dipodomys compactus	ITIS:180235	misspelled in publication	"Proudfoot, G. A. and S. L. Beasom. 1997. Food habits of nesting Ferruginous Pygmy-Owls in southern Texas. Wilson Bull. 109:741-748."
 Romaleum	Enaphalodes	ITIS:701838	renamed and misspelled in publication	"Fitch, H. S. 1947. Predation by owls in the Sierran foothills of California. Condor 49:137-151."
+Balanosphyra formicivora	Melanerpes formicivorus	ITIS:178189	renamed	"Fitch, H. S. 1947. Predation by owls in the Sierran foothills of California. Condor 49:137-151."
