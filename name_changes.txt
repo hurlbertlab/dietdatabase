@@ -38,3 +38,4 @@ Balanosphyra formicivora	Melanerpes formicivorus	ITIS:178189	renamed	"Fitch, H. 
 Atherestes stomias	Ateresthes stomias	ITIS:172862	misspelled in publication	"Retfalvi, L. 1970. Food of nesting Bald Eagles on San Juan Islan, Washington. Condor 72:358-361."
 Scorpaenichtys marmoratus	Scorpaenichthys marmoratus	ITIS:692068	misspelled in publication	"Retfalvi, L. 1970. Food of nesting Bald Eagles on San Juan Islan, Washington. Condor 72:358-361."
 Cyprinus cypio	Cyprinus carpio	ITIS:163344	misspelled in publication	"Cline and Clark. 1981. Chesapeake Bay Bald Eagle BandingProject,1981 report and five year summary. National Wildlife Federation Raptor Information Center. "
+Plagyodus	Alepisaurus	ITIS:162524	renamed and misspelled	"Murie, O. J. 1940. Food Habits of the Northern Bald Eagle in the Aleutian Islands, Alaska. The Condor. 42:198-202."
