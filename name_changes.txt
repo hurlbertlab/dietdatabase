@@ -40,3 +40,4 @@ Scorpaenichtys marmoratus	Scorpaenichthys marmoratus	ITIS:692068	misspelled in p
 Cyprinus cypio	Cyprinus carpio	ITIS:163344	misspelled in publication	"Cline and Clark. 1981. Chesapeake Bay Bald Eagle BandingProject,1981 report and five year summary. National Wildlife Federation Raptor Information Center. "
 Plagyodus	Alepisaurus	ITIS:162524	renamed and misspelled	"Murie, O. J. 1940. Food Habits of the Northern Bald Eagle in the Aleutian Islands, Alaska. The Condor. 42:198-202."
 Cyclorrhynchus psittacula	Aethia psittacula	ITIS:554029	reclassified	"Murie, O. J. 1940. Food Habits of the Northern Bald Eagle in the Aleutian Islands, Alaska. The Condor. 42:198-202."
+Xylosyctes	Xyloryctes	ITIS:926605	misspelled in publication	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."
