@@ -4592,7 +4592,7 @@ Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"Norment, C
 Black Rosy-Finch	Fringillidae	2002	Feeding	Food Capture And Consumption	"Martin, S. G., P. H. Baldwin, and E. B. Reed. 1974. Recent records of birds from the Yampa Valley, northwestern Colorado. Condor 76:113-116."	y	n	
 Black Rosy-Finch	Fringillidae	2002	Feeding	Food Capture And Consumption	"Hendricks, P. and J. E. Swenson. 1983. Dynamics of the winter distribution of rosy finches, Leucosticte arctoa, in Montana. Can. Field-Nat. 97:307-310."	n		unavailable
 Black Rosy-Finch	Fringillidae	2002	Diet		"King, J. R. and Jr. E. E. Wales. 1965. Photoperiodic regulation of testicular metamorphosis and fat deposition in three taxa of rosy finches.Physiol. Zool. 38:49-68."	y	n	
-Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"French, N. R. 1959b. Life history of the Black Rosy Finch. Auk 76:159-180."	y	y	
+Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"French, N. R. 1959b. Life history of the Black Rosy Finch. Auk 76:159-180."	y	y	data entered
 Black Rosy-Finch	Fringillidae	2002	Metabolism And Temperature Regulation		"Holt, H. R. 1997. A birder's guide to Colorado. Am. Birding Assoc., Inc. Colorado Springs, CO."	n		unavailable
 Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"Bailey, V. 1930. Animal life of Yellowstone National Park. Charles C. Thomas Publ. Springfield, IL."	y	n	
 Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"Miller, F. W. 1925. The nest and eggs of the Black Rosy Finch. Condor 27:3-7."	y	n	
@@ -4601,7 +4601,7 @@ Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Food Capture And Consumption	"
 Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Packard, F. M. 1968. Brown-capped Rosy Finch. Pages 373-383 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull. 237, pt. 1."	n		unavailable
 Brown-capped Rosy-Finch	Fringillidae	2000	Metabolism And Temperature Regulation		"Bailey, A. M. and R. J. Niedrach. 1965. Birds of Colorado. Denver Mus. Nat. Hist. Denver, CO."	y	n	
 Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Henshaw, H. W. 1875. Report upon the ornithological collections made in portions of Nevada, Utah, California, Colorado, New Mexico, and Arizona during the years 1871, 1872, 1873, and 1874, by H. W. Henshaw. Pages 131-508 in Report upon geographical and geological explorations and surveys west of the one hundredth meridian. Vol. 5 (Wheeler, G. M., Ed.) U.S. Gov. Printing Office, Washington, D.C."	y	n	
-Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"French, N. R. 1959b. Life history of the Black Rosy Finch. Auk 76:159-180."	y	y	This is repeated above?
+Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"French, N. R. 1959b. Life history of the Black Rosy Finch. Auk 76:159-180."	y	y	data entered
 Brown-capped Rosy-Finch	Fringillidae	2000	Diet		"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. Amer-ican wildlife and plants. McGraw-Hill Book Co. New York."	y		Library Service Center
 Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Food Capture And Consumption	"Shreeve, D. F. 1977. Comparative behavior of Aleutian Grey-crowned and Brown-capped rosy finches. Phd Thesis. Cornell Univ. Ithaca, NY."	y	n	
 Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. of Game Fish, Santa Fe."	y	n	
@@ -4609,25 +4609,25 @@ Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Bai
 Brown-capped Rosy-Finch	Fringillidae	2000	Diet		"Warren, E. R. 1910. Bird notes from Salida, Chaffee County, Colorado. Auk 27:142-151."	y	n	
 Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Food Capture And Consumption	"Newton, I. 1972. Finches. Collins, London."	n		unavailable
 Brown-capped Rosy-Finch	Fringillidae	2000	Diet		"Warren, E. R. 1916. Notes on the birds of the Elk Mountain region, Gunnison County, Colorado. Auk 33:292-317."	y	n	
-Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Keyser, L. S. 1902. Birds of the Rockies. A. C. McClurg and Co. Chicago, IL."			
-Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Food Capture And Consumption	"Ridgway, R. 1875. A monograph of the genus Leucosticte, Swainson; or Gray-crowned Purple Finches. U.S. Geol. Geogr. Surv. of the Territories Bull. no. 2, 2nd ser."			
-Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Twining, H. 1940. Foraging behavior and survival in the Sierra Nevada rosy finch. Condor 42:64-72."			
-Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Food Capture And Consumption	"Miller, A. H. 1941. The buccal food-carrying pouches of the rosy finch. Condor 43:72-73."			
-Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Hyde, A. S. 1979. Birds of Colorado's Gunnison Country. Western State College Foundation, Gunnison, CO."			
-Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Shaw, W. T. 1936. Winter life and nesting studies of Hepburn's Rosy Finch in Washington State, Pt. I: winter. Auk 53:9-16."			
-Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Johnson, R. E. 1965. Reproductive activities of rosy finches, with special reference to Montana. Auk 82:190-205."			
-Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Leffingwell, D. J. and A. M. Leffingwell. 1931. Winter habits of the Hepburn Rosy Finch at Clarkston, Washington. Condor 33:140-147."			
-Cassin's Finch	Fringillidae	1996	Diet		"Scott, W. E. D. 1887. On the avi-fauna of Pinal County, with remarks on some birds of Pima and Gila counties, Arizona. Auk 4:196-205."			
-Cassin's Finch	Fringillidae	1996	Diet		"Arvey, D. 1938. Color changes in captive Cassin Purple Finch. Condor 40:263."			
-Cassin's Finch	Fringillidae	1996	Diet		"Salt, G. W. 1952. The relation of metabolism to climate and distribution in three finches of the genus Carpodacus Ecol. Monogr. 22:121-152."			
-Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1974. On determining sex and age in the Cassin's Finch. West. Bird Bander 49:4-7."			
-Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Torgersen, T. R., J. W. Thomas, R. R. Mason, and D. Van Horn. 1984. Avian predators of Douglas-fir tussock moth, Orgyia pseudotsugata (McDunnough) (Lepidoptera: Lymantriidae) in southwestern Oregon. Environ. Entomol. 13:1018-1022."			
-Cassin's Finch	Fringillidae	1996	Diet		"Grinnell, J. and T. I. Storer. 1924. Animal life in the Yosemite. Univ. of California Press, Berkeley."			
-Cassin's Finch	Fringillidae	1996	Diet		"Orr, R. T. 1968. Cassin's Finch. Pages 280-289 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, pt. 1. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull. 237."			
-Cassin's Finch	Fringillidae	1996	Food Selection And Storage		"Tomback, D. F. 1975. An emetic technique to investigate food preferences. Auk 92:581-583."			
-Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1976b. Territory, breeding density, and fall departure in Cassin's Finch. Auk 93:477-497."			
-Cassin's Finch	Fringillidae	1996	Diet		"Munro, J. A. 1950. The birds and mammals of the Creston region, British Columbia. Occ. Pap. B.C. Prov. Mus. no. 8."			
-Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1977. Social dominance in winter flocks of Cassin's Finch. Wilson Bull. 89:57-66."			
+Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Keyser, L. S. 1902. Birds of the Rockies. A. C. McClurg and Co. Chicago, IL."	y	n	
+Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Food Capture And Consumption	"Ridgway, R. 1875. A monograph of the genus Leucosticte, Swainson; or Gray-crowned Purple Finches. U.S. Geol. Geogr. Surv. of the Territories Bull. no. 2, 2nd ser."	y	n	
+Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Twining, H. 1940. Foraging behavior and survival in the Sierra Nevada rosy finch. Condor 42:64-72."	y	n	
+Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Food Capture And Consumption	"Miller, A. H. 1941. The buccal food-carrying pouches of the rosy finch. Condor 43:72-73."	y	n	
+Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Hyde, A. S. 1979. Birds of Colorado's Gunnison Country. Western State College Foundation, Gunnison, CO."	y	n	
+Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Shaw, W. T. 1936. Winter life and nesting studies of Hepburn's Rosy Finch in Washington State, Pt. I: winter. Auk 53:9-16."	y	n	
+Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Johnson, R. E. 1965. Reproductive activities of rosy finches, with special reference to Montana. Auk 82:190-205."	y	n	
+Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Leffingwell, D. J. and A. M. Leffingwell. 1931. Winter habits of the Hepburn Rosy Finch at Clarkston, Washington. Condor 33:140-147."	y	y	Data will be entered soon
+Cassin's Finch	Fringillidae	1996	Diet		"Scott, W. E. D. 1887. On the avi-fauna of Pinal County, with remarks on some birds of Pima and Gila counties, Arizona. Auk 4:196-205."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Arvey, D. 1938. Color changes in captive Cassin Purple Finch. Condor 40:263."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Salt, G. W. 1952. The relation of metabolism to climate and distribution in three finches of the genus Carpodacus Ecol. Monogr. 22:121-152."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1974. On determining sex and age in the Cassin's Finch. West. Bird Bander 49:4-7."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Torgersen, T. R., J. W. Thomas, R. R. Mason, and D. Van Horn. 1984. Avian predators of Douglas-fir tussock moth, Orgyia pseudotsugata (McDunnough) (Lepidoptera: Lymantriidae) in southwestern Oregon. Environ. Entomol. 13:1018-1022."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Grinnell, J. and T. I. Storer. 1924. Animal life in the Yosemite. Univ. of California Press, Berkeley."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Orr, R. T. 1968. Cassin's Finch. Pages 280-289 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, pt. 1. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull. 237."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Food Selection And Storage		"Tomback, D. F. 1975. An emetic technique to investigate food preferences. Auk 92:581-583."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1976b. Territory, breeding density, and fall departure in Cassin's Finch. Auk 93:477-497."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Munro, J. A. 1950. The birds and mammals of the Creston region, British Columbia. Occ. Pap. B.C. Prov. Mus. no. 8."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1977. Social dominance in winter flocks of Cassin's Finch. Wilson Bull. 89:57-66."	y	n	
 Cassin's Finch	Fringillidae	1996	Diet		"Kelly, J. W. 1921. Cassin purple finches eating salt. Condor 23:165."			
 Cassin's Finch	Fringillidae	1996	Diet		"Arnold, J. R. 1937. Birds of the Coalinga area, Fresno County, California. Condor 39:31-35."			
 Cassin's Finch	Fringillidae	1996	Diet		"Bennetts, R. E. and R. L. Hutto. 1985. Attraction of social fringillids to mineral salts: an experimental study. J. Field Ornithol. 56:187-190."			
