@@ -20,7 +20,6 @@ Centronopus calcaratus	N/A (Order: Coleoptera; Common name: darkling beetle)		no
 Tharops ruficornis	Isorhipis	GBIF:4764415	"reclassified genus, no accepted species name"	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."
 Symphorocarpos racemosa	Symphoricarpos albus	ITIS:35332	renamed and misspelled	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Vitis cordifolia	Vitis vulpina	ITIS:28610	renamed and misspelled	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
-Pupoides fallax	Pupoides marginatus		renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Orohelix strigosa	Oreohelix strigosa	ITIS:77693	renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Metapodius femoratus	Acanthocephala femorata	ITIS:717444	renamed and misspelled in the database entry	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
 Euthoctha galeator	Euthochtha galeator	ITIS:108325	misspelled in publication	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
@@ -41,3 +40,4 @@ Cyprinus cypio	Cyprinus carpio	ITIS:163344	misspelled in publication	"Cline and 
 Plagyodus	Alepisaurus	ITIS:162524	renamed and misspelled	"Murie, O. J. 1940. Food Habits of the Northern Bald Eagle in the Aleutian Islands, Alaska. The Condor. 42:198-202."
 Cyclorrhynchus psittacula	Aethia psittacula	ITIS:554029	reclassified	"Murie, O. J. 1940. Food Habits of the Northern Bald Eagle in the Aleutian Islands, Alaska. The Condor. 42:198-202."
 Xylosyctes	Xyloryctes	ITIS:926605	misspelled in publication	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."
+Pupoides fallax	Pupoides albilabris	ITIS:76808	renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
