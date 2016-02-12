@@ -4628,20 +4628,20 @@ Cassin's Finch	Fringillidae	1996	Food Selection And Storage		"Tomback, D. F. 197
 Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1976b. Territory, breeding density, and fall departure in Cassin's Finch. Auk 93:477-497."	y	n	
 Cassin's Finch	Fringillidae	1996	Diet		"Munro, J. A. 1950. The birds and mammals of the Creston region, British Columbia. Occ. Pap. B.C. Prov. Mus. no. 8."	y		unavailable
 Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1977. Social dominance in winter flocks of Cassin's Finch. Wilson Bull. 89:57-66."	y	n	
-Cassin's Finch	Fringillidae	1996	Diet		"Kelly, J. W. 1921. Cassin purple finches eating salt. Condor 23:165."			
-Cassin's Finch	Fringillidae	1996	Diet		"Arnold, J. R. 1937. Birds of the Coalinga area, Fresno County, California. Condor 39:31-35."			
-Cassin's Finch	Fringillidae	1996	Diet		"Bennetts, R. E. and R. L. Hutto. 1985. Attraction of social fringillids to mineral salts: an experimental study. J. Field Ornithol. 56:187-190."			
-Cassin's Finch	Fringillidae	1996	Diet		"Gander, F. F. 1929. The Cassin purple finch in San Diego. Condor 31:131."			
-Cassin's Finch	Fringillidae	1996	Diet		"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dept. Game Fish, State Game Protective Assoc., and Bureau Biol. Surv."			
-Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1976a. Pterolysis and molt in Cassin's Finch. Condor 78:505-511."			
-Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Torgersen, T. R., R. R. Mason, and R. W. Campbell. 1990. Predation by birds and ants on two forest insect pests in the Pacific northwest. Stud. Avian Biol. 13:14-19."			
-Cassin's Finch	Fringillidae	1996	Diet		"Henshaw, H. W. 1877. Report on the ornithology of portions of Nevada and California. Pages 1303-1322 in Ann. Rep. Geogr. Geol. Expl. Surv. West 100th Mer. (Wheeler, George M., Ed.)"			
-Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Grinnell, J., J. Dixon, and J. M. Linsdale. 1930. Vertebrate natural history of a section of northern California through the Lassen Peak region. Univ. Calif. Publ. Zool. 35:1-594."			
-Cassin's Finch	Fringillidae	1996	Diet		"Balph, M. H. 1978. Some population trends among Cassin's Finches in northern Utah. N. Am. Bird Bander 3:12-15."			
-Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Brooks, W. S. 1978. Triphasic feeding behavior and the esophageal diverticulum in redpolls. Auk 95:182-183."			
-Common Redpoll	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Cade, T. J. 1953. Sub-nival feeding of the redpoll in interior Alaska: a possible adaptation to the northern winter. Condor 55:43-44."			
-Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Ziswiler, V. 1965. Zur Zenntnis des Samen????ffnens und der Struktur des h????rnernen Gaumens bei k????rnerfressenden Oscines. J. Ornithol. 106:1-48."			
-Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Newton, I. 1967. The adaptive radiation and feeding ecology of some British finches. Ibis 109:33-98."			
+Cassin's Finch	Fringillidae	1996	Diet		"Kelly, J. W. 1921. Cassin purple finches eating salt. Condor 23:165."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Arnold, J. R. 1937. Birds of the Coalinga area, Fresno County, California. Condor 39:31-35."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Bennetts, R. E. and R. L. Hutto. 1985. Attraction of social fringillids to mineral salts: an experimental study. J. Field Ornithol. 56:187-190."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Gander, F. F. 1929. The Cassin purple finch in San Diego. Condor 31:131."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dept. Game Fish, State Game Protective Assoc., and Bureau Biol. Surv."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1976a. Pterolysis and molt in Cassin's Finch. Condor 78:505-511."	y	n	
+Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Torgersen, T. R., R. R. Mason, and R. W. Campbell. 1990. Predation by birds and ants on two forest insect pests in the Pacific northwest. Stud. Avian Biol. 13:14-19."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Henshaw, H. W. 1877. Report on the ornithology of portions of Nevada and California. Pages 1303-1322 in Ann. Rep. Geogr. Geol. Expl. Surv. West 100th Mer. (Wheeler, George M., Ed.)"	y		unavailable
+Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Grinnell, J., J. Dixon, and J. M. Linsdale. 1930. Vertebrate natural history of a section of northern California through the Lassen Peak region. Univ. Calif. Publ. Zool. 35:1-594."	y	n	
+Cassin's Finch	Fringillidae	1996	Diet		"Balph, M. H. 1978. Some population trends among Cassin's Finches in northern Utah. N. Am. Bird Bander 3:12-15."	y		unavailable
+Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Brooks, W. S. 1978. Triphasic feeding behavior and the esophageal diverticulum in redpolls. Auk 95:182-183."	y	n	
+Common Redpoll	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Cade, T. J. 1953. Sub-nival feeding of the redpoll in interior Alaska: a possible adaptation to the northern winter. Condor 55:43-44."	y		unavailable
+Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Ziswiler, V. 1965. Zur Zenntnis des Samen????ffnens und der Struktur des h????rnernen Gaumens bei k????rnerfressenden Oscines. J. Ornithol. 106:1-48."	y	n	Not in English?
+Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Newton, I. 1967. The adaptive radiation and feeding ecology of some British finches. Ibis 109:33-98."	y	y	"A lot of data: Pg. 59,56,51,45,42, in the process of understanding and entering "
 Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Cramp, S. and C. M. Perrins. 1994. The birds of the Western Palearctic, Vol. 8: crows to finches. Oxford Univ. Press, Oxford."			
 Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Peiponen, V. A. 1962. ????ber Brutbiologie, Nahrung und geographische Verbreitung des Birkenzeisigs (Carduelis flammea). Ornis Fenn. 39:37-60."			
 Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Dolphin, A. K. 1998. Common Redpolls feeding on algae. Br. Birds 91:240."			
