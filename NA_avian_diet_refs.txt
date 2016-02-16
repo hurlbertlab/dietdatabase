@@ -6654,57 +6654,57 @@ Mountain Chickadee	Paridae	1999	Feeding	Microhabitat For Foraging	"Airola, D. A.
 Mountain Chickadee	Paridae	1999	Feeding	Microhabitat For Foraging	"Laudenslayer, Jr., W. F. and R. P. Balda. 1976. Breeding bird use of a pinyon-juniper-ponderosa pine ecotone. Auk 93:571-586."	y	n	
 Mountain Chickadee	Paridae	1999	Feeding	Food Capture And Consumption	"Petit, D. R., K. E. Petit, and L. J. Petit. 1990. Geographic variation in foraging ecology of North American insectivorous birds. Pages 254-263 in Avian foraging: theory, methodology, and applications. (Morrison, M. L., C. J. Ralph, J. Verner, and J. R. Jehl, Eds.) Stud. Avian Biol. 13."	n		
 Mountain Chickadee	Paridae	1999	Feeding	Food Capture And Consumption	"Franzreb, K. E. 1983. A comparison of avian foraging behavior in unlogged and logged mixed-coniferous forest. Wilson Bull. 95:60-76."	y	n	
-Mountain Chickadee	Paridae	1999	Feeding	Food Capture And Consumption	"Hutchins, H. E. and R. M. Lanner. 1982. The central role of Clark's Nutcracker in the dispersal and establishment of whitebark pine. Oecologia 55:192-201."			
-Mountain Chickadee	Paridae	1999	Food Selection And Storage	Storage	"Petit, D. R., L. J. Petit, and K. E. Petit. 1989. Winter caching ecology of deciduous woodland birds and adaptations for protection of stored food. Condor 91:766-776."			
-Mountain Chickadee	Paridae	1999	Nutrition And Energetics		"Smith, S. M. 1991. The Black-capped Chickadee: Behavioral ecology and natural history. Cornell Univ. Press, Ithaca, NY."			
-Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Dahlsten, D. L. and S. G. Herman. 1965. Birds as predators of destructive forest insects. Calif. Agric. 1965:8-10."			
-Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Morrison, M. L., I. C. Timossi, K. A. With, and P. N. Manley. 1985. Use of tree species by forest birds during winter and summer. J. Wildl. Manage. 49:1098-1102."			
-Mountain Chickadee	Paridae	1999	"Drinking, Pellet-Casting, And Defecation"		"Smith, S. M. 1993. Black-capped Chickadee (Parus atricapillus). in The birds of North America, no. 39. (Poole, A., P. Stettenheim, and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."			
-Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Dahlsten, D. L. and W. A. Copper. 1979. The use of nesting boxes to study the biology of the Mountain Chickadee (Parus gambeli) and its impact on selected forest insects. Pages 217-260 in The role of insectivorous birds in forest ecosystems. (Dickson, D. G., R. N. Conner, R. R. Fleet, J. C. Kroll, and J. A. Jackson, Eds.) Academic Press, New York."			
-Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Kleintjes, P. K. 1993. Relationship of insect availability to the foraging behavior and nesting diet of Mountain Chickadees. Phd Thesis. Univ. of California, Berkeley."			
-Mountain Chickadee	Paridae	1999	Feeding	Microhabitat For Foraging	"With, K. A. and M. L. Morrison. 1990. Flock formation of two parids in relation to cyclical seed production in a pinyon-juniper woodland. Auk 107:522-532."			
-Mountain Chickadee	Paridae	1999	Feeding	Microhabitat For Foraging	"Hill, B. G. and M. R. Lein. 1988. Ecological relations of sympatric Black-capped and Mountain Chickadees in southwestern Alberta. Condor 90:875-884."			
-Mountain Chickadee	Paridae	1999	Diet	Quantitative Analysis	"Baldwin, P. H. 1968. Predator-prey relationships of birds and spruce beetles. Proc. North Cent. Branch Ent. Soc. Am. 23:90-99."			
-Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Mccallum, D. A. and P. L. Dixon. 1990. Reducing bias in estimates of the Richards growth function shape parameter. Growth, Development and Aging 54:135-141."			
-Mountain Chickadee	Paridae	1999	Feeding	Food Capture And Consumption	"Gaddis, P. K. 1981. Tool use by a Mountain Chickadee. Continental Birdlife 2:19-20."			
-Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Brewer, J. W. 1971. Biology of the pinyon stunt needle midge. Annal. Entomol. Soc. Am. 64:1099-1102."			
-Oak Titmouse	Paridae	2000	Feeding	Main Foods Taken	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. 30."			
-Oak Titmouse	Paridae	2000	Feeding	Main Foods Taken	"Bent, A. C. 1946. Life histories of north american jays, crows, and titmice, Pt. 2. U.S. Natl. Mus. Bull. 191."			
-Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Dixon, K. L. 1949. Behavior of the Plain Titmouse. Condor 51:110-136."			
-Oak Titmouse	Paridae	2000	Diet		"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habitats. McGraw-Hill Book Co. New York."			
-Oak Titmouse	Paridae	2000	Diet		"Csuti, B., A. J. Kimerling, T. A. O'Neil, M. M. Shaughnessy, E. P. Gaines, and M. M. P. Huso. 1997. Atlas of Oregon wildlife: distribution, habitat, and natural history. Oregon State Univ. Press, Corvallis."			
-Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Hertz, P. E., J. V. Remsen, Jr., and S. I. Zones. 1976. Ecological complementarity of three sympatric parids in a California oak woodland. Condor 78:307-316."			
-Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Wagner, J. L. 1981. Seasonal change in guild structure: oak woodland insectivorous birds. Ecology 62:973-981."			
-Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Block, W. M. 1990. Geographic variation in foraging ecologies of breeding and nonbreeding birds in oak woodlands. Stud. Avian Biol. 13:264-269."			
-Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Root, R. B. 1967. The niche exploitation pattern of the Blue-gray Gnatcatcher. Ecol. Monogr. 37:317-350."			
-Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Block, W. M. 1989. Spatial and temporal patterns of resource use by birds in California oak woodlands. Phd Thesis. Univ. of California, Berkeley."			
-Oak Titmouse	Paridae	2000	Feeding	Food Capture And Consumption	"Dixon, K. L. 1954. Some ecological relations of chickadees and titmice in central California. Condor 56:113-124."			
-Oak Titmouse	Paridae	2000	Feeding	Main Foods Taken	"Balda, R. P. 1987. Avian impacts on pinyon-juniper woodlands. U.S. Gen. Tech. Rep. INT- 215:525-533."			
-Oak Titmouse	Paridae	2000	Diet		"Kleintjes, P. K. and D. L. Dahlsten. 1992. A comparison of three techniques for analyzing the arthropod diet of Plain Titmouse and Chestnut-backed Chickadee nestlings. J. Field Ornithol. 63:276-285."			
-Oak Titmouse	Paridae	2000	Food Selection And Storage		"Sherry, D. F. 1989. Food storing in the Paridae. Wilson Bull. 101:289-304."			
-Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Davis, S., B. S. Davis, and J. Davis. 1973. Some factors affecting foraging behavior of Plain Titmice. Condor 75:481-482."			
-Oak Titmouse	Paridae	2000	Feeding	Food Capture And Consumption	"Dixon, K. L. 1956. Territoriality and survival in the Plain Titmouse. Condor 58:169-182."			
-Oak Titmouse	Paridae	2000	Metabolism And Temperature Regulation		"Cooper, S. J. 1997. The role of cold acclimatization on the biogeography of the Mountain Chickadee (Parus gambeli) and the Juniper Titmouse (Parus ridgwayi). Phd Thesis. Utah State Univ. Logan."			
-Oak Titmouse	Paridae	2000	Metabolism And Temperature Regulation		"Weathers, W. W. and E. Greene. 1998. Thermoregulatory responses of Bridled and Juniper titmice to high temperature. Condor 100:365-372."			
-Oak Titmouse	Paridae	2000	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."			
-Oak Titmouse	Paridae	2000	"Drinking, Pellet-Casting, And Defecation"		"Gubanich, A. A. and H. R. Panik. 1987. Avian use of waterholes in pinyon-juniper. U.S. For. Serv. Gen. Tech. Rep. INT- 215:534-540."			
-Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Root, R. B. 1964. Ecological interactions of the Chestnut-backed Chickadee following a range expansion. Condor 66:229-238."			
-Oak Titmouse	Paridae	2000	Food Selection And Storage		"K????llander, H. and H. G. Smith. 1990. Food storing in birds: an evolutionary perspective. Curr. Ornithol. 7:147-207."			
+Mountain Chickadee	Paridae	1999	Feeding	Food Capture And Consumption	"Hutchins, H. E. and R. M. Lanner. 1982. The central role of Clark's Nutcracker in the dispersal and establishment of whitebark pine. Oecologia 55:192-201."	y	n	
+Mountain Chickadee	Paridae	1999	Food Selection And Storage	Storage	"Petit, D. R., L. J. Petit, and K. E. Petit. 1989. Winter caching ecology of deciduous woodland birds and adaptations for protection of stored food. Condor 91:766-776."	y	n	
+Mountain Chickadee	Paridae	1999	Nutrition And Energetics		"Smith, S. M. 1991. The Black-capped Chickadee: Behavioral ecology and natural history. Cornell Univ. Press, Ithaca, NY."	n		
+Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Dahlsten, D. L. and S. G. Herman. 1965. Birds as predators of destructive forest insects. Calif. Agric. 1965:8-10."	n		
+Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Morrison, M. L., I. C. Timossi, K. A. With, and P. N. Manley. 1985. Use of tree species by forest birds during winter and summer. J. Wildl. Manage. 49:1098-1102."	y	n	
+Mountain Chickadee	Paridae	1999	"Drinking, Pellet-Casting, And Defecation"		"Smith, S. M. 1993. Black-capped Chickadee (Parus atricapillus). in The birds of North America, no. 39. (Poole, A., P. Stettenheim, and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."	n		
+Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Dahlsten, D. L. and W. A. Copper. 1979. The use of nesting boxes to study the biology of the Mountain Chickadee (Parus gambeli) and its impact on selected forest insects. Pages 217-260 in The role of insectivorous birds in forest ecosystems. (Dickson, D. G., R. N. Conner, R. R. Fleet, J. C. Kroll, and J. A. Jackson, Eds.) Academic Press, New York."	n		
+Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Kleintjes, P. K. 1993. Relationship of insect availability to the foraging behavior and nesting diet of Mountain Chickadees. Phd Thesis. Univ. of California, Berkeley."	n		
+Mountain Chickadee	Paridae	1999	Feeding	Microhabitat For Foraging	"With, K. A. and M. L. Morrison. 1990. Flock formation of two parids in relation to cyclical seed production in a pinyon-juniper woodland. Auk 107:522-532."	y	n	
+Mountain Chickadee	Paridae	1999	Feeding	Microhabitat For Foraging	"Hill, B. G. and M. R. Lein. 1988. Ecological relations of sympatric Black-capped and Mountain Chickadees in southwestern Alberta. Condor 90:875-884."	y	n	
+Mountain Chickadee	Paridae	1999	Diet	Quantitative Analysis	"Baldwin, P. H. 1968. Predator-prey relationships of birds and spruce beetles. Proc. North Cent. Branch Ent. Soc. Am. 23:90-99."	n		
+Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Mccallum, D. A. and P. L. Dixon. 1990. Reducing bias in estimates of the Richards growth function shape parameter. Growth, Development and Aging 54:135-141."	n		
+Mountain Chickadee	Paridae	1999	Feeding	Food Capture And Consumption	"Gaddis, P. K. 1981. Tool use by a Mountain Chickadee. Continental Birdlife 2:19-20."	n		
+Mountain Chickadee	Paridae	1999	Diet	Major Food Items	"Brewer, J. W. 1971. Biology of the pinyon stunt needle midge. Annal. Entomol. Soc. Am. 64:1099-1102."	n		
+Oak Titmouse	Paridae	2000	Feeding	Main Foods Taken	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. 30."	y	y	data not yet entered
+Oak Titmouse	Paridae	2000	Feeding	Main Foods Taken	"Bent, A. C. 1946. Life histories of north american jays, crows, and titmice, Pt. 2. U.S. Natl. Mus. Bull. 191."	n		
+Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Dixon, K. L. 1949. Behavior of the Plain Titmouse. Condor 51:110-136."	y	n	
+Oak Titmouse	Paridae	2000	Diet		"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habitats. McGraw-Hill Book Co. New York."	n		
+Oak Titmouse	Paridae	2000	Diet		"Csuti, B., A. J. Kimerling, T. A. O'Neil, M. M. Shaughnessy, E. P. Gaines, and M. M. P. Huso. 1997. Atlas of Oregon wildlife: distribution, habitat, and natural history. Oregon State Univ. Press, Corvallis."	n		
+Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Hertz, P. E., J. V. Remsen, Jr., and S. I. Zones. 1976. Ecological complementarity of three sympatric parids in a California oak woodland. Condor 78:307-316."	y	n	
+Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Wagner, J. L. 1981. Seasonal change in guild structure: oak woodland insectivorous birds. Ecology 62:973-981."	y	n	
+Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Block, W. M. 1990. Geographic variation in foraging ecologies of breeding and nonbreeding birds in oak woodlands. Stud. Avian Biol. 13:264-269."	y	n	
+Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Root, R. B. 1967. The niche exploitation pattern of the Blue-gray Gnatcatcher. Ecol. Monogr. 37:317-350."	y	y	data not yet entered
+Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Block, W. M. 1989. Spatial and temporal patterns of resource use by birds in California oak woodlands. Phd Thesis. Univ. of California, Berkeley."	n		
+Oak Titmouse	Paridae	2000	Feeding	Food Capture And Consumption	"Dixon, K. L. 1954. Some ecological relations of chickadees and titmice in central California. Condor 56:113-124."	y	n	
+Oak Titmouse	Paridae	2000	Feeding	Main Foods Taken	"Balda, R. P. 1987. Avian impacts on pinyon-juniper woodlands. U.S. Gen. Tech. Rep. INT- 215:525-533."	n		
+Oak Titmouse	Paridae	2000	Diet		"Kleintjes, P. K. and D. L. Dahlsten. 1992. A comparison of three techniques for analyzing the arthropod diet of Plain Titmouse and Chestnut-backed Chickadee nestlings. J. Field Ornithol. 63:276-285."	y	y	data not yet entered
+Oak Titmouse	Paridae	2000	Food Selection And Storage		"Sherry, D. F. 1989. Food storing in the Paridae. Wilson Bull. 101:289-304."	y	n	
+Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Davis, S., B. S. Davis, and J. Davis. 1973. Some factors affecting foraging behavior of Plain Titmice. Condor 75:481-482."	n		
+Oak Titmouse	Paridae	2000	Feeding	Food Capture And Consumption	"Dixon, K. L. 1956. Territoriality and survival in the Plain Titmouse. Condor 58:169-182."	y	n	
+Oak Titmouse	Paridae	2000	Metabolism And Temperature Regulation		"Cooper, S. J. 1997. The role of cold acclimatization on the biogeography of the Mountain Chickadee (Parus gambeli) and the Juniper Titmouse (Parus ridgwayi). Phd Thesis. Utah State Univ. Logan."	y	n	
+Oak Titmouse	Paridae	2000	Metabolism And Temperature Regulation		"Weathers, W. W. and E. Greene. 1998. Thermoregulatory responses of Bridled and Juniper titmice to high temperature. Condor 100:365-372."	y	n	
+Oak Titmouse	Paridae	2000	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."	y	n	
+Oak Titmouse	Paridae	2000	"Drinking, Pellet-Casting, And Defecation"		"Gubanich, A. A. and H. R. Panik. 1987. Avian use of waterholes in pinyon-juniper. U.S. For. Serv. Gen. Tech. Rep. INT- 215:534-540."	n		
+Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Root, R. B. 1964. Ecological interactions of the Chestnut-backed Chickadee following a range expansion. Condor 66:229-238."	y	n	
+Oak Titmouse	Paridae	2000	Food Selection And Storage		"K????llander, H. and H. G. Smith. 1990. Food storing in birds: an evolutionary perspective. Curr. Ornithol. 7:147-207."	n		
 Plain Titmouse	Paridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. 30."	y	y	data has not yet been entered
-Tufted Titmouse	Paridae	1994	Feeding		"Waite, T. A. and T. C. Jr Grubb. 1987. Dominance Foraging and Predation Risk in the Tufted Titmouse. Condor 89(4):936-940."			
-Tufted Titmouse	Paridae	1994	Feeding		"Bent, A. C. 1946. Life histories of North American jays, crows and titmice. U.S. Natl. Mus. Bull. 191."			
-Tufted Titmouse	Paridae	1994	Feeding		"Dixon, K. L. 1955. An ecological analysis of the interbreeding of crested titmice. Univ. Calif. Publ. Zool. 54:125-205."			
-Tufted Titmouse	Paridae	1994	Feeding		"Gillespie, Mabel. 1930. Behavior and local distribution of tufted titmice in winter and spring. BIRD BANDING 1(3):113-127."			
-Tufted Titmouse	Paridae	1994	Feeding		"Rybczynski, R. 1977. Dynamic aspects of bird flocking: the influence of weather, and patterns of spatial utilization. PhD dissertation. Cornell University, Ithaca."			
-Tufted Titmouse	Paridae	1994	Feeding		"Watt, D. J. 1972. Comparison of the foraging behaviors of the Carolina Chickadee and Tufted Titmouse in northwestern Arkansas. M.Sc. Univ. Arkansas, Fayetteville."			
-Tufted Titmouse	Paridae	1994	Feeding		"Whiting, R. M. 1979. Winter feeding niche partitionment by Carolina Chickadees and Tufted Titmice in east Texas. Pages 331-340 in The Effects of Insectivorous Bird Activities in Forest Ecosystems an Evaluation. Academic Press."			
-Tufted Titmouse	Paridae	1994	Feeding		"Offutt, G. C. 1965. Behavior of the Tufted Titmouse before and during the nesting season. Wilson Bulletin 77:382-387."			
-Tufted Titmouse	Paridae	1994	Feeding		"Grubb, T. C. Jr. 1977. Weather Dependent Foraging Behavior of Some Birds Wintering in a Deciduous Woodland Horizontal Adjustments. Condor 79(2):271-274."			
-Tufted Titmouse	Paridae	1994	Feeding		"Grubb, T. C. Jr. 1975. Weather Dependent Foraging Behavior of Some Birds Wintering in a Deciduous Woodland. Condor 77(2):175-182."			
-Tufted Titmouse	Paridae	1994	Feeding		"Grubb, T. C. Jr. 1978. Weather Dependent Foraging Rates of Wintering Woodland Birds. Auk 95(2):370-376."			
-Tufted Titmouse	Paridae	1994	Feeding		"Pierce, V. and T. C. Jr Grubb. 1981. Laboratory Studies of Foraging in 4 Bird Species of Deciduous Woodland. Auk 98(2):307-320."			
-Tufted Titmouse	Paridae	1994	Feeding		"Waite, T. A. 1987. Dominance-Specific Vigilance in the Tufted Titmouse Effects of Social Context. Condor 89(4):932-935."			
-Tufted Titmouse	Paridae	1994	Food Selection And Storage		"Sherry, D. 1989. Food Storing in the Paridae. Wilson Bulletin 101(2):289-304."			
+Tufted Titmouse	Paridae	1994	Feeding		"Waite, T. A. and T. C. Jr Grubb. 1987. Dominance Foraging and Predation Risk in the Tufted Titmouse. Condor 89(4):936-940."	y	n	
+Tufted Titmouse	Paridae	1994	Feeding		"Bent, A. C. 1946. Life histories of North American jays, crows and titmice. U.S. Natl. Mus. Bull. 191."	n		
+Tufted Titmouse	Paridae	1994	Feeding		"Dixon, K. L. 1955. An ecological analysis of the interbreeding of crested titmice. Univ. Calif. Publ. Zool. 54:125-205."	n		
+Tufted Titmouse	Paridae	1994	Feeding		"Gillespie, Mabel. 1930. Behavior and local distribution of tufted titmice in winter and spring. BIRD BANDING 1(3):113-127."	y	n	
+Tufted Titmouse	Paridae	1994	Feeding		"Rybczynski, R. 1977. Dynamic aspects of bird flocking: the influence of weather, and patterns of spatial utilization. PhD dissertation. Cornell University, Ithaca."	n		
+Tufted Titmouse	Paridae	1994	Feeding		"Watt, D. J. 1972. Comparison of the foraging behaviors of the Carolina Chickadee and Tufted Titmouse in northwestern Arkansas. M.Sc. Univ. Arkansas, Fayetteville."	n		
+Tufted Titmouse	Paridae	1994	Feeding		"Whiting, R. M. 1979. Winter feeding niche partitionment by Carolina Chickadees and Tufted Titmice in east Texas. Pages 331-340 in The Effects of Insectivorous Bird Activities in Forest Ecosystems an Evaluation. Academic Press."	y	n	
+Tufted Titmouse	Paridae	1994	Feeding		"Offutt, G. C. 1965. Behavior of the Tufted Titmouse before and during the nesting season. Wilson Bulletin 77:382-387."	y	n	
+Tufted Titmouse	Paridae	1994	Feeding		"Grubb, T. C. Jr. 1977. Weather Dependent Foraging Behavior of Some Birds Wintering in a Deciduous Woodland Horizontal Adjustments. Condor 79(2):271-274."	y	n	
+Tufted Titmouse	Paridae	1994	Feeding		"Grubb, T. C. Jr. 1975. Weather Dependent Foraging Behavior of Some Birds Wintering in a Deciduous Woodland. Condor 77(2):175-182."	y	n	
+Tufted Titmouse	Paridae	1994	Feeding		"Grubb, T. C. Jr. 1978. Weather Dependent Foraging Rates of Wintering Woodland Birds. Auk 95(2):370-376."	y	n	
+Tufted Titmouse	Paridae	1994	Feeding		"Pierce, V. and T. C. Jr Grubb. 1981. Laboratory Studies of Foraging in 4 Bird Species of Deciduous Woodland. Auk 98(2):307-320."	y	n	
+Tufted Titmouse	Paridae	1994	Feeding		"Waite, T. A. 1987. Dominance-Specific Vigilance in the Tufted Titmouse Effects of Social Context. Condor 89(4):932-935."	y	n	
+Tufted Titmouse	Paridae	1994	Food Selection And Storage		"Sherry, D. 1989. Food Storing in the Paridae. Wilson Bulletin 101(2):289-304."	y	n	
 Tufted Titmouse	Paridae	1994	Nutrition And Energetics		"Grubb, T. C. Jr and D. A. Cimprich. 1990. Supplementary Food Improves the Nutritional Condition of Wintering Woodland Birds Evidence from Ptilochronology. Ornis Scandinavica 21(4):277-281."	y	n	
 Tufted Titmouse	Paridae	1994	Nutrition And Energetics		"Grubb, T. C. Jr. 1991. A Deficient Diet Narrows Growth Bars on Induced Feathers. Auk 108(3):725-727."	y	n	
 Tufted Titmouse	Paridae	1994	Diet		"Beal, F. E.L. 1941. Common birds of southeastern United States in relation to agricutlure. U.S. Fish Wildl. Serv. Conserv. Bull. 15."	y	n	
