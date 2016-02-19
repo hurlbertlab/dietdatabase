@@ -1,50 +1,50 @@
 Source	Species	Data?	Entered?
-Beal 1907	House finch		
-Beal 1907	Western tanager		
-Beal 1907	Cliff swallow		
-Beal 1907	Barn swallow		
-Beal 1907	Violet-green swallow		
-Beal 1907	Loggerhead shrike		
-Beal 1907	Warbling vireo		
-Beal 1907	Cassin's vireo		
-Beal 1907	Hutton's vireo		
-Beal 1907	Yellow-rumped warbler		
-Beal 1907	Townsend's warbler		
-Beal 1907	Common yellowthroat		
-Beal 1907	Orange-crowned warbler		
-Beal 1907	Golden pileolated warbler		
-Beal 1907	Northern mockingbird		
-Beal 1907	California thrasher		
-Beal 1907	Bewick's wren		
-Beal 1907	House wren		
-Beal 1907	Marsh wren		
-Beal 1907	Cactus wren		
-Beal 1907	Brown creeper		
-Beal 1907	Pygmy nuthatch		
-Beal 1907	Plain titmouse		
-Beal 1907	Chestnut-sided chickadee		
-Beal 1907	Wrentit		
-Beal 1907	Bushtit		
-Beal 1907	Ruby-crowned kinglet		
-Beal 1907	Golden-crowned kinglet		
-Beal 1907	California gnatcatcher		
-Beal 1907	Black-tailed gnatcatcher		
-Beal 1907	Hermit thrush		
-Beal 1907	American robin		
-Beal 1907	Western bluebird		
-Beal 1907	Swainson's thrush		
-Beal 1910	California quail		
+Beal 1907	House finch y y
+Beal 1907	Western tanager y y		
+Beal 1907	Cliff swallow		y y
+Beal 1907	Barn swallow		y y 
+Beal 1907	Violet-green swallow y y		
+Beal 1907	Loggerhead shrike		y y 
+Beal 1907	Warbling vireo		y y 
+Beal 1907	Cassin's vireo		y y 
+Beal 1907	Hutton's vireo		y y
+Beal 1907	Yellow-rumped warbler y y		
+Beal 1907	Townsend's warbler		y y
+Beal 1907	Common yellowthroat		y y
+Beal 1907	Orange-crowned warbler	y y	
+Beal 1907	Golden pileolated warbler	y y	
+Beal 1907	Northern mockingbird		y y
+Beal 1907	California thrasher		y y
+Beal 1907	Bewick's wren		y y
+Beal 1907	House wren	y y 
+Beal 1907	Marsh wren		y y
+Beal 1907	Cactus wren		y y
+Beal 1907	Brown creeper	y y
+Beal 1907	Pygmy nuthatch	y y	
+Beal 1907	Plain titmouse		y y
+Beal 1907	Chestnut-sided chickadee y y		
+Beal 1907	Wrentit		y y
+Beal 1907	Bushtit		y y
+Beal 1907	Ruby-crowned kinglet	y y	
+Beal 1907	Golden-crowned kinglet	y y	
+Beal 1907	California gnatcatcher		y y
+Beal 1907	Black-tailed gnatcatcher		y y
+Beal 1907	Hermit thrush		y y
+Beal 1907	American robin	y y
+Beal 1907	Western bluebird	y y	
+Beal 1907	Swainson's thrush		y y
+Beal 1910	California quail	y y	
 Beal 1910	Hairy woodpecker	y	y
 Beal 1910	Downy woodpecker	y	y
 Beal 1910	Nuttall's woodpecker	y	y
 Beal 1910	Red-breasted sapsucker	y	y
 Beal 1910	Acorn woodpecker	y	y
 Beal 1910	Northern flicker	y	y
-Beal 1910	Ash-throated flycatcher		
-Beal 1910	Western kingbird		
-Beal 1910	Cassin's kingbird		
-Beal 1910	Say's phoebe		
-Beal 1910	Black phoebe		
+Beal 1910	Ash-throated flycatcher y y
+Beal 1910	Western kingbird		y y
+Beal 1910	Cassin's kingbird		y y
+Beal 1910	Say's phoebe		y y
+Beal 1910	Black phoebe		y y
 Beal 1910	Western wood-pewee		
 Beal 1910	Western flycatcher		
 Beal 1910	Horned lark		
