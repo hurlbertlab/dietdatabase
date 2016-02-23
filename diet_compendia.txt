@@ -45,10 +45,10 @@ Beal 1910	Western kingbird		y y
 Beal 1910	Cassin's kingbird		y y
 Beal 1910	Say's phoebe		y y
 Beal 1910	Black phoebe		y y
-Beal 1910	Western wood-pewee		
-Beal 1910	Western flycatcher		
-Beal 1910	Horned lark		
-Beal 1910	Steller's jay		
+Beal 1910	Western wood-pewee      	y y
+Beal 1910	Western flycatcher            	y y		
+Beal 1910	Horned lark		            	y y
+Beal 1910	Steller's jay		            	y y
 Beal 1910	Western scrub jay		
 Beal 1910	Red-winged blackbird		
 Beal 1910	Brewer's blackbird		
