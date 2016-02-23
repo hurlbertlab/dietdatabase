@@ -4592,7 +4592,7 @@ Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"Norment, C
 Black Rosy-Finch	Fringillidae	2002	Feeding	Food Capture And Consumption	"Martin, S. G., P. H. Baldwin, and E. B. Reed. 1974. Recent records of birds from the Yampa Valley, northwestern Colorado. Condor 76:113-116."	y	n	
 Black Rosy-Finch	Fringillidae	2002	Feeding	Food Capture And Consumption	"Hendricks, P. and J. E. Swenson. 1983. Dynamics of the winter distribution of rosy finches, Leucosticte arctoa, in Montana. Can. Field-Nat. 97:307-310."	n		unavailable
 Black Rosy-Finch	Fringillidae	2002	Diet		"King, J. R. and Jr. E. E. Wales. 1965. Photoperiodic regulation of testicular metamorphosis and fat deposition in three taxa of rosy finches.Physiol. Zool. 38:49-68."	y	n	
-Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"French, N. R. 1959b. Life history of the Black Rosy Finch. Auk 76:159-180."	y	y	data entered
+Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"French, N. R. 1959b. Life history of the Black Rosy Finch. Auk 76:159-180."	y	y	
 Black Rosy-Finch	Fringillidae	2002	Metabolism And Temperature Regulation		"Holt, H. R. 1997. A birder's guide to Colorado. Am. Birding Assoc., Inc. Colorado Springs, CO."	n		unavailable
 Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"Bailey, V. 1930. Animal life of Yellowstone National Park. Charles C. Thomas Publ. Springfield, IL."	y	n	
 Black Rosy-Finch	Fringillidae	2002	Feeding	Microhabitat For Foraging	"Miller, F. W. 1925. The nest and eggs of the Black Rosy Finch. Condor 27:3-7."	y	n	
@@ -4616,41 +4616,41 @@ Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Food Capture And Consumption	"
 Brown-capped Rosy-Finch	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Hyde, A. S. 1979. Birds of Colorado's Gunnison Country. Western State College Foundation, Gunnison, CO."	y	n	
 Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Shaw, W. T. 1936. Winter life and nesting studies of Hepburn's Rosy Finch in Washington State, Pt. I: winter. Auk 53:9-16."	y	n	
 Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Johnson, R. E. 1965. Reproductive activities of rosy finches, with special reference to Montana. Auk 82:190-205."	y	n	
-Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Leffingwell, D. J. and A. M. Leffingwell. 1931. Winter habits of the Hepburn Rosy Finch at Clarkston, Washington. Condor 33:140-147."	y	y	Data will be entered soon
+Brown-capped Rosy-Finch	Fringillidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Leffingwell, D. J. and A. M. Leffingwell. 1931. Winter habits of the Hepburn Rosy Finch at Clarkston, Washington. Condor 33:140-147."	y	n	
 Cassin's Finch	Fringillidae	1996	Diet		"Scott, W. E. D. 1887. On the avi-fauna of Pinal County, with remarks on some birds of Pima and Gila counties, Arizona. Auk 4:196-205."	y	n	
 Cassin's Finch	Fringillidae	1996	Diet		"Arvey, D. 1938. Color changes in captive Cassin Purple Finch. Condor 40:263."	y	n	
 Cassin's Finch	Fringillidae	1996	Diet		"Salt, G. W. 1952. The relation of metabolism to climate and distribution in three finches of the genus Carpodacus Ecol. Monogr. 22:121-152."	y	n	
-Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1974. On determining sex and age in the Cassin's Finch. West. Bird Bander 49:4-7."	y		unavailable
-Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Torgersen, T. R., J. W. Thomas, R. R. Mason, and D. Van Horn. 1984. Avian predators of Douglas-fir tussock moth, Orgyia pseudotsugata (McDunnough) (Lepidoptera: Lymantriidae) in southwestern Oregon. Environ. Entomol. 13:1018-1022."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1974. On determining sex and age in the Cassin's Finch. West. Bird Bander 49:4-7."	n		unavailable
+Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Torgersen, T. R., J. W. Thomas, R. R. Mason, and D. Van Horn. 1984. Avian predators of Douglas-fir tussock moth, Orgyia pseudotsugata (McDunnough) (Lepidoptera: Lymantriidae) in southwestern Oregon. Environ. Entomol. 13:1018-1022."	n		unavailable
 Cassin's Finch	Fringillidae	1996	Diet		"Grinnell, J. and T. I. Storer. 1924. Animal life in the Yosemite. Univ. of California Press, Berkeley."	y	n	
-Cassin's Finch	Fringillidae	1996	Diet		"Orr, R. T. 1968. Cassin's Finch. Pages 280-289 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, pt. 1. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull. 237."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Orr, R. T. 1968. Cassin's Finch. Pages 280-289 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, pt. 1. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull. 237."	n		unavailable
 Cassin's Finch	Fringillidae	1996	Food Selection And Storage		"Tomback, D. F. 1975. An emetic technique to investigate food preferences. Auk 92:581-583."	y	n	
 Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1976b. Territory, breeding density, and fall departure in Cassin's Finch. Auk 93:477-497."	y	n	
-Cassin's Finch	Fringillidae	1996	Diet		"Munro, J. A. 1950. The birds and mammals of the Creston region, British Columbia. Occ. Pap. B.C. Prov. Mus. no. 8."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Munro, J. A. 1950. The birds and mammals of the Creston region, British Columbia. Occ. Pap. B.C. Prov. Mus. no. 8."	n		unavailable
 Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1977. Social dominance in winter flocks of Cassin's Finch. Wilson Bull. 89:57-66."	y	n	
-Cassin's Finch	Fringillidae	1996	Diet		"Kelly, J. W. 1921. Cassin purple finches eating salt. Condor 23:165."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Kelly, J. W. 1921. Cassin purple finches eating salt. Condor 23:165."	n		unavailable
 Cassin's Finch	Fringillidae	1996	Diet		"Arnold, J. R. 1937. Birds of the Coalinga area, Fresno County, California. Condor 39:31-35."	y	n	
 Cassin's Finch	Fringillidae	1996	Diet		"Bennetts, R. E. and R. L. Hutto. 1985. Attraction of social fringillids to mineral salts: an experimental study. J. Field Ornithol. 56:187-190."	y	n	
-Cassin's Finch	Fringillidae	1996	Diet		"Gander, F. F. 1929. The Cassin purple finch in San Diego. Condor 31:131."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Gander, F. F. 1929. The Cassin purple finch in San Diego. Condor 31:131."	n		unavailable
 Cassin's Finch	Fringillidae	1996	Diet		"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dept. Game Fish, State Game Protective Assoc., and Bureau Biol. Surv."	y	n	
 Cassin's Finch	Fringillidae	1996	Diet		"Samson, F. B. 1976a. Pterolysis and molt in Cassin's Finch. Condor 78:505-511."	y	n	
-Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Torgersen, T. R., R. R. Mason, and R. W. Campbell. 1990. Predation by birds and ants on two forest insect pests in the Pacific northwest. Stud. Avian Biol. 13:14-19."	y		unavailable
-Cassin's Finch	Fringillidae	1996	Diet		"Henshaw, H. W. 1877. Report on the ornithology of portions of Nevada and California. Pages 1303-1322 in Ann. Rep. Geogr. Geol. Expl. Surv. West 100th Mer. (Wheeler, George M., Ed.)"	y		unavailable
+Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Torgersen, T. R., R. R. Mason, and R. W. Campbell. 1990. Predation by birds and ants on two forest insect pests in the Pacific northwest. Stud. Avian Biol. 13:14-19."	n		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Henshaw, H. W. 1877. Report on the ornithology of portions of Nevada and California. Pages 1303-1322 in Ann. Rep. Geogr. Geol. Expl. Surv. West 100th Mer. (Wheeler, George M., Ed.)"	n		unavailable
 Cassin's Finch	Fringillidae	1996	Feeding	Microhabitat For Foraging	"Grinnell, J., J. Dixon, and J. M. Linsdale. 1930. Vertebrate natural history of a section of northern California through the Lassen Peak region. Univ. Calif. Publ. Zool. 35:1-594."	y	n	
-Cassin's Finch	Fringillidae	1996	Diet		"Balph, M. H. 1978. Some population trends among Cassin's Finches in northern Utah. N. Am. Bird Bander 3:12-15."	y		unavailable
+Cassin's Finch	Fringillidae	1996	Diet		"Balph, M. H. 1978. Some population trends among Cassin's Finches in northern Utah. N. Am. Bird Bander 3:12-15."	n		unavailable
 Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Brooks, W. S. 1978. Triphasic feeding behavior and the esophageal diverticulum in redpolls. Auk 95:182-183."	y	n	
-Common Redpoll	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Cade, T. J. 1953. Sub-nival feeding of the redpoll in interior Alaska: a possible adaptation to the northern winter. Condor 55:43-44."	y		unavailable
-Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Ziswiler, V. 1965. Zur Zenntnis des Samen????ffnens und der Struktur des h????rnernen Gaumens bei k????rnerfressenden Oscines. J. Ornithol. 106:1-48."	y	n	Not in English?
-Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Newton, I. 1967. The adaptive radiation and feeding ecology of some British finches. Ibis 109:33-98."	y	y	"A lot of data: Pg. 59,56,51,45,42, in the process of understanding and entering "
-Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Cramp, S. and C. M. Perrins. 1994. The birds of the Western Palearctic, Vol. 8: crows to finches. Oxford Univ. Press, Oxford."			
-Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Peiponen, V. A. 1962. ????ber Brutbiologie, Nahrung und geographische Verbreitung des Birkenzeisigs (Carduelis flammea). Ornis Fenn. 39:37-60."			
-Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Dolphin, A. K. 1998. Common Redpolls feeding on algae. Br. Birds 91:240."			
-Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Clement, R. C. 1968. Common Redpoll Acanthis flammea flammea (Linneaus). Pages 407-421 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. Pt. 1. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull. 237."			
-Common Redpoll	Fringillidae	2000	Nutrition And Energetics		"Pulliainen, E., T. Kallio, and A. M. Hallaksela. 1978. Eating of wood by Parrot Crossbills, Loxia pytyopsittacus, and redpolls, Carduelis flammea. Aquilo Ser. Zool. 18:23-27."			
-Common Redpoll	Fringillidae	2000	Nutrition And Energetics		"Brooks, W. S. 1968. Comparative adaptations of the Alaskan redpolls to the arctic environment. Wilson Bull. 80:253-280."			
-Common Redpoll	Fringillidae	2000	Metabolism And Temperature Regulation		"Irving, L. 1960. Birds of Anaktuvuk Pass, Kobuk, and Old Crow: a study in arctic adaptation. U.S. Natl. Mus. Bull. 217."			
-Common Redpoll	Fringillidae	2000	Metabolism And Temperature Regulation		"Reinertsen, R. E. and S. Haftorn. 1986. Different metabolic strategies of northern birds for nocturnal survival. J. Comp. Physiol. B. 156:655-663."			
-Common Redpoll	Fringillidae	2000	Diet	Quantitative Analysis	"Gabrielson, I. N. 1924. Food habits of some winter bird visitants. U.S. Dep. Agric. Bull. 1249."			
+Common Redpoll	Fringillidae	2000	Feeding	Microhabitat For Foraging	"Cade, T. J. 1953. Sub-nival feeding of the redpoll in interior Alaska: a possible adaptation to the northern winter. Condor 55:43-44."	n		unavailable
+Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Ziswiler, V. 1965. Zur Zenntnis des Samen????ffnens und der Struktur des h????rnernen Gaumens bei k????rnerfressenden Oscines. J. Ornithol. 106:1-48."	n		Not in English?
+Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Newton, I. 1967. The adaptive radiation and feeding ecology of some British finches. Ibis 109:33-98."	y	y	
+Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Cramp, S. and C. M. Perrins. 1994. The birds of the Western Palearctic, Vol. 8: crows to finches. Oxford Univ. Press, Oxford."	y	n	
+Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Peiponen, V. A. 1962. ????ber Brutbiologie, Nahrung und geographische Verbreitung des Birkenzeisigs (Carduelis flammea). Ornis Fenn. 39:37-60."	n		not in english
+Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Dolphin, A. K. 1998. Common Redpolls feeding on algae. Br. Birds 91:240."	n		unavailable
+Common Redpoll	Fringillidae	2000	Feeding	Food Capture And Consumption	"Clement, R. C. 1968. Common Redpoll Acanthis flammea flammea (Linneaus). Pages 407-421 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. Pt. 1. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull. 237."	n		unavailable
+Common Redpoll	Fringillidae	2000	Nutrition And Energetics		"Pulliainen, E., T. Kallio, and A. M. Hallaksela. 1978. Eating of wood by Parrot Crossbills, Loxia pytyopsittacus, and redpolls, Carduelis flammea. Aquilo Ser. Zool. 18:23-27."	n		unavailable
+Common Redpoll	Fringillidae	2000	Nutrition And Energetics		"Brooks, W. S. 1968. Comparative adaptations of the Alaskan redpolls to the arctic environment. Wilson Bull. 80:253-280."	y	n	
+Common Redpoll	Fringillidae	2000	Metabolism And Temperature Regulation		"Irving, L. 1960. Birds of Anaktuvuk Pass, Kobuk, and Old Crow: a study in arctic adaptation. U.S. Natl. Mus. Bull. 217."	y		Davis Library Service Desk
+Common Redpoll	Fringillidae	2000	Metabolism And Temperature Regulation		"Reinertsen, R. E. and S. Haftorn. 1986. Different metabolic strategies of northern birds for nocturnal survival. J. Comp. Physiol. B. 156:655-663."	y	n	
+Common Redpoll	Fringillidae	2000	Diet	Quantitative Analysis	"Gabrielson, I. N. 1924. Food habits of some winter bird visitants. U.S. Dep. Agric. Bull. 1249."	y	y	entering 
 Common Redpoll	Fringillidae	2000	Metabolism And Temperature Regulation		"Pulliainen, E. 1979. Behaviour of a pair of redpolls, Acanthis flammea, at the nest. Aquilo Ser. Zool. 19:87-96."			
 Common Redpoll	Fringillidae	2000	Diet	Major Food Items	"Salomonsen, F. 1951. The birds of Greenland, Pt. III. Munksgaard, Copenhagen."			
 Common Redpoll	Fringillidae	2000	Nutrition And Energetics		"Pulliainen, E. 1974. Winter nutrition of the Common Crossbill (Loxia curvirostra) and the Pine Grosbeak (Pinicola enucleator) in northeastern Lapland in 1973. Ann. Zool. Fenn. 11:204-206."			
