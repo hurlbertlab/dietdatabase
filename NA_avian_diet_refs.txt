@@ -7245,27 +7245,27 @@ Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Sefton, Jr.
 Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Haverschmidt, F. 1949. Brown Pelican on the coast of Surinam, Dutch Guiana. Auk 66:77-78."	n		
 Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Lincer, J. L., D. Krivit, and J. E. Shaw. 1979. People and pan-handling pelicans. Fla. Field Nat. 7:13-18."	n		
 Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Briggs, K. T., W. B. Tyler, D. B. Lewis, and D. R. Carlson. 1987. Bird communities at sea off California: 1975 to 1983. Stud. Avian Biol. no. 11."	y	n	
-Brown Pelican	Pelecanidae	2002	Diet	Major Food Items	"U.S. Fish and Wildlife Service. 1983. The California Brown Pelican recovery plan. Prepared by F. Gress and D. W. Anderson. U.S. Fish Wildl. Serv. Portland, OR."			
-Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Bildstein, K. L. 1980. Adult Brown Pelican robs Great Blue Heron of fish. Wilson Bull. 92:122-123."			
-Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Brandt, C. A. 1984. Age and hunting success in the Brown Pelican: influences of skill and patch choice on foraging efficiency. Oecologia 62:132-137."			
-Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Palmer, R. S. 1962. Handbook of North American birds. Vol. 1. Yale Univ. Press, New Haven, CT."			
-Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Mills, K. L. 1998. Multispecies seabird feeding flocks in the Gal????pagos Islands. Condor 100:277-285."			
-Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Burton, P. J. K. 1977. Lower jaw action during prey capture by pelicans. Auk 94:785-786."			
-Brown Pelican	Pelecanidae	2002	Nutrition And Energetics		"Schreiber, R. W. 1976a. Growth and development of nestling Brown Pelicans. Bird-Banding 47:19-39."			
-Brown Pelican	Pelecanidae	2002	Nutrition And Energetics		"Wolf, S. H., R. W. Schreiber, L. Kahana, and J. J. Torres. 1985. Seasonal, sexual and age-related variation in the blood composition of the Brown Pelican (Pelecanus occidentalis). Comp. Biochem. Physiol. 82A:837-846."			
-Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Richardson, F. 1939. Functional aspects of the pneumatic system of the California Brown Pelican. Condor 41:13-17."			
-Brown Pelican	Pelecanidae	2002	Diet	Major Food Items	"Coker, R. E. 1920. Habits and economic relations of the guano birds of Peru. Proc. U.S. Natl. Mus. 56:449-511."			
-Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Dinsmore, J. J. 1974. White and Brown pelicans feeding together. Fla. Field Nat. 2:11."			
-Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Hayes, F. E. and W. S. Baker. 1989. Seabird distribution at sea in the Galapagos Islands: environmental correlations and associations with upwelled water. Colon. Waterbirds 12:60-66."			
-Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Spear, L. B. and D. G. Ainley. 1999. Seabirds of the Panama Bight. Waterbirds 22:175-198."			
-Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Briggs, K. T., W. B. Tyler, D. B. Lewis, P. R. Kelly, and D. A. Croll. 1983. Brown Pelicans in central and northern California. J. Field Ornithol. 54:353-373."			
-Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Tershey, B. R., D. Breese, and G. M. Meyer. 1990. Kleptoparasitism of adult and immature Brown Pelicans by Heermann's Gulls. Condor 92:1076-1077."			
-Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Murphy, R. C. 1936. Oceanic birds of South America. Vol. I and II. Am. Mus. Nat. Hist. New York."			
-Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Forbes, H. O. 1914. Notes on Molina's Pelican (Pelecanus thagus). Ibis 2:403-420."			
-Brown Pelican	Pelecanidae	2002	Diet	Major Food Items	"Blus, L. J., T. G. Lamont, and B. S. Neely, Jr. 1979b. Effects of organochlorine residues on eggshell thickness, reproduction, and population status of Brown Pelicans (Pelecanus occidentalis) in South Carolina and Florida, 1969-76. Pestic. Monitor. J. 12:172-184."			
-Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Duffy, D. C. 1983d. The foraging ecology of Peruvian seabirds. Auk 100:800-810."			
-Brown Pelican	Pelecanidae	2002	Diet	Major Food Items	"Anderson, D. W., F. Gress, and K. F. Mais. 1982. Brown Pelicans: influence of food supply on reproduction. Oikos 39:23-31."			
-Brown Pelican	Pelecanidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Schmidt-Nielsen, K. and R. Fange. 1958. The function of the salt gland in the Brown Pelican. Auk 75:282-289."			
+Brown Pelican	Pelecanidae	2002	Diet	Major Food Items	"U.S. Fish and Wildlife Service. 1983. The California Brown Pelican recovery plan. Prepared by F. Gress and D. W. Anderson. U.S. Fish Wildl. Serv. Portland, OR."	n		
+Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Bildstein, K. L. 1980. Adult Brown Pelican robs Great Blue Heron of fish. Wilson Bull. 92:122-123."	n		
+Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Brandt, C. A. 1984. Age and hunting success in the Brown Pelican: influences of skill and patch choice on foraging efficiency. Oecologia 62:132-137."	y	n	
+Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Palmer, R. S. 1962. Handbook of North American birds. Vol. 1. Yale Univ. Press, New Haven, CT."	n		
+Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Mills, K. L. 1998. Multispecies seabird feeding flocks in the Gal????pagos Islands. Condor 100:277-285."	y	n	
+Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Burton, P. J. K. 1977. Lower jaw action during prey capture by pelicans. Auk 94:785-786."	n		
+Brown Pelican	Pelecanidae	2002	Nutrition And Energetics		"Schreiber, R. W. 1976a. Growth and development of nestling Brown Pelicans. Bird-Banding 47:19-39."	y	n	
+Brown Pelican	Pelecanidae	2002	Nutrition And Energetics		"Wolf, S. H., R. W. Schreiber, L. Kahana, and J. J. Torres. 1985. Seasonal, sexual and age-related variation in the blood composition of the Brown Pelican (Pelecanus occidentalis). Comp. Biochem. Physiol. 82A:837-846."	y	n	
+Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Richardson, F. 1939. Functional aspects of the pneumatic system of the California Brown Pelican. Condor 41:13-17."	y	n	
+Brown Pelican	Pelecanidae	2002	Diet	Major Food Items	"Coker, R. E. 1920. Habits and economic relations of the guano birds of Peru. Proc. U.S. Natl. Mus. 56:449-511."	n		
+Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Dinsmore, J. J. 1974. White and Brown pelicans feeding together. Fla. Field Nat. 2:11."	n		
+Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Hayes, F. E. and W. S. Baker. 1989. Seabird distribution at sea in the Galapagos Islands: environmental correlations and associations with upwelled water. Colon. Waterbirds 12:60-66."	y	n	
+Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Spear, L. B. and D. G. Ainley. 1999. Seabirds of the Panama Bight. Waterbirds 22:175-198."	y	n	
+Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Briggs, K. T., W. B. Tyler, D. B. Lewis, P. R. Kelly, and D. A. Croll. 1983. Brown Pelicans in central and northern California. J. Field Ornithol. 54:353-373."	y	n	
+Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Tershey, B. R., D. Breese, and G. M. Meyer. 1990. Kleptoparasitism of adult and immature Brown Pelicans by Heermann's Gulls. Condor 92:1076-1077."	y	n	
+Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Murphy, R. C. 1936. Oceanic birds of South America. Vol. I and II. Am. Mus. Nat. Hist. New York."	n		
+Brown Pelican	Pelecanidae	2002	Feeding	Food Capture And Consumption	"Forbes, H. O. 1914. Notes on Molina's Pelican (Pelecanus thagus). Ibis 2:403-420."	y	n	
+Brown Pelican	Pelecanidae	2002	Diet	Major Food Items	"Blus, L. J., T. G. Lamont, and B. S. Neely, Jr. 1979b. Effects of organochlorine residues on eggshell thickness, reproduction, and population status of Brown Pelicans (Pelecanus occidentalis) in South Carolina and Florida, 1969-76. Pestic. Monitor. J. 12:172-184."	n		
+Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Duffy, D. C. 1983d. The foraging ecology of Peruvian seabirds. Auk 100:800-810."	y	n	
+Brown Pelican	Pelecanidae	2002	Diet	Major Food Items	"Anderson, D. W., F. Gress, and K. F. Mais. 1982. Brown Pelicans: influence of food supply on reproduction. Oikos 39:23-31."	y	n	
+Brown Pelican	Pelecanidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Schmidt-Nielsen, K. and R. Fange. 1958. The function of the salt gland in the Brown Pelican. Auk 75:282-289."	y	n	
 Brown Pelican	Pelecanidae	2002	Metabolism And Temperature Regulation		"Klaassen, M. and R. Drent. 1991. An analysis of hatchling resting metabolism: in search of ecological correlates that explain deviations from allometric relations. Condor 93:612-629."			
 Brown Pelican	Pelecanidae	2002	Metabolism And Temperature Regulation		"Bartholomew, G. A., R. C. Lasiewski, and E. C. Crawford, Jr. 1968. Patterns of panting and gular flutter in cormorants, pelicans, owls, and doves. Condor 70:31-34."			
 Brown Pelican	Pelecanidae	2002	Feeding	Microhabitat For Foraging	"Sturm, K. 1998. From summer range to home range? Endangered Species Bull. 23(5):22-23."			
