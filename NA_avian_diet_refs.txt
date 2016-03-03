@@ -4723,81 +4723,81 @@ House Finch	Fringillidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds 
 Lawrence's Goldfinch	Fringillidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Woods, R. S. 1925. Goldfinches' manner of drinking. Condor 27:71."	y	n	
 Lawrence's Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Ortega, J. L. 1945. Lawrence Goldfinch eating egg of Mourning Dove. Condor 47:41."	n		unavailable
 Lawrence's Goldfinch	Fringillidae	1999	Diet	Major Food Items	"Linsdale, J. M. 1950. Observations on the Lawrence's Goldfinch. Condor 52:255-259."	y	n	
-Lawrence's Goldfinch	Fringillidae	1999	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. Dover Publ. Inc., New York."			
-Lawrence's Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Coutlee, E. L. 1968a. Comparative breeding behavior of Lesser and Lawrence's goldfinches. Condor 70:228-242."			
-Lawrence's Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Peterson, J. G. 1942. Salt feeding habits of the House Finch. Condor 44:73."			
-Lawrence's Goldfinch	Fringillidae	1999	Diet	Major Food Items	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the Lower Colorado River Valley. Univ. of Arizona Press, Tucson."			
-Lawrence's Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Coutlee, E. L. 1968b. Maintenance behavior of Lesser and Lawrence's goldfinches. Condor 70:378-384."			
-Lawrence's Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Linsdale, J. M. 1957. Goldfinches on the Hastings Natural History Reservation. Am. Midl. Nat. 57:1-119."			
-Lawrence's Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Culbertson, A. E. 1946. Lawrence Goldfinches feed on jumping galls. Condor 48:40."			
-Lawrence's Goldfinch	Fringillidae	1999	Food Selection And Storage		"Stone, B. and D. G. Granados. 1985. Rehabilitation notes: North American goldfinches. Int. Wildl. Rehab. Council J., Fall 1985."			
-Lawrence's Goldfinch	Fringillidae	1999	Diet	Major Food Items	"Gander, F. F. 1930. Notes on winter bird roosts. Condor 32:64."			
-Lesser Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Middleton, A. L. A. 1993. American Goldfinch (Carduelis tristis). in The birds of North America, no. 80. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."			
-Lesser Goldfinch	Fringillidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Coutlee, E. L. 1968b. Maintenance behavior of Lesser and Lawrence's Goldfinches. Condor 70:378-384."			
-Lesser Goldfinch	Fringillidae	1999	Food Selection And Storage		"Coutlee, E. L. 1966. The comparative behavior of Lawrence's and Lesser Goldfinches. Phd Thesis. Univ. of California, Los Angeles, CA."			
-Lesser Goldfinch	Fringillidae	1999	Diet		"Spofford, S. H. and L. H. Fisk. 1977. Additions to the list of nectar feeding birds. West. Birds 8:109-112."			
+Lawrence's Goldfinch	Fringillidae	1999	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. Dover Publ. Inc., New York."	n		Library Service Center
+Lawrence's Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Coutlee, E. L. 1968a. Comparative breeding behavior of Lesser and Lawrence's goldfinches. Condor 70:228-242."	y	n	
+Lawrence's Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Peterson, J. G. 1942. Salt feeding habits of the House Finch. Condor 44:73."	n		unavailable
+Lawrence's Goldfinch	Fringillidae	1999	Diet	Major Food Items	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the Lower Colorado River Valley. Univ. of Arizona Press, Tucson."	y	n	
+Lawrence's Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Coutlee, E. L. 1968b. Maintenance behavior of Lesser and Lawrence's goldfinches. Condor 70:378-384."	y	n	
+Lawrence's Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Linsdale, J. M. 1957. Goldfinches on the Hastings Natural History Reservation. Am. Midl. Nat. 57:1-119."	y	n	
+Lawrence's Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Culbertson, A. E. 1946. Lawrence Goldfinches feed on jumping galls. Condor 48:40."	n		unavailable
+Lawrence's Goldfinch	Fringillidae	1999	Food Selection And Storage		"Stone, B. and D. G. Granados. 1985. Rehabilitation notes: North American goldfinches. Int. Wildl. Rehab. Council J., Fall 1985."	n		unavailable
+Lawrence's Goldfinch	Fringillidae	1999	Diet	Major Food Items	"Gander, F. F. 1930. Notes on winter bird roosts. Condor 32:64."	n		unavailable
+Lesser Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Middleton, A. L. A. 1993. American Goldfinch (Carduelis tristis). in The birds of North America, no. 80. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."	n		unavailable
+Lesser Goldfinch	Fringillidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Coutlee, E. L. 1968b. Maintenance behavior of Lesser and Lawrence's Goldfinches. Condor 70:378-384."	y	n	
+Lesser Goldfinch	Fringillidae	1999	Food Selection And Storage		"Coutlee, E. L. 1966. The comparative behavior of Lawrence's and Lesser Goldfinches. Phd Thesis. Univ. of California, Los Angeles, CA."	y	n	
+Lesser Goldfinch	Fringillidae	1999	Diet		"Spofford, S. H. and L. H. Fisk. 1977. Additions to the list of nectar feeding birds. West. Birds 8:109-112."	n		unavailable
 Lesser Goldfinch	Fringillidae	1999	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, pt. 2. U.S. Dep. Agric. Biol. Surv., Bull. 34:1-96."	y	y	data has not yet been entered
-Lesser Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Linsdale, J. M. 1957. Goldfinches on the Hastings Natural History Reservation. Am. Midland Nat. 57:1-119."			
-Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Pittaway, R. 1989. Pine Grosbeaks using bird feeders. Ont. Birds 7:65-67."			
-Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Brooks, M. 1956. Winter foods of Evening and Pine grosbeaks in West Virginia. Wilson Bull. 68:249-250."			
-Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Rising, J. D. 1965. Townsend's Solitaire and Pine Grosbeak in Missouri. Auk 82:275."			
-Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Dunn, E. H. 1989. Are Pine Grosbeaks increasing at bird feeders in Ontario? Ont. Birds 7:87-91."			
-Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Cramp, S. and C. M. Perrins. 1994. The birds of the Western Palearctic, Vol. 8: Crows to finches. Oxford Univ. Press, Oxford."			
-Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Pulliainen, E. and R. Hakanen. 1972. Parental care of a pair of Pine Grosbeaks Pinicola enucleator during the nestling period. Ornis Fenn. 49:86-90."			
-Pine Grosbeak	Fringillidae	1999	Feeding	Food Capture And Consumption	"Pulliainen, E. 1974. Winter nutrition of the common crossbill (Loxia curvirostra) and the Pine Grosbeak (Pinicola enucleator) in northeastern Lapland in 1973. Ann. Zool. Fenn. 11:204-206."			
-Pine Grosbeak	Fringillidae	1999	Feeding	Food Capture And Consumption	"Pulliainen, E. 1979. On the breeding of the Pine Grosbeak Pinicola enucleator in NE Finland. Ornis Fenn. 56:156-162."			
-Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Gabrielson, I. N. 1924. Food habits of some winter bird visitants. U.S. Dep. Agric. Bull. 1249."			
-Pine Grosbeak	Fringillidae	1999	Nutrition And Energetics		"Bernhoft-Osa, A. 1969. Erfahrungen mit dem Hakengimpel. Gefiederte Welt 93:213-214."			
-Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Walker, B. 1989. Further notes on Pine Grosbeaks at feeders. Ont. Birds 7:86-87."			
-Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Austin, O. L. 1968. Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, Part 1. U.S. Natl. Mus. Bull. 237:326-346."			
-Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Newton, I. 1973. Finches. Collins, London."			
-Pine Grosbeak	Fringillidae	1999	Feeding	Food Capture And Consumption	"French, N. R. 1954. Notes on breeding activities and on gular sacs in the Pine Grosbeak. Condor 56:83-85."			
-Pine Grosbeak	Fringillidae	1999	Metabolism And Temperature Regulation		"Dawson, W. R. and H. B. Tordoff. 1964. Relation of oxygen consumption to temperature in the Red and White-winged crossbills. Auk 81:26-35."			
-Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Adkisson, C. S. 1977b. The breeding and maintenance of Pine Grosbeaks in captivity. Avic. Mag. 83:195-198."			
-Pine Grosbeak	Fringillidae	1999	Feeding	Food Capture And Consumption	"Brewster, W. 1895. A remarkable flight of Pine Grosbeaks (Pinicola enucleator). Auk 12:245-255."			
-Pine Grosbeak	Fringillidae	1999	Nutrition And Energetics		"St. Quintin, W. H. 1906. Breeding of the Pine Grosbeak in captivity. Avic. Mag. 5:55-56."			
-Pine Grosbeak	Fringillidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Wolfe, D. F. G. 1996. Opportunistic winter water acquisition by Pine Grosbeaks. Wilson Bull. 108:186-187."			
-Pine Grosbeak	Fringillidae	1999	Metabolism And Temperature Regulation		"Dawson, W. R. and C. Carey. 1976. Seasonal acclimatization to temperature in cardueline finches: I. Insulative and metabolic adjustments. J. Comp. Physiol. 112:317-333."			
-Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Torgersen, T. R. and R. W. Campbell. 1982. Some effects of avian predators on the western spruce budworm in north central Washington. Environ. Entomol. 11:429-431."			
-Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Jennings, D. T. and H. S. Crawford. 1983. Pine Siskin preys on egg masses of the spruce budworm, Choristoneura fumiferana (Lepidoptera: Tortricidae). Can. Entom. 115:439-440."			
-Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Palmer, R. S. 1968. Spinus pinus (Wilson) Pine Siskin. Pages 424-447 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull No. 237 (1)"			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Batts, Jr., H. L. 1953. Siskin and goldfinch feeding at sapsucker tree. Wilson Bull. 65:198."			
-Pine Siskin	Fringillidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Hayward, W. J. and T. C. Stephens. 1914. The Pine Siskin breeding in Iowa. Wilson Bull. 26:140-146."			
-Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Mcatee, W. L. 1926. The relation of birds to woodlots in New York State. Roosevelt Wild Life Bull. 4:7-152."			
-Pine Siskin	Fringillidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Dales, M. and W. W. Bennett. 1929. Nesting of the Pine Siskin in Iowa with remarks on regurgitative feeding. Wilson Bull. 41:74-77."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Davis, E. R. 1926. Friendly siskins. Bird-Lore 28:381-388."			
-Pine Siskin	Fringillidae	1997	Food Selection And Storage		"Newton, I. 1973. Finches. Taplinger Publ. Co. New York."			
-Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Roland, J., S. J. Hannon, and M. A. Smith. 1986. Foraging pattern of Pine Siskins and its influence on winter moth survival in an apple orchard. Oecologia (Berlin) 69:47-52."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Bagg, A. C. and S. A. Eliot, Jr. 1937. Birds of the Connecticut Valley in Massachusetts. The Hampshire Bookshop, Northampton, MA."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Miller, A. H. 1955. The avifauna of the Sierra del Carmen of Coahuila, Mexico. Condor 57:154-178."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Mccabe, T. T. and E. B. McCabe. 1929. Economic status of Pine Siskin. Condor 31:126-127."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Prescott, D. R. C. 1985. Feeding at night by wintering Pine Siskins. J. Field Ornithol. 56:419."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Kemsies, E. 1948. Northern Pine Siskin in Hamilton County, Ohio. Auk 65:146."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Shaub, B. M. 1951. A study of the behavior and population of Pine Siskins at Northampton, Mass., February-May, 1947. Bird-Banding 22:71-79."			
-Pine Siskin	Fringillidae	1997	Feeding	Microhabitat For Foraging	"Todd, W. E. C. 1940. Birds of western Pennsylvania. Univ. of Pittsburgh Press, Pittsburgh, PA."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Granlund, J. 1994. Pine Siskin Carduelis pinus. Pages 335-337 in The birds of Michigan. (McPeek, G. A. and R. J. Adams, Eds.) Indiana Univ. Press, Bloomington, IN."			
-Pine Siskin	Fringillidae	1997	Food Selection And Storage		"Middleton, A. L. A. 1993. American Goldfinch (Carduelis tristis). in The birds of North America, No. 80. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."			
-Pine Siskin	Fringillidae	1997	Nutrition And Energetics		"Dawson, W. R. and R. L. Marsh. 1986. Winter fattening in the American Goldfinch and the possible role of temperature in its regulation. Physiol. Zool. 59:357-368."			
-Pine Siskin	Fringillidae	1997	Nutrition And Energetics		"Bennetts, R. E. and R. L. Hutto. 1985. Attraction of social fringillids to mineral salts: an experimental study. J. Field Ornithol. 56:187-189."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Balph, D. F. and M. H. Balph. 1979. Behavioral flexibility of Pine Siskins in mixed species foraging groups. Condor 81:211-212."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Forbush, E. H. 1929. Birds of Massachusetts and other New England states, Part 3. Land birds from sparrows to thrushes. Mass. Dept. Agric., Boston, MA."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Department of Game and Fish, Santa Fe, NM."			
-Pine Siskin	Fringillidae	1997	Metabolism And Temperature Regulation		"Hejl, S. J., J. Verner, and R. P. Balda. 1988. Weather and bird populations in true fir forests of the Sierra Nevada, California. Condor 90:561-574."			
-Pine Siskin	Fringillidae	1997	Nutrition And Energetics		"Mccabe, T. T. and E. B. McCabe. 1928. The plumage of the Pine Siskin. Condor 30:221-227."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Rodgers, T. L. 1937. Behavior of the Pine Siskin. Condor 39:143-149."			
-Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Siebenheller, B. and N. Siebenheller. 1987. Possible effects of artificial feeding on nest-site selection by Pine Siskins. Chat 51:57-58."			
-Pine Siskin	Fringillidae	1997	Feeding		"Astheimer, L. B., W. A. Buttemer, and J. C. Wingfield. 1992. Interactions of corticosterone with feeding, activity and metabolism in passerine birds. Ornis Scand. 23:355-365."			
-Pine Siskin	Fringillidae	1997	Nutrition And Energetics		"Messineo, D. J. 1985. The 1985 nesting of Pine Siskin, Red Crossbill and White-winged Crossbill in Chenango County, N.Y. Kingbird 35:233-237."			
-Pine Siskin	Fringillidae	1997	Metabolism And Temperature Regulation		"Dawson, W. R. and C. Carey. 1976. Seasonal acclimatization to temperature in cardueline finches. I. Insulative and metabolic adjustments. J. Comp. Physiol. 112:317-333."			
-Purple Finch	Fringillidae	1996	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."			
-Purple Finch	Fringillidae	1996	Nutrition And Energetics		"Fraser, D. 1985. Mammals, birds, and butterflies at sodium sources in northern Ontario forests. Can. Field-Nat. 99:365-367."			
-Purple Finch	Fringillidae	1996	Diet	Major Food Items	"Smith, A. P. 1915. Birds of the Boston Mountains, Arkansas. Condor 17:41-57."			
-Purple Finch	Fringillidae	1996	Feeding	Food Capture And Consumption	"Moffitt, J. 1932. The Townsend Solitaire in San Francisco. Condor 34:190-191."			
-Purple Finch	Fringillidae	1996	Feeding	Food Capture And Consumption	"Bond, R. M. 1947. Bitter cherry and serviceberry as food for birds. Condor 49:37."			
-Purple Finch	Fringillidae	1996	Feeding	Food Capture And Consumption	"Gorbeil, R. E. 1963. The comparative feeding behavior of wintering Evening Grosbeaks and Purple Finches. Bird-Banding 34:217-218."			
-Purple Finch	Fringillidae	1996	Nutrition And Energetics		"Bartleson, Jr., F. D. and O. F. Jensen. 1955. A study of Purple Finch winter weights. Wilson Bull. 67:55-59."			
-Purple Finch	Fringillidae	1996	Diet	Major Food Items	"Gentry, T. G. 1876. Life-histories of birds of eastern Pennsylvania. T. G. Gentry, Philadelphia, PA."			
-Purple Finch	Fringillidae	1996	Nutrition And Energetics		"Blake, C. H. 1956. Weight changes in birds. Bird-Banding 27:16-22."			
+Lesser Goldfinch	Fringillidae	1999	Feeding	Food Capture And Consumption	"Linsdale, J. M. 1957. Goldfinches on the Hastings Natural History Reservation. Am. Midland Nat. 57:1-119."	y	n	
+Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Pittaway, R. 1989. Pine Grosbeaks using bird feeders. Ont. Birds 7:65-67."	n		unavailable
+Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Brooks, M. 1956. Winter foods of Evening and Pine grosbeaks in West Virginia. Wilson Bull. 68:249-250."	y	n	
+Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items		y	n	
+Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Dunn, E. H. 1989. Are Pine Grosbeaks increasing at bird feeders in Ontario? Ont. Birds 7:87-91."	n		unavailable
+Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Cramp, S. and C. M. Perrins. 1994. The birds of the Western Palearctic, Vol. 8: Crows to finches. Oxford Univ. Press, Oxford."	y	n	
+Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Pulliainen, E. and R. Hakanen. 1972. Parental care of a pair of Pine Grosbeaks Pinicola enucleator during the nestling period. Ornis Fenn. 49:86-90."	n		unavailable
+Pine Grosbeak	Fringillidae	1999	Feeding	Food Capture And Consumption	"Pulliainen, E. 1974. Winter nutrition of the common crossbill (Loxia curvirostra) and the Pine Grosbeak (Pinicola enucleator) in northeastern Lapland in 1973. Ann. Zool. Fenn. 11:204-206."	y	n	
+Pine Grosbeak	Fringillidae	1999	Feeding	Food Capture And Consumption	"Pulliainen, E. 1979. On the breeding of the Pine Grosbeak Pinicola enucleator in NE Finland. Ornis Fenn. 56:156-162."	n		unavailable
+Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Gabrielson, I. N. 1924. Food habits of some winter bird visitants. U.S. Dep. Agric. Bull. 1249."	y	y	already entered
+Pine Grosbeak	Fringillidae	1999	Nutrition And Energetics		"Bernhoft-Osa, A. 1969. Erfahrungen mit dem Hakengimpel. Gefiederte Welt 93:213-214."	n		
+Pine Grosbeak	Fringillidae	1999	Diet	Major Food Items	"Walker, B. 1989. Further notes on Pine Grosbeaks at feeders. Ont. Birds 7:86-87."	n		unavailable
+Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Austin, O. L. 1968. Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, Part 1. U.S. Natl. Mus. Bull. 237:326-346."	n		Library Service Center
+Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Newton, I. 1973. Finches. Collins, London."	n		unavailable
+Pine Grosbeak	Fringillidae	1999	Feeding	Food Capture And Consumption	"French, N. R. 1954. Notes on breeding activities and on gular sacs in the Pine Grosbeak. Condor 56:83-85."	n		unavailable
+Pine Grosbeak	Fringillidae	1999	Metabolism And Temperature Regulation		"Dawson, W. R. and H. B. Tordoff. 1964. Relation of oxygen consumption to temperature in the Red and White-winged crossbills. Auk 81:26-35."	y	n	
+Pine Grosbeak	Fringillidae	1999	Feeding	Main Foods Taken	"Adkisson, C. S. 1977b. The breeding and maintenance of Pine Grosbeaks in captivity. Avic. Mag. 83:195-198."	n		unavailable
+Pine Grosbeak	Fringillidae	1999	Feeding	Food Capture And Consumption	"Brewster, W. 1895. A remarkable flight of Pine Grosbeaks (Pinicola enucleator). Auk 12:245-255."	y	n	"some data might be extractable, but it groups different prey species"
+Pine Grosbeak	Fringillidae	1999	Nutrition And Energetics		"St. Quintin, W. H. 1906. Breeding of the Pine Grosbeak in captivity. Avic. Mag. 5:55-56."	n		unavailable
+Pine Grosbeak	Fringillidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Wolfe, D. F. G. 1996. Opportunistic winter water acquisition by Pine Grosbeaks. Wilson Bull. 108:186-187."	y	n	
+Pine Grosbeak	Fringillidae	1999	Metabolism And Temperature Regulation		"Dawson, W. R. and C. Carey. 1976. Seasonal acclimatization to temperature in cardueline finches: I. Insulative and metabolic adjustments. J. Comp. Physiol. 112:317-333."	y	n	
+Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Torgersen, T. R. and R. W. Campbell. 1982. Some effects of avian predators on the western spruce budworm in north central Washington. Environ. Entomol. 11:429-431."	n		unavailable
+Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Jennings, D. T. and H. S. Crawford. 1983. Pine Siskin preys on egg masses of the spruce budworm, Choristoneura fumiferana (Lepidoptera: Tortricidae). Can. Entom. 115:439-440."	n		unavailable
+Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Palmer, R. S. 1968. Spinus pinus (Wilson) Pine Siskin. Pages 424-447 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull No. 237 (1)"	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Batts, Jr., H. L. 1953. Siskin and goldfinch feeding at sapsucker tree. Wilson Bull. 65:198."	y	n	
+Pine Siskin	Fringillidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Hayward, W. J. and T. C. Stephens. 1914. The Pine Siskin breeding in Iowa. Wilson Bull. 26:140-146."	y	n	
+Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Mcatee, W. L. 1926. The relation of birds to woodlots in New York State. Roosevelt Wild Life Bull. 4:7-152."	n		unavailable
+Pine Siskin	Fringillidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Dales, M. and W. W. Bennett. 1929. Nesting of the Pine Siskin in Iowa with remarks on regurgitative feeding. Wilson Bull. 41:74-77."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Davis, E. R. 1926. Friendly siskins. Bird-Lore 28:381-388."	n		unavailable
+Pine Siskin	Fringillidae	1997	Food Selection And Storage		"Newton, I. 1973. Finches. Taplinger Publ. Co. New York."	n		unavailable
+Pine Siskin	Fringillidae	1997	Diet	Major Food Items	"Roland, J., S. J. Hannon, and M. A. Smith. 1986. Foraging pattern of Pine Siskins and its influence on winter moth survival in an apple orchard. Oecologia (Berlin) 69:47-52."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Bagg, A. C. and S. A. Eliot, Jr. 1937. Birds of the Connecticut Valley in Massachusetts. The Hampshire Bookshop, Northampton, MA."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Miller, A. H. 1955. The avifauna of the Sierra del Carmen of Coahuila, Mexico. Condor 57:154-178."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Mccabe, T. T. and E. B. McCabe. 1929. Economic status of Pine Siskin. Condor 31:126-127."	n		unavailable
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Prescott, D. R. C. 1985. Feeding at night by wintering Pine Siskins. J. Field Ornithol. 56:419."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Kemsies, E. 1948. Northern Pine Siskin in Hamilton County, Ohio. Auk 65:146."	n		unavailable
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Shaub, B. M. 1951. A study of the behavior and population of Pine Siskins at Northampton, Mass., February-May, 1947. Bird-Banding 22:71-79."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Microhabitat For Foraging	"Todd, W. E. C. 1940. Birds of western Pennsylvania. Univ. of Pittsburgh Press, Pittsburgh, PA."	n		Library Service Center
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Granlund, J. 1994. Pine Siskin Carduelis pinus. Pages 335-337 in The birds of Michigan. (McPeek, G. A. and R. J. Adams, Eds.) Indiana Univ. Press, Bloomington, IN."	n		unavailable
+Pine Siskin	Fringillidae	1997	Food Selection And Storage		"Middleton, A. L. A. 1993. American Goldfinch (Carduelis tristis). in The birds of North America, No. 80. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."	n		unavailable
+Pine Siskin	Fringillidae	1997	Nutrition And Energetics		"Dawson, W. R. and R. L. Marsh. 1986. Winter fattening in the American Goldfinch and the possible role of temperature in its regulation. Physiol. Zool. 59:357-368."	y	n	
+Pine Siskin	Fringillidae	1997	Nutrition And Energetics		"Bennetts, R. E. and R. L. Hutto. 1985. Attraction of social fringillids to mineral salts: an experimental study. J. Field Ornithol. 56:187-189."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Balph, D. F. and M. H. Balph. 1979. Behavioral flexibility of Pine Siskins in mixed species foraging groups. Condor 81:211-212."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Forbush, E. H. 1929. Birds of Massachusetts and other New England states, Part 3. Land birds from sparrows to thrushes. Mass. Dept. Agric., Boston, MA."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Department of Game and Fish, Santa Fe, NM."	y	n	
+Pine Siskin	Fringillidae	1997	Metabolism And Temperature Regulation		"Hejl, S. J., J. Verner, and R. P. Balda. 1988. Weather and bird populations in true fir forests of the Sierra Nevada, California. Condor 90:561-574."	y	n	
+Pine Siskin	Fringillidae	1997	Nutrition And Energetics		"Mccabe, T. T. and E. B. McCabe. 1928. The plumage of the Pine Siskin. Condor 30:221-227."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Rodgers, T. L. 1937. Behavior of the Pine Siskin. Condor 39:143-149."	y	n	
+Pine Siskin	Fringillidae	1997	Feeding	Food Capture And Consumption	"Siebenheller, B. and N. Siebenheller. 1987. Possible effects of artificial feeding on nest-site selection by Pine Siskins. Chat 51:57-58."	n		unavailable
+Pine Siskin	Fringillidae	1997	Feeding		"Astheimer, L. B., W. A. Buttemer, and J. C. Wingfield. 1992. Interactions of corticosterone with feeding, activity and metabolism in passerine birds. Ornis Scand. 23:355-365."	y	n	
+Pine Siskin	Fringillidae	1997	Nutrition And Energetics		"Messineo, D. J. 1985. The 1985 nesting of Pine Siskin, Red Crossbill and White-winged Crossbill in Chenango County, N.Y. Kingbird 35:233-237."	n		unavailable
+Pine Siskin	Fringillidae	1997	Metabolism And Temperature Regulation		"Dawson, W. R. and C. Carey. 1976. Seasonal acclimatization to temperature in cardueline finches. I. Insulative and metabolic adjustments. J. Comp. Physiol. 112:317-333."	y	n	
+Purple Finch	Fringillidae	1996	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."	y	n	
+Purple Finch	Fringillidae	1996	Nutrition And Energetics		"Fraser, D. 1985. Mammals, birds, and butterflies at sodium sources in northern Ontario forests. Can. Field-Nat. 99:365-367."	n		unavailable
+Purple Finch	Fringillidae	1996	Diet	Major Food Items	"Smith, A. P. 1915. Birds of the Boston Mountains, Arkansas. Condor 17:41-57."	y	n	
+Purple Finch	Fringillidae	1996	Feeding	Food Capture And Consumption	"Moffitt, J. 1932. The Townsend Solitaire in San Francisco. Condor 34:190-191."	y	n	
+Purple Finch	Fringillidae	1996	Feeding	Food Capture And Consumption	"Bond, R. M. 1947. Bitter cherry and serviceberry as food for birds. Condor 49:37."	n		unavailable
+Purple Finch	Fringillidae	1996	Feeding	Food Capture And Consumption	"Gorbeil, R. E. 1963. The comparative feeding behavior of wintering Evening Grosbeaks and Purple Finches. Bird-Banding 34:217-218."	y	n	
+Purple Finch	Fringillidae	1996	Nutrition And Energetics		"Bartleson, Jr., F. D. and O. F. Jensen. 1955. A study of Purple Finch winter weights. Wilson Bull. 67:55-59."	y	n	
+Purple Finch	Fringillidae	1996	Diet	Major Food Items	"Gentry, T. G. 1876. Life-histories of birds of eastern Pennsylvania. T. G. Gentry, Philadelphia, PA."	y	n	
+Purple Finch	Fringillidae	1996	Nutrition And Energetics		"Blake, C. H. 1956. Weight changes in birds. Bird-Banding 27:16-22."	y	n	
 Purple Finch	Fringillidae	1996	Diet	Major Food Items	"Groskin, H. 1938. Eastern Purple Finches as bud-eaters. Bird-Banding 9:199."			
 Purple Finch	Fringillidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."			
 Purple Finch	Fringillidae	1996	Feeding	Food Capture And Consumption	"Willson, M. F. 1972. Seed size preference in finches. Wilson Bull. 84:449-455."			
