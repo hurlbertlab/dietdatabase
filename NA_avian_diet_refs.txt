@@ -7201,7 +7201,7 @@ House Sparrow	Passeridae	1-Feb-06	Nutrition And Energetics		"Kendeigh, S. C. and
 House Sparrow	Passeridae	1-Feb-06	Metabolism And Temperature Regulation		"Kendeigh, S. C. 1969. Energy responses of birds to their thermal environments. Wilson Bull. 81:441-449."	y	n	
 House Sparrow	Passeridae	1-Feb-06	Diet		"Seel, D. C. 1969. Food, feeding rates and body temperature in the nestling House Sparrow Passer domesticus at Oxford. Ibis 111:36-47."	y	n	
 House Sparrow	Passeridae	1-Feb-06	Metabolism And Temperature Regulation		"Kendeigh, S. C. 1944. Effects of air temperature on the rate of energy metabolism in the English Sparrow. J. Exp. Zool. 96:1-16."	y	n	
-House Sparrow	Passeridae	1-Feb-06	Diet		"Gavett, A. P. and J. S. Wakeley. 1986. Diets of House Sparrows in urban and rural habitats. Wilson Bull. 98:137-144."	y	y	data not yet entered
+House Sparrow	Passeridae	1-Feb-06	Diet		"Gavett, A. P. and J. S. Wakeley. 1986. Diets of House Sparrows in urban and rural habitats. Wilson Bull. 98:137-144."	y	y	
 House Sparrow	Passeridae	1-Feb-06	Feeding	Food Capture And Consumption	"Stidolph, R. H. D. 1974. The adaptable House Sparrow. Notornis 21:88."	n		
 House Sparrow	Passeridae	1-Feb-06	Nutrition And Energetics		"Kendeigh, S. C. 1976. Latitudinal trends in the metabolic adjustments of the House Sparrow. Ecology 57:509-519."	y	n	
 House Sparrow	Passeridae	1-Feb-06	Diet		"Ivanov, B. 1990. Diet of House Sparrow [Passer domesticus (L.)] nestlings at a livestock farm ner Sofia, Bulgaria. Pages 179-198 in Granivorous birds in the agricultural landscape. (Pinowski, J. and J. D. Summers-Smith, Eds.) PWN-Polish Scientific Publishers, Warszawa."	n		
