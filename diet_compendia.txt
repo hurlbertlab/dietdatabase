@@ -59,9 +59,9 @@ Beal 1910	Lesser goldfinch		            y y
 Beal 1910	White-crowned sparrow		        y y
 Beal 1910	Golden-crowned sparrow		      y y
 Beal 1910	Chipping sparrow		            y y
-Beal 1910	Song sparrow		
-Beal 1910	Spotted towhee		
-Beal 1910	California towhee		
+Beal 1910	Song sparrow		                y y
+Beal 1910	Spotted towhee		              y y
+Beal 1910	California towhee		            y y
 Beal 1910	Black-headed grosbeak	          y	y
 Beal 1911	Hairy woodpecker	              y	y
 Beal 1911	Downy woodpecker              	y	y
