@@ -71,9 +71,9 @@ Beal 1911	Three-toed woodpecker         	y	y
 Beal 1911	Yellow-bellied sapsucker	      y	y
 Beal 1911	Red-breasted sapsucker        	y	y
 Beal 1911	Williamson's sapsucker	        y	y
-Beal 1911	Pileated woodpecker		
-Beal 1911	Red-headed woodpecker		
-Beal 1911	Acorn woodpecker		
+Beal 1911	Pileated woodpecker		          y y
+Beal 1911	Red-headed woodpecker		        y y
+Beal 1911	Acorn woodpecker		            y y
 Beal 1911	Lewis' woodpecker             	y	y
 Beal 1911	Red-bellied woodpecker        	y	y
 Beal 1911	Northern flicker              	y	y
