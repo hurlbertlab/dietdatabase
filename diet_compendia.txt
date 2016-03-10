@@ -98,7 +98,7 @@ Beal 1912	Least flycatcher              	y	y
 Beal 1915	American robin	                y	y
 Beal 1915	Varied thrush		                y y
 Beal 1915	Eastern bluebird	              y	y
-Beal 1915	Western bluebird		
+Beal 1915	Western bluebird		            y y
 Beal 1915	Mountain bluebird		
 Beal 1918	Purple martin		
 Beal 1918	Cliff swallow		
