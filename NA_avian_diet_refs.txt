@@ -3875,9 +3875,9 @@ Brewer's Sparrow	Emberizidae	1999	Feeding	Microhabitat For Foraging	"Rotenberry,
 Brewer's Sparrow	Emberizidae	1999	Diet	Major Food Items	"Kalmbach, E. R. 1914. Birds in relation to the alfalfa weevil. U.S. Dep. Agric. Bull. 107:1-64."	n		unavailable
 Brewer's Sparrow	Emberizidae	1999	Diet	Major Food Items	"Stephens, D. A. 1985. Foraging ecology of shrubsteppe birds in central Washington. Master's Thesis. Cent. Washington Univ., Ellensburg, WA."	n		unavailable
 Brewer's Sparrow	Emberizidae	1999	Diet	Major Food Items	"Best, L. B. 1972. First year effects of sagebrush control on two sparrows. J. Wildl. Manage. 36:534-544."	y	n	
-Brewer's Sparrow	Emberizidae	1999	Diet	Major Food Items	"Rotenberry, J. T. 1980. Dietary relationships among shrubsteppe passerine birds: competition or opportunism in a variable environment? Ecol. Monogr. 50:93-110."			
-Brewer's Sparrow	Emberizidae	1999	Feeding	Food Capture And Consumption	"Greenlaw, J. S. 1977. Taxonomic distribution, origin, and evolution of bilateral scratching in ground-feeding birds. Condor 79:426-439."			
-Brewer's Sparrow	Emberizidae	1999	Diet	Major Food Items	"Wiens, J. A. and J. T. Rotenberry. 1979. Diet niche relationships among North American grassland and shrubsteppe birds. Oecologia 42:253-292."			
+Brewer's Sparrow	Emberizidae	1999	Diet	Major Food Items	"Rotenberry, J. T. 1980. Dietary relationships among shrubsteppe passerine birds: competition or opportunism in a variable environment? Ecol. Monogr. 50:93-110."	y	n	
+Brewer's Sparrow	Emberizidae	1999	Feeding	Food Capture And Consumption	"Greenlaw, J. S. 1977. Taxonomic distribution, origin, and evolution of bilateral scratching in ground-feeding birds. Condor 79:426-439."	y	n	
+Brewer's Sparrow	Emberizidae	1999	Diet	Major Food Items	"Wiens, J. A. and J. T. Rotenberry. 1979. Diet niche relationships among North American grassland and shrubsteppe birds. Oecologia 42:253-292."	y	y	will be entered
 California Towhee	Emberizidae	16-May-11	Feeding	Main Foods Taken	"Sumner, L. and J. S. Dixon. 1953. Birds and mammals of the Sierra Nevada. Univ. of California Press, Berkeley."			
 California Towhee	Emberizidae	16-May-11	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, pt. 2. U.S. Dep. Agric. Biol. Surv., Bull. 34."	y	y	data has not yet been entered
 California Towhee	Emberizidae	16-May-11	Metabolism And Temperature Regulation		"Bartholomew, G. A. and W. R. Dawson. 1953. Respiratory water loss in some birds of southwestern United States. Physiol. Zool. 26:162-166."			
