@@ -6690,7 +6690,7 @@ Oak Titmouse	Paridae	2000	"Drinking, Pellet-Casting, And Defecation"		"Williams,
 Oak Titmouse	Paridae	2000	"Drinking, Pellet-Casting, And Defecation"		"Gubanich, A. A. and H. R. Panik. 1987. Avian use of waterholes in pinyon-juniper. U.S. For. Serv. Gen. Tech. Rep. INT- 215:534-540."	n		unavailable
 Oak Titmouse	Paridae	2000	Feeding	Microhabitat For Foraging	"Root, R. B. 1964. Ecological interactions of the Chestnut-backed Chickadee following a range expansion. Condor 66:229-238."	y	n	
 Oak Titmouse	Paridae	2000	Food Selection And Storage		"K????llander, H. and H. G. Smith. 1990. Food storing in birds: an evolutionary perspective. Curr. Ornithol. 7:147-207."	n		unavailable
-Oak Titmouse	Paridae	2011	Feeding	Major Food Items	"Kanuch, P., A. Kristin, and M. Vel'ky.  2011.  Food composition of wintering geat tits (Parus major): habitat and seasonal aspects.  Folia Zoologica, 60(3), 228-236."			data may be too sparse to interpret
+Oak Titmouse	Paridae	2011	Feeding	Major Food Items	"Kanuch, P., A. Kristin, and M. Vel'ky.  2011.  Food composition of wintering geat tits (Parus major): habitat and seasonal aspects.  Folia Zoologica, 60(3), 228-236."	y	n	data may be too sparse to interpret
 Plain Titmouse	Paridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. 30."	y	y	data has not yet been entered
 Tufted Titmouse	Paridae	1994	Feeding		"Waite, T. A. and T. C. Jr Grubb. 1987. Dominance Foraging and Predation Risk in the Tufted Titmouse. Condor 89(4):936-940."	y	n	
 Tufted Titmouse	Paridae	1994	Feeding		"Bent, A. C. 1946. Life histories of North American jays, crows and titmice. U.S. Natl. Mus. Bull. 191."	n		unavailable
