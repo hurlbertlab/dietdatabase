@@ -4150,60 +4150,60 @@ Song Sparrow	Emberizidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinkin
 Song Sparrow	Emberizidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Bartholomew, G. A. and T. J. Cade. 1963. The water economy of land birds. Auk 80:504-539."	y	n	
 Song Sparrow	Emberizidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Basham, M. P. and R. L. Mewaldt. 1987. Salt water tolerance and the distribution of south San Francisco Bay Song Sparrows. Condor 89:697-709."	y	n	
 Song Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Johnston, R. F. 1968. Song Sparrow: San Francisco Bay marsh subspecies. Pages 1547-1553 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, Pt. 3. (Austin, Jr., O. L., Ed.) U.S. Natl. Mus. Bull. 237."	n		unavailable
-Song Sparrow	Emberizidae	2002	Diet		"Southern, W. E. 1966. Utilization of shad as winter food by birds. Auk 83:309-311."			
-Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Jewett, S. G. 1912. Some birds of the Sawtooth Mountains, Idaho. Condor 14:191-194."			
-Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Arcese, P. 1989b. Intrasexual competition, mating system and natal dispersal in Song Sparrows. Anim. Behav. 38:958-979."			
-Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Eaton, E. H. 1914. Birds of New York, pt. 2. New York State Mus. New York."			
-Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Salt, G. W. 1957. Observations of Fox, Lincoln, and Song Sparrows at Jackson Hole, Wyoming. Auk 74:258-259."			
-Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Rosenberg, K. V., R. D. Ohmart, and B. W. Anderson. 1982. Community organization of riparian breeding birds: response to an annual resource peak. Auk 99:260-274."			
-Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Smith, J. N. M. 1978a. Flycatching by male Song Sparrows, Melospiza melodia. Can. Field-Nat. 92:195-196."			
-Song Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Nice, M. M. 1943. The behaviour of the Song Sparrow and other passerines, Pt. II. Trans. Linn. Soc. N.Y. 6:1-329."			
-Song Sparrow	Emberizidae	2002	Nutrition And Energetics		"Stevenson, J. 1933. Experiments in the digestion of food by birds. Wilson Bull. 45:155-167."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Becker, G. B. and J. W. Stack. 1944. Weights and temperatures of some Michigan birds. Bird-Banding 15:45-68."			
-Song Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1948a. Ecologic races of Song Sparrow in the San Francisco Bay region: II. geographic variation. Condor 50:233-256."			
-Song Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1948b. Ecologic races of Song Sparrow in the San Francisco Bay region: I. habitat and abundance. Condor 50:193-215."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Williams, J. B. 1985. Validation of the doubly labeled water technique for measuring energy metabolism in starlings and sparrows. Comp. Biochem. Physiol. 80A:349-353."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Hartman, F. A. 1946. Adrenal and thyroid weights in birds. Auk 63:42-64."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Baldwin, S. P. and S. C. Kendeigh. 1938. Variations in the weight of birds. Auk 55:416-467."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Odum, E. P. 1941. Variations in the heart rate of birds. Ecol. Monogr. 11:299-326."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Kloek, G. P. and C. L. Casler. 1972. The lung and air-sac system of the Common Grackle. Auk 89:817-825."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Odum, E. P. 1945. The heart rate of small birds. Science 101:153-154."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Hartman, F. A. 1955. Heart weight in birds. Condor 57:221-238."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Norris, R. A. and F. S. L. Williamson. 1955. Variation in relative heart size of certain passerines increase with altitude. Wilson Bull. 67:78-83."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Bartsch, P., W. H. Ball, W. Rosenzweig, and S. Salman. 1937. Size of red blood corpuscles and their nucleus in fifty North American birds. Auk 54:516-519."			
-Song Sparrow	Emberizidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Grinnell, J. and F. S. Daggett. 1903. An ornithological visit to Los Coronados Islands, Lower California. Auk 20:27-37."			
-Song Sparrow	Emberizidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Miller, A. H. 1951. A comparison of the avifaunas of Santa Cruz and Santa Rosa Islands. Condor 53:117-123."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Helms, C. W. 1963. Tentative field estimates of metabolism in buntings. Auk 80:318-334."			
-Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Lasiewski, R. C. and W. R. Dawson. 1967. A re-examination of the relation between standard metabolic rate and body weight in birds. Condor 69:13-23."			
-Song Sparrow	Emberizidae	2002	Diet		"Bryant, H. C. 1921. California Woodpecker steals eggs of Wood Pewee. Condor 23:33."			
-Song Sparrow	Emberizidae	2002	Diet		"Tompa, F. S. 1971. Catastrophic mortality and its population consequences. Auk 88:753-759."			
-Song Sparrow	Emberizidae	2002	Diet		"Smith, J. N. M., R. D. Montgomerie, M. J. Taitt, and Y. Yom-Tov. 1980. A winter feeding experiment on an island Song Sparrow population. Oecologia 47:164-170."			
-Song Sparrow	Emberizidae	2002	Diet		"Mcatee, W. L. 1911. Economic ornithology in recent entomological publications. Auk 28:138-143."			
-Song Sparrow	Emberizidae	2002	Food Selection And Storage		"Madej, C. W. and K. Clay. 1991. Avian seed preference and weight loss experiments: the effect of fungal endophyte-infected tall fescue seeds. Oecologia 88:296-302."			
-Song Sparrow	Emberizidae	2002	Food Selection And Storage		"Greenberg, R. 1989. Neophobia, aversion to open space, and ecological plasticity in Song and Swamp sparrows. Can. J. Zool. 67:1194-1199."			
-Song Sparrow	Emberizidae	2002	Food Selection And Storage		"Willson, M. F. and J. C. Harmeson. 1973. Seed preferences and digestive efficiency of cardinals and Song Sparrows. Condor 75:225-234."			
-Spotted Towhee	Emberizidae	1996	Feeding	Food Capture And Consumption	"Greenlaw, J. S. 1977. Taxonomic distribution, origin, and evolution of bilateral scratching in ground-feeding birds. Condor 79:426-439."			
+Song Sparrow	Emberizidae	2002	Diet		"Southern, W. E. 1966. Utilization of shad as winter food by birds. Auk 83:309-311."	y	n	
+Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Jewett, S. G. 1912. Some birds of the Sawtooth Mountains, Idaho. Condor 14:191-194."	y	n	
+Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Arcese, P. 1989b. Intrasexual competition, mating system and natal dispersal in Song Sparrows. Anim. Behav. 38:958-979."	y	n	
+Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Eaton, E. H. 1914. Birds of New York, pt. 2. New York State Mus. New York."	y	n	
+Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Salt, G. W. 1957. Observations of Fox, Lincoln, and Song Sparrows at Jackson Hole, Wyoming. Auk 74:258-259."	y	n	
+Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Rosenberg, K. V., R. D. Ohmart, and B. W. Anderson. 1982. Community organization of riparian breeding birds: response to an annual resource peak. Auk 99:260-274."	y	n	
+Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Smith, J. N. M. 1978a. Flycatching by male Song Sparrows, Melospiza melodia. Can. Field-Nat. 92:195-196."	n		unavailable
+Song Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Nice, M. M. 1943. The behaviour of the Song Sparrow and other passerines, Pt. II. Trans. Linn. Soc. N.Y. 6:1-329."	n		unavailable
+Song Sparrow	Emberizidae	2002	Nutrition And Energetics		"Stevenson, J. 1933. Experiments in the digestion of food by birds. Wilson Bull. 45:155-167."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Becker, G. B. and J. W. Stack. 1944. Weights and temperatures of some Michigan birds. Bird-Banding 15:45-68."	y	n	
+Song Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1948a. Ecologic races of Song Sparrow in the San Francisco Bay region: II. geographic variation. Condor 50:233-256."	y	n	
+Song Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1948b. Ecologic races of Song Sparrow in the San Francisco Bay region: I. habitat and abundance. Condor 50:193-215."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Williams, J. B. 1985. Validation of the doubly labeled water technique for measuring energy metabolism in starlings and sparrows. Comp. Biochem. Physiol. 80A:349-353."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Hartman, F. A. 1946. Adrenal and thyroid weights in birds. Auk 63:42-64."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Baldwin, S. P. and S. C. Kendeigh. 1938. Variations in the weight of birds. Auk 55:416-467."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Odum, E. P. 1941. Variations in the heart rate of birds. Ecol. Monogr. 11:299-326."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Kloek, G. P. and C. L. Casler. 1972. The lung and air-sac system of the Common Grackle. Auk 89:817-825."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Odum, E. P. 1945. The heart rate of small birds. Science 101:153-154."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Hartman, F. A. 1955. Heart weight in birds. Condor 57:221-238."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Norris, R. A. and F. S. L. Williamson. 1955. Variation in relative heart size of certain passerines increase with altitude. Wilson Bull. 67:78-83."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Bartsch, P., W. H. Ball, W. Rosenzweig, and S. Salman. 1937. Size of red blood corpuscles and their nucleus in fifty North American birds. Auk 54:516-519."	y	n	
+Song Sparrow	Emberizidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Grinnell, J. and F. S. Daggett. 1903. An ornithological visit to Los Coronados Islands, Lower California. Auk 20:27-37."	y	n	
+Song Sparrow	Emberizidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Miller, A. H. 1951. A comparison of the avifaunas of Santa Cruz and Santa Rosa Islands. Condor 53:117-123."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Helms, C. W. 1963. Tentative field estimates of metabolism in buntings. Auk 80:318-334."	y	n	
+Song Sparrow	Emberizidae	2002	Metabolism And Temperature Regulation		"Lasiewski, R. C. and W. R. Dawson. 1967. A re-examination of the relation between standard metabolic rate and body weight in birds. Condor 69:13-23."	y	n	
+Song Sparrow	Emberizidae	2002	Diet		"Bryant, H. C. 1921. California Woodpecker steals eggs of Wood Pewee. Condor 23:33."	n		unavailable
+Song Sparrow	Emberizidae	2002	Diet		"Tompa, F. S. 1971. Catastrophic mortality and its population consequences. Auk 88:753-759."	y	n	
+Song Sparrow	Emberizidae	2002	Diet		"Smith, J. N. M., R. D. Montgomerie, M. J. Taitt, and Y. Yom-Tov. 1980. A winter feeding experiment on an island Song Sparrow population. Oecologia 47:164-170."	y	n	
+Song Sparrow	Emberizidae	2002	Diet		"Mcatee, W. L. 1911. Economic ornithology in recent entomological publications. Auk 28:138-143."	y	n	
+Song Sparrow	Emberizidae	2002	Food Selection And Storage		"Madej, C. W. and K. Clay. 1991. Avian seed preference and weight loss experiments: the effect of fungal endophyte-infected tall fescue seeds. Oecologia 88:296-302."	y	n	
+Song Sparrow	Emberizidae	2002	Food Selection And Storage		"Greenberg, R. 1989. Neophobia, aversion to open space, and ecological plasticity in Song and Swamp sparrows. Can. J. Zool. 67:1194-1199."	y	n	
+Song Sparrow	Emberizidae	2002	Food Selection And Storage		"Willson, M. F. and J. C. Harmeson. 1973. Seed preferences and digestive efficiency of cardinals and Song Sparrows. Condor 75:225-234."	y	n	
+Spotted Towhee	Emberizidae	1996	Feeding	Food Capture And Consumption	"Greenlaw, J. S. 1977. Taxonomic distribution, origin, and evolution of bilateral scratching in ground-feeding birds. Condor 79:426-439."	y	n	
 Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
-Spotted Towhee	Emberizidae	1996	Feeding		"Davis, J. 1957b. Comparative foraging behavior of the Spotted and Brown towhees. Auk 74:129-166."			
-Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Dahlsten, D. L., M. L. Morrison, D. L. Rowney, M. Wilson, and Y. Cohen. 1985. Bird diets and prey availability in the western Sierra Nevada, California. Calif. Fish and Game 71:172-178."			
-Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Austin, Jr., O. L. 1968. Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. U.S. Natl. Mus. Bull. 237."			
-Spotted Towhee	Emberizidae	1996	Metabolism And Temperature Regulation		"Bartholomew, G. A. and W. R. Dawson. 1953. Respiratory water loss in some birds of southwestern United States. Physiol. Zool. 26:162-166."			
-Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants:A guide to wildlife food habits. McGraw-Hill Book Co. Inc., New York."			
-Spotted Towhee	Emberizidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."			
-Swamp Sparrow	Emberizidae	1997	Feeding	Food Capture And Consumption	"Greenberg, R. 1992b. Differences in neophobia between naive Song and Swamp sparrows. Ethology 91:17-24."			
-Swamp Sparrow	Emberizidae	1997	Feeding	Microhabitat For Foraging	"Reinert, S. E. and F. C. Golet. 1979. Breeding ecology of the Swamp Sparrow in a Southern Rhode Island peatland. Trans Northeast Sect. Wildl. Soc. 1986:1-13."			
-Swamp Sparrow	Emberizidae	1997	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."			
-Swamp Sparrow	Emberizidae	1997	Feeding	Main Foods Taken	"Ellis, III, H. K. 1980. Ecology and breeding biology of the Swamp Sparrow in a southern Rhode Island peatland. Master's Thesis. Univ. of Rhode Island, Kingston."			
-Swamp Sparrow	Emberizidae	1997	Feeding	Main Foods Taken	"Greenberg, R. and S. Droege. 1990. Adaptations to the tidal marshes in breeding populations of the Swamp Sparrow. Condor 92:393-404."			
-Swamp Sparrow	Emberizidae	1997	Feeding	Microhabitat For Foraging	"Carrier, P. 1990. Aquatic foraging. Connecticut Warbler Vol. XI, no. 4."			
-Swamp Sparrow	Emberizidae	1997	Feeding	Main Foods Taken	"Wetherbee, D. K. 1968. Southern Swamp Sparrow. Pages 1475-1490 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and their allies. (Bent, A. C., Ed.) U.S. Natl. Mus. Bull. 237."			
-Swamp Sparrow	Emberizidae	1997	Feeding	Microhabitat For Foraging	"Willson, M. F. 1967. Notes on the interspecific behavioral relationships of marsh-nesting passerines. Auk 84:118-119."			
-Vesper Sparrow	Emberizidae	2002	Feeding	Major Foods Taken	"Berger, A. J. 1968. Vesper Sparrow. Pages 868-886 in Life histories of north American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and their allies. Pt. 2. (Austin, O. L., Ed.) U.S. Natl. Mus. Bull. 237."			
-Vesper Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Wiens, J. A. 1969. An approach to the study of ecological relationships among grassland birds. Ornithol. Monogr. no. 8."			
-Vesper Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Rodenhouse, N. L. and L. B. Best. 1994. Foraging patterns of Vesper Sparrow (Pooecetes gramineus) breeding in cropland. Am. Midl. Nat. 131:196-206."			
-Vesper Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Best, L. B. and N. L. Rodenhouse. 1984. Territory preference of Vesper Sparrows in cropland. Wilson Bull. 96:72-82."			
-Vesper Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Taylor, W. K. 1970. The double-scratch in the genus Pooecetes. Wilson Bull. 82:465."			
-Vesper Sparrow	Emberizidae	2002	Diet		"Evans, F. C. 1964. The food of Vesper, Field, and Chipping sparrows nesting in an abandoned field in southeastern Michigan. Am. Midl. Nat. 72:57-75."			
+Spotted Towhee	Emberizidae	1996	Feeding		"Davis, J. 1957b. Comparative foraging behavior of the Spotted and Brown towhees. Auk 74:129-166."	y	n	
+Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Dahlsten, D. L., M. L. Morrison, D. L. Rowney, M. Wilson, and Y. Cohen. 1985. Bird diets and prey availability in the western Sierra Nevada, California. Calif. Fish and Game 71:172-178."	y	n	
+Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Austin, Jr., O. L. 1968. Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. U.S. Natl. Mus. Bull. 237."	y	n	
+Spotted Towhee	Emberizidae	1996	Metabolism And Temperature Regulation		"Bartholomew, G. A. and W. R. Dawson. 1953. Respiratory water loss in some birds of southwestern United States. Physiol. Zool. 26:162-166."	y	n	
+Spotted Towhee	Emberizidae	1996	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants:A guide to wildlife food habits. McGraw-Hill Book Co. Inc., New York."	n		unavailable
+Spotted Towhee	Emberizidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."	y	n	
+Swamp Sparrow	Emberizidae	1997	Feeding	Food Capture And Consumption	"Greenberg, R. 1992b. Differences in neophobia between naive Song and Swamp sparrows. Ethology 91:17-24."	y	n	
+Swamp Sparrow	Emberizidae	1997	Feeding	Microhabitat For Foraging	"Reinert, S. E. and F. C. Golet. 1979. Breeding ecology of the Swamp Sparrow in a Southern Rhode Island peatland. Trans Northeast Sect. Wildl. Soc. 1986:1-13."	n		unavailable
+Swamp Sparrow	Emberizidae	1997	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."	y	n	
+Swamp Sparrow	Emberizidae	1997	Feeding	Main Foods Taken	"Ellis, III, H. K. 1980. Ecology and breeding biology of the Swamp Sparrow in a southern Rhode Island peatland. Master's Thesis. Univ. of Rhode Island, Kingston."	y	n	
+Swamp Sparrow	Emberizidae	1997	Feeding	Main Foods Taken	"Greenberg, R. and S. Droege. 1990. Adaptations to the tidal marshes in breeding populations of the Swamp Sparrow. Condor 92:393-404."	y	n	
+Swamp Sparrow	Emberizidae	1997	Feeding	Microhabitat For Foraging	"Carrier, P. 1990. Aquatic foraging. Connecticut Warbler Vol. XI, no. 4."	n		unavailable
+Swamp Sparrow	Emberizidae	1997	Feeding	Main Foods Taken	"Wetherbee, D. K. 1968. Southern Swamp Sparrow. Pages 1475-1490 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and their allies. (Bent, A. C., Ed.) U.S. Natl. Mus. Bull. 237."	n		unavailable
+Swamp Sparrow	Emberizidae	1997	Feeding	Microhabitat For Foraging	"Willson, M. F. 1967. Notes on the interspecific behavioral relationships of marsh-nesting passerines. Auk 84:118-119."	y	n	
+Vesper Sparrow	Emberizidae	2002	Feeding	Major Foods Taken	"Berger, A. J. 1968. Vesper Sparrow. Pages 868-886 in Life histories of north American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and their allies. Pt. 2. (Austin, O. L., Ed.) U.S. Natl. Mus. Bull. 237."	n		unavailable
+Vesper Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Wiens, J. A. 1969. An approach to the study of ecological relationships among grassland birds. Ornithol. Monogr. no. 8."	y	n	
+Vesper Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Rodenhouse, N. L. and L. B. Best. 1994. Foraging patterns of Vesper Sparrow (Pooecetes gramineus) breeding in cropland. Am. Midl. Nat. 131:196-206."	y	n	
+Vesper Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Best, L. B. and N. L. Rodenhouse. 1984. Territory preference of Vesper Sparrows in cropland. Wilson Bull. 96:72-82."	y	n	
+Vesper Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Taylor, W. K. 1970. The double-scratch in the genus Pooecetes. Wilson Bull. 82:465."	y	n	
+Vesper Sparrow	Emberizidae	2002	Diet		"Evans, F. C. 1964. The food of Vesper, Field, and Chipping sparrows nesting in an abandoned field in southeastern Michigan. Am. Midl. Nat. 72:57-75."	y	y	entered
 Vesper Sparrow	Emberizidae	2002	Diet		"Knowlton, G. F. and W. P. Nye. 1948. Insect food of the Vesper Sparrow. J. Econ. Ecol. 41:821."			
 Vesper Sparrow	Emberizidae	2002	Diet		"Rotenberry, J. T. 1980. Dietary relationships among shrubsteppe passerine birds: competition or opportunism in a variable environment. Ecol. Monogr. 50:93-110."			
 Vesper Sparrow	Emberizidae	2002	Diet		"Roberts, T. S. 1932. The birds of Minnesota. Vol. 2. Univ. of Min-nesota Press, Minneapolis."			
