@@ -4204,10 +4204,10 @@ Vesper Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Rodenhouse, N
 Vesper Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Best, L. B. and N. L. Rodenhouse. 1984. Territory preference of Vesper Sparrows in cropland. Wilson Bull. 96:72-82."	y	n	
 Vesper Sparrow	Emberizidae	2002	Feeding	Food Capture And Consumption	"Taylor, W. K. 1970. The double-scratch in the genus Pooecetes. Wilson Bull. 82:465."	y	n	
 Vesper Sparrow	Emberizidae	2002	Diet		"Evans, F. C. 1964. The food of Vesper, Field, and Chipping sparrows nesting in an abandoned field in southeastern Michigan. Am. Midl. Nat. 72:57-75."	y	y	entered
-Vesper Sparrow	Emberizidae	2002	Diet		"Knowlton, G. F. and W. P. Nye. 1948. Insect food of the Vesper Sparrow. J. Econ. Ecol. 41:821."			
-Vesper Sparrow	Emberizidae	2002	Diet		"Rotenberry, J. T. 1980. Dietary relationships among shrubsteppe passerine birds: competition or opportunism in a variable environment. Ecol. Monogr. 50:93-110."			
-Vesper Sparrow	Emberizidae	2002	Diet		"Roberts, T. S. 1932. The birds of Minnesota. Vol. 2. Univ. of Min-nesota Press, Minneapolis."			
-Vesper Sparrow	Emberizidae	2002	Diet		"Feist, F. G. 1968. Breeding bird populations in relation to proposed sagebrush control in central Montana. Master's Thesis. Montana State Univ. Bozeman."			
+Vesper Sparrow	Emberizidae	2002	Diet		"Knowlton, G. F. and W. P. Nye. 1948. Insect food of the Vesper Sparrow. J. Econ. Ecol. 41:821."	y	n	
+Vesper Sparrow	Emberizidae	2002	Diet		"Rotenberry, J. T. 1980. Dietary relationships among shrubsteppe passerine birds: competition or opportunism in a variable environment. Ecol. Monogr. 50:93-110."	y	n	
+Vesper Sparrow	Emberizidae	2002	Diet		"Roberts, T. S. 1932. The birds of Minnesota. Vol. 2. Univ. of Min-nesota Press, Minneapolis."	n		unavailable
+Vesper Sparrow	Emberizidae	2002	Diet		"Feist, F. G. 1968. Breeding bird populations in relation to proposed sagebrush control in central Montana. Master's Thesis. Montana State Univ. Bozeman."	y	y	entered
 Vesper Sparrow	Emberizidae	2002	Diet		"Best, L. B. 1972. First-year effects of sagebrush control on two sparrows. J. Wildl. Manage. 36:534-544."			
 Vesper Sparrow	Emberizidae	2002	Diet		"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River valley. Univ. of Arizona Press, Tucson."			
 Vesper Sparrow	Emberizidae	2002	Diet		"Best, L. B. and J. P. Gionfriddo. 1991. Characterization of grit use by cornfield birds. Wilson Bull. 103:68-82."			
