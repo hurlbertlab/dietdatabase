@@ -5073,48 +5073,48 @@ Leach's Storm-Petrel	Hydrobatidae	1996	Diet	Major Food Items	"Harrison, N. M. 19
 Leach's Storm-Petrel	Hydrobatidae	1996	Nutrition And Energetics	Nutrition	"Jackson, S., A. R. Place, and L. J. Seiderer. 1992. Chitin digestion and assimilation in seabirds. Auk 109:758-770."			
 Leach's Storm-Petrel	Hydrobatidae	1996	Diet	Major Food Items	"Wiens, J. A. and J. M. Scott. 1975. Model estimation of energy flow in Oregon coastal seabird populations. Condor 77:439-452."			
 Leach's Storm-Petrel	Hydrobatidae	1996	Diet	Major Food Items	"Montevecchi, W. A., B. L. Birt-Friesen, and D. K. Cairns. 1992. Reproductive energetics and prey harvest of Leach's Storm-Petrels in the northwest Atlantic. Ecology 73:823-832."			
-Altamira Oriole	Icteridae	1-Mar-05	Diet	Major Food Items	"Pleasants, B. Y. 1981. Aspects of the breeding biology of a subtropical oriole, Icterus gularis. Wilson Bull. 93:531-537."			
-Altamira Oriole	Icteridae	1-Mar-05	Diet	Major Food Items	"Oberholser, H. C. 1974. The bird life of Texas. Univ. Texas Press, Austin."			
-Altamira Oriole	Icteridae	1-Mar-05	Diet	Major Food Items	"Dickey, D. R. and A. J. van Rossem. 1938. The birds of El Salvador. Publ. Field Mus. Nat. Hist. Zool. Ser. 23."			
-Audubon's Oriole	Icteridae	2002	Feeding	Main Foods Taken	"Harrell, B. E. 1951. The birds of Rancho del Cielo, an ecological investigation in the oak-sweet gum forests of Tamaulipas, Mexico. Master's Thesis. Univ. of Minnesota, Minneapolis."			
-Audubon's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Sutton, G. M. 1951. Mexican birds: first impressions. Univ. of Oklahoma Press, Norman."			
-Audubon's Oriole	Icteridae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and allies. U.S. Natl. Mus. Bull. 211."			
-Audubon's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Flood, N. J. 1990. Aspects of the breeding biology of Audubon's Oriole. J. Field Ornithol. 61:290-302."			
-Audubon's Oriole	Icteridae	2002	Diet		"Lane, J. A. 1983. A birder's guide to the Rio Grande valley of Texas. 4th ed. (Revised by H. R. Holt). L & P Press, Denver, CO."			
-Audubon's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Oberholser, H. C. 1974. Birdlife of Texas. Vol. 2. Univ. of Texas Press, Austin."			
-Audubon's Oriole	Icteridae	2002	Diet		"Fisk, L. H. and D. A. Steen. 1976. Additional exploiters of nectar. Condor 78:269-271."			
-Baltimore Oriole	Icteridae	1998	Feeding	Main Foods Taken	"Timken, R. L. 1970. Food habits and feeding behavior of the Baltimore Oriole in Costa Rica. Wilson Bull. 82:184-188."			
-Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Slud, P. 1964. Birds of Costa Rica: distribution and ecology. Bull. Am. Mus. Nat. Hist. 128."			
-Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Edinger, B. B. 1985. Limited hybridization and behavioral differences among sympatric Baltimore and Bullock's orioles. Master's Thesis. Univ. of Minnesota, Minneapolis."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and allies. U.S. Natl. Mus. Bull. 211."			
-Baltimore Oriole	Icteridae	1998	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Leck, C. F. 1972. The impact of some North American migrants at fruiting trees in Panama. Auk 89:842-850."			
-Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Pohajdak, G. C. 1988. Feeding guilds, diets and foraging behavior of insectivorous passerines in a riparian habitat in Manitoba. Phd Thesis. Univ. of Manitoba, Winnipeg."			
-Baltimore Oriole	Icteridae	1998	Nutrition And Energetics		"Biermann, G. C. and S. G. Sealy. 1985. Seasonal dynamics of body mass of insectivorous passerines breeding on the forested dune ridge, Delta Marsh, Manitoba. Can. J. Zool. 63:1675-1682."			
-Baltimore Oriole	Icteridae	1998	Metabolism And Temperature Regulation		"Hartman, F. A. and M. A. Lessler. 1963. Erythrocyte measurements in birds. Auk 80:467-473."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Toledo, V. M. 1977. Pollination of some rain forest plants by non-hovering birds in Veracruz, Mexico. Biotropica 9:262-267."			
-Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Meyer De Schauensee, R. and W. H. Phelps, Jr. 1978. A guide to the birds of Venezuela. Princeton Univ. Press, Princeton, NJ."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Skutch, A. F. 1996. Orioles, blackbirds and their kin: A Natural History. Univ. of Arizona Press, Tucson."			
-Baltimore Oriole	Icteridae	1998	"Drinking, Pellet-Casting, And Defecation"		"Rising, J. D. 1969. A comparison of metabolism and evaporative water loss of Baltimore and Bullock's orioles. Comp. Biochem. Physiol. 31:915-925."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Tramer, E. J. and T. R. Kemp. 1982. Notes on migrants wintering at Monteverde, Costa Rica. Wilson Bull. 94:350-354."			
-Baltimore Oriole	Icteridae	1998	Nutrition And Energetics		"Cruden, R. W. and S. M. Hermann-Parker. 1977. Defense of feeding sites by orioles and Hepatic Tanagers in Mexico. Auk 94:594-596."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Wright, B. S. 1962. Baltimore Oriole kills hummingbird. Auk 79:112."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Sealy, S. G. 1980. Reproductive responses of northern orioles to a changing food supply. Can. J. Zool. 58:221-227."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Schemske, D. W. 1975. Territoriality in a nectar feeding Northern Oriole in Costa Rica. Auk 92:594-595."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Leck, C. F. 1974. Further observations of nectar feeding by orioles. Auk 91:162-163."			
-Baltimore Oriole	Icteridae	1998	Diet	Major Food Items	"Oberholser, H. C. 1974. Birdlife of Texas. Vol. 2. Univ. of Texas Press, Austin, TX."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Brown, R. G. B. 1974. Bird damage to fruit crops in the Niagara Peninsula. Can. Wildl. Serv. Rep. Ser. no. 27."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Trainer, J. M. and T. C. Will. 1984. Avian methods of feeding on Bursera simaruba (Burseraceae) fruits in Panama. Auk 101:193-195."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Forbush, E. H. 1927. Birds of Massachusetts and other New England states. Vol. 2. Mass. Dept. of Agric, Boston, MA."			
-Baltimore Oriole	Icteridae	1998	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover Publs. Inc., New York."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Beecher, W. J. 1950. Convergent evolution in the American orioles. Wilson Bull. 62:50-86."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Wetmore, A. 1944. A collection of birds from northern Guanacaste, Costa Rica. U.S. Natl. Mus. Proc. 95."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Wetmore, A., R. F. Pasquier, and S. L. Olson. 1984. The birds of the Republic of Panam????. Part 4: Passeriformes. Hirundinidae to Fringillidae. Smithson. Misc. Coll. no. 150."			
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Carriker, M. A. 1910. An annotated list of the birds of Costa Rica including Cocos Island. Anns. Carnegie Mus. 6:315-915."			
+Altamira Oriole	Icteridae	1-Mar-05	Diet	Major Food Items	"Pleasants, B. Y. 1981. Aspects of the breeding biology of a subtropical oriole, Icterus gularis. Wilson Bull. 93:531-537."	y	n	"Records food items brought to nestlings, which could be useful"
+Altamira Oriole	Icteridae	1-Mar-05	Diet	Major Food Items	"Oberholser, H. C. 1974. The bird life of Texas. Univ. Texas Press, Austin."	n		unavailable
+Altamira Oriole	Icteridae	1-Mar-05	Diet	Major Food Items	"Dickey, D. R. and A. J. van Rossem. 1938. The birds of El Salvador. Publ. Field Mus. Nat. Hist. Zool. Ser. 23."	y	n	
+Audubon's Oriole	Icteridae	2002	Feeding	Main Foods Taken	"Harrell, B. E. 1951. The birds of Rancho del Cielo, an ecological investigation in the oak-sweet gum forests of Tamaulipas, Mexico. Master's Thesis. Univ. of Minnesota, Minneapolis."	n		unavailable
+Audubon's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Sutton, G. M. 1951. Mexican birds: first impressions. Univ. of Oklahoma Press, Norman."	n		unavailable
+Audubon's Oriole	Icteridae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and allies. U.S. Natl. Mus. Bull. 211."	n		unavailable
+Audubon's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Flood, N. J. 1990. Aspects of the breeding biology of Audubon's Oriole. J. Field Ornithol. 61:290-302."	y	n	
+Audubon's Oriole	Icteridae	2002	Diet		"Lane, J. A. 1983. A birder's guide to the Rio Grande valley of Texas. 4th ed. (Revised by H. R. Holt). L & P Press, Denver, CO."	n		unavailable
+Audubon's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Oberholser, H. C. 1974. Birdlife of Texas. Vol. 2. Univ. of Texas Press, Austin."	n		unavailable
+Audubon's Oriole	Icteridae	2002	Diet		"Fisk, L. H. and D. A. Steen. 1976. Additional exploiters of nectar. Condor 78:269-271."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Main Foods Taken	"Timken, R. L. 1970. Food habits and feeding behavior of the Baltimore Oriole in Costa Rica. Wilson Bull. 82:184-188."	y	y	data not yet entered
+Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Slud, P. 1964. Birds of Costa Rica: distribution and ecology. Bull. Am. Mus. Nat. Hist. 128."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Edinger, B. B. 1985. Limited hybridization and behavioral differences among sympatric Baltimore and Bullock's orioles. Master's Thesis. Univ. of Minnesota, Minneapolis."	n		unavailable
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and allies. U.S. Natl. Mus. Bull. 211."	n		unavailable
+Baltimore Oriole	Icteridae	1998	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence of birds in a temperate oak woodland. Auk 97:339-350."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Leck, C. F. 1972. The impact of some North American migrants at fruiting trees in Panama. Auk 89:842-850."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Pohajdak, G. C. 1988. Feeding guilds, diets and foraging behavior of insectivorous passerines in a riparian habitat in Manitoba. Phd Thesis. Univ. of Manitoba, Winnipeg."	n		unavailable
+Baltimore Oriole	Icteridae	1998	Nutrition And Energetics		"Biermann, G. C. and S. G. Sealy. 1985. Seasonal dynamics of body mass of insectivorous passerines breeding on the forested dune ridge, Delta Marsh, Manitoba. Can. J. Zool. 63:1675-1682."	y	n	
+Baltimore Oriole	Icteridae	1998	Metabolism And Temperature Regulation		"Hartman, F. A. and M. A. Lessler. 1963. Erythrocyte measurements in birds. Auk 80:467-473."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	n		Science Library Annex
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Toledo, V. M. 1977. Pollination of some rain forest plants by non-hovering birds in Veracruz, Mexico. Biotropica 9:262-267."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Meyer De Schauensee, R. and W. H. Phelps, Jr. 1978. A guide to the birds of Venezuela. Princeton Univ. Press, Princeton, NJ."	n		Science Library Annex
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Skutch, A. F. 1996. Orioles, blackbirds and their kin: A Natural History. Univ. of Arizona Press, Tucson."	n		Science Library Annex
+Baltimore Oriole	Icteridae	1998	"Drinking, Pellet-Casting, And Defecation"		"Rising, J. D. 1969. A comparison of metabolism and evaporative water loss of Baltimore and Bullock's orioles. Comp. Biochem. Physiol. 31:915-925."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Tramer, E. J. and T. R. Kemp. 1982. Notes on migrants wintering at Monteverde, Costa Rica. Wilson Bull. 94:350-354."	y	n	
+Baltimore Oriole	Icteridae	1998	Nutrition And Energetics		"Cruden, R. W. and S. M. Hermann-Parker. 1977. Defense of feeding sites by orioles and Hepatic Tanagers in Mexico. Auk 94:594-596."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Wright, B. S. 1962. Baltimore Oriole kills hummingbird. Auk 79:112."	n		unavailable
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Sealy, S. G. 1980. Reproductive responses of northern orioles to a changing food supply. Can. J. Zool. 58:221-227."	y	n	Contains some nestling feeding information for reference
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Schemske, D. W. 1975. Territoriality in a nectar feeding Northern Oriole in Costa Rica. Auk 92:594-595."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Leck, C. F. 1974. Further observations of nectar feeding by orioles. Auk 91:162-163."	y	n	
+Baltimore Oriole	Icteridae	1998	Diet	Major Food Items	"Oberholser, H. C. 1974. Birdlife of Texas. Vol. 2. Univ. of Texas Press, Austin, TX."	n		unavailable
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Brown, R. G. B. 1974. Bird damage to fruit crops in the Niagara Peninsula. Can. Wildl. Serv. Rep. Ser. no. 27."	n		unavailable
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Trainer, J. M. and T. C. Will. 1984. Avian methods of feeding on Bursera simaruba (Burseraceae) fruits in Panama. Auk 101:193-195."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Forbush, E. H. 1927. Birds of Massachusetts and other New England states. Vol. 2. Mass. Dept. of Agric, Boston, MA."	n		Science Library Annex
+Baltimore Oriole	Icteridae	1998	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover Publs. Inc., New York."	n		Library Service Center
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Beecher, W. J. 1950. Convergent evolution in the American orioles. Wilson Bull. 62:50-86."	y	n	
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Wetmore, A. 1944. A collection of birds from northern Guanacaste, Costa Rica. U.S. Natl. Mus. Proc. 95."	n		unavailable
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Wetmore, A., R. F. Pasquier, and S. L. Olson. 1984. The birds of the Republic of Panam????. Part 4: Passeriformes. Hirundinidae to Fringillidae. Smithson. Misc. Coll. no. 150."	n		Davis Library Federal Documents
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Carriker, M. A. 1910. An annotated list of the birds of Costa Rica including Cocos Island. Anns. Carnegie Mus. 6:315-915."	n		unavailable
 Red-winged Blackbird	Icteridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
-Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Nicholson, D. J. 1960. Attack of four male Boat-tailed Grackles upon a Greater Yellowlegs. Fla. Nat. 33:227."			
-Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."			
+Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Nicholson, D. J. 1960. Attack of four male Boat-tailed Grackles upon a Greater Yellowlegs. Fla. Nat. 33:227."	n		unavailable
+Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."	y	n	
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Mcilhenny, E. A. 1937. Life history of the Boat-tailed Grackle in Louisiana. Auk 54:274-295."			
 Boat-tailed Grackle	Icteridae	1996	Diet	Major Food Items; Quantitative Analysis	"Haag, K. R., J. C. Joyce, W. M. Hetrick, and J. C. Jordan. 1987. Predation on waterhyacinth weevils and other aquatic insects by three wetland birds in Florida. Fla. Entomologist 70:457-471."			
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Kalmbach, E. R. 1937. Blackbirds of the Gulf coast in relation to the rice crop with notes on their food habits and life history. U.S. Bureau Sport Fish. Wildl., Denver Wildl. Res. Center, Denver, CO."			
