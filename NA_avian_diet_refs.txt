@@ -5125,16 +5125,16 @@ Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Wible, 
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Snyder, N. F. R. and H. A. Snyder. 1969. A comparative study of mollusc predation by Limpkins, Everglade Kites, and Boat-tailed Grackles. Living Bird 8:177-223."	n		unavailable
 Boat-tailed Grackle	Icteridae	1996	Nutrition And Energetics		"Clum, N. J. 1991. Proximate mechanisms producing sexual size dimorphism in the Boat-tailed Grackle (Quiscalus major). Phd Thesis. Cornell Univ. Ithaca, NY."	n		unavailable
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Sykes, Jr., P. W. 1987b. Some aspects of the breeding biology of the Snail Kite. J. Field Ornithol. 58:17-189."	y	n	
-Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Sprunt, Jr., A. 1941. Predation of Boat-tailed Grackles on feeding Glossy Ibises. Auk 58:587-588."			
-Boat-tailed Grackle	Icteridae	1996	Nutrition And Energetics		"Bancroft, G. T. 1985. Nutrient contents of eggs and the energetics of clutch formation in the Boat-tailed Grackle. Auk 102:43-48."			
-Boat-tailed Grackle	Icteridae	1996	Nutrition And Energetics		"Bancroft, G. T. 1983. Reproductive tactics of the sexually dimorphic Boat-tailed Grackle (Aves). Phd Thesis. Univ. of South Florida, Tampa."			
-Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Burger, J. and M. Gochfeld. 1983. Behavior of nine avian species at a Florida garbage dump. Colon. Waterbirds 6:54-63."			
-Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Beissinger, S. R. 1990. Alternative foods of a diet specialist, the Snail Kite. Auk 107:327-333."			
-Bobolink	Icteridae	1995	Nutrition And Energetics		"Gifford, C. E. and E. P. Odum. 1965. Bioenergetics of lipid deposition in the Bobolink, a trans-equatorial migrant. Condor 67:383-403."			
-Bobolink	Icteridae	1995	Diet	Major Food Items And Quantitative Analysis	"Odum, E. P., C. E. Connell, and H. L. Stoddard. 1961. Flight energy and estimated flight ranges of some migratory birds. Auk 78:515-527."			
-Bobolink	Icteridae	1995	Feeding	Food Capture And Consumption	"Mcatee, W. L. 1919. Observations on the shifting range, migration, and economic value of the Bobolink. Auk 36:430-431."			
-Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Meanley, B. and J. A. Neff. 1953. Food habits of the Bobolink in Arkansas rice fields. Auk 70:211-212."			
-Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Wiens, J. A. 1969. An approach to the study of ecological relationships among grassland birds. Ornithol. Monogr. 8:1-93."			
+Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Sprunt, Jr., A. 1941. Predation of Boat-tailed Grackles on feeding Glossy Ibises. Auk 58:587-588."	y	n	
+Boat-tailed Grackle	Icteridae	1996	Nutrition And Energetics		"Bancroft, G. T. 1985. Nutrient contents of eggs and the energetics of clutch formation in the Boat-tailed Grackle. Auk 102:43-48."	y	n	
+Boat-tailed Grackle	Icteridae	1996	Nutrition And Energetics		"Bancroft, G. T. 1983. Reproductive tactics of the sexually dimorphic Boat-tailed Grackle (Aves). Phd Thesis. Univ. of South Florida, Tampa."	n		unavailable
+Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Burger, J. and M. Gochfeld. 1983. Behavior of nine avian species at a Florida garbage dump. Colon. Waterbirds 6:54-63."	y	n	
+Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Beissinger, S. R. 1990. Alternative foods of a diet specialist, the Snail Kite. Auk 107:327-333."	y	n	Contain useful diet reference information; listed as Snail Kite in the literature
+Bobolink	Icteridae	1995	Nutrition And Energetics		"Gifford, C. E. and E. P. Odum. 1965. Bioenergetics of lipid deposition in the Bobolink, a trans-equatorial migrant. Condor 67:383-403."	y	n	
+Bobolink	Icteridae	1995	Diet	Major Food Items And Quantitative Analysis	"Odum, E. P., C. E. Connell, and H. L. Stoddard. 1961. Flight energy and estimated flight ranges of some migratory birds. Auk 78:515-527."	y	n	
+Bobolink	Icteridae	1995	Feeding	Food Capture And Consumption	"Mcatee, W. L. 1919. Observations on the shifting range, migration, and economic value of the Bobolink. Auk 36:430-431."	y	n	
+Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Meanley, B. and J. A. Neff. 1953. Food habits of the Bobolink in Arkansas rice fields. Auk 70:211-212."	y	y	data not yet entered
+Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Wiens, J. A. 1969. An approach to the study of ecological relationships among grassland birds. Ornithol. Monogr. 8:1-93."	y	y	data not yet entered
 Brewer's Blackbird	Icteridae	2002	Diet	Quantitative Analysis	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
 Brewer's Blackbird	Icteridae	2002	Feeding	Microhabitat For Foraging	"Schorger, A. W. 1934. Notes on the distribution of some Wisconsin birds II. Brewer's Blackbird (Euphagus carolinus). Auk 51:482-487."			
 Brewer's Blackbird	Icteridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Balph, M. H. 1975. Development of young Brewer's Blackbirds. Wilson Bull. 87:207-230."			
