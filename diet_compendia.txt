@@ -101,7 +101,7 @@ Beal 1915	Eastern bluebird	              y	y
 Beal 1915	Western bluebird		            y y
 Beal 1915	Mountain bluebird		            y y
 Beal 1918	Purple martin		                y y
-Beal 1918	Cliff swallow		
+Beal 1918	Cliff swallow		                y y
 Beal 1918	Barn swallow                  	y	y
 Beal 1918	Tree swallow		
 Beal 1918	Violet-green swallow		
