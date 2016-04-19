@@ -2358,67 +2358,67 @@ Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Studier, E. H., E. J.
 Bohemian Waxwing	Bombycillidae	2002	Nutrition And Energetics		"Eriksson, K. and H. Nummi. 1982. Alcohol accumulation from ingested berries and alcohol metabolism in passerine birds. Ornis Fenn. 60:2-9."	n		unavailable	
 Bohemian Waxwing	Bombycillidae	2002	Nutrition And Energetics		"Pulliainen, E. 1978. The nutritive value of rowan-berries, Sorbus aucuparia L., for birds and mammals. Aquilo Ser. Zool. 18:28-32."	n		unavailable	
 Bohemian Waxwing	Bombycillidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Pulliainen, E. and E. Erkinaro. 1978. The digestibility of rowan-berry seeds, Sorbus aucuparia L., for the Waxwings, Bombycilla garrulus L., as studied by scanning electron microscope. Aquilo Ser. Zool. 18:15-16."	n		unavailable	
-Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Witmer, M. C. 1996. Annual diet of Cedar Waxwing based on U.S. Biological Survey records (1885-1950) compared to diet of American Robin: contrasts in dietary patterns and natural history. Auk 113:414-430."	y	y	examinging currently	
-Bohemian Waxwing	Bombycillidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Witmer, M. C. 1998b. Do seeds hinder digestive processing of fruit pulp? Implications for plant/frugivore mutualisms. Auk 115:319-326."				
-Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-Hill, Inc. New York."				
-Bohemian Waxwing	Bombycillidae	2002	Feeding	Microhabitat For Foraging	"Duncan, R. and J. Church. 1992. Waxwings actively searching for insects. Scott. Birds 16:221-222."				
-Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Dorn, J. L. and R. D. Dorn. 1990. Wyoming birds. Mountain West Publ. Cheyenne, WY."				
-Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Cameron, E. S. 1908. The birds of Custer and Dawson Counties, Montana. Auk 25:39-56."				
-Bohemian Waxwing	Bombycillidae	2002	Food Selection And Storage		"Witmer, M. C., D. J. Mountjoy, and L. Elliott. 1997. Cedar Waxwing (Bombycilla cedrorum). in The birds of North America, no. 309. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."				
-Bohemian Waxwing	Bombycillidae	2002	Feeding	Microhabitat For Foraging	"Stone, C. F. 1933. General notes: notes from Northern Steuben Co., N.Y. Auk 50:227-229."				
-Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Roberts, J. S. 1879. The northern waxwing in Minnesota. For. Stream 13:907."				
-Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Witmer, M. C. 2001. Nutritional interactions and fruit removal: Cedar Waxwing consumption of Viburnum opulus fruits in spring. Ecology 82:3120-3130."				
-Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Robbins, Jr., S. D. 1991. Wisconsin birdlife. Univ. of Wisconsin Press, Madison."				
-Bohemian Waxwing	Bombycillidae	2002	Nutrition And Energetics		"Martinez Del Rio, C., W. H. Karasov, and D. J. Levey. 1989. Physiological basis and ecological consequences of sugar preferences in Cedar Waxwings. Auk 106:64-71."				
-Bohemian Waxwing	Bombycillidae	2002	Feeding	Food Capture And Consumption	"Hjertaas, D. and P. Hjertaas. 1985. Bohemian Waxwings feed on scale insects. Blue Jay 43:53-54."				
-Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Bergtold, W. H. 1931. Bohemian Waxwings in Colorado. Auk 48:432-434."				
-Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Englund, R. 1993. Fruit removal in Viburnum opulus: copious seed predation and sporadic massive seed dispersal in a temperate shrub. Oikos 67:503-510."				
-Bohemian Waxwing	Bombycillidae	2002	Nutrition And Energetics		"Pulliainen, E. 1985. Body fat reserves and liver glycogen of the Waxwing Bombycilla garrulus overwintering in northern Finland. Ornis Fenn. 62:27-28."				
-Bohemian Waxwing	Bombycillidae	2002	Feeding	Food Capture And Consumption	"Anderson, R. M. 1909. Nesting of the Bohemian Wax-wing (Bombycilla garrulus). Auk 26:10-12."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Mueller, H. C. and D. D. Berger. 1965. Ring-billed Gulls feed on flying ants. Auk 82:504."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1892. Food habits of the Cedar Bird (Ampelis cedrorum). U.S. Dep. of Agric. Rep. 1892:197-200."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Witmer, M. C. 1996b. Consequences of an alien shrub on the plumage coloration and ecology of Cedar Waxwings. Auk 113:735-743."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Mountjoy, D. J. and R. John. 1987. Cedar Waxwing. Pages 338 in Atlas of the breeding birds of Ontario. (Cadman, M. D., P. F. J. Eagles, and F. M. Helleiner, Eds.) Univ. of Waterloo Press, Waterloo."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Holthuijzen, A. M. A. and C. S. Adkisson. 1984. Passage rate, energetics, and utilization efficiency of the Cedar Waxwing. Wilson Bull. 96:680-684."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-HillI nc., New York."				
-Cedar Waxwing	Bombycillidae	1997	Feeding	Food Capture And Consumption	"Crouch, J. E. 1936. Nesting habits of the Cedar Waxwing (Bombycilla cedrorum). Auk 53:1-8."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Martinez Del Rio, C., W. H. Karasov, and D. J. Levey. 1989. Physiological basis and ecological consequences of sugar preferences in Cedar Waxwings. Auk 106:64-71."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Eriksson, K. and H. Nummi. 1982. Alcohol accumulation from ingested berries and alcohol metabolism in passerine birds. Ornis Fennica 60:2-9."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"King, D. I. 1996. Carnivory observed in the Cedar Waxwing. Wilson Bull. 108:381-382."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the Lower Colorado River Valley. Univ. of Arizona Press, Tucson."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Karasov, W. H. and D. J. Levey. 1990. Digestive system trade-offs and adaptations of frugivorous passerine birds. Physiological Zoology 63:1248-1270."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"James, D. A. and J. C. Neal. 1986. Arkansas birds: their distribution and abundance. Univ. of Arkansas Press, Fayetteville."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Fitzgerald, S. D., J. M. Sullivan, and R. J. Everson. 1990. Suspected ethanol toxicosis in two wild Cedar Waxwings. Avian Dis. 34:488-490."				
-Cedar Waxwing	Bombycillidae	1997	Feeding	Food Capture And Consumption	"Ryser, Jr., R. A. 1985. Birds of the Great Basin: a natural history. Univ. of Nevada Press, Reno."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Levey, D. J. and A. Grajal. 1991. Evolutionary implications of fruit-processing limitations in Cedar Waxwings. Am. Nat. 138:171-189."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Chavez-Ramirez, F. and R. D. Slack. 1994. Effects of avian foraging and post-foraging behavior on seed dispersal patterns of Ashe juniper. Oikos 71:40-46."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Fraser, D. 1985. Mammals, birds, and butterflies at sodium sources in northern Ontario forests. Can. Field-Nat. 99:365-367."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Brice, A. T. and C. R. Grau. 1991. Protein requirements of Costa's Hummingbirds Calypte costae. Physiol. Zool. 64:611-626."				
-Cedar Waxwing	Bombycillidae	1997	Feeding	Food Capture And Consumption	"Putnam, L. S. 1949. The life history of the Cedar Waxwing. Wilson Bull. 61:141-182."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Knopf, F. L. and T. E. Olson. 1984. Naturalization of Russian-olive: implications to Rocky Mountain wildlife. Wildl. Soc. Bull. 12:289-298."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Root, T. 1988. Atlas of wintering North American birds: An analysis of Christmas Bird Count data. Univ. of Chicago Press, Chicago."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Rogers, C. H. 1907. Cedar Waxwings as sapsuckers. Wilson Bull. 19:31-32."				
-Cedar Waxwing	Bombycillidae	1997	Feeding	Food Capture And Consumption	"Bartlett, L. M. 1956. Observations on birds hawking insects. Auk 73:127-128."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Dinsmore, J. J., T. H. Kent, D. Koenig, P. C. Petersen, and D. M. Roosa. 1984. Iowa birds. Iowa State Univ. Press, Ames."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Mcpherson, J. M. 1987. A field study of winter fruit preferences of Cedar Waxwings. Condor 89:293-306."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Imhof, T. A. 1976. Alabama birds, second edition. Univ. of Alabama Press, University."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Norman, D. M., J. R. Mason, and L. Clark. 1992. Capsaicin effects on consumption of food by Cedar Waxwings and House Finches. Wilson Bull. 104:549-551."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Gaines, D. 1992. Birds of Yosemite and the east slope. Artemisia Press, Lee Vining, CA."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Clark, L. 1991. Odor detection thresholds in Tree Swallows and Cedar Waxwings. Auk 108:177-180."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Studier, E. H., E. J. Szuch, T. M. Tompkins, and V. W. Cope. 1988. Nutritional budgets in free flying birds: Cedar Waxwings (Bombycilla cedrorum) feeding on Washington hawthorn fruit (Crataegus phaenopyrum). Comp. Biochem. Physiol. 89A:471-474."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1882. Ampelis cedrorum as a sap-sucker. Bull. Nuttall Ornithol. Club 7:54."				
-Cedar Waxwing	Bombycillidae	1997	Feeding	Main Foods Taken	"Witmer, M. C. 1996a. Annual diet of Cedar Waxwing based on U.S. Biological Survey records (1885-1950) compared to diet of American Robin: contrasts in dietary patterns and natural history. Auk 113:414-430."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Burtt, Jr., E. H., D. Sustare, and J. P. Hailman. 1976. Cedar Waxwing feeding from spider web. Wilson Bull. 88:157-158."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Levey, D. J. and G. E. Duke. 1992. How do frugivores process fruit? Gastrointestinal transit and glucose absorption in Cedar Waxwings (Bombycilla cedrorum). Auk 109:722-730."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Witmer, M. C. 1994. Contrasting digestive strategies of fruit-eating birds. Phd Thesis. Cornell Univ. Ithaca."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Harlow, Jr., R. A. 1971. Birds feeding on an ant mating swarm in Maine. 83:201-202."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Miller, L. 1932. Waxwings eating spoiled fruits. Condor 34:189."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Mcclure, H. E. 1962. Ten years and 10,000 birds. Bird-Banding 33:1-21."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Pinkowski, B. C. 1976. Cedar Waxwings and Eastern Bluebirds feeding on winter stoneflies. Wilson Bull. 88:508-509."				
-Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Alcorn, J. R. 1988. The birds of Nevada. Fairview West Publ. Fallon."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Mcpherson, J. M. 1988. Preferences of Cedar Waxwings in the laboratory for fruit species, colour and size: A comparison with field observations. Anim. Behav. 36:961-969."				
-Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Avery, M. L., K. J. Goocher, and M. A. Cone. 1993. Handling efficiency and berry size preferences of Cedar Waxwings. Wilson Bull. 105:604-611."				
+Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Witmer, M. C. 1996. Annual diet of Cedar Waxwing based on U.S. Biological Survey records (1885-1950) compared to diet of American Robin: contrasts in dietary patterns and natural history. Auk 113:414-430."	y	y	only some of the data is extractable	
+Bohemian Waxwing	Bombycillidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Witmer, M. C. 1998b. Do seeds hinder digestive processing of fruit pulp? Implications for plant/frugivore mutualisms. Auk 115:319-326."	y	n		
+Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-Hill, Inc. New York."	n		unavailable	
+Bohemian Waxwing	Bombycillidae	2002	Feeding	Microhabitat For Foraging	"Duncan, R. and J. Church. 1992. Waxwings actively searching for insects. Scott. Birds 16:221-222."	y	n		
+Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Dorn, J. L. and R. D. Dorn. 1990. Wyoming birds. Mountain West Publ. Cheyenne, WY."	n		unavailable	
+Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Cameron, E. S. 1908. The birds of Custer and Dawson Counties, Montana. Auk 25:39-56."	y	n		
+Bohemian Waxwing	Bombycillidae	2002	Food Selection And Storage		"Witmer, M. C., D. J. Mountjoy, and L. Elliott. 1997. Cedar Waxwing (Bombycilla cedrorum). in The birds of North America, no. 309. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."	n		unavailable	
+Bohemian Waxwing	Bombycillidae	2002	Feeding	Microhabitat For Foraging	"Stone, C. F. 1933. General notes: notes from Northern Steuben Co., N.Y. Auk 50:227-229."	n		unavailable	
+Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Roberts, J. S. 1879. The northern waxwing in Minnesota. For. Stream 13:907."	n		unavailable	
+Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Witmer, M. C. 2001. Nutritional interactions and fruit removal: Cedar Waxwing consumption of Viburnum opulus fruits in spring. Ecology 82:3120-3130."	y	n		
+Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Robbins, Jr., S. D. 1991. Wisconsin birdlife. Univ. of Wisconsin Press, Madison."	y	n		
+Bohemian Waxwing	Bombycillidae	2002	Nutrition And Energetics		"Martinez Del Rio, C., W. H. Karasov, and D. J. Levey. 1989. Physiological basis and ecological consequences of sugar preferences in Cedar Waxwings. Auk 106:64-71."	y	n		
+Bohemian Waxwing	Bombycillidae	2002	Feeding	Food Capture And Consumption	"Hjertaas, D. and P. Hjertaas. 1985. Bohemian Waxwings feed on scale insects. Blue Jay 43:53-54."	n		unavailable	
+Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Bergtold, W. H. 1931. Bohemian Waxwings in Colorado. Auk 48:432-434."	y	n		
+Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Englund, R. 1993. Fruit removal in Viburnum opulus: copious seed predation and sporadic massive seed dispersal in a temperate shrub. Oikos 67:503-510."	y	n		
+Bohemian Waxwing	Bombycillidae	2002	Nutrition And Energetics		"Pulliainen, E. 1985. Body fat reserves and liver glycogen of the Waxwing Bombycilla garrulus overwintering in northern Finland. Ornis Fenn. 62:27-28."	n		unavailable	
+Bohemian Waxwing	Bombycillidae	2002	Feeding	Food Capture And Consumption	"Anderson, R. M. 1909. Nesting of the Bohemian Wax-wing (Bombycilla garrulus). Auk 26:10-12."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Mueller, H. C. and D. D. Berger. 1965. Ring-billed Gulls feed on flying ants. Auk 82:504."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1892. Food habits of the Cedar Bird (Ampelis cedrorum). U.S. Dep. of Agric. Rep. 1892:197-200."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Witmer, M. C. 1996b. Consequences of an alien shrub on the plumage coloration and ecology of Cedar Waxwings. Auk 113:735-743."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Mountjoy, D. J. and R. John. 1987. Cedar Waxwing. Pages 338 in Atlas of the breeding birds of Ontario. (Cadman, M. D., P. F. J. Eagles, and F. M. Helleiner, Eds.) Univ. of Waterloo Press, Waterloo."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Holthuijzen, A. M. A. and C. S. Adkisson. 1984. Passage rate, energetics, and utilization efficiency of the Cedar Waxwing. Wilson Bull. 96:680-684."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-HillI nc., New York."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Feeding	Food Capture And Consumption	"Crouch, J. E. 1936. Nesting habits of the Cedar Waxwing (Bombycilla cedrorum). Auk 53:1-8."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Martinez Del Rio, C., W. H. Karasov, and D. J. Levey. 1989. Physiological basis and ecological consequences of sugar preferences in Cedar Waxwings. Auk 106:64-71."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Eriksson, K. and H. Nummi. 1982. Alcohol accumulation from ingested berries and alcohol metabolism in passerine birds. Ornis Fennica 60:2-9."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"King, D. I. 1996. Carnivory observed in the Cedar Waxwing. Wilson Bull. 108:381-382."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the Lower Colorado River Valley. Univ. of Arizona Press, Tucson."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Karasov, W. H. and D. J. Levey. 1990. Digestive system trade-offs and adaptations of frugivorous passerine birds. Physiological Zoology 63:1248-1270."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"James, D. A. and J. C. Neal. 1986. Arkansas birds: their distribution and abundance. Univ. of Arkansas Press, Fayetteville."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Fitzgerald, S. D., J. M. Sullivan, and R. J. Everson. 1990. Suspected ethanol toxicosis in two wild Cedar Waxwings. Avian Dis. 34:488-490."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Feeding	Food Capture And Consumption	"Ryser, Jr., R. A. 1985. Birds of the Great Basin: a natural history. Univ. of Nevada Press, Reno."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Levey, D. J. and A. Grajal. 1991. Evolutionary implications of fruit-processing limitations in Cedar Waxwings. Am. Nat. 138:171-189."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Chavez-Ramirez, F. and R. D. Slack. 1994. Effects of avian foraging and post-foraging behavior on seed dispersal patterns of Ashe juniper. Oikos 71:40-46."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Fraser, D. 1985. Mammals, birds, and butterflies at sodium sources in northern Ontario forests. Can. Field-Nat. 99:365-367."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Brice, A. T. and C. R. Grau. 1991. Protein requirements of Costa's Hummingbirds Calypte costae. Physiol. Zool. 64:611-626."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Feeding	Food Capture And Consumption	"Putnam, L. S. 1949. The life history of the Cedar Waxwing. Wilson Bull. 61:141-182."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Knopf, F. L. and T. E. Olson. 1984. Naturalization of Russian-olive: implications to Rocky Mountain wildlife. Wildl. Soc. Bull. 12:289-298."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Root, T. 1988. Atlas of wintering North American birds: An analysis of Christmas Bird Count data. Univ. of Chicago Press, Chicago."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Rogers, C. H. 1907. Cedar Waxwings as sapsuckers. Wilson Bull. 19:31-32."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Feeding	Food Capture And Consumption	"Bartlett, L. M. 1956. Observations on birds hawking insects. Auk 73:127-128."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Dinsmore, J. J., T. H. Kent, D. Koenig, P. C. Petersen, and D. M. Roosa. 1984. Iowa birds. Iowa State Univ. Press, Ames."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Mcpherson, J. M. 1987. A field study of winter fruit preferences of Cedar Waxwings. Condor 89:293-306."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Imhof, T. A. 1976. Alabama birds, second edition. Univ. of Alabama Press, University."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Norman, D. M., J. R. Mason, and L. Clark. 1992. Capsaicin effects on consumption of food by Cedar Waxwings and House Finches. Wilson Bull. 104:549-551."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Gaines, D. 1992. Birds of Yosemite and the east slope. Artemisia Press, Lee Vining, CA."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Clark, L. 1991. Odor detection thresholds in Tree Swallows and Cedar Waxwings. Auk 108:177-180."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Studier, E. H., E. J. Szuch, T. M. Tompkins, and V. W. Cope. 1988. Nutritional budgets in free flying birds: Cedar Waxwings (Bombycilla cedrorum) feeding on Washington hawthorn fruit (Crataegus phaenopyrum). Comp. Biochem. Physiol. 89A:471-474."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1882. Ampelis cedrorum as a sap-sucker. Bull. Nuttall Ornithol. Club 7:54."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Feeding	Main Foods Taken	"Witmer, M. C. 1996a. Annual diet of Cedar Waxwing based on U.S. Biological Survey records (1885-1950) compared to diet of American Robin: contrasts in dietary patterns and natural history. Auk 113:414-430."	y	y	repeated from above: only some of the data is extractable	
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Burtt, Jr., E. H., D. Sustare, and J. P. Hailman. 1976. Cedar Waxwing feeding from spider web. Wilson Bull. 88:157-158."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Levey, D. J. and G. E. Duke. 1992. How do frugivores process fruit? Gastrointestinal transit and glucose absorption in Cedar Waxwings (Bombycilla cedrorum). Auk 109:722-730."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Witmer, M. C. 1994. Contrasting digestive strategies of fruit-eating birds. Phd Thesis. Cornell Univ. Ithaca."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Harlow, Jr., R. A. 1971. Birds feeding on an ant mating swarm in Maine. 83:201-202."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Miller, L. 1932. Waxwings eating spoiled fruits. Condor 34:189."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Mcclure, H. E. 1962. Ten years and 10,000 birds. Bird-Banding 33:1-21."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Pinkowski, B. C. 1976. Cedar Waxwings and Eastern Bluebirds feeding on winter stoneflies. Wilson Bull. 88:508-509."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Diet	Major Food Items	"Alcorn, J. R. 1988. The birds of Nevada. Fairview West Publ. Fallon."	n		unavailable	
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Mcpherson, J. M. 1988. Preferences of Cedar Waxwings in the laboratory for fruit species, colour and size: A comparison with field observations. Anim. Behav. 36:961-969."	y	n		
+Cedar Waxwing	Bombycillidae	1997	Nutrition And Energetics		"Avery, M. L., K. J. Goocher, and M. A. Cone. 1993. Handling efficiency and berry size preferences of Cedar Waxwings. Wilson Bull. 105:604-611."	y	n		
 Antillean Nighthawk	Caprimulgidae	2002	Feeding	Food Capture And Consumption	"Cleere, N. 1999. Family Caprimulgidae (nightjars). Pages 302-386 in Handbook of the birds of the world. Vol. 5 (del Hoyo, J., A. Elliott, and J. Sargatal, Eds.) Lynx Edicion, Barcelona."				
 Antillean Nighthawk	Caprimulgidae	2002	Feeding	Food Capture And Consumption	"Vaughan, T. A. 1986. Mammalogy. 3rd ed. Saunders College Publ. New York, NY."				
 Antillean Nighthawk	Caprimulgidae	2002	Feeding	Microhabitat For Foraging	"Poulin, R. G., S. D. Grindal, and R. M. Brigham. 1996. Common Nighthawk (Chordeiles minor). in The birds of North America, no. 213. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."				
