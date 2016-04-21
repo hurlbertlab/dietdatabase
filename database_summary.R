@@ -40,3 +40,5 @@ dietSummary = function(diet, refs) {
               recordsPerSpecies=recordsPerSpecies,
               speciesPerFamily = spCountByFamily2))
 }
+
+dietSummary(diet, refs)
