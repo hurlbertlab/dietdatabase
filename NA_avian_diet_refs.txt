@@ -5232,50 +5232,50 @@ Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Ideker
 Great-tailed Grackle	Icteridae	2001	Diet		"Teather, K. L. and P. J. Weatherhead. 1988. Sex-specific energy requirements of Great-tailed Grackle (Quis-calus mexicanus) nestlings. J. Anim. Ecol. 57:659-668."	y	y	data not yet entered	
 Great-tailed Grackle	Icteridae	2001	Diet		"Oberholser, H. C. 1974. The bird life of Texas. Vol. 2. Univ. of Texas Press, Austin."	n		unavailable	
 Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Tutor, B. M. 1962. Nesting studies of the Boat-tailed Grackle. Auk 79:77-84."	y	n		
-Great-tailed Grackle	Icteridae	2001	Nutrition And Energetics		"Teather, K. L. 1987. Intersexual differences in food consumption by hand-reared Great-tailed Grackle (Quiscalus mexicanus) nestlings. Auk 104:635-639."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Merrill, J. C. 1877. Notes on Molothrus aeneus. Bull. Nuttall Ornithol. Club 2:85-87."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Skutch, A. F. 1954. Life histories of Central American birds. Pac. Coast Avifauna 31:1-448."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Post, W., J. P. Poston, and G. T. Bancroft. 1996. Boat-tailed Grackle (Quiscalus major). in The birds of North America, no. 207. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Davis II, W. R. and K. A. Arnold. 1972. Food habits of the Great-tailed Grackle in Brazos County, Texas. Condor 74:439-446."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."				
-Great-tailed Grackle	Icteridae	2001	Diet		"Johnson, D. B., F. S. Guthery, and N. E. Koerth. 1989. Grackle damage to grapefruit in the Lower Rio Grande Valley. Wildl. Soc. Bull. 17:46-50."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Jennings, M. R. 1984. Predation on Sonoran Spotted Whiptails, Cnemidophorous sonorae (Teiida), by the Great-tailed Grackle, Quiscalus mexicanus (Icteridae). Southwest. Nat. 29:514."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Lamb, C. C. 1944. Grackle kills warbler. Condor 46:245."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Clapp, R. B. 1986. Great-tailed Grackle kills Barn Swallow in flight. Wilson Bull. 98:614-615."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Guillory, H. D., J. H. Deshotels, and C. Guillory. 1981. Great-tailed Grackle reproduction in southcentral Louisiana. J. Field Ornithol. 52:325-331."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Smith, J. N. M. 1977. Feeding rates, search paths, and surveillance for predators in Great-tailed Grackle flocks. Can. J. Zool. 55:891-898."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Hansen, M. T. 1976. A Great-tailed Grackle captures and kills a House Sparrow. Southwest. Nat. 21:240-241."				
-Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Blankinship, D. R. 1966. The relationship of White-winged Dove production to control of Great-tailed Grackles in the Lower Rio Grande Valley of Texas. Trans. N. Am. Wildl. Nat. Resour. Conf. 31:45-58."				
-Hooded Oriole	Icteridae	2001	Feeding	Main Foods Taken	"Rappole, J. H. and J. Klicka. 1991. Status of six populations of Rio Grande birds. U.S. Fish Wildl. Ser. rep."				
-Hooded Oriole	Icteridae	2001	Diet	Major Food Items	"Leck, C. 1974. Further observations of nectar feeding by orioles. Auk 91:162-163."				
-Hooded Oriole	Icteridae	2001	Feeding	Main Foods Taken	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 2. Univ. of Texas Press, Austin."				
-Hooded Oriole	Icteridae	2001	Feeding	Microhabitat For Foraging	"Fisk, L. 1973. Notes on nectar feeding by orioles. Auk 90:208-209."				
-Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"Dolbeer, R. A., P. P. Woronecki, A. R. Stickley, Jr., and S. B. White. 1978. Agricultural impact of a winter population of blackbirds and starlings. Wilson Bull. 90:31-44."				
-Red-winged Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."				
-Red-winged Blackbird	Icteridae	1995	Food Selection		"Mason, J. R. and R. F. Reidinger, Jr. 1982. Observational learning of food aversions in Red-winged Blackbirds (Agelaius phoeniceus). Auk 99:548-554."				
-Red-winged Blackbird	Icteridae	1995	Diet	Breeding Season	"Mcnicol, D. K., R. J. Robertson, and P. J. Weatherhead. 1982. Seasonal, habitat, and sex-specific food habits of Red-winged Blackbirds: implications for agriculture. Can. J. Zool. 60:3282-3289."				
-Red-winged Blackbird	Icteridae	1995	Diet	Breeding Season	"Bird, R. D. and L. B. Smith. 1964. The food habits of the Red-winged Blackbird, Agelaius phoeniceus, in Manitoba. Can. Field-Nat. 78:179-186."				
-Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"Linz, G. M., D. L. Vakoch, J. F. Cassel, and R. B. Carlson. 1984. Food of Red-winged Blackbirds (Agelaius phoeniceus) in sunflower fields and corn fields. Can. Field-Nat. 98:38-44."				
-Red-winged Blackbird	Icteridae	1995	Food Selection		"Mason, J. R., B. Nuechterlein, G. Linz, R. A. Dolbeer, and D. L. Otis. 1991c. Oil concentration differences among sunflower achenes and feeding preferences of Red-winged Blackbirds. Crop Protec. 10:299-304."				
-Red-winged Blackbird	Icteridae	1995	Metabolism And Temperature Regulation		"Lewies, R. W. and M. I. Dyer. 1969. Respiratory metabolism of the Red-winged Blackbird in relation to ambient temperature. Condor 71:291-298."				
-Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"Williams, R. E. and W. B. Jackson. 1981. Dietary comparisons of Red-winged Blackbirds, Brown-headed Cowbirds, and European Starlings in north-central Ohio. Ohio J. Sci. 81:217-225."				
-Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"White, S. B., R. A. Dolbeer, and T. A. Bookhout. 1985. Ecology, bioenergetics, and agricultural impacts of a winter-roosting population of blackbirds and starlings. Wildl. Monogr. 93:1-42."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Brewster, W. 1906. The birds of the Cambridge region of Massachusetts. Mem. Nuttall Ornithol. Club no. 4."				
-Rusty Blackbird	Icteridae	1995	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. McGraw-Hill Book Co. New York."				
-Rusty Blackbird	Icteridae	1995	Feeding	Main Foods Taken	"Beal, F. E. L. 1900. Food of the Bobolink, blackbirds, and grackles. U.S. Dep. Agric. Biol. Surv. Bull. 13."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."				
-Rusty Blackbird	Icteridae	1995	Feeding	Main Foods Taken	"Meanley, B. 1995. Some foods of the Rusty Blackbird in the Great Dismal Swamp region. Raven 66:9-10."				
-Rusty Blackbird	Icteridae	1995	Feeding	Microhabitat For Foraging	"Gabrielson, I. N. and F. C. Lincoln. 1959. The birds of Alaska. Stackpole Co. Harrisburg, PA."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Droege, M. 1991. Unusual food of Rusty Blackbirds. Bull. Okla. Ornithol. Soc. 24:7-8."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Meanley, B. 1993. The Patuxent River wildrice marsh. Privately published by the author, Maryland."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Deane, R. 1895. Strange habits of rusty and crow blackbirds. Auk 12:303-304."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Campbell, R. W. 1974. Rusty Blackbirds prey on sparrows. Wilson Bull. 86:291-293."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Messerly, E. H. 1979. Rusty Blackbird feeds on American Goldfinch. Bull. Okla. Ornithol. Soc. 12:6-7."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Woodruff, C. and A. Woodruff. 1991. Predation by Rusty Blackbirds on songbirds at a winter feeder. Chat 55:54-55."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Long, R. C. and A. Russ. 1968. Rusty Blackbird kills House Sparrow. Ont. Field Biol. 22:28."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Wilson, A. E. 1968. Rusty Blackbird attacks sparrows. Blue Jay 26:123."				
-Rusty Blackbird	Icteridae	1995	Diet	Major Food Items	"Mccaskie, G. 1971. Rusty Blackbirds in California and western North America. Calif. Birds 2:55-68."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Cade, T. J. 1953. Aerial feeding of the Rusty Blackbird on mosquitoes. Wilson Bull. 65:52-53."				
+Great-tailed Grackle	Icteridae	2001	Nutrition And Energetics		"Teather, K. L. 1987. Intersexual differences in food consumption by hand-reared Great-tailed Grackle (Quiscalus mexicanus) nestlings. Auk 104:635-639."	y	n		
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Merrill, J. C. 1877. Notes on Molothrus aeneus. Bull. Nuttall Ornithol. Club 2:85-87."	n		unavailable	
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Skutch, A. F. 1954. Life histories of Central American birds. Pac. Coast Avifauna 31:1-448."	n		unavailable	
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Post, W., J. P. Poston, and G. T. Bancroft. 1996. Boat-tailed Grackle (Quiscalus major). in The birds of North America, no. 207. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."	n		unavailable	
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Davis II, W. R. and K. A. Arnold. 1972. Food habits of the Great-tailed Grackle in Brazos County, Texas. Condor 74:439-446."	y	y	data not yet entered	
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."	y	n		
+Great-tailed Grackle	Icteridae	2001	Diet		"Johnson, D. B., F. S. Guthery, and N. E. Koerth. 1989. Grackle damage to grapefruit in the Lower Rio Grande Valley. Wildl. Soc. Bull. 17:46-50."	y	n		
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Jennings, M. R. 1984. Predation on Sonoran Spotted Whiptails, Cnemidophorous sonorae (Teiida), by the Great-tailed Grackle, Quiscalus mexicanus (Icteridae). Southwest. Nat. 29:514."	n		unavailable	
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Lamb, C. C. 1944. Grackle kills warbler. Condor 46:245."	n		unavailable	
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Clapp, R. B. 1986. Great-tailed Grackle kills Barn Swallow in flight. Wilson Bull. 98:614-615."	y	n		
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Guillory, H. D., J. H. Deshotels, and C. Guillory. 1981. Great-tailed Grackle reproduction in southcentral Louisiana. J. Field Ornithol. 52:325-331."	y	n		
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Smith, J. N. M. 1977. Feeding rates, search paths, and surveillance for predators in Great-tailed Grackle flocks. Can. J. Zool. 55:891-898."	y	n		
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Hansen, M. T. 1976. A Great-tailed Grackle captures and kills a House Sparrow. Southwest. Nat. 21:240-241."	y	n		
+Great-tailed Grackle	Icteridae	2001	Feeding	Food Capture And Consumption	"Blankinship, D. R. 1966. The relationship of White-winged Dove production to control of Great-tailed Grackles in the Lower Rio Grande Valley of Texas. Trans. N. Am. Wildl. Nat. Resour. Conf. 31:45-58."	y	n		
+Hooded Oriole	Icteridae	2001	Feeding	Main Foods Taken	"Rappole, J. H. and J. Klicka. 1991. Status of six populations of Rio Grande birds. U.S. Fish Wildl. Ser. rep."	n		unavailable	
+Hooded Oriole	Icteridae	2001	Diet	Major Food Items	"Leck, C. 1974. Further observations of nectar feeding by orioles. Auk 91:162-163."	y	n		
+Hooded Oriole	Icteridae	2001	Feeding	Main Foods Taken	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 2. Univ. of Texas Press, Austin."	n		unavailable	
+Hooded Oriole	Icteridae	2001	Feeding	Microhabitat For Foraging	"Fisk, L. 1973. Notes on nectar feeding by orioles. Auk 90:208-209."	y	n		
+Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"Dolbeer, R. A., P. P. Woronecki, A. R. Stickley, Jr., and S. B. White. 1978. Agricultural impact of a winter population of blackbirds and starlings. Wilson Bull. 90:31-44."	y	n	"Contains a breakdown of food items, but may be too vague to be of use"	
+Red-winged Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."	n		Library Service Center	
+Red-winged Blackbird	Icteridae	1995	Food Selection		"Mason, J. R. and R. F. Reidinger, Jr. 1982. Observational learning of food aversions in Red-winged Blackbirds (Agelaius phoeniceus). Auk 99:548-554."	y	n		
+Red-winged Blackbird	Icteridae	1995	Diet	Breeding Season	"Mcnicol, D. K., R. J. Robertson, and P. J. Weatherhead. 1982. Seasonal, habitat, and sex-specific food habits of Red-winged Blackbirds: implications for agriculture. Can. J. Zool. 60:3282-3289."	y	y	data not yet entered	
+Red-winged Blackbird	Icteridae	1995	Diet	Breeding Season	"Bird, R. D. and L. B. Smith. 1964. The food habits of the Red-winged Blackbird, Agelaius phoeniceus, in Manitoba. Can. Field-Nat. 78:179-186."	n		unavailable	
+Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"Linz, G. M., D. L. Vakoch, J. F. Cassel, and R. B. Carlson. 1984. Food of Red-winged Blackbirds (Agelaius phoeniceus) in sunflower fields and corn fields. Can. Field-Nat. 98:38-44."	n		unavailable	
+Red-winged Blackbird	Icteridae	1995	Food Selection		"Mason, J. R., B. Nuechterlein, G. Linz, R. A. Dolbeer, and D. L. Otis. 1991c. Oil concentration differences among sunflower achenes and feeding preferences of Red-winged Blackbirds. Crop Protec. 10:299-304."	y	n		
+Red-winged Blackbird	Icteridae	1995	Metabolism And Temperature Regulation		"Lewies, R. W. and M. I. Dyer. 1969. Respiratory metabolism of the Red-winged Blackbird in relation to ambient temperature. Condor 71:291-298."	y	n		
+Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"Williams, R. E. and W. B. Jackson. 1981. Dietary comparisons of Red-winged Blackbirds, Brown-headed Cowbirds, and European Starlings in north-central Ohio. Ohio J. Sci. 81:217-225."	y	y	data not yet entered	
+Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"White, S. B., R. A. Dolbeer, and T. A. Bookhout. 1985. Ecology, bioenergetics, and agricultural impacts of a winter-roosting population of blackbirds and starlings. Wildl. Monogr. 93:1-42."	y	y	data not yet entered	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Brewster, W. 1906. The birds of the Cambridge region of Massachusetts. Mem. Nuttall Ornithol. Club no. 4."	y	n		
+Rusty Blackbird	Icteridae	1995	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. McGraw-Hill Book Co. New York."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Main Foods Taken	"Beal, F. E. L. 1900. Food of the Bobolink, blackbirds, and grackles. U.S. Dep. Agric. Biol. Surv. Bull. 13."	y	y	data not yet entered	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."	y	n		
+Rusty Blackbird	Icteridae	1995	Feeding	Main Foods Taken	"Meanley, B. 1995. Some foods of the Rusty Blackbird in the Great Dismal Swamp region. Raven 66:9-10."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Microhabitat For Foraging	"Gabrielson, I. N. and F. C. Lincoln. 1959. The birds of Alaska. Stackpole Co. Harrisburg, PA."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Droege, M. 1991. Unusual food of Rusty Blackbirds. Bull. Okla. Ornithol. Soc. 24:7-8."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Meanley, B. 1993. The Patuxent River wildrice marsh. Privately published by the author, Maryland."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Deane, R. 1895. Strange habits of rusty and crow blackbirds. Auk 12:303-304."	y	n		
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Campbell, R. W. 1974. Rusty Blackbirds prey on sparrows. Wilson Bull. 86:291-293."	y	n		
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Messerly, E. H. 1979. Rusty Blackbird feeds on American Goldfinch. Bull. Okla. Ornithol. Soc. 12:6-7."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Woodruff, C. and A. Woodruff. 1991. Predation by Rusty Blackbirds on songbirds at a winter feeder. Chat 55:54-55."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Long, R. C. and A. Russ. 1968. Rusty Blackbird kills House Sparrow. Ont. Field Biol. 22:28."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Wilson, A. E. 1968. Rusty Blackbird attacks sparrows. Blue Jay 26:123."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Diet	Major Food Items	"Mccaskie, G. 1971. Rusty Blackbirds in California and western North America. Calif. Birds 2:55-68."	y	n		
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Cade, T. J. 1953. Aerial feeding of the Rusty Blackbird on mosquitoes. Wilson Bull. 65:52-53."	y	n		
 Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Meanley, B. 1972. Swamps, river bottoms and canebrakes. Barre Publ. Barre, MA."				
 Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Forbush, E. H. 1927. Birds of Massachusetts and other New England states, Pt. 2. Mass. Dep. Agric, Boston."				
 Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Ellison, W. G. 1990. The status and habitat of the Rusty Blackbird in Caledonia and Essex counties. Vermont Fish Wildl. Dep. Woodstock."				
