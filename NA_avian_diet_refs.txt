@@ -5276,28 +5276,28 @@ Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Long, R. C.
 Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Wilson, A. E. 1968. Rusty Blackbird attacks sparrows. Blue Jay 26:123."	n		unavailable	
 Rusty Blackbird	Icteridae	1995	Diet	Major Food Items	"Mccaskie, G. 1971. Rusty Blackbirds in California and western North America. Calif. Birds 2:55-68."	y	n		
 Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Cade, T. J. 1953. Aerial feeding of the Rusty Blackbird on mosquitoes. Wilson Bull. 65:52-53."	y	n		
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Meanley, B. 1972. Swamps, river bottoms and canebrakes. Barre Publ. Barre, MA."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Forbush, E. H. 1927. Birds of Massachusetts and other New England states, Pt. 2. Mass. Dep. Agric, Boston."				
-Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Ellison, W. G. 1990. The status and habitat of the Rusty Blackbird in Caledonia and Essex counties. Vermont Fish Wildl. Dep. Woodstock."				
-Scott's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Howell, S. N. G. and S. Webb. 1995. A guide to the birds of Mexico and northern Central America. Oxford Univ. Press, New York."				
-Scott's Oriole	Icteridae	2002	Nutrition And Energetics		"Weathers, W. W. 1983. Birds of southern California's Deep Canyon. Univ. of California Press, Berkeley."				
-Scott's Oriole	Icteridae	2002	Nutrition And Energetics		"Smyth, M. and H. N. Coulombe. 1971. Notes on the use of desert springs by birds in California. Condor 73(2):240-243."				
-Scott's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Brandt, H. 1951. Arizona and its birdlife. Bird Res. Found. Cleveland, OH."				
-Scott's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Malcolm, S. B. and M. P. Zaluki. 1993. Biology and conservation of the monarch butterfly. Nat. Hist. Mus. of Los Angeles Co. Los Angeles, CA."				
-Scott's Oriole	Icteridae	2002	Diet		"Oberholser, H. C. 1974. The birdlife of Texas. Vol. 2. Univ. of Texas Press, Austin."				
-Scott's Oriole	Icteridae	2002	Diet		"Terres, J. K. 1980. Encyclopedia of North American birds. Alfred A. Knopf, New York."				
-Scott's Oriole	Icteridae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and allies. U.S. Natl. Mus. Bull. 211."				
-Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Leck, C. 1974. Further observations of nectar feeding by orioles. Auk 91:162-163."				
-Scott's Oriole	Icteridae	2002	Nutrition And Energetics		"Cruden, R. W. and S. M. Hermann-Parker. 1977. Defense of feeding sites by orioles and Hepatic Tanagers in Mexico. Auk 74:594-595."				
-Scott's Oriole	Icteridae	2002	Metabolism And Temperature Regulation		"Wauer, R. H. 1985. A field guide to the birds of the Big Bend. Texas Monthly Press, Austin."				
-Scott's Oriole	Icteridae	2002	Metabolism And Temperature Regulation		"Bendire, C. E. 1895. Life histories of North American birds. U.S. Natl. Mus. Spec. Bull. 3."				
-Scott's Oriole	Icteridae	2002	Metabolism And Temperature Regulation		"Dexter, C. 1998. Scott's Oriole. Pages 520-521 in Colorado breeding bird atlas. (Kingery, H. E., Ed.) Colorado Bird Atlas Partnership and Colorado Div. Wildl. Denver."				
-Scott's Oriole	Icteridae	2002	Metabolism And Temperature Regulation		"Jaramillo, A. and P. Burke. 1999. New World blackbirds: the icterids. Princeton Univ. Press, Princeton, NJ."				
-Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Calvert, W. H., L. E. Hedrick, and L. P. Brower. 1979. Mortality of the monarch butterfly (Danaus plexippus L.): avian predation at five overwintering sites in Mexico. Science 204:847-851."				
-Scott's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Grinnell, J. 1910. The Scott oriole in Los Angeles County. Condor 12:46."				
-Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Miller, A. H. and R. C. Stebbins. 1964. The lives of desert animals of Joshua Tree National Monument. Univ. of California Press, Berkeley."				
-Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Grinnell, J. and A. H. Miller. 1944. The distribution of the birds of California. Pac. Coast Avifauna no. 27."				
-Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Fisk, L. H. and D. A. Steen. 1976. Additional exploiters of nectar. Condor 78:269-271."				
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Meanley, B. 1972. Swamps, river bottoms and canebrakes. Barre Publ. Barre, MA."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Forbush, E. H. 1927. Birds of Massachusetts and other New England states, Pt. 2. Mass. Dep. Agric, Boston."	n		unavailable	
+Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Ellison, W. G. 1990. The status and habitat of the Rusty Blackbird in Caledonia and Essex counties. Vermont Fish Wildl. Dep. Woodstock."	n		unavailable	
+Scott's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Howell, S. N. G. and S. Webb. 1995. A guide to the birds of Mexico and northern Central America. Oxford Univ. Press, New York."	n		Science Library Annex	
+Scott's Oriole	Icteridae	2002	Nutrition And Energetics		"Weathers, W. W. 1983. Birds of southern California's Deep Canyon. Univ. of California Press, Berkeley."	n		Library Service Center	
+Scott's Oriole	Icteridae	2002	Nutrition And Energetics		"Smyth, M. and H. N. Coulombe. 1971. Notes on the use of desert springs by birds in California. Condor 73(2):240-243."	y	n		
+Scott's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Brandt, H. 1951. Arizona and its birdlife. Bird Res. Found. Cleveland, OH."	n		unavailable	
+Scott's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Malcolm, S. B. and M. P. Zaluki. 1993. Biology and conservation of the monarch butterfly. Nat. Hist. Mus. of Los Angeles Co. Los Angeles, CA."	n		Science Library Annex	
+Scott's Oriole	Icteridae	2002	Diet		"Oberholser, H. C. 1974. The birdlife of Texas. Vol. 2. Univ. of Texas Press, Austin."	n		unavailable	
+Scott's Oriole	Icteridae	2002	Diet		"Terres, J. K. 1980. Encyclopedia of North American birds. Alfred A. Knopf, New York."	n		NC Botanical Garden Library	
+Scott's Oriole	Icteridae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and allies. U.S. Natl. Mus. Bull. 211."	n		Library Service Center	
+Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Leck, C. 1974. Further observations of nectar feeding by orioles. Auk 91:162-163."	y	n		
+Scott's Oriole	Icteridae	2002	Nutrition And Energetics		"Cruden, R. W. and S. M. Hermann-Parker. 1977. Defense of feeding sites by orioles and Hepatic Tanagers in Mexico. Auk 74:594-595."	y	n		
+Scott's Oriole	Icteridae	2002	Metabolism And Temperature Regulation		"Wauer, R. H. 1985. A field guide to the birds of the Big Bend. Texas Monthly Press, Austin."	n		unavailable	
+Scott's Oriole	Icteridae	2002	Metabolism And Temperature Regulation		"Bendire, C. E. 1895. Life histories of North American birds. U.S. Natl. Mus. Spec. Bull. 3."	n		unavailable	
+Scott's Oriole	Icteridae	2002	Metabolism And Temperature Regulation		"Dexter, C. 1998. Scott's Oriole. Pages 520-521 in Colorado breeding bird atlas. (Kingery, H. E., Ed.) Colorado Bird Atlas Partnership and Colorado Div. Wildl. Denver."	n		unavailable	
+Scott's Oriole	Icteridae	2002	Metabolism And Temperature Regulation		"Jaramillo, A. and P. Burke. 1999. New World blackbirds: the icterids. Princeton Univ. Press, Princeton, NJ."	n		Science Library Annex	
+Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Calvert, W. H., L. E. Hedrick, and L. P. Brower. 1979. Mortality of the monarch butterfly (Danaus plexippus L.): avian predation at five overwintering sites in Mexico. Science 204:847-851."	y	n		
+Scott's Oriole	Icteridae	2002	Feeding	Food Capture And Consumption	"Grinnell, J. 1910. The Scott oriole in Los Angeles County. Condor 12:46."	n		unavailable	
+Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Miller, A. H. and R. C. Stebbins. 1964. The lives of desert animals of Joshua Tree National Monument. Univ. of California Press, Berkeley."	n		unavailable	
+Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Grinnell, J. and A. H. Miller. 1944. The distribution of the birds of California. Pac. Coast Avifauna no. 27."	y	n		
+Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Fisk, L. H. and D. A. Steen. 1976. Additional exploiters of nectar. Condor 78:269-271."	y	n	Useful qualitative information but no hard data	
 Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Del Rio, C. M. and L. E. Eguiarte. 1987. Bird visitation to Agave salmiana: comparisons among hummingbirds and perching birds. Condor 89:357-363."				
 Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Landres, P. B. and J. A. MacMahon. 1980. Guilds and community organization: analysis of an oak woodland avifauna in Sonora, Mexico. Auk 97:351-365."				
 Shiny Cowbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Hudson, W. H. 1920. Birds of La Plata. Vol. 1. J. M. Dent & Sons, Ltd., London."				
