@@ -8969,12 +8969,12 @@ Golden-crowned Kinglet	Regulidae	1997	Diet	Major Food Items	"Heinrich, B. and R.
 Golden-crowned Kinglet	Regulidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Gaines, D. 1992. Birds of Yosemite and the east slopes. Artemisa Press, Lee Vining, CA."	n		unavailable	
 Golden-crowned Kinglet	Regulidae	1997	Feeding	Microhabitat For Foraging	"Lewke, R. E. 1982. A comparison of foraging behavior among permanent, summer, and winter resident bird groups. Condor 84:84-90."	y	n		
 Golden-crowned Kinglet	Regulidae	1997	Feeding	Microhabitat For Foraging	"Sabo, S. R. and R. T. Holmes. 1983. Foraging niches and the structure of forest bird communities in contrasting montane habitats. Condor 85:121-138."	y	n		
-Golden-crowned Kinglet	Regulidae	1997	Diet	Major Food Items	"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin, Survey of 1873-1879. 1:441-610."				
-Golden-crowned Kinglet	Regulidae	1997	Feeding	Food Capture And Consumption	"Keast, A. and S. Saunders. 1991. Ecomorphology of the North American Ruby-crowned (Regulus calendula) and Golden-crowned (Regulus satrapa) Kinglets. Auk 108:880-888."				
-Golden-crowned Kinglet	Regulidae	1997	Nutrition And Energetics		"Blem, C. R. and J. F. Pagels. 1984. Mid-winter lipid reserves of the Golden-crowned Kinglet. Condor 86:491-492."				
-Golden-crowned Kinglet	Regulidae	1997	Nutrition And Energetics		"Blem, C. R. 1990. Avian energy storage. Curr. Ornithol. 7:59-114."				
-Golden-crowned Kinglet	Regulidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"				
-Ruby-crowned Kinglet	Regulidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"				
+Golden-crowned Kinglet	Regulidae	1997	Diet	Major Food Items	"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin, Survey of 1873-1879. 1:441-610."	y	y	data has not yet been entered	
+Golden-crowned Kinglet	Regulidae	1997	Feeding	Food Capture And Consumption	"Keast, A. and S. Saunders. 1991. Ecomorphology of the North American Ruby-crowned (Regulus calendula) and Golden-crowned (Regulus satrapa) Kinglets. Auk 108:880-888."	y	n		
+Golden-crowned Kinglet	Regulidae	1997	Nutrition And Energetics		"Blem, C. R. and J. F. Pagels. 1984. Mid-winter lipid reserves of the Golden-crowned Kinglet. Condor 86:491-492."	y	n		
+Golden-crowned Kinglet	Regulidae	1997	Nutrition And Energetics		"Blem, C. R. 1990. Avian energy storage. Curr. Ornithol. 7:59-114."	n		unavailable	
+Golden-crowned Kinglet	Regulidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"	y	n		
+Ruby-crowned Kinglet	Regulidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"	y	n		
 Ruby-crowned Kinglet	Regulidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered	
 Verdin	Remizidae	1999	Feeding	Main Foods Taken	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River valley. Univ. of Arizona Press, Tucson."				
 Verdin	Remizidae	1999	Feeding	Microhabitat For Foraging	"Taylor, W. K. 1971. A breeding biology study of the Verdin, Auriparus flaviceps (Sundevall) in Arizona. Am. Midl. Nat. 85:289-328."				
@@ -10700,28 +10700,28 @@ Crested Myna	Sturnidae	1995	Nutrition And Energetics		"Johnson, S. R. and I. McT
 Crested Myna	Sturnidae	1995	Feeding	Main Food Taken	"Johnson, S. R. 1972. Thermal adaptation in North American Sturnidae. Phd Thesis. Univ. of British Columbia, Vancouver."				
 Crested Myna	Sturnidae	1995	Diet	Major Food Items	"Tso-hsin, C. 1976. A synopsis of the avifauna of China. Science Publishers, Beijing."				
 Crested Myna	Sturnidae	1995	Nutrition And Energetics		"Johnson, S. R. and I. McT. Cowan. 1974. Thermal adaptation as a factor affecting colonizing success of introduced Sturnidae (Aves) in North America. Can. J. Zool. 52:1559-1576."				
-European Starling	Sturnidae	1993	Food Selection And Storage		"Rio, C. Martinez Del and B. R. Stevens. 1989. Physiological constraint on feeding behavior: Intestinal membrane disaccharidases of the starling. Science 243:794-796."				
-European Starling	Sturnidae	1993	Metabolism And Temperature Regulation		"Brenner, F. J. 1965. Metabolism and survival time of grouped starlings at various temperatures. Wilson Bull. 77:388-395."				
-European Starling	Sturnidae	1993	Nutrition And Energetics		"Levey, D. J. and W. H. Karasov. 1989. Digestive responses of temperate birds switched to fruit or insect diets. Auk 106:675-686."				
-European Starling	Sturnidae	1993	Metabolism And Temperature Regulation		"Ricklefs, R. E. and J. B. Williams. 1984. Daily energy expenditure and water-turnover rate of adult European Starlings (Sturnus vulgaris) during the nesting cycle. Auk 101:707-716."				
-European Starling	Sturnidae	1993	Feeding	Microhabitat For Foraging	"Feare, C. J. 1984. The Starling. Oxford Univ. Press, Oxford."				
-European Starling	Sturnidae	1993	Diet		"Feare, C. J. 1993. Nectar feeding by European Starlings. Wilson Bull. 105:194."				
-European Starling	Sturnidae	1993	Food Selection And Storage		"Espaillat, J. E. and J. R. Mason. 1990. Differences in taste preferences between red-winged blackbirds and European starlings. Wilson Bull. 102:292-299."				
-European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Stevens, J. 1985. Foraging success of adult and juvenile starlings Sturnus vulgaris: a tentative explanation for the preference of juveniles for cherries. Ibis 127:341-347."				
-European Starling	Sturnidae	1993	Food Selection And Storage		"Clark, L. and J. R. Mason. 1988. Effect of biologically active plants used as nest material and the derived benefit to starling nestlings. Oecologia 77:174-180."				
-European Starling	Sturnidae	1993	Nutrition And Energetics		"Gromadzki, M. 1979. Food requirement and effect of starling, Sturnus vulgaris L. on agriculture in Zulawy. Acta Ornithol. 16:467-492."				
-European Starling	Sturnidae	1993	Feeding	Microhabitat For Foraging	"Dunnet, G. M. 1955. The breeding of the starling Sturnus vulgaris in relation to its food supply. Ibis 97:619-662."				
-European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Beecher, W. J. 1978. Feeding adaptations and evolution in the starlings. Bull. Chic. Acad. Sci. 11:269-298."				
-European Starling	Sturnidae	1993	Diet		"Lindsey, A. A. 1939. Food of the starling in central New York State. Wilson Bull. 51:176-182."				
-European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Inman, A. 1990. Group foraging in starlings: distributions of unequal competitors. Anim. Behav. 40:801-810."				
-European Starling	Sturnidae	1993	Diet		"Russell, D. N. 1971. Food habits of the starling in eastern Texas. Condor 73:369-372."				
-European Starling	Sturnidae	1993	Feeding	Main Foods Taken	"Tinbergen, J. M. 1981. Foraging decisions in starlings (Sturnus vulgaris) L. Ardea 69:1-67."				
-European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Keys, G. C. and L. A. Dugatkin. 1990. Flock size and position effects on vigilance, aggression, and prey capture in the European starling. Condor 92:151-159."				
-European Starling	Sturnidae	1993	Feeding	Microhabitat For Foraging	"Williamson, P. and L. Gray. 1975. Foraging behavior of the starling (Sturnus vulgaris) in Maryland. Condor 77:84-89."				
-European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Suthers, H. B. 1978. Analysis of a resident flock of starlings. Bird-Banding 49:35-46."				
-European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Caccamise, D. F. 1991. European starling fidelity to diurnal activity centers: role of foraging substrate quality. Wilson Bull. 103:13-24."				
-European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Fischl, J. and D. F. Caccamise. 1987. Relationships of diet and roosting behavior in the European starling. Amer. Midl. Nat. 117:395-404."				
-European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Morrison, D. and D. F. Caccamise. 1990. Comparison of roost use by three species of communal roostmates. Condor 92:405-412."				
+European Starling	Sturnidae	1993	Food Selection And Storage		"Rio, C. Martinez Del and B. R. Stevens. 1989. Physiological constraint on feeding behavior: Intestinal membrane disaccharidases of the starling. Science 243:794-796."	y	n		
+European Starling	Sturnidae	1993	Metabolism And Temperature Regulation		"Brenner, F. J. 1965. Metabolism and survival time of grouped starlings at various temperatures. Wilson Bull. 77:388-395."	y	n		
+European Starling	Sturnidae	1993	Nutrition And Energetics		"Levey, D. J. and W. H. Karasov. 1989. Digestive responses of temperate birds switched to fruit or insect diets. Auk 106:675-686."	y	n		
+European Starling	Sturnidae	1993	Metabolism And Temperature Regulation		"Ricklefs, R. E. and J. B. Williams. 1984. Daily energy expenditure and water-turnover rate of adult European Starlings (Sturnus vulgaris) during the nesting cycle. Auk 101:707-716."	y	n		
+European Starling	Sturnidae	1993	Feeding	Microhabitat For Foraging	"Feare, C. J. 1984. The Starling. Oxford Univ. Press, Oxford."	n		unavailable	
+European Starling	Sturnidae	1993	Diet		"Feare, C. J. 1993. Nectar feeding by European Starlings. Wilson Bull. 105:194."	y	n		
+European Starling	Sturnidae	1993	Food Selection And Storage		"Espaillat, J. E. and J. R. Mason. 1990. Differences in taste preferences between red-winged blackbirds and European starlings. Wilson Bull. 102:292-299."	y	n		
+European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Stevens, J. 1985. Foraging success of adult and juvenile starlings Sturnus vulgaris: a tentative explanation for the preference of juveniles for cherries. Ibis 127:341-347."	y	n		
+European Starling	Sturnidae	1993	Food Selection And Storage		"Clark, L. and J. R. Mason. 1988. Effect of biologically active plants used as nest material and the derived benefit to starling nestlings. Oecologia 77:174-180."	y	n		
+European Starling	Sturnidae	1993	Nutrition And Energetics		"Gromadzki, M. 1979. Food requirement and effect of starling, Sturnus vulgaris L. on agriculture in Zulawy. Acta Ornithol. 16:467-492."	y	n		
+European Starling	Sturnidae	1993	Feeding	Microhabitat For Foraging	"Dunnet, G. M. 1955. The breeding of the starling Sturnus vulgaris in relation to its food supply. Ibis 97:619-662."	y	n		
+European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Beecher, W. J. 1978. Feeding adaptations and evolution in the starlings. Bull. Chic. Acad. Sci. 11:269-298."	n		unavailable	
+European Starling	Sturnidae	1993	Diet		"Lindsey, A. A. 1939. Food of the starling in central New York State. Wilson Bull. 51:176-182."	y	y	maybe	
+European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Inman, A. 1990. Group foraging in starlings: distributions of unequal competitors. Anim. Behav. 40:801-810."	y	n		
+European Starling	Sturnidae	1993	Diet		"Russell, D. N. 1971. Food habits of the starling in eastern Texas. Condor 73:369-372."	y	y	entered	
+European Starling	Sturnidae	1993	Feeding	Main Foods Taken	"Tinbergen, J. M. 1981. Foraging decisions in starlings (Sturnus vulgaris) L. Ardea 69:1-67."	y	y	maybe	
+European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Keys, G. C. and L. A. Dugatkin. 1990. Flock size and position effects on vigilance, aggression, and prey capture in the European starling. Condor 92:151-159."	y	n		
+European Starling	Sturnidae	1993	Feeding	Microhabitat For Foraging	"Williamson, P. and L. Gray. 1975. Foraging behavior of the starling (Sturnus vulgaris) in Maryland. Condor 77:84-89."	y	n		
+European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Suthers, H. B. 1978. Analysis of a resident flock of starlings. Bird-Banding 49:35-46."	y	n		
+European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Caccamise, D. F. 1991. European starling fidelity to diurnal activity centers: role of foraging substrate quality. Wilson Bull. 103:13-24."	y	n		
+European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Fischl, J. and D. F. Caccamise. 1987. Relationships of diet and roosting behavior in the European starling. Amer. Midl. Nat. 117:395-404."	y	n		
+European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Morrison, D. and D. F. Caccamise. 1990. Comparison of roost use by three species of communal roostmates. Condor 92:405-412."	y	n		
 Brown Booby	Sulidae	2002	Feeding	Microhabitat For Foraging	"Bourne, W. R. P. 1955. Birds of the Cape Verde Islands. Ibis 97:508-556."				
 Brown Booby	Sulidae	2002	Feeding	Food Capture And Consumption	"Schreiber, E. A., R. W. Schreiber, and G. A. Schenk. 1996. Red-footed Booby (Sula sula). in The birds of North America, no. 241. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."				
 Brown Booby	Sulidae	2002	Metabolism And Temperature Regulation	Temperature Regulation	"Walsberg, G. E., G. S. Campbell, and J. R. King. 1978. Animal coat and color and radiative heat gain: a re-evaluation. J. Comp. Physiol. 126:211-222."				
