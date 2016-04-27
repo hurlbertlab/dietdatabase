@@ -10715,7 +10715,7 @@ European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Beecher, W. J. 1978.
 European Starling	Sturnidae	1993	Diet		"Lindsey, A. A. 1939. Food of the starling in central New York State. Wilson Bull. 51:176-182."	y	y	maybe	
 European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Inman, A. 1990. Group foraging in starlings: distributions of unequal competitors. Anim. Behav. 40:801-810."	y	n		
 European Starling	Sturnidae	1993	Diet		"Russell, D. N. 1971. Food habits of the starling in eastern Texas. Condor 73:369-372."	y	y	entered	
-European Starling	Sturnidae	1993	Feeding	Main Foods Taken	"Tinbergen, J. M. 1981. Foraging decisions in starlings (Sturnus vulgaris) L. Ardea 69:1-67."	y	y	maybe	
+European Starling	Sturnidae	1993	Feeding	Main Foods Taken	"Tinbergen, J. M. 1981. Foraging decisions in starlings (Sturnus vulgaris) L. Ardea 69:1-67."	y	y	entered	
 European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Keys, G. C. and L. A. Dugatkin. 1990. Flock size and position effects on vigilance, aggression, and prey capture in the European starling. Condor 92:151-159."	y	n		
 European Starling	Sturnidae	1993	Feeding	Microhabitat For Foraging	"Williamson, P. and L. Gray. 1975. Foraging behavior of the starling (Sturnus vulgaris) in Maryland. Condor 77:84-89."	y	n		
 European Starling	Sturnidae	1993	Feeding	Manner Of Feeding	"Suthers, H. B. 1978. Analysis of a resident flock of starlings. Bird-Banding 49:35-46."	y	n		
@@ -10911,14 +10911,14 @@ Red-billed Leiothrix	Timaliidae	1998	Feeding	Main Foods Taken	"Fisher, H. I. and
 Red-billed Leiothrix	Timaliidae	1998	Feeding	Main Foods Taken	"Gibson, L. 1978. The Red-billed Leiothrix: a four-year study. Avic. Mag. 84:4-17."				
 Red-billed Leiothrix	Timaliidae	1998	Feeding	Main Foods Taken	"Ralph, C. J. and B. R. Noon. 1988. Foraging interactions of small Hawaiian forest birds. Acta XIX Congr. Int. Ornithol. 2:1992-2006."				
 Wrentit	Sylviidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Surv. Bull. 30:71-74."	y	y	data has not yet been entered	
-Wrentit	Sylviidae	2002	Feeding	Main Foods Taken	"Erickson, M. M. 1938. Territory, annual cycle, and numbers in a population of wren-tits (Chamaea fasciata). Univ. of California Publ. Zool. 42:247-334."				
-Wrentit	Sylviidae	2002	Feeding	Food Capture And Consumption	"Grinnell, J. 1913. Call notes and mannerisms of the Wrentit. Condor 15:178-181."				
-Wrentit	Sylviidae	2002	Feeding	Food Capture And Consumption	"Clark, Jr., G. A. 1973. Holding food in the feet in passerines. J. Field Ornithol. 44:91-99."				
-Wrentit	Sylviidae	2002	Diet	Major Food Items	"Gander, F. F. 1928. Observations on the feeding habits of some common birds. Condor 30:363."				
-Wrentit	Sylviidae	2002	Diet	Major Food Items	"Dawson, W. L. 1923. The birds of California. Vol. 2. South Moulton Co. San Diego."				
-Wrentit	Sylviidae	2002	Diet	Major Food Items	"Eakin, R. M. 1942. Bathing of young Wrentit by parent. Condor 44:281."				
-Wrentit	Sylviidae	2002	Diet	Quantitative Analysis	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to food habits. McGraw Hill, New York."				
-Wrentit	Sylviidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence in a temperate oak woodland. Auk 97:339-350."				
+Wrentit	Sylviidae	2002	Feeding	Main Foods Taken	"Erickson, M. M. 1938. Territory, annual cycle, and numbers in a population of wren-tits (Chamaea fasciata). Univ. of California Publ. Zool. 42:247-334."	y	n		
+Wrentit	Sylviidae	2002	Feeding	Food Capture And Consumption	"Grinnell, J. 1913. Call notes and mannerisms of the Wrentit. Condor 15:178-181."	y	n		
+Wrentit	Sylviidae	2002	Feeding	Food Capture And Consumption	"Clark, Jr., G. A. 1973. Holding food in the feet in passerines. J. Field Ornithol. 44:91-99."	y	n		
+Wrentit	Sylviidae	2002	Diet	Major Food Items	"Gander, F. F. 1928. Observations on the feeding habits of some common birds. Condor 30:363."	n		unavailable	
+Wrentit	Sylviidae	2002	Diet	Major Food Items	"Dawson, W. L. 1923. The birds of California. Vol. 2. South Moulton Co. San Diego."	n		unavailable	
+Wrentit	Sylviidae	2002	Diet	Major Food Items	"Eakin, R. M. 1942. Bathing of young Wrentit by parent. Condor 44:281."	n		unavailable	
+Wrentit	Sylviidae	2002	Diet	Quantitative Analysis	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to food habits. McGraw Hill, New York."	y	n		
+Wrentit	Sylviidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence in a temperate oak woodland. Auk 97:339-350."	y	n		
 Allen's Hummingbird	Trochilidae	2000	Metabolism And Temperature Regulation		"Carpenter, F. L. and M. A. Hixon. 1988. A new function of torpor: fat conservation in a wild migrant hummingbird. Condor 90:373-378."				
 Allen's Hummingbird	Trochilidae	2000	Nutrition And Energetics		"Brice, A. T., K. H. Dahl, and C. R. Grau. 1989. Pollen digestibility by hummingbirds and psittacines. Condor 91:681-688."				
 Allen's Hummingbird	Trochilidae	2000	Ecological And Evolutionary Role		"Skinner, M. W. 1988. Comparative pollination ecology and floral evolution in Pacific Coast Lilium. Ph.D. thesis. Harvard Univ., Cambridge, MA."				
