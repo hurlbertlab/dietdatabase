@@ -31,9 +31,9 @@ dietSummary = function(diet, refs) {
   spCountByFamily = data.frame(table(species$Family))
   noDataSpecies = subset(allspecies, !common_name %in% species$Common_Name)
   noDataSpCountByFamily = data.frame(table(noDataSpecies$family))
-  spCountByFamily2 = merge(spCountByFamily, noDataSpCountByFamily, by = "Var1", all.x = T)
+  spCountByFamily2 = merge(spCountByFamily, noDataSpCountByFamily, by = "Var1", all = T)
   names(spCountByFamily2) = c('Family', 'SpeciesWithData', 'WithoutData')
-  spCountByFamily2$WithoutData[is.na(spCountByFamily2$WithoutData)] = 0
+  spCountByFamily2$WithoutData[is.na(spCountByFamily2)] = 0
   return(list(numRecords=numRecords,
               numSpecies=numSpecies, 
               numStudies=numStudies, 
