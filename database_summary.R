@@ -33,7 +33,8 @@ dietSummary = function(diet, refs) {
   noDataSpCountByFamily = data.frame(table(noDataSpecies$family))
   spCountByFamily2 = merge(spCountByFamily, noDataSpCountByFamily, by = "Var1", all = T)
   names(spCountByFamily2) = c('Family', 'SpeciesWithData', 'WithoutData')
-  spCountByFamily2$WithoutData[is.na(spCountByFamily2)] = 0
+  spCountByFamily2$WithoutData[is.na(spCountByFamily2$WithoutData)] = 0
+  spCountByFamily2 = spCountByFamily2[spCountByFamily2$Family != "", ]
   return(list(numRecords=numRecords,
               numSpecies=numSpecies, 
               numStudies=numStudies, 
