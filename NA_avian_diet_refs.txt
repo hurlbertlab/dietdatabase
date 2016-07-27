@@ -5083,7 +5083,7 @@ Audubon's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Flood, N. J. 
 Audubon's Oriole	Icteridae	2002	Diet		"Lane, J. A. 1983. A birder's guide to the Rio Grande valley of Texas. 4th ed. (Revised by H. R. Holt). L & P Press, Denver, CO."	n		unavailable	
 Audubon's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Oberholser, H. C. 1974. Birdlife of Texas. Vol. 2. Univ. of Texas Press, Austin."	n		unavailable	
 Audubon's Oriole	Icteridae	2002	Diet		"Fisk, L. H. and D. A. Steen. 1976. Additional exploiters of nectar. Condor 78:269-271."	y	n		
-Baltimore Oriole	Icteridae	1998	Feeding	Main Foods Taken	"Timken, R. L. 1970. Food habits and feeding behavior of the Baltimore Oriole in Costa Rica. Wilson Bull. 82:184-188."	y	y	data not yet entered	
+Baltimore Oriole	Icteridae	1998	Feeding	Main Foods Taken	"Timken, R. L. 1970. Food habits and feeding behavior of the Baltimore Oriole in Costa Rica. Wilson Bull. 82:184-188."	y	y		
 Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Slud, P. 1964. Birds of Costa Rica: distribution and ecology. Bull. Am. Mus. Nat. Hist. 128."	y	n		
 Baltimore Oriole	Icteridae	1998	Feeding	Microhabitat For Foraging	"Edinger, B. B. 1985. Limited hybridization and behavioral differences among sympatric Baltimore and Bullock's orioles. Master's Thesis. Univ. of Minnesota, Minneapolis."	n		unavailable	
 Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and allies. U.S. Natl. Mus. Bull. 211."	n		unavailable	
@@ -5300,33 +5300,33 @@ Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Grinnell, J. an
 Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Fisk, L. H. and D. A. Steen. 1976. Additional exploiters of nectar. Condor 78:269-271."	y	n	Useful qualitative information but no hard data	
 Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Del Rio, C. M. and L. E. Eguiarte. 1987. Bird visitation to Agave salmiana: comparisons among hummingbirds and perching birds. Condor 89:357-363."	y	n		
 Scott's Oriole	Icteridae	2002	Feeding	Microhabitat For Foraging	"Landres, P. B. and J. A. MacMahon. 1980. Guilds and community organization: analysis of an oak woodland avifauna in Sonora, Mexico. Auk 97:351-365."	y	n	has foraging type data but not actual prey	
-Shiny Cowbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Hudson, W. H. 1920. Birds of La Plata. Vol. 1. J. M. Dent & Sons, Ltd., London."	n			
-Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Miller, L. E. 1917. Field notes on Molothrus bonariensis and M. badius. Bull. Am. Mus. 37:579-592."	n			
-Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Post, W. 1992. First Florida specimens of the Shiny Cowbird. Florida Field Nat. 20:17-18."	n			
-Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Sick, H. 1985. Ornitologia Brasileira, uma introdu????????o. Editora Universidade de Brasilia, Brasilia, Brazil."	n			
-Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Friedmann, H. 1929. The cowbirds: A study in the biology of social parasitism. C. Thomas Publ. Springfield, IL."	n			
-Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Camperi, A. R. 1984. Nota sobre la alimentacion del Tordo Renegrido y del Pecho Colorado Chico. Neotropica 30:219-222."	n			
-Shiny Cowbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Mckenzie, P. M. 1990. Habitat use, movements, and behavior of Shiny Cowbirds in southwestern Puerto Rico. Phd Thesis. Louisiana State Univ. Baton Rouge."	n			
-Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Sick, H. 1993. Birds in Brazil: A natural history. Princeton Univ. Press, Princeton, NJ."	n			
+Shiny Cowbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Hudson, W. H. 1920. Birds of La Plata. Vol. 1. J. M. Dent & Sons, Ltd., London."	y	n		
+Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Miller, L. E. 1917. Field notes on Molothrus bonariensis and M. badius. Bull. Am. Mus. 37:579-592."	y	n		
+Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Post, W. 1992. First Florida specimens of the Shiny Cowbird. Florida Field Nat. 20:17-18."	n		unavailable	
+Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Sick, H. 1985. Ornitologia Brasileira, uma introdu????????o. Editora Universidade de Brasilia, Brasilia, Brazil."	n		unavailable	
+Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Friedmann, H. 1929. The cowbirds: A study in the biology of social parasitism. C. Thomas Publ. Springfield, IL."	n		Science Library Annex	
+Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Camperi, A. R. 1984. Nota sobre la alimentacion del Tordo Renegrido y del Pecho Colorado Chico. Neotropica 30:219-222."	n		unavailable	
+Shiny Cowbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Mckenzie, P. M. 1990. Habitat use, movements, and behavior of Shiny Cowbirds in southwestern Puerto Rico. Phd Thesis. Louisiana State Univ. Baton Rouge."	y	n		
+Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Sick, H. 1993. Birds in Brazil: A natural history. Princeton Univ. Press, Princeton, NJ."	n		Science Library Annex	
 Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Crase, F. T. and R. W. DeHaven. 1977. Food of nestling Tricolored Blackbirds. Condor 79:265-269."	y	y	data not yet entered	
-Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Collier, G. 1968. Annual cycle and behavioral relationships in the Red-winged and Tricolored Blackbirds of southern California. Phd Thesis. Univ. of California, Los Angeles."	n			
+Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Collier, G. 1968. Annual cycle and behavioral relationships in the Red-winged and Tricolored Blackbirds of southern California. Phd Thesis. Univ. of California, Los Angeles."	n		unavailable	
 Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Orians, G. H. 1961b. Social stimulation within blackbird colonies. Condor 63:330-337."	y	n		
-Tricolored Blackbird	Icteridae	1999	Feeding	Foraging Distance	"Orians, G. H. 1961a. The ecology of blackbird (Agelaius) social systems. Ecol. Monogr. 31:285-312."	n			
-Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Payne, R. 1969. Breeding seasons and reproductive physiology of Tricolored Blackbirds and Redwinged Blackbirds. Univ. Calif. Publ. Zool. 90:1-137."	n			
-Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-Hill, New York."	n			
+Tricolored Blackbird	Icteridae	1999	Feeding	Foraging Distance	"Orians, G. H. 1961a. The ecology of blackbird (Agelaius) social systems. Ecol. Monogr. 31:285-312."	y	n		
+Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Payne, R. 1969. Breeding seasons and reproductive physiology of Tricolored Blackbirds and Redwinged Blackbirds. Univ. Calif. Publ. Zool. 90:1-137."	n		unavailable	
+Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-Hill, New York."	n		Library Service Center	
 Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Skorupa, J. P., R. L. Hothem, and R. W. DeHaven. 1980. Foods of breeding Tricolored Blackbirds in agricultural areas of Merced County, California. Condor 82:465-467."	y	y	data not yet entered	
-Tricolored Blackbird	Icteridae	1999	Diet	Breeding Season	"Tyler, J. G. 1907. A colony of Tri-colored Blackbirds. Condor 9:177-178."	n			
-Tricolored Blackbird	Icteridae	1999	Feeding	Foraging Distance	"Cook, L. 1996. Nesting adaptations of Tricolored Blackbirds (Agelaius tricolor). Master's Thesis. Univ. of California, Davis."	n			
-Tricolored Blackbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."	n			
+Tricolored Blackbird	Icteridae	1999	Diet	Breeding Season	"Tyler, J. G. 1907. A colony of Tri-colored Blackbirds. Condor 9:177-178."	y	n		
+Tricolored Blackbird	Icteridae	1999	Feeding	Foraging Distance	"Cook, L. 1996. Nesting adaptations of Tricolored Blackbirds (Agelaius tricolor). Master's Thesis. Univ. of California, Davis."	n		unavailable	
+Tricolored Blackbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."	n		Library Service Center	
 Tricolored Blackbird	Icteridae	1999	Diet	Breeding Season	"Mailliard, J. 1914. Notes on a colony of Tri-colored Redwings. Condor 16:204-207."	y	n		
-Tricolored Blackbird	Icteridae	1999	Diet	Nonbreeding Season	"Crase, F. T. and R. W. DeHaven. 1978. Food selection by five sympatric California blackbird species. Calif. Fish Game 64:255-267."	n			
+Tricolored Blackbird	Icteridae	1999	Diet	Nonbreeding Season	"Crase, F. T. and R. W. DeHaven. 1978. Food selection by five sympatric California blackbird species. Calif. Fish Game 64:255-267."	n		unavailable	
 Tricolored Blackbird	Icteridae	1999	Metabolism And Temperature Regulation		"Neff, J. A. 1937. Nesting distribution of the Tri-colored Red-wing. Condor 39:61-81."	y	n		
 Western Meadowlark	Icteridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered	
-Yellow-headed Blackbird	Icteridae	1995	Feeding	Microhabitat For Foraging	"Orians, G. H. 1980. Some adaptations of marsh nesting blackbirds. Princeton Univ. Press, Princeton, NJ."				
-Yellow-headed Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."				
-Yellow-headed Blackbird	Icteridae	1995	Diet	Major Food Items	"Twedt, D. J., W. J. Bleier, and G. M. Linz. 1991. Geographic and temporal variation in the diet of Yellow-headed Blackbirds. Condor 93:975-986."				
-Yellow-headed Blackbird	Icteridae	1995	Diet	Quantitative Analysis	"Knowlton, G. F. and P. E. Telford. 1947. Some insect food of the Yellow-headed Blackbird. Auk 64:459."				
-Yellow-headed Blackbird	Icteridae	1995	"Drinking, Pellet-Casting, And Defecation"		"Twedt, D. J. 1984. Pellet casting by Common Grackles. Wilson Bull. 96:470-471."				
+Yellow-headed Blackbird	Icteridae	1995	Feeding	Microhabitat For Foraging	"Orians, G. H. 1980. Some adaptations of marsh nesting blackbirds. Princeton Univ. Press, Princeton, NJ."	y	n		
+Yellow-headed Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."	n		Library Service Center	
+Yellow-headed Blackbird	Icteridae	1995	Diet	Major Food Items	"Twedt, D. J., W. J. Bleier, and G. M. Linz. 1991. Geographic and temporal variation in the diet of Yellow-headed Blackbirds. Condor 93:975-986."	y	n	"discusses different diet categories, but collection method may not be useful for data"	
+Yellow-headed Blackbird	Icteridae	1995	Diet	Quantitative Analysis	"Knowlton, G. F. and P. E. Telford. 1947. Some insect food of the Yellow-headed Blackbird. Auk 64:459."	y	y	data not yet entered	
+Yellow-headed Blackbird	Icteridae	1995	"Drinking, Pellet-Casting, And Defecation"		"Twedt, D. J. 1984. Pellet casting by Common Grackles. Wilson Bull. 96:470-471."	y	n		
 Northern Jacana	Jacanidae	1999	Diet		"Osborne, D. R. and G. R. Bourne. 1977. Breeding behavior and food habits of the Wattled Jacana. Condor 79:98-115."				
 Northern Jacana	Jacanidae	1999	Diet		"Stephens, M. L. 1984d. Maternal care and polyandry in the Northern Jacana (Jacana spinosa). Phd Thesis. Univ. of Chicago, Chicago, IL."				
 Loggerhead Shrike	Laniidae	1996	Feeding	Microhabitat For Foraging	"Gawlik, D. E. and K. L. Bildstein. 1993. Seasonal habitat use and abundance of Loggerhead Shrikes in South Carolina. J. Wildl. Manage. 57:352-357."				
