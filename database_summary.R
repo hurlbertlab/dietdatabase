@@ -42,4 +42,28 @@ dietSummary = function(diet, refs) {
               speciesPerFamily = spCountByFamily2))
 }
 
+speciesSummary = function(commonName, diet) {
+  if (!commonName %in% diet$Common_Name) {
+    print("No species with that name in the diet database.")
+    return(NULL)
+  }
+  
+  dietsp = subset(diet, Common_Name == commonName)
+  numStudies = length(unique(dietsp$Source))
+  numRecords = nrow(dietsp)
+  recordsPerYear = data.frame(table(dietsp$Observation_Year_Begin))
+  recordsPerRegion = data.frame(table(dietsp$Location_Region))
+  recordsPerType = data.frame(ByWtVol = sum(dietsp$Fraction_Diet_By_Wt_or_Vol > 0, na.rm = T),
+                        ByNumItems = sum(dietsp$Fraction_Diet_By_Items > 0, na.rm = T),
+                        ByOccurrence = sum(dietsp$Fraction_Occurrence > 0, na.rm = T),
+                        Unspecified = sum(dietsp$Fraction_Diet_Unspecified > 0, na.rm = T))
+  #preyOrders = 
+  
+  return(list(numStudies = numStudies,
+              numRecords = numRecords,
+              recordsPerYear = recordsPerYear,
+              recordsPerRegion = recordsPerRegion,
+              recordsPerType = recordsPerType))
+}
+
 dietSummary(diet, refs)
