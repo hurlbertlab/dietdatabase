@@ -6,8 +6,8 @@ entry. Taxonomic names are automatically checked against the main online
 taxonomic name databases through our partner Global Biotic Interactions.
 
 1) To see a list of names that currently do not match up with existing databases,
-go to http://globalbioticinteractions.org/references.html and click on the
-unmatchedTaxa.csv file in the upper right.
+go to http://globalbioticinteractions.org/references.html and download the list 
+of unmatched taxa taxonUnmatched.tsv.
 
 2) This file has unmatched taxonomic names from a large variety of sources, but 
 if you open this file in Excel, you can sort by the 'source' column and focus
@@ -28,7 +28,7 @@ species called "Megilla maculata". This species is listed under Coleoptera.
 6) Now paste this name into the [Global Names Resolver](http://resolver.globalnames.org/).
 If we are lucky, it will link to the currently accepted taxonomic name for that entity.
 If so, make sure the higher classification matches up with whatever info you gleaned
-from the original source. The unmatchedTaxa.csv file may actually provide some
+from the original source. The taxonUnmatched.tsv file may actually provide some
 possible suggestions to check under the "similar to taxon path" column.
 
 7) If the name you pasted in does not generate any results in the Global Names Resolver,
@@ -46,10 +46,10 @@ Then hit "Replace All".
 9) Now we want to record the fact that we've changed the taxonomic name from what
 was originally reported in the study. Do this in the name_changes.txt where you'll
 record the old and new names in the 'source taxon name' and 'name changed to' fields,
-respectively. If the new name appears as a suggestion in the unmatchedTaxa.csv file
+respectively. If the new name appears as a suggestion in the taxonUnmatched.tsv file
 and has a taxon id, then record this as well. The taxon id reflects a database source
 and a id number, e.g. "ITIS:193675". Finally, paste in the citation for the original
-study from the 'study' field of the unmatchedTaxa.csv file.
+study from the 'study' field of the taxonUnmatched.tsv file.
 
 10) TYPOS! Typos are just as likely as changes in taxonomy to lead to bad names. 
 If the name was typed incorrectly when data were entered, then the name you search
