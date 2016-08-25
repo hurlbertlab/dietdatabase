@@ -4,6 +4,8 @@ Avian Diet Database - Priorities for Data Entry
 The following Orders are being targeted for our initial data publication. Please focus on 
 finishing up everything within Passeriformes before working on other Orders.
 
+Note that Families for which I know that data remain to be entered are highlighted with parenthetical notes. However, it should probably be confirmed that no References remain to be checked for the other Families.
+
 ### Accipitriformes  
 --Accipitridae (still more species to enter)  
 --Cathartidae (3 species to enter)  
