@@ -75,14 +75,25 @@ speciesSummary = function(commonName, diet, by = 'Order') {
                         ByOccurrence = sum(dietsp$Fraction_Occurrence > 0, na.rm = T),
                         Unspecified = sum(dietsp$Fraction_Diet_Unspecified > 0, na.rm = T))
   
+  # Still need to make sure aggregation of lower level data is occurring properly,
+  # and decide how to treat "" at the specified taxonomic level for summary.
+  # Aggregates by summing within study ('Source'), but in some cases a study
+  # has different subsets of data (e.g. different methods: fecal vs stomach)
+  # each of which will sum to 100%. Need to add a dietAnalysisID to distinguish
+  # separate analyses both within and between studies?
+  
   taxonLevel = paste('Prey_', by, sep = '')
   preySummary = dietsp %>%
-    select(matches(taxonLevel), Fraction_Diet_By_Wt_or_Vol:Fraction_Diet_Unspecified) %>%
+    group_by_(taxonLevel, "Source") %>%
+    summarize(By_Wt_Or_Vol = sum(Fraction_Diet_By_Wt_or_Vol, na.rm = T),
+              By_Items = sum(Fraction_Diet_By_Items, na.rm = T),
+              Occurrence = sum(Fraction_Occurrence, na.rm = T),
+              Unspecified = sum(Fraction_Diet_Unspecified, na.rm = T)) %>%
     group_by_(taxonLevel) %>%
-    summarize(By_Wt_Or_Vol = mean(Fraction_Diet_By_Wt_or_Vol, na.rm = T),
-              By_Items = mean(Fraction_Diet_By_Items, na.rm = T),
-              Occurrence = mean(Fraction_Occurrence, na.rm = T),
-              Unspecified = mean(Fraction_Diet_Unspecified, na.rm = T))
+    summarize(By_Wt_Or_Vol = mean(By_Wt_Or_Vol, na.rm = T),
+              By_Items = mean(By_Items, na.rm = T),
+              Occurrence = mean(Occurrence, na.rm = T),
+              Unspecified = mean(Unspecified, na.rm = T))
   
   return(list(numStudies = numStudies,
               numRecords = numRecords,
