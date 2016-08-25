@@ -56,7 +56,10 @@ dietSummary = function(diet, refs) {
               speciesPerFamily = spCountByFamily3))
 }
 
-speciesSummary = function(commonName, diet) {
+
+# Argument "by" may specify 'Kingdom', 'Phylum', 'Class', 'Order', 'Family',
+#   'Genus', or 'Scientific_Name' ('Species' will not work)
+speciesSummary = function(commonName, diet, by = 'Order') {
   if (!commonName %in% diet$Common_Name) {
     print("No species with that name in the diet database.")
     return(NULL)
@@ -71,13 +74,22 @@ speciesSummary = function(commonName, diet) {
                         ByNumItems = sum(dietsp$Fraction_Diet_By_Items > 0, na.rm = T),
                         ByOccurrence = sum(dietsp$Fraction_Occurrence > 0, na.rm = T),
                         Unspecified = sum(dietsp$Fraction_Diet_Unspecified > 0, na.rm = T))
-  #preyOrders = 
+  
+  taxonLevel = paste('Prey_', by, sep = '')
+  preySummary = dietsp %>%
+    select(matches(taxonLevel), Fraction_Diet_By_Wt_or_Vol:Fraction_Diet_Unspecified) %>%
+    group_by_(taxonLevel) %>%
+    summarize(By_Wt_Or_Vol = mean(Fraction_Diet_By_Wt_or_Vol, na.rm = T),
+              By_Items = mean(Fraction_Diet_By_Items, na.rm = T),
+              Occurrence = mean(Fraction_Occurrence, na.rm = T),
+              Unspecified = mean(Fraction_Diet_Unspecified, na.rm = T))
   
   return(list(numStudies = numStudies,
               numRecords = numRecords,
               recordsPerYear = recordsPerYear,
               recordsPerRegion = recordsPerRegion,
-              recordsPerType = recordsPerType))
+              recordsPerType = recordsPerType,
+              preySummary = preySummary))
 }
 
 dietSummary(diet, refs)
