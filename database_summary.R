@@ -82,18 +82,25 @@ speciesSummary = function(commonName, diet, by = 'Order') {
   # each of which will sum to 100%. Need to add a dietAnalysisID to distinguish
   # separate analyses both within and between studies?
   
+  # Prey_Stage should only matter for distinguishing things at the Order level and 
+  # below (e.g. distinguishing between Lepidoptera larvae and adults).
   taxonLevel = paste('Prey_', by, sep = '')
-  preySummary = dietsp %>%
-    group_by_(taxonLevel, "Source") %>%
+  if (by %in% c('Order', 'Family', 'Genus', 'Scientific_Name')) {
+    dietsp$Taxon = paste(dietsp[, taxonLevel], dietsp$Prey_Stage, sep = "")
+  } else {
+    dietsp$Taxon = dietsp[, taxonLevel]
+  }
+  preySummary = dietsp %>% 
+    group_by(Taxon, Source) %>%
     summarize(By_Wt_Or_Vol = sum(Fraction_Diet_By_Wt_or_Vol, na.rm = T),
               By_Items = sum(Fraction_Diet_By_Items, na.rm = T),
               Occurrence = sum(Fraction_Occurrence, na.rm = T),
               Unspecified = sum(Fraction_Diet_Unspecified, na.rm = T)) %>%
-    group_by_(taxonLevel) %>%
-    summarize(By_Wt_Or_Vol = mean(By_Wt_Or_Vol, na.rm = T),
-              By_Items = mean(By_Items, na.rm = T),
-              Occurrence = mean(Occurrence, na.rm = T),
-              Unspecified = mean(Unspecified, na.rm = T))
+    group_by(Taxon) %>%
+    summarize(By_Wt_Or_Vol = sum(By_Wt_Or_Vol, na.rm = T)/length(unique(dietsp$Source)),
+              By_Items = sum(By_Items, na.rm = T)/length(unique(dietsp$Source)),
+              Occurrence = sum(Occurrence, na.rm = T)/length(unique(dietsp$Source)),
+              Unspecified = sum(Unspecified, na.rm = T)/length(unique(dietsp$Source)))
   
   return(list(numStudies = numStudies,
               numRecords = numRecords,
