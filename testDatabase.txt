@@ -1,7 +1,8 @@
 Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Unidentified	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet_By_Wt_or_Vol	Fraction_Diet_By_Items	Fraction_Occurrence	Fraction_Diet_Unspecified	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
 Test Species1	NA	NA	TestFam	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2000	NA	2000	NA	Animalia	Arthropoda	Insecta	Coleoptera										0.3										1
-Test Species1	NA	NA	TestFam	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2000	NA	2000	NA	Animalia	Arthropoda	Insecta	Lepidoptera							larvae			0.5										1
+Test Species1	NA	NA	TestFam	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2000	NA	2000	NA	Animalia	Arthropoda	Insecta	Lepidoptera							larvae			0.4										1
 Test Species1	NA	NA	TestFam	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2000	NA	2000	NA	Animalia	Arthropoda	Insecta	Diptera										0.2										1
+Test Species1	NA	NA	TestFam	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2000	NA	2000	NA	Animalia	Arthropoda	Arachnida	Araneae										0.1										1
 Test Species1	NA	NA	TestFam	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2000	NA	2000	NA	Animalia	Arthropoda	Insecta	Coleoptera										0.1										2
 Test Species1	NA	NA	TestFam	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2000	NA	2000	NA	Animalia	Arthropoda	Insecta	Lepidoptera							adult			0.3										2
 Test Species1	NA	NA	TestFam	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2000	NA	2000	NA	Animalia	Arthropoda	Insecta	Lepidoptera							larvae			0.6										2
