@@ -8725,10 +8725,10 @@ Yellow-chevroned Parakeet	Psittacidae	1999	Diet	Major Food Items	"Garrett, K. L.
 Yellow-chevroned Parakeet	Psittacidae	1999	Diet	Major Food Items	"Garrett, K. L., K. T. Mabb, and C. T. Collins. 1997. Food items of naturalized parrots in southern California. West. Birds 28:196-201."				
 Yellow-chevroned Parakeet	Psittacidae	1999	Diet	Major Food Items	"Smith, P. W. and S. A. Smith. 1993. An exotic dilemma for birders: the Canary-winged Parakeet. Birding 25:426-430."				
 Yellow-chevroned Parakeet	Psittacidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Welty, J. C. 1982. The life of birds. Saunders College Publ. New York."				
-Phainopepla	Ptilogonatidae	1999	Feeding	"Manner Of Finding, Taking, And Consuming Food"	"Walsberg, G. E. and C. W. Thompson. 1990. Annual changes in stomach size and function in a frugivorous bird. Condor 92:794-796."				
-Phainopepla	Ptilogonatidae	1999	Diet	Major Food Items	"Larson, D. L. 1996. Seed dispersal by specialist versus generalist foragers: The plant's perspective. Oikos 76:113-120."				
-Phainopepla	Ptilogonatidae	1999	Diet	Quantitative Analysis	"Anderson, B. W. and R. D. Ohmart. 1978. Phainopepla utilization of honey mesquite forests in the Colorado River Valley. Condor 80:334-338."				
-Phainopepla	Ptilogonatidae	1999	Feeding	"Manner Of Finding, Taking, And Consuming Food"	"Walsberg, G. E. 1978. Brood size and the use of time and energy by the phainopepla. Ecology 59:147-153."				
+Phainopepla	Ptilogonatidae	1999	Feeding	"Manner Of Finding, Taking, And Consuming Food"	"Walsberg, G. E. and C. W. Thompson. 1990. Annual changes in stomach size and function in a frugivorous bird. Condor 92:794-796."	y	n		
+Phainopepla	Ptilogonatidae	1999	Diet	Major Food Items	"Larson, D. L. 1996. Seed dispersal by specialist versus generalist foragers: The plant's perspective. Oikos 76:113-120."	y	n		
+Phainopepla	Ptilogonatidae	1999	Diet	Quantitative Analysis	"Anderson, B. W. and R. D. Ohmart. 1978. Phainopepla utilization of honey mesquite forests in the Colorado River Valley. Condor 80:334-338."	y	n		
+Phainopepla	Ptilogonatidae	1999	Feeding	"Manner Of Finding, Taking, And Consuming Food"	"Walsberg, G. E. 1978. Brood size and the use of time and energy by the phainopepla. Ecology 59:147-153."	y	n		
 Phainopepla	Ptilogonatidae	1999	Feeding	"Manner Of Finding, Taking, And Consuming Food"	"Walsberg, G. E. 1977. Ecology and energetics of contrasting social systems in the phainopepla (Aves: Ptilogonatidae). Univ. Calif. Publ. Zool. 108:1-63."				
 Phainopepla	Ptilogonatidae	1999	Metabolism And Temperature Regulation		"Weathers, W. W. and K. A. Nagy. 1980. Simultaneous doubly labelled water (3HHO18) and time budget estimates of daily energy expenditure in Phainopepla nitens. Auk 97:861-867."				
 Phainopepla	Ptilogonatidae	1999	Metabolism And Temperature Regulation		"Walsberg, G. E. 1982. Coat color, solar heat gain, and visual conspicuousness in the phainopepla. Auk 99:495-502."				
