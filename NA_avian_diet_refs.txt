@@ -5341,7 +5341,7 @@ Loggerhead Shrike	Laniidae	1996	Feeding	Microhabitat For Foraging	"Mills, G. S. 
 Loggerhead Shrike	Laniidae	1996	Feeding	Food Capture And Consumption	"Yosef, R. 1993a. Prey transport by Loggerhead Shrikes. Condor 95:231-233."	y	n		
 Loggerhead Shrike	Laniidae	1996	Feeding	Main Foods Taken	"Anderson, R. M. 1976. Shrikes feed on prey remains left by hawks. Condor 78:269."	y	n		
 Loggerhead Shrike	Laniidae	1996	Feeding	Food Capture And Consumption	"Yosef, R. 1992a. Loggerhead Shrikes eat crayfish. Fla. Field Nat. 20:75-76."	y	n		
-Loggerhead Shrike	Laniidae	1996	Feeding	Microhabitat For Foraging	"Yosef, R. and T. C. Grubb. 1993. Effect of vegetation height on hunting behavoir and diet of Loggerhead Shrikes. Condor 95:127-131."	y		data will be entered	
+Loggerhead Shrike	Laniidae	1996	Feeding	Microhabitat For Foraging	"Yosef, R. and T. C. Grubb. 1993. Effect of vegetation height on hunting behavoir and diet of Loggerhead Shrikes. Condor 95:127-131."	y		entered	
 Loggerhead Shrike	Laniidae	1996	Diet	Major Food Items And Quantitative Analysis	"Burton, K. M. 1990. An investigation of population status and breeding biology of the Loggerhead Shrike (Lanius ludovicianus) in Indiana. Master's thesis. Indiana Univ. Bloomington."	n		unavailable	
 Loggerhead Shrike	Laniidae	1996	Food Selection And Storage		"Yosef, R. and D. W. Whitman. 1992. Predator exaptations and defensive adaptations in evolutionary balance: no defense is perfect. Evol. Ecol. 6:527-536."	y	n		
 Loggerhead Shrike	Laniidae	1996	Feeding	Food Capture And Consumption	"Morrison, M. L. 1980. Seasonal aspects of the predatory behavior of Loggerhead Shrikes. Condor 82:296-300."	y	n		
@@ -5364,30 +5364,30 @@ Loggerhead Shrike	Laniidae	1996	Diet	Major Food Items And Quantitative Analysis	
 Loggerhead Shrike	Laniidae	1996	Food Selection And Storage		"Wemmer, C. 1969. Impaling behaviour of the Loggerhead Shrike, Lanius ludovicianus. Z. Tierpsychol. 26:208-224."	y	n		
 Loggerhead Shrike	Laniidae	1996	Food Selection And Storage		"Smith, S. M. 1972. The ontogeny of impaling behavior in the Loggerhead Shrike, Lanius ludovicianus L. Behaviour 42:232-247."	y	n		
 Loggerhead Shrike	Laniidae	1996	Nutrition And Energetics		"Cunningham, K. G. 1979. Bioenergetics of the Loggerhead Shrike: relation between lifestyle and metabolism. Master's thesis. Univ. of California, Irvine."	y	n		
-Loggerhead Shrike	Laniidae	1996	Diet	Major Food Items And Quantitative Analysis	"Kridelbaugh, A. L. 1982. An ecological study of Loggerhead Shrikes in central Missouri. Master's thesis. Univ. of Missouri, Columbia."				
-Loggerhead Shrike	Laniidae	1996	Food Selection And Storage		"Yosef, R., J. E. Carrel, and T. Eisner. 1996. Contrasting reactions of Loggerhead Shrike to two types of chmically defended insect prey. J. Chem. Ecol. 22:173-181."				
-Loggerhead Shrike	Laniidae	1996	Food Selection And Storage		"Miller, A. H. 1937. Acomparison of behavior of certain North American and European shrikes. Condor 39:119-122."				
-Loggerhead Shrike	Laniidae	1910	Diet 	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	"data has not yet been entered; article has common name as \California Shrike\"""""	
-Northern Shrike	Laniidae	2002	Food Consumption		"Olsson, V. 1985. Varf????gelns Lanius excubitor vintervanor Del IV. Behandling av bytet. V????r F????gelv????rld 44:269-283."				
-Northern Shrike	Laniidae	2002	Feeding	Microhabitat For Foraging	"Campbell, R. W., N. K. Dawe, I. McTaggart-Cowan, J. M. Cooper, and G. W. Kaiser. 1997. The birds of British Columbia, Vol. 3: passerines-flycatchers through vireos. R. Br. Columbia Mus. Victoria."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Raikow, R. J., P. J. Polumbo, and S. R. Borecky. 1980. Appendicular myology and relationships of the shrikes. Ann. Carnegie Mus. 49:131-152."				
-Northern Shrike	Laniidae	2002	Food Consumption		"Weathers, W. W., W. A. Buttemer, A. M. Hayworth, and K. A. Nagy. 1984. An evaluation of time-budget estimates of daily energy expenditure in birds. Auk 101:459-472."				
-Northern Shrike	Laniidae	2002	Food Selection And Storage		"Norment, C. J. 1992. Comparative breeding biology of Harris' Sparrows and Gambel's White-crowned Sparrows in the Northwest Territories, Canada. Condor 94:955-975."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Cramp, S. and C. M. Perrins. 1993. The birds of the Western Palearctic, Vol. 7: flycatchers to shrikes. Oxford Univ. Press, Oxford, U.K."				
-Northern Shrike	Laniidae	2002	Feeding	Main Foods Taken	"Yosef, R. 1996. Loggerhead Shrike (Lanius ludovicianus). in The birds of North America, no. 231. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."				
-Northern Shrike	Laniidae	2002	Feeding	Microhabitat For Foraging	"Atkinson, E. C. and T. J. Cade. 1993. Winter foraging and diet of Northern Shrikes in Idaho. Condor 95:528-535."				
-Northern Shrike	Laniidae	2002	Diet	Quantitative Analysis	"Cade, T. J. and T. Swem. 1995. Ecology of Northern Shrikes nesting in arctic Alaska. Proc. West. Found. Vertebr. Zool. 6(1):204-214."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Jordheim, S. O. 1975. Shrike captures blackbird. Blue Jay 33:180."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Aubry, Y. and P. Bannon. 1996. Quebec region. Field Notes 50:144-146."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Taber, R. D. 1946. The winter birds of Adak, Alaska. Condor 48:272-277."				
-Northern Shrike	Laniidae	2002	Food Consumption		"Montagna, W. 1939. Feeding behavior of a Northern Shrike. Auk 56:456-459."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Mcnicholl, M. K. 1972. The use of hovering as a search method by the Northern Shrike. Blue Jay 30:96-97."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Cade, T. J. 1962. Wing movements, hunting, and displays of the Northern Shrike. Wilson Bull. 74:386-408."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Cameron, E. S. 1908. The birds of Custer and Cameron counties, Montana. Auk 25:39-56."				
-Northern Shrike	Laniidae	2002	Diet	Quantitative Analysis	"Murie, A. 1946. Observations on the birds of Mount McKinley National Park, Alaska. Condor 48:253-261."				
-Northern Shrike	Laniidae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1950. Life histories of North American wagtails, shrikes, vireos, and their allies. U.S. Natl. Mus. Bull. 197."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Munro, J. A. 1930. Miscellaneous notes on some British Columbia birds. Condor 31:75-76."				
-Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"White, C. M. 1963. Unusual behavior of a Northern Shrike. Wilson Bull. 75:459-460."				
+Loggerhead Shrike	Laniidae	1996	Diet	Major Food Items And Quantitative Analysis	"Kridelbaugh, A. L. 1982. An ecological study of Loggerhead Shrikes in central Missouri. Master's thesis. Univ. of Missouri, Columbia."	n		unavailable	
+Loggerhead Shrike	Laniidae	1996	Food Selection And Storage		"Yosef, R., J. E. Carrel, and T. Eisner. 1996. Contrasting reactions of Loggerhead Shrike to two types of chmically defended insect prey. J. Chem. Ecol. 22:173-181."	y	n		
+Loggerhead Shrike	Laniidae	1996	Food Selection And Storage		"Miller, A. H. 1937. Acomparison of behavior of certain North American and European shrikes. Condor 39:119-122."	y	n		
+Loggerhead Shrike	Laniidae	1910	Diet 	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	beal papers already entered	
+Northern Shrike	Laniidae	2002	Food Consumption		"Olsson, V. 1985. Varf????gelns Lanius excubitor vintervanor Del IV. Behandling av bytet. V????r F????gelv????rld 44:269-283."	n			
+Northern Shrike	Laniidae	2002	Feeding	Microhabitat For Foraging	"Campbell, R. W., N. K. Dawe, I. McTaggart-Cowan, J. M. Cooper, and G. W. Kaiser. 1997. The birds of British Columbia, Vol. 3: passerines-flycatchers through vireos. R. Br. Columbia Mus. Victoria."	y	n		
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Raikow, R. J., P. J. Polumbo, and S. R. Borecky. 1980. Appendicular myology and relationships of the shrikes. Ann. Carnegie Mus. 49:131-152."	n		unavailable	
+Northern Shrike	Laniidae	2002	Food Consumption		"Weathers, W. W., W. A. Buttemer, A. M. Hayworth, and K. A. Nagy. 1984. An evaluation of time-budget estimates of daily energy expenditure in birds. Auk 101:459-472."	y	n		
+Northern Shrike	Laniidae	2002	Food Selection And Storage		"Norment, C. J. 1992. Comparative breeding biology of Harris' Sparrows and Gambel's White-crowned Sparrows in the Northwest Territories, Canada. Condor 94:955-975."	y	n		
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Cramp, S. and C. M. Perrins. 1993. The birds of the Western Palearctic, Vol. 7: flycatchers to shrikes. Oxford Univ. Press, Oxford, U.K."	n		unavailable	
+Northern Shrike	Laniidae	2002	Feeding	Main Foods Taken	"Yosef, R. 1996. Loggerhead Shrike (Lanius ludovicianus). in The birds of North America, no. 231. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."	y	n		
+Northern Shrike	Laniidae	2002	Feeding	Microhabitat For Foraging	"Atkinson, E. C. and T. J. Cade. 1993. Winter foraging and diet of Northern Shrikes in Idaho. Condor 95:528-535."	y	y	entered	
+Northern Shrike	Laniidae	2002	Diet	Quantitative Analysis	"Cade, T. J. and T. Swem. 1995. Ecology of Northern Shrikes nesting in arctic Alaska. Proc. West. Found. Vertebr. Zool. 6(1):204-214."	n		unavailable	
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Jordheim, S. O. 1975. Shrike captures blackbird. Blue Jay 33:180."	y	n		
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Aubry, Y. and P. Bannon. 1996. Quebec region. Field Notes 50:144-146."	n		unavailable	
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Taber, R. D. 1946. The winter birds of Adak, Alaska. Condor 48:272-277."	y	n		
+Northern Shrike	Laniidae	2002	Food Consumption		"Montagna, W. 1939. Feeding behavior of a Northern Shrike. Auk 56:456-459."	y	n		
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Mcnicholl, M. K. 1972. The use of hovering as a search method by the Northern Shrike. Blue Jay 30:96-97."	y	n		
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Cade, T. J. 1962. Wing movements, hunting, and displays of the Northern Shrike. Wilson Bull. 74:386-408."	y	n		
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Cameron, E. S. 1908. The birds of Custer and Dawson counties, Montana. Auk 25:39-56."	y	n		
+Northern Shrike	Laniidae	2002	Diet	Quantitative Analysis	"Murie, A. 1946. Observations on the birds of Mount McKinley National Park, Alaska. Condor 48:253-261."	y	n		
+Northern Shrike	Laniidae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1950. Life histories of North American wagtails, shrikes, vireos, and their allies. U.S. Natl. Mus. Bull. 197."	y	n		
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Munro, J. A. 1930. Miscellaneous notes on some British Columbia birds. Condor 31:75-76."	n		unavailable	
+Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"White, C. M. 1963. Unusual behavior of a Northern Shrike. Wilson Bull. 75:459-460."	y	n		
 Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Morlan, R. E. 1972. Predation at a northern Yukon Bank Swallow colony. Can. Field-Nat. 86:376."				
 Northern Shrike	Laniidae	2002	Feeding	Food Capture And Consumption	"Cade, T. J. 1967. Ecological and behavioral aspects of predation by the Northern Shrike. Living Bird 6:43-86."				
 Northern Shrike	Laniidae	2002	Food Selection And Storage		"Yosef, R. and B. Pinshow. 1995. Parallel versus serial breeding strategies in the Great Grey Shrike at Sede Boqer, Israel. Proc. West. Found. Vertebr. Zool. 6:251-253."				
