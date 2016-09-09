@@ -5116,7 +5116,7 @@ Red-winged Blackbird	Icteridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. 
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Nicholson, D. J. 1960. Attack of four male Boat-tailed Grackles upon a Greater Yellowlegs. Fla. Nat. 33:227."	n		unavailable
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."	y	n	
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Mcilhenny, E. A. 1937. Life history of the Boat-tailed Grackle in Louisiana. Auk 54:274-295."	y	n	Some qualitative diet information that could be useful for reference
-Boat-tailed Grackle	Icteridae	1996	Diet	Major Food Items; Quantitative Analysis	"Haag, K. R., J. C. Joyce, W. M. Hetrick, and J. C. Jordan. 1987. Predation on waterhyacinth weevils and other aquatic insects by three wetland birds in Florida. Fla. Entomologist 70:457-471."	y	y	will enter 
+Boat-tailed Grackle	Icteridae	1996	Diet	Major Food Items; Quantitative Analysis	"Haag, K. R., J. C. Joyce, W. M. Hetrick, and J. C. Jordan. 1987. Predation on waterhyacinth weevils and other aquatic insects by three wetland birds in Florida. Fla. Entomologist 70:457-471."	y	y	entered
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Kalmbach, E. R. 1937. Blackbirds of the Gulf coast in relation to the rice crop with notes on their food habits and life history. U.S. Bureau Sport Fish. Wildl., Denver Wildl. Res. Center, Denver, CO."	n		unavailable
 Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Sykes, Jr., P. W. 1987a. The feeding habits of the Snail Kite in Florida, USA. Colon. Waterbirds 10:84-92."	y	n	
 Boat-tailed Grackle	Icteridae	1996	Food Selection And Storage		"Coues, E. 1870. The natural history of Quiscalus major. Ibis 6(new series):367-378."	y	n	
@@ -5133,8 +5133,8 @@ Boat-tailed Grackle	Icteridae	1996	Feeding	Food Capture And Consumption	"Beissin
 Bobolink	Icteridae	1995	Nutrition And Energetics		"Gifford, C. E. and E. P. Odum. 1965. Bioenergetics of lipid deposition in the Bobolink, a trans-equatorial migrant. Condor 67:383-403."	y	n	
 Bobolink	Icteridae	1995	Diet	Major Food Items And Quantitative Analysis	"Odum, E. P., C. E. Connell, and H. L. Stoddard. 1961. Flight energy and estimated flight ranges of some migratory birds. Auk 78:515-527."	y	n	
 Bobolink	Icteridae	1995	Feeding	Food Capture And Consumption	"Mcatee, W. L. 1919. Observations on the shifting range, migration, and economic value of the Bobolink. Auk 36:430-431."	y	n	
-Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Meanley, B. and J. A. Neff. 1953. Food habits of the Bobolink in Arkansas rice fields. Auk 70:211-212."	y	y	data not yet entered
-Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Wiens, J. A. 1969. An approach to the study of ecological relationships among grassland birds. Ornithol. Monogr. 8:1-93."	y	y	data not yet entered
+Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Meanley, B. and J. A. Neff. 1953. Food habits of the Bobolink in Arkansas rice fields. Auk 70:211-212."	y	y	entered
+Bobolink	Icteridae	1995	Feeding	Microhabitat For Foraging	"Wiens, J. A. 1969. An approach to the study of ecological relationships among grassland birds. Ornithol. Monogr. 8:1-93."	y	y	entered
 Brewer's Blackbird	Icteridae	2002	Diet	Quantitative Analysis	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric. Biol. Surv. Bull. 34:1-96."	y	y	beal papers already entered
 Brewer's Blackbird	Icteridae	2002	Feeding	Microhabitat For Foraging	"Schorger, A. W. 1934. Notes on the distribution of some Wisconsin birds II. Brewer's Blackbird (Euphagus carolinus). Auk 51:482-487."	y	n	
 Brewer's Blackbird	Icteridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Balph, M. H. 1975. Development of young Brewer's Blackbirds. Wilson Bull. 87:207-230."	y	n	
