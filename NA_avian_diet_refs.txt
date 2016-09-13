@@ -5100,7 +5100,7 @@ Baltimore Oriole	Icteridae	1998	"Drinking, Pellet-Casting, And Defecation"		"Ris
 Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Tramer, E. J. and T. R. Kemp. 1982. Notes on migrants wintering at Monteverde, Costa Rica. Wilson Bull. 94:350-354."	y	n	
 Baltimore Oriole	Icteridae	1998	Nutrition And Energetics		"Cruden, R. W. and S. M. Hermann-Parker. 1977. Defense of feeding sites by orioles and Hepatic Tanagers in Mexico. Auk 94:594-596."	y	n	
 Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Wright, B. S. 1962. Baltimore Oriole kills hummingbird. Auk 79:112."	n		unavailable
-Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Sealy, S. G. 1980. Reproductive responses of northern orioles to a changing food supply. Can. J. Zool. 58:221-227."	y	n	Contains some nestling feeding information for reference
+Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Sealy, S. G. 1980. Reproductive responses of northern orioles to a changing food supply. Can. J. Zool. 58:221-227."	y	n	
 Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Schemske, D. W. 1975. Territoriality in a nectar feeding Northern Oriole in Costa Rica. Auk 92:594-595."	y	n	
 Baltimore Oriole	Icteridae	1998	Feeding	Food Capture And Consumption	"Leck, C. F. 1974. Further observations of nectar feeding by orioles. Auk 91:162-163."	y	n	
 Baltimore Oriole	Icteridae	1998	Diet	Major Food Items	"Oberholser, H. C. 1974. Birdlife of Texas. Vol. 2. Univ. of Texas Press, Austin, TX."	n		unavailable
@@ -5149,7 +5149,7 @@ Brewer's Blackbird	Icteridae	2002	Feeding	Microhabitat For Foraging	"Stepney, P.
 Brewer's Blackbird	Icteridae	2002	Feeding	Food Capture And Consumption	"Mailliard, J. 1915. Further remarks upon the Kern red-wing. Condor 17:228-230."	y	n	
 Brewer's Blackbird	Icteridae	2002	Diet	Quantitative Analysis	"Piper, S. E. and J. A. Neff. 1935. Procedure and methods in controlling birds injurious to crops in California, Pt. 1: general procedure. U.S. Dep. Agric. Bureau of Biol. Surv. in cooperation with Calif. State Dep. of Agric. Sacramento."	n		unavailable
 Brewer's Blackbird	Icteridae	2002	Feeding	Food Capture And Consumption	"Beecher, W. J. 1951. Adaptations for food-getting in the American blackbirds. Auk 68:411-440."	y	n	
-Brewer's Blackbird	Icteridae	2002	Feeding	Microhabitat For Foraging	"Orians, G. H. and H. S. Horn. 1969. Overlap in foods and foraging of four species of blackbirds in the potholes of Central Washington. Ecology 50:930-938."	y	y	data not yet entered
+Brewer's Blackbird	Icteridae	2002	Feeding	Microhabitat For Foraging	"Orians, G. H. and H. S. Horn. 1969. Overlap in foods and foraging of four species of blackbirds in the potholes of Central Washington. Ecology 50:930-938."	y	y	entered
 Brewer's Blackbird	Icteridae	2002	Feeding	Microhabitat For Foraging	"Stepney, P. H. R. 1971. Range expansion of Brewer's Blackbird and the ecology of a new population in Ontario. Master's Thesis. Univ. of Toronto, Toronto, ON."	y	n	
 Brewer's Blackbird	Icteridae	2002	Feeding	Food Capture And Consumption	"Stone, C. P., W. A. Bowles, M. V. Garrison, and C. P. Breidenstein. 1975. Hawking behavior of Red-winged Blackbirds, Brewer's Blackbirds, and White-crowned Sparrows. Colo. Field Ornithol. 25:21-22."	n		unavailable
 Brewer's Blackbird	Icteridae	2002	Diet	Quantitative Analysis	"Neff, J. A. and B. Meanley. 1957a. Blackbirds and the Arkansas rice crop. Univ. Arkansas, Agric. Exp. Stn. Bull. 584:1-89."	n		unavailable
