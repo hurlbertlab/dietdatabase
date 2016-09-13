@@ -3477,9 +3477,9 @@ Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Christensen, Z. D., D. 
 Plain Chachalaca	Cracidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Marion, W. R. 1974a. Ecology of the Plain Chachalaca in the Lower Rio Grande Valley of Texas. Phd Thesis. Texas A&M Univ. College Station."			
 Black-billed Cuckoo	Cuculidae	2001	Food Selection And Storage		"Henderson, J. 1927. The practical value of birds. Macmillan Co. New York."	y	y	
 Black-billed Cuckoo	Cuculidae	2001	Feeding	Main Foods Taken	"Bent, A. C. 1940. Life histories of North American cuckoos, goatsuckers, hummingbirds, and their allies. U.S. Natl. Mus. Bull. no. 176."	y	n	
-Black-billed Cuckoo	Cuculidae	2001	Feeding	Main Foods Taken	"Agro, D. 1994. Grasshoppers as a food source for Black-billed Cuckoos. Ont. Birds 12:28-29."			
-Black-billed Cuckoo	Cuculidae	2001	Diet	Major Food Items	"Sealy, S. G. 1978. Possible influence of food on egg-laying and clutch size in the Black-billed Cuckoo. Condor 80:103-104."			
-Black-billed Cuckoo	Cuculidae	2001	Feeding	Main Foods Taken	"Hayes, F. E., S. M. Goodman, J. A. Fox, T. G. Tamayo, and N. L????pez. 1990. North American bird migrants in Paraguay. Condor 92:947-960."			
+Black-billed Cuckoo	Cuculidae	2001	Feeding	Main Foods Taken	"Agro, D. 1994. Grasshoppers as a food source for Black-billed Cuckoos. Ont. Birds 12:28-29."	frogs	vampiles	
+Black-billed Cuckoo	Cuculidae	2001	Diet	Major Food Items	"Sealy, S. G. 1978. Possible influence of food on egg-laying and clutch size in the Black-billed Cuckoo. Condor 80:103-104."	what?	delete me	
+Black-billed Cuckoo	Cuculidae	2001	Feeding	Main Foods Taken	"Hayes, F. E., S. M. Goodman, J. A. Fox, T. G. Tamayo, and N. L????pez. 1990. North American bird migrants in Paraguay. Condor 92:947-960."	just don't get it	causing problems	
 Black-billed Cuckoo	Cuculidae	2001	Feeding	Microhabitat For Foraging	"Cramp, S. 1985. The birds of the Western Palearctic, Vol. 4: terns to woodpeckers. Oxford Univ. Press, Oxford, U.K."			
 Black-billed Cuckoo	Cuculidae	2001	Feeding	Microhabitat For Foraging	"Forbush, E. H. 1907. Useful birds and their protection. Massachusetts State Board of Agric. Boston."			
 Black-billed Cuckoo	Cuculidae	2001	Diet	Major Food Items	"King, F. H. 1883. Economic relations of Wisconsin birds. Geol. Wisconsin 1:441-610."			
