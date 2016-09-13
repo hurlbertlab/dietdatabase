@@ -3475,9 +3475,9 @@ Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Wagner, H. O. 1953. Die
 Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Marion, W. R. 1974b. Status of the Plain Chachalaca in South Texas. Wilson Bull. 86:200-205."			
 Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Christensen, Z. D., D. B. Pence, and G. Scott. 1978. Notes on food habits of the Plain Chachalaca from the Lower Rio Grande Valley. Wilson Bull. 90:647-648."			
 Plain Chachalaca	Cracidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Marion, W. R. 1974a. Ecology of the Plain Chachalaca in the Lower Rio Grande Valley of Texas. Phd Thesis. Texas A&M Univ. College Station."			
-Black-billed Cuckoo	Cuculidae	2001	Food Selection And Storage		"Henderson, J. 1927. The practical value of birds. Macmillan Co. New York."	y	y	
+Black-billed Cuckoo	Cuculidae	2001	Food Selection And Storage		"Henderson, J. 1927. The practical value of birds. Macmillan Co. New York."	y	n	
 Black-billed Cuckoo	Cuculidae	2001	Feeding	Main Foods Taken	"Bent, A. C. 1940. Life histories of North American cuckoos, goatsuckers, hummingbirds, and their allies. U.S. Natl. Mus. Bull. no. 176."	y	n	
-Black-billed Cuckoo	Cuculidae	2001	Feeding	Main Foods Taken	"Agro, D. 1994. Grasshoppers as a food source for Black-billed Cuckoos. Ont. Birds 12:28-29."			
+Black-billed Cuckoo	Cuculidae	2001	Feeding	Main Foods Taken	"Agro, D. 1994. Grasshoppers as a food source for Black-billed Cuckoos. Ont. Birds 12:28-29."	y	n	
 Black-billed Cuckoo	Cuculidae	2001	Diet	Major Food Items	"Sealy, S. G. 1978. Possible influence of food on egg-laying and clutch size in the Black-billed Cuckoo. Condor 80:103-104."			
 Black-billed Cuckoo	Cuculidae	2001	Feeding	Main Foods Taken	"Hayes, F. E., S. M. Goodman, J. A. Fox, T. G. Tamayo, and N. L????pez. 1990. North American bird migrants in Paraguay. Condor 92:947-960."			
 Black-billed Cuckoo	Cuculidae	2001	Feeding	Microhabitat For Foraging	"Cramp, S. 1985. The birds of the Western Palearctic, Vol. 4: terns to woodpeckers. Oxford Univ. Press, Oxford, U.K."			
