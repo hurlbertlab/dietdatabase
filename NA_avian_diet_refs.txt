@@ -5204,8 +5204,8 @@ Common Grackle	Icteridae	1997	Diet		"Ernst, S. G. 1944. Observation on the food 
 Common Grackle	Icteridae	1997	Feeding	Food Capture And Consumption	"Whoriskey, F. G. and G. J. Fitzgerald. 1985. The effects of bird predation on an estuarine stickleback (Pisces: Gasterosteidae) community. Can. J. Zool. 63:301-307."	y	n	
 Common Grackle	Icteridae	1997	Feeding	Food Capture And Consumption	"Beeton, A. M. and L. Wells. 1957. A Bronzed Grackle (Quiscalus quiscula) feeding on live minnows. Auk 74:263-264."	y	n	
 Common Grackle	Icteridae	1997	Diet		"Malmborg, P. K. and M. F. Willson. 1988. Foraging ecology of avian frugivores and some consequences for seed dispersal in an Illinois woodlot. Condor 90:173-186."	y	n	
-Common Grackle	Icteridae	1997	Diet		"Dolbeer, R. A., P. P. Woronecki, A. R. Stickley, Jr., and S. B. White. 1978. Agricultural impact of a winter population of blackbirds and starlings. Wilson Bull. 90:31-44."	y	y	data not yet entered
-Common Grackle	Icteridae	1997	Diet		"Hamilton, Jr., W. J. 1951. The food of nestling Bronzed Grackles, Quiscalus quiscula versicolor, in central New York. Auk 68:213-217."	y	y	data not yet entered
+Common Grackle	Icteridae	1997	Diet		"Dolbeer, R. A., P. P. Woronecki, A. R. Stickley, Jr., and S. B. White. 1978. Agricultural impact of a winter population of blackbirds and starlings. Wilson Bull. 90:31-44."	y	y	entered
+Common Grackle	Icteridae	1997	Diet		"Hamilton, Jr., W. J. 1951. The food of nestling Bronzed Grackles, Quiscalus quiscula versicolor, in central New York. Auk 68:213-217."	y	y	entered
 Common Grackle	Icteridae	1997	Feeding	Food Capture And Consumption	"Davidson, A. H. 1994. Common Grackle predation on adult passerines. Wilson Bull. 106:174-175."	n		unavailable
 Common Grackle	Icteridae	1997	Feeding	Food Capture And Consumption	"Stone, W. 1937. Bird studies at old Cape May, II. Delaware Valley Ornithol. Club, Philadelphia, PA."	n		unavailable
 Common Grackle	Icteridae	1997	Diet		"White, S. B., R. A. Dolbeer, and T. A. Bookhout. 1985. Ecology, bioenergetics, and agricultural impacts of a winter-roosting population of blackbirds and starlings. Wildl. Monogr. 93:1-42."	y	y	data not yet entered
