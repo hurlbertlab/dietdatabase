@@ -5208,7 +5208,7 @@ Common Grackle	Icteridae	1997	Diet		"Dolbeer, R. A., P. P. Woronecki, A. R. Stic
 Common Grackle	Icteridae	1997	Diet		"Hamilton, Jr., W. J. 1951. The food of nestling Bronzed Grackles, Quiscalus quiscula versicolor, in central New York. Auk 68:213-217."	y	y	entered
 Common Grackle	Icteridae	1997	Feeding	Food Capture And Consumption	"Davidson, A. H. 1994. Common Grackle predation on adult passerines. Wilson Bull. 106:174-175."	n		unavailable
 Common Grackle	Icteridae	1997	Feeding	Food Capture And Consumption	"Stone, W. 1937. Bird studies at old Cape May, II. Delaware Valley Ornithol. Club, Philadelphia, PA."	n		unavailable
-Common Grackle	Icteridae	1997	Diet		"White, S. B., R. A. Dolbeer, and T. A. Bookhout. 1985. Ecology, bioenergetics, and agricultural impacts of a winter-roosting population of blackbirds and starlings. Wildl. Monogr. 93:1-42."	y	y	data not yet entered
+Common Grackle	Icteridae	1997	Diet		"White, S. B., R. A. Dolbeer, and T. A. Bookhout. 1985. Ecology, bioenergetics, and agricultural impacts of a winter-roosting population of blackbirds and starlings. Wildl. Monogr. 93:1-42."	y	y	entered
 Common Grackle	Icteridae	1997	Diet		"Meanley, B. 1971. Blackbirds and the southern rice crop. U.S. Fish Wildl. Serv. Resour. Publ. 100."	n		unavailable
 Eastern Meadowlark	Icteridae	1995	Diet		"Beal, F. E. L. 1942. Some common birds useful to the farmer. U.S. Fish and Wildlife Serv. Conserv. Bull. 18."	y	y	beal papers already entered
 Eastern Meadowlark	Icteridae	1995	Feeding		"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."	n		Library Service Center
