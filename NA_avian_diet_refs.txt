@@ -2886,9 +2886,9 @@ Band-tailed Pigeon	Columbidae	2000	Food Selection And Storage		"Fry, M. E. and C
 Band-tailed Pigeon	Columbidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Sanders, T. A. 2000. Habitat availability, dietary mineral supplement, and measuring abundance of Band-tailed Pigeons in western Oregon. Phd Thesis. Oregon State Univ. Corvallis."	y	n	
 Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Crowe, M. C. 1992. Avian abundance and breeding biology of birds in Florida citrus groves. Master's Thesis. Iowa State Univ. Ames."	n	n	
 Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Oniki, Y. 1975. Temperatures of some Puerto Rican birds, with note of low temperatures in todies. Condor 77:344-345."	n	n	
-Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Howell, A. H. 1932. Florida bird life. Coward-McCann, Inc. New York."			
-Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Landers, J. L. and J. L. Buckner. 1979. Ground dove use of young pine plantations. Wilson Bull. 91:467-468."			
-Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Nicholson, D. J. 1937. Notes on the breeding of the ground dove in Florida. Wilson Bull. 49:101-114."			
+Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Howell, A. H. 1932. Florida bird life. Coward-McCann, Inc. New York."	y	n	
+Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Landers, J. L. and J. L. Buckner. 1979. Ground dove use of young pine plantations. Wilson Bull. 91:467-468."	y	y	
+Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Nicholson, D. J. 1937. Notes on the breeding of the ground dove in Florida. Wilson Bull. 49:101-114."	n	n	
 Common Ground-Dove	Columbidae	2002	Diet	Major Food Items	"Passmore, M. F. 1981. Population biology of the Common Ground Dove and ecological relationships with Mourning and White-winged doves in south Texas. Ph.D. diss. Texas A&M Univ. College Station."			
 Common Ground-Dove	Columbidae	2002	Diet	Major Food Items	"Dennis, J. V. 1994. A complete guide to bird feeding. Alfred A. Knopf, New York."			
 Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Garrett, K. and J. D. Dunn. 1981. Birds of southern California: status and distribution. Los Angeles Audubon Soc. Los Angeles, CA."			
