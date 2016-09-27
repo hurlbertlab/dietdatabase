@@ -5258,7 +5258,7 @@ Red-winged Blackbird	Icteridae	1995	Diet	Breeding Season	"Bird, R. D. and L. B. 
 Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"Linz, G. M., D. L. Vakoch, J. F. Cassel, and R. B. Carlson. 1984. Food of Red-winged Blackbirds (Agelaius phoeniceus) in sunflower fields and corn fields. Can. Field-Nat. 98:38-44."	n		unavailable
 Red-winged Blackbird	Icteridae	1995	Food Selection		"Mason, J. R., B. Nuechterlein, G. Linz, R. A. Dolbeer, and D. L. Otis. 1991c. Oil concentration differences among sunflower achenes and feeding preferences of Red-winged Blackbirds. Crop Protec. 10:299-304."	y	n	
 Red-winged Blackbird	Icteridae	1995	Metabolism And Temperature Regulation		"Lewies, R. W. and M. I. Dyer. 1969. Respiratory metabolism of the Red-winged Blackbird in relation to ambient temperature. Condor 71:291-298."	y	n	
-Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"Williams, R. E. and W. B. Jackson. 1981. Dietary comparisons of Red-winged Blackbirds, Brown-headed Cowbirds, and European Starlings in north-central Ohio. Ohio J. Sci. 81:217-225."	y	y	data not yet entered
+Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"Williams, R. E. and W. B. Jackson. 1981. Dietary comparisons of Red-winged Blackbirds, Brown-headed Cowbirds, and European Starlings in north-central Ohio. Ohio J. Sci. 81:217-225."	y	y	entered
 Red-winged Blackbird	Icteridae	1995	Diet	Nonbreeding Season	"White, S. B., R. A. Dolbeer, and T. A. Bookhout. 1985. Ecology, bioenergetics, and agricultural impacts of a winter-roosting population of blackbirds and starlings. Wildl. Monogr. 93:1-42."	y	y	already entered above
 Rusty Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Brewster, W. 1906. The birds of the Cambridge region of Massachusetts. Mem. Nuttall Ornithol. Club no. 4."	y	n	
 Rusty Blackbird	Icteridae	1995	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. McGraw-Hill Book Co. New York."	n		unavailable
@@ -5308,13 +5308,13 @@ Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Friedmann, H. 1929. The
 Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Camperi, A. R. 1984. Nota sobre la alimentacion del Tordo Renegrido y del Pecho Colorado Chico. Neotropica 30:219-222."	n		unavailable
 Shiny Cowbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Mckenzie, P. M. 1990. Habitat use, movements, and behavior of Shiny Cowbirds in southwestern Puerto Rico. Phd Thesis. Louisiana State Univ. Baton Rouge."	y	n	
 Shiny Cowbird	Icteridae	1999	Diet	Quantitative Analysis	"Sick, H. 1993. Birds in Brazil: A natural history. Princeton Univ. Press, Princeton, NJ."	n		Science Library Annex
-Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Crase, F. T. and R. W. DeHaven. 1977. Food of nestling Tricolored Blackbirds. Condor 79:265-269."	y	y	data not yet entered
+Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Crase, F. T. and R. W. DeHaven. 1977. Food of nestling Tricolored Blackbirds. Condor 79:265-269."	y	y	entered
 Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Collier, G. 1968. Annual cycle and behavioral relationships in the Red-winged and Tricolored Blackbirds of southern California. Phd Thesis. Univ. of California, Los Angeles."	n		unavailable
 Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Orians, G. H. 1961b. Social stimulation within blackbird colonies. Condor 63:330-337."	y	n	
 Tricolored Blackbird	Icteridae	1999	Feeding	Foraging Distance	"Orians, G. H. 1961a. The ecology of blackbird (Agelaius) social systems. Ecol. Monogr. 31:285-312."	y	n	
 Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Payne, R. 1969. Breeding seasons and reproductive physiology of Tricolored Blackbirds and Redwinged Blackbirds. Univ. Calif. Publ. Zool. 90:1-137."	n		unavailable
 Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-Hill, New York."	n		Library Service Center
-Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Skorupa, J. P., R. L. Hothem, and R. W. DeHaven. 1980. Foods of breeding Tricolored Blackbirds in agricultural areas of Merced County, California. Condor 82:465-467."	y	y	data not yet entered
+Tricolored Blackbird	Icteridae	1999	Feeding	Main Foods Taken	"Skorupa, J. P., R. L. Hothem, and R. W. DeHaven. 1980. Foods of breeding Tricolored Blackbirds in agricultural areas of Merced County, California. Condor 82:465-467."	y	y	entered
 Tricolored Blackbird	Icteridae	1999	Diet	Breeding Season	"Tyler, J. G. 1907. A colony of Tri-colored Blackbirds. Condor 9:177-178."	y	n	
 Tricolored Blackbird	Icteridae	1999	Feeding	Foraging Distance	"Cook, L. 1996. Nesting adaptations of Tricolored Blackbirds (Agelaius tricolor). Master's Thesis. Univ. of California, Davis."	n		unavailable
 Tricolored Blackbird	Icteridae	1999	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."	n		Library Service Center
@@ -5325,7 +5325,7 @@ Western Meadowlark	Icteridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Bi
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Microhabitat For Foraging	"Orians, G. H. 1980. Some adaptations of marsh nesting blackbirds. Princeton Univ. Press, Princeton, NJ."	y	n	
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."	n		Library Service Center
 Yellow-headed Blackbird	Icteridae	1995	Diet	Major Food Items	"Twedt, D. J., W. J. Bleier, and G. M. Linz. 1991. Geographic and temporal variation in the diet of Yellow-headed Blackbirds. Condor 93:975-986."	y	n	"discusses different diet categories, but collection method may not be useful for data"
-Yellow-headed Blackbird	Icteridae	1995	Diet	Quantitative Analysis	"Knowlton, G. F. and P. E. Telford. 1947. Some insect food of the Yellow-headed Blackbird. Auk 64:459."	y	y	data not yet entered
+Yellow-headed Blackbird	Icteridae	1995	Diet	Quantitative Analysis	"Knowlton, G. F. and P. E. Telford. 1947. Some insect food of the Yellow-headed Blackbird. Auk 64:459."	y	n	
 Yellow-headed Blackbird	Icteridae	1995	"Drinking, Pellet-Casting, And Defecation"		"Twedt, D. J. 1984. Pellet casting by Common Grackles. Wilson Bull. 96:470-471."	y	n	
 Northern Jacana	Jacanidae	1999	Diet		"Osborne, D. R. and G. R. Bourne. 1977. Breeding behavior and food habits of the Wattled Jacana. Condor 79:98-115."			
 Northern Jacana	Jacanidae	1999	Diet		"Stephens, M. L. 1984d. Maternal care and polyandry in the Northern Jacana (Jacana spinosa). Phd Thesis. Univ. of Chicago, Chicago, IL."			
@@ -5341,7 +5341,7 @@ Loggerhead Shrike	Laniidae	1996	Feeding	Microhabitat For Foraging	"Mills, G. S. 
 Loggerhead Shrike	Laniidae	1996	Feeding	Food Capture And Consumption	"Yosef, R. 1993a. Prey transport by Loggerhead Shrikes. Condor 95:231-233."	y	n	
 Loggerhead Shrike	Laniidae	1996	Feeding	Main Foods Taken	"Anderson, R. M. 1976. Shrikes feed on prey remains left by hawks. Condor 78:269."	y	n	
 Loggerhead Shrike	Laniidae	1996	Feeding	Food Capture And Consumption	"Yosef, R. 1992a. Loggerhead Shrikes eat crayfish. Fla. Field Nat. 20:75-76."	y	n	
-Loggerhead Shrike	Laniidae	1996	Feeding	Microhabitat For Foraging	"Yosef, R. and T. C. Grubb. 1993. Effect of vegetation height on hunting behavoir and diet of Loggerhead Shrikes. Condor 95:127-131."	y		entered
+Loggerhead Shrike	Laniidae	1996	Feeding	Microhabitat For Foraging	"Yosef, R. and T. C. Grubb. 1993. Effect of vegetation height on hunting behavoir and diet of Loggerhead Shrikes. Condor 95:127-131."	y	y	entered
 Loggerhead Shrike	Laniidae	1996	Diet	Major Food Items And Quantitative Analysis	"Burton, K. M. 1990. An investigation of population status and breeding biology of the Loggerhead Shrike (Lanius ludovicianus) in Indiana. Master's thesis. Indiana Univ. Bloomington."	n		unavailable
 Loggerhead Shrike	Laniidae	1996	Food Selection And Storage		"Yosef, R. and D. W. Whitman. 1992. Predator exaptations and defensive adaptations in evolutionary balance: no defense is perfect. Evol. Ecol. 6:527-536."	y	n	
 Loggerhead Shrike	Laniidae	1996	Feeding	Food Capture And Consumption	"Morrison, M. L. 1980. Seasonal aspects of the predatory behavior of Loggerhead Shrikes. Condor 82:296-300."	y	n	
