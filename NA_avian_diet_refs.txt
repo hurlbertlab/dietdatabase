@@ -2870,7 +2870,7 @@ Wood Stork	Ciconiidae	1999	Nutrition And Energetics		"Kahl, Jr., M. P. 1962. Bio
 Wood Stork	Ciconiidae	1999	Nutrition And Energetics		"Coulter, M. C., S. Balzano, R. E. Johnson, C. E. King, and P. W. Shannon. 1989. Conservation and captive management of storks. Stork Interest Group, Univ. of Georgia Press, Athens."			
 Wood Stork	Ciconiidae	1999	Metabolism And Temperature Regulation		"Kahl, Jr., M. P. 1963b. Thermoregulation in the Wood Stork, with special reference to the role of the legs. Physiol. Zool. 36:141-151."			
 Wood Stork	Ciconiidae	1999	Metabolism And Temperature Regulation		"Kahl, M. P. 1972. Comparative ethology of the Ciconiidae. Part 3. The Wood Storks (genera Mycteria and Ibis). Ibis 114:15-29."			
-Band-tailed Pigeon	Columbidae	2000	Diet	Quantitative Analysis	"Lamb, C. C. 1926. The Viosca Pigeon. Condor 28:262-263."			
+Band-tailed Pigeon	Columbidae	2000	Diet	Quantitative Analysis	"Lamb, C. C. 1926. The Viosca Pigeon. Condor 28:262-263."	y	n	
 Band-tailed Pigeon	Columbidae	2000	Feeding	Food Capture And Consumption	"Paige, B. B. 1964. The Band-tailed Pigeon in the Panamint range of California. Condor 66:439-440."	n	n	
 Band-tailed Pigeon	Columbidae	2000	Feeding	Microhabitat For Foraging	"Leonard, J. P. 1998. Nesting and foraging ecology of Band-tailed Pigeons in western Oregon. Phd Thesis. Oregon State Univ. Corvallis."	y	n	
 Band-tailed Pigeon	Columbidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Packard, F. M. 1946. Some observations of birds eating salt. Auk 63:89."	n	n	
@@ -2890,7 +2890,7 @@ Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Howell, A
 Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Landers, J. L. and J. L. Buckner. 1979. Ground dove use of young pine plantations. Wilson Bull. 91:467-468."	y	y	
 Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Nicholson, D. J. 1937. Notes on the breeding of the ground dove in Florida. Wilson Bull. 49:101-114."	n	n	
 Common Ground-Dove	Columbidae	2002	Diet	Major Food Items	"Passmore, M. F. 1981. Population biology of the Common Ground Dove and ecological relationships with Mourning and White-winged doves in south Texas. Ph.D. diss. Texas A&M Univ. College Station."	y	y	
-Common Ground-Dove	Columbidae	2002	Diet	Major Food Items	"Dennis, J. V. 1994. A complete guide to bird feeding. Alfred A. Knopf, New York."	y	y	
+Common Ground-Dove	Columbidae	2002	Diet	Major Food Items	"Dennis, J. V. 1994. A complete guide to bird feeding. Alfred A. Knopf, New York."	y	y	pg 52
 Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Garrett, K. and J. D. Dunn. 1981. Birds of southern California: status and distribution. Los Angeles Audubon Soc. Los Angeles, CA."	n	n	
 Common Ground-Dove	Columbidae	2002	Food Selection And Storage		"Martin, A. C., H. S. Zin, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw Hill, New York."	n	n	
 Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Degraaf, R. M., N. C. Tilghman, and S. H. Anderson. 1985. Foraging guilds of North American birds. Environ. Manage. 9:493-536."	y	n	
@@ -2998,6 +2998,7 @@ White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Brown, D. E. 1989. Ariz
 White-winged Dove	Columbidae	2002	Diet	Quantitative Analysis	"Jenks, R. S. 1983. Distribution, abundance, and habitat of White-winged Dove in New Mexico. Master's Thesis. New Mexico State Univ. Las Cruces."	y	n	
 White-winged Dove	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Macmillan, R. E. and C. H. Trost. 1966. Water economy and salt balance in White-winged and Inca doves. Auk 83:441-456."	y	n	
 White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Neff, J. A. 1944. Seeds of legumes eaten by birds. Condor 46:207."	y	n	
+White-winged Dove	Columbidae	1994		Major Food Items	"Dennis, J. V. 1994. A complete guide to bird feeding. Alfred A. Knopf, New York."	y	y	
 White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Scudday, J. F., T. L. Gallucci, and P. S. West. 1980. The status and ecology of the White-winged Dove of Trans-Pecos Texas. Fin. Rep., U.S. Fish Wildl. Serv. Contract 14-16-00-2096. Sul Ross State Univ. Alpine, TX."	y	n	
 White-winged Dove	Columbidae	2002	Diet	Quantitative Analysis	"West, L. M. 1993. Ecology of breeding White-winged Dove in the San Antonio metropolitan area. Master's Thesis. Texas Tech Univ. Lubbock."	y	n	
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Ward, C. and B. S. Low. 1997. Predictors of vigilance for American Crows foraging in an urban environment. Wilson Bull. 109:481-489."	y	n	
