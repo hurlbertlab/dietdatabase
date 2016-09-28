@@ -11291,17 +11291,17 @@ Winter Wren	Troglodytidae	2002	Diet	Major Food Items	"Cramp, S. 1988. The birds 
 Winter Wren	Troglodytidae	2002	Food Selection And Storage		"Armstrong, E. A. 1955. The wren. Collins, London."		y	
 Winter Wren	Troglodytidae	2002	Nutrition And Energetics		"Lasiewski, R. C. and W. R. Dawson. 1967. A re-examination of the relation between standard metabolic rate and body weight in birds. Condor 69:13-23."	y		
 Winter Wren	Troglodytidae	2002	Nutrition And Energetics		"Holmes, R. T. and F. W. Sturges. 1975. Bird community dynamics and energetics in a northern hardwoods ecosystem. J. Anim. Ecol. 44:175-200."			
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, C. 1980b. The Coppery-tailed Trogon of the Coronado National Forest, 1980. Coronado Natl. For. files, Tucson, AZ."			
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Hall, L. S. and J. O. Karubian. 1996. Breeding behavior of Elegant Trogons in southeastern Arizona. Auk 113:143-150."			
-Elegant Trogon	Trogonidae	1998	Diet	Quantitative Analysis	"Miller, W. D. 1918. Relative length of the intestinal caeca in trogons. Auk 35:480."			
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1980c. South Fork stationary observer trogon census. Tucson Audubon Soc. files, Tucson, AZ."			
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1978c. Preliminary report: the distribution, population and breeding biology of the Coppery-Tailed Trogon in Arizona [1978 studies]. Coronado Natl. For. files, Tucson, Arizona."			
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1978b. A study of the Coppery-Tailed Trogon of the Coronado National Forest [1977 studies]. Coronado Natl. For. files, Tucson, AZ."			
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1979. Progress report: The Coppery-Tailed Trogon in Arizona, 1979. Coronado Natl. For. files, Tucson, AZ."			
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, C. 1980a. The Coppery-Tailed Trogon: Arizona's Bird of Paradise. Borderland Prod. Tucson, AZ."			
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1981. The Coppery-tailed Trogon in Arizona, 1981. Coronado Natl. For. files, Tucson, AZ."			
-Elegant Trogon	Trogonidae	1998	Feeding	Main Foods Taken	"Bent, A. C. 1940. Life histories of North American cuckoos, goatsuckers, hummingbirds and their allies. U.S. Natl. Mus. Bull. 176."			
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1978a. The Eared Trogon in Arizona. Coronado Natl. For. files, Tucson, AZ."			
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, C. 1980b. The Coppery-tailed Trogon of the Coronado National Forest, 1980. Coronado Natl. For. files, Tucson, AZ."	n		unavailable
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Hall, L. S. and J. O. Karubian. 1996. Breeding behavior of Elegant Trogons in southeastern Arizona. Auk 113:143-150."	y	n	
+Elegant Trogon	Trogonidae	1998	Diet	Quantitative Analysis	"Miller, W. D. 1918. Relative length of the intestinal caeca in trogons. Auk 35:480."	y	n	
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1980c. South Fork stationary observer trogon census. Tucson Audubon Soc. files, Tucson, AZ."	n		unavailable
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1978c. Preliminary report: the distribution, population and breeding biology of the Coppery-Tailed Trogon in Arizona [1978 studies]. Coronado Natl. For. files, Tucson, Arizona."	n		unavailable
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1978b. A study of the Coppery-Tailed Trogon of the Coronado National Forest [1977 studies]. Coronado Natl. For. files, Tucson, AZ."	n		unavailable
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1979. Progress report: The Coppery-Tailed Trogon in Arizona, 1979. Coronado Natl. For. files, Tucson, AZ."	n		unavailable
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, C. 1980a. The Coppery-Tailed Trogon: Arizona's Bird of Paradise. Borderland Prod. Tucson, AZ."	n		unavailable
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1981. The Coppery-tailed Trogon in Arizona, 1981. Coronado Natl. For. files, Tucson, AZ."	n		unavailable
+Elegant Trogon	Trogonidae	1998	Feeding	Main Foods Taken	"Bent, A. C. 1940. Life histories of North American cuckoos, goatsuckers, hummingbirds and their allies. U.S. Natl. Mus. Bull. 176."	y	n	
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1978a. The Eared Trogon in Arizona. Coronado Natl. For. files, Tucson, AZ."	n		unavailable
 Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1983. The Coppery-tailed Trogon in Arizona, 1982. Coronado Natl. For. files, Tucson, AZ."	y	n	
 Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Dickey, D. R. and A. J. Van Rossem. 1938. The birds of El Salvador. Field Mus. Nat. Hist. Pub. Zool. Ser. Vol. 23 (Pub. 406)"	y	n	
 Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Cottam, E. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."	y	y	not entered yet
