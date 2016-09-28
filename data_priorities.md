@@ -17,7 +17,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Columbidae (9 species to enter)  
 
 ### Cuculiformes
---Cuculidae (5 species to enter)  
+--Cuculidae   
 
 ### Passeriformes  
 --Aegithalidae  
@@ -30,8 +30,8 @@ Note that Families for which I know that data remain to be entered are highlight
 --Emberizide  
 --Fringillidae  
 --Hirundinidae  
---Icteridae (still some species to enter)  
---Laniidae (2 species to enter)  
+--Icteridae  
+--Laniidae  
 --Mimidae  
 --Motacillidae  
 --Paridae  
