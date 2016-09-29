@@ -11305,7 +11305,7 @@ Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 197
 Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1983. The Coppery-tailed Trogon in Arizona, 1982. Coronado Natl. For. files, Tucson, AZ."	y	n	
 Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Dickey, D. R. and A. J. Van Rossem. 1938. The birds of El Salvador. Field Mus. Nat. Hist. Pub. Zool. Ser. Vol. 23 (Pub. 406)"	y	n	
 Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Cottam, E. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."	y	y	not entered yet
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Hall, L. S. 1996. Habitat selection by the Elegant Trogon (Trogon elegans) at multiple scales. Phd Thesis. Univ. of Arizona, Tucson."	y	y	
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Hall, L. S. 1996. Habitat selection by the Elegant Trogon (Trogon elegans) at multiple scales. Phd Thesis. Univ. of Arizona, Tucson."	y	y	not entered yet
 Elegant Trogon	Trogonidae	1998	Feeding	Food Capture And Consumption	"Taylor, R. C. 1994. Trogons of the Arizona borderlands. Treasure Chest Publ. Tucson, AZ."	y	n	
 Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Oberholser, H. C. 1974. The bird life of Texas. Vol. II, E. B. Kincaid, Jr. ed. Univ. of Texas Press, Austin."	y	n	
 Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."	y	n	
