@@ -2952,7 +2952,7 @@ Spotted Dove	Columbidae	2001	Diet	Major Food Items	"Scott, J. M., S. Mountainspr
 Spotted Dove	Columbidae	2001	Feeding	Main Foods Taken	"Schwartz, C. W. and E. R. Schwartz. 1951. A survey of the Lace-necked Dove in Hawaii. Pac. Sci. 5(1):90-107."	y	y	
 Spotted Dove	Columbidae	2001	Feeding	Main Foods Taken	"Higgins, P. J. and S. J. J. F. Davies. 1996. Handbook of Australian, New Zealand and Antarctic birds, Vol. 3: snipe to pigeons. Oxford Univ. Press, Melbourne."	n	n	
 Spotted Dove	Columbidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Walker, R. L. and D. H. Woodside. 1977. Vertebrate fauna of Hawaii's forests and grasslands. Resources Planning Act, U.S. Dep. Agric., Forest Serv. Honolulu, HI."	n	n	
-Spotted Dove	Columbidae	2001	Feeding	Microhabitat For Foraging	"Richardson, F. and J. Bowles. 1964. A survey of the birds of Kauai, Hawaii. B. P. Bishop Mus. Bull. 227, Honolulu."	y	y	
+Spotted Dove	Columbidae	2001	Feeding	Microhabitat For Foraging	"Richardson, F. and J. Bowles. 1964. A survey of the birds of Kauai, Hawaii. B. P. Bishop Mus. Bull. 227, Honolulu."	y	n	
 Spotted Dove	Columbidae	2001	Feeding	Microhabitat For Foraging	"Schwartz, C. W. and E. R. Schwartz. 1949. A reconnaissance of the game birds of Hawaii. Board of Comm. of Agric. and Forestry. The Hawaii News Printshop, Hilo, HI."	y	y	pg 72
 White-crowned Pigeon	Columbidae	2001	Feeding	Main Foods Taken	"Audubon, J. J. 1834. Ornithological biography, or an account of the habits of the birds of the United States of America. Vol. 2. A. & C. Black, Edinburgh, Scotland."	y	n	
 White-crowned Pigeon	Columbidae	2001	Feeding	Main Foods Taken	"Seaman, G. A. 1959. Land snails as food of White-crowned Pigeon. Auk 76:232."	y	n	
