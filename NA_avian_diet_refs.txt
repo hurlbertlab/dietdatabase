@@ -2590,20 +2590,20 @@ Rose-breasted Grosbeak	Cardinalidae	2002	Feeding	Microhabitat For Foraging	"Dunh
 Rose-breasted Grosbeak	Cardinalidae	2002	Feeding	Microhabitat For Foraging	"Howell, S. N. G. and S. Webb. 1995. A guide to the birds of Mexico and northern Central America. Oxford Univ. Press, New York."	y	n	
 Rose-breasted Grosbeak	Cardinalidae	2002	Feeding	Microhabitat For Foraging	"Hilty, S. L. and W. L. Brown. 1986. A guide to the birds of Colombia. Princeton Univ. Press, Princeton, NJ."	y	n	
 Varied Bunting	Cardinalidae	1998	Feeding	Main Foods Taken	"Wolfe, L. R. 1968. Varied Bunting. Pages 132-137 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. (Bent, A. C. and O. L. Austin, Jr., Eds.) U.S. Nat. Mus. Bull. 237."	y	n	
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Mcilhenny, E. A. 1939. Feeding habits of Black Vulture. Auk 56:472-474."			
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Baynard, O. E. 1914. The Black Vulture. Blue-bird 7:48-53."			
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Sprunt, Jr., A. 1946. Predation on living prey by the Black Vulture. Auk 63:260-261."			
-Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Houston, D. C. 1988. Competition for food between Neotropical vultures in forest. Ibis 130:402-417."			
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Parmalee, P. W. 1954. The vultures: their movements, economic status, and control in Texas. Auk 71:443-453."			
-Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Stewart, P. A. 1978. Behavioral interactions and niche separation in Black and Turkey vultures. Living Bird 17:79-84."			
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Mrosovsky, N. 1971. Black Vultures attack live turtle hatchlings. Auk 88:672-673."			
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Lovell, H. B. 1947. Black Vultures kill young pigs in Kentucky. Auk 64:131-132."			
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Mcilhenny, E. A. 1945. An unusual feeding habit of the Black Vulture. Auk 62:136-137."			
-Black Vulture	Cathartidae	1999	Metabolism And Temperature Regulation		"Mchargue, L. A. 1981. Black Vulture nesting, behavior, and growth. Auk 98:182-185."			
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Roads, K. M. 1936. Black Vultures kill and eat new-born lambs. Wilson Bull. 48:219."			
-Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Buckley, N. J. 1996. Food finding and the influence of information, local enhancement, and communal roosting on foraging success of North American vultures. Auk 113:473-488."			
-Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Houston, D. C. 1986. Scavenging efficiency of Turkey Vultures in tropical forest. Condor 88:318-323."			
-Black Vulture	Cathartidae	1999	Metabolism And Temperature Regulation		"Mahoney, S. A. 1983. Heat production and heat loss in vultures: rest and exercise. Pages 330-342 in Vulture biology and management. (Wilbur, S. R. and J. A. Jackson, Eds.) Univ. of California Press, Los Angeles."			
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Mcilhenny, E. A. 1939. Feeding habits of Black Vulture. Auk 56:472-474."	y	y	entered
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Baynard, O. E. 1914. The Black Vulture. Blue-bird 7:48-53."	n		unavailable
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Sprunt, Jr., A. 1946. Predation on living prey by the Black Vulture. Auk 63:260-261."	y	y	entered
+Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Houston, D. C. 1988. Competition for food between Neotropical vultures in forest. Ibis 130:402-417."	y	n	
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Parmalee, P. W. 1954. The vultures: their movements, economic status, and control in Texas. Auk 71:443-453."	y	n	
+Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Stewart, P. A. 1978. Behavioral interactions and niche separation in Black and Turkey vultures. Living Bird 17:79-84."	n		unavailable
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Mrosovsky, N. 1971. Black Vultures attack live turtle hatchlings. Auk 88:672-673."	y	y	entered
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Lovell, H. B. 1947. Black Vultures kill young pigs in Kentucky. Auk 64:131-132."	y	n	
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Mcilhenny, E. A. 1945. An unusual feeding habit of the Black Vulture. Auk 62:136-137."	y	n	
+Black Vulture	Cathartidae	1999	Metabolism And Temperature Regulation		"Mchargue, L. A. 1981. Black Vulture nesting, behavior, and growth. Auk 98:182-185."	y	n	
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Roads, K. M. 1936. Black Vultures kill and eat new-born lambs. Wilson Bull. 48:219."	y	y	entered
+Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Buckley, N. J. 1996. Food finding and the influence of information, local enhancement, and communal roosting on foraging success of North American vultures. Auk 113:473-488."	y	y	entered
+Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Houston, D. C. 1986. Scavenging efficiency of Turkey Vultures in tropical forest. Condor 88:318-323."	y	n	
+Black Vulture	Cathartidae	1999	Metabolism And Temperature Regulation		"Mahoney, S. A. 1983. Heat production and heat loss in vultures: rest and exercise. Pages 330-342 in Vulture biology and management. (Wilbur, S. R. and J. A. Jackson, Eds.) Univ. of California Press, Los Angeles."	n		unavailable
 Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Stager, K. E. 1964. The role of olfaction in food location by the Turkey Vulture (Cathartes aura). Los Angeles County Mus. Contrib. Sci. No 81:1-63."			
 Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Elias, D. J. and G. D. Valencia. 1982. Unusual feeding behavior by a population of Black Vultures. Wilson Bull. 94:214."			
 Black Vulture	Cathartidae	1999	Metabolism And Temperature Regulation		"Clark, R. G. and R. D. Ohmart. 1985. Spread-winged posture of Turkey Vultures: single or multiple functions? Condor 87:350-355."			
@@ -11304,8 +11304,8 @@ Elegant Trogon	Trogonidae	1998	Feeding	Main Foods Taken	"Bent, A. C. 1940. Life 
 Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1978a. The Eared Trogon in Arizona. Coronado Natl. For. files, Tucson, AZ."	n		unavailable
 Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Taylor, R. 1983. The Coppery-tailed Trogon in Arizona, 1982. Coronado Natl. For. files, Tucson, AZ."	y	n	
 Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Dickey, D. R. and A. J. Van Rossem. 1938. The birds of El Salvador. Field Mus. Nat. Hist. Pub. Zool. Ser. Vol. 23 (Pub. 406)"	y	n	
-Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Cottam, E. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."	y	y	not entered yet
-Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Hall, L. S. 1996. Habitat selection by the Elegant Trogon (Trogon elegans) at multiple scales. Phd Thesis. Univ. of Arizona, Tucson."	y	y	not entered yet
+Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Cottam, E. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."	y	y	entered
+Elegant Trogon	Trogonidae	1998	Feeding	Microhabitat For Foraging	"Hall, L. S. 1996. Habitat selection by the Elegant Trogon (Trogon elegans) at multiple scales. Phd Thesis. Univ. of Arizona, Tucson."	y	y	entered
 Elegant Trogon	Trogonidae	1998	Feeding	Food Capture And Consumption	"Taylor, R. C. 1994. Trogons of the Arizona borderlands. Treasure Chest Publ. Tucson, AZ."	y	n	
 Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Oberholser, H. C. 1974. The bird life of Texas. Vol. II, E. B. Kincaid, Jr. ed. Univ. of Texas Press, Austin."	y	n	
 Elegant Trogon	Trogonidae	1998	Diet	Major Food Items	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."	y	n	
