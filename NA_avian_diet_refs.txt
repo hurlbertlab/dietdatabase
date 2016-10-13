@@ -2605,7 +2605,7 @@ Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Buckley, N.
 Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Houston, D. C. 1986. Scavenging efficiency of Turkey Vultures in tropical forest. Condor 88:318-323."	y	n	
 Black Vulture	Cathartidae	1999	Metabolism And Temperature Regulation		"Mahoney, S. A. 1983. Heat production and heat loss in vultures: rest and exercise. Pages 330-342 in Vulture biology and management. (Wilbur, S. R. and J. A. Jackson, Eds.) Univ. of California Press, Los Angeles."	n		unavailable
 Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Stager, K. E. 1964. The role of olfaction in food location by the Turkey Vulture (Cathartes aura). Los Angeles County Mus. Contrib. Sci. No 81:1-63."	y	n	
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Elias, D. J. and G. D. Valencia. 1982. Unusual feeding behavior by a population of Black Vultures. Wilson Bull. 94:214."	y	y	not entered yet
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Elias, D. J. and G. D. Valencia. 1982. Unusual feeding behavior by a population of Black Vultures. Wilson Bull. 94:214."	y	y	entered
 Black Vulture	Cathartidae	1999	Metabolism And Temperature Regulation		"Clark, R. G. and R. D. Ohmart. 1985. Spread-winged posture of Turkey Vultures: single or multiple functions? Condor 87:350-355."	y	n	
 Black Vulture	Cathartidae	1999	Metabolism And Temperature Regulation		"Larochelle, J., J. Delson, and K. Schmidt-Nielsen. 1982. Temperature regulation in the Black Vulture. Can. J. Zool. 60:491-494."	y	n	
 Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Ward, P. and A. Zahavi. 1973. The importance of certain assemblages of birds as ??????????????information centres for food finding. Ibis 115:517-534."	y	n	
@@ -2614,7 +2614,7 @@ Black Vulture	Cathartidae	1999	Nutrition And Energetics		"Prather, I. D., R. N. 
 Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Olson, S. L., H. Loftin, and J. Wiese. 1967. Observations on the behavior of Black and Turkey vultures at traps and in captivity. Bird-Banding 38:75-76."	y	n	
 Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Bang, B. G. 1964. The nasal organs of the Black and Turkey vultures. J. Morphol. 115:153-184."	y	n	
 Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Bang, B. G. and S. Cobb. 1968. The size of the olfactory bulb in 108 species of birds. Auk 85:55-61."	y	n	
-Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Coleman, J. S. and J. D. Fraser. 1987. Food habits of Black and Turkey vultures in Pennsylvania and Maryland. J. Wildl. Manage. 51:733-739."	y	y	not entered yet
+Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Coleman, J. S. and J. D. Fraser. 1987. Food habits of Black and Turkey vultures in Pennsylvania and Maryland. J. Wildl. Manage. 51:733-739."	y	y	entered
 Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Hill III, J. R. and P. S. Neto. 1991. Black Vultures nesting on skyscrapers in southern Brazil. J. Field Ornithol. 62:173-176."	y	n	
 Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Rabenold, P. P. 1983. The communal roost in Black and Turkey vultures-an information center? Pages 303-321 in Vulture biology and management. (Wilbur, S. R. and J. A. Jackson, Eds.) Univ. of California Press, Los Angeles."	y	n	
 Black Vulture	Cathartidae	1999	Feeding	Food Capture And Consumption	"Rabenold, P. P. 1987a. Recruitment to food in Black Vultures: evidence for following from communal roosts. Anim. Behav. 35:1775-1785."	y	n	
@@ -2629,82 +2629,82 @@ California Condor	Cathartidae	2002	Feeding	Main Foods Taken	"Koford, C. B. 1953.
 California Condor	Cathartidae	2002	Feeding	Microhabitat For Foraging	"Wilbur, S. R. 1978b. The California Condor, 1966-76: a look at its past and future. U.S. Fish Wildl. Serv. N. Am. Fauna 72:1-136."	y	n	
 California Condor	Cathartidae	2002	Metabolism And Temperature Regulation		"Kalmbach, E. R. 1939. American vultures and the toxin of Clostridium botulinum. J. Am. Vet. Med. Assoc. 94:187-191."	n		unavailable
 California Condor	Cathartidae	2002	Feeding	Main Foods Taken	"Collins, P. W., N. F. R. Snyder, and S. D. Emslie. 2000. Faunal remains in California Condor nest caves. Condor 102:222-227."	y	n	
-California Condor	Cathartidae	2002	Feeding	Food Capture And Consumption	"Snyder, N. F. R., R. R. Ramey, and F. C. Sibley. 1986. Nest-site biology of the California Condor. Condor 88:228-241."			
-California Condor	Cathartidae	2002	Food Selection And Storage		"Houston, D. C. 1986. Scavenging efficiency of Turkey Vultures in tropical forest. Condor 88:318-323."			
-California Condor	Cathartidae	2002	Nutrition And Energetics		"Snyder, N. F. R. and H. Snyder. 1989. Biology and conservation of the California Condor. Curr. Ornithol. 6:175-267."			
-California Condor	Cathartidae	2002	Diet		"Taylor, A. S. 1859. The great condor of California. Hutching's Calif. Mag. 3(12):540-543."			
-California Condor	Cathartidae	2002	Food Selection And Storage		"Finley, W. L. 1910. Life history of the California Condor IV: The young condor in captivity. Condor 12:5-11."			
-California Condor	Cathartidae	2002	Diet		"Emslie, S. D. 1987. Age and diet of fossil California Condors in Grand Canyon, Arizona. Science 237:768-770."			
-California Condor	Cathartidae	2002	Feeding	Food Capture And Consumption	"Mundy, P., D. Butchart, J. Ledger, and S. Piper. 1992. The vultures of Africa. Academic Press, London, U.K."			
-California Condor	Cathartidae	2002	Feeding	Microhabitat For Foraging	"Miller, A. H., I. McMillan, and E. McMillan. 1965. The current status and welfare of the California Condor. Natl. Audubon Soc. Res. Rep. No. 6:1-61."			
-California Condor	Cathartidae	2002	Feeding	Food Capture And Consumption	"Snyder, N. and H. Snyder. 2000. The California Condor, a saga of natural history and conservation. Academic Press, London, U.K."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"James, D. A. and J. C. Neal. 1986. Arkansas birds: their distribution and abundance. Univ. of Arkansas Press, Fayetteville."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Paterson, R. L. 1984. High incidence of plant material and small mammals in the autumn diet of Turkey Vultures in Virginia. Wilson Bull. 96:467-469."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Pearson, T. G. 1919. Turkey vulture. Bird-Lore 21:319-322."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Tyler, W. M. 1937. Cathartes aura septentrionalis, Wied. Turkey vulture. Pages 12-28 in Life histories of North American birds of prey. Vol. 1 (Bent, A. C., Ed.) U.S. Natl. Mus. Bull. 167."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Pearson, T. G., C. S. Brimley, and H. H. Brimley. 1942. Birds of North Carolina. N. Carolina Dep. Agric. State Mus. Div. Raleigh."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Rapp, Jr., W. F. 1943. Turkey vulture feeding habits. Auk 60:95."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Buckley, N. J. 1996. Food finding and the influence of information, local enhancement, and communal roosting on foraging success of North American vultures. Auk 113:473-488."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Brock, K. J. 1986. Birds of the Indiana dunes. Indiana Univ. Press, Bloomington, IN."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Keyes, C. R. and H. S. Williams. 1888. Preliminary annotated catalogue of the birds of Iowa. Proc. Davenport Acad. Nat. Sci. 5:113-161."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Rivers, I. L. 1941. The Mormon cricket as food for birds. Condor 43:65-69."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Green, J. 1927. Turkey buzzards eat pumpkins. Bird-Lore 29:117-118."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Hiraldo, F., M. Delibes, and J. A. Donazar. 1991. Comparison of diets of Turkey Vultures in three regions of northern Mexico. J. Field Ornithol. 62:319-324."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Crafts, Jr., R. C. 1968. Turkey vultures found to feed on coconut. Wilson Bull. 80:327-328."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Wetmore, A. 1965. The birds of the Republic of Panama, Part 1. Smithson. Misc. Coll. 150."			
-Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Bendire, C. 1892. Life histories of North American birds. Smithson. Inst., U.S. Natl. Mus. Spec. Bull. 1."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Beebe, F. L. 1974. Field studies of the Falconiformes of British Columbia. Br. Columbia Prov. Mus., Occas. Pap. 17."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Thiel, R. P. 1976. Activity patterns and food habits of southeastern Wisconsin turkey vultures. Passenger Pigeon 38:137-143."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Coleman, J. S., J. D. Fraser, and C. A. Pringle. 1985. Salt eating by Black and Turkey Vultures. Condor 87:291-292."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Coleman, J. S. 1985. Home range, habitat use, behavior and morphology of the Gettysburg vultures. Master's Thesis. Virginia Polytechnic Institute and State Univ., Blacksburg, VA."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Coleman, J. S. and J. D. Fraser. 1987. Food habits of Black and Turkey Vultures in Pennsylvania and Maryland. J. Wildl. Manage. 51:733-739."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Stiles, F. G. and D. H. Janzen. 1983. Cathartes aura (Zopilote Cabecirrojo, Turkey Vulture). Pages 560-562 in Costa Rican natural history. (Janzen, D. H., Ed.) Univ. of Chicago Press, Chicago, IL."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Kirk, D. A. 1988. Ecological separation of small Cathartid vultures in South America. Phd Thesis. Univ. of Glasgow, Glasgow, Scotland."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Rea, A. M. 1973. Turkey vultures casting pellets. Auk 90:209-210."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Thomaides, C., R. Valdez, W. H. Reid, and R. J. Raitt. 1989. Food habits of Turkey Vultures in West Texas. J. Raptor Res. 23:42-44."			
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Yahner, R. H., G. L. Storm, and A. L. Wright. 1986. Winter diets of vultures in southcentral Pennsylvania. Wilson Bull. 98:157-160."			
-Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Jackson, J. A., I. D. Prather, R. N. Conner, and S. P. Gaby. 1978. Fishing behavior of Black and Turkey vultures. Wilson Bull. 90:141-143."			
-Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Scott, W. E. D. 1892. Observations on the birds of Jamaica, West Indies. Auk 9:120-129."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Beasom, S. L. 1974. Selectivity of predator control techniques in south Texas. J. Wildl. Manage. 38:837-844."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Lemon, W. C. 1991. Foraging behavior of a guild of Neotropical vultures. Wilson Bull. 103:698-702."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Peabody, P. B. 1929. Faunal changes. Oologist 46:160-161."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Davis, D. E. 1941. Notes on Cuban birds. Wilson Bull. 53:37-40."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Smith, S. A. and R. A. Paselk. 1986. Olfactory sensitivity of the Turkey Vulture (Cathartes aura) to three carrion-associated odorants. Auk 103:586-592."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Gomez, L. G., D. C. Houston, P. Cotton, and A. Tye. 1994. The role of Greater Yellow-headed Vultures Cathartes melambrotus as scavengers in Neotropical forest. Ibis 136:193-196."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Houston, D. C. 1994. Observations on Greater Yellow-headed Vultures Cathartes melambrotus and other Cathartes species as scavengers in forest in Venezuela. Pages 265-268 in Raptor conservation today. (Meyburg, B. -U and R. D. Chancellor, Eds.) World Working Group on Birds of Prey, The Pica Press, Berlin, London and Paris."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Houston, D. C. 1984. Does the king vulture Sarcoramphus papa use a sense of smell to locate food? Ibis 126:67-69."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Mueller, H. C. and D. D. Berger. 1967. Turkey Vultures attack living prey. Auk 84:430-431."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Glading, B. and C. H. Glading. 1970. An instance of a captive Turkey Vulture killing prey. Condor 72:244-245."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Crider, E. D. and J. C. McDaniel. 1967. Alpha-chloralose used to capture Canada geese. J. Wildl. Manage. 31:258-264."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Fowler, L. E. 1979. Hatching success and nest predation in the green sea turtle Chelonia mydas at Tortuguero, Costa Rica. Ecology 60:946-955."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Brown, L. and A. H. Amadon. 1968. Eagles, hawks and falcons of the world. Country Life, London."	y		
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Mehner, J. F. 1952. Turkey Vultures attacking Great Blue Heron. Wilson Bull 64:242."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Murphy, R. C. 1936. Oceanic birds of South America. MacMillan Co. New York."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Temple, S. A. 1969. A case of Turkey Vulture piracy on Great Blue Herons. Wilson Bull. 81:94."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Lovell, H. B. 1952. Black vulture depredations at Kentucky woodlands. Wilson Bull. 64:48-49."			
-Turkey Vulture	Cathartidae	1998	Competition With Other Cathartids		"Prior, K. A. 1990. Turkey Vulture food habits in southern Ontario. Wilson Bull. 102:706-710."			
-Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Coles, V. E. 1938. Studies in the life history of the Turkey Vulture (Cathartes aura septentrionalis, Wied). Ph.D. thesis. Cornell Univ. Ithaca, NY."			
-Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Hatch, D. E. 1970. Energy conserving and heat dissipating mechanisms of the Turkey Vulture. Auk 87:111-124."			
-Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Prather, I. D., R. N. Conner, and C. S. Adkisson. 1976. Unusually large vulture roost in Virginia. Wilson Bull. 88:667-668."			
-Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Enger, P. S. 1957. Heat regulation and metabolism in some tropical mammals and birds. Acta Physiol. Scand. 40:161-166."			
-Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Arad, Z. and M. H. Bernstein. 1988. Temperature regulation in Turkey Vultures. Condor 90:913-919."			
-Turkey Vulture	Cathartidae	1998	Metabolism And Temperature Regulation		"Heath, J. E. 1962. Temperature fluctuation in the Turkey Vulture. Condor 64:234-235."			
-Turkey Vulture	Cathartidae	1998	Metabolism And Temperature Regulation		"Arad, Z., U. Midtgard, and M. H. Bernstein. 1989. Thermoregulation in Turkey Vultures: Vascular anatomy, arteriovenous heat exchange, and behavior. Condor 91:505-514."			
-Turkey Vulture	Cathartidae	1998	Metabolism And Temperature Regulation		"Haskins, J. W. 1972. An ecological study of two species of vultures: Cathartes aura and Coragyps atratus. Master's Thesis. Stephen F. Austin State Univ., Nacogdoches, TX."			
-Turkey Vulture	Cathartidae	1998	Metabolism And Temperature Regulation		"Thompson, W. L., R. H. Yahner, and G. L. Storm. 1990. Winter use and habitat characteristics of vulture communal roosts. J. Wildl. Manage. 54:77-83."			
-Turkey Vulture	Cathartidae	1998	"Drinking, Pellet-Casting, And Defecation"	Pellet-Casting	"Davis, D. 1983a. Maintenance and social behavior of roosting Turkey Vultures. Pages 322-329 in Vulture biology and management. (Wilbur, S. R. and J. A. Jackson, Eds.) Univ. of California Press, Berkeley, CA."			
-Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Morant, P. and C. Winter. 1984. Turkey Vulture feeding on a floating carcass. Vulture News 12:31."			
-Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Jones, G. W. 1935. A note on the Turkey Vulture. Auk 52:444-445."			
-Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Titus, K. and J. P. Mosher. 1980. Turkey Vulture predation on Ruffed Grouse chicks. Can. Field-Nat. 96:327-328."			
-Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Smith, S. A. 1982. Observations of a captive Turkey Vulture attacking live prey. Murrelet 63:68-69."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Owre, O. T. and P. O. Northington. 1961. Indication of the sense of smell in the Turkey Vulture, Cathartes aura (Linnaeus), from feeding tests. Am. Midl. Nat. 66:200-205."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Houston, D. C. 1986. Scavenging efficiency of Turkey Vultures in tropical forest. Condor 88:318-323."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Wallace, M. P. and S. A. Temple. 1987. Competitive interactions within and between species in a guild of avian scavengers. Auk 104:290-295."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Houston, D. C. 1988. Competition for food in Neotropical vultures in forest. Ibis 130:402-417."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Stager, K. 1964. The role of olfaction in food location by the Turkey Vulture (Cathartes aura). Los Angeles Cty. Mus. Contr. Sci., no 81:1-63."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Rodriguez Estrella, R. 1994. Group size and flight altitude of Turkey Vultures in two habitats in Mexico. Wilson Bull. 106:749-752."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Bang, B. G. and S. Cobb. 1968. The size of the olfactory bulb in 108 species of birds. Auk 85:55-61."			
-Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Applegate, R. D. 1990. Can vultures smell? Turkey Vulture caught in cage trap. N. Am. Bird Bander 15:141-142."			
+California Condor	Cathartidae	2002	Feeding	Food Capture And Consumption	"Snyder, N. F. R., R. R. Ramey, and F. C. Sibley. 1986. Nest-site biology of the California Condor. Condor 88:228-241."	y	n	
+California Condor	Cathartidae	2002	Food Selection And Storage		"Houston, D. C. 1986. Scavenging efficiency of Turkey Vultures in tropical forest. Condor 88:318-323."	y	n	
+California Condor	Cathartidae	2002	Nutrition And Energetics		"Snyder, N. F. R. and H. Snyder. 1989. Biology and conservation of the California Condor. Curr. Ornithol. 6:175-267."	n		unavailable
+California Condor	Cathartidae	2002	Diet		"Taylor, A. S. 1859. The great condor of California. Hutching's Calif. Mag. 3(12):540-543."	n		unavailable
+California Condor	Cathartidae	2002	Food Selection And Storage		"Finley, W. L. 1910. Life history of the California Condor IV: The young condor in captivity. Condor 12:5-11."	y	n	
+California Condor	Cathartidae	2002	Diet		"Emslie, S. D. 1987. Age and diet of fossil California Condors in Grand Canyon, Arizona. Science 237:768-770."	n		unavailable
+California Condor	Cathartidae	2002	Feeding	Food Capture And Consumption	"Mundy, P., D. Butchart, J. Ledger, and S. Piper. 1992. The vultures of Africa. Academic Press, London, U.K."	n		unavailable
+California Condor	Cathartidae	2002	Feeding	Microhabitat For Foraging	"Miller, A. H., I. McMillan, and E. McMillan. 1965. The current status and welfare of the California Condor. Natl. Audubon Soc. Res. Rep. No. 6:1-61."	n		unavailable
+California Condor	Cathartidae	2002	Feeding	Food Capture And Consumption	"Snyder, N. and H. Snyder. 2000. The California Condor, a saga of natural history and conservation. Academic Press, London, U.K."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"James, D. A. and J. C. Neal. 1986. Arkansas birds: their distribution and abundance. Univ. of Arkansas Press, Fayetteville."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Paterson, R. L. 1984. High incidence of plant material and small mammals in the autumn diet of Turkey Vultures in Virginia. Wilson Bull. 96:467-469."	y	y	not entered yet
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Pearson, T. G. 1919. Turkey vulture. Bird-Lore 21:319-322."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Tyler, W. M. 1937. Cathartes aura septentrionalis, Wied. Turkey vulture. Pages 12-28 in Life histories of North American birds of prey. Vol. 1 (Bent, A. C., Ed.) U.S. Natl. Mus. Bull. 167."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Pearson, T. G., C. S. Brimley, and H. H. Brimley. 1942. Birds of North Carolina. N. Carolina Dep. Agric. State Mus. Div. Raleigh."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Rapp, Jr., W. F. 1943. Turkey vulture feeding habits. Auk 60:95."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Buckley, N. J. 1996. Food finding and the influence of information, local enhancement, and communal roosting on foraging success of North American vultures. Auk 113:473-488."	y	y	already entered above
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Brock, K. J. 1986. Birds of the Indiana dunes. Indiana Univ. Press, Bloomington, IN."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Keyes, C. R. and H. S. Williams. 1888. Preliminary annotated catalogue of the birds of Iowa. Proc. Davenport Acad. Nat. Sci. 5:113-161."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Rivers, I. L. 1941. The Mormon cricket as food for birds. Condor 43:65-69."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Green, J. 1927. Turkey buzzards eat pumpkins. Bird-Lore 29:117-118."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Hiraldo, F., M. Delibes, and J. A. Donazar. 1991. Comparison of diets of Turkey Vultures in three regions of northern Mexico. J. Field Ornithol. 62:319-324."	y	y	not entered yet
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Crafts, Jr., R. C. 1968. Turkey vultures found to feed on coconut. Wilson Bull. 80:327-328."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Wetmore, A. 1965. The birds of the Republic of Panama, Part 1. Smithson. Misc. Coll. 150."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Bendire, C. 1892. Life histories of North American birds. Smithson. Inst., U.S. Natl. Mus. Spec. Bull. 1."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Beebe, F. L. 1974. Field studies of the Falconiformes of British Columbia. Br. Columbia Prov. Mus., Occas. Pap. 17."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Thiel, R. P. 1976. Activity patterns and food habits of southeastern Wisconsin turkey vultures. Passenger Pigeon 38:137-143."	y	y	not entered yet
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Coleman, J. S., J. D. Fraser, and C. A. Pringle. 1985. Salt eating by Black and Turkey Vultures. Condor 87:291-292."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Coleman, J. S. 1985. Home range, habitat use, behavior and morphology of the Gettysburg vultures. Master's Thesis. Virginia Polytechnic Institute and State Univ., Blacksburg, VA."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Coleman, J. S. and J. D. Fraser. 1987. Food habits of Black and Turkey Vultures in Pennsylvania and Maryland. J. Wildl. Manage. 51:733-739."	y	y	already entered above
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Stiles, F. G. and D. H. Janzen. 1983. Cathartes aura (Zopilote Cabecirrojo, Turkey Vulture). Pages 560-562 in Costa Rican natural history. (Janzen, D. H., Ed.) Univ. of Chicago Press, Chicago, IL."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Kirk, D. A. 1988. Ecological separation of small Cathartid vultures in South America. Phd Thesis. Univ. of Glasgow, Glasgow, Scotland."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Rea, A. M. 1973. Turkey vultures casting pellets. Auk 90:209-210."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Thomaides, C., R. Valdez, W. H. Reid, and R. J. Raitt. 1989. Food habits of Turkey Vultures in West Texas. J. Raptor Res. 23:42-44."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Yahner, R. H., G. L. Storm, and A. L. Wright. 1986. Winter diets of vultures in southcentral Pennsylvania. Wilson Bull. 98:157-160."	y	y	not entered yet
+Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Jackson, J. A., I. D. Prather, R. N. Conner, and S. P. Gaby. 1978. Fishing behavior of Black and Turkey vultures. Wilson Bull. 90:141-143."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Scott, W. E. D. 1892. Observations on the birds of Jamaica, West Indies. Auk 9:120-129."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Beasom, S. L. 1974. Selectivity of predator control techniques in south Texas. J. Wildl. Manage. 38:837-844."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Lemon, W. C. 1991. Foraging behavior of a guild of Neotropical vultures. Wilson Bull. 103:698-702."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Peabody, P. B. 1929. Faunal changes. Oologist 46:160-161."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Davis, D. E. 1941. Notes on Cuban birds. Wilson Bull. 53:37-40."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Smith, S. A. and R. A. Paselk. 1986. Olfactory sensitivity of the Turkey Vulture (Cathartes aura) to three carrion-associated odorants. Auk 103:586-592."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Gomez, L. G., D. C. Houston, P. Cotton, and A. Tye. 1994. The role of Greater Yellow-headed Vultures Cathartes melambrotus as scavengers in Neotropical forest. Ibis 136:193-196."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Houston, D. C. 1994. Observations on Greater Yellow-headed Vultures Cathartes melambrotus and other Cathartes species as scavengers in forest in Venezuela. Pages 265-268 in Raptor conservation today. (Meyburg, B. -U and R. D. Chancellor, Eds.) World Working Group on Birds of Prey, The Pica Press, Berlin, London and Paris."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Houston, D. C. 1984. Does the king vulture Sarcoramphus papa use a sense of smell to locate food? Ibis 126:67-69."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Mueller, H. C. and D. D. Berger. 1967. Turkey Vultures attack living prey. Auk 84:430-431."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Glading, B. and C. H. Glading. 1970. An instance of a captive Turkey Vulture killing prey. Condor 72:244-245."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Crider, E. D. and J. C. McDaniel. 1967. Alpha-chloralose used to capture Canada geese. J. Wildl. Manage. 31:258-264."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Fowler, L. E. 1979. Hatching success and nest predation in the green sea turtle Chelonia mydas at Tortuguero, Costa Rica. Ecology 60:946-955."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Brown, L. and A. H. Amadon. 1968. Eagles, hawks and falcons of the world. Country Life, London."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Mehner, J. F. 1952. Turkey Vultures attacking Great Blue Heron. Wilson Bull 64:242."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Murphy, R. C. 1936. Oceanic birds of South America. MacMillan Co. New York."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Temple, S. A. 1969. A case of Turkey Vulture piracy on Great Blue Herons. Wilson Bull. 81:94."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Lovell, H. B. 1952. Black vulture depredations at Kentucky woodlands. Wilson Bull. 64:48-49."	y	n	
+Turkey Vulture	Cathartidae	1998	Competition With Other Cathartids		"Prior, K. A. 1990. Turkey Vulture food habits in southern Ontario. Wilson Bull. 102:706-710."	y	y	not entered yet
+Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Coles, V. E. 1938. Studies in the life history of the Turkey Vulture (Cathartes aura septentrionalis, Wied). Ph.D. thesis. Cornell Univ. Ithaca, NY."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Hatch, D. E. 1970. Energy conserving and heat dissipating mechanisms of the Turkey Vulture. Auk 87:111-124."	y	n	
+Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Prather, I. D., R. N. Conner, and C. S. Adkisson. 1976. Unusually large vulture roost in Virginia. Wilson Bull. 88:667-668."	y	n	
+Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Enger, P. S. 1957. Heat regulation and metabolism in some tropical mammals and birds. Acta Physiol. Scand. 40:161-166."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Nutrition And Energetics		"Arad, Z. and M. H. Bernstein. 1988. Temperature regulation in Turkey Vultures. Condor 90:913-919."	y	n	
+Turkey Vulture	Cathartidae	1998	Metabolism And Temperature Regulation		"Heath, J. E. 1962. Temperature fluctuation in the Turkey Vulture. Condor 64:234-235."	y	n	
+Turkey Vulture	Cathartidae	1998	Metabolism And Temperature Regulation		"Arad, Z., U. Midtgard, and M. H. Bernstein. 1989. Thermoregulation in Turkey Vultures: Vascular anatomy, arteriovenous heat exchange, and behavior. Condor 91:505-514."	y	n	
+Turkey Vulture	Cathartidae	1998	Metabolism And Temperature Regulation		"Haskins, J. W. 1972. An ecological study of two species of vultures: Cathartes aura and Coragyps atratus. Master's Thesis. Stephen F. Austin State Univ., Nacogdoches, TX."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Metabolism And Temperature Regulation		"Thompson, W. L., R. H. Yahner, and G. L. Storm. 1990. Winter use and habitat characteristics of vulture communal roosts. J. Wildl. Manage. 54:77-83."	y	n	
+Turkey Vulture	Cathartidae	1998	"Drinking, Pellet-Casting, And Defecation"	Pellet-Casting	"Davis, D. 1983a. Maintenance and social behavior of roosting Turkey Vultures. Pages 322-329 in Vulture biology and management. (Wilbur, S. R. and J. A. Jackson, Eds.) Univ. of California Press, Berkeley, CA."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Morant, P. and C. Winter. 1984. Turkey Vulture feeding on a floating carcass. Vulture News 12:31."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Jones, G. W. 1935. A note on the Turkey Vulture. Auk 52:444-445."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Titus, K. and J. P. Mosher. 1980. Turkey Vulture predation on Ruffed Grouse chicks. Can. Field-Nat. 96:327-328."	n		unavailable
+Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Smith, S. A. 1982. Observations of a captive Turkey Vulture attacking live prey. Murrelet 63:68-69."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Owre, O. T. and P. O. Northington. 1961. Indication of the sense of smell in the Turkey Vulture, Cathartes aura (Linnaeus), from feeding tests. Am. Midl. Nat. 66:200-205."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Houston, D. C. 1986. Scavenging efficiency of Turkey Vultures in tropical forest. Condor 88:318-323."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Wallace, M. P. and S. A. Temple. 1987. Competitive interactions within and between species in a guild of avian scavengers. Auk 104:290-295."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Houston, D. C. 1988. Competition for food in Neotropical vultures in forest. Ibis 130:402-417."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Stager, K. 1964. The role of olfaction in food location by the Turkey Vulture (Cathartes aura). Los Angeles Cty. Mus. Contr. Sci., no 81:1-63."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Rodriguez Estrella, R. 1994. Group size and flight altitude of Turkey Vultures in two habitats in Mexico. Wilson Bull. 106:749-752."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Bang, B. G. and S. Cobb. 1968. The size of the olfactory bulb in 108 species of birds. Auk 85:55-61."	y	n	
+Turkey Vulture	Cathartidae	1998	Feeding	Food Capture And Consumption	"Applegate, R. D. 1990. Can vultures smell? Turkey Vulture caught in cage trap. N. Am. Bird Bander 15:141-142."	y	n	
 Brown Creeper	Certhiidae	2002	Feeding	Microhabitat For Foraging	"Siegel, J. J. 1989. An evaluation of the minimum habitat quality standards for birds in old-growth ponderosa pine forests, northern Arizona. Master's Thesis. Univ. of Arizona, Tucson."	y	n	
 Brown Creeper	Certhiidae	2002	Feeding	Microhabitat For Foraging	"Morrison, M. L., K. A. With, I. C. Timossi, W. M. Block, and K. A. Milne. 1987. Foraging behavior of bark-foraging birds in the Sierra Nevada. Condor 89:201-204."	y	n	
 Brown Creeper	Certhiidae	2002	Feeding	Microhabitat For Foraging	"Raphael, M. G. and M. White. 1984. Use of snags by cavity-nesting birds in the Sierra Nevada. Wildl. Monogr. 86:1-66."	y	n	
