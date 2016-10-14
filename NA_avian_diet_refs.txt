@@ -2639,7 +2639,7 @@ California Condor	Cathartidae	2002	Feeding	Food Capture And Consumption	"Mundy, 
 California Condor	Cathartidae	2002	Feeding	Microhabitat For Foraging	"Miller, A. H., I. McMillan, and E. McMillan. 1965. The current status and welfare of the California Condor. Natl. Audubon Soc. Res. Rep. No. 6:1-61."	n		unavailable
 California Condor	Cathartidae	2002	Feeding	Food Capture And Consumption	"Snyder, N. and H. Snyder. 2000. The California Condor, a saga of natural history and conservation. Academic Press, London, U.K."	n		unavailable
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"James, D. A. and J. C. Neal. 1986. Arkansas birds: their distribution and abundance. Univ. of Arkansas Press, Fayetteville."	n		unavailable
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Paterson, R. L. 1984. High incidence of plant material and small mammals in the autumn diet of Turkey Vultures in Virginia. Wilson Bull. 96:467-469."	y	y	not entered yet
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Paterson, R. L. 1984. High incidence of plant material and small mammals in the autumn diet of Turkey Vultures in Virginia. Wilson Bull. 96:467-469."	y	y	entered
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Pearson, T. G. 1919. Turkey vulture. Bird-Lore 21:319-322."	n		unavailable
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Tyler, W. M. 1937. Cathartes aura septentrionalis, Wied. Turkey vulture. Pages 12-28 in Life histories of North American birds of prey. Vol. 1 (Bent, A. C., Ed.) U.S. Natl. Mus. Bull. 167."	n		unavailable
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Pearson, T. G., C. S. Brimley, and H. H. Brimley. 1942. Birds of North Carolina. N. Carolina Dep. Agric. State Mus. Div. Raleigh."	y	n	
@@ -2649,12 +2649,12 @@ Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Brock, K. J. 1986. Bir
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Keyes, C. R. and H. S. Williams. 1888. Preliminary annotated catalogue of the birds of Iowa. Proc. Davenport Acad. Nat. Sci. 5:113-161."	y	n	
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Rivers, I. L. 1941. The Mormon cricket as food for birds. Condor 43:65-69."	y	n	
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Green, J. 1927. Turkey buzzards eat pumpkins. Bird-Lore 29:117-118."	n		unavailable
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Hiraldo, F., M. Delibes, and J. A. Donazar. 1991. Comparison of diets of Turkey Vultures in three regions of northern Mexico. J. Field Ornithol. 62:319-324."	y	y	not entered yet
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Hiraldo, F., M. Delibes, and J. A. Donazar. 1991. Comparison of diets of Turkey Vultures in three regions of northern Mexico. J. Field Ornithol. 62:319-324."	y	y	entered
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Crafts, Jr., R. C. 1968. Turkey vultures found to feed on coconut. Wilson Bull. 80:327-328."	y	n	
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Wetmore, A. 1965. The birds of the Republic of Panama, Part 1. Smithson. Misc. Coll. 150."	n		unavailable
 Turkey Vulture	Cathartidae	1998	Feeding	Microhabitat For Foraging	"Bendire, C. 1892. Life histories of North American birds. Smithson. Inst., U.S. Natl. Mus. Spec. Bull. 1."	y	n	
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Beebe, F. L. 1974. Field studies of the Falconiformes of British Columbia. Br. Columbia Prov. Mus., Occas. Pap. 17."	n		unavailable
-Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Thiel, R. P. 1976. Activity patterns and food habits of southeastern Wisconsin turkey vultures. Passenger Pigeon 38:137-143."	y	y	not entered yet
+Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Thiel, R. P. 1976. Activity patterns and food habits of southeastern Wisconsin turkey vultures. Passenger Pigeon 38:137-143."	y	y	entered
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Coleman, J. S., J. D. Fraser, and C. A. Pringle. 1985. Salt eating by Black and Turkey Vultures. Condor 87:291-292."	y	n	
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Coleman, J. S. 1985. Home range, habitat use, behavior and morphology of the Gettysburg vultures. Master's Thesis. Virginia Polytechnic Institute and State Univ., Blacksburg, VA."	n		unavailable
 Turkey Vulture	Cathartidae	1998	Feeding	Main Foods Taken	"Coleman, J. S. and J. D. Fraser. 1987. Food habits of Black and Turkey Vultures in Pennsylvania and Maryland. J. Wildl. Manage. 51:733-739."	y	y	already entered above
