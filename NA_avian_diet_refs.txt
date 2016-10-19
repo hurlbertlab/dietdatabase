@@ -68,8 +68,8 @@ Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Stocek, R. F. Diet of
 Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Goulet, R. 2010. Aspects of the Ecology of Urban-nesting Bald Eagles ( Haliaeetus leucocephalus) in South-Coastal British Columbia. McGill University. "	y	Y	
 Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Markham, A. C., and B. D. Watts. 2008. The Influence of Salinity on the Diet of Nesting Bald Eagles. The Journal of Raptor Research. 42:99-109."	y	Y	
 Bald Eagle	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	Y	
-Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Newsome SD, Collins PW, Sharpe P. Foraging ecology of a reintroduced population of breeding Bald Eagles on the Channel Islands, California, USA, inferred from prey remains and stable isotope analysis. The Condor [Internet]. Cooper Ornithological Society; 2015 Jul 22;117(3):396–413"			
-Black-chested Buzzard-eagle	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."			
+Bald Eagle	Accipitridae		Found in 2015 Literature Search		"Newsome SD, Collins PW, Sharpe P. Foraging ecology of a reintroduced population of breeding Bald Eagles on the Channel Islands, California, USA, inferred from prey remains and stable isotope analysis. The Condor [Internet]. Cooper Ornithological Society; 2015 Jul 22;117(3):396–413"	n		unavailable
+Black-chested Buzzard-eagle	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	
 Broad-winged Hawk	Accipitridae	1996	Nutrition And Energetics		"Mosher, J. A. and P. F. Matray. 1974. Size dimorphism: a factor in energy savings for Broad-winged Hawks. Auk 91:325-341."	y	Y	
 Broad-winged Hawk	Accipitridae	1996	Feeding		"Burns, F. L. 1911. A monograph of the Broad-winged Hawk (Buteo platypterus). Wilson Bull. 23(3 and 4):1-320."	y	n	
 Broad-winged Hawk	Accipitridae	1996	Diet	Major Food Items And Quantitative Analysis	"Palmer, R. S. 1988. Handbook of North American birds. Vol. 5. Yale Univ. Press, New Haven, CT."	y	n/y	useful resource for finding other studies (already done); doesn't have enough data from original studies to use as a source itself
@@ -92,10 +92,10 @@ Broad-winged Hawk	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success o
 Broad-winged Hawk	Accipitridae	1996	Diet	Major Food Items And Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."	y	Y	
 Broad-winged Hawk	Accipitridae	1996	Feeding	Food Capture And Consumption	"Mueller, H. C. 1973. The relationship of hunger to predatory behaviour in hawks (Falco sparverius and Buteo platypterus). Anim. Behav. 21:513-520."	y	n	
 Broad-winged Hawk	Accipitridae	1996	Feeding	Main Foods Taken	"Wetmore, A. 1965. The birds of the republic of Panama, part 1-Tinamidae (Tinamous) to Rynchopidae (skimmers). Publ. 4617, Smithsonian Inst. Washington, D.C."	n		requested through ILL; received
-Broad-winged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Snyder, L. 1932. Royal Ontario Museum Zoology Handbook 2."			
-Broad-winged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			McDowell. 1949 Pa. Game News 20 n. 4: 15.			
-Broad-winged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Sherrod. 1978. Raptor Research. 12 49-121			
-Broad-winged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Brewster. 1925 Mus. Comp. Zool. Harvard Bull. 66 211-402			
+Broad-winged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Snyder, L. 1932. Royal Ontario Museum Zoology Handbook 2."	n		unavailable
+Broad-winged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			McDowell. 1949 Pa. Game News 20 n. 4: 15.	n		unavailable
+Broad-winged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Sherrod. 1978. Raptor Research. 12 49-121	n		unavailable
+Broad-winged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Brewster. 1925 Mus. Comp. Zool. Harvard Bull. 66 211-402	n		unavailable
 Common Black-Hawk	Accipitridae	1994	Feeding	Main Foods Taken	"Abramson, I. J. 1976. The Black Hawk (Buteogallus anthracinus) in South Florida. Am. Birds 30:661-662."	n	n	"cited many other studies, noted below"
 Common Black-Hawk	Accipitridae	1994	Feeding	Main Foods Taken	"Slud, P. 1964. The birds of Costa Rica: distribution and ecology. Bull. Am. Mus. Nat. Hist., vol. 128."	n		
 Common Black-Hawk	Accipitridae	1994	Feeding	Main Foods Taken	"Hallinan, T. 1924. Notes on some Panama Canal Zone birds with special reference to their food. Auk 304-326."	y	y	
@@ -253,23 +253,23 @@ Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			
 Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Longhurst et al. 1952. Calif. Dept. Fish and Game, Game Bull. No. 6."	n		requested through ILL
 Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Nette. 1984. Canadian Field Naturalist. 98 252-254	y	n	
 Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Lehti, Robert W.. “The Golden Eagle Attacking Antelope”. The Journal of Wildlife Management 11.4 (1947): 348–349. Web"	y	n	
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Campbell, J.S. 1934. Auk 41 370-371."			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Garrott and Eberhardt. 1982. Jour. Mammal. 63 173-174. 			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			H. S. Ford and Alcorn. 1964. Condor 66 76-77.			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Windigstad et al. 1981. Inland Bird Banding 52 35.			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Eklund. 1946. Auk 63 89-90			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			J. Scott. 1942. Auk 59 477-498.			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			W. Fischer et al.  1980. Beitr. Vogelkd. 26 295-297			
-Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Kuyt.  1967. Bird-Banding 38 78-79			
-Gray Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Stensrude, C. 1965. Observations on a pair of Gray Hawks in southern Arizona. Condor 67:319-321."			
-Gray Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Haverschmidt, F. 1962. Notes on the feeding habits and food of some hawks of Surinam. Condor 64:154-158."			
-Gray Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Amadon, D. and A. R. Phillips. 1939. Notes on the Mexican Goshawk. Auk 56:183-184."			
-Gray Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Sherrod, S. K. 1978. Diets of North American Falconiformes. J. Raptor Res. 12:49-121."			
-Gray Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Glinski, R. L. 1988. Gray Hawk. Pages 83-86 in Proceedings of the Southwest Raptor Management Symposium and Workshop. (Glinski, R. L., B. G. Pendleton, M. B. Moss, M. N. LeFranc, Jr., B. A. Millsap, and S. W. Hoffman, Eds.) Natl. Wildl. Fed. Washington, D.C."			
-Gray Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Bibles, B. D. 1999. The relationship between productivity and habitat quality in Gray Hawks. Phd Thesis. Univ. of Arizona, Tucson."			
-Gray Hawk	Accipitridae	2002	Diet	Major Food Items	"Bendire, C. E. 1892. Life histories of North American birds, with special reference to their breeding and eggs. Spec. Publ. U.S. Natl. Mus. 1:251-255."			
-Gray Hawk	Accipitridae	2002	Diet	Major Food Items	"Lowery, Jr., G. H. and W. W. Dalquest. 1951. Birds from the state of Veracruz, Mexico. Univ. of Kans. Publ. Mus. Nat. Hist. 3(4):531-649."			
-Gray Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Brown, L. and D. Amadon. 1968. Eagles, hawks and falcons of the world. Vol. II. McGraw-Hill Book Co. New York."	y		
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Campbell, J.S. 1934. Auk 41 370-371."	n		unavailable
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Garrott and Eberhardt. 1982. Jour. Mammal. 63 173-174. 	n		unavailable
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			H. S. Ford and Alcorn. 1964. Condor 66 76-77.	n		unavailable
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Windigstad et al. 1981. Inland Bird Banding 52 35.	n		unavailable
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Eklund. 1946. Auk 63 89-90	n		unavailable
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			J. Scott. 1942. Auk 59 477-498.	n		unavailable
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			W. Fischer et al.  1980. Beitr. Vogelkd. 26 295-297	n		unavailable
+Golden Eagle	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Kuyt.  1967. Bird-Banding 38 78-79	n		unavailable
+Gray Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Stensrude, C. 1965. Observations on a pair of Gray Hawks in southern Arizona. Condor 67:319-321."	y	n	
+Gray Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Haverschmidt, F. 1962. Notes on the feeding habits and food of some hawks of Surinam. Condor 64:154-158."	y	n	
+Gray Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Amadon, D. and A. R. Phillips. 1939. Notes on the Mexican Goshawk. Auk 56:183-184."	y	n	
+Gray Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Sherrod, S. K. 1978. Diets of North American Falconiformes. J. Raptor Res. 12:49-121."	y	n	Has sources which have potential data
+Gray Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Glinski, R. L. 1988. Gray Hawk. Pages 83-86 in Proceedings of the Southwest Raptor Management Symposium and Workshop. (Glinski, R. L., B. G. Pendleton, M. B. Moss, M. N. LeFranc, Jr., B. A. Millsap, and S. W. Hoffman, Eds.) Natl. Wildl. Fed. Washington, D.C."	n		unavailable
+Gray Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Bibles, B. D. 1999. The relationship between productivity and habitat quality in Gray Hawks. Phd Thesis. Univ. of Arizona, Tucson."	y	n	
+Gray Hawk	Accipitridae	2002	Diet	Major Food Items	"Bendire, C. E. 1892. Life histories of North American birds, with special reference to their breeding and eggs. Spec. Publ. U.S. Natl. Mus. 1:251-255."	y	n	
+Gray Hawk	Accipitridae	2002	Diet	Major Food Items	"Lowery, Jr., G. H. and W. W. Dalquest. 1951. Birds from the state of Veracruz, Mexico. Univ. of Kans. Publ. Mus. Nat. Hist. 3(4):531-649."	n		unavailable
+Gray Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Brown, L. and D. Amadon. 1968. Eagles, hawks and falcons of the world. Vol. II. McGraw-Hill Book Co. New York."	n		unavailable
 Gray Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167:264-269."			
 Gray Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Haverschmidt, F. and G. F. Mees. 1994. Birds of Suriname. Vaco N.V. Paramaribo, Suriname."			
 Gray Hawk	Accipitridae	2002	Diet	Major Food Items	"West, S. 1974. Gray Hawk feeding on worm lizard. Condor 77:354."			
