@@ -368,18 +368,18 @@ Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Flemming, S. P., 
 Osprey	Accipitridae	2002	Nutrition And Energetics		"Lind, G. S. 1976. Production, nest site selection, and food habits of Ospreys in Deschutes National Forest, Oregon. Unpubl. Master's Thesis. Oregon State Univ. Corvallis."	y	n	
 Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Grubb, Jr., T. C. 1977a. Weather-dependent foraging in Ospreys. Auk 94:146-149."	y	n	
 Osprey	Accipitridae	2002	Nutrition And Energetics		"Karasov, W. H. 1990. Digestion in birds: Chemical and physiological determinants and ecological implications. Pages 391-415 in Avian foraging: theory, methodology, and applications. (Morrison, M. L., C. J. Ralph, J. Verner, and J. R. Jehl, Eds.) Stud. Avian Biol no. 13."	y	n	
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Rogers, W. and S. Leatherwood. 1981. Observations of feeding at sea by a Peregrine Falcon and an Osprey. Condor 83:89-90."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Edwards, T. C. and M. W. Collopy. 1988. Nest tree preference of Ospreys in northcentral Florida. J. Wildl. Manage. 52:103-107."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Cramp, S. and K. E. L. Simmons. 1980. Osprey. Pages 265-277 in The birds of the Western Palearctic. Vol. 2: hawks to bustards. Oxford Univ. Press, Oxford, UK."			
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Decandido, R. 1991. Ecology of Ospreys foraging in migration. Hawk Migr. Assoc. N. Am. Hawk Migr. Stud. 16:5-8."			
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Ueoka, M. L. and J. R. Koplin. 1973. Foraging behavior of Ospreys in northwestern California. J. Raptor Res. 7:32-38."			
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Flemming, S. P. and P. C. Smith. 1990. Environmental influences on Osprey foraging in northeastern Nova Scotia. J. Raptor Res. 24:64-67."			
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Grubb, Jr., T. C. 1977b. Why Ospreys hover. Wilson Bull. 89:149-150."			
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Szaro, R. C. 1978. Reproductive success and foraging behavior of the Osprey at Seahorse Key, Florida. Wilson Bull. 90:112-118."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Thorpe, C. and A. D. Boddham. 1977. Unusual diet for Osprey. Ostrich 48:47."			
-Osprey	Accipitridae	2002	Nutrition And Energetics		"Mclean, P. K. and M. A. Byrd. 1991b. Feeding ecology of Chesapeake Bay Ospreys and growth and behavior of their young. Wilson Bull. 103:105-111."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Watermolen, D. J. 1996. Osprey (Pandion haliaetus) preys on mudpuppy (Necturus maculosus maculosus) in Menominee County. Mich. Birds Nat. Hist. 3:157-158."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Pawloski, W. G. 1996. Osprey with muskrat in Monroe Co. [Michigan]. Mich. Birds Nat. Hist. 3:83."			
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Rogers, W. and S. Leatherwood. 1981. Observations of feeding at sea by a Peregrine Falcon and an Osprey. Condor 83:89-90."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Edwards, T. C. and M. W. Collopy. 1988. Nest tree preference of Ospreys in northcentral Florida. J. Wildl. Manage. 52:103-107."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Cramp, S. and K. E. L. Simmons. 1980. Osprey. Pages 265-277 in The birds of the Western Palearctic. Vol. 2: hawks to bustards. Oxford Univ. Press, Oxford, UK."	n		unavailable
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Decandido, R. 1991. Ecology of Ospreys foraging in migration. Hawk Migr. Assoc. N. Am. Hawk Migr. Stud. 16:5-8."	n		unavailable
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Ueoka, M. L. and J. R. Koplin. 1973. Foraging behavior of Ospreys in northwestern California. J. Raptor Res. 7:32-38."	y	n	
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Flemming, S. P. and P. C. Smith. 1990. Environmental influences on Osprey foraging in northeastern Nova Scotia. J. Raptor Res. 24:64-67."	y	n	
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Grubb, Jr., T. C. 1977b. Why Ospreys hover. Wilson Bull. 89:149-150."	y	n	
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Szaro, R. C. 1978. Reproductive success and foraging behavior of the Osprey at Seahorse Key, Florida. Wilson Bull. 90:112-118."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Thorpe, C. and A. D. Boddham. 1977. Unusual diet for Osprey. Ostrich 48:47."	n		unavailable
+Osprey	Accipitridae	2002	Nutrition And Energetics		"Mclean, P. K. and M. A. Byrd. 1991b. Feeding ecology of Chesapeake Bay Ospreys and growth and behavior of their young. Wilson Bull. 103:105-111."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Watermolen, D. J. 1996. Osprey (Pandion haliaetus) preys on mudpuppy (Necturus maculosus maculosus) in Menominee County. Mich. Birds Nat. Hist. 3:157-158."	n		unavailable
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Pawloski, W. G. 1996. Osprey with muskrat in Monroe Co. [Michigan]. Mich. Birds Nat. Hist. 3:83."	n		unavailable
 Osprey	Accipitridae	2002	Diet		"Carss, D. N. and J. D. Godfrey. 1996. Accuracy of estimating the species and size of Osprey prey: a test of methods. J. Raptor Res. 30:57-61."			
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Swenson, J. E. 1978. Prey and foraging behavior of Ospreys on Yellowstone Lake, Wyoming. J. Wildl. Manage. 42:87-90."			
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Ewins, P. J. and E. Cousineau. 1994. Ospreys (Pandion haliaetus) scavenging fish on ice. J. Raptor Res. 28:120."			
