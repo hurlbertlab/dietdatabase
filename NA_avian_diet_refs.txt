@@ -380,82 +380,82 @@ Osprey	Accipitridae	2002	Diet	Major Food Items	"Thorpe, C. and A. D. Boddham. 19
 Osprey	Accipitridae	2002	Nutrition And Energetics		"Mclean, P. K. and M. A. Byrd. 1991b. Feeding ecology of Chesapeake Bay Ospreys and growth and behavior of their young. Wilson Bull. 103:105-111."	y	n	
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Watermolen, D. J. 1996. Osprey (Pandion haliaetus) preys on mudpuppy (Necturus maculosus maculosus) in Menominee County. Mich. Birds Nat. Hist. 3:157-158."	n		unavailable
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Pawloski, W. G. 1996. Osprey with muskrat in Monroe Co. [Michigan]. Mich. Birds Nat. Hist. 3:83."	n		unavailable
-Osprey	Accipitridae	2002	Diet		"Carss, D. N. and J. D. Godfrey. 1996. Accuracy of estimating the species and size of Osprey prey: a test of methods. J. Raptor Res. 30:57-61."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Swenson, J. E. 1978. Prey and foraging behavior of Ospreys on Yellowstone Lake, Wyoming. J. Wildl. Manage. 42:87-90."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Ewins, P. J. and E. Cousineau. 1994. Ospreys (Pandion haliaetus) scavenging fish on ice. J. Raptor Res. 28:120."			
-Osprey	Accipitridae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."			
-Osprey	Accipitridae	2002	Feeding	Main Foods Taken	"Palmer, R. S. 1988. Handbook of North American birds, Vol. 4: diurnal raptors. Pt. 1. Yale Univ. Press, New Haven, CT."			
-Osprey	Accipitridae	2002	Feeding	Main Foods Taken	"Poole, A. 1989a. Ospreys: a natural and unnatural history. Cambridge Univ. Press, Cambridge, U.K."			
-Osprey	Accipitridae	2002	Feeding	Main Foods Taken	"Vana-Miller, S. L. 1987. Habitat suitability index models: Osprey. U.S. Fish Wildl. Serv. Biol. Rep. 82."			
-Osprey	Accipitridae	2002	Metabolism And Temperature Regulation	Metabolism	"Wasser, J. S. 1986. The relationship of energetics of falconiform birds to body mass and climate. Condor 88:57-62."			
-Osprey	Accipitridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Stone, W. B., S. A. Butkas, and E. M. Reilly. 1978. Long small intestine in the Osprey and Peregrine Falcon. New York State Fish Game 25:178-181."			
-Osprey	Accipitridae	2002	Nutrition And Energetics		"Green, D. J. and R. C. Ydenberg. 1994. Energetic expenditure of male Ospreys provisioning natural and manipulated broods. Ardea 82:249-262."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Leshem, Y. 1984. Shell-dropping by Ospreys. Br. Birds 78:143."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Castrale, J. S. and J. McCall. 1983. Osprey captures mammal at edge of soybean field. Raptor Res. 17:92."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Taylor, P. 1986. Osprey catches gray squirrel. J. Raptor Res. 20:76."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Proctor, N. S. 1977. Osprey catches vole. Wilson Bull. 89:625."			
-Osprey	Accipitridae	2002	Nutrition And Energetics		"Candler, G. L. and P. L. Kennedy. 1995. Flight strategies of migrating Osprey: fasting vs. foraging. J. Raptor Res. 29:85-92."			includes data for other birds of prey
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Werren, J. H. and C. J. Peterson. 1988. Osprey hunting on ground for small mammals. Wilson Bull. 100:504."			includes data for other birds of prey
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Wiley, J. W. and F. E. Lohrer. 1973. Additional records of non-fish prey taken by Ospreys. Wilson Bull. 85:468-470."			
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Douglass, J. F. 1997. Osprey diet includes red squirrel. Mich. Birds Nat. Hist. 4:151-152."			includes data for other birds of prey
-Osprey	Accipitridae	2002	Metabolism And Temperature Regulation	Metabolism	"Wasser, J. S. 1979. Comparative energetics of some falconiform birds. Master's Thesis. Univ. of Florida, Gainesville."			includes data for other birds of prey
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Van Daele, L. J. and H. A. Van Daele. 1982. Factors affecting the productivity of Ospreys nesting in west-central Idaho. Condor 84:292-299."			includes data for other birds of prey
+Osprey	Accipitridae	2002	Diet		"Carss, D. N. and J. D. Godfrey. 1996. Accuracy of estimating the species and size of Osprey prey: a test of methods. J. Raptor Res. 30:57-61."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Swenson, J. E. 1978. Prey and foraging behavior of Ospreys on Yellowstone Lake, Wyoming. J. Wildl. Manage. 42:87-90."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Ewins, P. J. and E. Cousineau. 1994. Ospreys (Pandion haliaetus) scavenging fish on ice. J. Raptor Res. 28:120."	n		unavailable
+Osprey	Accipitridae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."	y	n	
+Osprey	Accipitridae	2002	Feeding	Main Foods Taken	"Palmer, R. S. 1988. Handbook of North American birds, Vol. 4: diurnal raptors. Pt. 1. Yale Univ. Press, New Haven, CT."	n		unavailable
+Osprey	Accipitridae	2002	Feeding	Main Foods Taken	"Poole, A. 1989a. Ospreys: a natural and unnatural history. Cambridge Univ. Press, Cambridge, U.K."	y	n	
+Osprey	Accipitridae	2002	Feeding	Main Foods Taken	"Vana-Miller, S. L. 1987. Habitat suitability index models: Osprey. U.S. Fish Wildl. Serv. Biol. Rep. 82."	y	n	
+Osprey	Accipitridae	2002	Metabolism And Temperature Regulation	Metabolism	"Wasser, J. S. 1986. The relationship of energetics of falconiform birds to body mass and climate. Condor 88:57-62."	y	n	
+Osprey	Accipitridae	2002	"Drinking, Pellet-Casting, And Defecation"		"Stone, W. B., S. A. Butkas, and E. M. Reilly. 1978. Long small intestine in the Osprey and Peregrine Falcon. New York State Fish Game 25:178-181."	n		unavailable
+Osprey	Accipitridae	2002	Nutrition And Energetics		"Green, D. J. and R. C. Ydenberg. 1994. Energetic expenditure of male Ospreys provisioning natural and manipulated broods. Ardea 82:249-262."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Leshem, Y. 1984. Shell-dropping by Ospreys. Br. Birds 78:143."	n		unavailable
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Castrale, J. S. and J. McCall. 1983. Osprey captures mammal at edge of soybean field. Raptor Res. 17:92."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Taylor, P. 1986. Osprey catches gray squirrel. J. Raptor Res. 20:76."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Proctor, N. S. 1977. Osprey catches vole. Wilson Bull. 89:625."	y	n	
+Osprey	Accipitridae	2002	Nutrition And Energetics		"Candler, G. L. and P. L. Kennedy. 1995. Flight strategies of migrating Osprey: fasting vs. foraging. J. Raptor Res. 29:85-92."	y	n	includes data for other birds of prey
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Werren, J. H. and C. J. Peterson. 1988. Osprey hunting on ground for small mammals. Wilson Bull. 100:504."	y	n	includes data for other birds of prey
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Wiley, J. W. and F. E. Lohrer. 1973. Additional records of non-fish prey taken by Ospreys. Wilson Bull. 85:468-470."	y	n	
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Douglass, J. F. 1997. Osprey diet includes red squirrel. Mich. Birds Nat. Hist. 4:151-152."	n		unavailable
+Osprey	Accipitridae	2002	Metabolism And Temperature Regulation	Metabolism	"Wasser, J. S. 1979. Comparative energetics of some falconiform birds. Master's Thesis. Univ. of Florida, Gainesville."	n		unavailable
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Van Daele, L. J. and H. A. Van Daele. 1982. Factors affecting the productivity of Ospreys nesting in west-central Idaho. Condor 84:292-299."	y	y	not entered yet
 Osprey	Accipitridae	2002	Diet	Major Food Items	"King, M. M. 1988. Osprey preys on tiger salamander. J. Raptor Res. 22:121."	y	y	
-Osprey	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."		y	
-Prairie Falcon	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."			notes
+Osprey	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	not entered yet
+Prairie Falcon	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
 Red-backed	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	
-Red-shouldered hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."			
-Red-shouldered hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."			
-Red-shouldered hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982			
-Red-tailed hawk	Accipitridae	1996	Feeding		"Fitch, H. S. 1974. Observations on the food and nesting of the Broad-winged Hawk (Buteo platypterus) in northeastern Kansas. Condor 76:331-360."			
+Red-shouldered hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	not entered yet
+Red-shouldered hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
+Red-shouldered hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982	n		unavailable
+Red-tailed hawk	Accipitridae	1996	Feeding		"Fitch, H. S. 1974. Observations on the food and nesting of the Broad-winged Hawk (Buteo platypterus) in northeastern Kansas. Condor 76:331-360."	y	y	not entered yet
 Red-tailed hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982	y	y	
-Red-tailed hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."			
-Red-tailed hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."			
+Red-tailed hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	above
+Red-tailed hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
 Red-tailed hawk	Accipitridae				"Murphy, R. K. 1993. History, nesting biology, and predation ecology of raptors in the Missouri Coteau of northwestern North Dakota. Diss. Montana State University 116-150."	y	y	
-Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Restani, M. 1991. Resource partitioning among three Buteo species in the Centennial Valley, Montana. Condor 93:1007-1010."			
+Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Restani, M. 1991. Resource partitioning among three Buteo species in the Centennial Valley, Montana. Condor 93:1007-1010."	y	y	not entered yet
 Red-tailed hawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
-Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Steenhof, K. and M. N. Kochert. 1985. Dietary shifts of sympatric buteos during a prey decline. Oecologia 66:6-16."			
-Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Orians and Kuhlman. 1956. Condor. 58 371-385			
-Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gates. 1972. Wilson Bull. 84 421-433			
-Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Fitch and Bare. 1978. Tras. Kans. Acad. Sci. 81 1-13			
-Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Lowe, C. 1978. Certain Life History Aspects of the Red-Tailed Hawk in Cent. Okla. And Interior Alaska. University of Alaska, Fairbanks, M.S. Thesis"			
-Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Knight, R. L. and Erickson. 1976. Raptor Research. 10 108-111"			
-Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Fitch et al. 1946. Condor 48 205-237			
-Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Meslow and Keith. 1966. Candian Field-Naturalist. 80 98-100.			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Springer, A. M. 1975. Observations on the summer diet of Rough-legged Hawks from Alaska. Condor 77:338-339."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Watson, J. W. 1984. Rough-legged Hawk winter ecology in southeastern Idaho. Master's Thesis. Univ. of Montana, Missoula."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Schnell, G. D. 1968. Differential habitat utilization by wintering Rough-legged and Red-tailed hawks. Condor 70:373-377."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Bildstein, K. L. 1987. Behavioral ecology of Red-tailed Hawks (Buteo jamaicensis), Rough-legged Hawks (Buteo lagopus), Northern Harriers (Circus cyaneus), and American Kestrels (Falco sparverius) in south central Ohio. Ohio Biol. Notes no. 18."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Sylv????n, M. 1978. Interspecific relations between sympatrically wintering Common Buzzards Buteo buteo and Rough-legged Buzzards Buteo lagopus. Ornis Scand. 9:197-205."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Mindell, D. P. 1983. Nesting raptors in southwestern Alaska: status, distribution, and aspects of biology. Alaska Tech. Rep. 8. U.S. Bureau of Land Manage. Anchorage, AK."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Craighead, J. J. and F. C. Craighead. 1956. Hawks, owls, and wildlife. Stackpole Books, Harrisburg, PA."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"White, C. M. and T. J. Cade. 1971. Cliff-nesting raptors and ravens along the Colville River in arctic Alaska. Living Bird 10:107-150."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Mcatee, W. L. 1935. Food habits of common hawks. U.S. Dep. Agric., Circular 370, Washington, D.C."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Palmer, R. S. 1988. Handbook of North American birds, Vol. 5: diurnal raptors. Pt. 2. Yale Univ. Press, New Haven, CT."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Kopischke, E. D. 1965. Rough-legged Hawk attempts to kill pheasants. Loon 37:18-38."			
+Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Steenhof, K. and M. N. Kochert. 1985. Dietary shifts of sympatric buteos during a prey decline. Oecologia 66:6-16."	y	y	not entered yet
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Orians and Kuhlman. 1956. Condor. 58 371-385	n		unavailable
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gates. 1972. Wilson Bull. 84 421-433	n		unavailable
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Fitch and Bare. 1978. Tras. Kans. Acad. Sci. 81 1-13	n		unavailable
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Lowe, C. 1978. Certain Life History Aspects of the Red-Tailed Hawk in Cent. Okla. And Interior Alaska. University of Alaska, Fairbanks, M.S. Thesis"	n		unavailable
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Knight, R. L. and Erickson. 1976. Raptor Research. 10 108-111"	n		unavailable
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Fitch et al. 1946. Condor 48 205-237	n		unavailable
+Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Meslow and Keith. 1966. Candian Field-Naturalist. 80 98-100.	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Springer, A. M. 1975. Observations on the summer diet of Rough-legged Hawks from Alaska. Condor 77:338-339."	y	y	not entered yet
+Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Watson, J. W. 1984. Rough-legged Hawk winter ecology in southeastern Idaho. Master's Thesis. Univ. of Montana, Missoula."	y	y	not entered yet
+Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Schnell, G. D. 1968. Differential habitat utilization by wintering Rough-legged and Red-tailed hawks. Condor 70:373-377."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Bildstein, K. L. 1987. Behavioral ecology of Red-tailed Hawks (Buteo jamaicensis), Rough-legged Hawks (Buteo lagopus), Northern Harriers (Circus cyaneus), and American Kestrels (Falco sparverius) in south central Ohio. Ohio Biol. Notes no. 18."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Sylv????n, M. 1978. Interspecific relations between sympatrically wintering Common Buzzards Buteo buteo and Rough-legged Buzzards Buteo lagopus. Ornis Scand. 9:197-205."	y	y	not entered yet
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Mindell, D. P. 1983. Nesting raptors in southwestern Alaska: status, distribution, and aspects of biology. Alaska Tech. Rep. 8. U.S. Bureau of Land Manage. Anchorage, AK."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Craighead, J. J. and F. C. Craighead. 1956. Hawks, owls, and wildlife. Stackpole Books, Harrisburg, PA."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"White, C. M. and T. J. Cade. 1971. Cliff-nesting raptors and ravens along the Colville River in arctic Alaska. Living Bird 10:107-150."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Mcatee, W. L. 1935. Food habits of common hawks. U.S. Dep. Agric., Circular 370, Washington, D.C."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Palmer, R. S. 1988. Handbook of North American birds, Vol. 5: diurnal raptors. Pt. 2. Yale Univ. Press, New Haven, CT."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Kopischke, E. D. 1965. Rough-legged Hawk attempts to kill pheasants. Loon 37:18-38."	n		unavailable
 Rough-legged Hawk	Accipitridae	2002	Diet	Quantitative Analysis	"Marti, C. D. 1987. Raptor food habits studies. Pages 67-80 in Raptor management techniques manual. (Pendleton, B. A. Giron, B. A. Millsap, K. W. Kline, and D. M. Bird, Eds.) Natl. Wildl. Fed. Washington, D.C."	y	n	
-Rough-legged Hawk	Accipitridae	2002	Nutrition And Energetics		"Brown, L. 1976. Birds of prey: their biology and ecology. Hamlyn, London, U.K."			
-Rough-legged Hawk	Accipitridae	2002	Nutrition And Energetics		"Mainka, S. A., R. M. Cooper, S. R. Black, and E. S. Dierenfeld. 1992. Serum a-tocopherol in captive and free-ranging raptors. J. Zoo Wildl. Med. 23:72-76."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Littlefield, C. D., S. P. Thompson, and R. S. Johnstone. 1992. Rough-legged Hawk habitat selection in relation to livestock grazing on Malheur National Wildlife Refuge, Oregon. Northwest. Nat. 73:80-84."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Baker, J. A. and R. J. Brooks. 1981. Distribution patterns of raptors in relation to density of meadow voles. Condor 83:42-47."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Barth, E. K. 1952. Breeding biology of the Rough-legged Buzzard. Pap. Game Res. no. 8:127-138."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Hagen, Y. 1969. Norwegian studies on the reproduction of birds of prey and owls in relation to micro-rodent population fluctuations. Fauna 22:73-126."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Dement'Ev, G. P. and N. A. Gladkov. 1951. Birds of the Soviet Union. Vol. 1. Publishing House Sovetskaya Nauka, Moscow, USSR. [English translation by the Israel Program for Scientific Translations, Jerusalem, Israel, in 1966.]."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Schnell, G. D. 1967b. Environmental influence on the incidence of flight in the Rough-legged Hawk. Auk 84:173-182."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Griffen, R. 1983. Behavioral and predatory energetics of a wintering Rough-legged Hawk. Master's Thesis. Humboldt State Univ. Arcata, CA."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Smith, T. G. 1975. Rough-legged Hawks, Buteo lagopus (Pontoppidan) as carrion feeders in the arctic. Can. Field-Nat. 89:190."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Thiel, R. P. 1985. Snow depth affects local abundance of wintering Rough-legged Hawks. Passenger Pigeon 47:129-130."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Daan, S. 1982. Timing of vole hunting in aerial raptors. Mammal Rev. 12:169-181."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Fisher, A. K. 1893. The hawks and owls of the United States in their relation to agriculture. U.S. Dep. Agric., Div. Ornithol. Mammal. Bull. 3."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Woods, M. J. 1984. Rough-legged Buzzard dismembering prey in flight. Br. Birds 77:207."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Twente, J. W. 1954. Predation on bats by hawks and owls. Wilson Bull. 66:135-136."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Poole, K. G. and R. G. Bromley. 1988. Interrelationships within a raptor guild in the central Canadian Arctic. Can. J. Zool. 66:2275-2282."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Mueller, H. C., N. S. Mueller, and R. W. Mueller. 1966. Rough-legged Hawk catches fish. Wilson Bull. 78:470."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Sonerud, G. A. 1986. Effect of snow cover on seasonal changes in diet, habitat, and regional distribution of raptors that prey on small mammals in boreal zones of Fennoscandia. Holarct. Ecol. 9:33-47."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Temeles, E. J. and T. I. Wellicome. 1992. Weather-dependent kleptoparasitism and aggression in a raptor guild. Auk 109:920-923."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Potapov, E. R. 1986. Food of Rough-legged Buzzard in the Kolyma tundra (on the question of prey selection by raptors). Ekologiya 1:55-58."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Weller, M. W. 1964. Habitat utilization of two species of buteos wintering in central Iowa. Iowa Bird Life 34:58-62."			
+Rough-legged Hawk	Accipitridae	2002	Nutrition And Energetics		"Brown, L. 1976. Birds of prey: their biology and ecology. Hamlyn, London, U.K."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Nutrition And Energetics		"Mainka, S. A., R. M. Cooper, S. R. Black, and E. S. Dierenfeld. 1992. Serum a-tocopherol in captive and free-ranging raptors. J. Zoo Wildl. Med. 23:72-76."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Littlefield, C. D., S. P. Thompson, and R. S. Johnstone. 1992. Rough-legged Hawk habitat selection in relation to livestock grazing on Malheur National Wildlife Refuge, Oregon. Northwest. Nat. 73:80-84."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Baker, J. A. and R. J. Brooks. 1981. Distribution patterns of raptors in relation to density of meadow voles. Condor 83:42-47."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Barth, E. K. 1952. Breeding biology of the Rough-legged Buzzard. Pap. Game Res. no. 8:127-138."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Hagen, Y. 1969. Norwegian studies on the reproduction of birds of prey and owls in relation to micro-rodent population fluctuations. Fauna 22:73-126."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Dement'Ev, G. P. and N. A. Gladkov. 1951. Birds of the Soviet Union. Vol. 1. Publishing House Sovetskaya Nauka, Moscow, USSR. [English translation by the Israel Program for Scientific Translations, Jerusalem, Israel, in 1966.]."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Schnell, G. D. 1967b. Environmental influence on the incidence of flight in the Rough-legged Hawk. Auk 84:173-182."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Griffen, R. 1983. Behavioral and predatory energetics of a wintering Rough-legged Hawk. Master's Thesis. Humboldt State Univ. Arcata, CA."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Smith, T. G. 1975. Rough-legged Hawks, Buteo lagopus (Pontoppidan) as carrion feeders in the arctic. Can. Field-Nat. 89:190."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Thiel, R. P. 1985. Snow depth affects local abundance of wintering Rough-legged Hawks. Passenger Pigeon 47:129-130."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Daan, S. 1982. Timing of vole hunting in aerial raptors. Mammal Rev. 12:169-181."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Fisher, A. K. 1893. The hawks and owls of the United States in their relation to agriculture. U.S. Dep. Agric., Div. Ornithol. Mammal. Bull. 3."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Woods, M. J. 1984. Rough-legged Buzzard dismembering prey in flight. Br. Birds 77:207."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Twente, J. W. 1954. Predation on bats by hawks and owls. Wilson Bull. 66:135-136."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Poole, K. G. and R. G. Bromley. 1988. Interrelationships within a raptor guild in the central Canadian Arctic. Can. J. Zool. 66:2275-2282."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Mueller, H. C., N. S. Mueller, and R. W. Mueller. 1966. Rough-legged Hawk catches fish. Wilson Bull. 78:470."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Sonerud, G. A. 1986. Effect of snow cover on seasonal changes in diet, habitat, and regional distribution of raptors that prey on small mammals in boreal zones of Fennoscandia. Holarct. Ecol. 9:33-47."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Temeles, E. J. and T. I. Wellicome. 1992. Weather-dependent kleptoparasitism and aggression in a raptor guild. Auk 109:920-923."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Potapov, E. R. 1986. Food of Rough-legged Buzzard in the Kolyma tundra (on the question of prey selection by raptors). Ekologiya 1:55-58."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Weller, M. W. 1964. Habitat utilization of two species of buteos wintering in central Iowa. Iowa Bird Life 34:58-62."	y	y	not entered yet
 Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Baker, J. A. 1977. Numerical and aggregative responses of raptors to abundance of meadow voles, Microtus pennsylvanicus. Master's Thesis. Univ. of Guelph, Guelph, ON."			
 Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Phelan, F. J. S. and R. J. Robertson. 1978. Predatory responses of a raptor guild to changes in prey density. Can. J. Zool. 56:2565-2572."			
 Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Schnell, G. D. 1967a. Population fluctuations, spatial distribution, and food habits of Rough-legged Hawks in Illinois. Kansas Ornithol. Soc. Bull. 18:21-28."			
