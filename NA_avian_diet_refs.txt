@@ -456,41 +456,41 @@ Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Soneru
 Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Temeles, E. J. and T. I. Wellicome. 1992. Weather-dependent kleptoparasitism and aggression in a raptor guild. Auk 109:920-923."	y	n	
 Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Potapov, E. R. 1986. Food of Rough-legged Buzzard in the Kolyma tundra (on the question of prey selection by raptors). Ekologiya 1:55-58."	n		unavailable
 Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Weller, M. W. 1964. Habitat utilization of two species of buteos wintering in central Iowa. Iowa Bird Life 34:58-62."	y	y	not entered yet
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Baker, J. A. 1977. Numerical and aggregative responses of raptors to abundance of meadow voles, Microtus pennsylvanicus. Master's Thesis. Univ. of Guelph, Guelph, ON."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Phelan, F. J. S. and R. J. Robertson. 1978. Predatory responses of a raptor guild to changes in prey density. Can. J. Zool. 56:2565-2572."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Schnell, G. D. 1967a. Population fluctuations, spatial distribution, and food habits of Rough-legged Hawks in Illinois. Kansas Ornithol. Soc. Bull. 18:21-28."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Lorek, G. 1992. Behavior of birds of prey and carrion feeders on railways. Notatki Ornitol. 33:101-109."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Hogan, G. G. 1983. Interspecific food piracy of Rough-legged Hawk, Buteo lagopus, on Red-tailed Hawk, B. jamaicensis, and scavenging by Rough-legged Hawk. Can. Field-Nat. 97:330-331."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Viitala, J. E., E. Korpimaki, P. Palokangas, and M. Kolvula. 1995. Attraction of kestrels to vole scent marks visible in ultraviolet light. Nature 373:425-427."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Swem, T. R. 1996. Aspects of the breeding biology of Rough-legged Hawks along the Colville River, Alaska. Master's Thesis. Boise State Univ. Boise, ID."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Pasanen, S. and S. Sulkava. 1971. On the nutritional biology of the Rough-legged Buzzard, Buteo lagopus lagopus Brunn, in Finnish Lapland. Aquilo Ser Zool. 12:53-63."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Sealy, S. G. 1966. Notes on the Rough-legged Hawk in the Perry River Region, Northwest Territories. Blue Jay 24:127-128."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Smith, C. J. 1987. Parental roles and nestling foods in the Rough-legged Hawk, Buteo lagopus. Can. Field-Nat. 101:101-103."			
-Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Sutton, G. M. and D. F. Parmelee. 1956. The Rough-legged Hawk in the American Arctic. Arctic 9:202-207."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Gullion, G. W. 1957. Miscellaneous bird records from northeastern Nevada. Condor 59:70-71."			
-Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Errington, P. L. and W. J. Breckenridge. 1938. Food habits of buteo hawks in north-central United States. Wilson Bull. 50:113-121."			
-Rough-legged Hawk	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."			
-Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Bent. 1937. U.S. Nat. Mus. Bull. 167			
-Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Errington and Breckenridge. 1936. Am. Midland Nat. 7 831-848.			
-Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Jackson, V. 1941. Canadian Field-Naturalist. 55 129-130."			
-Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Racey. 1922. Murrelet 3 6.			
-Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Sprunt, Jr.. 1940. Auk 57 564-565"			
-Sharp-shinned Hawk	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Peeters, H. J. 1963. Two observations of avian predation. Wilson Bull. 75:274."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Page, G. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:7383."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Kilham, L. 1958. Repeated attacks by a Sharp-shinned Hawk on a Pileated Woodpecker. Condor 60:141-142."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Meyer, K. D. 1987. Sexual size dimorphism and the behavioral ecology of breeding and wintering Sharp-shinned Hawks. Phd Thesis. Univ. of North Carolina, Chapel Hill."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Stone, W. 1937. Bird Studies at Old Cape May. Delaware Valley Ornithol. Club, Philadelphia, PA."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Dunn, E. H. and D. L. Tessaglia. 1994. Predation on birds at feeders in winter. J. Field Ornithol. 65:8-16."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Quinn, M. S. 1991. Nest site and prey of a pair of Sharp-shinned Hawks in Alberta. J. Raptor Res. 25:18-19."			
-Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Palmer, R. S. 1988. Handbook of North American birds. Vol. 4. Yale Univ. Press, New Haven, CT."			
-Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Dunning, Jr., J. B. 1984. Body weights of 686 species of North American birds. West. Bird Band. Assoc Monogr. no. 1."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Storer, R. W. 1966. Sexual dimorphism and food habits in three North American accipiters. Auk 83:423-436."			
-Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Marks, D. K. and N. L. Naslund. 1994. Sharp-shinned Hawk preys on a Marbled Murrelet nesting in old-growth forest. Wilson Bull. 106:565-567."			
-Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Kelley, A. and N. Kelley. 1969. Porcupine quills found in foot of Sharp-shinned Hawk. Wilson Bull. 81:209-210."			
-Sharp-shinned Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20:1-96."			
-Sharp-shinned Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Mueller, H. C., N. S. Mueller, and P. C. Parker. 1981b. Observations of a brood of Sharp-shinned Hawks in Ontario, with comments on the functions of sexual dimorphism. Wilson Bull. 93:85-92."			
-Sharp-shinned Hawk	Accipitridae	2000	Metabolism And Temperature Regulation		"Kennedy, P. L. and J. A. Gessaman. 1991. Diurnal resting metabolic rates of accipiters. Wilson Bull. 103:101-105."			
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Baker, J. A. 1977. Numerical and aggregative responses of raptors to abundance of meadow voles, Microtus pennsylvanicus. Master's Thesis. Univ. of Guelph, Guelph, ON."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Phelan, F. J. S. and R. J. Robertson. 1978. Predatory responses of a raptor guild to changes in prey density. Can. J. Zool. 56:2565-2572."	y	y	not entered yet
+Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Schnell, G. D. 1967a. Population fluctuations, spatial distribution, and food habits of Rough-legged Hawks in Illinois. Kansas Ornithol. Soc. Bull. 18:21-28."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Lorek, G. 1992. Behavior of birds of prey and carrion feeders on railways. Notatki Ornitol. 33:101-109."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Hogan, G. G. 1983. Interspecific food piracy of Rough-legged Hawk, Buteo lagopus, on Red-tailed Hawk, B. jamaicensis, and scavenging by Rough-legged Hawk. Can. Field-Nat. 97:330-331."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Viitala, J. E., E. Korpimaki, P. Palokangas, and M. Kolvula. 1995. Attraction of kestrels to vole scent marks visible in ultraviolet light. Nature 373:425-427."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Swem, T. R. 1996. Aspects of the breeding biology of Rough-legged Hawks along the Colville River, Alaska. Master's Thesis. Boise State Univ. Boise, ID."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Pasanen, S. and S. Sulkava. 1971. On the nutritional biology of the Rough-legged Buzzard, Buteo lagopus lagopus Brunn, in Finnish Lapland. Aquilo Ser Zool. 12:53-63."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Sealy, S. G. 1966. Notes on the Rough-legged Hawk in the Perry River Region, Northwest Territories. Blue Jay 24:127-128."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Smith, C. J. 1987. Parental roles and nestling foods in the Rough-legged Hawk, Buteo lagopus. Can. Field-Nat. 101:101-103."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Diet	Major Food Items	"Sutton, G. M. and D. F. Parmelee. 1956. The Rough-legged Hawk in the American Arctic. Arctic 9:202-207."	n		unavailable
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Gullion, G. W. 1957. Miscellaneous bird records from northeastern Nevada. Condor 59:70-71."	y	n	
+Rough-legged Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Errington, P. L. and W. J. Breckenridge. 1938. Food habits of buteo hawks in north-central United States. Wilson Bull. 50:113-121."	y	n	
+Rough-legged Hawk	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Bent. 1937. U.S. Nat. Mus. Bull. 167	n		unavailable
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Errington and Breckenridge. 1936. Am. Midland Nat. 7 831-848.	n		unavailable
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Jackson, V. 1941. Canadian Field-Naturalist. 55 129-130."	n		unavailable
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Racey. 1922. Murrelet 3 6.	n		unavailable
+Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Sprunt, Jr.. 1940. Auk 57 564-565"	n		unavailable
+Sharp-shinned Hawk	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Peeters, H. J. 1963. Two observations of avian predation. Wilson Bull. 75:274."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Page, G. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:7383."	y	y	not entered yet
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Kilham, L. 1958. Repeated attacks by a Sharp-shinned Hawk on a Pileated Woodpecker. Condor 60:141-142."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Meyer, K. D. 1987. Sexual size dimorphism and the behavioral ecology of breeding and wintering Sharp-shinned Hawks. Phd Thesis. Univ. of North Carolina, Chapel Hill."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Stone, W. 1937. Bird Studies at Old Cape May. Delaware Valley Ornithol. Club, Philadelphia, PA."	n		unavailable
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Dunn, E. H. and D. L. Tessaglia. 1994. Predation on birds at feeders in winter. J. Field Ornithol. 65:8-16."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Quinn, M. S. 1991. Nest site and prey of a pair of Sharp-shinned Hawks in Alberta. J. Raptor Res. 25:18-19."	y	y	not entered yet
+Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Palmer, R. S. 1988. Handbook of North American birds. Vol. 4. Yale Univ. Press, New Haven, CT."	n		unavailable
+Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Dunning, Jr., J. B. 1984. Body weights of 686 species of North American birds. West. Bird Band. Assoc Monogr. no. 1."	n		unavailable
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Storer, R. W. 1966. Sexual dimorphism and food habits in three North American accipiters. Auk 83:423-436."	y	y	not entered yet
+Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Marks, D. K. and N. L. Naslund. 1994. Sharp-shinned Hawk preys on a Marbled Murrelet nesting in old-growth forest. Wilson Bull. 106:565-567."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Kelley, A. and N. Kelley. 1969. Porcupine quills found in foot of Sharp-shinned Hawk. Wilson Bull. 81:209-210."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20:1-96."	y	y	not entered yet
+Sharp-shinned Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Mueller, H. C., N. S. Mueller, and P. C. Parker. 1981b. Observations of a brood of Sharp-shinned Hawks in Ontario, with comments on the functions of sexual dimorphism. Wilson Bull. 93:85-92."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Metabolism And Temperature Regulation		"Kennedy, P. L. and J. A. Gessaman. 1991. Diurnal resting metabolic rates of accipiters. Wilson Bull. 103:101-105."	y	n	
 Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Duncan, C. D. 1996. Changes in the winter abundance of Sharp-shinned Hawks in New England. J. Field Ornithol. 67:254-262."			
 Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Viverette, C. B., S. Struve, L. J. Goodrich, and K. L. Bildstein. 1996. Decreases in migrating Sharp-shinned Hawks at traditional raptor-migration watchsites in eastern North America. Auk 113:32-40."			
 Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Joy, S. M., R. T. Reynolds, R. L. Knight, and R. W. Hoffman. 1994. Feeding ecology of Sharp-shinned Hawks nesting in deciduous and coniferous forests in Colorado. Condor 96:455-467."			
