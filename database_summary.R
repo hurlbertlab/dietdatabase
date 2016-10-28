@@ -45,10 +45,11 @@ dietSummary = function(diet, refs) {
   spCountByFamily2$Family = as.character(spCountByFamily2$Family)
   spCountByFamily2$WithoutData[is.na(spCountByFamily2$WithoutData)] = 0
   spCountByFamily2 = spCountByFamily2[spCountByFamily2$Family != "", ]
-  spCountByFamily3 = inner_join(spCountByFamily2, orders, by = 'Family')
-  spCountByFamily3 = spCountByFamily3[, c('ORDER', 'Family', 'SpeciesWithData',
-                                          'WithoutData')] %>%
+  spCountByFamily3 = spCountByFamily2 %>% 
+    inner_join(orders, by = 'Family') %>%
+    select(ORDER, Family, SpeciesWithData, WithoutData) %>%
     arrange(ORDER)
+  spCountByFamily3$SpeciesWithData[is.na(spCountByFamily3$SpeciesWithData)] = 0
   return(list(numRecords=numRecords,
               numSpecies=numSpecies, 
               numStudies=numStudies, 
