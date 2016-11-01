@@ -491,69 +491,69 @@ Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Kelley, A. and N. Ke
 Sharp-shinned Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20:1-96."	y	y	not entered yet
 Sharp-shinned Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Mueller, H. C., N. S. Mueller, and P. C. Parker. 1981b. Observations of a brood of Sharp-shinned Hawks in Ontario, with comments on the functions of sexual dimorphism. Wilson Bull. 93:85-92."	y	n	
 Sharp-shinned Hawk	Accipitridae	2000	Metabolism And Temperature Regulation		"Kennedy, P. L. and J. A. Gessaman. 1991. Diurnal resting metabolic rates of accipiters. Wilson Bull. 103:101-105."	y	n	
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Duncan, C. D. 1996. Changes in the winter abundance of Sharp-shinned Hawks in New England. J. Field Ornithol. 67:254-262."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Viverette, C. B., S. Struve, L. J. Goodrich, and K. L. Bildstein. 1996. Decreases in migrating Sharp-shinned Hawks at traditional raptor-migration watchsites in eastern North America. Auk 113:32-40."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Joy, S. M., R. T. Reynolds, R. L. Knight, and R. W. Hoffman. 1994. Feeding ecology of Sharp-shinned Hawks nesting in deciduous and coniferous forests in Colorado. Condor 96:455-467."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mueller, H. C. and D. D. Berger. 1970. Prey preferences in the Sharp-shinned Hawk: the roles of sex, experience, and motivation. Auk 87:452-457."			
-Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Duncan, S. 1980. An analysis of the stomach contents of some Sharp-shinned Hawks. J. Field Ornithol. 51:178."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Reynolds, R. T. and E. C. Meslow. 1984. Partitioning of food and niche characteristics of coexisting accipiter during breeding. Auk 101:761-779."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Millsap, B. A., M. S. Robson, and B. R. Toland. 1996. Short-tailed Hawk. Pages 315-322 in Rare and endangered biota of Florida. Vol. 5: birds. (Rodgers, J., Ed.) Florida Committee on Rare and Endangered Plants and Animals. Univ. Press of Florida, Gainesville."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Robinson, S. K. 1994. Habitat selection and foraging ecology of raptors in Amazonian Peru. Biotropica 28:443-458."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Haverschmidt, F. 1968. Birds of Surinam. Oliver and Boyd, Edinburgh."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Ogden, J. C. (1974). The Short-Tailed Hawk in Florida: I. Migration, Habitat, Hunting Techniques, and Food Habits. The Auk, 95-110."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Sprunt, Jr., A. 1955. North American birds of prey. Harper and Brothers, New York."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Hallinan, T. 1924. Notes on some Panama Canal Zone birds with special reference to their food. Auk 41:304-326."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Ridgely, R. S. and J. A. Gwynne, Jr. 1989. A guide to the birds of Panama. Princeton Univ. Press, Princeton, NJ."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Ogden, J. C. 1974. The Short-tailed Hawk in Florida. I. Migration, habitat, hunting techniques, and food habits. Auk 91:95-110."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Brown, M. 1986. Bald Eagle and Short-tailed Hawk prey on other raptors. Fla. Field Nat. 15:19-20."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Moore, J. C. 1954. Short-tailed Hawk in action. Fla. Nat. 27:106."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Moore, J. C., L. A. Stimson, and W. B. Robertson. 1953. Observation of the Short-tailed Hawk in Florida. Auk 70:470-478."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Herklots, G. A. C. 1961. The birds of Trinidad and Tobago. Collins, London."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Robertson, Jr., W. B. and G. E. Woolfenden. 1992. Florida bird species: an annotated list. Fla. Ornithol. Soc. Spec. Publ. no. 6."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."			
-Short-tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Davis, J.  1953. Condor 55 90-98"			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Voous, K. H. and T. J. van Dijk. 1973. How do Snail Kites extract snails from their shells? Ardea 61:179-185."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Snyder, N. F. R., S. R. Beissinger, and R. Chandler. 1989. Reproduction and demography of the Florida Everglade (Snail) Kite. Condor 91:300-316."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R., T. J. Donnay, and R. Walton. 1994. Experimental analysis of diet specialization in the Snail Kite: the role of behavior conservatism. Oecologia 100:54-65."			
-Snail Kite	Accipitridae	1995	Diet		"Woodin, M. C. and C. D. Woodin. 1981. Everglade Kite predation on a soft-shelled turtle. Fla. Field Nat. 9:64."			
-Snail Kite	Accipitridae	1995	Diet		"Takekawa, J. E. and S. R. Beissinger. 1983. First evidence of Snail Kite feeding on the introduced snail, Pomacea bridgesi, in Florida. Fla. Field Nat. 11:107-108."			
-Snail Kite	Accipitridae	1995	Diet		"Bennetts, R. E., M. W. Collopy, and J. A. Rodgers, Jr. 1994a. The Snail Kite in the Florida Everglades: a food specialist in a changing environment. Pages 507-532 in Everglades: the ecosystem and its restoration. (Ogden, J. and S. Davis, Eds.) St. Lucie Press, Delray Beach, FL."			
-Snail Kite	Accipitridae	1995	Diet		"Beissinger, S. R. 1990a. Experimental brood manipulations and the monoparental threshold in Snail Kites. Am. Nat. 136:20-38."			
-Snail Kite	Accipitridae	1995	Diet		"Collett, S. F. 1977. Sizes of snails eaten by Snail Kites and Limpkins in Costa Rican marsh. Auk 94:365-367."			
-Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1984. Mate desertion and reproductive effort in the Snail Kite. Phd Thesis. Univ. of Michigan, Ann Arbor."			
-Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1987a. Anisogamy overcome: female strategies in Snail Kites. Am. Nat. 129:486-500."			
-Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1987b. Mate desertion and reproductive effort in the Snail Kite. Anim. Behav. 35:1504-1519."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R. and N. F. R. Snyder. 1987. Mate desertion in the Snail Kite. Anim. Behav. 35:477-487."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Hanning, G. W. 1978. Aspects of reproduction in Pomacea paludosa (Mesogastropoda: Pillidae). Master's Thesis. Univ. of Florida, Gainesville."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R. 1988. Snail Kite. Pages 148-165 in Handbook of North American birds. Vol. 4 (Palmer, R. S., Ed.) Yale Univ. Press, New Haven, CT."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Snyder, N. F. R. and H. A. Snyder. 1969. A comparative study of mollusc predation by Limpkins, Everglade Kites, and Boat-tailed Grackles. Living Bird 8:177-223."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Sykes, Jr., P. W. and H. W. Kale II. 1974. Everglade Kites feed on non-snail prey. Auk 91:818-820."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Snyder, N. F. R. and H. W. Kale II. 1983. Mollusk predation by Snail Kites in Colombia. Auk 100:93-97."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Bourne, G. R. 1985b. The role of profitability in Snail Kite foraging. J. Anim. Ecol. 54:697-709."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Mader, W. J. 1981. Notes on nesting raptors in the llanos of Venezuela. Condor 83:48-51."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Beissinger, S. R. 1990b. Alternative foods of a diet specialist, the Snail Kite. Auk 107:327-333."			
-Snail Kite	Accipitridae	1995	Feeding	Microhabitat For Foraging	"Cowardin, L. M., V. Carter, F. C. Golet, and E. T. LaRoe. 1979. Classification of wetlands and deepwater habitats of the United States. Biol. Serv. Prog. FWS/OBS-79/31. U.S. Fish Wildl. Serv. Washington, D.C."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Haverschmidt, F. 1970. Notes on the Snail Kite in Surinam. Auk 87:580-584."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Cary, D. M. 1985. Climatological and environmental factors effecting the foraging behavior and ecology of Everglade Kites. Master's Thesis. Univ. of Miami, Coral Gables, FL."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Miller, B. W. and R. L. Tilson. 1985. Snail Kite kleptoparasitism of Limpkins. Auk 102:170-171."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Sykes, Jr., P. W. 1987a. The feeding habits of the Snail Kite in Florida, USA. Colon. Waterbirds 10:84-92."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Stieglitz, W. O. and R. L. Thompson. 1967. Status and life history of the Everglade Kite in the United States. Bureau Sport Fisheries and Wildl., Spec. Sci. Rep. Wildl. 109."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Haverschmidt, F. 1962. Notes on the feeding habits and food of some hawks of Surinam. Condor 64:154-158."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Rumbold, D. G. and M. B. Mihalik. 1994. Snail Kite use of a drought-related habitat and communal roost in West Palm Beach, Florida: 1987-1991. Fla. Field Nat. 22:29-38."			
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Duncan, C. D. 1996. Changes in the winter abundance of Sharp-shinned Hawks in New England. J. Field Ornithol. 67:254-262."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Viverette, C. B., S. Struve, L. J. Goodrich, and K. L. Bildstein. 1996. Decreases in migrating Sharp-shinned Hawks at traditional raptor-migration watchsites in eastern North America. Auk 113:32-40."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Joy, S. M., R. T. Reynolds, R. L. Knight, and R. W. Hoffman. 1994. Feeding ecology of Sharp-shinned Hawks nesting in deciduous and coniferous forests in Colorado. Condor 96:455-467."	y	y	not entered yet; started saving
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mueller, H. C. and D. D. Berger. 1970. Prey preferences in the Sharp-shinned Hawk: the roles of sex, experience, and motivation. Auk 87:452-457."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Duncan, S. 1980. An analysis of the stomach contents of some Sharp-shinned Hawks. J. Field Ornithol. 51:178."	y	y	not entered yet
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Reynolds, R. T. and E. C. Meslow. 1984. Partitioning of food and niche characteristics of coexisting accipiter during breeding. Auk 101:761-779."	y	y	not entered yet
+Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Millsap, B. A., M. S. Robson, and B. R. Toland. 1996. Short-tailed Hawk. Pages 315-322 in Rare and endangered biota of Florida. Vol. 5: birds. (Rodgers, J., Ed.) Florida Committee on Rare and Endangered Plants and Animals. Univ. Press of Florida, Gainesville."	n		Library Service Center
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Robinson, S. K. 1994. Habitat selection and foraging ecology of raptors in Amazonian Peru. Biotropica 28:443-458."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Haverschmidt, F. 1968. Birds of Surinam. Oliver and Boyd, Edinburgh."	n		Library Service Center
+Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Ogden, J. C. (1974). The Short-Tailed Hawk in Florida: I. Migration, Habitat, Hunting Techniques, and Food Habits. The Auk, 95-110."	y	y	not entered yet
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Sprunt, Jr., A. 1955. North American birds of prey. Harper and Brothers, New York."	n		unavailable
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Hallinan, T. 1924. Notes on some Panama Canal Zone birds with special reference to their food. Auk 41:304-326."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Ridgely, R. S. and J. A. Gwynne, Jr. 1989. A guide to the birds of Panama. Princeton Univ. Press, Princeton, NJ."	n		Science Library Annex
+Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Ogden, J. C. 1974. The Short-tailed Hawk in Florida. I. Migration, habitat, hunting techniques, and food habits. Auk 91:95-110."	y	y	already mentioned above
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Brown, M. 1986. Bald Eagle and Short-tailed Hawk prey on other raptors. Fla. Field Nat. 15:19-20."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Moore, J. C. 1954. Short-tailed Hawk in action. Fla. Nat. 27:106."	n		unavailable
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Moore, J. C., L. A. Stimson, and W. B. Robertson. 1953. Observation of the Short-tailed Hawk in Florida. Auk 70:470-478."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Herklots, G. A. C. 1961. The birds of Trinidad and Tobago. Collins, London."	n		unavailable
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Robertson, Jr., W. B. and G. E. Woolfenden. 1992. Florida bird species: an annotated list. Fla. Ornithol. Soc. Spec. Publ. no. 6."	n		unavailable
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."	y	y	already entered
+Short-tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Davis, J.  1953. Condor 55 90-98"	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Voous, K. H. and T. J. van Dijk. 1973. How do Snail Kites extract snails from their shells? Ardea 61:179-185."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Snyder, N. F. R., S. R. Beissinger, and R. Chandler. 1989. Reproduction and demography of the Florida Everglade (Snail) Kite. Condor 91:300-316."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R., T. J. Donnay, and R. Walton. 1994. Experimental analysis of diet specialization in the Snail Kite: the role of behavior conservatism. Oecologia 100:54-65."	y	n	
+Snail Kite	Accipitridae	1995	Diet		"Woodin, M. C. and C. D. Woodin. 1981. Everglade Kite predation on a soft-shelled turtle. Fla. Field Nat. 9:64."	n		unavailable
+Snail Kite	Accipitridae	1995	Diet		"Takekawa, J. E. and S. R. Beissinger. 1983. First evidence of Snail Kite feeding on the introduced snail, Pomacea bridgesi, in Florida. Fla. Field Nat. 11:107-108."	n		unavailable
+Snail Kite	Accipitridae	1995	Diet		"Bennetts, R. E., M. W. Collopy, and J. A. Rodgers, Jr. 1994a. The Snail Kite in the Florida Everglades: a food specialist in a changing environment. Pages 507-532 in Everglades: the ecosystem and its restoration. (Ogden, J. and S. Davis, Eds.) St. Lucie Press, Delray Beach, FL."	n		unavailable
+Snail Kite	Accipitridae	1995	Diet		"Beissinger, S. R. 1990a. Experimental brood manipulations and the monoparental threshold in Snail Kites. Am. Nat. 136:20-38."	y	n	
+Snail Kite	Accipitridae	1995	Diet		"Collett, S. F. 1977. Sizes of snails eaten by Snail Kites and Limpkins in Costa Rican marsh. Auk 94:365-367."	y	n	
+Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1984. Mate desertion and reproductive effort in the Snail Kite. Phd Thesis. Univ. of Michigan, Ann Arbor."	y	n	
+Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1987a. Anisogamy overcome: female strategies in Snail Kites. Am. Nat. 129:486-500."	y	n	
+Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1987b. Mate desertion and reproductive effort in the Snail Kite. Anim. Behav. 35:1504-1519."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R. and N. F. R. Snyder. 1987. Mate desertion in the Snail Kite. Anim. Behav. 35:477-487."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Hanning, G. W. 1978. Aspects of reproduction in Pomacea paludosa (Mesogastropoda: Pillidae). Master's Thesis. Univ. of Florida, Gainesville."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R. 1988. Snail Kite. Pages 148-165 in Handbook of North American birds. Vol. 4 (Palmer, R. S., Ed.) Yale Univ. Press, New Haven, CT."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Snyder, N. F. R. and H. A. Snyder. 1969. A comparative study of mollusc predation by Limpkins, Everglade Kites, and Boat-tailed Grackles. Living Bird 8:177-223."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Sykes, Jr., P. W. and H. W. Kale II. 1974. Everglade Kites feed on non-snail prey. Auk 91:818-820."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Snyder, N. F. R. and H. W. Kale II. 1983. Mollusk predation by Snail Kites in Colombia. Auk 100:93-97."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Bourne, G. R. 1985b. The role of profitability in Snail Kite foraging. J. Anim. Ecol. 54:697-709."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Mader, W. J. 1981. Notes on nesting raptors in the llanos of Venezuela. Condor 83:48-51."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Beissinger, S. R. 1990b. Alternative foods of a diet specialist, the Snail Kite. Auk 107:327-333."	y	y	not entered yet
+Snail Kite	Accipitridae	1995	Feeding	Microhabitat For Foraging	"Cowardin, L. M., V. Carter, F. C. Golet, and E. T. LaRoe. 1979. Classification of wetlands and deepwater habitats of the United States. Biol. Serv. Prog. FWS/OBS-79/31. U.S. Fish Wildl. Serv. Washington, D.C."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Haverschmidt, F. 1970. Notes on the Snail Kite in Surinam. Auk 87:580-584."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Cary, D. M. 1985. Climatological and environmental factors effecting the foraging behavior and ecology of Everglade Kites. Master's Thesis. Univ. of Miami, Coral Gables, FL."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Miller, B. W. and R. L. Tilson. 1985. Snail Kite kleptoparasitism of Limpkins. Auk 102:170-171."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Sykes, Jr., P. W. 1987a. The feeding habits of the Snail Kite in Florida, USA. Colon. Waterbirds 10:84-92."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."	y	y	already entered
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Stieglitz, W. O. and R. L. Thompson. 1967. Status and life history of the Everglade Kite in the United States. Bureau Sport Fisheries and Wildl., Spec. Sci. Rep. Wildl. 109."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Haverschmidt, F. 1962. Notes on the feeding habits and food of some hawks of Surinam. Condor 64:154-158."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Rumbold, D. G. and M. B. Mihalik. 1994. Snail Kite use of a drought-related habitat and communal roost in West Palm Beach, Florida: 1987-1991. Fla. Field Nat. 22:29-38."	n		unavailable
 Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Howell, A. H. 1932. Florida bird life. Fla. Dept. Game Fresh Water Fish, Tallahassee."	y	y	
 Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Beissinger, S. R. 1983. Hunting behavior, prey selection, and energetics of Snail Kite in Guyana: consumer choice by a specialist. Auk 100:84-92."	y	y	
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Dunkle. 1977. Auk 94 65-71			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gilmer and Stewart. 1984. Condor 86 12-18			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Fitzner. 1978. Behavioral Ecology of Swainson's Hawk in Se. Was. Was. State University, Pullman, Ph.D diss."			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Thiollay. 1981. Gerfaut 71 575-610			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Ridgway. 1877. U.S. Geol. Expl. 40th Parallel….4 pt. 3 Ornithology, pp.303-669, Washington, D.C."			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Cameron. 1913. Auk 30 167-176, 381-394"			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Sexton and Marion. 1974. Wilson Bull. 86 167-168			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Dall and Bannister. 1869. Trand. Chicago Acad. Sci. 1 pt. 2: 267-310			
-Swainson'sHawk	Accipitridae				"Murphy, R. K. 1993. History, nesting biology, and predation ecology of raptors in the Missouri Coteau of northwestern North Dakota. Diss. Montana State University 116-1850."			
-Swainson'sHawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."			
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Dunkle. 1977. Auk 94 65-71	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gilmer and Stewart. 1984. Condor 86 12-18	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Fitzner. 1978. Behavioral Ecology of Swainson's Hawk in Se. Was. Was. State University, Pullman, Ph.D diss."	y	y	not entered yet
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Thiollay. 1981. Gerfaut 71 575-610	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Ridgway. 1877. U.S. Geol. Expl. 40th Parallel….4 pt. 3 Ornithology, pp.303-669, Washington, D.C."	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Cameron. 1913. Auk 30 167-176, 381-394"	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Sexton and Marion. 1974. Wilson Bull. 86 167-168	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Dall and Bannister. 1869. Trand. Chicago Acad. Sci. 1 pt. 2: 267-310	n		unavailable
+Swainson'sHawk	Accipitridae				"Murphy, R. K. 1993. History, nesting biology, and predation ecology of raptors in the Missouri Coteau of northwestern North Dakota. Diss. Montana State University 116-1850."	y	y	not entered yet
+Swainson'sHawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	"may be repeated, check"
 Swallow-tailed Kite	Accipitridae	1995	Diet	Major Food Items	"Lee, D. S. and M. K. Clark. 1993. Notes on post-breeding American Swallow-tailed Kites, Elanoides forficatus (Falconiformes: Accipitridae), in north-central Florida. Brimleyana 19:185-203."			
 Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Sutton, I. D. 1955. Nesting of the Swallow-tailed Kite. Everglades Nat. Hist. 3:72-84."			
 Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Voous, K. H. 1969. Predation potential in birds of prey from Surinam. Ardea 57:117-146."			
