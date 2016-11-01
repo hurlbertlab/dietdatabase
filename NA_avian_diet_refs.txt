@@ -2918,10 +2918,10 @@ Inca Dove	Columbidae	1-Dec-04	Metabolism And Temperature Regulation		"Macmillen,
 Inca Dove	Columbidae	1-Dec-04	Metabolism And Temperature Regulation		"Lasiewski, R. C. and R. S. Seymour. 1972. Thermoregulatory responses to heat stress in four species of birds weighing approximately 40 grams. Physiol. Zool. 45:106-118."	y	n	
 Inca Dove	Columbidae	1-Dec-04	Diet	Quantitative Analysis	"Dickey, D. R. and A. J. van Rossem. 1938. The birds of El Salvador. Field Mus. Nat. Hist., Zool. Ser. 23:1-609."	y	n	
 Red-billed Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Goodwin, D. 1983. Pigeon and doves of the world. 3rd ed. Cornell Univ. Press, Ithaca, NY."	y	n	
-Red-billed Pigeon	Columbidae	2002	Feeding	Microhabitat For Foraging	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	n	n	Requested through interlibrary loan
+Red-billed Pigeon	Columbidae	2002	Feeding	Microhabitat For Foraging	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	n	n	
 Red-billed Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Stager, K. E. 1957. The avifauna of the Tres Marias Islands, Mexico. Auk 74:413-432."	y	n	
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Skutch, A. F. 1964. Life histories of Central American pigeons. Wilson Bull. 76:211-247."	y	n	
-Red-billed Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Skutch, A. F. 1983. Birds of tropical America. Univ. of Texas Press, Austin."	n	n	Requested through interlibrary loan
+Red-billed Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Skutch, A. F. 1983. Birds of tropical America. Univ. of Texas Press, Austin."	n	n	
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Wheelwright, N. T., W. A. Haber, K. G. Murray, and C. Guindon. 1984. Tropical fruit-eating birds and their food plants: a survey of Costa Rican lower montane forest. Biotropica 16:173-192."	y	n	
 Red-billed Pigeon	Columbidae	2002	Feeding	Microhabitat For Foraging	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."	y	n	
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Lowery, Jr., G. H. and W. W. Dalquest. 1951. Birds from the state of Veracruz, Mexico. Univ. of Kansas, Publ. Mus. Nat. Hist. 3:531-649."	y	n	
@@ -2936,7 +2936,7 @@ Red-billed Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Brush, T
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Sennett, G. B. 1879. Further notes on the ornithology of the lower Rio Grande of Texas. Bull. U.S. Geol. Geogr. Surv. Terr. 5:371-440."	y	n	
 Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Pierson, T. A., R. G. Cobb, and P. F. Scanlon. 1976. Crop contents of Rock Doves in Virginia. Wilson Bull. 88:489-490."	y	y	
 Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Griminger, P. 1983. Digestive system and nutrition. Pages 19-40 in Physiology and behaviour of the pigeon. (Abs, M., Ed.) Academic Press, London."	n	n	Requested through interlibrary loan
-Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Cramp, S. 1985. Handbook of the birds of Europe, the Middle East, and North Africa. Vol. 4. Oxford Univ. Press, Oxford."	n	n	Requested through interlibrary loan
+Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Cramp, S. 1985. Handbook of the birds of Europe, the Middle East, and North Africa. Vol. 4. Oxford Univ. Press, Oxford."	n	n	
 Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Ramirez, J. M. and M. H. Bernstein. 1976. Compound ventilation during thermal panting in pigeons: a possible mechanism for minimizing hypocapnic alkalosis. Fed Amer Soc. 35:2562-2565."	n	n	
 Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Gaunt, S. L. L. 1980. Thermoregulation in doves (Columbidae): a novel esophageal heat exchanger. Science 210:445-447."	y	n	
 Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Walsberg, G., G. Campbell, and J. King. 1978. Animal coat color and radiative heat gain: a re-evaluation. J. Comp. Physiol., B. 126:211-222."	y	n	
@@ -2971,14 +2971,14 @@ White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Smith, A. P. 1910. M
 White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."	n	n	
 White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Goodwin, D. 1983. Pigeons and doves of the World. 3rd ed. Cornell Univ. Press, Ithaca, NY."	n	n	Requested through interlibrary loan
 White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Fjelds, J. and N. Krabbe. 1990. Birds of the high Andes. Zool. Mus., Univ. of Copenhagen, Copenhagen."	n	n	Requested through interlibrary loan
+White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Fjelds, J. and N. Krabbe. 1990. Birds of the high Andes. Zool. Mus., Univ. of Copenhagen, Copenhagen."	n	n	
 White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Canevari, M. P., Canevari, G. R. Carrizo, G. Harris, J. R. Mata, and R. J. Straneck. 1991. Nueva guia de las aves Argentinas. Fundacion Acindar, Buenos Aires."	n	n	
 White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Skutch, A. F. 1964. Life histories of central American pigeons. Wilson Bull. 76:211-247."	y	n	
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Wetmore, A. 1968. The birds of the Republic of Panama, Part 2, Columbidae (Pigeons) to Picidae (Woodpeckers). Smithson. Misc. Collect. 150:37-40."	n	n	Requested through interlibrary loan
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Wetmore, A. 1968. The birds of the Republic of Panama, Part 2, Columbidae (Pigeons) to Picidae (Woodpeckers). Smithson. Misc. Collect. 150:37-40."	n	n	
 White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Meyer De Schauensee, R. and W. H. Phelps. 1978. A guide to the birds of Venezuela. Princeton Univ. Press, Princeton, NJ."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Hilty, S. L. and W. L. Brown. 1986. A guide to the birds of Colombia. Princeton Univ. Press, Princeton, NJ."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Ridgely, R. S. and J. A. Gwynne, Jr. 1989. A guide to the birds of Panama, with Costa Rica, Nicaragua, and Honduras. Princeton Univ. Press, Princeton, NJ."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Haverschmidt, F. and G. F. Mees. 1994. Birds of Suriname. Vaco Press, Paramaribo, Suriname."	n	n	Requested through interlibrary loan
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Hilty, S. L. and W. L. Brown. 1986. A guide to the birds of Colombia. Princeton Univ. Press, Princeton, NJ."	n	n	
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Ridgely, R. S. and J. A. Gwynne, Jr. 1989. A guide to the birds of Panama, with Costa Rica, Nicaragua, and Honduras. Princeton Univ. Press, Princeton, NJ."	n	n	
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Haverschmidt, F. and G. F. Mees. 1994. Birds of Suriname. Vaco Press, Paramaribo, Suriname."	n	n	
 White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Rappole, J. H. and G. W. Blacklock. 1994. Birds of Texas: A field guide. Texas A&M Univ. Press, College Station."	n	n	Requested through interlibrary loan
 White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Waggerman, G. L., G. P. Homerstad, R. R. George, and W. A. Shifflett. 1994. White-tipped Dove. Pages 53-59 in Migratory shore and upland game bird management in North America. (Tacha, T. C. and C. E. Braun, Eds.) Int. Assoc. Fish Wildl. Agencies, Washington, D.C."	n	n	Requested through interlibrary loan
 White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Howell, S. N. G. and S. Webb. 1995. A guide to the birds of Mexico and northern Central America. Oxford Univ. Press, New York."	n	n	Requested through interlibrary loan
