@@ -276,8 +276,8 @@ Gray Hawk	Accipitridae	2002	Diet	Major Food Items	"West, S. 1974. Gray Hawk feed
 Gray Hawk	Accipitridae	2002	Diet	Major Food Items	"Eitniear, J. C., S. M. McGehee, and W. T. Waddell. 1990. Gray Hawk mobbed by Olive-throated Parakeets. Bird Behav. 8:114-115."	y	n	
 Gray Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Swarth, H. S. 1905. Summer birds of the Papago Indian Reservation and of the Santa Rita Mountains, Arizona. Condor 7:22-27."	y	n	
 Gray Hawk	Accipitridae	2002	Diet	Quantitative Analysis	"Glinski, R. L. 1998. Gray Hawk. Pages 82-85 in The raptors of Arizona. (Glinski, R. L., Ed.) Univ. of Arizona Press, Tucson."	y	n	
-Gray Hawk	Accipitridae	2002	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."	y	y	not entered yet
-Harris' Hawk	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	
+Gray Hawk	Accipitridae	2002	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."	y	y	entered
+Harris' Hawk	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	already entered
 Hawaiian Hawk	Accipitridae	2000	Diet	Major Food Items	"Shallenberger, R. J. 1977. Observations at the nest of a Hawaiian Hawk. 'Elepaio 37:74-75."	n		unavailable
 Hawaiian Hawk	Accipitridae	2000	Feeding	Main Foods Taken	"Griffin, C. R. 1985. Biology of the Hawaiian Hawk (Buteo solitarius). Phd Thesis. Univ. of Missouri, Columbia."	n		unavailable
 Hawaiian Hawk	Accipitridae	2000	Diet	Major Food Items	"Berger, A. J. 1981. Hawaiian birdlife. Univ. of Hawaii Press, Honolulu."	n		unavailable
@@ -289,7 +289,7 @@ Merlin	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Miss
 Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Skinner, R. W. 1962. Feeding habits of the Mississippi Kite. Auk 79:273-274."	y	n	
 Mississippi Kite	Accipitridae	1999	Diet	Quantitative Analysis	"Parker, J. W. 1996. Urban Ecology of the Mississippi Kite. Pages 45-52 in Raptors in human landscapes. (Bird, D., D. Varland, and J. Negro, Eds.) Academic Press, New York."	y	n	
 Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Ganier, A. F. 1902. The Mississippi Kite (Ictinia mississippiensis). Osprey 1:85-90."	y	n	
-Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Evans, S. A. 1981. Ecology and behavior of the Mississippi Kite (Ictinia mississipensis) in southern Illinois. Master's Thesis. Southern Illinois Univ. Carbondale."	y	y	not entered yet
+Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Evans, S. A. 1981. Ecology and behavior of the Mississippi Kite (Ictinia mississipensis) in southern Illinois. Master's Thesis. Southern Illinois Univ. Carbondale."	n		unavailable
 Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Parker, J. W. 1988a. Mississippi Kite. Pages 166-186 in Handbook of North American birds. Vol. 4 (Palmer, R. S., Ed.) Yale Univ. Press, New Haven."	n		unavailable
 Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Taylor, J. 1964. Noteworthy predation on the guano bat. J. Mammal. 45:300-301."	n		unavailable
 Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Glinski, R. L. and R. D. Ohmart. 1983. Breeding ecology of the Mississippi Kite in Arizona. Condor 85:200-207."	y	y	not entered yet
