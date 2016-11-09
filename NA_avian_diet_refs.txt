@@ -309,12 +309,12 @@ Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Allan, 
 Northern Goshawk	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Brace, K. 1983. Goshawk-snowshoe hare encounter. Blue Jay 41:120."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Foraging Behavior	"Kennedy, P. L. 1991. Reproductive strategies of northern goshawks and Cooper's hawks in north-central New Mexico. Phd Thesis. Utah State Univ. Logan."	y	n	
-Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Reynolds, R. T. and E. C. Meslow. 1984. Partitioning of food and niche characteristics of coexisting Accipiter during breeding. Auk 101:761-777."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Reynolds, R. T. and E. C. Meslow. 1984. Partitioning of food and niche characteristics of coexisting Accipiter during breeding. Auk 101:761-777."	y	y	entered
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Squires, J. R. 1995. Carrion use by northern goshawks. J. Raptor Res. 29:189-190."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Foraging Behavior	"Wid????n, P. 1984. Activity patterns and time-budget in the goshawk Accipiter gentilis in a boreal forest area in Sweden. Ornis Fennica 61:109-112."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Backstrom, P. 1991. Northern goshawk predation on sharp-tailed grouse. Loon 63:74."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Johnsgard, P. A. 1990. Hawks, eagles, and falcons of North America. Smithson. Inst. Press, Washington, D.C."	n		unavailable
-Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Schnell, J. H. 1958. Nesting behavior and food habits of goshawks in the Sierra Nevada of California. Condor 60:377-403."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Schnell, J. H. 1958. Nesting behavior and food habits of goshawks in the Sierra Nevada of California. Condor 60:377-403."	y	y	entered
 Northern Goshawk	Accipitridae	1997	Feeding	Foraging Behavior	"Kenward, R. E. 1979. Winter predation by goshawks in lowland Britain. Br. Birds 72:64-73."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Plucking Perches	"Hall, P. A. 1984. Characterization of nesting habitat of goshawks (Accipiter gentilis) in northwestern California. Master's Thesis. Humboldt State Univ., Arcata, CA."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Beebe, F. L. 1974. Goshawk. Pages 54-62 in Field studies of the Falconiformes of British Columbia. Br. Columbia Prov. Mus. Occas. Pap. Ser. no. 17."	n		unavailable
