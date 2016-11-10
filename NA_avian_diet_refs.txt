@@ -318,7 +318,7 @@ Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Schnell
 Northern Goshawk	Accipitridae	1997	Feeding	Foraging Behavior	"Kenward, R. E. 1979. Winter predation by goshawks in lowland Britain. Br. Birds 72:64-73."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Plucking Perches	"Hall, P. A. 1984. Characterization of nesting habitat of goshawks (Accipiter gentilis) in northwestern California. Master's Thesis. Humboldt State Univ., Arcata, CA."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Beebe, F. L. 1974. Goshawk. Pages 54-62 in Field studies of the Falconiformes of British Columbia. Br. Columbia Prov. Mus. Occas. Pap. Ser. no. 17."	n		unavailable
-Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Kenward, R. E., V. Marcstrom, and M. Karlbom. 1981a. Goshawk winter ecology in Swedish pheasant habitats. J. Wildl. Manage. 45:397-408."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Kenward, R. E., V. Marcstrom, and M. Karlbom. 1981a. Goshawk winter ecology in Swedish pheasant habitats. J. Wildl. Manage. 45:397-408."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Kenward, R. E. 1982. Goshawk hunting behaviour and range size as a function of food and habitat availability. J. Anim. Ecol. 51:69-80."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Bergstrom, B. J. 1985. Unusual prey-stalking behavior by a goshawk. J. Field Ornithol. 56:415."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Plucking Perches	"Reynolds, R. T., E. C. Meslow, and H. M. Wight. 1982. Nesting habitat of coexisting Accipiter in Oregon. J. Wildl. Manage. 46:124-138."	y	n	
@@ -326,10 +326,10 @@ Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Lind????n, H. and M. W
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Zachel, C. R. 1985. Food habits, hunting activity, and post-fledging behavior of northern goshawks (Accipiter gentilis) in interior Alaska. Master's Thesis. Univ. of Alaska, Fairbanks."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Fulton, J. T. 1983. A northern goshawk in Georgia. Oriole 48:5."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Boal, C. W. and R. W. Mannan. 1994. Northern goshawk diets in ponderosa pine forests on the Kaibab Plateau. Stud. Avian Biol. 16:97-102."	n		unavailable
-Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Marquiss, M. and I. Newton. 1982. The goshawk in Britain. Br. Birds 75:243-260."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Marquiss, M. and I. Newton. 1982. The goshawk in Britain. Br. Birds 75:243-260."	y	y	entered
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Younk, J. V. and M. J. Bechard. 1994. Breeding ecology of the northern goshawk in high-elevation aspen forest of northern Nevada. Stud. Avian Biol. 16:119-121."	n		unavailable
-Northern Goshawk	Accipitridae	1997	Feeding	Plucking Perches	"Bull, E. L. and J. H. Hohmann. 1994. Breeding biology of northern goshawks in northeastern Oregon. Stud. Avian Biol. 16:103-105."	y	y	not entered yet
-Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Wid????n, P. 1987. Goshawk predation during winter, spring, and summer in a boreal forest area of central Sweden. Holarctic Ecol. 10:104-109."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Feeding	Plucking Perches	"Bull, E. L. and J. H. Hohmann. 1994. Breeding biology of northern goshawks in northeastern Oregon. Stud. Avian Biol. 16:103-105."	y	y	entered
+Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Wid????n, P. 1987. Goshawk predation during winter, spring, and summer in a boreal forest area of central Sweden. Holarctic Ecol. 10:104-109."	y	n	
 Northern Goshawk	Accipitridae	1997	Food Selection And Storage		"Bosakowski, T., D. G. Smith, and R. Speiser. 1992. Niche overlap of two sympatric-nesting hawks Accipiter spp. in the New Jersey-New York highlands. Ecography 15:358-372."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Food Selection And Storage		"Kennedy, P. L. and J. A. Gessaman. 1991. Diurnal resting metabolic rates of accipiters. Wilson Bull. 103:101-105."	y	n	
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Sutton, G. M. 1925. Notes on the nesting of the goshawk in Potter County, Pennsylvania. Wilson Bull. 37:193-199."	y	n	
@@ -347,7 +347,7 @@ Northern Goshawk	Accipitridae	1997	Nutrition And Energetics		"Wid????n, P. 1985.
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Swenson, J. E. 1981. Status of Osprey in southeastern Montana before and after construction of reservoirs. West. Birds 12:47-51."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Prevost, Y. A. 1977. Feeding ecology of Ospreys in Antigonish County, Nova Scotia. Master's Thesis. Macdonald College of McGill University, Montreal, QB."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Greene, E. P., A. E. Greene, and B. Freedman. 1983. Foraging behavior and prey selection by Ospreys in coastal habitats in Nova Scotia, Canada. Pages 257-267 in Biology and management of Bald Eagles and Ospreys. (Bird, D. M., Ed.) Harpell Press, Ste. Anne de Bellevue, Quebec."	n		unavailable
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Dunstan, T. C. 1974. Feeding activities of Ospreys in Minnesota. Wilson Bull. 86:74-76."	y		not entered yet
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Dunstan, T. C. 1974. Feeding activities of Ospreys in Minnesota. Wilson Bull. 86:74-76."	y	y	entered
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Poole, A. F. 1984. Reproductive limitations in coastal Ospreys: an ecological and evolutionary perspective. Unpubl. Ph.D. diss. Boston Univ. Boston, MA."	n		unavailable
 Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Greene, E. 1987. Individuals in an Osprey colony discriminate between high and low quality information. Nature 329:239-241."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Prevost, Y. A. 1982. The wintering ecology of Ospreys in Senegambia. Unpubl. Phd Thesis. Univ. of Edinburgh, U.K."	y	n	
