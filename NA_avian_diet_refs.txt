@@ -353,9 +353,9 @@ Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Greene, E. 1987. 
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Prevost, Y. A. 1982. The wintering ecology of Ospreys in Senegambia. Unpubl. Phd Thesis. Univ. of Edinburgh, U.K."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Edwards, Jr., T. C. 1989. Similarity in the development of foraging mechanics among sibling Ospreys. Condor 91:30-36."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Postupalsky, S. and S. M. Stackpole. 1974. Artificial nesting platforms for Ospreys in Michigan. Pages 105-117 in Management of raptors. (Hamerstrom, Jr., F. N., B. E. Harrell, and R. R. Olendorff, Eds.) Raptor Res. Found. Raptor Res. Rep. no. 2."	y	n	
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Steeger, C., H. Esselink, and R. C. Ydenberg. 1992. Comparative feeding ecology and reproductive performance of Ospreys in different habitats of southeastern British Columbia. Can. J. Zool. 70:470-475."	y	y	not entered yet
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Steeger, C., H. Esselink, and R. C. Ydenberg. 1992. Comparative feeding ecology and reproductive performance of Ospreys in different habitats of southeastern British Columbia. Can. J. Zool. 70:470-475."	y	y	entered
 Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Hagan, J. M. and J. R. Walters. 1990. Foraging behavior, reproductive success, and colonial nesting in Ospreys. Auk 107:506-521."	y	n	
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Mclean, P. K. and M. A. Byrd. 1991a. Diet of Chesapeake Bay Ospreys and their impact on the local fishery. J. Raptor Res. 25:109-112."	y	y	not entered yet
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Mclean, P. K. and M. A. Byrd. 1991a. Diet of Chesapeake Bay Ospreys and their impact on the local fishery. J. Raptor Res. 25:109-112."	y	y	entered
 Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Swenson, J. E. 1979b. The relationship between prey species ecology and dive success in Ospreys. Auk 96:408-412."	y	n	
 Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Machmer, M. M. and R. C. Ydenberg. 1990. Weather and Osprey foraging energetics. Can. J. Zool. 68:40-43."	y	n	
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Dusi, J. L. 1995. Osprey (Pandion haliaetus) feeds on carrion with Turkey Vultures (Cathartes aura). Alabama Birdlife 41:6-7."	n		unavailable
@@ -399,7 +399,7 @@ Osprey	Accipitridae	2002	Diet	Major Food Items	"Werren, J. H. and C. J. Peterson
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Wiley, J. W. and F. E. Lohrer. 1973. Additional records of non-fish prey taken by Ospreys. Wilson Bull. 85:468-470."	y	n	
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Douglass, J. F. 1997. Osprey diet includes red squirrel. Mich. Birds Nat. Hist. 4:151-152."	n		unavailable
 Osprey	Accipitridae	2002	Metabolism And Temperature Regulation	Metabolism	"Wasser, J. S. 1979. Comparative energetics of some falconiform birds. Master's Thesis. Univ. of Florida, Gainesville."	n		unavailable
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Van Daele, L. J. and H. A. Van Daele. 1982. Factors affecting the productivity of Ospreys nesting in west-central Idaho. Condor 84:292-299."	y	y	not entered yet
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Van Daele, L. J. and H. A. Van Daele. 1982. Factors affecting the productivity of Ospreys nesting in west-central Idaho. Condor 84:292-299."	y	y	entered
 Osprey	Accipitridae	2002	Diet	Major Food Items	"King, M. M. 1988. Osprey preys on tiger salamander. J. Raptor Res. 22:121."	y	y	
 Osprey	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	not entered yet
 Prairie Falcon	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
