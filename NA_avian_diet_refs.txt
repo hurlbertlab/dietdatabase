@@ -401,20 +401,20 @@ Osprey	Accipitridae	2002	Diet	Major Food Items	"Douglass, J. F. 1997. Osprey die
 Osprey	Accipitridae	2002	Metabolism And Temperature Regulation	Metabolism	"Wasser, J. S. 1979. Comparative energetics of some falconiform birds. Master's Thesis. Univ. of Florida, Gainesville."	n		unavailable
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Van Daele, L. J. and H. A. Van Daele. 1982. Factors affecting the productivity of Ospreys nesting in west-central Idaho. Condor 84:292-299."	y	y	entered
 Osprey	Accipitridae	2002	Diet	Major Food Items	"King, M. M. 1988. Osprey preys on tiger salamander. J. Raptor Res. 22:121."	y	y	
-Osprey	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	not entered yet
+Osprey	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	entered
 Prairie Falcon	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
 Red-backed	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	
-Red-shouldered hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	not entered yet
+Red-shouldered hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	entered
 Red-shouldered hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
 Red-shouldered hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982	n		unavailable
-Red-tailed hawk	Accipitridae	1996	Feeding		"Fitch, H. S. 1974. Observations on the food and nesting of the Broad-winged Hawk (Buteo platypterus) in northeastern Kansas. Condor 76:331-360."	y	y	not entered yet
+Red-tailed hawk	Accipitridae	1996	Feeding		"Fitch, H. S. 1974. Observations on the food and nesting of the Broad-winged Hawk (Buteo platypterus) in northeastern Kansas. Condor 76:331-360."	y	y	entered
 Red-tailed hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982	y	y	
 Red-tailed hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	above
 Red-tailed hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
 Red-tailed hawk	Accipitridae				"Murphy, R. K. 1993. History, nesting biology, and predation ecology of raptors in the Missouri Coteau of northwestern North Dakota. Diss. Montana State University 116-150."	y	y	
-Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Restani, M. 1991. Resource partitioning among three Buteo species in the Centennial Valley, Montana. Condor 93:1007-1010."	y	y	not entered yet
+Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Restani, M. 1991. Resource partitioning among three Buteo species in the Centennial Valley, Montana. Condor 93:1007-1010."	y	y	entered
 Red-tailed hawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
-Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Steenhof, K. and M. N. Kochert. 1985. Dietary shifts of sympatric buteos during a prey decline. Oecologia 66:6-16."	y	y	not entered yet
+Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Steenhof, K. and M. N. Kochert. 1985. Dietary shifts of sympatric buteos during a prey decline. Oecologia 66:6-16."	y	y	entered
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Orians and Kuhlman. 1956. Condor. 58 371-385	n		unavailable
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gates. 1972. Wilson Bull. 84 421-433	n		unavailable
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Fitch and Bare. 1978. Tras. Kans. Acad. Sci. 81 1-13	n		unavailable
