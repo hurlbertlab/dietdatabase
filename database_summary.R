@@ -96,7 +96,7 @@ speciesSummary = function(commonName, diet, by = 'Order') {
                         'Prey_Genus', 'Prey_Scientific_Name')]
   
   dietsp[, taxonLevel] = apply(dietprey, 1, function(x)
-    if(x[which(names(dietprey) == taxonLevel)] == "") { paste("Unid. ", x[max(which(x != ""))])} 
+    if(x[which(names(dietprey) == taxonLevel)] == "") { paste("Unid.", x[max(which(x != ""))])} 
     else { x[which(names(dietprey) == taxonLevel)] })
   
   
@@ -122,7 +122,8 @@ speciesSummary = function(commonName, diet, by = 'Order') {
     summarize(Sum_Diet2 = sum(Sum_Diet, na.rm = T)) %>%
     left_join(studiesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
     mutate(Frac_Diet = Sum_Diet2/n) %>%
-    select(Diet_Type, Taxon, Frac_Diet)
+    select(Diet_Type, Taxon, Frac_Diet) %>%
+    arrange(Diet_Type, desc(Frac_Diet))
   
   return(list(numStudies = numStudies,
               numRecords = numRecords,
