@@ -422,8 +422,8 @@ Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Knight, R. L. and Erickson. 1976. Raptor Research. 10 108-111"	n		unavailable
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Fitch et al. 1946. Condor 48 205-237	n		unavailable
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Meslow and Keith. 1966. Candian Field-Naturalist. 80 98-100.	n		unavailable
-Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Springer, A. M. 1975. Observations on the summer diet of Rough-legged Hawks from Alaska. Condor 77:338-339."	y	y	not entered yet
-Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Watson, J. W. 1984. Rough-legged Hawk winter ecology in southeastern Idaho. Master's Thesis. Univ. of Montana, Missoula."	y	y	not entered yet
+Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Springer, A. M. 1975. Observations on the summer diet of Rough-legged Hawks from Alaska. Condor 77:338-339."	y	y	entered
+Rough-legged Hawk	Accipitridae	2002	Feeding	Main Foods Taken	"Watson, J. W. 1984. Rough-legged Hawk winter ecology in southeastern Idaho. Master's Thesis. Univ. of Montana, Missoula."	y	y	entered
 Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Schnell, G. D. 1968. Differential habitat utilization by wintering Rough-legged and Red-tailed hawks. Condor 70:373-377."	y	n	
 Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Bildstein, K. L. 1987. Behavioral ecology of Red-tailed Hawks (Buteo jamaicensis), Rough-legged Hawks (Buteo lagopus), Northern Harriers (Circus cyaneus), and American Kestrels (Falco sparverius) in south central Ohio. Ohio Biol. Notes no. 18."	y	n	
 Rough-legged Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Sylv????n, M. 1978. Interspecific relations between sympatrically wintering Common Buzzards Buteo buteo and Rough-legged Buzzards Buteo lagopus. Ornis Scand. 9:197-205."	y	y	not entered yet
