@@ -276,8 +276,8 @@ Gray Hawk	Accipitridae	2002	Diet	Major Food Items	"West, S. 1974. Gray Hawk feed
 Gray Hawk	Accipitridae	2002	Diet	Major Food Items	"Eitniear, J. C., S. M. McGehee, and W. T. Waddell. 1990. Gray Hawk mobbed by Olive-throated Parakeets. Bird Behav. 8:114-115."	y	n	
 Gray Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Swarth, H. S. 1905. Summer birds of the Papago Indian Reservation and of the Santa Rita Mountains, Arizona. Condor 7:22-27."	y	n	
 Gray Hawk	Accipitridae	2002	Diet	Quantitative Analysis	"Glinski, R. L. 1998. Gray Hawk. Pages 82-85 in The raptors of Arizona. (Glinski, R. L., Ed.) Univ. of Arizona Press, Tucson."	y	n	
-Gray Hawk	Accipitridae	2002	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."	y	y	not entered yet
-Harris' Hawk	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	
+Gray Hawk	Accipitridae	2002	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."	y	y	entered
+Harris' Hawk	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	already entered
 Hawaiian Hawk	Accipitridae	2000	Diet	Major Food Items	"Shallenberger, R. J. 1977. Observations at the nest of a Hawaiian Hawk. 'Elepaio 37:74-75."	n		unavailable
 Hawaiian Hawk	Accipitridae	2000	Feeding	Main Foods Taken	"Griffin, C. R. 1985. Biology of the Hawaiian Hawk (Buteo solitarius). Phd Thesis. Univ. of Missouri, Columbia."	n		unavailable
 Hawaiian Hawk	Accipitridae	2000	Diet	Major Food Items	"Berger, A. J. 1981. Hawaiian birdlife. Univ. of Hawaii Press, Honolulu."	n		unavailable
@@ -289,14 +289,14 @@ Merlin	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Miss
 Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Skinner, R. W. 1962. Feeding habits of the Mississippi Kite. Auk 79:273-274."	y	n	
 Mississippi Kite	Accipitridae	1999	Diet	Quantitative Analysis	"Parker, J. W. 1996. Urban Ecology of the Mississippi Kite. Pages 45-52 in Raptors in human landscapes. (Bird, D., D. Varland, and J. Negro, Eds.) Academic Press, New York."	y	n	
 Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Ganier, A. F. 1902. The Mississippi Kite (Ictinia mississippiensis). Osprey 1:85-90."	y	n	
-Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Evans, S. A. 1981. Ecology and behavior of the Mississippi Kite (Ictinia mississipensis) in southern Illinois. Master's Thesis. Southern Illinois Univ. Carbondale."	y	y	not entered yet
+Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Evans, S. A. 1981. Ecology and behavior of the Mississippi Kite (Ictinia mississipensis) in southern Illinois. Master's Thesis. Southern Illinois Univ. Carbondale."	n		unavailable
 Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Parker, J. W. 1988a. Mississippi Kite. Pages 166-186 in Handbook of North American birds. Vol. 4 (Palmer, R. S., Ed.) Yale Univ. Press, New Haven."	n		unavailable
 Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Taylor, J. 1964. Noteworthy predation on the guano bat. J. Mammal. 45:300-301."	n		unavailable
-Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Glinski, R. L. and R. D. Ohmart. 1983. Breeding ecology of the Mississippi Kite in Arizona. Condor 85:200-207."	y	y	not entered yet
+Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Glinski, R. L. and R. D. Ohmart. 1983. Breeding ecology of the Mississippi Kite in Arizona. Condor 85:200-207."	y	y	entered
 Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Sutton, G. M. 1939. The Mississippi Kite in spring. Condor 41:41-53."	y	n	
 Mississippi Kite	Accipitridae	1999	Diet	Quantitative Analysis	"Parker, J. W. 1975. Populations of the Mississippi Kite in the Great Plains. Pages 159-172 in Population status of raptors. (Murphy, J. R. and et al., Eds.) Proceedings of the conference on raptor conservation techniques, part 5."	n		unavailable
 Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Hardin, M. E., J. W. Hardin, and W. D. Klimstra. 1977. Observations of nesting Mississippi Kites in southern Illinois. Trans. Ill. State Acad. Sci. 70:341-348."	n		unavailable
-Mississippi Kite	Accipitridae	1999	Diet	Quantitative Analysis	"Robinson, T. S. 1957. Notes on the development of a brood of Mississippi Kites in Barber County, Kansas. Trans. Kans. Acad. Sci. 60:174-180."	y	y	not entered yet
+Mississippi Kite	Accipitridae	1999	Diet	Quantitative Analysis	"Robinson, T. S. 1957. Notes on the development of a brood of Mississippi Kites in Barber County, Kansas. Trans. Kans. Acad. Sci. 60:174-180."	y	y	entered
 Mississippi Kite	Accipitridae	1999	Diet	Quantitative Analysis	"Parker, J. W. 1974. The breeding biology of the Mississippi Kite in the Great Plains. Phd Thesis. Univ. of Kansas, Lawrence."	n		unavailable
 Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Davis, S. E. 1989. Migration of the Mississippi Kite Ictinia mississippiensis in Boliva, with comments on I. plumbea. Bull. Br. Ornithol. Club 109:149-152."	n		unavailable
 Mississippi Kite	Accipitridae	1999	Feeding	Microhabitat For Foraging	"Allan, P. F. 1947. Notes on Mississippi Kites in Hemphill County, Texas. Condor 49:88-89."	y	n	
@@ -309,16 +309,16 @@ Mississippi Kite	Accipitridae	1999	Feeding	Food Capture And Consumption	"Allan, 
 Northern Goshawk	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Brace, K. 1983. Goshawk-snowshoe hare encounter. Blue Jay 41:120."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Foraging Behavior	"Kennedy, P. L. 1991. Reproductive strategies of northern goshawks and Cooper's hawks in north-central New Mexico. Phd Thesis. Utah State Univ. Logan."	y	n	
-Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Reynolds, R. T. and E. C. Meslow. 1984. Partitioning of food and niche characteristics of coexisting Accipiter during breeding. Auk 101:761-777."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Reynolds, R. T. and E. C. Meslow. 1984. Partitioning of food and niche characteristics of coexisting Accipiter during breeding. Auk 101:761-777."	y	y	entered
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Squires, J. R. 1995. Carrion use by northern goshawks. J. Raptor Res. 29:189-190."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Foraging Behavior	"Wid????n, P. 1984. Activity patterns and time-budget in the goshawk Accipiter gentilis in a boreal forest area in Sweden. Ornis Fennica 61:109-112."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Backstrom, P. 1991. Northern goshawk predation on sharp-tailed grouse. Loon 63:74."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Johnsgard, P. A. 1990. Hawks, eagles, and falcons of North America. Smithson. Inst. Press, Washington, D.C."	n		unavailable
-Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Schnell, J. H. 1958. Nesting behavior and food habits of goshawks in the Sierra Nevada of California. Condor 60:377-403."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Schnell, J. H. 1958. Nesting behavior and food habits of goshawks in the Sierra Nevada of California. Condor 60:377-403."	y	y	entered
 Northern Goshawk	Accipitridae	1997	Feeding	Foraging Behavior	"Kenward, R. E. 1979. Winter predation by goshawks in lowland Britain. Br. Birds 72:64-73."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Plucking Perches	"Hall, P. A. 1984. Characterization of nesting habitat of goshawks (Accipiter gentilis) in northwestern California. Master's Thesis. Humboldt State Univ., Arcata, CA."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Beebe, F. L. 1974. Goshawk. Pages 54-62 in Field studies of the Falconiformes of British Columbia. Br. Columbia Prov. Mus. Occas. Pap. Ser. no. 17."	n		unavailable
-Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Kenward, R. E., V. Marcstrom, and M. Karlbom. 1981a. Goshawk winter ecology in Swedish pheasant habitats. J. Wildl. Manage. 45:397-408."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Kenward, R. E., V. Marcstrom, and M. Karlbom. 1981a. Goshawk winter ecology in Swedish pheasant habitats. J. Wildl. Manage. 45:397-408."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Kenward, R. E. 1982. Goshawk hunting behaviour and range size as a function of food and habitat availability. J. Anim. Ecol. 51:69-80."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Bergstrom, B. J. 1985. Unusual prey-stalking behavior by a goshawk. J. Field Ornithol. 56:415."	y	n	
 Northern Goshawk	Accipitridae	1997	Feeding	Plucking Perches	"Reynolds, R. T., E. C. Meslow, and H. M. Wight. 1982. Nesting habitat of coexisting Accipiter in Oregon. J. Wildl. Manage. 46:124-138."	y	n	
@@ -326,10 +326,10 @@ Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Lind????n, H. and M. W
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Zachel, C. R. 1985. Food habits, hunting activity, and post-fledging behavior of northern goshawks (Accipiter gentilis) in interior Alaska. Master's Thesis. Univ. of Alaska, Fairbanks."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Feeding	Food Capture And Consumption	"Fulton, J. T. 1983. A northern goshawk in Georgia. Oriole 48:5."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Boal, C. W. and R. W. Mannan. 1994. Northern goshawk diets in ponderosa pine forests on the Kaibab Plateau. Stud. Avian Biol. 16:97-102."	n		unavailable
-Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Marquiss, M. and I. Newton. 1982. The goshawk in Britain. Br. Birds 75:243-260."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Marquiss, M. and I. Newton. 1982. The goshawk in Britain. Br. Birds 75:243-260."	y	y	entered
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Younk, J. V. and M. J. Bechard. 1994. Breeding ecology of the northern goshawk in high-elevation aspen forest of northern Nevada. Stud. Avian Biol. 16:119-121."	n		unavailable
-Northern Goshawk	Accipitridae	1997	Feeding	Plucking Perches	"Bull, E. L. and J. H. Hohmann. 1994. Breeding biology of northern goshawks in northeastern Oregon. Stud. Avian Biol. 16:103-105."	y	y	not entered yet
-Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Wid????n, P. 1987. Goshawk predation during winter, spring, and summer in a boreal forest area of central Sweden. Holarctic Ecol. 10:104-109."	y	y	not entered yet
+Northern Goshawk	Accipitridae	1997	Feeding	Plucking Perches	"Bull, E. L. and J. H. Hohmann. 1994. Breeding biology of northern goshawks in northeastern Oregon. Stud. Avian Biol. 16:103-105."	y	y	entered
+Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Wid????n, P. 1987. Goshawk predation during winter, spring, and summer in a boreal forest area of central Sweden. Holarctic Ecol. 10:104-109."	y	n	
 Northern Goshawk	Accipitridae	1997	Food Selection And Storage		"Bosakowski, T., D. G. Smith, and R. Speiser. 1992. Niche overlap of two sympatric-nesting hawks Accipiter spp. in the New Jersey-New York highlands. Ecography 15:358-372."	n		unavailable
 Northern Goshawk	Accipitridae	1997	Food Selection And Storage		"Kennedy, P. L. and J. A. Gessaman. 1991. Diurnal resting metabolic rates of accipiters. Wilson Bull. 103:101-105."	y	n	
 Northern Goshawk	Accipitridae	1997	Diet	Major Food Items	"Sutton, G. M. 1925. Notes on the nesting of the goshawk in Potter County, Pennsylvania. Wilson Bull. 37:193-199."	y	n	
@@ -347,15 +347,15 @@ Northern Goshawk	Accipitridae	1997	Nutrition And Energetics		"Wid????n, P. 1985.
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Swenson, J. E. 1981. Status of Osprey in southeastern Montana before and after construction of reservoirs. West. Birds 12:47-51."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Prevost, Y. A. 1977. Feeding ecology of Ospreys in Antigonish County, Nova Scotia. Master's Thesis. Macdonald College of McGill University, Montreal, QB."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Greene, E. P., A. E. Greene, and B. Freedman. 1983. Foraging behavior and prey selection by Ospreys in coastal habitats in Nova Scotia, Canada. Pages 257-267 in Biology and management of Bald Eagles and Ospreys. (Bird, D. M., Ed.) Harpell Press, Ste. Anne de Bellevue, Quebec."	n		unavailable
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Dunstan, T. C. 1974. Feeding activities of Ospreys in Minnesota. Wilson Bull. 86:74-76."	y		not entered yet
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Dunstan, T. C. 1974. Feeding activities of Ospreys in Minnesota. Wilson Bull. 86:74-76."	y	y	entered
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Poole, A. F. 1984. Reproductive limitations in coastal Ospreys: an ecological and evolutionary perspective. Unpubl. Ph.D. diss. Boston Univ. Boston, MA."	n		unavailable
 Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Greene, E. 1987. Individuals in an Osprey colony discriminate between high and low quality information. Nature 329:239-241."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Prevost, Y. A. 1982. The wintering ecology of Ospreys in Senegambia. Unpubl. Phd Thesis. Univ. of Edinburgh, U.K."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Edwards, Jr., T. C. 1989. Similarity in the development of foraging mechanics among sibling Ospreys. Condor 91:30-36."	y	n	
 Osprey	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Postupalsky, S. and S. M. Stackpole. 1974. Artificial nesting platforms for Ospreys in Michigan. Pages 105-117 in Management of raptors. (Hamerstrom, Jr., F. N., B. E. Harrell, and R. R. Olendorff, Eds.) Raptor Res. Found. Raptor Res. Rep. no. 2."	y	n	
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Steeger, C., H. Esselink, and R. C. Ydenberg. 1992. Comparative feeding ecology and reproductive performance of Ospreys in different habitats of southeastern British Columbia. Can. J. Zool. 70:470-475."	y	y	not entered yet
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Steeger, C., H. Esselink, and R. C. Ydenberg. 1992. Comparative feeding ecology and reproductive performance of Ospreys in different habitats of southeastern British Columbia. Can. J. Zool. 70:470-475."	y	y	entered
 Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Hagan, J. M. and J. R. Walters. 1990. Foraging behavior, reproductive success, and colonial nesting in Ospreys. Auk 107:506-521."	y	n	
-Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Mclean, P. K. and M. A. Byrd. 1991a. Diet of Chesapeake Bay Ospreys and their impact on the local fishery. J. Raptor Res. 25:109-112."	y	y	not entered yet
+Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Mclean, P. K. and M. A. Byrd. 1991a. Diet of Chesapeake Bay Ospreys and their impact on the local fishery. J. Raptor Res. 25:109-112."	y	y	entered
 Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Swenson, J. E. 1979b. The relationship between prey species ecology and dive success in Ospreys. Auk 96:408-412."	y	n	
 Osprey	Accipitridae	2002	Feeding	Food Capture And Consumption	"Machmer, M. M. and R. C. Ydenberg. 1990. Weather and Osprey foraging energetics. Can. J. Zool. 68:40-43."	y	n	
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Dusi, J. L. 1995. Osprey (Pandion haliaetus) feeds on carrion with Turkey Vultures (Cathartes aura). Alabama Birdlife 41:6-7."	n		unavailable
@@ -399,22 +399,22 @@ Osprey	Accipitridae	2002	Diet	Major Food Items	"Werren, J. H. and C. J. Peterson
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Wiley, J. W. and F. E. Lohrer. 1973. Additional records of non-fish prey taken by Ospreys. Wilson Bull. 85:468-470."	y	n	
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Douglass, J. F. 1997. Osprey diet includes red squirrel. Mich. Birds Nat. Hist. 4:151-152."	n		unavailable
 Osprey	Accipitridae	2002	Metabolism And Temperature Regulation	Metabolism	"Wasser, J. S. 1979. Comparative energetics of some falconiform birds. Master's Thesis. Univ. of Florida, Gainesville."	n		unavailable
-Osprey	Accipitridae	2002	Diet	Major Food Items	"Van Daele, L. J. and H. A. Van Daele. 1982. Factors affecting the productivity of Ospreys nesting in west-central Idaho. Condor 84:292-299."	y	y	not entered yet
+Osprey	Accipitridae	2002	Diet	Major Food Items	"Van Daele, L. J. and H. A. Van Daele. 1982. Factors affecting the productivity of Ospreys nesting in west-central Idaho. Condor 84:292-299."	y	y	entered
 Osprey	Accipitridae	2002	Diet	Major Food Items	"King, M. M. 1988. Osprey preys on tiger salamander. J. Raptor Res. 22:121."	y	y	
-Osprey	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	not entered yet
+Osprey	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	entered
 Prairie Falcon	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
 Red-backed	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	
-Red-shouldered hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	not entered yet
+Red-shouldered hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	entered
 Red-shouldered hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
 Red-shouldered hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982	n		unavailable
-Red-tailed hawk	Accipitridae	1996	Feeding		"Fitch, H. S. 1974. Observations on the food and nesting of the Broad-winged Hawk (Buteo platypterus) in northeastern Kansas. Condor 76:331-360."	y	y	not entered yet
+Red-tailed hawk	Accipitridae	1996	Feeding		"Fitch, H. S. 1974. Observations on the food and nesting of the Broad-winged Hawk (Buteo platypterus) in northeastern Kansas. Condor 76:331-360."	y	y	entered
 Red-tailed hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982	y	y	
 Red-tailed hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	above
 Red-tailed hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
 Red-tailed hawk	Accipitridae				"Murphy, R. K. 1993. History, nesting biology, and predation ecology of raptors in the Missouri Coteau of northwestern North Dakota. Diss. Montana State University 116-150."	y	y	
-Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Restani, M. 1991. Resource partitioning among three Buteo species in the Centennial Valley, Montana. Condor 93:1007-1010."	y	y	not entered yet
+Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Restani, M. 1991. Resource partitioning among three Buteo species in the Centennial Valley, Montana. Condor 93:1007-1010."	y	y	entered
 Red-tailed hawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	
-Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Steenhof, K. and M. N. Kochert. 1985. Dietary shifts of sympatric buteos during a prey decline. Oecologia 66:6-16."	y	y	not entered yet
+Red-tailed hawk	Accipitridae	1995	Diet	Quantitative Analysis	"Steenhof, K. and M. N. Kochert. 1985. Dietary shifts of sympatric buteos during a prey decline. Oecologia 66:6-16."	y	y	entered
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Orians and Kuhlman. 1956. Condor. 58 371-385	n		unavailable
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gates. 1972. Wilson Bull. 84 421-433	n		unavailable
 Red-Tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Fitch and Bare. 1978. Tras. Kans. Acad. Sci. 81 1-13	n		unavailable
@@ -491,94 +491,94 @@ Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Kelley, A. and N. Ke
 Sharp-shinned Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20:1-96."	y	y	not entered yet
 Sharp-shinned Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Mueller, H. C., N. S. Mueller, and P. C. Parker. 1981b. Observations of a brood of Sharp-shinned Hawks in Ontario, with comments on the functions of sexual dimorphism. Wilson Bull. 93:85-92."	y	n	
 Sharp-shinned Hawk	Accipitridae	2000	Metabolism And Temperature Regulation		"Kennedy, P. L. and J. A. Gessaman. 1991. Diurnal resting metabolic rates of accipiters. Wilson Bull. 103:101-105."	y	n	
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Duncan, C. D. 1996. Changes in the winter abundance of Sharp-shinned Hawks in New England. J. Field Ornithol. 67:254-262."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Viverette, C. B., S. Struve, L. J. Goodrich, and K. L. Bildstein. 1996. Decreases in migrating Sharp-shinned Hawks at traditional raptor-migration watchsites in eastern North America. Auk 113:32-40."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Joy, S. M., R. T. Reynolds, R. L. Knight, and R. W. Hoffman. 1994. Feeding ecology of Sharp-shinned Hawks nesting in deciduous and coniferous forests in Colorado. Condor 96:455-467."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mueller, H. C. and D. D. Berger. 1970. Prey preferences in the Sharp-shinned Hawk: the roles of sex, experience, and motivation. Auk 87:452-457."			
-Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Duncan, S. 1980. An analysis of the stomach contents of some Sharp-shinned Hawks. J. Field Ornithol. 51:178."			
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Reynolds, R. T. and E. C. Meslow. 1984. Partitioning of food and niche characteristics of coexisting accipiter during breeding. Auk 101:761-779."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Millsap, B. A., M. S. Robson, and B. R. Toland. 1996. Short-tailed Hawk. Pages 315-322 in Rare and endangered biota of Florida. Vol. 5: birds. (Rodgers, J., Ed.) Florida Committee on Rare and Endangered Plants and Animals. Univ. Press of Florida, Gainesville."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Robinson, S. K. 1994. Habitat selection and foraging ecology of raptors in Amazonian Peru. Biotropica 28:443-458."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Haverschmidt, F. 1968. Birds of Surinam. Oliver and Boyd, Edinburgh."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Ogden, J. C. (1974). The Short-Tailed Hawk in Florida: I. Migration, Habitat, Hunting Techniques, and Food Habits. The Auk, 95-110."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Sprunt, Jr., A. 1955. North American birds of prey. Harper and Brothers, New York."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Hallinan, T. 1924. Notes on some Panama Canal Zone birds with special reference to their food. Auk 41:304-326."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Ridgely, R. S. and J. A. Gwynne, Jr. 1989. A guide to the birds of Panama. Princeton Univ. Press, Princeton, NJ."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Ogden, J. C. 1974. The Short-tailed Hawk in Florida. I. Migration, habitat, hunting techniques, and food habits. Auk 91:95-110."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Brown, M. 1986. Bald Eagle and Short-tailed Hawk prey on other raptors. Fla. Field Nat. 15:19-20."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Moore, J. C. 1954. Short-tailed Hawk in action. Fla. Nat. 27:106."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Moore, J. C., L. A. Stimson, and W. B. Robertson. 1953. Observation of the Short-tailed Hawk in Florida. Auk 70:470-478."			
-Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Herklots, G. A. C. 1961. The birds of Trinidad and Tobago. Collins, London."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Robertson, Jr., W. B. and G. E. Woolfenden. 1992. Florida bird species: an annotated list. Fla. Ornithol. Soc. Spec. Publ. no. 6."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."			
-Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."			
-Short-tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Davis, J.  1953. Condor 55 90-98"			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Voous, K. H. and T. J. van Dijk. 1973. How do Snail Kites extract snails from their shells? Ardea 61:179-185."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Snyder, N. F. R., S. R. Beissinger, and R. Chandler. 1989. Reproduction and demography of the Florida Everglade (Snail) Kite. Condor 91:300-316."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R., T. J. Donnay, and R. Walton. 1994. Experimental analysis of diet specialization in the Snail Kite: the role of behavior conservatism. Oecologia 100:54-65."			
-Snail Kite	Accipitridae	1995	Diet		"Woodin, M. C. and C. D. Woodin. 1981. Everglade Kite predation on a soft-shelled turtle. Fla. Field Nat. 9:64."			
-Snail Kite	Accipitridae	1995	Diet		"Takekawa, J. E. and S. R. Beissinger. 1983. First evidence of Snail Kite feeding on the introduced snail, Pomacea bridgesi, in Florida. Fla. Field Nat. 11:107-108."			
-Snail Kite	Accipitridae	1995	Diet		"Bennetts, R. E., M. W. Collopy, and J. A. Rodgers, Jr. 1994a. The Snail Kite in the Florida Everglades: a food specialist in a changing environment. Pages 507-532 in Everglades: the ecosystem and its restoration. (Ogden, J. and S. Davis, Eds.) St. Lucie Press, Delray Beach, FL."			
-Snail Kite	Accipitridae	1995	Diet		"Beissinger, S. R. 1990a. Experimental brood manipulations and the monoparental threshold in Snail Kites. Am. Nat. 136:20-38."			
-Snail Kite	Accipitridae	1995	Diet		"Collett, S. F. 1977. Sizes of snails eaten by Snail Kites and Limpkins in Costa Rican marsh. Auk 94:365-367."			
-Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1984. Mate desertion and reproductive effort in the Snail Kite. Phd Thesis. Univ. of Michigan, Ann Arbor."			
-Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1987a. Anisogamy overcome: female strategies in Snail Kites. Am. Nat. 129:486-500."			
-Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1987b. Mate desertion and reproductive effort in the Snail Kite. Anim. Behav. 35:1504-1519."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R. and N. F. R. Snyder. 1987. Mate desertion in the Snail Kite. Anim. Behav. 35:477-487."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Hanning, G. W. 1978. Aspects of reproduction in Pomacea paludosa (Mesogastropoda: Pillidae). Master's Thesis. Univ. of Florida, Gainesville."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R. 1988. Snail Kite. Pages 148-165 in Handbook of North American birds. Vol. 4 (Palmer, R. S., Ed.) Yale Univ. Press, New Haven, CT."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Snyder, N. F. R. and H. A. Snyder. 1969. A comparative study of mollusc predation by Limpkins, Everglade Kites, and Boat-tailed Grackles. Living Bird 8:177-223."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Sykes, Jr., P. W. and H. W. Kale II. 1974. Everglade Kites feed on non-snail prey. Auk 91:818-820."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Snyder, N. F. R. and H. W. Kale II. 1983. Mollusk predation by Snail Kites in Colombia. Auk 100:93-97."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Bourne, G. R. 1985b. The role of profitability in Snail Kite foraging. J. Anim. Ecol. 54:697-709."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Mader, W. J. 1981. Notes on nesting raptors in the llanos of Venezuela. Condor 83:48-51."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Beissinger, S. R. 1990b. Alternative foods of a diet specialist, the Snail Kite. Auk 107:327-333."			
-Snail Kite	Accipitridae	1995	Feeding	Microhabitat For Foraging	"Cowardin, L. M., V. Carter, F. C. Golet, and E. T. LaRoe. 1979. Classification of wetlands and deepwater habitats of the United States. Biol. Serv. Prog. FWS/OBS-79/31. U.S. Fish Wildl. Serv. Washington, D.C."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Haverschmidt, F. 1970. Notes on the Snail Kite in Surinam. Auk 87:580-584."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Cary, D. M. 1985. Climatological and environmental factors effecting the foraging behavior and ecology of Everglade Kites. Master's Thesis. Univ. of Miami, Coral Gables, FL."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Miller, B. W. and R. L. Tilson. 1985. Snail Kite kleptoparasitism of Limpkins. Auk 102:170-171."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Sykes, Jr., P. W. 1987a. The feeding habits of the Snail Kite in Florida, USA. Colon. Waterbirds 10:84-92."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Stieglitz, W. O. and R. L. Thompson. 1967. Status and life history of the Everglade Kite in the United States. Bureau Sport Fisheries and Wildl., Spec. Sci. Rep. Wildl. 109."			
-Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Haverschmidt, F. 1962. Notes on the feeding habits and food of some hawks of Surinam. Condor 64:154-158."			
-Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Rumbold, D. G. and M. B. Mihalik. 1994. Snail Kite use of a drought-related habitat and communal roost in West Palm Beach, Florida: 1987-1991. Fla. Field Nat. 22:29-38."			
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Duncan, C. D. 1996. Changes in the winter abundance of Sharp-shinned Hawks in New England. J. Field Ornithol. 67:254-262."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Viverette, C. B., S. Struve, L. J. Goodrich, and K. L. Bildstein. 1996. Decreases in migrating Sharp-shinned Hawks at traditional raptor-migration watchsites in eastern North America. Auk 113:32-40."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Joy, S. M., R. T. Reynolds, R. L. Knight, and R. W. Hoffman. 1994. Feeding ecology of Sharp-shinned Hawks nesting in deciduous and coniferous forests in Colorado. Condor 96:455-467."	y	y	not entered yet; started saving
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mueller, H. C. and D. D. Berger. 1970. Prey preferences in the Sharp-shinned Hawk: the roles of sex, experience, and motivation. Auk 87:452-457."	y	n	
+Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Duncan, S. 1980. An analysis of the stomach contents of some Sharp-shinned Hawks. J. Field Ornithol. 51:178."	y	y	not entered yet
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Reynolds, R. T. and E. C. Meslow. 1984. Partitioning of food and niche characteristics of coexisting accipiter during breeding. Auk 101:761-779."	y	y	not entered yet
+Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Millsap, B. A., M. S. Robson, and B. R. Toland. 1996. Short-tailed Hawk. Pages 315-322 in Rare and endangered biota of Florida. Vol. 5: birds. (Rodgers, J., Ed.) Florida Committee on Rare and Endangered Plants and Animals. Univ. Press of Florida, Gainesville."	n		Library Service Center
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Robinson, S. K. 1994. Habitat selection and foraging ecology of raptors in Amazonian Peru. Biotropica 28:443-458."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Haverschmidt, F. 1968. Birds of Surinam. Oliver and Boyd, Edinburgh."	n		Library Service Center
+Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Ogden, J. C. (1974). The Short-Tailed Hawk in Florida: I. Migration, Habitat, Hunting Techniques, and Food Habits. The Auk, 95-110."	y	y	not entered yet
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Sprunt, Jr., A. 1955. North American birds of prey. Harper and Brothers, New York."	n		unavailable
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Hallinan, T. 1924. Notes on some Panama Canal Zone birds with special reference to their food. Auk 41:304-326."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Ridgely, R. S. and J. A. Gwynne, Jr. 1989. A guide to the birds of Panama. Princeton Univ. Press, Princeton, NJ."	n		Science Library Annex
+Short-tailed Hawk	Accipitridae	2002	Feeding	Microhabitat For Foraging	"Ogden, J. C. 1974. The Short-tailed Hawk in Florida. I. Migration, habitat, hunting techniques, and food habits. Auk 91:95-110."	y	y	already mentioned above
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Brown, M. 1986. Bald Eagle and Short-tailed Hawk prey on other raptors. Fla. Field Nat. 15:19-20."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Moore, J. C. 1954. Short-tailed Hawk in action. Fla. Nat. 27:106."	n		unavailable
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Moore, J. C., L. A. Stimson, and W. B. Robertson. 1953. Observation of the Short-tailed Hawk in Florida. Auk 70:470-478."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Feeding	Food Capture And Consumption	"Herklots, G. A. C. 1961. The birds of Trinidad and Tobago. Collins, London."	n		unavailable
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Robertson, Jr., W. B. and G. E. Woolfenden. 1992. Florida bird species: an annotated list. Fla. Ornithol. Soc. Spec. Publ. no. 6."	n		unavailable
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."	y	n	
+Short-tailed Hawk	Accipitridae	2002	Diet	Major Food Items	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."	y	y	already entered
+Short-tailed Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Davis, J.  1953. Condor 55 90-98"	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Voous, K. H. and T. J. van Dijk. 1973. How do Snail Kites extract snails from their shells? Ardea 61:179-185."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Snyder, N. F. R., S. R. Beissinger, and R. Chandler. 1989. Reproduction and demography of the Florida Everglade (Snail) Kite. Condor 91:300-316."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R., T. J. Donnay, and R. Walton. 1994. Experimental analysis of diet specialization in the Snail Kite: the role of behavior conservatism. Oecologia 100:54-65."	y	n	
+Snail Kite	Accipitridae	1995	Diet		"Woodin, M. C. and C. D. Woodin. 1981. Everglade Kite predation on a soft-shelled turtle. Fla. Field Nat. 9:64."	n		unavailable
+Snail Kite	Accipitridae	1995	Diet		"Takekawa, J. E. and S. R. Beissinger. 1983. First evidence of Snail Kite feeding on the introduced snail, Pomacea bridgesi, in Florida. Fla. Field Nat. 11:107-108."	n		unavailable
+Snail Kite	Accipitridae	1995	Diet		"Bennetts, R. E., M. W. Collopy, and J. A. Rodgers, Jr. 1994a. The Snail Kite in the Florida Everglades: a food specialist in a changing environment. Pages 507-532 in Everglades: the ecosystem and its restoration. (Ogden, J. and S. Davis, Eds.) St. Lucie Press, Delray Beach, FL."	n		unavailable
+Snail Kite	Accipitridae	1995	Diet		"Beissinger, S. R. 1990a. Experimental brood manipulations and the monoparental threshold in Snail Kites. Am. Nat. 136:20-38."	y	n	
+Snail Kite	Accipitridae	1995	Diet		"Collett, S. F. 1977. Sizes of snails eaten by Snail Kites and Limpkins in Costa Rican marsh. Auk 94:365-367."	y	n	
+Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1984. Mate desertion and reproductive effort in the Snail Kite. Phd Thesis. Univ. of Michigan, Ann Arbor."	y	n	
+Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1987a. Anisogamy overcome: female strategies in Snail Kites. Am. Nat. 129:486-500."	y	n	
+Snail Kite	Accipitridae	1995	Nutrition And Energetics		"Beissinger, S. R. 1987b. Mate desertion and reproductive effort in the Snail Kite. Anim. Behav. 35:1504-1519."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R. and N. F. R. Snyder. 1987. Mate desertion in the Snail Kite. Anim. Behav. 35:477-487."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Hanning, G. W. 1978. Aspects of reproduction in Pomacea paludosa (Mesogastropoda: Pillidae). Master's Thesis. Univ. of Florida, Gainesville."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Beissinger, S. R. 1988. Snail Kite. Pages 148-165 in Handbook of North American birds. Vol. 4 (Palmer, R. S., Ed.) Yale Univ. Press, New Haven, CT."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Snyder, N. F. R. and H. A. Snyder. 1969. A comparative study of mollusc predation by Limpkins, Everglade Kites, and Boat-tailed Grackles. Living Bird 8:177-223."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Sykes, Jr., P. W. and H. W. Kale II. 1974. Everglade Kites feed on non-snail prey. Auk 91:818-820."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Snyder, N. F. R. and H. W. Kale II. 1983. Mollusk predation by Snail Kites in Colombia. Auk 100:93-97."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Bourne, G. R. 1985b. The role of profitability in Snail Kite foraging. J. Anim. Ecol. 54:697-709."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Mader, W. J. 1981. Notes on nesting raptors in the llanos of Venezuela. Condor 83:48-51."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Beissinger, S. R. 1990b. Alternative foods of a diet specialist, the Snail Kite. Auk 107:327-333."	y	y	not entered yet
+Snail Kite	Accipitridae	1995	Feeding	Microhabitat For Foraging	"Cowardin, L. M., V. Carter, F. C. Golet, and E. T. LaRoe. 1979. Classification of wetlands and deepwater habitats of the United States. Biol. Serv. Prog. FWS/OBS-79/31. U.S. Fish Wildl. Serv. Washington, D.C."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Haverschmidt, F. 1970. Notes on the Snail Kite in Surinam. Auk 87:580-584."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Cary, D. M. 1985. Climatological and environmental factors effecting the foraging behavior and ecology of Everglade Kites. Master's Thesis. Univ. of Miami, Coral Gables, FL."	n		unavailable
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Miller, B. W. and R. L. Tilson. 1985. Snail Kite kleptoparasitism of Limpkins. Auk 102:170-171."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Sykes, Jr., P. W. 1987a. The feeding habits of the Snail Kite in Florida, USA. Colon. Waterbirds 10:84-92."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."	y	y	already entered
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Stieglitz, W. O. and R. L. Thompson. 1967. Status and life history of the Everglade Kite in the United States. Bureau Sport Fisheries and Wildl., Spec. Sci. Rep. Wildl. 109."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Haverschmidt, F. 1962. Notes on the feeding habits and food of some hawks of Surinam. Condor 64:154-158."	y	n	
+Snail Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Rumbold, D. G. and M. B. Mihalik. 1994. Snail Kite use of a drought-related habitat and communal roost in West Palm Beach, Florida: 1987-1991. Fla. Field Nat. 22:29-38."	n		unavailable
 Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Howell, A. H. 1932. Florida bird life. Fla. Dept. Game Fresh Water Fish, Tallahassee."	y	y	
 Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Beissinger, S. R. 1983. Hunting behavior, prey selection, and energetics of Snail Kite in Guyana: consumer choice by a specialist. Auk 100:84-92."	y	y	
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Dunkle. 1977. Auk 94 65-71			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gilmer and Stewart. 1984. Condor 86 12-18			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Fitzner. 1978. Behavioral Ecology of Swainson's Hawk in Se. Was. Was. State University, Pullman, Ph.D diss."			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Thiollay. 1981. Gerfaut 71 575-610			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Ridgway. 1877. U.S. Geol. Expl. 40th Parallel….4 pt. 3 Ornithology, pp.303-669, Washington, D.C."			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Cameron. 1913. Auk 30 167-176, 381-394"			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Sexton and Marion. 1974. Wilson Bull. 86 167-168			
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Dall and Bannister. 1869. Trand. Chicago Acad. Sci. 1 pt. 2: 267-310			
-Swainson'sHawk	Accipitridae				"Murphy, R. K. 1993. History, nesting biology, and predation ecology of raptors in the Missouri Coteau of northwestern North Dakota. Diss. Montana State University 116-1850."			
-Swainson'sHawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."			
-Swallow-tailed Kite	Accipitridae	1995	Diet	Major Food Items	"Lee, D. S. and M. K. Clark. 1993. Notes on post-breeding American Swallow-tailed Kites, Elanoides forficatus (Falconiformes: Accipitridae), in north-central Florida. Brimleyana 19:185-203."			
-Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Sutton, I. D. 1955. Nesting of the Swallow-tailed Kite. Everglades Nat. Hist. 3:72-84."			
-Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Voous, K. H. 1969. Predation potential in birds of prey from Surinam. Ardea 57:117-146."			
-Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Buskirk, W. H. and M. Lechner. 1978. Frugivory by Swallow-tailed Kites in Costa Rica. Auk 95:767-768."			
-Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Lemke, T. O. 1979. Fruit-eating behavior of Swallow-tailed Kites (Elanoides forficatus) in Colombia. Condor 81:207-208."			
-Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Snyder, N. F. R. 1974. Breeding biology of Swallow-tailed Kites in Florida. Living Bird 13:73-97."			
-Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Gerhardt, R. P., M. A. Vasquez, and D. M. Gerhardt. 1991. Breeding biology, food habits, and siblicide of Swallow-tailed Kites. Pages 65-71 in Maya Project, Prog. Rep. no. 4. (Whitacre, D. F., W. A. Burnham, and J. P. Jenny, Eds.) The Peregrine Fund, Boise, ID."			
-Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Skutch, A. F. 1965. Life history notes on two tropical American kites. Condor. 67:235-246."			
-Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Robertson, Jr., W. B. 1988. American Swallow-tailed Kite. Pages 109-131 in Handbook of North American birds. Vol. 4 (Palmer, R. S., Ed.) Yale Univ. Press, New Haven, CT."			
-Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Meyer, K. D. and M. W. Collopy. 1990. Status, distribution, and habitat requirements of the American Swallow-tailed Kite (Elanoides forficatus forficatus) in Florida. Final report. Florida Game and Fresh Water Fish Comm. Tallahassee, FL."			
-Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Cely, J. E. and J. A. Sorrow. 1990. The American Swallow-tailed Kite in South Carolina. Nongame and Heritage Trust Fund publ. no. 1. South Carolina Wildl. and Mar. Resour. Dept. Columbia, SC."			
-Swallow-tailed Kite	Accipitridae	1995	"Drinking, Pellet-Casting, And Defecation"		"Smithe, F. B. 1966. The birds of Tikal. Natural History Press, New York."			
-Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Haverschmidt, F. 1962. Notes on the feeding habits and food of some hawks in Surinam. Condor 64:154-158."			
-Swallow-tailed Kite	Accipitridae	1995	"Drinking, Pellet-Casting, And Defecation"		"Nicholson, D. J. 1928. A Swallow-tailed Kite nest in Monroe County. Fla. Nat. 2:20-21."			
-White-tailed Kite	Accipitridae	1995	Feeding	Microhabitat For Foraging	"Bammann, A. R. 1975. Ecology of predation and social interactions of wintering White-tailed Kites. Master's Thesis. Humboldt State Univ. Arcata, CA."			
-White-tailed Kite	Accipitridae	1995	Feeding	Microhabitat For Foraging	"Mendelsohn, J. M. and F. M. Jaksic. 1989. Hunting behaviour of Black-shouldered Kites in the Americas, Europe and Australia. Ostrich 60:1-12."			
-White-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Jaksic, F. M., R. Rozzi, A. Labra, and J. E. Jimenez. 1987. The hunting behavior of Black-shouldered Kites (Elanus caeruleus leucurus) in central Chile. Condor 89:907-911."			
-White-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Warner, J. S. and R. L. Rudd. 1975. Hunting by the White-tailed Kite. Condor 77:226-230."			
-White-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Daan, S., W. Altenburg, G. Boedeltje, C. Dijkstra, M. Gerkema, F. de Hass, R. Hohe, P. Koene, H. van der Leest, D. Masman, M. Schoenmakers, H. Waterbolk, P. Wildschut, and M. Zijlstra. 1982. Timing of vole hunting in aerial predators. Mam. Review 12:169-181."			
-White-tailed Kite	Accipitridae	1995	Diet	Major Food Items And Quantitative Analysis	"Fisher, A. K. 1907. Hawks and owls from the standpoint of the farmer. U.S. Dep. Agric. Biol. Sur. Circ. No. 61."			
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Dunkle. 1977. Auk 94 65-71	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gilmer and Stewart. 1984. Condor 86 12-18	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Fitzner. 1978. Behavioral Ecology of Swainson's Hawk in Se. Was. Was. State University, Pullman, Ph.D diss."	y	y	not entered yet
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Thiollay. 1981. Gerfaut 71 575-610	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Ridgway. 1877. U.S. Geol. Expl. 40th Parallel….4 pt. 3 Ornithology, pp.303-669, Washington, D.C."	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Cameron. 1913. Auk 30 167-176, 381-394"	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Sexton and Marion. 1974. Wilson Bull. 86 167-168	n		unavailable
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Dall and Bannister. 1869. Trand. Chicago Acad. Sci. 1 pt. 2: 267-310	n		unavailable
+Swainson'sHawk	Accipitridae				"Murphy, R. K. 1993. History, nesting biology, and predation ecology of raptors in the Missouri Coteau of northwestern North Dakota. Diss. Montana State University 116-1850."	y	y	not entered yet
+Swainson'sHawk	Accipitridae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	already entered
+Swallow-tailed Kite	Accipitridae	1995	Diet	Major Food Items	"Lee, D. S. and M. K. Clark. 1993. Notes on post-breeding American Swallow-tailed Kites, Elanoides forficatus (Falconiformes: Accipitridae), in north-central Florida. Brimleyana 19:185-203."	n		unavailable
+Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Sutton, I. D. 1955. Nesting of the Swallow-tailed Kite. Everglades Nat. Hist. 3:72-84."	n		unavailable
+Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Voous, K. H. 1969. Predation potential in birds of prey from Surinam. Ardea 57:117-146."	n		unavailable
+Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Buskirk, W. H. and M. Lechner. 1978. Frugivory by Swallow-tailed Kites in Costa Rica. Auk 95:767-768."	n		unavailable
+Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Lemke, T. O. 1979. Fruit-eating behavior of Swallow-tailed Kites (Elanoides forficatus) in Colombia. Condor 81:207-208."	y	n	
+Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Snyder, N. F. R. 1974. Breeding biology of Swallow-tailed Kites in Florida. Living Bird 13:73-97."	n		unavailable
+Swallow-tailed Kite	Accipitridae	1995	Diet	Quantitative Analysis	"Gerhardt, R. P., M. A. Vasquez, and D. M. Gerhardt. 1991. Breeding biology, food habits, and siblicide of Swallow-tailed Kites. Pages 65-71 in Maya Project, Prog. Rep. no. 4. (Whitacre, D. F., W. A. Burnham, and J. P. Jenny, Eds.) The Peregrine Fund, Boise, ID."	n		unavailable
+Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Skutch, A. F. 1965. Life history notes on two tropical American kites. Condor. 67:235-246."	y	n	
+Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Robertson, Jr., W. B. 1988. American Swallow-tailed Kite. Pages 109-131 in Handbook of North American birds. Vol. 4 (Palmer, R. S., Ed.) Yale Univ. Press, New Haven, CT."	n		Library Service Center
+Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Meyer, K. D. and M. W. Collopy. 1990. Status, distribution, and habitat requirements of the American Swallow-tailed Kite (Elanoides forficatus forficatus) in Florida. Final report. Florida Game and Fresh Water Fish Comm. Tallahassee, FL."	y	y	not entered yet
+Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Cely, J. E. and J. A. Sorrow. 1990. The American Swallow-tailed Kite in South Carolina. Nongame and Heritage Trust Fund publ. no. 1. South Carolina Wildl. and Mar. Resour. Dept. Columbia, SC."	n		unavailable
+Swallow-tailed Kite	Accipitridae	1995	"Drinking, Pellet-Casting, And Defecation"		"Smithe, F. B. 1966. The birds of Tikal. Natural History Press, New York."	n		unavailable
+Swallow-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Haverschmidt, F. 1962. Notes on the feeding habits and food of some hawks in Surinam. Condor 64:154-158."	y	n	
+Swallow-tailed Kite	Accipitridae	1995	"Drinking, Pellet-Casting, And Defecation"		"Nicholson, D. J. 1928. A Swallow-tailed Kite nest in Monroe County. Fla. Nat. 2:20-21."	n		unavailable
+White-tailed Kite	Accipitridae	1995	Feeding	Microhabitat For Foraging	"Bammann, A. R. 1975. Ecology of predation and social interactions of wintering White-tailed Kites. Master's Thesis. Humboldt State Univ. Arcata, CA."	n		unavailable
+White-tailed Kite	Accipitridae	1995	Feeding	Microhabitat For Foraging	"Mendelsohn, J. M. and F. M. Jaksic. 1989. Hunting behaviour of Black-shouldered Kites in the Americas, Europe and Australia. Ostrich 60:1-12."	n		unavailable
+White-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Jaksic, F. M., R. Rozzi, A. Labra, and J. E. Jimenez. 1987. The hunting behavior of Black-shouldered Kites (Elanus caeruleus leucurus) in central Chile. Condor 89:907-911."	y	n	
+White-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Warner, J. S. and R. L. Rudd. 1975. Hunting by the White-tailed Kite. Condor 77:226-230."	y	n	
+White-tailed Kite	Accipitridae	1995	Feeding	Food Capture And Consumption	"Daan, S., W. Altenburg, G. Boedeltje, C. Dijkstra, M. Gerkema, F. de Hass, R. Hohe, P. Koene, H. van der Leest, D. Masman, M. Schoenmakers, H. Waterbolk, P. Wildschut, and M. Zijlstra. 1982. Timing of vole hunting in aerial predators. Mam. Review 12:169-181."	y	n	
+White-tailed Kite	Accipitridae	1995	Diet	Major Food Items And Quantitative Analysis	"Fisher, A. K. 1907. Hawks and owls from the standpoint of the farmer. U.S. Dep. Agric. Biol. Sur. Circ. No. 61."	y	y/n	data is somewhat incomplete
 White-tailed Kite	Accipitridae	1995	Diet	Major Food Items And Quantitative Analysis	"Grossman, M. L. and J. Hamlet. 1964. Birds of prey of the world. Bonanza Books, New York."	y	y	
-White-tailed Kite	Accipitridae	1995	Diet	Major Food Items And Quantitative Analysis	"Meserve, P. L. 1977. Food habits of a White-tailed Kite population in central Chile. Condor 79:263-265."			
-White-tailed Kite	Accipitridae	1995	Diet	Major Food Items And Quantitative Analysis	"Stendell, R. C. 1972. The occurrence, food habits, and nesting strategy of White-tailed Kites in relation to a fluctuating vole population. Phd Thesis. Univ. of California, Berkeley."			
-White-tailed Kite	Accipitridae	1995	Nutrition And Energetics		"Koplin, J. R., M. W. Collopy, A. R. Bammann, and H. Levenson. 1980. Energetics of two wintering raptors. Auk 97:795-806."			
-White-tailed Kite	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."			
+White-tailed Kite	Accipitridae	1995	Diet	Major Food Items And Quantitative Analysis	"Meserve, P. L. 1977. Food habits of a White-tailed Kite population in central Chile. Condor 79:263-265."	y	y	not entered yet
+White-tailed Kite	Accipitridae	1995	Diet	Major Food Items And Quantitative Analysis	"Stendell, R. C. 1972. The occurrence, food habits, and nesting strategy of White-tailed Kites in relation to a fluctuating vole population. Phd Thesis. Univ. of California, Berkeley."	n		unavailable
+White-tailed Kite	Accipitridae	1995	Nutrition And Energetics		"Koplin, J. R., M. W. Collopy, A. R. Bammann, and H. Levenson. 1980. Energetics of two wintering raptors. Auk 97:795-806."	y	y	not entered yet
+White-tailed Kite	Accipitridae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	already entered
 Zone-tailed Hawk	Accipitridae	2000	Feeding	Main Foods Taken	"Sherrod, S. K. 1978. Diets of North American Falconiformes. Raptor Res. 9:49-121."	y	y	already mentioned above
 Zone-tailed Hawk	Accipitridae	2000	Feeding	Main Foods Taken	"Willis, E. 1963. Is the Zone-tailed Hawk a mimic of the Turkey Vulture? Condor 65:313-317."	y	n	
 Zone-tailed Hawk	Accipitridae	2000	Feeding	Main Foods Taken	"Zimmerman, D. A. 1976. Comments on feeding habits and vulture-mimicry in the Zone-tailed Hawk. Condor 78:420-421."	y	n	
@@ -589,21 +589,21 @@ Zone-tailed Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Hiraldo, F
 Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mclaren, I. A. and A. MacInnis. 1977. A Zone-tailed Hawk in Nova Scotia. Can. Field-Nat. 91:310-311."	n		unavailable
 Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Palmer, R. S. 1988. Handbook of North American birds. Vol. 5. Yale Univ. Press, New Haven, CT."	n		unavailable
 Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Bailey, F. M. 1923. Birds recorded from the Santa Rita Mountains in southern Arizona. Pac. Coast Avifauna 15."	y	n	
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Huber, W. 1929. Zone-tailed Hawk in Lincoln Co., New Mexico. Auk 46:544."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mueller, H. C. 1972. Zone-tailed Hawk and Turkey Vulture: mimicry or aerodynamics? Condor 74:221-222."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mueller, H. C. 1976. Reactions of quail to flying vultures. Condor 78:120-121."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Marshall, J. T. 1957. Birds of the pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna 32."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Friedmann, H. and F. D. Smith. 1950. A contribution to the ornithology of northeast Venezuela. U.S. Natl. Mus. Proc. 100:411-538."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Willis, E. 1966. A prey capture by the Zone-tailed Hawk. Condor 68:104-105."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Ffrench, R. 1991. A guide to the birds of Trinidad and Tobago. Rev. ed. Cornell Univ. Press, Ithaca, NY."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Brewster, W. 1883. On a collection of birds lately made by Mr. F. Stephens in Arizona. Bull. Nuttall Ornithol. Club 7:21-36."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mearns, E. A. 1886. Some birds of Arizona: Zone-tailed Hawk. Buteo abbreviatus Caban. Mexican Black Hawk. Urbitinga anthracina (Licht.; Lafr.). Auk 3:60-73."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Pough, R. H. 1951. Audubon water bird guide. Doubleday & Co. Inc. Garden City, New York."			
-Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Kennedy, P. L., D. E. Crowe, and T. F. Dean. 1995. Breeding biology of the Zone-tailed Hawk at the limit of its distribution. J. Raptor Res. 29:110-116."			
-Zone-tailed Hawk	Accipitridae	2000	Diet	Major Food Items	"Swarth, H. S. 1920. Birds of the Papago Saguaro National Monument and the neighboring regions, Arizona. U.S. Natl. Park Serv. Washington, D.C."			
-Zone-tailed Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."			
-Zone-tailed Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Alvarez Del Toro, M. 1952. New records of birds from Chiapas, Mexico. Condor 54:112-114."			
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Huber, W. 1929. Zone-tailed Hawk in Lincoln Co., New Mexico. Auk 46:544."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Bent, A. C. 1937. Life histories of North American birds of prey, Pt. 1. U.S. Natl. Mus. Bull. 167."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mueller, H. C. 1972. Zone-tailed Hawk and Turkey Vulture: mimicry or aerodynamics? Condor 74:221-222."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mueller, H. C. 1976. Reactions of quail to flying vultures. Condor 78:120-121."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Marshall, J. T. 1957. Birds of the pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna 32."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Friedmann, H. and F. D. Smith. 1950. A contribution to the ornithology of northeast Venezuela. U.S. Natl. Mus. Proc. 100:411-538."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Willis, E. 1966. A prey capture by the Zone-tailed Hawk. Condor 68:104-105."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Ffrench, R. 1991. A guide to the birds of Trinidad and Tobago. Rev. ed. Cornell Univ. Press, Ithaca, NY."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Brewster, W. 1883. On a collection of birds lately made by Mr. F. Stephens in Arizona. Bull. Nuttall Ornithol. Club 7:21-36."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Mearns, E. A. 1886. Some birds of Arizona: Zone-tailed Hawk. Buteo abbreviatus Caban. Mexican Black Hawk. Urbitinga anthracina (Licht.; Lafr.). Auk 3:60-73."	n		unavailable
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Pough, R. H. 1951. Audubon water bird guide. Doubleday & Co. Inc. Garden City, New York."	n		Library Service Center
+Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Kennedy, P. L., D. E. Crowe, and T. F. Dean. 1995. Breeding biology of the Zone-tailed Hawk at the limit of its distribution. J. Raptor Res. 29:110-116."	y	y	not entered yet
+Zone-tailed Hawk	Accipitridae	2000	Diet	Major Food Items	"Swarth, H. S. 1920. Birds of the Papago Saguaro National Monument and the neighboring regions, Arizona. U.S. Natl. Park Serv. Washington, D.C."	y	n	
+Zone-tailed Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."	y	y	already mentioned above
+Zone-tailed Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Alvarez Del Toro, M. 1952. New records of birds from Chiapas, Mexico. Condor 54:112-114."	y	n	
 Bushtit	Aegithalidae	2001	Diet		"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice. U.S. Natl. Mus. Bull. 191."			
 Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Smith, S. A. 1972. Roosting aggregations of Bushtits in response to cold temperatures. Condor 74:478-479."			
 Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hejl, S. J. and J. Verner. 1990. Within-season and yearly variations in avian foraging locations. Stud. Avian Biol. 13:202-209."			
@@ -2850,60 +2850,60 @@ Wilson's Plover	Charadriidae	2000	Feeding	Main Foods Taken	"Thibault, M. and R. 
 Wilson's Plover	Charadriidae	2000	Feeding	Main Foods Taken	"Thibault, M. and R. McNeil. 1995. Predator-prey relationship between Wilson's Plovers and Fiddler Crabs in northeastern Venezuela. Wilson Bull. 107:73-80."			
 Wilson's Plover	Charadriidae	2000	Feeding	Microhabitat For Foraging	"Robert, M. and R. McNeil. 1989. Comparative day and night feeding strategies of shorebird species in a tropical environment. Ibis 131:69-79."			
 Wilson's Plover	Charadriidae	2000	Feeding	Microhabitat For Foraging	"Bergstrom, P. W. 1982. Ecology of incubation in Wilson's Plover (Charadrius wilsonius). Phd Thesis. Univ. of Chicago, Chicago, IL."			
-Wood Stork	Ciconiidae	1999	Feeding	Main Foods Taken	"Ogden, J. C., J. A. Kushlan, and J. T. Tilmant. 1976. Prey selectivity by the Wood Stork. Condor 78:324-330."			
-Wood Stork	Ciconiidae	1999	Feeding	Main Foods Taken	"Ogden, J. C., J. A. Kushlan, and J. T. Tilmant. 1978. The food habits and nesting success of Wood Storks in Everglades National Park, 1974. U.S. Natl. Park Serv. Nat. Resour. Publ. 16."			
-Wood Stork	Ciconiidae	1999	Feeding	Main Foods Taken	"Depkin, F. C., M. C. Coulter, and A. L. Bryan, Jr. 1992. Food of nestling Wood Storks in east-central Georgia. Colon. Waterbirds 15:219-225."			
-Wood Stork	Ciconiidae	1999	Feeding	Main Foods Taken	"Gonzalez, J. A. 1997. Seasonal variation in the foraging ecology of the Wood Stork in the souther Llanos of Venezuela. Condor 99:671-680."			
-Wood Stork	Ciconiidae	1999	Feeding	Microhabitat For Foraging	"Coulter, M. C. and A. L. Bryan, Jr. 1993. Foraging ecology of Wood Storks (Mycteria americana) in east-central Georgia. I. Characteristics of foraging sites. Colon. Waterbirds 16:59-70."			
-Wood Stork	Ciconiidae	1999	Feeding	Microhabitat For Foraging	"Kahl, Jr., M. P. 1964. Food ecology of the Wood Stork (Mycteria americana) in Florida. Ecol. Monogr. 34:97-117."			
-Wood Stork	Ciconiidae	1999	Feeding	Microhabitat For Foraging	"Gaines, K. F., A. L. Bryan, Jr., P. M. Dixon, and M. J. Harris. 1998. Foraging habitat use by Wood Storks nesting in the coastal zone of Georgia, USA. Colon. Waterbirds 21:43-52."			
-Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Kahl, Jr., M. P. 1963a. Food ecology of the Wood Stork in Florida: a study of behavioral and physiological adaptations to seasonal drought. Phd Thesis. Univ. of Georgia, Athens."			
-Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Kahl, Jr., M. P. and L. J. Peacock. 1963. The bill-snap reflex: a feeding mechanism in the American Wood Stork. Nature (Lond.) 199:505-506."			
-Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Rand, A. L. 1956. Foot-stirring as a feeding habit of Wood Ibis and other birds. Am. Midl. Nat. 55:96-100."			
-Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Kushlan, J. A. 1978. Feeding ecology of wading birds. Pages 249-297 in Wading Birds. (Sprunt IV, A., J. C. Ogden, and S. Winckler, Eds.) National Audubon Society Research Report 7, National Audubon Society, New York."			
-Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Walsh, J. M. 1990. Estuarine habitat use and age-specific foraging behavior of Wood Storks (Mycteria americana). Master's Thesis. Univ. of Georgia, Athens."			
-Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Thomas, B. T. 1985. Coexistence and behavior differences among the three western hemisphere storks. Pages 921-931 in Neotropical ornithology. (Buckley, P. A., S. F. Mercedes, E Morton, R. S. Ridgely, and F. G. Buckley, Eds.) Ornithol. Monograph no. 36."			
-Wood Stork	Ciconiidae	1999	Diet	Major Food Items	"Coulter, M. C. 1986. Wood storks of the Birdsville Colony and swamps of the Savannah River Site. 1985 annual report. SREL-23/UC-66e. Savannah River Ecology Laboratory, Aiken, SC."			
-Wood Stork	Ciconiidae	1999	Diet	Quantitative Analysis	"Kushlan, J. A. 1979. Prey choice by tactile foraging wading birds. Proc. Colon. Waterbird Soc. Group 3:133-142."			
-Wood Stork	Ciconiidae	1999	Diet	Quantitative Analysis	"Levin, R. 1968. Evolution in changing environments: some theoretical exploration. Princeton Univ. Press, Princeton, NJ."			
-Wood Stork	Ciconiidae	1999	Nutrition And Energetics		"Kahl, Jr., M. P. 1962. Bioenergetics of growth in nestling Wood Storks. Condor 64:169-183."			
-Wood Stork	Ciconiidae	1999	Nutrition And Energetics		"Coulter, M. C., S. Balzano, R. E. Johnson, C. E. King, and P. W. Shannon. 1989. Conservation and captive management of storks. Stork Interest Group, Univ. of Georgia Press, Athens."			
-Wood Stork	Ciconiidae	1999	Metabolism And Temperature Regulation		"Kahl, Jr., M. P. 1963b. Thermoregulation in the Wood Stork, with special reference to the role of the legs. Physiol. Zool. 36:141-151."			
-Wood Stork	Ciconiidae	1999	Metabolism And Temperature Regulation		"Kahl, M. P. 1972. Comparative ethology of the Ciconiidae. Part 3. The Wood Storks (genera Mycteria and Ibis). Ibis 114:15-29."			
+Wood Stork	Ciconiidae	1999	Feeding	Main Foods Taken	"Ogden, J. C., J. A. Kushlan, and J. T. Tilmant. 1976. Prey selectivity by the Wood Stork. Condor 78:324-330."	y	y	
+Wood Stork	Ciconiidae	1999	Feeding	Main Foods Taken	"Ogden, J. C., J. A. Kushlan, and J. T. Tilmant. 1978. The food habits and nesting success of Wood Storks in Everglades National Park, 1974. U.S. Natl. Park Serv. Nat. Resour. Publ. 16."	y	n	
+Wood Stork	Ciconiidae	1999	Feeding	Main Foods Taken	"Depkin, F. C., M. C. Coulter, and A. L. Bryan, Jr. 1992. Food of nestling Wood Storks in east-central Georgia. Colon. Waterbirds 15:219-225."	y	y	
+Wood Stork	Ciconiidae	1999	Feeding	Main Foods Taken	"Gonzalez, J. A. 1997. Seasonal variation in the foraging ecology of the Wood Stork in the souther Llanos of Venezuela. Condor 99:671-680."	y	n	
+Wood Stork	Ciconiidae	1999	Feeding	Microhabitat For Foraging	"Coulter, M. C. and A. L. Bryan, Jr. 1993. Foraging ecology of Wood Storks (Mycteria americana) in east-central Georgia. I. Characteristics of foraging sites. Colon. Waterbirds 16:59-70."	y	n	
+Wood Stork	Ciconiidae	1999	Feeding	Microhabitat For Foraging	"Kahl, Jr., M. P. 1964. Food ecology of the Wood Stork (Mycteria americana) in Florida. Ecol. Monogr. 34:97-117."	n	n	
+Wood Stork	Ciconiidae	1999	Feeding	Microhabitat For Foraging	"Gaines, K. F., A. L. Bryan, Jr., P. M. Dixon, and M. J. Harris. 1998. Foraging habitat use by Wood Storks nesting in the coastal zone of Georgia, USA. Colon. Waterbirds 21:43-52."	y	n	
+Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Kahl, Jr., M. P. 1963a. Food ecology of the Wood Stork in Florida: a study of behavioral and physiological adaptations to seasonal drought. Phd Thesis. Univ. of Georgia, Athens."	y	y	pg 54
+Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Kahl, Jr., M. P. and L. J. Peacock. 1963. The bill-snap reflex: a feeding mechanism in the American Wood Stork. Nature (Lond.) 199:505-506."	y	n	
+Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Rand, A. L. 1956. Foot-stirring as a feeding habit of Wood Ibis and other birds. Am. Midl. Nat. 55:96-100."	y	n	
+Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Kushlan, J. A. 1978. Feeding ecology of wading birds. Pages 249-297 in Wading Birds. (Sprunt IV, A., J. C. Ogden, and S. Winckler, Eds.) National Audubon Society Research Report 7, National Audubon Society, New York."	n	n	Requested through interlibrary loan
+Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Walsh, J. M. 1990. Estuarine habitat use and age-specific foraging behavior of Wood Storks (Mycteria americana). Master's Thesis. Univ. of Georgia, Athens."	n	n	Requested through interlibrary loan
+Wood Stork	Ciconiidae	1999	Feeding	Food Capture And Consumption	"Thomas, B. T. 1985. Coexistence and behavior differences among the three western hemisphere storks. Pages 921-931 in Neotropical ornithology. (Buckley, P. A., S. F. Mercedes, E Morton, R. S. Ridgely, and F. G. Buckley, Eds.) Ornithol. Monograph no. 36."	y	n	
+Wood Stork	Ciconiidae	1999	Diet	Major Food Items	"Coulter, M. C. 1986. Wood storks of the Birdsville Colony and swamps of the Savannah River Site. 1985 annual report. SREL-23/UC-66e. Savannah River Ecology Laboratory, Aiken, SC."	y	n	
+Wood Stork	Ciconiidae	1999	Diet	Quantitative Analysis	"Kushlan, J. A. 1979. Prey choice by tactile foraging wading birds. Proc. Colon. Waterbird Soc. Group 3:133-142."	y	y	
+Wood Stork	Ciconiidae	1999	Diet	Quantitative Analysis	"Levin, R. 1968. Evolution in changing environments: some theoretical exploration. Princeton Univ. Press, Princeton, NJ."	n	n	Requested through interlibrary loan
+Wood Stork	Ciconiidae	1999	Nutrition And Energetics		"Kahl, Jr., M. P. 1962. Bioenergetics of growth in nestling Wood Storks. Condor 64:169-183."	y	n	
+Wood Stork	Ciconiidae	1999	Nutrition And Energetics		"Coulter, M. C., S. Balzano, R. E. Johnson, C. E. King, and P. W. Shannon. 1989. Conservation and captive management of storks. Stork Interest Group, Univ. of Georgia Press, Athens."	n	n	Requested through interlibrary loan
+Wood Stork	Ciconiidae	1999	Metabolism And Temperature Regulation		"Kahl, Jr., M. P. 1963b. Thermoregulation in the Wood Stork, with special reference to the role of the legs. Physiol. Zool. 36:141-151."	y	n	
+Wood Stork	Ciconiidae	1999	Metabolism And Temperature Regulation		"Kahl, M. P. 1972. Comparative ethology of the Ciconiidae. Part 3. The Wood Storks (genera Mycteria and Ibis). Ibis 114:15-29."	y	n	
 Band-tailed Pigeon	Columbidae	2000	Diet	Quantitative Analysis	"Lamb, C. C. 1926. The Viosca Pigeon. Condor 28:262-263."	y	n	
-Band-tailed Pigeon	Columbidae	2000	Feeding	Food Capture And Consumption	"Paige, B. B. 1964. The Band-tailed Pigeon in the Panamint range of California. Condor 66:439-440."	n	n	
+Band-tailed Pigeon	Columbidae	2000	Feeding	Food Capture And Consumption	"Paige, B. B. 1964. The Band-tailed Pigeon in the Panamint range of California. Condor 66:439-440."	y	n	
 Band-tailed Pigeon	Columbidae	2000	Feeding	Microhabitat For Foraging	"Leonard, J. P. 1998. Nesting and foraging ecology of Band-tailed Pigeons in western Oregon. Phd Thesis. Oregon State Univ. Corvallis."	y	n	
-Band-tailed Pigeon	Columbidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Packard, F. M. 1946. Some observations of birds eating salt. Auk 63:89."	n	n	
+Band-tailed Pigeon	Columbidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Packard, F. M. 1946. Some observations of birds eating salt. Auk 63:89."	y	n	
 Band-tailed Pigeon	Columbidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."	y	n	
 Band-tailed Pigeon	Columbidae	2000	Feeding	Food Capture And Consumption	"Braun, C. E. 1976a. Methods for locating, trapping and banding Band-tailed Pigeons in Colorado. Colo. Div. Wildl. Spec. Rep. 39."	y	n	
-Band-tailed Pigeon	Columbidae	2000	Diet	Quantitative Analysis	"Smith, W. A. 1968. The Band-tailed Pigeon in California. Calif. Fish Game Bull. 54:4-16."	n	n	
-Band-tailed Pigeon	Columbidae	2000	Feeding	Main Foods Taken	"Neff, J. A. 1947. Habits, food, and economic status of the Band-tailed Pigeon. U.S. Fish Wildl. Serv. N. Am. Fauna 58."	y	y	pg 56
-Band-tailed Pigeon	Columbidae	2000	Feeding	Food Capture And Consumption	"Anderson, B. A. 1981. Hardwood utilization by wintering Band-tailed Pigeons. Master's Thesis. California State Univ. Chico."	n	n	
-Band-tailed Pigeon	Columbidae	2000	Feeding	Microhabitat For Foraging	"March, G. L. and R. M. F. S. Sadleir. 1972. Studies on the Band-tailed Pigeon (Columba fasciata) in British Columbia. II. Food resource and mineral-gravelling activity. Syesis 5:279-284."	n	n	book
-Band-tailed Pigeon	Columbidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Jarvis, R. L. and M. F. Passmore. 1992. Ecology of Band-tailed Pigeons in Oregon. U.S. Fish Wildl. Serv. Biol. Rep. 6."	y	y	pg 11
+Band-tailed Pigeon	Columbidae	2000	Diet	Quantitative Analysis	"Smith, W. A. 1968. The Band-tailed Pigeon in California. Calif. Fish Game Bull. 54:4-16."	y	n	
+Band-tailed Pigeon	Columbidae	2000	Feeding	Main Foods Taken	"Neff, J. A. 1947. Habits, food, and economic status of the Band-tailed Pigeon. U.S. Fish Wildl. Serv. N. Am. Fauna 58."	y	y	
+Band-tailed Pigeon	Columbidae	2000	Feeding	Food Capture And Consumption	"Anderson, B. A. 1981. Hardwood utilization by wintering Band-tailed Pigeons. Master's Thesis. California State Univ. Chico."	y	n	
+Band-tailed Pigeon	Columbidae	2000	Feeding	Microhabitat For Foraging	"March, G. L. and R. M. F. S. Sadleir. 1972. Studies on the Band-tailed Pigeon (Columba fasciata) in British Columbia. II. Food resource and mineral-gravelling activity. Syesis 5:279-284."	y	n	
+Band-tailed Pigeon	Columbidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Jarvis, R. L. and M. F. Passmore. 1992. Ecology of Band-tailed Pigeons in Oregon. U.S. Fish Wildl. Serv. Biol. Rep. 6."	y	y	
 Band-tailed Pigeon	Columbidae	2000	Nutrition And Energetics		"March, G. L. and R. M. F. S. Sadleir. 1975. Studies on the Band-tailed Pigeon (Columba fasciata) in British Columbia. III. Seasonal changes in body weight and calcium distribution. Physiol. Zool. 48:49-56."	y	n	
-Band-tailed Pigeon	Columbidae	2000	Food Selection And Storage		"Fry, M. E. and C. E. Vaughn. 1977. Acorn selection by Band-tailed Pigeons. Calif. Fish Game Bull. 63:59-60."	n	n	
+Band-tailed Pigeon	Columbidae	2000	Food Selection And Storage		"Fry, M. E. and C. E. Vaughn. 1977. Acorn selection by Band-tailed Pigeons. Calif. Fish Game Bull. 63:59-60."	y	n	
 Band-tailed Pigeon	Columbidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Sanders, T. A. 2000. Habitat availability, dietary mineral supplement, and measuring abundance of Band-tailed Pigeons in western Oregon. Phd Thesis. Oregon State Univ. Corvallis."	y	n	
-Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Crowe, M. C. 1992. Avian abundance and breeding biology of birds in Florida citrus groves. Master's Thesis. Iowa State Univ. Ames."	n	n	
-Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Oniki, Y. 1975. Temperatures of some Puerto Rican birds, with note of low temperatures in todies. Condor 77:344-345."	n	n	
+Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Crowe, M. C. 1992. Avian abundance and breeding biology of birds in Florida citrus groves. Master's Thesis. Iowa State Univ. Ames."	y	n	
+Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Oniki, Y. 1975. Temperatures of some Puerto Rican birds, with note of low temperatures in todies. Condor 77:344-345."	y	n	
 Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Howell, A. H. 1932. Florida bird life. Coward-McCann, Inc. New York."	y	n	
 Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Landers, J. L. and J. L. Buckner. 1979. Ground dove use of young pine plantations. Wilson Bull. 91:467-468."	y	y	
-Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Nicholson, D. J. 1937. Notes on the breeding of the ground dove in Florida. Wilson Bull. 49:101-114."	n	n	
+Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Nicholson, D. J. 1937. Notes on the breeding of the ground dove in Florida. Wilson Bull. 49:101-114."	y	n	
 Common Ground-Dove	Columbidae	2002	Diet	Major Food Items	"Passmore, M. F. 1981. Population biology of the Common Ground Dove and ecological relationships with Mourning and White-winged doves in south Texas. Ph.D. diss. Texas A&M Univ. College Station."	y	y	
-Common Ground-Dove	Columbidae	2002	Diet	Major Food Items	"Dennis, J. V. 1994. A complete guide to bird feeding. Alfred A. Knopf, New York."	y	y	pg 52
-Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Garrett, K. and J. D. Dunn. 1981. Birds of southern California: status and distribution. Los Angeles Audubon Soc. Los Angeles, CA."	n	n	
-Common Ground-Dove	Columbidae	2002	Food Selection And Storage		"Martin, A. C., H. S. Zin, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw Hill, New York."	n	n	
+Common Ground-Dove	Columbidae	2002	Diet	Major Food Items	"Dennis, J. V. 1994. A complete guide to bird feeding. Alfred A. Knopf, New York."	y	y	
+Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Garrett, K. and J. D. Dunn. 1981. Birds of southern California: status and distribution. Los Angeles Audubon Soc. Los Angeles, CA."	y	n	
+Common Ground-Dove	Columbidae	2002	Food Selection And Storage		"Martin, A. C., H. S. Zin, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw Hill, New York."	y	n	
 Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Degraaf, R. M., N. C. Tilghman, and S. H. Anderson. 1985. Foraging guilds of North American birds. Environ. Manage. 9:493-536."	y	n	
 Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Perez, E. M. and L. Bulla. 2000. Dietary relationships among four granivorous doves in Venezuelan savannas. J. Trop. Ecol. 16:865-882."	y	n	
 Common Ground-Dove	Columbidae	2002	Diet	Major Food Items	"Bent, A. C. 1932. Life histories of North American gallinaceous birds. U.S. Natl. Mus. Bull. 162."	y	n	
 Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Mueller, A. J. 1992. Inca Dove (Columbina inca). in The birds of North America, no. 28. (Poole, A., P. Stettenheim, and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, and Am. Ornithol. Union, Washington, D.C."	y	n	
 Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Willoughby, E. J. 1966. Water requirements of the ground dove. Condor 68:243-248."	y	n	
-Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."	n	n	
+Common Ground-Dove	Columbidae	2002	Feeding	Microhabitats For Foraging	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."	y	n	
 Common Ground-Dove	Columbidae	2002	Nutrition And Energetics		"Karasov, W. H. 1990. Digestion in birds: chemical and physiological determinants and ecological implications. Stud. Avian Biol. 13:391-415."	y	n	
 Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Gaunt, S. L. L. 1980. Thermoregulation in doves (Columbidae): a novel esophageal heat exchanger. Science 210:445-447."	y	n	
 Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Bartholomew, G. A., R. C. Lasiewski, and E. C. Crawford. 1968. Patterns of panting and gular flutter in cormorants, pelicans, owls, and doves. Condor 70:31-34."	y	n	
 Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Terborgh, J. and J. Faaborg. 1973. Turnover and ecological release in the avifauna of Mono Island, Puerto Rico. Auk 90:759-779."	y	n	
-Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Perez-Rivera, R. A. 1987. Aspectos de la alimentacion de la Rolita de Puerto Rico (Columbia passerina portoricensis). Science-Ciencia 14:27-30."	n	n	
+Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Perez-Rivera, R. A. 1987. Aspectos de la alimentacion de la Rolita de Puerto Rico (Columbia passerina portoricensis). Science-Ciencia 14:27-30."	y	n	
 Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Faaborg, J. 1977. Metabolic rates, resources, and the occurrence of nonpasserines in terrestrial avian communities. Am. Nat. 111:903-916."	y	n	
 Common Ground-Dove	Columbidae	2002	Nutrition And Energetics		"Oniki, Y. 1978. Weights, digestive tracts and gonadal conditions of some Amazonian birds. Rev. Brasil. Biol. 38:679-681."	y	n	
 Inca Dove	Columbidae	1-Dec-04	Feeding	Food Capture And Consumption	"Johnston, R. F. 1960. Behavior of the Inca Dove. Condor 62:7-24."	y	n	
@@ -2912,16 +2912,16 @@ Inca Dove	Columbidae	1-Dec-04	Feeding	Food Capture And Consumption	"Quay, W. B. 
 Inca Dove	Columbidae	1-Dec-04	Metabolism And Temperature Regulation		"Macmillen, R. E. and C. H. Trost. 1967b. Nocturnal hypothermia in the Inca Dove, Scardafella inca. Comp. Biochem. Physiol. 23:243-253."	y	n	
 Inca Dove	Columbidae	1-Dec-04	Diet	Quantitative Analysis	"Emlen, J. T. 1974. An urban bird community in Tucson, Arizona: derivation, structure, regulation. Condor 76:184-197."	y	n	
 Inca Dove	Columbidae	1-Dec-04	Diet	Quantitative Analysis	"Felis, C. A. 1976. Inca Dove in Caddo County, Oklahoma. Bull. Okla. Ornithol. Soc. 9:33-34."	y	n	
-Inca Dove	Columbidae	1-Dec-04	"Drinking, Pellet-Casting, And Defecation"		"Skutch, A. F. 2001. Life of the pigeon. Comstock Publishing Associates, Ithaca, NY."	n	n	Requested through interlibrary loan
+Inca Dove	Columbidae	1-Dec-04	"Drinking, Pellet-Casting, And Defecation"		"Skutch, A. F. 2001. Life of the pigeon. Comstock Publishing Associates, Ithaca, NY."	y	n	
 Inca Dove	Columbidae	1-Dec-04	Nutrition And Energetics		"Macmillen, R. E. and C. H. Trost. 1966. Water economy and salt balance in White-winged and Inca doves. Auk 83:441-456."	y	n	
 Inca Dove	Columbidae	1-Dec-04	Metabolism And Temperature Regulation		"Macmillen, R. E. and C. H. Trost. 1967a. Thermoregulation and water loss in the Inca Dove. Comp. Biochem. Physiol. 20:263-273."	y	n	
 Inca Dove	Columbidae	1-Dec-04	Metabolism And Temperature Regulation		"Lasiewski, R. C. and R. S. Seymour. 1972. Thermoregulatory responses to heat stress in four species of birds weighing approximately 40 grams. Physiol. Zool. 45:106-118."	y	n	
 Inca Dove	Columbidae	1-Dec-04	Diet	Quantitative Analysis	"Dickey, D. R. and A. J. van Rossem. 1938. The birds of El Salvador. Field Mus. Nat. Hist., Zool. Ser. 23:1-609."	y	n	
 Red-billed Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Goodwin, D. 1983. Pigeon and doves of the world. 3rd ed. Cornell Univ. Press, Ithaca, NY."	y	n	
-Red-billed Pigeon	Columbidae	2002	Feeding	Microhabitat For Foraging	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	n	n	Requested through interlibrary loan
+Red-billed Pigeon	Columbidae	2002	Feeding	Microhabitat For Foraging	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	y	n	
 Red-billed Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Stager, K. E. 1957. The avifauna of the Tres Marias Islands, Mexico. Auk 74:413-432."	y	n	
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Skutch, A. F. 1964. Life histories of Central American pigeons. Wilson Bull. 76:211-247."	y	n	
-Red-billed Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Skutch, A. F. 1983. Birds of tropical America. Univ. of Texas Press, Austin."	n	n	Requested through interlibrary loan
+Red-billed Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Skutch, A. F. 1983. Birds of tropical America. Univ. of Texas Press, Austin."	y	n	
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Wheelwright, N. T., W. A. Haber, K. G. Murray, and C. Guindon. 1984. Tropical fruit-eating birds and their food plants: a survey of Costa Rican lower montane forest. Biotropica 16:173-192."	y	n	
 Red-billed Pigeon	Columbidae	2002	Feeding	Microhabitat For Foraging	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."	y	n	
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Lowery, Jr., G. H. and W. W. Dalquest. 1951. Birds from the state of Veracruz, Mexico. Univ. of Kansas, Publ. Mus. Nat. Hist. 3:531-649."	y	n	
@@ -2931,70 +2931,70 @@ Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Lawrence, G. N. 18
 Red-billed Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Bent, A. C. 1932. Life histories of North American gallinaceous birds. U.S. Natl. Mus. Bull. 162."	y	n	
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Nelson, E. W. 1899. Natural history of the Tres Marias Islands: Birds of the Tres Marias Islands. N. Am. Fauna 14:21-62."	y	n	
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Ferry, J. F. 1910. Catalogue of a collection of birds from Costa Rica. Publ. Field Mus. Nat. Hist., Ornithol. Ser. 1:257-282."	y	n	
-Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 1. Univ. of Texas Press, Austin."	n	n	
+Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 1. Univ. of Texas Press, Austin."	y	n	
 Red-billed Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Brush, T. 1998. Recent nesting and current status of Red-billed Pigeon along the Rio Grande in southern Texas. Bull. Texas Ornithol. Soc. 31:22-26."	y	n	
 Red-billed Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Sennett, G. B. 1879. Further notes on the ornithology of the lower Rio Grande of Texas. Bull. U.S. Geol. Geogr. Surv. Terr. 5:371-440."	y	n	
 Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Pierson, T. A., R. G. Cobb, and P. F. Scanlon. 1976. Crop contents of Rock Doves in Virginia. Wilson Bull. 88:489-490."	y	y	
-Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Griminger, P. 1983. Digestive system and nutrition. Pages 19-40 in Physiology and behaviour of the pigeon. (Abs, M., Ed.) Academic Press, London."	n	n	Requested through interlibrary loan
-Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Cramp, S. 1985. Handbook of the birds of Europe, the Middle East, and North Africa. Vol. 4. Oxford Univ. Press, Oxford."	n	n	Requested through interlibrary loan
-Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Ramirez, J. M. and M. H. Bernstein. 1976. Compound ventilation during thermal panting in pigeons: a possible mechanism for minimizing hypocapnic alkalosis. Fed Amer Soc. 35:2562-2565."	n	n	
+Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Griminger, P. 1983. Digestive system and nutrition. Pages 19-40 in Physiology and behaviour of the pigeon. (Abs, M., Ed.) Academic Press, London."	y	n	
+Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Cramp, S. 1985. Handbook of the birds of Europe, the Middle East, and North Africa. Vol. 4. Oxford Univ. Press, Oxford."	y	n	
+Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Ramirez, J. M. and M. H. Bernstein. 1976. Compound ventilation during thermal panting in pigeons: a possible mechanism for minimizing hypocapnic alkalosis. Fed Amer Soc. 35:2562-2565."	y	n	
 Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Gaunt, S. L. L. 1980. Thermoregulation in doves (Columbidae): a novel esophageal heat exchanger. Science 210:445-447."	y	n	
 Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Walsberg, G., G. Campbell, and J. King. 1978. Animal coat color and radiative heat gain: a re-evaluation. J. Comp. Physiol., B. 126:211-222."	y	n	
-Rock Pigeon	Columbidae	1992	Drinking And Defecation		"Nelson, E. W. 1899. Natural history of the Tres Marias Islands: Birds of the Tres Marias Islands. N. Am. Fauna 14:21-62."	n	n	
+Rock Pigeon	Columbidae	1992	Drinking And Defecation		"Nelson, E. W. 1899. Natural history of the Tres Marias Islands: Birds of the Tres Marias Islands. N. Am. Fauna 14:21-62."	y	n	
 Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Ferns, P. N. 1992. Thermoregulatory behavior in Rock Doves roosting in the Negev Desert. J. Field Ornith. 63:57-65."	y	n	
-Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Rautenberg, W. 1983. Thermoregulation. Pages 131-148 in Physiology and behaviour of the pigeon. (Abs, M., Ed.) Academic Press, London."	n	n	Requested through interlibrary loan
+Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Rautenberg, W. 1983. Thermoregulation. Pages 131-148 in Physiology and behaviour of the pigeon. (Abs, M., Ed.) Academic Press, London."	y	n	
 Rock Pigeon	Columbidae	1992	Diet	Main Foods Taken	"Murton, R. and N. Westwood. 1966. The foods of the Rock Dove and feral pigeon. Bird Study 13:130-146."	y	y	
 Rock Pigeon	Columbidae	1992	Feeding		"Giraldeau, L. and L. Lefebvre. 1986. Exchangeable producer-scrounger roles in a captive flock of feral pigeons: a case for the skill-pool effect. Anim. Behav. 34:797-803."	y	n	
 Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Hart, J. S. and O. Z. Roy. 1967. Temperature regulation in flight of pigeons. Amer. J. Physiol. 213:1311-1316."	y	n	
-Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Smith, R. M. and R. Suthers. 1969. Cutaneous water loss as a significant contribution to temperature regulation in heat stressed pigeons. Physiologist 12:358."	n	n	requested through research gate
-Spotted Dove	Columbidae	2001	Diet	Major Food Items	"Wagner, W. L., D. R. Herbst, and S. H. Sohmer. 1999. Manual of the flowering plants of Hawaii. Rev. ed. Univ. of Hawaii Press and Bishop Mus. Press, Honolulu."	n	n	Requested through interlibrary loan
+Rock Pigeon	Columbidae	1992	Metabolism And Temperature Regulation		"Smith, R. M. and R. Suthers. 1969. Cutaneous water loss as a significant contribution to temperature regulation in heat stressed pigeons. Physiologist 12:358."	y	n	
+Spotted Dove	Columbidae	2001	Diet	Major Food Items	"Wagner, W. L., D. R. Herbst, and S. H. Sohmer. 1999. Manual of the flowering plants of Hawaii. Rev. ed. Univ. of Hawaii Press and Bishop Mus. Press, Honolulu."	y	n	
 Spotted Dove	Columbidae	2001	Diet	Major Food Items	"Scott, J. M., S. Mountainspring, E. L. Ramsey, and C. B. Keplar. 1986. Forest bird communities of the Hawaiian Islands: their dynamics, ecology and conservation. Stud. Avian Biol. no. 9."	y	n	
 Spotted Dove	Columbidae	2001	Feeding	Main Foods Taken	"Schwartz, C. W. and E. R. Schwartz. 1951. A survey of the Lace-necked Dove in Hawaii. Pac. Sci. 5(1):90-107."	y	y	
-Spotted Dove	Columbidae	2001	Feeding	Main Foods Taken	"Higgins, P. J. and S. J. J. F. Davies. 1996. Handbook of Australian, New Zealand and Antarctic birds, Vol. 3: snipe to pigeons. Oxford Univ. Press, Melbourne."	n	n	
-Spotted Dove	Columbidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Walker, R. L. and D. H. Woodside. 1977. Vertebrate fauna of Hawaii's forests and grasslands. Resources Planning Act, U.S. Dep. Agric., Forest Serv. Honolulu, HI."	n	n	
+Spotted Dove	Columbidae	2001	Feeding	Main Foods Taken	"Higgins, P. J. and S. J. J. F. Davies. 1996. Handbook of Australian, New Zealand and Antarctic birds, Vol. 3: snipe to pigeons. Oxford Univ. Press, Melbourne."	y	n	
+Spotted Dove	Columbidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Walker, R. L. and D. H. Woodside. 1977. Vertebrate fauna of Hawaii's forests and grasslands. Resources Planning Act, U.S. Dep. Agric., Forest Serv. Honolulu, HI."	y	n	
 Spotted Dove	Columbidae	2001	Feeding	Microhabitat For Foraging	"Richardson, F. and J. Bowles. 1964. A survey of the birds of Kauai, Hawaii. B. P. Bishop Mus. Bull. 227, Honolulu."	y	n	
-Spotted Dove	Columbidae	2001	Feeding	Microhabitat For Foraging	"Schwartz, C. W. and E. R. Schwartz. 1949. A reconnaissance of the game birds of Hawaii. Board of Comm. of Agric. and Forestry. The Hawaii News Printshop, Hilo, HI."	y	y	pg 72
+Spotted Dove	Columbidae	2001	Feeding	Microhabitat For Foraging	"Schwartz, C. W. and E. R. Schwartz. 1949. A reconnaissance of the game birds of Hawaii. Board of Comm. of Agric. and Forestry. The Hawaii News Printshop, Hilo, HI."	y	y	
 White-crowned Pigeon	Columbidae	2001	Feeding	Main Foods Taken	"Audubon, J. J. 1834. Ornithological biography, or an account of the habits of the birds of the United States of America. Vol. 2. A. & C. Black, Edinburgh, Scotland."	y	n	
 White-crowned Pigeon	Columbidae	2001	Feeding	Main Foods Taken	"Seaman, G. A. 1959. Land snails as food of White-crowned Pigeon. Auk 76:232."	y	n	
 White-crowned Pigeon	Columbidae	2001	Feeding	Main Foods Taken	"Wiley, J. W. and B. N. Wiley. 1979. The biology of the White-crowned Pigeon. Wildl. Monogr. 64:1-54."	y	y	
 White-crowned Pigeon	Columbidae	2001	Feeding	Main Foods Taken	"Gosse, P. H. 1847. The birds of Jamaica. John Van Voorst, London, England."	y	n	
-White-crowned Pigeon	Columbidae	2001	Feeding	Main Foods Taken	"Godinez, E. 1992. Situacion de las poblaciones de Columba Leucocephala (Aves: Columbidae) en Cuba. Editorial Academia, Havana, Cuba."	n	n	
+White-crowned Pigeon	Columbidae	2001	Feeding	Main Foods Taken	"Godinez, E. 1992. Situacion de las poblaciones de Columba Leucocephala (Aves: Columbidae) en Cuba. Editorial Academia, Havana, Cuba."	y	n	
 White-crowned Pigeon	Columbidae	2001	Feeding	Main Foods Taken	"Bancroft, G. T. and R. Bowman. 1994. Temporal patterns in diet of nestling White-crowned Pigeons: implications for conservation of frugivorous Columbids. Auk 111:844-852."	y	y	
-White-crowned Pigeon	Columbidae	2001	Feeding	Microhabitats For Foraging	"Snyder, J. R., A. Herndon, and W. B. Robertson, Jr. 1990. South Florida Rockland. Pages 230-277 in Ecosystems of Florida. (Myers, R. L. and J. J. Ewel, Eds.) Univ. of Central Florida Press, Orlando."	n	n	Requested through interlibrary loan
+White-crowned Pigeon	Columbidae	2001	Feeding	Microhabitats For Foraging	"Snyder, J. R., A. Herndon, and W. B. Robertson, Jr. 1990. South Florida Rockland. Pages 230-277 in Ecosystems of Florida. (Myers, R. L. and J. J. Ewel, Eds.) Univ. of Central Florida Press, Orlando."	y	n	
 White-crowned Pigeon	Columbidae	2001	Feeding	Microhabitats For Foraging	"Strong, A. M., R. J. Sawicki, and G. T. Bancroft. 1994. Estimating White-crowned Pigeon population size from flight-line counts. J. Wildl. Manage. 58:156-162."	y	n	
 White-crowned Pigeon	Columbidae	2001	Feeding	Food Capture And Consumption	"Godinez, E. and R. Oviedo. 1995. Fruits of jocuma (Mastichdendrum foetidissimum) as food item of pigeons at Zapata Swamp, Cuba. Pitirre 8:5."	y	n	
-White-crowned Pigeon	Columbidae	2001	Diet	Major Food Items	"Bancroft, G. T., R. Bowman, R. J. Sawicki, and A. M. Strong. 1990. Relationship between the reproductive ecology of the White-crowned Pigeon and the fruiting phenology of tropical hardwood hammock trees. Nongame Wildl. Prog. Tech. Rep. Florida Game and Freshwater Fish Comm. Tallahassee."	n	n	
-White-crowned Pigeon	Columbidae	2001	Diet	Quantitative Analysis	"Blankinship, D. R. 1977. Studies of the White-crowned Pigeon populations, natural history and hunting in the Bahamas. Pages 36-39 in Proceedings of the International White-crowned Pigeon Conference. Bahamas Natl. Trust, Nassau, Bahamas."	n	n	
+White-crowned Pigeon	Columbidae	2001	Diet	Major Food Items	"Bancroft, G. T., R. Bowman, R. J. Sawicki, and A. M. Strong. 1990. Relationship between the reproductive ecology of the White-crowned Pigeon and the fruiting phenology of tropical hardwood hammock trees. Nongame Wildl. Prog. Tech. Rep. Florida Game and Freshwater Fish Comm. Tallahassee."	y	n	
+White-crowned Pigeon	Columbidae	2001	Diet	Quantitative Analysis	"Blankinship, D. R. 1977. Studies of the White-crowned Pigeon populations, natural history and hunting in the Bahamas. Pages 36-39 in Proceedings of the International White-crowned Pigeon Conference. Bahamas Natl. Trust, Nassau, Bahamas."	y	n	
 White-crowned Pigeon	Columbidae	2001	Food Selection And Storage		"Bowman, R. 1992. Asynchronous hatching and brood reduction in the White-crowned Pigeon (Columba leucocephala). Phd Thesis. Univ. of South Florida, Tampa."	y	n	
 White-crowned Pigeon	Columbidae	2001	Nutrition And Energetics		"Herrera, C. M. 1981. Are tropical fruits more rewarding than temperate ones? Am. Nat. 118:896-907."	y	n	
 White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Smith, A. P. 1910. Miscellaneous bird notes from the lower Rio Grande. Condor 12:93-103."	y	n	
-White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."	n	n	
-White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Goodwin, D. 1983. Pigeons and doves of the World. 3rd ed. Cornell Univ. Press, Ithaca, NY."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Fjelds, J. and N. Krabbe. 1990. Birds of the high Andes. Zool. Mus., Univ. of Copenhagen, Copenhagen."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Canevari, M. P., Canevari, G. R. Carrizo, G. Harris, J. R. Mata, and R. J. Straneck. 1991. Nueva guia de las aves Argentinas. Fundacion Acindar, Buenos Aires."	n	n	
+White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Oberholser, H. C. 1974. The bird life of Texas. Univ. of Texas Press, Austin."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Goodwin, D. 1983. Pigeons and doves of the World. 3rd ed. Cornell Univ. Press, Ithaca, NY."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Fjelds, J. and N. Krabbe. 1990. Birds of the high Andes. Zool. Mus., Univ. of Copenhagen, Copenhagen."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Canevari, M. P., Canevari, G. R. Carrizo, G. Harris, J. R. Mata, and R. J. Straneck. 1991. Nueva guia de las aves Argentinas. Fundacion Acindar, Buenos Aires."	y	n	
 White-tipped Dove	Columbidae	1999	Feeding	Main Foods Taken	"Skutch, A. F. 1964. Life histories of central American pigeons. Wilson Bull. 76:211-247."	y	n	
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Wetmore, A. 1968. The birds of the Republic of Panama, Part 2, Columbidae (Pigeons) to Picidae (Woodpeckers). Smithson. Misc. Collect. 150:37-40."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Meyer De Schauensee, R. and W. H. Phelps. 1978. A guide to the birds of Venezuela. Princeton Univ. Press, Princeton, NJ."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Hilty, S. L. and W. L. Brown. 1986. A guide to the birds of Colombia. Princeton Univ. Press, Princeton, NJ."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Ridgely, R. S. and J. A. Gwynne, Jr. 1989. A guide to the birds of Panama, with Costa Rica, Nicaragua, and Honduras. Princeton Univ. Press, Princeton, NJ."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Haverschmidt, F. and G. F. Mees. 1994. Birds of Suriname. Vaco Press, Paramaribo, Suriname."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Rappole, J. H. and G. W. Blacklock. 1994. Birds of Texas: A field guide. Texas A&M Univ. Press, College Station."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Waggerman, G. L., G. P. Homerstad, R. R. George, and W. A. Shifflett. 1994. White-tipped Dove. Pages 53-59 in Migratory shore and upland game bird management in North America. (Tacha, T. C. and C. E. Braun, Eds.) Int. Assoc. Fish Wildl. Agencies, Washington, D.C."	n	n	Requested through interlibrary loan
-White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Howell, S. N. G. and S. Webb. 1995. A guide to the birds of Mexico and northern Central America. Oxford Univ. Press, New York."	n	n	Requested through interlibrary loan
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Wetmore, A. 1968. The birds of the Republic of Panama, Part 2, Columbidae (Pigeons) to Picidae (Woodpeckers). Smithson. Misc. Collect. 150:37-40."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Meyer De Schauensee, R. and W. H. Phelps. 1978. A guide to the birds of Venezuela. Princeton Univ. Press, Princeton, NJ."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Hilty, S. L. and W. L. Brown. 1986. A guide to the birds of Colombia. Princeton Univ. Press, Princeton, NJ."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Ridgely, R. S. and J. A. Gwynne, Jr. 1989. A guide to the birds of Panama, with Costa Rica, Nicaragua, and Honduras. Princeton Univ. Press, Princeton, NJ."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Haverschmidt, F. and G. F. Mees. 1994. Birds of Suriname. Vaco Press, Paramaribo, Suriname."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Rappole, J. H. and G. W. Blacklock. 1994. Birds of Texas: A field guide. Texas A&M Univ. Press, College Station."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Waggerman, G. L., G. P. Homerstad, R. R. George, and W. A. Shifflett. 1994. White-tipped Dove. Pages 53-59 in Migratory shore and upland game bird management in North America. (Tacha, T. C. and C. E. Braun, Eds.) Int. Assoc. Fish Wildl. Agencies, Washington, D.C."	y	n	
+White-tipped Dove	Columbidae	1999	Feeding	Microhabitat For Foraging	"Howell, S. N. G. and S. Webb. 1995. A guide to the birds of Mexico and northern Central America. Oxford Univ. Press, New York."	y	n	
 White-tipped Dove	Columbidae	1999	Diet	Major Food Items	"Bent, A. A. 1932. Life histories of North American gallinaceous birds. U.S. Natl. Mus. Bull. 162."	y	n	
-White-tipped Dove	Columbidae	1999	Diet	Major Food Items	"Boydstun, C. P. 1982. Evaluations of the current status of white-fronted doves in South Texas. Master's Thesis. Texas A&M Univ., Kingsville."	n	n	
+White-tipped Dove	Columbidae	1999	Diet	Major Food Items	"Boydstun, C. P. 1982. Evaluations of the current status of white-fronted doves in South Texas. Master's Thesis. Texas A&M Univ., Kingsville."	y	n	
 White-tipped Dove	Columbidae	1999	Metabolism And Temperature Regulation		"Vleck, C. M. and D. Vleck. 1979. Metabolic rate in five tropical bird species. Condor 81:89-91."	y	n	
 White-tipped Dove	Columbidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Burger, J. 1992. Drinking, vigilance, and group size in White-tipped Doves and Common Ground-Doves in Costa Rica. Wilson Bull. 104:357-359."	y	n	
 White-winged Dove	Columbidae	2002	Feeding	Main Foods Taken	"Dolton, D. D. 1975. Patterns and influencing factors of White-winged Dove feeding activity in the lower Rio Grande valley of Texas and Mexico. Master's Thesis. Texas A&M Univ. College Station."	y	y	
-White-winged Dove	Columbidae	2002	Feeding	Main Foods Taken	"Haughey, R. A. 1986. Diet of desert-nesting western White-winged Doves Zenaida asiatica mearnsi. Master's Thesis. Univ. of Arizona, Tucson."	n	n	Requested through interlibrary loan
+White-winged Dove	Columbidae	2002	Feeding	Main Foods Taken	"Haughey, R. A. 1986. Diet of desert-nesting western White-winged Doves Zenaida asiatica mearnsi. Master's Thesis. Univ. of Arizona, Tucson."	y	y	
 White-winged Dove	Columbidae	2002	Feeding	Main Foods Taken	"Cunningham, S. C., R. W. Engel-Wilson, P. M. Smith, and W. B. Ballard. 1997. Food habits and nesting characteristics of sympatric Mourning and White-winged doves in Buckeye-Arlington Valley, Arizona. Tech. Rep. no. 26. Arizona Game Fish Dep. Phoenix."	y	y	
-White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Cottam, C. and J. B. Trefethen. 1968. White-wings: the life history, status, and management of the White-winged Dove. D. Van Nostrand Co., Inc. Princeton, NJ."	n	n	Requested through interlibrary loan
-White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Bautista, J. M. and C. Brito. 1992. Estudio sobre habitos alimenticios de la paloma de alas blancas (Zenaida asiatica asiatica) en el estado de Tamaulipas, Mexico. Unpubl. rep., Dir. Gral. de Conser. Ecol. de los Recursos Naturales, Mexico City, D.F."	n	n	
+White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Cottam, C. and J. B. Trefethen. 1968. White-wings: the life history, status, and management of the White-winged Dove. D. Van Nostrand Co., Inc. Princeton, NJ."	y	y	
+White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Bautista, J. M. and C. Brito. 1992. Estudio sobre habitos alimenticios de la paloma de alas blancas (Zenaida asiatica asiatica) en el estado de Tamaulipas, Mexico. Unpubl. rep., Dir. Gral. de Conser. Ecol. de los Recursos Naturales, Mexico City, D.F."	y	n	
 White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Schacht, S. J., T. C. Tacha, and G. L. Waggerman. 1995. Bioenergetics of White-winged Dove reproduction in the lower Rio Grande valley of Texas. Wildl. Monogr. 129:1-31."	y	y	
-White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Engel-Wilson, R. W. and R. D. Ohmart. 1978. Assessment of the vegetation and terrestrial vertebrates along the Rio Grand between Ft. Quitman and Haciendita, Texas: March 1977-March 1978. Rep. to the Int. Boundary and Water Comm. Tempe, AZ."	n	n	
+White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Engel-Wilson, R. W. and R. D. Ohmart. 1978. Assessment of the vegetation and terrestrial vertebrates along the Rio Grand between Ft. Quitman and Haciendita, Texas: March 1977-March 1978. Rep. to the Int. Boundary and Water Comm. Tempe, AZ."	y	n	
 White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Wolf, B. O. and C. M. del Rio. 2000. Use of saguaro fruit by White-winged Doves: isotopic evidence of a tight ecological association. Oecologia 124:536-543."	y	n	
-White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Brown, D. E. 1989. Arizona game birds. Univ. of Arizona Press, Tucson."	n	n	Requested through interlibrary loan
+White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Brown, D. E. 1989. Arizona game birds. Univ. of Arizona Press, Tucson."	y	n	
 White-winged Dove	Columbidae	2002	Diet	Quantitative Analysis	"Jenks, R. S. 1983. Distribution, abundance, and habitat of White-winged Dove in New Mexico. Master's Thesis. New Mexico State Univ. Las Cruces."	y	n	
 White-winged Dove	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Macmillan, R. E. and C. H. Trost. 1966. Water economy and salt balance in White-winged and Inca doves. Auk 83:441-456."	y	n	
 White-winged Dove	Columbidae	2002	Diet	Major Food Items	"Neff, J. A. 1944. Seeds of legumes eaten by birds. Condor 46:207."	y	n	
@@ -7874,7 +7874,7 @@ Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Thomas
 Acorn Woodpecker	Picidae	1995	Metabolism And Temperature Regulation		"Plessis, M. Du, W. W. Weathers, and W. D. Koenig. 1994. Energetic benefits of communal roosting by acorn woodpeckers in the non-breeding season. Condor 96:631-637."	y	n	
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Stanback, M. T. 1989. Observations on food habits and social organization of Acorn Woodpeckers in Costa Rica. Condor 91:1005-1007."	y	n	
 Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. 1981. Foraging behavior of the Acorn Woodpecker in Belize, Central America. Condor 83:336-339."	y	n	
-Acorn Woodpecker	Picidae	1995	Food Storage		"Ritter, W. E. 1938. The California Woodpecker and I. Univ. of California Press, Berkeley."	y	y	
+Acorn Woodpecker	Picidae	1995	Food Storage		"Ritter, W. E. 1938. The California Woodpecker and I. Univ. of California Press, Berkeley."	y	y	requested through interlibrary loan
 Acorn Woodpecker	Picidae	1995	Nutrition And Energetics		"Koenig, W. D. 1991. The effects of tannins and lipids on the digestibility of acorns by acorn woodpeckers. Auk 108:79-88."	y	n	
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. 1970. Notes on the food habits and food defense of the Acorn Woodpecker. Condor 72:196-204."	y	n	
 Acorn Woodpecker	Picidae	1995	Food Storage		"Walker, K. M. 1952. Northward extension of range of the Acorn Woodpecker in Oregon. Condor 54:315."	n		
@@ -7888,15 +7888,15 @@ Acorn Woodpecker	Picidae	1995	Food Storage		"Jehl, Jr., J. R. 1979. Pine cones a
 Acorn Woodpecker	Picidae	1995	Diet		"Weathers, W. W., W. D. Koenig, and M. T. Stanback. 1990. Breeding energetics and thermal ecology of the Acorn Woodpecker in central coastal California. Condor 92:341-359."	y	n	
 Acorn Woodpecker	Picidae	1995	Food Storage		"Macroberts, M. H. 1974. Acorns, woodpeckers, grubs, and scientists. Pac. Discovery 27:9-15."	n		
 Acorn Woodpecker	Picidae	1995	Nutrition And Energetics		"Koenig, W. D. and M. K. Heck. 1988. Ability of two species of oak woodland birds to subsist on acorns. Condor 90:705-708."	y	n	
-Acorn Woodpecker	Picidae	1995	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr. Biol. Surv. Bull. 37."	y	y	
-Acorn Woodpecker	Picidae	1995	Diet		"Neff, J. A. 1928. Economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	n		
+Acorn Woodpecker	Picidae	1995	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr. Biol. Surv. Bull. 37."	y	y	entered
+Acorn Woodpecker	Picidae	1995	Diet		"Neff, J. A. 1928. Economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	entered
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Skutch, A. F. 1969. Life histories of Central American birds III. Pac. Coast Avifauna 35:1-580."	n	 	
 Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. and R. Jansma. 1977. Storage of pi????on nuts by the Acorn Woodpecker in New Mexico. Wilson Bull. 89:150-151."	y	n	
 Acorn Woodpecker	Picidae	1995	Food Storage		"Kattan, G. 1988. Food habits and social organization of Acorn Woodpeckers in Colombia. Condor 90:100-106."	y	n	
-Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. and B. R. MacRoberts. 1976. Social organization and behavior of the Acorn Woodpecker in central coastal California. Ornithol. Monogr. 21:1-115."	y	y	
+Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Macroberts, M. H. and B. R. MacRoberts. 1976. Social organization and behavior of the Acorn Woodpecker in central coastal California. Ornithol. Monogr. 21:1-115."	y	y	entered
 American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Villard, P. 1994. Foraging behavior of Black-backed and Three-toed woodpeckers during spring and summer in a Canadian boreal forest. Can. J. Zool. 72:1957-1959."	y	n	
 American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Otvos, I. S. and R. W. Stark. 1985. Arthropod food of some forest-inhabiting birds. Can. Entomol. 117:971-990."	n		
-American Three-toed Woodpecker	Picidae	2001	Diet	Quantitative Analysis	"Koplin, J. R. and P. H. Baldwin. 1970. Woodpecker predation on an endemic population of Engelmann spruce beetles. Am. Midl. Nat. 83:510-515."	y	y	
+American Three-toed Woodpecker	Picidae	2001	Diet	Quantitative Analysis	"Koplin, J. R. and P. H. Baldwin. 1970. Woodpecker predation on an endemic population of Engelmann spruce beetles. Am. Midl. Nat. 83:510-515."	y	n	
 American Three-toed Woodpecker	Picidae	2001	Feeding	Food Capture And Consumption	"Spring, L. W. 1965. Climbing and pecking adaptations in some North American woodpeckers. Condor 67:457-488."	y	n	
 American Three-toed Woodpecker	Picidae	2001	Feeding	Food Capture And Consumption	"Dement'Ev, G. P. and N. A. Gladkov. 1951. Birds of the Soviet Union. Publishing House Sovetskaya Nauka, Moscow, USSR. [English translation by the Israel Program for Scientific Translations, Jerusalem, Israel, in 1966]."	n		
 American Three-toed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Cramp, S. 1985. The birds of the Western Palearctic, Vol. 4: terns to woodpeckers. Oxford Univ. Press, Oxford, U.K."	n		
@@ -7908,14 +7908,14 @@ American Three-toed Woodpecker	Picidae	2001	Feeding	Sexual/Seasonal Differences 
 American Three-toed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Goggans, R., R. D. Dixon, and L. C. Seminara. 1988. Habitat use by Three-toed and Black-backed woodpeckers. Nongame Rep. 87-3-02. Oregon Dep. Fish Wildl."	n		
 American Three-toed Woodpecker	Picidae	2001	Feeding	Sexual/Seasonal Differences In Foraging	"Hogstad, O. 1993. Why is the Three-toed Woodpecker (Picoides tridactylus) more sexually dimorphic than other European woodpeckers? Baden-W????rttemberg 67:109-118."	n		
 American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Massey, C. L. and N. D. Wygant. 1954. Biology and control of the Engelmann spruce beetle in Colorado. USDA Circ. no. 944."	y	n	
-American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Murphy, E. C. and W. A. Lehnhausen. 1998. Density and foraging ecology of woodpeckers following a stand-replacement fire. J. Wildl. Manage. 62:1359-1372."	y	y	
+American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Murphy, E. C. and W. A. Lehnhausen. 1998. Density and foraging ecology of woodpeckers following a stand-replacement fire. J. Wildl. Manage. 62:1359-1372."	y	y	entered
 American Three-toed Woodpecker	Picidae	2001	Feeding	Food Capture And Consumption	"Bull, E. L. 1980. Resource partitioning among woodpeckers in northeastern Oregon. Phd Thesis. Univ. of Idaho, Moscow."	y	n	
 American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Hutchinson, F. T. 1951. The effects of woodpeckers on the Engelmann spruce beetle, Dendroctonus engelmanni Hopk. Master's Thesis. Colorado State Univ. Ft. Collins."	n		
 American Three-toed Woodpecker	Picidae	2001	Diet	Quantitative Analysis	"Blackford, J. L. 1955. Woodpecker concentration in burned forest. Condor 57:28-30."	y	n	
 American Three-toed Woodpecker	Picidae	2001	Feeding	Sexual/Seasonal Differences In Foraging	"Fayt, P. 1999. Available insect prey in bark patches selected by the Three-toed Woodpecker Picoides tridactylus prior to reproduction. Ornis Fenn. 76:135-140."	n		
 American Three-toed Woodpecker	Picidae	2001	Feeding	Food Capture And Consumption	"Burt, W. H. 1930. Adaptive modifications in woodpeckers. Univ. Calif. Publ. Zool. 32:455-524."	n		
 American Three-toed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Short, L. L. 1974. Habits and interactions of North American Three-toed Woodpeckers (Picoides arcticus and Picoides tridactylus). Am. Mus. Novit. 2547:1-42."	y	n	
-American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
+American Three-toed Woodpecker	Picidae	2001	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	entered
 American Three-toed Woodpecker	Picidae	2001	Diet	Major Food Items	"Stallcup, P. L. 1962. Contents of 103 stomachs of Northern Three-toed Woodpeckers. J. Colo.-Wyoming Acad. Sci. 5:39."	n		
 American Three-toed Woodpecker	Picidae	2001	Diet		"Werner, R. A. and K. E. Post. 1985. Effects of wood-boring insects and bark beetles on survival and growth of white spruce. Pages 14-16 in Early results of the Rosie Creek Fire Research Project 1984. (Juday, G. P. and C. T. Dyrness, Eds.) Univ. of AlaskaFairbanks Agric. and For. Exp. Stn. Misc. Publ. 852."	n		
 American Three-toed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Steeger, C. and J. Dulisse. 1997a. Ecological interrelationships of Three-toed Woodpeckers with bark beetles and pine trees. Nelson For. Region RS-035. Forest Sciences."	n		
@@ -7939,14 +7939,14 @@ Arizona Woodpecker	Picidae	1999	Feeding	Microhabitat For Foraging	"Marshall, J. 
 Arizona Woodpecker	Picidae	1999	Feeding		"Davis, J. 1965. Natural history, variation, and distribution of the Strickland's Woodpecker. Auk 82:537-590."	y	n	
 Arizona Woodpecker	Picidae	1999	Feeding		"Winkler, H. 1979. Foraging ecology of Strickland's woodpecker in Arizona. Wilson Bull. 91:244-254."	y	n	
 Arizona Woodpecker	Picidae	1999	Feeding	"Sexual, Seasonal, And Geographic Differences In Foraging"	"Austin, G. T. 1976. Sexual and seasonal differences in foraging of Ladder-backed Woodpeckers. Condor 78:317-323."	y	n	
-Black-backed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
+Black-backed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	entered
 Black-backed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Raphael, M. G. and M. White. 1984. Use of snags by cavity-nesting birds in the Sierra Nevada. Wildl. Monogr. 86:1-66."	y	n	
 Black-backed Woodpecker	Picidae	2000	Feeding	Main Foods Taken	"Harris, M. A. 1982. Habitat use among woodpeckers in forest burns. Master's Thesis. Univ. of Montana, Missoula."	n		
 Black-backed Woodpecker	Picidae	2000	Feeding	Main Foods Taken	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
 Black-backed Woodpecker	Picidae	2000	Diet		"Holsten, E. H., R. A. Werner, and T. H. Laurent. 1980. Insects and diseases of Alaskan forests. Alaska Region Rep. 75. U.S. For. Serv."	y	n	
 Black-backed Woodpecker	Picidae	2000	Feeding	Main Foods Taken	"Villard, P. and C. W. Beninger. 1993. Foraging behavior of male Black-backed and Hairy woodpeckers in a forest burn. J. Field Ornithol. 64:71-76."	y	n	
 Black-backed Woodpecker	Picidae	2000	Feeding	Main Foods Taken	"Kilham, L. 1965. Differences in feeding behavior of male and female Hairy Woodpeckers. Wilson Bull. 77:134-145."	y	n	
-Black-backed Woodpecker	Picidae	2000	Feeding	Main Foods Taken	"Murphy, E. C. and W. A. Lehnhausen. 1998. Density and foraging ecology of woodpeckers following a stand-replacement fire. J. Wildl. Manage. 62:1359-1372."	y	y	
+Black-backed Woodpecker	Picidae	2000	Feeding	Main Foods Taken	"Murphy, E. C. and W. A. Lehnhausen. 1998. Density and foraging ecology of woodpeckers following a stand-replacement fire. J. Wildl. Manage. 62:1359-1372."	y	y	entered
 Black-backed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Spring, L. W. 1965. Climbing and pecking adaptations in some North American woodpeckers. Condor 67:457-488."	y	n	
 Black-backed Woodpecker	Picidae	2000	Diet		"Werner, R. A. and K. E. Post. 1985. Effects of wood-boring insects and bark beetles on survival and growth of burned white spruce. Pages 14-16 in Early results of the Rosie Creek Fire Research Project 1984. (Juday, G. P. and C. T. Dyrness, Eds.) Univ. of AlaskaFairbanks Agric. For. Exp. Stn. Misc. Publ. 852."	n		
 Black-backed Woodpecker	Picidae	2000	Diet	Major Food Items	"Wickman, B. E. 1965. Black-backed Three-toed Woodpecker, Picoides arcticus, predation on Monochamus oregonensis (Coleoptera: Cerambycidae). Pan-Pacific Entomol. 41:162-164."	n		
@@ -7962,7 +7962,7 @@ Black-backed Woodpecker	Picidae	2000	Feeding	Main Foods Taken	"Goggans, R., R. D
 Black-backed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Villard, P. 1994. Foraging behavior of Black-backed and Three-toed woodpeckers during spring and summer in a Canadian boreal forest. Can. J. Zool. 72:1957-1959."	y	n	
 Black-backed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Apfelbaum, S. and A. Haney. 1981. Bird populations before and after wildfire in a Great Lakes pine forest. Condor 83:347-354."	y	n	
 Black-backed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kirby, V. C. 1980. An adaptive modification in the ribs of woodpeckers and piculets (Picidae). Auk 97:521-532."	y	n	
-California Woodpecker	Picidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+California Woodpecker	Picidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	entered
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Williams, J. B. 1980. Intersexual niche partitioning in Downy Woodpeckers. Wilson Bull. 92:439-451."	y	n	
 Downy Woodpecker	Picidae	2002	Diet		"Mcatee, W. L. 1911. Woodpeckers in relation to trees and wood products. U.S. Dep. Agric., Biol. Surv. Bull. no. 39."	y	n	
 Downy Woodpecker	Picidae	2002	Nutrition And Energetics		"Grubb, Jr., T. C. 1978. Weather-dependent foraging rates of wintering woodland birds. Auk 95:370-376."	y	n	
@@ -7987,7 +7987,7 @@ Downy Woodpecker	Picidae	2002	Diet		"Weis, A. E. and A. Kapelinski. 1994. Variab
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Soule, C. G. 1899. Birds and caterpillars. Bird-Lore 1:166."	y	n	
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Askins, R. A. 1983. Foraging ecology of temperate-zone and tropical woodpeckers. Ecology 64:945-956."	y	n	
-Downy Woodpecker	Picidae	2002	Diet		"Confer, J. L. and P. Paicos. 1985. Downy Woodpecker predation of goldenrod galls. J. Field Ornithol. 56:56-64."	n		
+Downy Woodpecker	Picidae	2002	Diet		"Confer, J. L. and P. Paicos. 1985. Downy Woodpecker predation of goldenrod galls. J. Field Ornithol. 56:56-64."	y	n	
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Jackson, J. A. 1983. Behavioral and morphological development of post-fledgling Red-cockaded Woodpeckers. Pages 30-37 in Red-cockaded Woodpecker Symposium II Proceedings. (Wood, D. A., Ed.) State of Florida Game Fresh Water Fish Comm. Tallahassee."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Lima, S. L. 1983. Downy Woodpecker foraging behavior: foraging by expectation and energy intake rate. Oecologia 58:232-237."	y	n	
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Ouellet, H. 1977. Biosystematics and ecology of Picoides villosus (L.) and Picoides pubescens (L.) (Aves: Picidae). Ph.D. thesis. McGill Univ. Montreal, PQ."	y	n	
@@ -7995,7 +7995,7 @@ Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Selander, R. K.
 Downy Woodpecker	Picidae	2002	Metabolism And Temperature Regulation		"Becker, G. B. and J. W. Stack. 1944. Weights and temperatures of some Michigan birds. Bird-Banding 15:45-68."	y	n	
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Laferriere, D. A. 1965. Studies in the behavior and ecology of the Downy Woodpecker. J. Sci. Labs, Denison Univ. 46:149."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Jackson, J. A. 1970a. A quantitative study of the foraging ecology of Downy Woodpeckers. Ecology 51:318-323."	y	n	
-Downy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric., Biol. Surv. Bull. 37:1-64."	y	y	
+Downy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric., Biol. Surv. Bull. 37:1-64."	y	y	entered
 Downy Woodpecker	Picidae	2002	Diet		"Barrows, W. B. 1890. Seed planting by birds. Annu. rep., U.S. Dep. Agric. 280-285."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Kilham, L. 1961b. Downy Woodpeckers scaling bark on diseased elms. Wilson Bull. 73:89."	y	n	
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Whittle, C. L. 1927a. Malformation of a Downy Woodpecker's bill. Bull. Northeast. Bird-Banding Assoc. 3:19-20."	y	n	
@@ -8005,10 +8005,10 @@ Downy Woodpecker	Picidae	2002	Diet		"Schlichter, L. 1978. Winter predation by Bl
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Yeager, L. E. 1955. Two woodpecker populations in relation to environmental change. Condor 57:148-153."	y	n	
 Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Willson, M. F. 1970. Foraging behavior of some winter birds of deciduous woods. Condor 72:169-174."	y	n	
 Downy Woodpecker	Picidae	2002	Diet		"Moeller, R. K. and M. K. Thogerson. 1978. Predation by the Downy Woodpecker on the goldenrod gall fly larva. Iowa Bird Life 48:131-136."	y	n	
-Downy Woodpecker	Picidae	2002	Diet		"Neff, J. A. 1928. A study of the economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	
-Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Williams, J. B. and G. O. Batzli. 1979b. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."	y	y	
+Downy Woodpecker	Picidae	2002	Diet		"Neff, J. A. 1928. A study of the economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	entered
+Downy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Williams, J. B. and G. O. Batzli. 1979b. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."	y	y	entered
 Downy Woodpecker	Picidae	2002	Diet		"Confer, J. L., C. J. Hibbard, and D. Ebbets. 1986. Downy Woodpecker reward rates from goldenrod gall insects. Kingbird 36:188-192."	n		
-Downy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric., Biol. Surv. Bull. 34:1-96."	y	y	
+Downy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric., Biol. Surv. Bull. 34:1-96."	y	y	entered
 Downy Woodpecker	Picidae	2002	Diet		"Waldbauer, G. P., J. G. Sternburg, A. G. Scarbrough, and W. G. George. 1970. Hairy and Downy woodpeckers attacks on cocoons of urban Hyalophora cecropia and other saturniids (Lepidoptera). Ann. Entomol. Soc. Am. 63:1366-1369."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Dennis, J. V. 1951. A comparative study of Florida woodpeckers in the non-breeding season. Master's Thesis. Univ. of Florida, Gainesville."	n		
 Downy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Jackson, J. A. 1998. Downy Woodpecker. Wildfowl Carving and Collecting 14(3):49-59."	n		
@@ -8089,7 +8089,7 @@ Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Kilham, L. 1983
 Hairy Woodpecker	Picidae	2002	Diet		"Maclellan, C. R. 1961. Woodpeckers control of the codling moth in Nova Scotia orchards. Atlantic Nat. 16:17-25."	n		
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Conner, R. N. 1977a. Seasonal changes in the foraging methods and habitats of six sympatric woodpecker species in southwestern Virginia. Phd Thesis. Virginia Polytechnic Inst. and State Univ. Blacksburg."	n		
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Conner, R. N. 1993. Foraging differences among female and male Downy and Hairy woodpeckers. Raven 64:74-83."	y	n	
-Hairy Woodpecker	Picidae	2002	Diet		"Neff, J. A. 1928. A study of the economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	
+Hairy Woodpecker	Picidae	2002	Diet		"Neff, J. A. 1928. A study of the economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	entered
 Hairy Woodpecker	Picidae	2002	Diet		"Yeager, L. E. 1955. Two woodpecker populations in relation to environmental change. Condor 57:148-153."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Trees And Other Plants Used As Foraging Sites	"Roberson, D. 1993. Hairy Woodpecker Picoides villosus. Pages 200-201 in Atlas of breeding birds of Monterey County. (Roberson, D. and C. Tenney, Eds.) Monterey Peninsula Audubon Soc. Pacific Grove, CA."	n		
 Hairy Woodpecker	Picidae	2002	Feeding	Trees And Other Plants Used As Foraging Sites	"Conner, R. N. 1980. Foraging habitats of woodpeckers in southwestern Virginia. J. Field Ornithol. 51:119-127."	y	n	
@@ -8111,14 +8111,14 @@ Hairy Woodpecker	Picidae	2002	Feeding	Trees And Other Plants Used As Foraging Si
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Wallace, R. A. 1974. Aberrations in the tongue structure of some melanerpine woodpeckers. Wilson Bull. 86:79-82."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Askins, R. A. 1983. Foraging ecology of temperate-zone and tropical woodpeckers. Ecology 64:945-956."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Trees And Other Plants Used As Foraging Sites	"Ouellet, H. R. 1977. Biosystematics and ecology of Picoides villosus (L.) and Picoides pubescens (L.) (Aves: Picidae). Ph.D. thesis. McGill Univ. Montreal."	n		
-Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Jackson, J. A. 1979. Tree surfaces as foraging substrates for insectivorous birds. Pages 69-93 in The role of insectivorous birds in forest ecosystems. (Dickson, J. G., R. N. Conner, R. R. Fleet, and J. A. Jackson, Eds.) Academic Press Inc. New York."	y	y	
+Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Jackson, J. A. 1979. Tree surfaces as foraging substrates for insectivorous birds. Pages 69-93 in The role of insectivorous birds in forest ecosystems. (Dickson, J. G., R. N. Conner, R. R. Fleet, and J. A. Jackson, Eds.) Academic Press Inc. New York."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Weikel, J. M. and J. P. Hayes. 1999. The foraging ecology of cavity-nesting birds in young forests of the northern coast range of Oregon. Condor 101:58-66."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Jackson, J. A. 1971b. The adaptative significance of reversed sexual dimorphism in tail length of woodpeckers: an alternative hypothesis. Bird-Banding 42:18-20."	n		
 Hairy Woodpecker	Picidae	2002	Diet		"Maclellan, C. R. 1959. Woodpeckers as predators of the codling moth in Nova Scotia. Can. Entomol. 91:673-680."	n		
 Hairy Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Fales, J. H. 1977. Unusual food habit for Hairy Woodpecker. Maryland Birdlife 33:125-126."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Trees And Other Plants Used As Foraging Sites	"Stallcup, P. L. 1968. Spatio-temporal relationships of nuthatches and woodpeckers in ponderosa pine forests of Colorado. Ecology 49:831-843."	y	n	
 Hairy Woodpecker	Picidae	2002	Diet		"Helleiner, C. W. 1973. Possible imitative feeding behavior in two species of woodpeckers. Can. Field-Nat. 87:315."	n		
-Hairy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric., Biol. Surv. Bull. 37:1-64."	y	y	
+Hairy Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric., Biol. Surv. Bull. 37:1-64."	y	y	entered
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Grubb, T. C. 1975. Weather-dependent foraging behavior of some birds wintering in a deciduous woodland. Condor 77:175-182."	y	n	
 Hairy Woodpecker	Picidae	2002	Diet		"Baldwin, P. H. 1960. Overwintering of woodpeckers in bark beetle-infested spruce-fir forests of Colorado. Proc. XII Int. Ornithol. Congr. 12:71-84."	n		
 Hairy Woodpecker	Picidae	2002	Diet		"Bailey, A. M. and R. J. Niedrach. 1965. Birds of Colorado. Vol. 2. Denver Mus. Nat. Hist. Denver, CO."	n		
@@ -8144,37 +8144,37 @@ Hairy Woodpecker	Picidae	2002	Feeding	Choice Of Foraging Sites	"Hutchison, R. T.
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Bull, E. L., S. R. Peterson, and J. W. Thomas. 1986. Resource partitioning among woodpeckers in northern Oregon. Res. Note PNW 444. U.S. Dep. Agric. For. Serv. Portland, OR."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Ouellet, H. 1997. Comparative foraging ecology of Downy and Hairy woodpeckers (Aves: Picidae). Pages 113-128 in The era of Allan R. Phillips: a Festschrift. (Dickerman, R. W., Ed.) Horizon Comm. Albuquerque, NM."	y	n	
 Hairy Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Villard, P. and C. W. Beninger. 1993. Foraging behavior of male Black-backed and Hairy Woodpeckers in a forest burn. J. Field Ornithol. 64:71-76."	y	n	
-Hairy Woodpecker	Picidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1-2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Hairy Woodpecker	Picidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 1-2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	
 Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Scott, W. E. D. 1886. On the avi-fauna of Pinal County, with remarks on some birds of Pima and Gila Counties, Arizona. Auk 3:249-258, 383-389, 421-432; 4: 16-24, 196-205; 5: 29-36, 159-168."	y	n	
 Ladder-backed Woodpecker	Picidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Short, Jr., L. L. 1982. Woodpeckers of the world. Del. Mus. Nat. Hist. Monogr. Ser. 4, Greenville."	n		
 Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n	
-Ladder-backed Woodpecker	Picidae	2001	Diet	Quantitative Analysis	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
+Ladder-backed Woodpecker	Picidae	2001	Diet	Quantitative Analysis	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	entered
 Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
 Ladder-backed Woodpecker	Picidae	2001	Feeding	Food Capture And Consumption	"Austin, G. T. 1976. Sexual and seasonal differences in foraging of Ladder-backed Woodpeckers. Condor 78:317-323."	y	n	
-Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Hadow, H. H. 1973. Winter ecology of migrant and resident Lewis's Woodpeckers in southeastern Colorado. Condor 75:210-224."	y	y	
+Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Hadow, H. H. 1973. Winter ecology of migrant and resident Lewis's Woodpeckers in southeastern Colorado. Condor 75:210-224."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Vierling, K. T. 1997. Habitat selection of Lewis's Woodpeckers in southeastern Colorado. Wilson Bull. 109:121-130."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Tashiro-Vierling, K. Y. 1994. Population trends and ecology of the Lewis's Woodpecker (Melanerpes lewis) in southeastern Colorado. Master's Thesis. Univ. of Colorado, Boulder."	n		
 Lewis's Woodpecker	Picidae	1997	Nutrition And Energetics		"Koenig, W. D. 1991. The effects of tannins and lipids on digestion of acorns by Acorn Woodpeckers. Auk 108:79-88."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Snow, R. B. 1941. A natural history of the Lewis Woodpecker Asyndesmus lewis (Gray). Master's Thesis. Univ. of Utah, Salt Lake City."	n		
 Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Sherwood, W. E. 1927. Feeding habits of Lewis Woodpecker. Condor 29:171."	n		
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Janos, M. 1991. An instance of food caching in a Lewis's Woodpecker (Melanerpes lewis). Colo. Field Ornithol. J. 25:43-44."	n		
-Lewis's Woodpecker	Picidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr. Biol. Surv. Bull. 37."	y	y	
+Lewis's Woodpecker	Picidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr. Biol. Surv. Bull. 37."	y	y	entered
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Raphael, M. G. and M. White. 1984. Use of snags by cavity-nesting birds in the Sierra Nevada. Wildl. Monogr. 86:1-66."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Bock, C. E. 1970. The ecology and behavior of the Lewis's Woodpecker (Asyndesmus lewis). Univ. Calif. Publ. Zool. 92:1-100."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Tobalske, B. W. 1996. Scaling of muscle composition, wing morphology, and intermittent flight behavior in woodpeckers. Auk 113:151-177."	y	n	
-Lewis's Woodpecker	Picidae	1997	Diet	Major Food Items	"Neff, J. A. 1928. A study of the economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	
+Lewis's Woodpecker	Picidae	1997	Diet	Major Food Items	"Neff, J. A. 1928. A study of the economic status of the common woodpeckers in relation to Oregon horticulture. Free Press Print, Marionville, MO."	y	y	entered
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Macroberts, M. H. and B. R. MacRoberts. 1976. Social organization and behavior of the Acorn Woodpecker in central coastal California. Ornithol. Monogr. no. 21."	y	n	
 Lewis's Woodpecker	Picidae	1997	Food Selection And Storage		"Constanz, G. D. 1974. Robbing of breeding Lewis's Woodpecker food stores. Auk 91:171."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Spring, L. W. 1965. Climbing and pecking adaptations in some North American woodpeckers. Condor 67:457-488."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Microhabitat For Foraging	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
 Lewis's Woodpecker	Picidae	1997	Feeding	Food Capture And Consumption	"Linder, K. A. 1994. Habitat utilization and behavior of nesting Lewis's Woodpeckers (Melanerpes lewis) in the Laramie range, southeast Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	n	
-Nuttall's Woodpecker	Picidae	2000	Diet		"Miller, A. H. and C. E. Bock. 1972. Natural history of the Nuttall Woodpecker at the Hastings Reservation. Condor 74:284-294."	y	y	
-Nuttall's Woodpecker	Picidae	2000	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
+Nuttall's Woodpecker	Picidae	2000	Diet		"Miller, A. H. and C. E. Bock. 1972. Natural history of the Nuttall Woodpecker at the Hastings Reservation. Condor 74:284-294."	y	n	
+Nuttall's Woodpecker	Picidae	2000	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	entered
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n	
-Nuttall's Woodpecker	Picidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Nuttall's Woodpecker	Picidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	entered
 Nuttall's Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Jenkins, J. M. 1979. Foraging behavior of male and female Nuttall Woodpeckers. Auk 96:418-420."	y	n	
 Pileated Woodpecker	Picidae	2011	Diet	Major Food Items	"Hoyt, S. F. 1957. The ecology of the Pileated Woodpecker. Ecology 38:246-256."	y	n	
-Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Bull, E. L., R. C. Beckwith, and R. S. Holthausen. 1992a. Arthropod diet of Pileated Woodpeckers in northeastern Oregon. Northwest Nat. 73:42-45."	y	y	
+Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Bull, E. L., R. C. Beckwith, and R. S. Holthausen. 1992a. Arthropod diet of Pileated Woodpeckers in northeastern Oregon. Northwest Nat. 73:42-45."	y	y	entered
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Hoyt, J. S. Y. 1948b. Further studies of the Pileated Woodpecker. Phd Thesis. Cornell Univ. Ithaca, NY."	n		
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Pfitzenmeyer, H. T. 1956. Life history and behavior patterns of the Pileated Woodpecker relative to utility lines. Master's Thesis. Pennsylvania State Univ. State College."	n		
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Conner, R. N. 1982. Pileated Woodpecker feeds on horned passalus colony. Bull. Texas Ornithol. Soc. 15:15-16."	n		
@@ -8183,7 +8183,7 @@ Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Beal, F. E. L. 1911
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Downing, G. R. 1940. The winter habits of the Northern Pileated Woodpecker in Iowa. Iowa Bird Life 10:43-46."	n		
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Sprunt, Jr., A. and E. B. Chamberlain. 1970. South Carolina bird life. Univ. of South Carolina Press, Columbia."	n		
 Pileated Woodpecker	Picidae	2011	Diet	Quantitative Analysis	"Carter, T. D. 1942. Northern Pileated Woodpecker eating salmon. Auk 59:585."	y	n	
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Jackson, J. A. 1976a. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y	y	
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Jackson, J. A. 1976a. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y	y	entered
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Jackson, J. A. 1977a. Competition for cavities and Red-cockaded Woodpecker management. Pages 103-112 in Management techniques for preserving endangered species. (Temple, S. A., Ed.) Univ. of Wisconsin Press, Madison."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Rodgers, Jr., S. P. 1990. Predation of domestic fowl eggs by Red-bellied Woodpeckers. Fla. Field Nat. 18:57-58."	n		
 Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Reller, A. W. 1972. Aspects of behavioral ecology of Red-headed and Red-bellied woodpeckers. Am. Midl. Nat. 88:270-290."	y	n	
@@ -8201,21 +8201,21 @@ Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Neill, A. J. and R. G
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Brackbill, H. 1969. Red-bellied Woodpecker taking bird's eggs. Bird-banding 40:323-324."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Conner, R. N., S. J. Jones, and G. D. Jones. 1994. Snag condition and woodpecker foraging ecology in a bottomland hardwood forest. Wilson Bull. 106:242-257."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Moulton, C. A. and L. W. Adams. 1991. Effects of urbanization on foraging strategy of woodpeckers. Natl. Inst. Urban Wildl. 2:67-73."	n		
-Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Willson, M. F. 1970. Foraging behavior of some winter birds of deciduous woods. Condor 72:169-174."	y	y	
+Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Willson, M. F. 1970. Foraging behavior of some winter birds of deciduous woods. Condor 72:169-174."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Towles, D. T. 1989. A comparative analysis of the foraging behavior of male and female Red-bellied Woodpeckers (Melanerpes carolinus) in central Kentucky. Master's Thesis. Eastern Kentucky Univ. Richmond."	n		
-Red-bellied Woodpecker	Picidae	2000	Diet	Quantitative Analysis	"Williams, J. B. and G. O. Batzli. 1979. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."	y	y	
+Red-bellied Woodpecker	Picidae	2000	Diet	Quantitative Analysis	"Williams, J. B. and G. O. Batzli. 1979. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."	y	y	entered
 Red-bellied Woodpecker	Picidae	2000	Diet	Quantitative Analysis	"Boone, G. C. 1963. Ecology of the Red-bellied Woodpecker in Kansas. Master's Thesis. Univ. of Kansas, Manhattan."	n		
 Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Burt, W. H. 1930. Adaptive modifications in the woodpeckers. Univ. Calif. Publ. Zool. 32:455-524."	n		
 Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Beecher, W. J. 1953. Feeding adaptations and systematics in the avian order Piciformes. J. Wash. Acad. Sci. 43:293-299."	n		
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Nero, R. W. 1959. Red-bellied Woodpecker at Regina. Blue Jay 17:95-96."	n		
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Watt, D. J. 1980. Red-bellied Woodpecker predation on nestling American Redstarts. Wilson Bull. 92:249."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Conner, R. N. 1974. Red-bellied Woodpecker predation on nestling Carolina Chickadees. Auk 91:836."	y	n	
-Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. no. 37."	y	y	
+Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. no. 37."	y	y	entered
 Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Mueller, H. C. 1971. Sunflower seed carrying by Red-bellied Woodpeckers (Centurus carolinus). Bird-Banding 42:46-47."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Gamboa, G. J. and K. M. Brown. 1976. Comparative foraging behavior of six sympatric woodpecker species. Proc. Iowa Acad. Sci. 82:179-181."	n		
 Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Askins, R. A. 1983. Foraging ecology of temperate-zone and tropical woodpeckers. Ecology 64:945-956."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Williams, J. B. 1975. Habitat utilization by four species of woodpeckers in a central Illinois woodland. Am. Midl. Nat. 93:354-367."	y	n	
-Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Brawn, J. D., W. H. Elder, and K. E. Evans. 1982. Winter foraging by cavity nesting birds in an oak-hickory forest. Wildl. Soc. Bull. 10:271-275."	y	y	
+Red-bellied Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Brawn, J. D., W. H. Elder, and K. E. Evans. 1982. Winter foraging by cavity nesting birds in an oak-hickory forest. Wildl. Soc. Bull. 10:271-275."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Mcgrath, J. E. 1988. Observation of a Red-bellied Woodpecker feeding on a small mammal. Jack-pine Warbler 66:116."	n		
 Red-bellied Woodpecker	Picidae	2000	Metabolism And Temperature Regulation		"Stickel, D. W. 1965a. Territorial and breeding habits of Red-bellied Woodpeckers. Am. Midl. Nat. 74:110-118."	y	n	
 Red-bellied Woodpecker	Picidae	2000	Diet	Major Food Items	"Grimes, S. A. 1947. Birds of Duval County. Fla. Nat. 21:1-13."	n		
@@ -8224,7 +8224,7 @@ Red-bellied Woodpecker	Picidae	2000	Food Selection And Storage		"Oberholser, H. 
 Red-breasted Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Wible, M. 1960. Notes on feeding and fecal-sac disposal of sapsuckers. Wilson Bull. 72:399."	y	n	
 Red-breasted Sapsucker	Picidae	2002	Metabolism And Temperature Regulation		"Smith, K. G. 1982b. On habitat selection of Williamson's and Red-naped Yellow-bellied Sapsuckers. Southwest. Nat. 27:464-466."	y	n	
 Red-breasted Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Raphael, M. G. and M. White. 1984. Use of snags by cavity-nesting birds in the Sierra Nevada. Wildlife Monogr. 86."	y	n	
-Red-breasted Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
+Red-breasted Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	entered
 Red-breasted Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Howell, T. R. 1952. Natural history and differentiation in the Yellow-bellied Sapsucker. Condor 54:237-282."	y	n	
 Red-breasted Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Oliver, W. W. 1968. Sapsucker damage to ponderosa pine. J. For. 66:842-844."	n		
 Red-breasted Sapsucker	Picidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Walters, E. L., E. H. Miller, and P. E. Lowther. 2002. Yellow-bellied Sapsucker (Sphyrapicus varius). in The birds of North America, no. 662. (Poole, A. and F. Gill, Eds.) The Birds of North America, Inc. Philadelphia, PA."	n		
@@ -8236,18 +8236,18 @@ Red-breasted Sapsucker	Picidae	2002	Food Selection And Storage	Red-Breasted Saps
 Red-breasted Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Walters, E. L. 1996. Habitat and space use of the Red-naped Sapsucker, Sphyrapicus nuchalis, in the Hat Creek valley, south-central British Columbia. Master's Thesis. Univ. of Victoria, Victoria, BC."	y	n	
 Red-breasted Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Zimmerman, K. 1998. Sustaining biological diversity in managed sub-boreal spruce landscapes: residual habitat strategies for cavity nesting species. Master's Thesis. Univ. of Northern British Columbia, Prince George."	y	n	
 Red-breasted Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Sutherland, G. D., C. L. Gass, P. A. Thompson, and K. P. Lertzman. 1982. Feeding territoriality in migrant Rufous Hummingbirds: defence of Yellow-bellied Sapsucker (Sphyrapicus varius) feeding sites. Can. J. Zool. 60:2046-2050."	y	n	
-Red-breasted Sapsucker	Picidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
+Red-breasted Sapsucker	Picidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	entered
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Microhabitat For Foraging	"Morse, D. H. 1972. Habitat utilization of the Red-cockaded Woodpecker during the winter. Auk 89:429-435."	y	n	
-Red-cockaded Woodpecker	Picidae	1994	Diet	Major Food Items	"Harlow, R. F. and M. R. Lennartz. 1977. Foods of nestling Red-cockaded Woodpeckers in coastal South Carolina. Auk 94:376-377."	y	y	
+Red-cockaded Woodpecker	Picidae	1994	Diet	Major Food Items	"Harlow, R. F. and M. R. Lennartz. 1977. Foods of nestling Red-cockaded Woodpeckers in coastal South Carolina. Auk 94:376-377."	y	y	entered
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Microhabitat For Foraging	"Ramey, P. 1980. Seasonal, sexual, and geographical variation in the foraging ecology of Red-cockaded Woodpeckers (Picoides borealis). Master's Thesis. Mississippi State Univ. Mississippi State, MS."	n		
-Red-cockaded Woodpecker	Picidae	1994	Diet	Major Food Items	"Beal, F. E. L., W. L. McAtee, and E. R. Kalmbach. 1916. Red-cockaded Woodpecker. Pages 34-35 in Common birds of southeastern United States in relation to agriculture. U.S. Dep. Agr. Farmer's Bull. 755."	y	y	
+Red-cockaded Woodpecker	Picidae	1994	Diet	Major Food Items	"Beal, F. E. L., W. L. McAtee, and E. R. Kalmbach. 1916. Red-cockaded Woodpecker. Pages 34-35 in Common birds of southeastern United States in relation to agriculture. U.S. Dep. Agr. Farmer's Bull. 755."	y	y	entered
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Microhabitat For Foraging	"Bradshaw, D. S. 1990. Habitat quality and seasonal foraging patterns of the Red-cockaded Woodpecker (Picoides borealis) in southeastern Virginia. Master's Thesis. Coll. William and Mary, Williamsburg, VA."	n		
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Microhabitat For Foraging	"Dingle, E. V. 1926. Red-cockaded Woodpeckers in cornfields. Bird-Lore 28:124-125."	n		
 Red-cockaded Woodpecker	Picidae	1994	Food Selection And Storage		"Repasky, R. R., R. J. Blue, and P. D. Doerr. 1991. Laying Red-cockaded Woodpeckers cache bone fragments. Condor 93:458-461."	y	n	
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Microhabitat For Foraging	"Baker, W. W. 1971. Observations on the food habits of the Red-cockaded Woodpecker. Pages 100-107 in The ecology and management of the Red-cockaded Woodpecker. (Thompson, R. L., Ed.) U.S. Dep. Interior, Tall Timbers Res. Stn. Tallahassee, FL."	n		
 Red-cockaded Woodpecker	Picidae	1994	Diet	Major Food Items	"Jackson, J. A. 1983a. Morphological and behavioral development of post-fledging Red-cockaded Woodpeckers. Pages 30-37 in Red-cockaded Woodpecker symposium II proceedings. (Wood, D. A., Ed.) Fla. Game Fresh Water Fish Commission, Tallahassee, FL."	y	n	
 Red-cockaded Woodpecker	Picidae	1994	Feeding	Microhabitat For Foraging	"Ligon, J. D. 1968a. Sexual differences in foraging behavior in two species of Dendrocopos woodpeckers. Auk 85:203-215."	y	n	
-Red-cockaded Woodpecker	Picidae	1994	Feeding	Food Capture And Consumption	"Jackson, J. A. 1978c. Pine bark redness as an indicator of Red-cockaded Woodpecker activity. Wildl. Soc. Bull. 6:171-172."	y	y	
+Red-cockaded Woodpecker	Picidae	1994	Feeding	Food Capture And Consumption	"Jackson, J. A. 1978c. Pine bark redness as an indicator of Red-cockaded Woodpecker activity. Wildl. Soc. Bull. 6:171-172."	y	n	
 Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Repenning, R. W. and R. F. Labisky. 1985. Effects of even-age timber management on bird communities of the longleaf pine forest in northern Florida. J. Wildl. Manage. 49:1088-1098."	y	n	
 Red-headed Woodpecker	Picidae	2000	Feeding		"Roberts, T. S. 1932. The birds of Minnesota. Univ. of Minnesota Press, St. Paul."	n		
 Red-headed Woodpecker	Picidae	2000	Feeding		"Howe, R. W. 1984. Local dynamics of bird assemblages in small forest habitat islands in Australia and North America. Ecology 65:1585-1601."	y	n	
@@ -8256,14 +8256,14 @@ Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Bailey, H. B. 18
 Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Skinner, M. P. 1928. A guide to the winter birds of the North Carolina Sandhills. Science Press Printing Co. Lancaster, PA."	n		
 Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Bailey, F. M. 1920. The Red-headed Woodpecker. Pages 169-172 in Portraits and habitats of our birds. Vol. 1 (Pearson, T. G., Ed.) Natl. Assoc. Audubon Soc. New York."	n		
 Red-headed Woodpecker	Picidae	2000	Feeding		"Blake, J. G. 1983. Trophic structure of bird communities in forest patches in east-central Illinois. Wilson Bull. 95:416-430."	y	n	
-Red-headed Woodpecker	Picidae	2000	Feeding	Main Food Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. no. 37."	y	y	
+Red-headed Woodpecker	Picidae	2000	Feeding	Main Food Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. no. 37."	y	y	entered
 Red-headed Woodpecker	Picidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Kilham, L. 1958b. Territorial behavior of wintering Red-headed Woodpeckers. Wilson Bull. 70:347-358."	y	n	
-Red-headed Woodpecker	Picidae	2000	Feeding		"Henderson, J. 1927. The practical value of birds. The MacMillan Co. New York."	y	y	
+Red-headed Woodpecker	Picidae	2000	Feeding		"Henderson, J. 1927. The practical value of birds. The MacMillan Co. New York."	y	n	
 Red-headed Woodpecker	Picidae	2000	Feeding		"Vander Wall, S. B. 1990. Food hoarding in animals. Univ. of Chicago Press, Chicago, IL."	n		
-Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Conner, R. N., S. D. Jones, and G. D. Jones. 1994. Snag condition and woodpecker foraging ecology in a bottomland hardwood forest. Wilson Bull. 106:242-257."	n		
+Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Conner, R. N., S. D. Jones, and G. D. Jones. 1994. Snag condition and woodpecker foraging ecology in a bottomland hardwood forest. Wilson Bull. 106:242-257."	y	n	
 Red-headed Woodpecker	Picidae	2000	Feeding	Microhabitat For Foraging	"Reller, A. W. 1972. Aspects of behavioral ecology of Red-headed and Red-bellied Woodpeckers. Am. Midl. Nat. 88:270-290."	y	n	
 Red-headed Woodpecker	Picidae	2000	Feeding		"Short, L. L. 1982. Woodpeckers of the world. Delaware Mus. Nat. Hist. Monogr. Ser. no. 4."	n		
-Red-headed Woodpecker	Picidae	2000	Feeding		"Jackson, J. A. 1976. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y	y	
+Red-headed Woodpecker	Picidae	2000	Feeding		"Jackson, J. A. 1976. A comparison of some aspects of the breeding ecology of Red-headed and Red-bellied woodpeckers in Kansas. Condor 78:67-76."	y	y	entered
 Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Nichols, L. L. and J. A. Jackson. 1987. Interspecific aggression and the sexual monochromism of Red-headed Woodpeckers. J. Field Ornithol. 58:288-290."	y	n	
 Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Doherty, Jr., P. F., T. C. Grubb, and C. L. Bronson. 1996. Territories and caching-related behaviors of Red-headed Woodpeckers wintering in a beech grove. Wilson Bull. 108:740-747."	y	n	
 Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Forbush, E. H. 1927. Birds of Massachusetts and other New England states. Vol. 2. Mass. Dep. Agric., Norwood Press, Norwood, MA."	n		
@@ -8288,13 +8288,13 @@ Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Baumgartner, F. 
 Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kilham, L. 1983. Life history studies of woodpeckers of eastern North America. Publ. Nuttall Ornithol. Club no. 20."	y	n	
 Red-headed Woodpecker	Picidae	2000	Feeding	Food Capture And Consumption	"Kilham, L. 1958a. Sealed-in stores of Red-headed Woodpeckers. Wilson Bull. 70:107-113."	n		
 Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Barrows, W. B. 1912. Michigan bird life. Michigan Agric. Coll. Lansing."	n		
-Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Williams, J. B. and G. O. Batzli. 1979a. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."	y	y	
+Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Williams, J. B. and G. O. Batzli. 1979a. Winter diet of a bark-foraging guild of birds. Wilson Bull. 91:126-131."	y	y	entered
 Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Evermann, B. W. and H. W. Clark. 1920. Lake Maxinkuckee: a physical and biological survey. Vol. 1. Indiana Dep. Conserv. Indianapolis."	y	n	
 Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Lockwood, J. A. and L. D. DeBrey. 1990. A solution for the sudden and unexplained extinction of the Rocky Mountain grasshopper (Orthoptera: Acrididae). Environ. Entomol. 19:1194-1205."	n		
 Red-headed Woodpecker	Picidae	2000	Diet	Major Food Items	"Zimmerman, J. L. 1993. The birds of Konza. Univ. Press of Kansas, Lawrence."	n		
 Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Sutton, G. M. 1967. Oklahoma birds. Univ. of Oklahoma Press, Norman."	n		
 Red-headed Woodpecker	Picidae	2000	Food Selection And Storage		"Hay, O. P. 1887. The Red-headed Woodpecker a hoarder. Auk 4:193-196."	y	n	
-Red-naped Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
+Red-naped Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	entered
 Red-naped Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Zimmerman, K. 1998. Sustaining biological diversity in managed sub-boreal spruce landscapes: residual habitat strategies for cavity nesting species. Master's Thesis. Univ. of Northern British Columbia, Prince George."	y	n	
 Red-naped Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Walters, E. L. 1996. Habitat and space use of the Red-naped Sapsucker, Sphyrapicus nuchalis, in the Hat Creek valley, south-central British Columbia. Master's Thesis. Univ. of Victoria, Victoria, BC."	y	n	
 Red-naped Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Howell, T. R. 1952. Natural history and differentiation in the Yellow-bellied Sapsucker. Condor 54:237-282."	y	n	
@@ -8309,8 +8309,8 @@ Red-naped Sapsucker	Picidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Wa
 Red-naped Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Oliver, W. W. 1968. Sapsucker damage to ponderosa pine. J. For. 66:842-844."	n		
 Red-naped Sapsucker	Picidae	2002	Metabolism And Temperature Regulation		"Smith, K. G. 1982b. On habitat selection of Williamson's and Red-naped Yellow-bellied Sapsuckers. Southwest. Nat. 27:464-466."	y	n	
 Red-naped Sapsucker	Picidae	2002	Food Selection And Storage	Red-Breasted Sapsucker	"Oliver, W. W. 1970. The feeding pattern of sapsuckers on ponderosa pine in northeastern California. Condor 72:241."	y	n	
-Red-Shafted Flicker	Picidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered
-White-headed Woodpecker	Picidae	1996	Feeding		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agric. Biol. Surv. Bull. 37:1-64."	y	y	
+Red-Shafted Flicker	Picidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	entered
+White-headed Woodpecker	Picidae	1996	Feeding		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agric. Biol. Surv. Bull. 37:1-64."	y	y	entered
 White-headed Woodpecker	Picidae	1996	Feeding		"Koch, R. F., A. E. Courchesne, and C. T. Collins. 1970. Sexual differences in foraging behavior of White-headed Woodpeckers. Bull. S. Calif. Acad. Sci. 69:60-64."	y	n	
 White-headed Woodpecker	Picidae	1996	Feeding		"Tevis, L. and Jr. 1953. Effect of vertebrate animals on seed crop of sugar pine. J. Wildl. Manage. 17:128-131."	y	n	
 White-headed Woodpecker	Picidae	1996	Feeding		"Ligon, J. D. 1973. Foraging behavior of the White-headed Woodpecker in Idaho. Auk 90:862-869."	y	n	
@@ -8329,7 +8329,7 @@ White-headed Woodpecker	Picidae	1996	Feeding		"Morrison, M. L., K. A. With, I. C
 White-headed Woodpecker	Picidae	1996	Diet		"Grinnell, J. and T. I. Storer. 1924. Animal life in the Yosemite. Univ. of California Press, Berkeley."	y	n	
 White-headed Woodpecker	Picidae	1996	Diet		"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
 White-headed Woodpecker	Picidae	1996	Diet		"Curtis, J. D. 1948. Animals that eat ponderosa pine seed. J. Wildl. Manage. 12:327-328."	y	n	
-White-headed Woodpecker	Picidae	1996	Diet		"Halvorson, C. H. 1986. Influence of vertebrates on conifer seed production. Pages 201-222 in Proceedings-conifer tree seed in the Inland Mountain West symposium. (Shearer, R. C., Ed.) U.S. Dep. Agric. For. Serv. Gen. Tech. Rep. INT-203."	y	y	
+White-headed Woodpecker	Picidae	1996	Diet		"Halvorson, C. H. 1986. Influence of vertebrates on conifer seed production. Pages 201-222 in Proceedings-conifer tree seed in the Inland Mountain West symposium. (Shearer, R. C., Ed.) U.S. Dep. Agric. For. Serv. Gen. Tech. Rep. INT-203."	y	n	
 White-headed Woodpecker	Picidae	1996	Diet		"Fowells, H. A. 1956. Seed crops of forest trees in the pine region of California. U.S. Dep. Agric. Tech. Bull. 1150:1-48."	y	n	
 White-headed Woodpecker	Picidae	1996	Diet		"Cannings, R. A., R. J. Cannings, and S. G. Cannings. 1987. Birds of the Okanagan Valley, British Columbia. R. Br. Columbia Mus. Victoria."	n		
 White-headed Woodpecker	Picidae	1996	Diet		"Otvos, I. S. and R. W. Stark. 1985. Arthropod food of some forest-inhabiting birds. Can. Entomol. 117:971-990."	n		
@@ -8338,8 +8338,8 @@ Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Crockett, A. B. 19
 Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Sousa, P. J. 1983. Habitat suitability index models: Williamson's Sapsucker. Fish Wildl. Serv. FWS/OBS-82/10.47. U.S. Dept. Int."	y	n	
 Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Stanford, J. S. and G. F. Knowlton. 1942. Food of some Utah birds. Auk 59:580-581."	y	n	
 Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Bock, C. E. and D. L. Larson. 1986. Winter habitats of sapsuckers in southeastern Arizona. Condor 88:246-247."	y	n	
-Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr., Biol. Surv. Bull. 37."	y	y	
-Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Russell, C. P. 1925. Some winter observations on the Williamson's Sapsucker. Yosemite Nature Notes 4:21."	y	y	
+Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr., Biol. Surv. Bull. 37."	y	y	entered
+Williamson's Sapsucker	Picidae	1997	Feeding	Main Foods Taken	"Russell, C. P. 1925. Some winter observations on the Williamson's Sapsucker. Yosemite Nature Notes 4:21."	n	n	
 Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Smith, K. G. 1982. On habitat selection of Williamson's and Red-naped Yellow-bellied Sapsuckers. Southwest. Nat. 27:464-466."	n		
 Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Bull, E. L., S. R. Peterson, and J. W. Thomas. 1986. Resource partitioning among woodpeckers in northeastern Oregon. USFS Res. Note PNW 444. U.S. Dept. Agric."	y	n	
 Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Short, L. L. 1982. Woodpeckers of the world. Delaware Mus. Nat. His. Monogr. Ser. no. 4."	n		
@@ -8347,15 +8347,15 @@ Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Grinnell,
 Williamson's Sapsucker	Picidae	1997	Feeding	Microhabitat For Foraging	"Oliver, W. W. 1970. The feeding pattern of sapsuckers on ponderosa pine in northeastern California. Condor 72:241."	y	n	
 Williamson's Sapsucker	Picidae	1997	Feeding	Food Capture And Consumption	"Bent, A. C. 1939. Life histories of North American woodpeckers. U.S. Natl. Mus. Bull. 174."	y	n	
 Williamson's Sapsucker	Picidae	1997	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. Dover Publ. Inc., New York."	n		
-Williamson's Sapsucker	Picidae	1997	Diet	Major Food Items	"Remsen, Jr., J. V. 1991. First record of Williamson's Sapsucker from Louisiana. J. La. Ornithol. 2:15-17."	n		
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	
+Williamson's Sapsucker	Picidae	1997	Diet	Major Food Items	"Remsen, Jr., J. V. 1991. First record of Williamson's Sapsucker from Louisiana. J. La. Ornithol. 2:15-17."	y	n	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dep. Agric. Biol. Surv. Bull. 37."	y	y	entered
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Mcatee, W. L. 1911. Woodpeckers in relation to trees and wood products. U.S. Dep. Agric. Washington, D.C."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Tate, Jr., J. 1969. Foraging behavior of the Eastern Yellow-bellied Sapsucker (Sphyrapicus varius varius). Phd Thesis. Univ. of Nebraska, Lincoln."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Foster, W. I. and J. Tate, Jr. 1966. The activities and coactions of animals at sapsucker trees. Living Bird 5:87-113."	n		
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Erdmann, G. G. and R. R. Oberg. 1974. Sapsucker feeding damages crown-released yellow birch trees. J. For. 72:760-763."	n		
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Wilkins, H. D. 2001. The winter foraging ecology of Yellow-bellied Sapsuckers, Sphyrapicus varius, in east-central Mississippi. Phd Thesis. Mississippi State Univ. Mississippi State."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Eberhardt, L. S. 1994. Sap-feeding and its consequences for reproductive success and communication in Yellow-bellied Sapsuckers (Sphyrapicus varius). Phd Thesis. Univ. of Florida, Gainesville."	n		
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Gibbon, R. S. 1970. The breeding biology and food of the Yellow-bellied Sapsucker in New Brunswick. Master's Thesis. York Univ. Toronto, ON."	y	y	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Gibbon, R. S. 1970. The breeding biology and food of the Yellow-bellied Sapsucker in New Brunswick. Master's Thesis. York Univ. Toronto, ON."	y	y	entered
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Tate, Jr., J. 1973. Methods and annual sequence of foraging by the sapsucker. Auk 90:840-856."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Microhabitat For Foraging	"Williams, J. B. 1980. Foraging by Yellow-bellied Sapsuckers in central Illinois during spring migration. Wilson Bull. 92:519-523."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Williams, J. B. 1975. Habitat utilization by four species of woodpeckers in a central Illinois woodland. Am. Midl. Nat. 93:354-367."	y	n	
@@ -8366,7 +8366,7 @@ Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Sout
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Kilham, L. 1964. The relations of breeding Yellow-bellied Sapsuckers to wounded birches and other trees. Auk 81:520-527."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Ohman, J. H. and K. J. Kessler, Jr. 1964. Black bark as an indicator of bird peck defect in sugar maple. Res. Pap. LS-14. U.S. Dep. Agric., For. Serv., Lake States For. Exp. Sta. Marquette, MI."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Bolles, F. 1891. Yellow-bellied Woodpeckers and their uninvited guests. Auk 8:256-270."	y	n	
-Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Eberhardt, L. S. 2000. Use and selection of sap trees by Yellow-bellied Sapsuckers. Auk 117:41-51."	y	y	
+Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Eberhardt, L. S. 2000. Use and selection of sap trees by Yellow-bellied Sapsuckers. Auk 117:41-51."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Feeding	Food Capture And Consumption	"Rudolph, D. C., R. N. Conner, and R. R. Schaefer. 1991. Yellow-bellied Sapsuckers feeding at Red-cockaded Woodpecker resin wells. Wilson Bull. 103:122-123."	y	n	
 Yellow-bellied Sapsucker	Picidae	2002	Diet	Quantitative Analysis	"Short, L. L. 1982. Woodpeckers of the world. Delaware Mus. Nat. Hist., Monogr. Ser. 4, Greenville, DE."	n		
 Yellow-bellied Sapsucker	Picidae	2002	Food Selection And Storage		"Rushmore, F. M. 1969. Sapsucker damage varies with tree species and seasons. Res. Pap. NE-136. U.S. Dep. Agric., For. Serv., Northeast For. Exp. Sta. Upper Darby, PA."	y	n	
