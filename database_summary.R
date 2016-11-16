@@ -2,6 +2,7 @@
 
 library(dplyr)
 library(stringr)
+library(tidyr)
 
 #################
 simpleCap <- function(x) {
@@ -29,6 +30,13 @@ orders = filter(orders, FAMILY != "" & ORDER != "") %>%
 diet$Common_Name = sapply(diet$Common_Name, simpleCap)
 diet$Common_Name = gsub('Western Wood-Pewee', 'Western Wood-pewee', diet$Common_Name)
 
+# Gather different diet type columns into a single column
+diet2 = gather(diet, Diet_Type, Fraction_Diet, Fraction_Diet_By_Wt_or_Vol:Fraction_Diet_Unspecified) %>%
+  filter(!is.na(Fraction_Diet)) %>%
+  mutate(Diet_Type = replace(Diet_Type, Diet_Type == 'Fraction_Diet_By_Wt_or_Vol', 'Wt_or_Vol')) %>%
+  mutate(Diet_Type = replace(Diet_Type, Diet_Type == 'Fraction_Diet_By_Items', 'Items')) %>%
+  mutate(Diet_Type = replace(Diet_Type, Diet_Type == 'Fraction_Diet_Unspecified', 'Unspecified')) %>%
+  mutate(Diet_Type = replace(Diet_Type, Diet_Type == 'Fraction_Occurrence', 'Occurrence'))
 
 dietSummary = function(diet, refs) {
   species = unique(diet[, c('Common_Name', 'Family')])
@@ -62,46 +70,59 @@ dietSummary = function(diet, refs) {
 #   'Genus', or 'Scientific_Name' ('Species' will not work)
 speciesSummary = function(commonName, diet, by = 'Order') {
   if (!commonName %in% diet$Common_Name) {
-    print("No species with that name in the diet database.")
+    warning("No species with that name in the Diet Database.")
     return(NULL)
   }
+  if (!by %in% c('Kingdom', 'Phylum', 'Class', 'Order', 'Suborder', 
+                 'Family', 'Genus', 'Scientific_Name')) {
+    warning("Please specify one of the following taxonomic levels to aggregate prey data:\n   Kingdom, Phylum, Class, Order, Suborder, Family, Genus, or Scientific_Name")
+    return(NULL)
+  }
+  
   
   dietsp = subset(diet, Common_Name == commonName)
   numStudies = length(unique(dietsp$Source))
   numRecords = nrow(dietsp)
-  recordsPerYear = data.frame(table(dietsp$Observation_Year_Begin))
-  recordsPerRegion = data.frame(table(dietsp$Location_Region))
-  recordsPerType = data.frame(ByWtVol = sum(dietsp$Fraction_Diet_By_Wt_or_Vol > 0, na.rm = T),
-                        ByNumItems = sum(dietsp$Fraction_Diet_By_Items > 0, na.rm = T),
-                        ByOccurrence = sum(dietsp$Fraction_Occurrence > 0, na.rm = T),
-                        Unspecified = sum(dietsp$Fraction_Diet_Unspecified > 0, na.rm = T))
+  recordsPerYear = data.frame(count(dietsp, Observation_Year_Begin))
+  recordsPerRegion = data.frame(count(dietsp, Location_Region))
+  recordsPerType = data.frame(count(dietsp, Diet_Type))
   
-  # Still need to make sure aggregation of lower level data is occurring properly,
-  # and decide how to treat "" at the specified taxonomic level for summary.
-  # Aggregates by summing within study ('Source'), but in some cases a study
-  # has different subsets of data (e.g. different methods: fecal vs stomach)
-  # each of which will sum to 100%. Need to add a dietAnalysisID to distinguish
-  # separate analyses both within and between studies?
+  taxonLevel = paste('Prey_', by, sep = '')
+  
+  # If prey not identified down to taxon level specified, replace "" with
+  # "Unidentified XXX" where XXX is the lowest level specified (e.g. Unidentified Animalia)
+  dietprey = dietsp[, c('Prey_Kingdom', 'Prey_Phylum', 'Prey_Class',
+                        'Prey_Order', 'Prey_Suborder', 'Prey_Family',
+                        'Prey_Genus', 'Prey_Scientific_Name')]
+  
+  dietsp[, taxonLevel] = apply(dietprey, 1, function(x)
+    if(x[which(names(dietprey) == taxonLevel)] == "") { paste("Unid. ", x[max(which(x != ""))])} 
+    else { x[which(names(dietprey) == taxonLevel)] })
+  
   
   # Prey_Stage should only matter for distinguishing things at the Order level and 
   # below (e.g. distinguishing between Lepidoptera larvae and adults).
-  taxonLevel = paste('Prey_', by, sep = '')
   if (by %in% c('Order', 'Family', 'Genus', 'Scientific_Name')) {
     dietsp$Taxon = paste(dietsp[, taxonLevel], dietsp$Prey_Stage, sep = "")
   } else {
     dietsp$Taxon = dietsp[, taxonLevel]
   }
+  
+  studiesPerDietType = dietsp %>%
+    select(Source, Observation_Year_Begin, Item_Sample_Size, Diet_Type) %>%
+    distinct() %>%
+    count(Diet_Type)
+  
+  # Equal-weighted mean fraction of diet (all studies weighted equally despite
+  #  variation in sample size)
   preySummary = dietsp %>% 
-    group_by(Taxon, Source) %>%
-    summarize(By_Wt_Or_Vol = sum(Fraction_Diet_By_Wt_or_Vol, na.rm = T),
-              By_Items = sum(Fraction_Diet_By_Items, na.rm = T),
-              Occurrence = sum(Fraction_Occurrence, na.rm = T),
-              Unspecified = sum(Fraction_Diet_Unspecified, na.rm = T)) %>%
-    group_by(Taxon) %>%
-    summarize(By_Wt_Or_Vol = sum(By_Wt_Or_Vol, na.rm = T)/length(unique(dietsp$Source)),
-              By_Items = sum(By_Items, na.rm = T)/length(unique(dietsp$Source)),
-              Occurrence = sum(Occurrence, na.rm = T)/length(unique(dietsp$Source)),
-              Unspecified = sum(Unspecified, na.rm = T)/length(unique(dietsp$Source)))
+    group_by(Source, Observation_Year_Begin, Item_Sample_Size, Taxon, Diet_Type) %>%
+    summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
+    group_by(Diet_Type, Taxon) %>%
+    summarize(Sum_Diet2 = sum(Sum_Diet, na.rm = T)) %>%
+    left_join(studiesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
+    mutate(Frac_Diet = Sum_Diet2/n) %>%
+    select(Diet_Type, Taxon, Frac_Diet)
   
   return(list(numStudies = numStudies,
               numRecords = numRecords,
@@ -111,4 +132,24 @@ speciesSummary = function(commonName, diet, by = 'Order') {
               preySummary = preySummary))
 }
 
-dietSummary(diet, refs)
+dietSummary(diet2, refs)
+
+
+
+# TESTING
+
+# Create test dataset based on two studies of Bald eagle
+ret = diet2[grep("Retfalvi, L. 1970", diet2$Source),]
+mers = diet2[grep("Mersmann, T. J. 1989", diet2$Source),]
+dietsp = rbind(ret, mers) %>% 
+  select(Common_Name, Observation_Year_Begin, Location_Region,
+         Prey_Kingdom:Prey_Scientific_Name, Prey_Stage, 
+         Diet_Type, Fraction_Diet, Item_Sample_Size, Source)
+dietsp$Source[grep("Retfalvi", dietsp$Source)] = "Retfalvi 1970"
+dietsp$Source[grep("Mersmann", dietsp$Source)] = "Mersmann 1989"
+
+## Challenges for Species Diet Summary
+
+# Switch out Osteichthyes for Actinopterygii
+
+
