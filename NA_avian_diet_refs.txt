@@ -2062,54 +2062,54 @@ Anhinga	Anhingidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Ainley, D. 
 Anhinga	Anhingidae	2000	Anatomical Adaptations		"Forbes, W. A. 1882. On some points in the anatomy of the Indian Darter (Plotus melanogaster) and on the mechanism of the neck in the darters (Plotus), in connexion with their habits. Proc. Zool. Soc. (Lond.) 1882:208-212."			
 Anhinga	Anhingidae	2000	Anatomical Adaptations		"Siegel-Causey, D. 1988. Phylogeny of the Phalacrocoracidae. Condor 90:885-905."			
 Anhinga	Anhingidae	2000	Feeding	Main Foods Taken	"Owre, O. T. 1975. Notes on the food of some Guyana birds. Ardea 63:146-147."			
-Black Swift	Apodidae	2002	Feeding	Main Foods Taken	"Foerster, K. S. 1987. The distribution and breeding biology of the Black Swift Cypseloides niger in southern California. Master's Thesis. California State Univ. Long Beach, CA."			
-Black Swift	Apodidae	2002	Feeding	Main Foods Taken	"Mar????n, M. 1999b. Food, foraging, and timing of breeding of the Black Swift in California. Wilson Bull. 111:30-37."			
-Black Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Knorr, O. A. 1961. The geographical and ecological distribution of the Black Swift in Colorado. Wilson Bull. 73:155-170."			
-Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Bent, A. C. 1940. Life histories of North American cuckoos, goatsuckers, hummingbirds, and their allies. U.S. Natl. Mus. Bull. 176."			
-Black Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Rathbun, S. F. 1925. The Black Swift and its habits. Auk 42:497-516."			
-Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Stiles, F. G. and A. J. Negret. 1994. The nonbreeding distribution of the Black Swift: a clue from Colombia and unsolved problems. Condor 96:1091-1094."			
-Black Swift	Apodidae	2002	Feeding	Main Foods Taken	"Collins, C. T. and M. J. Landy. 1968. Breeding of the Black Swift in Veracruz, Mexico. Bull. S. California Acad. Sci. 67:266-268."			
-Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Mar????n, A. M. and F. G. Stiles. 1992. On the biology of five species of swifts (Apodidae: Cypseloidinae) in Costa Rica. Proc. West. Found. Vertebr. Zool. 4:287-351."			
-Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Davis, W. B. 1931. Black Swift notes. Murrelet 12:24."			
-Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Collins, C. T. 1998. Food delivery and chick provisioning in cypseloidine swifts. Bull. Br. Ornithol. Club 118:108-112."			
-Black Swift	Apodidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Michael, C. W. 1927. Black Swifts nesting in Yosemite National Park. Condor 29:89-97."			
-Black Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Udvardy, M. D. F. 1954. Summer movements of Black Swifts in reaction to weather. Condor 56:261-267."			
-Black Swift	Apodidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Legg, K. 1956. A sea-cave nest of the Black Swift. Condor 58:183-187."			
-Black Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Burleigh, T. D. 1929. Notes on the bird-life of northwestern Washington. Auk 46:502-519."			
-Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Zammuto, R. M. and E. C. Franks. 1979a. Chimney Swifts apparently feeding near surfaces of lawns and from trees. Inland Bird Banding News 51:72-73."			
-Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Mcatee, W. L. 1947. Torpidity in birds. Am. Midl. Nat. 38:191-213."			
-Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Sutton, G. M. 1928. Notes on the flight of the Chimney Swift. Cardinal 2:85-92."			
-Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Macbriar, Jr., W. N. 1963. Chimney Swifts gathering insects off the surface of a pond. Wilson Bull. 75:458."			
-Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Latham, R. 1920. Unusual habits of Chimney Swifts. Auk 37:132-133."			
-Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"George, W. G. 1971. Foliage-gleaning by Chimney Swifts. Auk 88:177."			
-Chimney Swift	Apodidae	2002	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. C. Nelson. 1951. American wildlife and plants. McGraw Hill Book Co. New York."			
-Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Dawson, W. R. and J. W. Hudson. 1970. Birds. Pages 223-310 in Comparative physiology of thermorgulation. Vol. 1 (Whittow, G. C., Ed.) Academic Press, New York."			
-Chimney Swift	Apodidae	2002	Feeding	Main Foods Taken	"Fischer, R. B. 1958. The breeding biology of the Chimney Swift, Chaetura pelagica (Linnaeus). N.Y. State Mus. Sci. Serv. Bull. 368:1-139."			
-Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Graber, R. R. and J. W. Graber. 1963. A comparative study of bird populations in Illinois, 1906-1909 and 1956-1958. Ill. Nat. Hist. Surv. Bull. 28:383-528."			
-Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Berger, A. J. 1961. Bird study. John Wiley and Sons, Inc. New York."			
-Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Ramsey, J. J. 1970. Temperature changes in Chimney Swifts (Chaetura pelagica) at lowered environmental temperatures. Condor 72:225-229."			
-Chimney Swift	Apodidae	2002	Feeding	Food Capture And Consumption	"Cink, C. L. and R. L. Boyd. 1979. Chimney Swift with laterally displaced mandibles. Bull. Kansas Ornithol. Soc. 30:20-21."			
-Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Robins, J. D. 1970. Feeding behavior of several aerial foragers after an extended rainy period. Trans. Kans. Acad. Sci. 73:434-438."			
-Chimney Swift	Apodidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Duke, G. E. 1977. Pellet ejestion by a captive Chimney Swift (Chaetura pelagica). Auk 94:385."			
-Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Cottam, C. 1932. Nocturnal habits of the Chimney Swift. Auk 49:479-481."			
-Vaux's Swift	Apodidae	1-Feb-07	Feeding	Microhabitat For Foraging	"Bull, E. L. and R. C. Beckwith. 1993. Diet and foraging behavior of Vaux's Swifts in northeastern Oregon. Condor 96:1016-1."			
-Vaux's Swift	Apodidae	1-Feb-07	Diet	Major Food Items	"Davis, W. B. 1937. A Vaux Swift and its young. Condor 39:222-223."			
-Vaux's Swift	Apodidae	1-Feb-07	Diet	Major Food Items	"Huey, L. M. 1960. Notes on Vaux and Chimney Swifts. Condor 62:483."			
-Vaux's Swift	Apodidae	1-Feb-07	Diet	Major Food Items	"Howell, T. R. 1957. Birds of a second-growth rain forest area of Nicaragua. Condor 59:73-111."			
-Vaux's Swift	Apodidae	1-Feb-07	Metabolism And Temperature Regulation		"Stager, K. E. 1965. An exposed nocturnal roost of migrant Vaux Swifts. Condor 67:81-82."			
-White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Mailliard, J. 1902. An unusual sight. Condor 4:95."			
-White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Alden, S. and G. Mills. 1976. White-throated Swifts following farm machinery. Wilson Bull. 88:675."			
-White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Garrett, K. and J. Dunn. 1981. Birds of southern California. Los Angeles Audubon Soc. Los Angeles, CA."			
-White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."			
-White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Ryan, T. P. 1996. Activity Patterns of the White-throated Swift in Southern California. Unpubl. Master's Thesis. California State Univ. Long Beach."			
-White-throated Swift	Apodidae	2000	Feeding	Food Capture And Consumption	"Kingery, H. E. 1978. Mountain West region: pigeons through hummingbirds. Am. Birds 32:382."			
-White-throated Swift	Apodidae	2000	Feeding	Food Capture And Consumption	"Collins, C. T. 1971b. A probable swift-cactus collision. Calif. Birds 2:101."			
-White-throated Swift	Apodidae	2000	Diet	Major Food Items	"Bailey, F. M. 1907. White-throated Swifts at Capistrano. Condor 9:169-172."			
-White-throated Swift	Apodidae	2000	Diet	Major Food Items	"Bent, A. C. 1940. Life histories of North American cuckoos, goatsuckers, hummingbirds, and their allies. U.S. Natl. Mus. Bull. 176:1-506."			
-White-throated Swift	Apodidae	2000	Metabolism And Temperature Regulation		"Bartholomew, G. A., T. R. Howell, and T. Cade. 1957. Torpidity in the White-throated Swift, Anna Hummingbird, and Poorwill. Condor 59:145-155."			
-White-throated Swift	Apodidae	2000	Metabolism And Temperature Regulation		"Hanna, W. C. 1917. Further notes on the White-throated Swifts of Slover Mountain. Condor 19:3-8."			
-White-throated Swift	Apodidae	2000	Metabolism And Temperature Regulation		"De Sante, D. and M. Perrone. 1968. Regional reports: winter season, middle Pacific region. Audubon Field Notes 22:474."			
-White-throated Swift	Apodidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Small, A. 1994. California birds: their status and distribution. Ibis Publ. Co. Vista, CA."			
+Black Swift	Apodidae	2002	Feeding	Main Foods Taken	"Foerster, K. S. 1987. The distribution and breeding biology of the Black Swift Cypseloides niger in southern California. Master's Thesis. California State Univ. Long Beach, CA."	n	n	
+Black Swift	Apodidae	2002	Feeding	Main Foods Taken	"Marin, M. 1999b. Food, foraging, and timing of breeding of the Black Swift in California. Wilson Bull. 111:30-37."	y	y	
+Black Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Knorr, O. A. 1961. The geographical and ecological distribution of the Black Swift in Colorado. Wilson Bull. 73:155-170."	y	n	
+Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Bent, A. C. 1940. Life histories of North American cuckoos, goatsuckers, hummingbirds, and their allies. U.S. Natl. Mus. Bull. 176."	y	n	
+Black Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Rathbun, S. F. 1925. The Black Swift and its habits. Auk 42:497-516."	y	y	
+Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Stiles, F. G. and A. J. Negret. 1994. The nonbreeding distribution of the Black Swift: a clue from Colombia and unsolved problems. Condor 96:1091-1094."	y	n	
+Black Swift	Apodidae	2002	Feeding	Main Foods Taken	"Collins, C. T. and M. J. Landy. 1968. Breeding of the Black Swift in Veracruz, Mexico. Bull. S. California Acad. Sci. 67:266-268."	n	n	
+Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Marin, A. M. and F. G. Stiles. 1992. On the biology of five species of swifts (Apodidae: Cypseloidinae) in Costa Rica. Proc. West. Found. Vertebr. Zool. 4:287-351."	n	n	
+Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Davis, W. B. 1931. Black Swift notes. Murrelet 12:24."	y	n	
+Black Swift	Apodidae	2002	Diet	Quantitative Analysis	"Collins, C. T. 1998. Food delivery and chick provisioning in cypseloidine swifts. Bull. Br. Ornithol. Club 118:108-112."	y	n	
+Black Swift	Apodidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Michael, C. W. 1927. Black Swifts nesting in Yosemite National Park. Condor 29:89-97."	y	n	
+Black Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Udvardy, M. D. F. 1954. Summer movements of Black Swifts in relation to weather conditions. Condor 56:261-267."	y	n	
+Black Swift	Apodidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Legg, K. 1956. A sea-cave nest of the Black Swift. Condor 58:183-187."	y	n	
+Black Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Burleigh, T. D. 1929. Notes on the bird-life of northwestern Washington. Auk 46:502-519."	y	n	
+Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Zammuto, R. M. and E. C. Franks. 1979a. Chimney Swifts apparently feeding near surfaces of lawns and from trees. Inland Bird Banding News 51:72-73."	n	n	
+Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Mcatee, W. L. 1947. Torpidity in birds. Am. Midl. Nat. 38:191-213."	y	n	
+Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Sutton, G. M. 1928. Notes on the flight of the Chimney Swift. Cardinal 2:85-92."	n	n	
+Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Macbriar, Jr., W. N. 1963. Chimney Swifts gathering insects off the surface of a pond. Wilson Bull. 75:458."	y	n	
+Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Latham, R. 1920. Unusual habits of Chimney Swifts. Auk 37:132-133."	y	n	
+Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"George, W. G. 1971. Foliage-gleaning by Chimney Swifts. Auk 88:177."	y	n	
+Chimney Swift	Apodidae	2002	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. C. Nelson. 1951. American wildlife and plants. McGraw Hill Book Co. New York."	n	n	
+Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Dawson, W. R. and J. W. Hudson. 1970. Birds. Pages 223-310 in Comparative physiology of thermoregulation. Vol. 1 (Whittow, G. C., Ed.) Academic Press, New York."	n	n	
+Chimney Swift	Apodidae	2002	Feeding	Main Foods Taken	"Fischer, R. B. 1958. The breeding biology of the Chimney Swift, Chaetura pelagica (Linnaeus). N.Y. State Mus. Sci. Serv. Bull. 368:1-139."	n	n	
+Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Graber, R. R. and J. W. Graber. 1963. A comparative study of bird populations in Illinois, 1906-1909 and 1956-1958. Ill. Nat. Hist. Surv. Bull. 28:383-528."	n	n	
+Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Berger, A. J. 1961. Bird study. John Wiley and Sons, Inc. New York."	y	n	
+Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Ramsey, J. J. 1970. Temperature changes in Chimney Swifts (Chaetura pelagica) at lowered environmental temperatures. Condor 72:225-229."	y	n	
+Chimney Swift	Apodidae	2002	Feeding	Food Capture And Consumption	"Cink, C. L. and R. L. Boyd. 1979. Chimney Swift with laterally displaced mandibles. Bull. Kansas Ornithol. Soc. 30:20-21."	n	n	
+Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Robins, J. D. 1970. Feeding behavior of several aerial foragers after an extended rainy period. Trans. Kans. Acad. Sci. 73:434-438."	y	n	
+Chimney Swift	Apodidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Duke, G. E. 1977. Pellet ejestion by a captive Chimney Swift (Chaetura pelagica). Auk 94:385."	y	n	
+Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Cottam, C. 1932. Nocturnal habits of the Chimney Swift. Auk 49:479-481."	y	n	
+Vaux's Swift	Apodidae	1-Feb-07	Feeding	Microhabitat For Foraging	"Bull, E. L. and R. C. Beckwith. 1993. Diet and foraging behavior of Vaux's Swifts in northeastern Oregon. Condor 96:1016-1."	y	y	
+Vaux's Swift	Apodidae	1-Feb-07	Diet	Major Food Items	"Davis, W. B. 1937. A Vaux Swift and its young. Condor 39:222-223."	n	n	
+Vaux's Swift	Apodidae	1-Feb-07	Diet	Major Food Items	"Huey, L. M. 1960. Notes on Vaux and Chimney Swifts. Condor 62:483."	y	n	
+Vaux's Swift	Apodidae	1-Feb-07	Diet	Major Food Items	"Howell, T. R. 1957. Birds of a second-growth rain forest area of Nicaragua. Condor 59:73-111."	y	n	
+Vaux's Swift	Apodidae	1-Feb-07	Metabolism And Temperature Regulation		"Stager, K. E. 1965. An exposed nocturnal roost of migrant Vaux Swifts. Condor 67:81-82."	y	n	
+White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Mailliard, J. 1902. An unusual sight. Condor 4:95."	n	n	
+White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Alden, S. and G. Mills. 1976. White-throated Swifts following farm machinery. Wilson Bull. 88:675."	y	n	
+White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Garrett, K. and J. Dunn. 1981. Birds of southern California. Los Angeles Audubon Soc. Los Angeles, CA."	n	n	
+White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."	y	n	
+White-throated Swift	Apodidae	2000	Feeding	Microhabitat For Foraging	"Ryan, T. P. 1996. Activity Patterns of the White-throated Swift in Southern California. Unpubl. Master's Thesis. California State Univ. Long Beach."	n	n	
+White-throated Swift	Apodidae	2000	Feeding	Food Capture And Consumption	"Kingery, H. E. 1978. Mountain West region: pigeons through hummingbirds. Am. Birds 32:382."	n	n	
+White-throated Swift	Apodidae	2000	Feeding	Food Capture And Consumption	"Collins, C. T. 1971b. A probable swift-cactus collision. Calif. Birds 2:101."	y	n	
+White-throated Swift	Apodidae	2000	Diet	Major Food Items	"Bailey, F. M. 1907. White-throated Swifts at Capistrano. Condor 9:169-172."	y	n	
+White-throated Swift	Apodidae	2000	Diet	Major Food Items	"Bent, A. C. 1940. Life histories of North American cuckoos, goatsuckers, hummingbirds, and their allies. U.S. Natl. Mus. Bull. 176:1-506."	y	n	
+White-throated Swift	Apodidae	2000	Metabolism And Temperature Regulation		"Bartholomew, G. A., T. R. Howell, and T. Cade. 1957. Torpidity in the White-throated Swift, Anna Hummingbird, and Poorwill. Condor 59:145-155."	y	n	
+White-throated Swift	Apodidae	2000	Metabolism And Temperature Regulation		"Hanna, W. C. 1917. Further notes on the White-throated Swifts of Slover Mountain. Condor 19:3-8."	y	n	
+White-throated Swift	Apodidae	2000	Metabolism And Temperature Regulation		"De Sante, D. and M. Perrone. 1968. Regional reports: winter season, middle Pacific region. Audubon Field Notes 22:474."	n	n	
+White-throated Swift	Apodidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Small, A. 1994. California birds: their status and distribution. Ibis Publ. Co. Vista, CA."	n	n	
 Limpkin	Aramidae	2002	Diet	Major Food Items	"Bryan, D. C. 1981. Territoriality and pair bonding in the Limpkin (Aramus guarauna). Master's Thesis. Florida State Univ. Tallahassee."			
 Limpkin	Aramidae	2002	Feeding	Microhabitat For Foraging	"Ingalls, E. A. 1972. Aspects of the ethology of Limpkins (Aramus guarauna). Master's Thesis. Univ. of South Florida, Tampa."			
 Limpkin	Aramidae	2002	Feeding	Food Capture And Consumption	"Harper, F. 1936. The distribution of the Limpkin and its staple food. Oriole 1:21-23."			
