@@ -11,10 +11,10 @@ Note that Families for which I know that data remain to be entered are highlight
 --Cathartidae (3 species to enter)  
 
 ### Ciconiiformes  
---Ciconiidae (1 species to enter)  
+--Ciconiidae
 
 ### Columbiformes  
---Columbidae (9 species to enter)  
+--Columbidae
 
 ### Cuculiformes
 --Cuculidae   
@@ -52,7 +52,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Vireonidae  
 
 ### Piciformes  
---Picidae (finished?)  
+--Picidae (some sources unavailable online)
 
 ### Strigiformes
 --Strigidae (?)  
