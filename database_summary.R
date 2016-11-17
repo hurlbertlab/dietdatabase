@@ -94,11 +94,10 @@ speciesSummary = function(commonName, diet, by = 'Order') {
   dietprey = dietsp[, c('Prey_Kingdom', 'Prey_Phylum', 'Prey_Class',
                         'Prey_Order', 'Prey_Suborder', 'Prey_Family',
                         'Prey_Genus', 'Prey_Scientific_Name')]
-  
+  level = which(names(dietprey) == taxonLevel)
   dietsp[, taxonLevel] = apply(dietprey, 1, function(x)
-    if(x[which(names(dietprey) == taxonLevel)] == "") { paste("Unid.", x[max(which(x != ""))])} 
-    else { x[which(names(dietprey) == taxonLevel)] })
-  
+    if(x[level] == "") { paste("Unid.", x[max(which(x != "")[which(x != "") < level])])} 
+    else { x[level] })
   
   # Prey_Stage should only matter for distinguishing things at the Order level and 
   # below (e.g. distinguishing between Lepidoptera larvae and adults).
@@ -148,9 +147,4 @@ dietsp = rbind(ret, mers) %>%
          Diet_Type, Fraction_Diet, Item_Sample_Size, Source)
 dietsp$Source[grep("Retfalvi", dietsp$Source)] = "Retfalvi 1970"
 dietsp$Source[grep("Mersmann", dietsp$Source)] = "Mersmann 1989"
-
-## Challenges for Species Diet Summary
-
-# Switch out Osteichthyes for Actinopterygii
-
 
