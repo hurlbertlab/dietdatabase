@@ -477,12 +477,12 @@ Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Bir
 Rough-legged Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Sprunt, Jr.. 1940. Auk 57 564-565"	n		unavailable
 Sharp-shinned Hawk	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above
 Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Peeters, H. J. 1963. Two observations of avian predation. Wilson Bull. 75:274."	y	n	
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Page, G. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:7383."	y	y	not entered yet
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Page, G. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:7383."	y	y	entered
 Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Kilham, L. 1958. Repeated attacks by a Sharp-shinned Hawk on a Pileated Woodpecker. Condor 60:141-142."	y	n	
 Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Meyer, K. D. 1987. Sexual size dimorphism and the behavioral ecology of breeding and wintering Sharp-shinned Hawks. Phd Thesis. Univ. of North Carolina, Chapel Hill."	y	n	
 Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Stone, W. 1937. Bird Studies at Old Cape May. Delaware Valley Ornithol. Club, Philadelphia, PA."	n		unavailable
 Sharp-shinned Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Dunn, E. H. and D. L. Tessaglia. 1994. Predation on birds at feeders in winter. J. Field Ornithol. 65:8-16."	y	n	
-Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Quinn, M. S. 1991. Nest site and prey of a pair of Sharp-shinned Hawks in Alberta. J. Raptor Res. 25:18-19."	y	y	not entered yet
+Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Quinn, M. S. 1991. Nest site and prey of a pair of Sharp-shinned Hawks in Alberta. J. Raptor Res. 25:18-19."	y	y	entered
 Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Palmer, R. S. 1988. Handbook of North American birds. Vol. 4. Yale Univ. Press, New Haven, CT."	n		unavailable
 Sharp-shinned Hawk	Accipitridae	2000	Diet	Major Food Items	"Dunning, Jr., J. B. 1984. Body weights of 686 species of North American birds. West. Bird Band. Assoc Monogr. no. 1."	n		unavailable
 Sharp-shinned Hawk	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Storer, R. W. 1966. Sexual dimorphism and food habits in three North American accipiters. Auk 83:423-436."	y	y	not entered yet
