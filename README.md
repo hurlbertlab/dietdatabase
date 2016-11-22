@@ -147,7 +147,10 @@ account was published or last revised (the year in the "revised" column).
 ###Web of Science search
 Go to [Web of Science](http://apps.webofknowledge.com) and in the Topic search box enter:  
 
-"[common name] AND (diet OR foraging OR food)", replacing [common name] with the actual common name of the species you are searching.
+```
+"[common name]" AND (diet OR foraging OR food)
+```
+replacing [common name] with the actual common name of the species you are searching.
 
 Click on +Add Another Field, and select Year Published. Search all years since the last revised date for that species as listed in the 
 'NA_avian_diet_refs' table.  
