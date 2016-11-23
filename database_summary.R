@@ -81,7 +81,6 @@ speciesSummary = function(commonName, diet, by = 'Order') {
     return(NULL)
   }
   
-  
   dietsp = subset(diet, Common_Name == commonName)
   numStudies = length(unique(dietsp$Source))
   Studies = unique(dietsp$Source)
@@ -112,19 +111,19 @@ speciesSummary = function(commonName, diet, by = 'Order') {
     dietsp$Taxon = dietsp[, taxonLevel]
   }
   
-  studiesPerDietType = dietsp %>%
-    select(Source, Observation_Year_Begin, Observation_Month_Begin, Item_Sample_Size, Diet_Type) %>%
+  analysesPerDietType = dietsp %>%
+    select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Item_Sample_Size, Diet_Type) %>%
     distinct() %>%
     count(Diet_Type)
   
   # Equal-weighted mean fraction of diet (all studies weighted equally despite
   #  variation in sample size)
   preySummary = dietsp %>% 
-    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Item_Sample_Size, Taxon, Diet_Type) %>%
+    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Item_Sample_Size, Taxon, Diet_Type) %>%
     summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
     group_by(Diet_Type, Taxon) %>%
     summarize(Sum_Diet2 = sum(Sum_Diet, na.rm = T)) %>%
-    left_join(studiesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
+    left_join(analysesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
     mutate(Frac_Diet = Sum_Diet2/n) %>%
     select(Diet_Type, Taxon, Frac_Diet) %>%
     arrange(Diet_Type, desc(Frac_Diet))
@@ -135,7 +134,7 @@ speciesSummary = function(commonName, diet, by = 'Order') {
               recordsPerYear = recordsPerYear,
               recordsPerRegion = recordsPerRegion,
               recordsPerType = recordsPerType,
-              studiesPerDietType = data.frame(studiesPerDietType),
+              analysesPerDietType = data.frame(analysesPerDietType),
               preySummary = data.frame(preySummary)))
 }
 
