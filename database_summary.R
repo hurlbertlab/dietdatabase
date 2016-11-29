@@ -44,7 +44,7 @@ dietSummary = function(diet, refs) {
   numSpecies = nrow(species)
   numStudies = length(unique(diet$Source))
   numRecords = nrow(diet)
-  recordsPerSpecies = data.frame(table(diet$Common_Name))
+  recordsPerSpecies = data.frame(count(diet, Common_Name))
   spCountByFamily = data.frame(table(species$Family))
   noDataSpecies = subset(allspecies, !common_name %in% species$Common_Name)
   noDataSpCountByFamily = data.frame(table(noDataSpecies$family))
@@ -66,7 +66,9 @@ dietSummary = function(diet, refs) {
 }
 
 
-# Argument "by" may specify 'Kingdom', 'Phylum', 'Class', 'Order', 'Family',
+# For a particular bird species, summarize diet database info at a specified taxonomic level
+
+# Argument "by" may specify the prey's 'Kingdom', 'Phylum', 'Class', 'Order', 'Family',
 #   'Genus', or 'Scientific_Name' ('Species' will not work)
 speciesSummary = function(commonName, diet, by = 'Order') {
   if (!commonName %in% diet$Common_Name) {
@@ -79,9 +81,9 @@ speciesSummary = function(commonName, diet, by = 'Order') {
     return(NULL)
   }
   
-  
   dietsp = subset(diet, Common_Name == commonName)
   numStudies = length(unique(dietsp$Source))
+  Studies = unique(dietsp$Source)
   numRecords = nrow(dietsp)
   recordsPerYear = data.frame(count(dietsp, Observation_Year_Begin))
   recordsPerRegion = data.frame(count(dietsp, Location_Region))
@@ -102,35 +104,41 @@ speciesSummary = function(commonName, diet, by = 'Order') {
   # Prey_Stage should only matter for distinguishing things at the Order level and 
   # below (e.g. distinguishing between Lepidoptera larvae and adults).
   if (by %in% c('Order', 'Family', 'Genus', 'Scientific_Name')) {
-    dietsp$Taxon = paste(dietsp[, taxonLevel], dietsp$Prey_Stage, sep = "")
+    stage = dietsp$Prey_Stage
+    stage[is.na(stage)] = ""
+    dietsp$Taxon = paste(dietsp[, taxonLevel], stage)
   } else {
     dietsp$Taxon = dietsp[, taxonLevel]
   }
   
-  studiesPerDietType = dietsp %>%
-    select(Source, Observation_Year_Begin, Item_Sample_Size, Diet_Type) %>%
+  analysesPerDietType = dietsp %>%
+    select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Item_Sample_Size, Diet_Type) %>%
     distinct() %>%
     count(Diet_Type)
   
   # Equal-weighted mean fraction of diet (all studies weighted equally despite
   #  variation in sample size)
   preySummary = dietsp %>% 
-    group_by(Source, Observation_Year_Begin, Item_Sample_Size, Taxon, Diet_Type) %>%
+    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Item_Sample_Size, Taxon, Diet_Type) %>%
     summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
     group_by(Diet_Type, Taxon) %>%
     summarize(Sum_Diet2 = sum(Sum_Diet, na.rm = T)) %>%
-    left_join(studiesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
+    left_join(analysesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
     mutate(Frac_Diet = Sum_Diet2/n) %>%
     select(Diet_Type, Taxon, Frac_Diet) %>%
     arrange(Diet_Type, desc(Frac_Diet))
   
   return(list(numStudies = numStudies,
+              Studies = Studies,
               numRecords = numRecords,
               recordsPerYear = recordsPerYear,
               recordsPerRegion = recordsPerRegion,
               recordsPerType = recordsPerType,
-              preySummary = preySummary))
+              analysesPerDietType = data.frame(analysesPerDietType),
+              preySummary = data.frame(preySummary)))
 }
+
+
 
 dietSummary(diet2, refs)
 
