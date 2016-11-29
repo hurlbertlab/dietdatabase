@@ -8,6 +8,7 @@ Unidentified yes/no
 
 #Beal 1898
 Data from yellow-billed and black-billed cuckoos
+Diet data sums to 2
 
 
 
