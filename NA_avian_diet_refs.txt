@@ -546,7 +546,7 @@ Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Howell, A. H. 1932. Flori
 Snail Kite	Accipitridae	1995	Feeding	Main Foods Taken	"Beissinger, S. R. 1983. Hunting behavior, prey selection, and energetics of Snail Kite in Guyana: consumer choice by a specialist. Auk 100:84-92."	y	y	
 Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Dunkle. 1977. Auk 94 65-71	n		unavailable
 Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Gilmer and Stewart. 1984. Condor 86 12-18	n		unavailable
-Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Fitzner. 1978. Behavioral Ecology of Swainson's Hawk in Se. Was. Was. State University, Pullman, Ph.D diss."	y	y	not entered yet
+Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Fitzner. 1978. Behavioral Ecology of Swainson's Hawk in Se. Was. Was. State University, Pullman, Ph.D diss."	y	y	entered
 Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			Thiollay. 1981. Gerfaut 71 575-610	n		unavailable
 Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Ridgway. 1877. U.S. Geol. Expl. 40th Parallel….4 pt. 3 Ornithology, pp.303-669, Washington, D.C."	n		unavailable
 Swainson's Hawk	Accipitridae	from Palmer. 1988. Handbook of North American Birds			"Cameron. 1913. Auk 30 167-176, 381-394"	n		unavailable
