@@ -143,16 +143,3 @@ speciesSummary = function(commonName, diet, by = 'Order') {
 dietSummary(diet2, refs)
 
 
-
-# TESTING
-
-# Create test dataset based on two studies of Bald eagle
-ret = diet2[grep("Retfalvi, L. 1970", diet2$Source),]
-mers = diet2[grep("Mersmann, T. J. 1989", diet2$Source),]
-dietsp = rbind(ret, mers) %>% 
-  select(Common_Name, Observation_Year_Begin, Location_Region,
-         Prey_Kingdom:Prey_Scientific_Name, Prey_Stage, 
-         Diet_Type, Fraction_Diet, Item_Sample_Size, Source)
-dietsp$Source[grep("Retfalvi", dietsp$Source)] = "Retfalvi 1970"
-dietsp$Source[grep("Mersmann", dietsp$Source)] = "Mersmann 1989"
-
