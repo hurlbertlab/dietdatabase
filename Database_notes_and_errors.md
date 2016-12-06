@@ -38,7 +38,10 @@ Error Checking the Diet Database
  Habitat descriptions need to be standardized
 
 # Carlisle 2012
- Data includes fractions of diet by volume by both order and family, so data for just orders needs to be removed for data to sum to 1; continue with Townsend's warbler
+ Data includes frequency by item for family when available; not all frequencies for each bird species add up to 1 in original data 
+ 
+
+
  
 
 
