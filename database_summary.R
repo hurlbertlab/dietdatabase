@@ -38,7 +38,7 @@ diet2 = gather(diet, Diet_Type, Fraction_Diet, Fraction_Diet_By_Wt_or_Vol:Fracti
   mutate(Diet_Type = replace(Diet_Type, Diet_Type == 'Fraction_Diet_Unspecified', 'Unspecified')) %>%
   mutate(Diet_Type = replace(Diet_Type, Diet_Type == 'Fraction_Occurrence', 'Occurrence'))
 
-dietSummary = function(diet, refs) {
+dbSummary = function(diet, refs) {
   species = unique(diet[, c('Common_Name', 'Family')])
   allspecies = unique(refs[, c('common_name', 'family')])
   numSpecies = nrow(species)
@@ -140,6 +140,6 @@ speciesSummary = function(commonName, diet, by = 'Order') {
 
 
 
-dietSummary(diet2, refs)
+dbSummary(diet2, refs)
 
-
+speciesSummary('Bald Eagle', diet2, by = 'Class')
