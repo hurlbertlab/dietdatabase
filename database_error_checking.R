@@ -18,7 +18,7 @@ outlier = function(field, min, max) {
 }
 
 
-check = function(diet) {
+outlierCheck = function(diet) {
   out = list(
     long = outlier(diet$Longitude_dd, -180, 180),
     
@@ -50,14 +50,19 @@ check = function(diet) {
     
     bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 1000)
     
-    #season = count(diet, Observation_Season),
-    
-    #region = count(diet, Location_Region), 
-    
-    #location = count(diet, Location_Specific),
-    
-    #habitat = count(diet, Habitat_type)
   )
     
   return(out)
 }
+
+# Checks for unusual values that might get replaced
+
+season = count(diet, Observation_Season)
+
+region = count(diet, Location_Region)
+
+location = count(diet, Location_Specific)
+
+habitat = count(diet, Habitat_type)
+
+
