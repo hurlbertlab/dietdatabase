@@ -1,0 +1,127 @@
+# Data summaries of the Avian Diet Database
+
+library(dplyr)
+library(stringr)
+library(tidyr)
+
+#################
+
+dbSummary = function(diet, refs) {
+  species = unique(diet[, c('Common_Name', 'Family')])
+  allspecies = unique(refs[, c('common_name', 'family')])
+  numSpecies = nrow(species)
+  numStudies = length(unique(diet$Source))
+  numRecords = nrow(diet)
+  recordsPerSpecies = data.frame(count(diet, Common_Name))
+  spCountByFamily = data.frame(table(species$Family))
+  noDataSpecies = subset(allspecies, !common_name %in% species$Common_Name)
+  noDataSpCountByFamily = data.frame(table(noDataSpecies$family))
+  spCountByFamily2 = merge(spCountByFamily, noDataSpCountByFamily, by = "Var1", all = T)
+  names(spCountByFamily2) = c('Family', 'SpeciesWithData', 'WithoutData')
+  spCountByFamily2$Family = as.character(spCountByFamily2$Family)
+  spCountByFamily2$WithoutData[is.na(spCountByFamily2$WithoutData)] = 0
+  spCountByFamily2 = spCountByFamily2[spCountByFamily2$Family != "", ]
+  spCountByFamily3 = spCountByFamily2 %>% 
+    inner_join(orders, by = 'Family') %>%
+    select(ORDER, Family, SpeciesWithData, WithoutData) %>%
+    arrange(ORDER)
+  spCountByFamily3$SpeciesWithData[is.na(spCountByFamily3$SpeciesWithData)] = 0
+  return(list(numRecords=numRecords,
+              numSpecies=numSpecies, 
+              numStudies=numStudies, 
+              recordsPerSpecies=recordsPerSpecies,
+              speciesPerFamily = spCountByFamily3))
+}
+
+
+# For a particular bird species, summarize diet database info at a specified taxonomic level
+
+# Argument "by" may specify the prey's 'Kingdom', 'Phylum', 'Class', 'Order', 'Family',
+#   'Genus', or 'Scientific_Name' ('Species' will not work)
+speciesSummary = function(commonName, diet, by = 'Order') {
+  if (!commonName %in% diet$Common_Name) {
+    warning("No species with that name in the Diet Database.")
+    return(NULL)
+  }
+  if (!by %in% c('Kingdom', 'Phylum', 'Class', 'Order', 'Suborder', 
+                 'Family', 'Genus', 'Scientific_Name')) {
+    warning("Please specify one of the following taxonomic levels to aggregate prey data:\n   Kingdom, Phylum, Class, Order, Suborder, Family, Genus, or Scientific_Name")
+    return(NULL)
+  }
+  
+  dietsp = subset(diet, Common_Name == commonName)
+  numStudies = length(unique(dietsp$Source))
+  Studies = unique(dietsp$Source)
+  numRecords = nrow(dietsp)
+  recordsPerYear = data.frame(count(dietsp, Observation_Year_Begin))
+  recordsPerRegion = data.frame(count(dietsp, Location_Region))
+  recordsPerType = data.frame(count(dietsp, Diet_Type))
+  
+  taxonLevel = paste('Prey_', by, sep = '')
+  
+  # If prey not identified down to taxon level specified, replace "" with
+  # "Unidentified XXX" where XXX is the lowest level specified (e.g. Unidentified Animalia)
+  dietprey = dietsp[, c('Prey_Kingdom', 'Prey_Phylum', 'Prey_Class',
+                        'Prey_Order', 'Prey_Suborder', 'Prey_Family',
+                        'Prey_Genus', 'Prey_Scientific_Name')]
+  level = which(names(dietprey) == taxonLevel)
+  dietsp[, taxonLevel] = apply(dietprey, 1, function(x)
+    if(x[level] == "") { paste("Unid.", x[max(which(x != "")[which(x != "") < level])])} 
+    else { x[level] })
+  
+  # Prey_Stage should only matter for distinguishing things at the Order level and 
+  # below (e.g. distinguishing between Lepidoptera larvae and adults).
+  if (by %in% c('Order', 'Family', 'Genus', 'Scientific_Name')) {
+    stage = dietsp$Prey_Stage
+    stage[is.na(stage)] = ""
+    dietsp$Taxon = paste(dietsp[, taxonLevel], stage)
+  } else {
+    dietsp$Taxon = dietsp[, taxonLevel]
+  }
+  
+  analysesPerDietType = dietsp %>%
+    select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+           Habitat_type, Item_Sample_Size, Diet_Type) %>%
+    distinct() %>%
+    count(Diet_Type)
+  
+  # Equal-weighted mean fraction of diet (all studies weighted equally despite
+  #  variation in sample size)
+  preySummary = dietsp %>% 
+    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Item_Sample_Size, Taxon, Diet_Type) %>%
+    summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
+    group_by(Diet_Type, Taxon) %>%
+    summarize(Sum_Diet2 = sum(Sum_Diet, na.rm = T)) %>%
+    left_join(analysesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
+    mutate(Frac_Diet = Sum_Diet2/n) %>%
+    select(Diet_Type, Taxon, Frac_Diet) %>%
+    arrange(Diet_Type, desc(Frac_Diet))
+  
+  return(list(numStudies = numStudies,
+              Studies = Studies,
+              numRecords = numRecords,
+              recordsPerYear = recordsPerYear,
+              recordsPerRegion = recordsPerRegion,
+              recordsPerType = recordsPerType,
+              analysesPerDietType = data.frame(analysesPerDietType),
+              preySummary = data.frame(preySummary)))
+}
+
+
+# Read in diet database, references, and eBird taxonomy tables
+diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                  fill=T, stringsAsFactors = F)
+refs = read.table('NA_avian_diet_refs.txt', header=T, sep = '\t', quote = '\"',
+                  fill=T, stringsAsFactors = F)
+
+# Make sure to grab the most recent eBird table in the directory
+taxfiles = file.info(list.files()[grep('eBird', list.files())])
+taxfiles$name = row.names(taxfiles)
+tax = read.table(taxfiles$name[taxfiles$mtime == max(taxfiles$mtime)], header = T,
+                 sep = ',', quote = '\"', stringsAsFactors = F)
+orders = unique(tax[, c('ORDER', 'FAMILY')])
+orders$Family = word(orders$FAMILY, 1)
+orders = filter(orders, FAMILY != "" & ORDER != "") %>%
+  select(ORDER, Family)
+
+
