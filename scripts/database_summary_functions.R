@@ -141,13 +141,7 @@ outlierCheck = function(diet) {
     
     year_end = outlier(diet$Observation_Year_End, 0, 2017),
     
-    diet_wt = outlier(diet$Fraction_Diet_By_Wt_or_Vol, 0, 1),
-    
-    diet_items = outlier(diet$Fraction_Diet_By_Items, 0, 1),
-    
-    diet_occ = outlier(diet$Fraction_Occurrence, 0, 1),
-    
-    diet_unk = outlier(diet$Fraction_Diet_Unspecified, 0, 1),
+    frac_diet = outlier(diet$Fraction_Diet, 0, 1),
     
     item_sampsize = outlier(diet$Item_Sample_Size, 0, 10000),
     
