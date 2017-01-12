@@ -318,25 +318,17 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>Common name of the prey item if provided.</td>
   </tr>
   <tr>
-    <td>Fraction_Diet_By_Wt_or_Vol</td>
-    <td>Fraction of the diet as measured by weight or volume. E.g., all beetles in the stomach contents were weighed, and this
-    value was divided by the mass of all stomach contents. Convert all %s to fractions between 0 and 1.</td>
+    <td>Fraction_Diet</td>
+    <td>Fraction of the bird's diet made up by this prey item. Convert all %s to fractions between 0 and 1.</td>
   </tr>
   <tr>
-    <td>Fraction_Diet_By_Items</td>
-    <td>Fraction of the diet as measured by a count of the number of prey items. E.g., the number of beetles in the stomach
-    contents were counted, and this value was divided by the total number of unique prey items in the stomach contents.
-     Convert all %s to fractions between 0 and 1.</td>
-  </tr>
-  <tr>
-    <td>Fraction_Occurrence</td>
-    <td>Fraction of the birds examined that contained at least one individual of this prey type.  Convert all %s to 
-    fractions between 0 and 1.</td>
-  </tr>
-  <tr>
-    <td>Fraction_Diet_Unspecified</td>
-    <td>Fraction of the diet of the prey item based on a currency unspecified by the authors.  Convert all %s to 
-    fractions between 0 and 1.</td>
+    <td>Diet_Type</td>
+    <td>4 possible values. *By_Wt_or_Vol*: Fraction of the diet as measured by weight or volume. E.g., all beetles in the stomach 
+    contents were weighed, and this value was divided by the mass of all stomach contents. *By_Num_Items*: Fraction of the diet as
+    measured by a count of the number of prey items. E.g., the number of beetles in the stomach contents were counted, and this 
+    value was divided by the total number of unique prey items in the stomach contents. *Occurrence*: Fraction of the birds examined
+    that contained at least one individual of this prey type. *Unspecified*: Fraction of the diet of the prey item based on a
+    methodology unspecified by the authors.</td>
   </tr>
   <tr>
     <td>Item_Sample_Size</td>
