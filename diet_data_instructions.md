@@ -59,31 +59,30 @@ it was conducted. Refer to the https://github.com/hurlbertlab/dietdatabase
 README file for more details.
 
 6. Read the table caption and/or Methods section carefully to understand how
-the study quantified diet. This will determine the column in which you will 
-enter diet data. The options are: 
+the study quantified diet. This will determine what you specify as the "Diet_Type". The options are: 
 
     <table>
       <tr>
-        <td>Fraction_Diet_By_Wt_or_Vol</td>
+        <td>Wt_or_Vol</td>
         <td>Fraction of the diet as measured by weight or volume. E.g., all beetles 
         in the stomach contents were weighed, and this value was divided by the mass
         of all stomach contents. Convert all %s to fractions between 0 and 1.</td>
       </tr>
       <tr>
-        <td>Fraction_Diet_By_Items</td>
+        <td>Items</td>
         <td>Fraction of the diet as measured by a count of the number of prey items. 
         E.g., the number of beetles in the stomach contents were counted, and this 
         value was divided by the total number of unique prey items in the stomach 
         contents. Convert all %s to fractions between 0 and 1.</td>
       </tr>
       <tr>
-        <td>Fraction_Occurrence</td>
+        <td>Occurrence</td>
         <td>Fraction of the birds examined that contained at least one individual of 
         this prey type.  Convert all %s to fractions between 0 and 1.</td>
       </tr>
       <tr>
-        <td>Fraction_Diet_Unspecified</td>
-        <td>Fraction of the diet of the prey item based on a currency unspecified by 
+        <td>Unspecified</td>
+        <td>Fraction of the diet of the prey item based on a methodology unspecified by 
         the authors.  Convert all %s to fractions between 0 and 1.</td>
       </tr>
       <tr>
