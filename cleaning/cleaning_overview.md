@@ -107,6 +107,9 @@ replaced by "shrubland"), and they should be separated by semi-colons (so "Conif
 
 In general, be aware of non-standardized capitalization or punctuation, in addition to the words themselves.
 
+Text fields that need this type of checking include: Location_Region, Location_Specific, Habitat_type, Observation_Season,
+Prey_Name_Status, Prey_Stage, Prey_Part, Diet_Type, Sites, Study_Type
+
 ## Replacing text strings
 To replace a text string with another in R (like Find and Replace in Excel) we use the function `gsub`. We need to specify
 the (good) replacement string, the (bad) original string, and the field in which to look like this:
