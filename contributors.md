@@ -11,5 +11,6 @@ Miguel Sandoval, 2014-2015  (Emberizidae)
 Caitlin Seyfried, 2015  (Accipitridae)  
 Tara McKinnon, 2015-2016 (Accipitridae)  
 Rachel Quindlen, 2015-2016 (Cardinalidae, Sylviidae)  
-Thomas Hennessey, 2016 (Icteridae)
+Thomas Hennessey, 2016 (Icteridae)  
 Patrick Winner, 2016- (Emberizidae, Bombycillidae, Polioptilidae, Regulidae, Certhiidae)
+Savannah Swinea, 2016
