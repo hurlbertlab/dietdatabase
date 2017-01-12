@@ -1,4 +1,4 @@
-###Cleaning the Avian Diet Database
+#Cleaning the Avian Diet Database
 
 There are various sources of error that may creep into the database, and we will need to employ several
 different strategies to catch and fix them.
