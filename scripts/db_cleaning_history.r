@@ -3,7 +3,7 @@
 # A record of all cleaning changes made to the Avian Diet Database.
 
 
-# Date: 11 Jan 2017
+# Date: 11 Jan 2017; By Allen Hurlbert
 
 # CONVERSION OF OLD DB FORMAT (different column for each Fraction_Diet data type)
 # TO NEW FORMAT (Gather all diet data into a single column, with column for data type)
@@ -26,11 +26,19 @@ diet$Common_Name = sapply(diet$Common_Name, simpleCap)
 diet$Common_Name = gsub('Western Wood-Pewee', 'Western Wood-pewee', diet$Common_Name)
 
 
-# Date: 12 Jan 2017
+# Date: 12 Jan 2017; By: Allen Hurlbert
 
 # Cleaning Observation_Season
 diet$Observation_Season = gsub('Fall', 'fall', diet$Observation_Season)
 diet$Observation_Season = gsub('Fall; Spring', 'Fall/spring', diet$Observation_Season)
 
+
+
+
+
+
+
+#----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
-# write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
+write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
+# And don't forget to git commit and git push your changes

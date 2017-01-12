@@ -190,7 +190,7 @@ LeadingAndTrailingSpaceRemover = function(dietdatabase) {
 # from http://www.globalbioticinteractions.org/references.html
 updateNameStatus = function(diet, write = TRUE) {
   require(dplyr)
-  names = read.table('taxonUnmatched.tsv', sep = '\t',
+  names = read.table('cleaning/taxonUnmatched.tsv', sep = '\t',
                           quote = '\"', fill = T, header = T) %>%
     filter(grepl('Allen Hurlbert. Avian Diet Database', source))
  
