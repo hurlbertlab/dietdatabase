@@ -94,7 +94,7 @@ outlierCheck = function(diet) {
 ```
 In the abbreviated version above, you can see that longitudes and latitudes should range between -180 and 180, 
 and the Item_Sample_Size should range between 0 and 10000. If you find that there are "true" values greater
-than 10000, simply replace 10000 with the largest value you've found. Re-source the function
+than 10000, simply replace 10000 with the largest verified value you've found. Re-source the function
 ```
 source('scripts/database_summary_functions.R')
 ```
