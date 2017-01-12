@@ -75,6 +75,31 @@ find the original source data and double check the values. Correct if necessary.
 
 If the output for a given field is "OK", then there were no outliers.
 
+If you find that the extreme values are correct and not actually outliers, then update the `outlierCheck` function
+in the `database_summary_functions.r` file in the `scripts` folder. In that function, for each numeric field,
+a range of "acceptable" values is provided to check against:
+```
+outlierCheck = function(diet) {
+  out = list(
+    long = outlier(diet$Longitude_dd, -180, 180),
+    
+    lat = outlier(diet$Latitude_dd, -180, 180),
+    
+    item_sampsize = outlier(diet$Item_Sample_Size, 0, 10000)
+    
+    )
+  
+  return(out)
+}
+```
+In the abbreviated version above, you can see that longitudes and latitudes should range between -180 and 180, 
+and the Item_Sample_Size should range between 0 and 10000. If you find that there are "true" values greater
+than 10000, simply replace 10000 with the largest value you've found. Re-source the function
+```
+source('scripts/database_summary_functions.R')
+```
+and then rerun `outlierCheck(diet)` and it should now ignore the values that previously were flagged.
+
 ## Error checking text fields
 Text fields don't have 'outliers' per se, but they may have typos, or we may have entered data
 (e.g. on habitat type) in unstandardized ways (e.g. "coniferous forest", "Coniferous forest", and 
