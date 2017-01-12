@@ -166,7 +166,56 @@ simpleCap <- function(x) {
   paste(toupper(substring(s, 1,1)), substring(s, 2), sep="", collapse=" ")
 }
 
+# Function to remove unintended leading or trailing spaces from text fields
 
+LeadingAndTrailingSpaceRemover = function(dietdatabase) {
+  characterFields = which(sapply(dietdatabase, class) == "character")
+  
+  for (i in characterFields) {
+    for (j in 1:nrow(dietdatabase)) {
+      val = dietdatabase[j, i]
+      #leading and trailing spaces
+      if (substring(val, 1, 1) == " " & substring(val, nchar(val), nchar(val)) == " ") {
+        dietdatabase[j, i] = substring(val, 2, nchar(val) - 1)
+      #leading spaces
+      } else if (substring(val, 1, 1) == " ") {
+        dietdatabase[j, i] = substring(val, 2, nchar(val))
+      #trailing spaces
+      } else if (substring(val, nchar(val), nchar(val)) == " ") {
+        dietdatabase[j, i] = substring(val, 1, nchar(val) - 1)
+      }
+    }
+  }
+  return(dietdatabase)
+}
+         
+
+# Function for specifying Prey_Name_Status as 'unknown' if name does
+# not match GloBI's names in 'taxonUnmatched.tsv'
+# May want to be sure to download an updated version of 'taxonUnmatched.tsv'
+# from http://www.globalbioticinteractions.org/references.html
+updateNameStatus = function(diet, write = TRUE) {
+  require(dplyr)
+  names = read.table('taxonUnmatched.tsv', sep = '\t',
+                          quote = '\"', fill = T, header = T) %>%
+    filter(grepl('Allen Hurlbert. Avian Diet Database', source))
+ 
+  badNames = unmatched$unmatched.taxon.name
+
+  diet$Prey_Name_Status[dd$Prey_Kingdom %in% badNames |
+                        dd$Prey_Phylum %in% badNames |
+                        dd$Prey_Class %in% badNames |
+                        dd$Prey_Order %in% badNames |
+                        dd$Prey_Suborder %in% badNames |
+                        dd$Prey_Family %in% badNames |
+                        dd$Prey_Genus %in% badNames |
+                        dd$Prey_Scientific_Name %in% badNames] = 'unknown'
+  if(write) {
+    write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
+  }
+}
+                               
+#-------------------------------------------------------------------------------------------                               
 # Read in diet database, references, and eBird taxonomy tables
 diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
                   fill=T, stringsAsFactors = F)
