@@ -7,8 +7,8 @@ finishing up everything within Passeriformes before working on other Orders.
 Note that Families for which I know that data remain to be entered are highlighted with parenthetical notes. However, it should probably be confirmed that no References remain to be checked for the other Families.
 
 ### Accipitriformes  
---Accipitridae (still more species to enter)  
---Cathartidae (3 species to enter)  
+--Accipitridae (still more species/refs to enter?)  
+--Cathartidae (1 species to enter: California Condor?))  
 
 ### Ciconiiformes  
 --Ciconiidae
@@ -20,9 +20,9 @@ Note that Families for which I know that data remain to be entered are highlight
 --Cuculidae   
 
 ### Passeriformes  
---Aegithalidae  
---Alaudidae  
---Bombyicillidae  
+--Aegithalidae  (need to enter: Bushtit)
+--Alaudidae  (need to enter: Horned Lark, Sky Lark)
+--Bombycillidae  
 --Calcariidae  
 --Cardinalidae  
 --Certhiidae  
