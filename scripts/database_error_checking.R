@@ -27,3 +27,6 @@ part = count(diet, Prey_Part) %>% arrange(desc(n)) %>% data.frame()
 
 diettype = count(diet, Diet_Type) %>% arrange(desc(n)) %>% data.frame()
 
+
+# Finding a list of studies where habitat type is blank
+diet %>% filter(Habitat_type=="") %>% select(Source) %>% unique()
