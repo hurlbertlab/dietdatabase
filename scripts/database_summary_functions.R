@@ -145,7 +145,7 @@ outlierCheck = function(diet) {
     
     item_sampsize = outlier(diet$Item_Sample_Size, 0, 27000), # max recorded is 26958
     
-    bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 1000),
+    bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 1300),
     
     sites = outlier(diet$Sites, 0, 100)
     
