@@ -20,8 +20,8 @@ Note that Families for which I know that data remain to be entered are highlight
 --Cuculidae   
 
 ### Passeriformes  
---Aegithalidae  (need to enter: Bushtit)
---Alaudidae  (need to enter: Horned Lark, Sky Lark)
+--Aegithalidae  (need to enter: Bushtit)  
+--Alaudidae  (need to enter: Horned Lark, Sky Lark)  
 --Bombycillidae  
 --Calcariidae  
 --Cardinalidae  
@@ -38,7 +38,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Parulidae  
 --Passeridae  
 --Polioptilidae  
---Ptilogonatidae
+--Ptilogonatidae  
 --Regulidae  
 --Remizidae  
 --Sittidae  
