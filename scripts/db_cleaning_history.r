@@ -33,7 +33,7 @@ diet$Observation_Season = gsub('Fall', 'fall', diet$Observation_Season)
 diet$Observation_Season = gsub('Fall; Spring', 'Fall/spring', diet$Observation_Season)
 
 # Date: 19 Jan 2017; By: Patrick Winner
-diet$Location_Region = gsub('', '', diet$Location_Region)
+
 #Cleaning Location_Region
 diet$Location_Region = gsub('Oxford, England', 'England', diet$Location_Region)
 diet$Location_Region = gsub('Boise, Ada County, Idaho', 'Idaho', diet$Location_Region)
@@ -124,6 +124,8 @@ diet$Location_Region = gsub('Southern Texas, Mexico', 'Texas; Mexico', diet$Loca
 diet$Location_Region = gsub('West Haven, Vermont', 'Vermont', diet$Location_Region)
 
 # Date: 23 Jan 2017; By: Patrick Winner
+
+#Cleaning Location_Region
 diet$Location_Region = gsub('Continental United States; Canada', 'United States; Canada', diet$Location_Region)
 diet$Location_Region = gsub('Willow: Most of United States except Southeastern, Alder: United States; Canada', 'United States; Canada', diet$Location_Region)
 diet$Location_Region = gsub('Texas (one bird from Florida)', 'Texas; Florida', diet$Location_Region)
@@ -139,7 +141,22 @@ diet$Location_Region = gsub('Southwest United States and North Mexico', 'United 
 diet$Location_Region = gsub('Texas, Mexico', 'Texas; Mexico', diet$Location_Region)
 diet$Location_Region = gsub('Arizona to Central America', 'Arizona; Mexico; Central America', diet$Location_Region)
 diet$Location_Region = gsub('Texas (one bird from Florida)', 'Texas; Florida', diet$Location_Region)
+diet$Location_Region = gsub('Oregon; Blue Mountains', 'Oregon', diet$Location_Region)
 
+#Cleaning Location_Specific
+diet$Location_Specific = gsub('12 US states (incl. Alaska) and Canada', 'NA', diet$Location_Specific)
+diet$Location_Specific = gsub('13 US states (incl. Alaska) and Canada', 'NA', diet$Location_Specific)
+diet$Location_Specific = gsub('14 US states and Canada', 'NA', diet$Location_Specific)
+diet$Location_Specific = gsub('16 US states (incl. Alaska) and Canada', 'NA', diet$Location_Specific)
+diet$Location_Specific = gsub('18 US states and Canada', 'NA', diet$Location_Specific)
+diet$Location_Specific = gsub('28 US states (incl. Alaska & DC) and Canada', 'NA', diet$Location_Specific)
+diet$Location_Specific = gsub('7 US states (incl. Texas)', 'NA', diet$Location_Specific)
+diet$Location_Specific = gsub('Barrow, AK', 'Barrow', diet$Location_Specific)
+diet$Location_Specific = gsub('Bill Williams River Delta, Arizona', 'Bill Williams River Delta', diet$Location_Specific)
+diet$Location_Specific = gsub('Blue Mountains, Oregon', 'Blue Mountains', diet$Location_Specific)
+diet$Location_Specific = gsub('Brook Experimental Forest, West Thornton', 'Hubbard Brook Experimental Forest', diet$Location_Specific)
+diet$Location_Specific = gsub('Burke County, ND', 'Burke County', diet$Location_Specific)
+diet$Location_Specific = gsub('Caparu Biological Station, Bolivia', 'Caparu Biological Station', diet$Location_Specific)
 
 
 #----------------------------------------------------------------------
