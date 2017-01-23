@@ -33,7 +33,7 @@ diet$Observation_Season = gsub('Fall', 'fall', diet$Observation_Season)
 diet$Observation_Season = gsub('Fall; Spring', 'Fall/spring', diet$Observation_Season)
 
 # Date: 19 Jan 2017; By: Patrick Winner
-
+diet$Location_Region = gsub('', '', diet$Location_Region)
 #Cleaning Location_Region
 diet$Location_Region = gsub('Oxford, England', 'England', diet$Location_Region)
 diet$Location_Region = gsub('Boise, Ada County, Idaho', 'Idaho', diet$Location_Region)
@@ -123,6 +123,22 @@ diet$Location_Region = gsub('Northeastern Oregon; Blue Mountains', 'Oregon; Blue
 diet$Location_Region = gsub('Southern Texas, Mexico', 'Texas; Mexico', diet$Location_Region)
 diet$Location_Region = gsub('West Haven, Vermont', 'Vermont', diet$Location_Region)
 
+# Date: 23 Jan 2017; By: Patrick Winner
+diet$Location_Region = gsub('Continental United States; Canada', 'United States; Canada', diet$Location_Region)
+diet$Location_Region = gsub('Willow: Most of United States except Southeastern, Alder: United States; Canada', 'United States; Canada', diet$Location_Region)
+diet$Location_Region = gsub('Texas (one bird from Florida)', 'Texas; Florida', diet$Location_Region)
+diet$Location_Region = gsub('Continental United States', 'United States', diet$Location_Region)
+diet$Location_Region = gsub('Western to United States', 'United States', diet$Location_Region)
+diet$Location_Region = gsub('Central and United States', 'United States', diet$Location_Region)
+diet$Location_Region = gsub('Vermont; other areas in United States', 'United States', diet$Location_Region)
+diet$Location_Region = gsub('Texas and Arizona, Coastal Mexico, Central America', 'Texas; Arizona; Mexico; Central America', diet$Location_Region)
+diet$Location_Region = gsub('Arizona, Mexico, Central America', 'Arizona; Mexico; Central America', diet$Location_Region)
+diet$Location_Region = gsub('New York, massachusetts, wisconsin', 'New York; Massachusetts; Wisconsin', diet$Location_Region)
+diet$Location_Region = gsub('United States, Mexico', 'United States; Mexico', diet$Location_Region)
+diet$Location_Region = gsub('Southwest United States and North Mexico', 'United States; Mexico', diet$Location_Region)
+diet$Location_Region = gsub('Texas, Mexico', 'Texas; Mexico', diet$Location_Region)
+diet$Location_Region = gsub('Arizona to Central America', 'Arizona; Mexico; Central America', diet$Location_Region)
+diet$Location_Region = gsub('Texas (one bird from Florida)', 'Texas; Florida', diet$Location_Region)
 
 
 
