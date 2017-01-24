@@ -159,6 +159,28 @@ diet$Location_Specific = gsub('Burke County, ND', 'Burke County', diet$Location_
 diet$Location_Specific = gsub('Caparu Biological Station, Bolivia', 'Caparu Biological Station', diet$Location_Specific)
 
 
+# Date: 24 Jan 2017; By: Patrick Winner
+
+#Cleaning Location_Specific
+diet$Location_Specific = gsub('Culberson County, Texas; Eddy and Otero Counties, New Mexico', 'Culberson County, TX; Eddy and Otero Counties, NM', diet$Location_Specific)
+diet$Location_Specific = gsub('Dane, Sauk, and Columbia counties, WI', 'Dane, Sauk, and Columbia counties', diet$Location_Specific)
+diet$Location_Specific = gsub('Dodge and Jefferson counties, WI', 'Dodge and Jefferson counties', diet$Location_Specific)
+diet$Location_Specific = gsub('Esquatzel Coulee, Franklin County, WA', 'Esquatzel Coulee', diet$Location_Specific)
+diet$Location_Specific = gsub('Everglades', 'Everglades National Park', diet$Location_Specific)
+diet$Location_Specific = gsub('HEREDIA, HEREDIA PROVINCE', 'Heredia', diet$Location_Specific)
+diet$Location_Specific = gsub('Ithica', 'Ithaca', diet$Location_Specific)
+diet$Location_Specific = gsub('Jackson County, OK', 'Jackson County', diet$Location_Specific)
+diet$Location_Specific = gsub('La Michilia', 'La Michilia Biosphere Reserve', diet$Location_Specific)
+diet$Location_Specific = gsub('Larimer and Weld Counties, CO', 'Larimer and Weld Counties', diet$Location_Specific)
+diet$Location_Specific = gsub('Lower Colorado valley', 'Lower Colorado River Valley', diet$Location_Specific)
+diet$Location_Specific = gsub('Mexico', 'NA', diet$Location_Specific)
+diet$Location_Specific = gsub('Norias Division of the King Ranch, Kennedy County, Texas', 'Norias Division of the King Ranch', diet$Location_Specific)
+diet$Location_Specific = gsub('northern', 'Northern Chesapeake Bay', diet$Location_Specific)
+diet$Location_Specific = gsub('Park and Sweetgrass Counies', 'Park and Sweetgrass Counties', diet$Location_Specific)
+diet$Location_Specific = gsub('Rochester, Alberta, Canada', 'Rochester', diet$Location_Specific)
+
+
+
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
 write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
