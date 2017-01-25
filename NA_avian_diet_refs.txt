@@ -604,10 +604,10 @@ Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Kennedy
 Zone-tailed Hawk	Accipitridae	2000	Diet	Major Food Items	"Swarth, H. S. 1920. Birds of the Papago Saguaro National Monument and the neighboring regions, Arizona. U.S. Natl. Park Serv. Washington, D.C."	y	n		
 Zone-tailed Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."	y	y	already mentioned above	
 Zone-tailed Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Alvarez Del Toro, M. 1952. New records of birds from Chiapas, Mexico. Condor 54:112-114."	y	n		
-Bushtit	Aegithalidae	2001	Diet		"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice. U.S. Natl. Mus. Bull. 191."				
-Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Smith, S. A. 1972. Roosting aggregations of Bushtits in response to cold temperatures. Condor 74:478-479."				
-Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hejl, S. J. and J. Verner. 1990. Within-season and yearly variations in avian foraging locations. Stud. Avian Biol. 13:202-209."				
-Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Chaplin, S. B. 1982. The energetic significance of huddling behavior in Common Bushtits (Psaltriparus minimus). Auk 99:424-430."				
+Bushtit	Aegithalidae	2001	Diet		"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice. U.S. Natl. Mus. Bull. 191."	y	y	data not yet entered	
+Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Smith, S. A. 1972. Roosting aggregations of Bushtits in response to cold temperatures. Condor 74:478-479."	y	n		
+Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hejl, S. J. and J. Verner. 1990. Within-season and yearly variations in avian foraging locations. Stud. Avian Biol. 13:202-209."	n		unavailable	
+Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Chaplin, S. B. 1982. The energetic significance of huddling behavior in Common Bushtits (Psaltriparus minimus). Auk 99:424-430."	y	n		
 Bushtit	Aegithalidae	2001	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. no. 30."	y	y	data has not yet been entered; article has bird's common name as California Bush Tit	
 Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Laudenslayer, Jr., W. F. and R. P. Balda. 1976. Breeding bird use of a pinyon-juniper-ponderosa pine ecotone. Auk 93:571-586."				
 Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hertz, P. E., J. V. Remsen, Jr., and S. I. Jones. 1976. Ecological complimentarity of three sympatric parids in a California oak woodland. Condor 78:307-316."				
