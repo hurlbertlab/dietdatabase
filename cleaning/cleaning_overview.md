@@ -137,9 +137,9 @@ Prey_Name_Status, Prey_Stage, Prey_Part, Diet_Type, Sites, Study_Type
 
 ## Replacing text strings
 To replace a text string with another in R (like Find and Replace in Excel) we use the function `gsub`. We need to specify
-the (good) replacement string, the (bad) original string, and the field in which to look like this:
+the (bad) original string, the (good) replacement string, and the field in which to look like this:
 ```
-diet$Habitat_type = gsub('shrubland', 'Scrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('Scrubland', 'shrubland', diet$Habitat_type)
 ```
 
 For every correction or typo substitution you do like this, record it in the file `db_cleaning_history.r` along with the date of the change.
