@@ -613,7 +613,7 @@ Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Laudenslayer, Jr., W. F. and R. 
 Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hertz, P. E., J. V. Remsen, Jr., and S. I. Jones. 1976. Ecological complimentarity of three sympatric parids in a California oak woodland. Condor 78:307-316."	y	n		
 Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Franzreb, K. E. and B. J. Franzreb. 1984. Patterns of habitat utilization in six species of European and American tits. Calif.-Nevada Wildl. Trans. 81-88."	y	n		
 Horned Lark	Alaudidae	1995	Metabolism And Temperature Regulation		"Swain, S. D. 1992a. Energy substrate profiles during fasting in Horned Larks (Eremophila alpestris). Physiol. Zool. 65:568-582."	y	n		
-Horned Lark	Alaudidae	1995	Metabolism And Temperature Regulation		"Swain, S. D. 1992b. Flight muscle catabolism during overnight fasting in a passerine bird Eremophila alpestris. J. Comp. Physiol. 162:383-392."				
+Horned Lark	Alaudidae	1995	Metabolism And Temperature Regulation		"Swain, S. D. 1992b. Flight muscle catabolism during overnight fasting in a passerine bird Eremophila alpestris. J. Comp. Physiol. 162:383-392."	y	n		
 Horned Lark	Alaudidae	1995	Diet	Quantitative Analysis	"Wiens, J. A. and J. T. Rotenberry. 1979. Diet niche relationships among North American grassland and shrubsteppe birds. Oecologia 42:253-292."				
 Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Pickwell, G. B. 1931. The Prairie Horned Lark. St. Louis Acad. Sci. Trans. 27:1-153."				
 Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Mcatee, W. L. 1905. The Horned Larks and their relation to agriculture. U.S. Dep. Agric. Biol. Surv. Bull. 23:1-37."				
