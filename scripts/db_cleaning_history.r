@@ -272,11 +272,26 @@ diet$Location_Region[new_region_indices] = new_regions
 diet$Location_Specific[new_region_indices] = NA
 
 #Cleaning Location_Specific
-diet$Location_Specific = gsub('30 km South of Hanna, Alberta', '', diet$Location_Specific)
 diet$Location_Specific = gsub('eastern shore', 'Eastern Shore of Maryland', diet$Location_Specific)
 diet$Location_Specific = gsub('La Michilia Biosphere Reserve Biosphere Reserve', 'La Michilia Biosphere Reserve', diet$Location_Specific)
+diet$Location_Specific = gsub('Northeast', 'Northeast Mexico', diet$Location_Specific)
+diet$Location_Specific = gsub('Snake River Canyon; scrubland', 'Snake River Canyon', diet$Location_Specific)
 
-
+#Cleaning Habitat_type
+diet$Habitat_type = gsub('agriculture, grassland', 'agriculture; grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('agriculture, shrubland', 'agriculture; scrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('coniferous forest, grassland', 'coniferous forest; grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('coniferous forest, mountain shrubland, and shrubsteppe', 'coniferous forest; scrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('coniferous forest, woodland', 'coniferous forest; woodland', diet$Habitat_type)
+diet$Habitat_type = gsub('coniferous forest, woodland, wetland', 'coniferous forest; woodland; wetland', diet$Habitat_type)
+diet$Habitat_type = gsub('deciduous forest woodland; coniferous woodland; wetland; riparian', 'deciduous forest; coniferous forest; woodland; wetland; riparian', diet$Habitat_type)
+diet$Habitat_type = gsub('deciduous forest, agriculture', 'deciduous forest; agriculture', diet$Habitat_type)
+diet$Habitat_type = gsub('deciduous forest, semi-deciduous forest', 'deciduous forest; forest', diet$Habitat_type)
+diet$Habitat_type = gsub('grassland, agriculture', 'agriculture; grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('grassland, shrubland', 'grassland; scrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('shrubland', 'scrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('Juniper Oak forest', 'forest', diet$Habitat_type)
+diet$Habitat_type = gsub('Mesquite-acacia woodlands', 'woodland', diet$Habitat_type)
 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
