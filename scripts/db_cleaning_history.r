@@ -271,6 +271,13 @@ new_region_indices = which(diet$Location_Region == "United States" &
 diet$Location_Region[new_region_indices] = new_regions
 diet$Location_Specific[new_region_indices] = NA
 
+#Cleaning Location_Specific
+diet$Location_Specific = gsub('30 km South of Hanna, Alberta', '', diet$Location_Specific)
+diet$Location_Specific = gsub('eastern shore', 'Eastern Shore of Maryland', diet$Location_Specific)
+diet$Location_Specific = gsub('La Michilia Biosphere Reserve Biosphere Reserve', 'La Michilia Biosphere Reserve', diet$Location_Specific)
+
+
+
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
 write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
