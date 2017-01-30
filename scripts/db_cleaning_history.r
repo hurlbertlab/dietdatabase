@@ -258,6 +258,26 @@ diet$Habitat_type = gsub('scrubland;grassland', 'shrubland; grassland', diet$Hab
 diet$Habitat_type = gsub('deciduous forest forest', 'deciduous forest', diet$Habitat_type)
 
 
+# Date: 30 Jan 2017; By: Patrick Winner
+#Cleaning Location_Specific
+diet$Location_Specific = gsub('Everglades National Park National Park', 'Everglades National Park', diet$Location_Specific)
+
+# Subset db to where Location_Region is "United States"
+new_regions = diet$Location_Specific[diet$Location_Region == "United States" &
+                                           !diet$Location_Specific %in% c(NA, "", "multiple", "Multiple")]
+new_region_indices = which(diet$Location_Region == "United States" &
+                                           !diet$Location_Specific %in% c(NA, "", "multiple", "Multiple"))
+
+diet$Location_Region[new_region_indices] = new_regions
+diet$Location_Specific[new_region_indices] = NA
+
+#Cleaning Location_Specific
+diet$Location_Specific = gsub('30 km South of Hanna, Alberta', '', diet$Location_Specific)
+diet$Location_Specific = gsub('eastern shore', 'Eastern Shore of Maryland', diet$Location_Specific)
+diet$Location_Specific = gsub('La Michilia Biosphere Reserve Biosphere Reserve', 'La Michilia Biosphere Reserve', diet$Location_Specific)
+
+
+
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
 write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)

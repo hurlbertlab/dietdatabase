@@ -604,19 +604,19 @@ Zone-tailed Hawk	Accipitridae	2000	Feeding	Food Capture And Consumption	"Kennedy
 Zone-tailed Hawk	Accipitridae	2000	Diet	Major Food Items	"Swarth, H. S. 1920. Birds of the Papago Saguaro National Monument and the neighboring regions, Arizona. U.S. Natl. Park Serv. Washington, D.C."	y	n		
 Zone-tailed Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. 20."	y	y	already mentioned above	
 Zone-tailed Hawk	Accipitridae	2000	Diet	Quantitative Analysis	"Alvarez Del Toro, M. 1952. New records of birds from Chiapas, Mexico. Condor 54:112-114."	y	n		
-Bushtit	Aegithalidae	2001	Diet		"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice. U.S. Natl. Mus. Bull. 191."				
-Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Smith, S. A. 1972. Roosting aggregations of Bushtits in response to cold temperatures. Condor 74:478-479."				
-Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hejl, S. J. and J. Verner. 1990. Within-season and yearly variations in avian foraging locations. Stud. Avian Biol. 13:202-209."				
-Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Chaplin, S. B. 1982. The energetic significance of huddling behavior in Common Bushtits (Psaltriparus minimus). Auk 99:424-430."				
+Bushtit	Aegithalidae	2001	Diet		"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice. U.S. Natl. Mus. Bull. 191."	y	y	data not yet entered; referred to in the literature as Coast Bushtit (Psaltriparus minimus minimus) or California Bushtit (Psaltriparus minimus californicus)	
+Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Smith, S. A. 1972. Roosting aggregations of Bushtits in response to cold temperatures. Condor 74:478-479."	y	n		
+Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hejl, S. J. and J. Verner. 1990. Within-season and yearly variations in avian foraging locations. Stud. Avian Biol. 13:202-209."	n		unavailable	
+Bushtit	Aegithalidae	2001	Metabolism And Temperature Regulation		"Chaplin, S. B. 1982. The energetic significance of huddling behavior in Common Bushtits (Psaltriparus minimus). Auk 99:424-430."	y	n		
 Bushtit	Aegithalidae	2001	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. no. 30."	y	y	data has not yet been entered; article has bird's common name as California Bush Tit	
-Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Laudenslayer, Jr., W. F. and R. P. Balda. 1976. Breeding bird use of a pinyon-juniper-ponderosa pine ecotone. Auk 93:571-586."				
-Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hertz, P. E., J. V. Remsen, Jr., and S. I. Jones. 1976. Ecological complimentarity of three sympatric parids in a California oak woodland. Condor 78:307-316."				
-Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Franzreb, K. E. and B. J. Franzreb. 1984. Patterns of habitat utilization in six species of European and American tits. Calif.-Nevada Wildl. Trans. 81-88."				
-Horned Lark	Alaudidae	1995	Metabolism And Temperature Regulation		"Swain, S. D. 1992a. Energy substrate profiles during fasting in Horned Larks (Eremophila alpestris). Physiol. Zool. 65:568-582."				
-Horned Lark	Alaudidae	1995	Metabolism And Temperature Regulation		"Swain, S. D. 1992b. Flight muscle catabolism during overnight fasting in a passerine bird Eremophila alpestris. J. Comp. Physiol. 162:383-392."				
-Horned Lark	Alaudidae	1995	Diet	Quantitative Analysis	"Wiens, J. A. and J. T. Rotenberry. 1979. Diet niche relationships among North American grassland and shrubsteppe birds. Oecologia 42:253-292."				
-Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Pickwell, G. B. 1931. The Prairie Horned Lark. St. Louis Acad. Sci. Trans. 27:1-153."				
-Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Mcatee, W. L. 1905. The Horned Larks and their relation to agriculture. U.S. Dep. Agric. Biol. Surv. Bull. 23:1-37."				
+Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Laudenslayer, Jr., W. F. and R. P. Balda. 1976. Breeding bird use of a pinyon-juniper-ponderosa pine ecotone. Auk 93:571-586."	y	n		
+Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Hertz, P. E., J. V. Remsen, Jr., and S. I. Jones. 1976. Ecological complimentarity of three sympatric parids in a California oak woodland. Condor 78:307-316."	y	n		
+Bushtit	Aegithalidae	2001	Feeding	Food Capture	"Franzreb, K. E. and B. J. Franzreb. 1984. Patterns of habitat utilization in six species of European and American tits. Calif.-Nevada Wildl. Trans. 81-88."	y	n		
+Horned Lark	Alaudidae	1995	Metabolism And Temperature Regulation		"Swain, S. D. 1992a. Energy substrate profiles during fasting in Horned Larks (Eremophila alpestris). Physiol. Zool. 65:568-582."	y	n		
+Horned Lark	Alaudidae	1995	Metabolism And Temperature Regulation		"Swain, S. D. 1992b. Flight muscle catabolism during overnight fasting in a passerine bird Eremophila alpestris. J. Comp. Physiol. 162:383-392."	y	n		
+Horned Lark	Alaudidae	1995	Diet	Quantitative Analysis	"Wiens, J. A. and J. T. Rotenberry. 1979. Diet niche relationships among North American grassland and shrubsteppe birds. Oecologia 42:253-292."	y	y	data not yet entered	
+Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Pickwell, G. B. 1931. The Prairie Horned Lark. St. Louis Acad. Sci. Trans. 27:1-153."	y	y	data not yet entered	
+Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Mcatee, W. L. 1905. The Horned Larks and their relation to agriculture. U.S. Dep. Agric. Biol. Surv. Bull. 23:1-37."	y	y	data not yet entered	
 Horned Lark	Alaudidae	1995	Diet	Major Food Items	"Rotenberry, J. T. 1980. Dietary relationships among shrubsteppe passerine birds: competition or opportunism in a variable environment. Ecol. Monogr. 50:93-110."				
 Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Verbeek, N. A. M. 1970. Breeding biology of the Water Pipit. Auk 87:425-451."				
 Horned Lark	Alaudidae	1995	Nutrition And Energetics		"Swain, S. D. 1991. Metabolism and energy reserves of brood-rearing Horned Larks (Eremophila alpestris). Comp. Biochem. Physiol. 99:69-73."				
