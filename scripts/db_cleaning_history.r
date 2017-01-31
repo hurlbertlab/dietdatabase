@@ -281,7 +281,7 @@ diet$Location_Specific = gsub('Snake River Canyon; scrubland', 'Snake River Cany
 diet$Habitat_type = gsub('agriculture, grassland', 'agriculture; grassland', diet$Habitat_type)
 diet$Habitat_type = gsub('agriculture, shrubland', 'agriculture; scrubland', diet$Habitat_type)
 diet$Habitat_type = gsub('coniferous forest, grassland', 'coniferous forest; grassland', diet$Habitat_type)
-diet$Habitat_type = gsub('coniferous forest, mountain shrubland, and shrubsteppe', 'coniferous forest; scrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('coniferous forest; mountain scrubland; and shrubsteppe', 'coniferous forest; scrubland', diet$Habitat_type)
 diet$Habitat_type = gsub('coniferous forest, woodland', 'coniferous forest; woodland', diet$Habitat_type)
 diet$Habitat_type = gsub('coniferous forest, woodland, wetland', 'coniferous forest; woodland; wetland', diet$Habitat_type)
 diet$Habitat_type = gsub('deciduous forest woodland; coniferous woodland; wetland; riparian', 'deciduous forest; coniferous forest; woodland; wetland; riparian', diet$Habitat_type)
@@ -292,6 +292,36 @@ diet$Habitat_type = gsub('grassland, shrubland', 'grassland; scrubland', diet$Ha
 diet$Habitat_type = gsub('shrubland', 'scrubland', diet$Habitat_type)
 diet$Habitat_type = gsub('Juniper Oak forest', 'forest', diet$Habitat_type)
 diet$Habitat_type = gsub('Mesquite-acacia woodlands', 'woodland', diet$Habitat_type)
+
+#Date: 31 Jan 2017; By: Patrick Winner
+#Cleaning Habitat_type
+diet$Habitat_type = gsub(',', ';', diet$Habitat_type)
+diet$Habitat_type = gsub('forest ', 'forest', diet$Habitat_type)
+
+diet$Habitat_type = gsub('conifer forests', 'coniferous forest', diet$Habitat_type)
+diet$Habitat_type = gsub('Northern Hardwood forest', 'deciduous forest', diet$Habitat_type)
+diet$Habitat_type = gsub('Primarily Cottonwood; Willow and Salt cedar forest', 'forest', diet$Habitat_type)
+diet$Habitat_type = gsub('Riparian woodlands', 'woodland', diet$Habitat_type)
+diet$Habitat_type = gsub('scrubland;grassland', 'grassland; scrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('Shrub and grassland', 'grassland; scrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('shade coffee; second-growth scrub; and undisturbed dry limestone forest', 'scrubland; forest', diet$Habitat_type)
+diet$Habitat_type = gsub('Sugar maple; American beech; Yellow birch', 'deciduous forest', diet$Habitat_type)
+diet$Habitat_type = gsub('Thick hardwoods - primarily Yellow birch and Sugar maple. forestfloor composed primarily of dead leaves', 'deciduous forest', diet$Habitat_type)
+diet$Habitat_type = gsub('ungrazed grassland', 'grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('Upland deciduous forest. Primarily white oak; red oak; black oak and shagbark hickory', 'deciduous forest', diet$Habitat_type)
+diet$Habitat_type = gsub('upland forest; sagebrush grassland; floodplain forest; and agricultural lands', 'forest; grassland; scrubland; agriculture', diet$Habitat_type)
+diet$Habitat_type = gsub('Urban', 'urban', diet$Habitat_type)
+diet$Habitat_type = gsub('Wetland', 'wetland', diet$Habitat_type)
+diet$Habitat_type = gsub('Woodland', 'woodland', diet$Habitat_type)
+diet$Habitat_type = gsub('woodland;grassland', 'woodland; grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('Woodlands', 'woodland', diet$Habitat_type)
+diet$Habitat_type = gsub('Woolands', 'woodland', diet$Habitat_type)
+diet$Habitat_type = gsub('Zone of transition from tall-grass prairie to short-grass prairie', 'grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('woodlands', 'woodland', diet$Habitat_type)
+
+
+
+
 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
