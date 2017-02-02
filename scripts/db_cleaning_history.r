@@ -384,8 +384,7 @@ diet$Prey_Part = gsub('feathers', 'feather', diet$Prey_Part)
 diet$Prey_Part = gsub('seed ', '', diet$Prey_Part)
 diet$Prey_Part = gsub('nuts', 'nut', diet$Prey_Part)
 diet$Prey_Part = gsub('buds', 'bud', diet$Prey_Part)
-
-diet$Prey_Part = gsub('', '', diet$Prey_Part)
+diet$Prey_Part = gsub('mandibles', 'mandible', diet$Prey_Part)
 
 
 #----------------------------------------------------------------------
