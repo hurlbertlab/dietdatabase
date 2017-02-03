@@ -366,6 +366,25 @@ diet$Prey_Stage = gsub('shells', 'shell', diet$Prey_Stage)
 diet$Prey_Stage = gsub('larvael', 'larvae', diet$Prey_Stage)
 diet$Prey_Stage = gsub('egg Case', 'egg case', diet$Prey_Stage)
 
+#Date: 2 Feb 2017; By: Patrick Winner
+#Cleaning Prey_Stage
+diet$Prey_Stage = tolower(diet$Prey_Stage)
+diet$Prey_Stage = gsub('both', 'larvae; adult', diet$Prey_Stage)
+
+#Cleaning Prey_Part
+diet$Prey_Part = tolower(diet$Prey_Part)
+diet$Prey_Part = gsub('seeds', 'seed', diet$Prey_Part)
+diet$Prey_Part = gsub('fruits', 'fruit', diet$Prey_Part)
+diet$Prey_Part = gsub('flowers', 'flower', diet$Prey_Part)
+diet$Prey_Part = gsub('/', '; ', diet$Prey_Part)
+diet$Prey_Part = gsub(' and', ';', diet$Prey_Part)
+diet$Prey_Part = gsub('offal;afterbirth', 'offal; afterbirth', diet$Prey_Part)
+diet$Prey_Part = gsub(',', ';', diet$Prey_Part)
+diet$Prey_Part = gsub('feathers', 'feather', diet$Prey_Part)
+diet$Prey_Part = gsub('seed ', '', diet$Prey_Part)
+diet$Prey_Part = gsub('nuts', 'nut', diet$Prey_Part)
+diet$Prey_Part = gsub('buds', 'bud', diet$Prey_Part)
+diet$Prey_Part = gsub('mandibles', 'mandible', diet$Prey_Part)
 
 
 #----------------------------------------------------------------------
