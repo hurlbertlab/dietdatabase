@@ -392,7 +392,19 @@ diet$Prey_Part = gsub('bones', 'bone', diet$Prey_Part)
 diet$Prey_Part = gsub('fibers', 'fiber', diet$Prey_Part)
 diet$Prey_Part = gsub('some fruit', 'fruit', diet$Prey_Part)
 
-diet$Prey_Part = gsub('', '', diet$Prey_Part)
+#Cleaning Study_Type 
+
+diet$Study_Type = tolower(diet$Study_Type)
+diet$Study_Type = gsub('observance', 'observation', diet$Study_Type)
+diet$Study_Type = gsub(',', ';', diet$Study_Type)
+diet$Study_Type = gsub(' and', ';', diet$Study_Type)
+diet$Study_Type = gsub('/', '; ', diet$Study_Type)
+diet$Study_Type = gsub('examinations', 'examination', diet$Study_Type)
+diet$Study_Type = gsub('observations', 'observation', diet$Study_Type)
+diet$Study_Type = gsub('fecal contents', 'fecal examination', diet$Study_Type)
+
+diet$Study_Type = gsub('', '', diet$Study_Type)
+
 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
