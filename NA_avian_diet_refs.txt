@@ -623,9 +623,9 @@ Horned Lark	Alaudidae	1995	Nutrition And Energetics		"Swain, S. D. 1991. Metabol
 Horned Lark	Alaudidae	1995	Nutrition And Energetics		"Trost, C. H. 1972. Adaptations of Horned Larks (Eremophila alpestris) to hot environments. Auk 89:506-527."	y	n		
 Horned Lark	Alaudidae	1995	Diet	Major Food Items	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River valley. Univ. of Arizona Press, Tucson."	n		unavailable	
 Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Norvell, J. R. and P. D. Creighton. 1990. Foraging of Horned Lark and Water Pipits in alpine communities. J. Field Ornithol. 61:434-440."	y	n		
-Horned Lark	Alaudidae	1995	Diet	Quantitative Analysis	"Wiens, J. A. and J. T. Rotenberry. 1980. Patterns of morphology and ecology in grassland and shrubsteppe bird populations. Ecol. Monogr. 50:287-308."				
-Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Beason, R. C. 1970. The annual cycle of the Prairie Horned Lark in west-central Illinois. Master's Thesis. Western Illinois Univ. Macomb."				
-Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Edwards, J. S. and P. C. Banko. 1976. Arthropod fallout and nutrient transport: a quantitative study of Alaskan snowpatches. Arctic Alpine Res. 8:237-245."				
+Horned Lark	Alaudidae	1995	Diet	Quantitative Analysis	"Wiens, J. A. and J. T. Rotenberry. 1980. Patterns of morphology and ecology in grassland and shrubsteppe bird populations. Ecol. Monogr. 50:287-308."	y	n		
+Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Beason, R. C. 1970. The annual cycle of the Prairie Horned Lark in west-central Illinois. Master's Thesis. Western Illinois Univ. Macomb."	n		unavailable	
+Horned Lark	Alaudidae	1995	Feeding	Food Capture And Consumption	"Edwards, J. S. and P. C. Banko. 1976. Arthropod fallout and nutrient transport: a quantitative study of Alaskan snowpatches. Arctic Alpine Res. 8:237-245."	y	n		
 Horned Lark	Alaudidae	1910	Diet	Major Food Items 	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered; article has Horned Lark's sientific name as Otocoris alpestris (not current)	
 Sky Lark	Alaudidae	1997	Feeding	Food Capture And Consumption	"Green, R. 1978. Factors affecting the diet of farmland skylarks Alauda arvensis. J. Anim. Ecol. 47:913-928."				
 Sky Lark	Alaudidae	1997	Feeding	Main Foods Taken	"Stirling, D. 1962. Birding in the snow. Victoria Nat. 18:102-103."				
