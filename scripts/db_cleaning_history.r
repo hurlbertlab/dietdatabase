@@ -381,11 +381,18 @@ diet$Prey_Part = gsub(' and', ';', diet$Prey_Part)
 diet$Prey_Part = gsub('offal;afterbirth', 'offal; afterbirth', diet$Prey_Part)
 diet$Prey_Part = gsub(',', ';', diet$Prey_Part)
 diet$Prey_Part = gsub('feathers', 'feather', diet$Prey_Part)
-diet$Prey_Part = gsub('seed ', '', diet$Prey_Part)
 diet$Prey_Part = gsub('nuts', 'nut', diet$Prey_Part)
 diet$Prey_Part = gsub('buds', 'bud', diet$Prey_Part)
 diet$Prey_Part = gsub('mandibles', 'mandible', diet$Prey_Part)
 
+#Date: 6 Feb 2017; By: Patrick Winner
+#Cleaning Prey_Stage
+diet$Prey_Stage = gsub('larva; pupae; adult', 'larvae; pupae; adult', diet$Prey_Stage)
+diet$Prey_Part = gsub('bones', 'bone', diet$Prey_Part)
+diet$Prey_Part = gsub('fibers', 'fiber', diet$Prey_Part)
+diet$Prey_Part = gsub('some fruit', 'fruit', diet$Prey_Part)
+
+diet$Prey_Part = gsub('', '', diet$Prey_Part)
 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
