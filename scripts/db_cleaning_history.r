@@ -289,7 +289,7 @@ diet$Habitat_type = gsub('deciduous forest, agriculture', 'deciduous forest; agr
 diet$Habitat_type = gsub('deciduous forest, semi-deciduous forest', 'deciduous forest; forest', diet$Habitat_type)
 diet$Habitat_type = gsub('grassland, agriculture', 'agriculture; grassland', diet$Habitat_type)
 diet$Habitat_type = gsub('grassland, shrubland', 'grassland; scrubland', diet$Habitat_type)
-diet$Habitat_type = gsub('shrubland', 'scrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('scrubland', 'shrubland', diet$Habitat_type)
 diet$Habitat_type = gsub('Juniper Oak forest', 'forest', diet$Habitat_type)
 diet$Habitat_type = gsub('Mesquite-acacia woodlands', 'woodland', diet$Habitat_type)
 
@@ -403,7 +403,18 @@ diet$Study_Type = gsub('examinations', 'examination', diet$Study_Type)
 diet$Study_Type = gsub('observations', 'observation', diet$Study_Type)
 diet$Study_Type = gsub('fecal contents', 'fecal examination', diet$Study_Type)
 
-diet$Study_Type = gsub('', '', diet$Study_Type)
+
+#Date: 7 Feb 2017; By: Patrick Winner
+#Fixing previous subbing of scrubland for shrubland
+diet$Habitat_type = gsub('scrubland', 'shrubland', diet$Habitat_type)
+#Cleaning Habitat_type
+diet$Habitat_type = tolower(diet$Habitat_type)
+
+#Cleaning Study Type
+diet$Study_Type = gsub('stomach contents; mcatee describes notes made by beal in his work; with a smaller sample of birds', 'stomach contents', diet$Study_Type)
+
+#Cleaning Location_Region
+diet$Location_Region = gsub('British Columbia ', 'British Columbia', diet$Location_Region)
 
 
 #----------------------------------------------------------------------
