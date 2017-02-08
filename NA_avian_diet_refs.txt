@@ -3137,10 +3137,10 @@ Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture A
 Chihuahuan Raven	Corvidae	2002	Metabolism And Temperature Regulation		"Hudson, D. M. and M. H. Bernstein. 1981. Temperature regulation and heat balance in flying White-necked Ravens, Corvus cryptoleucus. J. Exp. Biol. 90:267-281."	y	n		
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Aldous, S. E. 1942. The White-necked Raven in relation to agriculture. Res. Rep. 5. U.S. Fish Wildl. Serv."	y	y	Entered data	
 Chihuahuan Raven	Corvidae	2002	Diet	Quantitative Analysis	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Game Fish."	y	n		
-Chihuahuan Raven	Corvidae	2002	Food Selection And Storage		"Oberholser, H. C. 1974. The bird life of Texas. Vol. 2. Univ. of Texas Press, Austin."				
+Chihuahuan Raven	Corvidae	2002	Food Selection And Storage		"Oberholser, H. C. 1974. The bird life of Texas. Vol. 2. Univ. of Texas Press, Austin."	n		unavailable	
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Ligon, J. S. 1961. New Mexico birds and where to find them. Univ. of New Mexico Press, Albuquerque."	y	n		
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Benkman, C. W., R. P. Balda, and C. C. Smith. 1984. Adaptations for seed dispersal and the compromises due to seed predation in limber pine. Ecology 65:632-642."	y	n		
-Clark's Nutcracker	Corvidae	1998	Food Storage And Recovery	Retrieval Of Seed Caches	"Olson, D. J. 1991. Species differences in spatial memory among Clark's nutcracker, scrub jays, and pigeons. J. Exper. Psychol.: Anim. Behav. Proc. 17:363-376."				
+Clark's Nutcracker	Corvidae	1998	Food Storage And Recovery	Retrieval Of Seed Caches	"Olson, D. J. 1991. Species differences in spatial memory among Clark's nutcracker, scrub jays, and pigeons. J. Exper. Psychol.: Anim. Behav. Proc. 17:363-376."	y	n		
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Cottam, C. 1945. Feeding habits of the Clark Nutcracker. Condor 47:168."	y	n		
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Munro, J. A. 1919. Notes on some birds of the Okanagan Valley, British Columbia. Auk 36:72-73."	y	n		
 Clark's Nutcracker	Corvidae	1998	Nutcracker-Pine Mutualisms		"Tomback, D. F. 1983. Nutcrackers and pines: coevolution or coadaptation? Pages 179-223 in Coevolution. (Nitecki, M. H., Ed.) Univ. of Chicago Press, Chicago, IL."	y	n		
@@ -3156,13 +3156,13 @@ Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Bent, A. 
 Clark's Nutcracker	Corvidae	1998	Food Storage And Recovery	Timing Of Seed Storage	"Tomback, D. F. and W. S. F. Schuster. 1994. Genetic population structure and growth form distribution in bird-dispersed pines. Proceedings-International workshop on subalpine stone pines and their environment: the state of our knowledge. (Schmidt, W. C. and F. K. Holtmeier, Eds.) USDA Forest Service Intermountain Res. Sta. INT-6TR-309, Ogden, UT."	y	n		
 Clark's Nutcracker	Corvidae	1998	Food Storage And Recovery	Retrieval Of Seed Caches	"Vander Wall, S. B. and H. E. Hutchins. 1983. Dependence of Clark's Nutcracker, Nucifraga columbiana, on conifer seeds during postfledging period. Can. Field-Nat. 97:208-214."	y	n		
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Bradbury, W. C. 1917. Notes on the nesting habits of the Clarke Nutcracker in Colorado. Condor 19:149-155."	y	n		
-Clark's Nutcracker	Corvidae	1998	Diet	Major Food Items	"Lanner, R. M. 1988. Dependence of Great Basin bristlecone pine on Clark's Nutcracker for regeneration at high elevations. Arctic and Alpine Research 20:358-362."				
+Clark's Nutcracker	Corvidae	1998	Diet	Major Food Items	"Lanner, R. M. 1988. Dependence of Great Basin bristlecone pine on Clark's Nutcracker for regeneration at high elevations. Arctic and Alpine Research 20:358-362."	y	n		
 Clark's Nutcracker	Corvidae	1998	Nutcracker-Pine Mutualisms		"Lanner, R. M. and S. B. Vander Wall. 1980. Dispersal of limber pine seed by Clark's Nutcracker. J. Forestry 78:637-639."	y	n		
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"French, N. R. 1955. Foraging behavior and predation by Clark Nutcracker. Condor 57:61-62."	y	n		
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Parker, W. H. 1900. The nesting of Clarke's Nutcracker. Condor 2:15."	y	n		
 Clark's Nutcracker	Corvidae	1998	Food Storage And Recovery	"Seed Harvest, Transportation, And Caching Behavior"	"Vander Wall, S. B., S. W. Hoffman, and W. K. Potts. 1981. Emigration behavior of Clark's Nutcracker. Condor 83:162-170."	y	n		
-Clark's Nutcracker	Corvidae	1998	Diet	Major Food Items	"Tomback, D. F. 1982. Dispersal of whitebark pine seeds by Clark's Nutcracker: a mutualism hypothesis. J. Anim. Ecol. 51:451-467."				
-Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Decker, F. R. and J. H. Bowles. 1931. Summer birds of the Blue Mountains, Washington. Murrelet 12:12-14."				
+Clark's Nutcracker	Corvidae	1998	Diet	Major Food Items	"Tomback, D. F. 1982. Dispersal of whitebark pine seeds by Clark's Nutcracker: a mutualism hypothesis. J. Anim. Ecol. 51:451-467."	y	n		
+Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Decker, F. R. and J. H. Bowles. 1931. Summer birds of the Blue Mountains, Washington. Murrelet 12:12-14."	y	n		
 Clark's Nutcracker	Corvidae	1998	Metabolism And Temperature Regulation		"Tomback, D. F. 1978b. Pre-roosting flight of the Clark's Nutcracker. Auk 95:554-562."	y	n		
 Clark's Nutcracker	Corvidae	1998	Feeding	Food Capture And Consumption	"Rowley, J. S. 1939. Breeding birds of Mono County, California. Condor 41:247-254."				
 Clark's Nutcracker	Corvidae	1998	Diet	Major Food Items	"Tomback, D. F. and Y. B. Linhart. 1990. The evolution of bird-dispersed pines. Evol. Ecol. 4:185-219."	y	n		
