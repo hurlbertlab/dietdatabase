@@ -8,14 +8,14 @@ x
 "Baldwin, P. H. and T. L. C. Casey. 1983. A preliminary list of foods of the Po'o-uli. 'Elepaio 43:53-56."	
 "Bancroft, G. T. and R. Bowman. 1994. Temporal patterns in diet of nestling White-crowned Pigeons: implications for conservation of frugivorous Columbids. Auk 111:844-852."	
 "Barrows, W. B. 1912. Michigan bird life. Special Bulletin of the Department of Zoology and Physiology, Michigan Agricultural College, East Lansing."	
-"Basili, G. D. and S. A. Temple. 1999a. Winter ecology, behavior, and conservation needs of Dickcissels in Venezuela. Stud. Avian Biol. 19:289-299."	x
+"Basili, G. D. and S. A. Temple. 1999a. Winter ecology, behavior, and conservation needs of Dickcissels in Venezuela. Stud. Avian Biol. 19:289-299."	
 "Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."	
 "Beal, F. E. L. 1898. Cuckoos and shrikes and their relation to agriculture. U.S. Dep. Agric. Biol. Surv. Bull. no. 9."	
 "Beal, F. E. L. 1900. Food of the Bobolink, blackbirds, and grackles. U.S. Dep. Agric. Biol. Surv. Bull. 13:1-77."	
 "Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, Pt. 1. Biol. Surv. Bull. no. 30."	
 "Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	
 "Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	
-"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric., Biol. Surv. Bull. 34:1-96."	
+"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry, Pt. II. U.S. Dep. Agric., Biol. Surv. Bull. 34:1-96."	x
 "Beal, F. E. L. 1911. Food of the woodpeckers of the United States. U.S. Dept. Agr. Biol. Surv. Bull. 37."	
 "Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."	
 "Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. No. 44."	
