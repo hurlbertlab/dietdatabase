@@ -413,10 +413,7 @@ diet$Habitat_type = tolower(diet$Habitat_type)
 #Cleaning Study Type
 diet$Study_Type = gsub('stomach contents; mcatee describes notes made by beal in his work; with a smaller sample of birds', 'stomach contents', diet$Study_Type)
 
-#Cleaning Location_Region
-diet$Location_Region = gsub('British Columbia ', 'British Columbia', diet$Location_Region)
-
-#Date: 13 Feb 2017; By: Patrick Winner
+#Date: 14 Feb 2017; By: Patrick Winner
 #Cleaning Habitat_type
 diet$Habitat_type = gsub('marsh', 'wetland', diet$Habitat_type)
 diet$Habitat_type = gsub('agriculture; orchard', 'agriculture', diet$Habitat_type)
@@ -434,6 +431,19 @@ diet$Habitat_type = gsub('forests; open groves; orchards', 'forest; woodland; ag
 diet$Habitat_type = gsub('groves', 'woodland', diet$Habitat_type)
 diet$Habitat_type = gsub('thickets', 'shrubland', diet$Habitat_type)
 diet$Habitat_type = gsub('hilly open area; nest in trees', 'grassland; woodland', diet$Habitat_type)
+diet$Habitat_type = gsub('scattered trees', 'woodland', diet$Habitat_type)
+diet$Habitat_type = gsub('residential areas', 'urban', diet$Habitat_type)
+diet$Habitat_type = gsub('gardens', 'agriculture', diet$Habitat_type)
+diet$Habitat_type = gsub('mangrove forest', 'wetland', diet$Habitat_type)
+diet$Habitat_type = gsub('open parklike country', 'grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('open; sometimes forest', 'grassland; forest', diet$Habitat_type)
+diet$Habitat_type = gsub(' and', ';', diet$Habitat_type)
+diet$Habitat_type = gsub('open pastures', 'grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('primarily bushes near water courses and fields', 'shrubland; grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('forestedges', 'forest', diet$Habitat_type)
+diet$Habitat_type = gsub('agricultures', 'agriculture', diet$Habitat_type)
+diet$Habitat_type = gsub('grasslands', 'grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('forests', 'forest', diet$Habitat_type)
 
 
 #----------------------------------------------------------------------
