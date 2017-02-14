@@ -97,6 +97,23 @@ olsen$Habitat_type = gsub('river', 'wetland', olsen$Habitat_type)
 olsen$Habitat_type = gsub('salt water', 'wetland', olsen$Habitat_type)
 olsen$Habitat_type = gsub('wetlandal wetlands', 'wetland', olsen$Habitat_type)
 
+#Date: 14 Feb 2017; By: Patrick Winner
+#Cleaning Location_Region
+olsen$Location_Region = gsub('Gloucestershire', 'England', olsen$Location_Region)
+
+#Cleaning Habitat_type
+olsen$Habitat_type = gsub('fringing zone', 'wetland', olsen$Habitat_type)
+
+#Cleaning Observation_Season
+olsen$Observation_Season = gsub('fall', 'Fall', olsen$Observation_Season)
+olsen$Observation_Season = gsub('spring', 'Spring', olsen$Observation_Season)
+olsen$Observation_Season = gsub('summer', 'Summer', olsen$Observation_Season)
+olsen$Observation_Season = gsub('winter', 'Winter', olsen$Observation_Season)
+
+#Cleaning Prey_Part
+olsen$Prey_Part = gsub('vegetative parts', 'vegetation', olsen$Prey_Part)
+olsen$Prey_Part = gsub('fibrous parts', 'fiber', olsen$Prey_Part)
+
 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
