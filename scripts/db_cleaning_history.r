@@ -416,6 +416,25 @@ diet$Study_Type = gsub('stomach contents; mcatee describes notes made by beal in
 #Cleaning Location_Region
 diet$Location_Region = gsub('British Columbia ', 'British Columbia', diet$Location_Region)
 
+#Date: 13 Feb 2017; By: Patrick Winner
+#Cleaning Habitat_type
+diet$Habitat_type = gsub('marsh', 'wetland', diet$Habitat_type)
+diet$Habitat_type = gsub('agriculture; orchard', 'agriculture', diet$Habitat_type)
+diet$Habitat_type = gsub('orchard', 'agriculture', diet$Habitat_type)
+diet$Habitat_type = gsub('brush', 'shrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('shrublandland', 'shrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('bushy thickets; near streams', 'shrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('cactus or riparian communties', 'wetland', diet$Habitat_type)
+diet$Habitat_type = gsub('coastal mangroves and trees', 'wetland', diet$Habitat_type)
+diet$Habitat_type = gsub('orchards', 'agriculture', diet$Habitat_type)
+diet$Habitat_type = gsub('foresttrees', 'forest', diet$Habitat_type)
+diet$Habitat_type = gsub('edge and open country', 'grassland', diet$Habitat_type)
+diet$Habitat_type = gsub('edge of forests; open groves', 'woodland', diet$Habitat_type)
+diet$Habitat_type = gsub('forests; open groves; orchards', 'forest; woodland; agriculture', diet$Habitat_type)
+diet$Habitat_type = gsub('groves', 'woodland', diet$Habitat_type)
+diet$Habitat_type = gsub('thickets', 'shrubland', diet$Habitat_type)
+diet$Habitat_type = gsub('hilly open area; nest in trees', 'grassland; woodland', diet$Habitat_type)
+
 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
