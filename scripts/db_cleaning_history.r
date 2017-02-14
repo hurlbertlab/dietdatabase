@@ -445,6 +445,10 @@ diet$Habitat_type = gsub('agricultures', 'agriculture', diet$Habitat_type)
 diet$Habitat_type = gsub('grasslands', 'grassland', diet$Habitat_type)
 diet$Habitat_type = gsub('forests', 'forest', diet$Habitat_type)
 
+#Cleaning Prey_Part
+diet$Prey_Part = gsub('catkins', 'catkin', diet$Prey_Part)
+diet$Prey_Part = gsub('leaves', 'leaf', diet$Prey_Part)
+
 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
