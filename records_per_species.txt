@@ -1,319 +1,319 @@
-"Common_Name"	"n"
-"Abert's Towhee"	5
-"Acadian Flycatcher"	33
-"Acorn Woodpecker"	49
-"Alder/Willow Flycatcher"	83
-"American Crow"	67
-"American Goldfinch"	16
-"American Kestrel"	172
-"American Pipit"	186
-"American Redstart"	40
-"American Robin"	426
-"American Three-toed Woodpecker"	9
-"American Tree Sparrow"	84
-"American White Pelican"	1
-"Ash-throated Flycatcher"	39
-"Azure Bluebird"	11
-"Bachman's Sparrow"	28
-"Bald Eagle"	1121
-"Baltimore Oriole"	110
-"Band-tailed Pigeon"	113
-"Bank Swallow"	140
-"Barn Owl"	126
-"Barn Swallow"	17
-"Barnacle Goose"	3
-"Barred Owl"	69
-"Bay-breasted Warbler"	17
-"Bell's Sparrow"	43
-"Bell's Vireo"	8
-"Bewick's Wren"	20
-"Black-and-white Warbler"	8
-"Black-backed Woodpecker"	5
-"Black-billed Magpie"	45
-"Black-capped Chickadee"	4
-"Black-chested Buzzard-Eagle"	9
-"Black-footed Albatross"	7
-"Black-headed Grosbeak"	119
-"Black-throated Blue Warbler"	17
-"Black-throated Green Warbler"	20
-"Black Phoebe"	86
-"Black Rosy-Finch"	23
-"Black Swift"	168
-"Black Vulture"	31
-"Blackburnian Warbler"	18
-"Blackpoll Warbler"	2
-"Blue-gray Gnatcatcher"	73
-"Blue-headed Vireo"	15
-"Blue-throated Mountaingem"	9
-"Blue Jay"	18
-"Boat-tailed Grackle"	166
-"Bobolink"	36
-"Boreal Owl"	40
-"Brewer's Blackbird"	147
-"Brewer's Sparrow"	90
-"Broad-billed Hummingbird"	16
-"Broad-winged Hawk"	266
-"Brown-crested Flycatcher"	12
-"Brown-headed Cowbird"	124
-"Brown-Headed Cowbird"	20
-"Brown-headed Nuthatch"	39
-"Brown Creeper"	33
-"Brown Thrasher"	61
-"Buff-breasted Flycatcher"	5
-"Bullock's Oriole"	35
-"Burrowing Owl"	152
-"Bush Tit"	12
-"Cactus Wren"	13
-"California Gnatcatcher"	16
-"California Quail"	95
-"California Thrasher"	12
-"California Towhee"	60
-"Cape May Warbler"	20
-"Carolina Chickadee"	9
-"Carolina Wren"	12
-"Cassin's Kingbird"	17
-"Cassin's Vireo"	35
-"Cedar Waxwing"	18
-"Cerulean Warbler"	10
-"Chaffinch"	50
-"Chestnut-backed Chickadee"	32
-"Chestnut-collared Longspur"	55
-"Chestnut-sided Warbler"	7
-"Chihuahuan Raven"	60
-"Chipping Sparrow"	117
-"Chuck-will's-widow"	3
-"Clark's Grebe"	7
-"Clark's Nutcracker"	6
-"Cliff Swallow"	161
-"Common Black-Hawk"	81
-"Common Black Hawk"	9
-"Common Gallinule"	127
-"Common Grackle"	64
-"Common Ground Dove"	290
-"Common Nighthawk"	48
-"Common Pauraque"	4
-"Common Poorwill"	3
-"Common Raven"	18
-"Common Redpoll"	25
-"Common Starling"	195
-"Common Yellowthroat"	26
-"Cooper's Hawk"	537
-"Cordilleran Flycatcher"	26
-"Couch's Kingbird"	2
-"Curve-billed Thrashers"	52
-"Dark-eyed Junco"	18
-"Dickcissel"	50
-"Downy Woodpecker"	78
-"Dusky-capped Flycatcher"	13
-"Dusky Flycatcher"	30
-"Eastern Bluebird"	236
-"Eastern Kingbird"	284
-"Eastern Meadowlark"	50
-"Eastern Phoebe"	12
-"Eastern Screech-Owl"	219
-"Eastern Screech Owl"	5
-"Eastern Wood-pewee"	156
-"Elegant Trogon"	18
-"Elf Owl"	3
-"Emperor Goose"	13
-"Eskimo Curlew"	9
-"Eurasian Linnet"	205
-"Eurasian Teal"	13
-"Eurasian Wigeon"	12
-"European Goldfinch"	152
-"European Greenfinch"	255
-"Evening Grosbeak"	24
-"Ferruginous Hawk"	295
-"Ferruginous Pygmy Owl"	36
-"Field Sparrow"	100
-"Flammulated Owl"	17
-"Golden-cheeked Warbler"	6
-"Golden-crowned Kinglet"	41
-"Golden-crowned Sparrow"	36
-"Golden Eagle"	794
-"Grasshopper Sparrow"	115
-"Gray Hawk"	4
-"Gray Kingbird"	10
-"Great-tailed Grackle"	73
-"Great Crested Flycatcher"	15
-"Great Egret"	5
-"Great Gray Owl"	128
-"Great Grey Owl"	3
-"Great Grey Shrike"	130
-"Great Horned Owl"	756
-"Great Kiskadee"	11
-"Green Jay"	7
-"Gyrfalcon"	3
-"Hairy Woodpecker"	43
-"Hammond's Flycatcher"	67
-"Harris' Hawk"	12
-"Harris's Hawk"	5
-"Hen Harrier"	63
-"Hermit Thrush"	6
-"Himalayan Cuckoo"	1
-"Horned Lark"	201
-"House Finch"	27
-"House Sparrow"	56
-"House Wren"	22
-"Hutton's Vireo"	8
-"Indigo Bunting"	11
-"Ivory-billed Woodpecker"	13
-"Kirtland's Warbler"	24
-"Lapland Longspur"	76
-"Large-billed Sparrow"	13
-"Le Conte's Sparrow"	26
-"Least Flycatcher"	19
-"Lesser Goldfinch"	30
-"Lewis's Woodpecker"	21
-"Loggerhead Shrike"	84
-"Long-billed Thrasher"	68
-"Long-eared Owl"	65
-"Louisiana Waterthrush"	28
-"Lucy's Warbler"	8
-"MacGillivray's Warbler"	28
-"Magnificent Hummingbird"	9
-"Magnolia Warbler"	5
-"Mangrove Cuckoo"	7
-"Marsh Wren"	8
-"Masked Bob-white"	20
-"McCown's Longspur"	12
-"Merlin"	23
-"Mississippi Kite"	36
-"Mountain Bluebird"	34
-"Mountain Chickadee"	44
-"Mourning Dove"	76
-"Nashville Warbler"	38
-"Northern Beardless-tyrannulet"	10
-"Northern Bobwhite"	5
-"Northern Cardinal"	97
-"Northern Flicker"	31
-"Northern Goshawk"	237
-"Northern Harrier"	4
-"Northern Hawk-owl"	4
-"Northern Mockingbird"	15
-"Northern Pygmy Owl"	5
-"Northern Rough-winged Swallow"	74
-"Northern Saw-whet Owl"	5
-"Northern Waterthrush"	28
-"Nuttall's Woodpecker"	15
-"Oak Titmouse"	21
-"Olive-sided Flycatcher"	19
-"Orange-crowned Warbler"	57
-"Osprey"	60
-"Ovenbird"	52
-"Pacific-slope Flycatcher"	88
-"Painted Bunting"	5
-"Palm Warbler"	5
-"Peale's Falcon"	7
-"Peregrine Falcon"	5
-"Philadelphia Vireo"	3
-"Pileated Woodpecker"	13
-"Pine Grosbeak"	50
-"Pine Warbler"	64
-"Pink-footed Goose"	5
-"Plain Chachalaca"	2
-"Plain Titmouse"	10
-"Poo-uli"	8
-"Prairie Falcon"	60
-"Prairie Warbler"	14
-"Prothonotary Warbler"	24
-"Purple Martin"	102
-"Pygmy Nuthatch"	8
-"Pyrrhuloxia"	6
-"Red-Backed Hawk"	10
-"Red-bellied Woodpecker"	40
-"Red-Breasted Sapsucker"	26
-"Red-cockaded Woodpecker"	24
-"Red-eyed Vireo"	22
-"Red-headed Woodpecker"	74
-"Red-shouldered Hawk"	47
-"Red-tailed Hawk"	520
-"Red-winged Blackbird"	343
-"Red Crossbill"	14
-"Rock Pigeon"	229
-"Rose-breasted Grosbeak"	94
-"Roseate Spoonbill"	4
-"Rough-legged Buzzard"	5
-"Rough-legged Hawk"	100
-"Ruby-crowned Kinglet"	33
-"Rusty Blackbird"	4
-"Sagebrush Sparrow"	36
-"Savannah Sparrow"	9
-"Say's Phoebe"	71
-"Scarlet Tanager"	10
-"Scissor-tailed Flycatcher"	89
-"Scrub Jay"	70
-"Sennett's White-tailed Hawk"	6
-"Sharp-shinned Hawk"	206
-"Short-eared Owl"	70
-"Short-tailed Hawk"	6
-"Short-tailed Shearwater"	6
-"Smith's Longspur"	20
-"Smooth-billed Ani"	20
-"Snail Kite"	3
-"Snow Bunting"	63
-"Snowy Owl"	21
-"Song Sparrow"	61
-"Spotted Dove"	220
-"Spotted Owl"	5
-"Spotted Towhee"	52
-"Sprague's Pipit"	21
-"Steller's Jay"	35
-"Sulphur-bellied Flycatcher"	9
-"Summer Tanager"	9
-"Swainson's Hawk"	185
-"Swainson's Hawks"	33
-"Swainson's Thrush"	9
-"Swallow-tailed Kite"	19
-"Tennessee Warbler"	24
-"Thick-billed Parrot"	1
-"Townsend's Solitaire"	16
-"Townsend's Warbler"	30
-"Tree Swallow"	101
-"Tricolored Blackbird"	110
-"Tropical Kingbird"	5
-"Trumpeter Swan"	9
-"Tufted Titmouse"	7
-"Turkey Vulture"	131
-"Upland Sandpiper"	17
-"Varied Thrush"	35
-"Vaux's Swift"	145
-"Veery"	18
-"Vesper Sparrow"	180
-"Violet-green Swallow"	44
-"Warbling Vireo"	37
-"Western Barn Swallow"	7
-"Western Bluebird"	70
-"Western Kingbird"	71
-"Western Meadowlark"	541
-"Western Scrub-Jay"	33
-"Western Tanager"	34
-"Western Wood-pewee"	136
-"Whiskered Screech Owl"	5
-"White-breasted Nuthatch"	26
-"White-crowned Pigeon"	116
-"White-crowned Sparrow"	79
-"White-tailed Eagle"	2
-"White-tailed Hawk"	5
-"White-tailed Kite"	30
-"White-tipped Dove"	8
-"White-winged Crossbill"	9
-"White-winged Dove"	1074
-"Williamson's Sapsucker"	2
-"Willow Flycatcher"	12
-"Wilson's Warbler"	39
-"Winter Wren"	10
-"Wood Stork"	225
-"Wood Thrush"	20
-"Wren Tit"	9
-"Yellow-bellied Flycatcher"	73
-"Yellow-bellied Sapsucker"	72
-"Yellow-billed Cuckoo"	12
-"Yellow-billed Loon"	6
-"Yellow-billed Magpie"	85
-"Yellow-breasted Chat"	8
-"Yellow-headed Blackbird"	12
-"Yellow-rumped Warbler (Audubon's)"	41
-"Yellow-rumped Warbler (Myrtle)"	10
-"Yellow Warbler"	34
-"Zone-tailed Hawk"	83
+Common_Name	n	
+Abert's Towhee	5	
+Acadian Flycatcher	33	
+Acorn Woodpecker	49	x
+Alder/Willow Flycatcher	83	
+American Crow	67	
+American Goldfinch	16	
+American Kestrel	172	
+American Pipit	186	
+American Redstart	40	
+American Robin	426	
+American Three-toed Woodpecker	9	
+American Tree Sparrow	84	
+American White Pelican	1	
+Ash-throated Flycatcher	39	
+Azure Bluebird	11	
+Bachman's Sparrow	28	
+Bald Eagle	1121	
+Baltimore Oriole	110	
+Band-tailed Pigeon	113	
+Bank Swallow	140	
+Barn Owl	126	
+Barn Swallow	17	
+Barnacle Goose	3	
+Barred Owl	69	
+Bay-breasted Warbler	17	
+Bell's Sparrow	43	
+Bell's Vireo	8	
+Bewick's Wren	20	
+Black-and-white Warbler	8	
+Black-backed Woodpecker	5	
+Black-billed Magpie	45	
+Black-capped Chickadee	4	
+Black-chested Buzzard-Eagle	9	
+Black-footed Albatross	7	
+Black-headed Grosbeak	119	
+Black-throated Blue Warbler	17	
+Black-throated Green Warbler	20	
+Black Phoebe	86	
+Black Rosy-Finch	23	
+Black Swift	168	
+Black Vulture	31	
+Blackburnian Warbler	18	
+Blackpoll Warbler	2	
+Blue-gray Gnatcatcher	73	
+Blue-headed Vireo	15	
+Blue-throated Mountaingem	9	
+Blue Jay	18	
+Boat-tailed Grackle	166	
+Bobolink	36	
+Boreal Owl	40	
+Brewer's Blackbird	147	
+Brewer's Sparrow	90	
+Broad-billed Hummingbird	16	
+Broad-winged Hawk	266	
+Brown-crested Flycatcher	12	
+Brown-headed Cowbird	124	
+Brown-Headed Cowbird	20	
+Brown-headed Nuthatch	39	
+Brown Creeper	33	
+Brown Thrasher	61	
+Buff-breasted Flycatcher	5	
+Bullock's Oriole	35	
+Burrowing Owl	152	
+Bush Tit	12	
+Cactus Wren	13	
+California Gnatcatcher	16	
+California Quail	95	
+California Thrasher	12	
+California Towhee	60	
+Cape May Warbler	20	
+Carolina Chickadee	9	
+Carolina Wren	12	
+Cassin's Kingbird	17	
+Cassin's Vireo	35	
+Cedar Waxwing	18	
+Cerulean Warbler	10	
+Chaffinch	50	
+Chestnut-backed Chickadee	32	
+Chestnut-collared Longspur	55	
+Chestnut-sided Warbler	7	
+Chihuahuan Raven	60	
+Chipping Sparrow	117	
+Chuck-will's-widow	3	
+Clark's Grebe	7	
+Clark's Nutcracker	6	
+Cliff Swallow	161	
+Common Black-Hawk	81	
+Common Black Hawk	9	
+Common Gallinule	127	
+Common Grackle	64	
+Common Ground Dove	290	
+Common Nighthawk	48	
+Common Pauraque	4	
+Common Poorwill	3	
+Common Raven	18	
+Common Redpoll	25	
+Common Starling	195	
+Common Yellowthroat	26	
+Cooper's Hawk	537	
+Cordilleran Flycatcher	26	
+Couch's Kingbird	2	
+Curve-billed Thrashers	52	
+Dark-eyed Junco	18	
+Dickcissel	50	
+Downy Woodpecker	78	
+Dusky-capped Flycatcher	13	
+Dusky Flycatcher	30	
+Eastern Bluebird	236	
+Eastern Kingbird	284	
+Eastern Meadowlark	50	
+Eastern Phoebe	12	
+Eastern Screech-Owl	219	
+Eastern Screech Owl	5	
+Eastern Wood-pewee	156	
+Elegant Trogon	18	
+Elf Owl	3	
+Emperor Goose	13	
+Eskimo Curlew	9	
+Eurasian Linnet	205	
+Eurasian Teal	13	
+Eurasian Wigeon	12	
+European Goldfinch	152	
+European Greenfinch	255	
+Evening Grosbeak	24	
+Ferruginous Hawk	295	
+Ferruginous Pygmy Owl	36	
+Field Sparrow	100	
+Flammulated Owl	17	
+Golden-cheeked Warbler	6	
+Golden-crowned Kinglet	41	
+Golden-crowned Sparrow	36	
+Golden Eagle	794	
+Grasshopper Sparrow	115	
+Gray Hawk	4	
+Gray Kingbird	10	
+Great-tailed Grackle	73	
+Great Crested Flycatcher	15	
+Great Egret	5	
+Great Gray Owl	128	
+Great Grey Owl	3	
+Great Grey Shrike	130	
+Great Horned Owl	756	
+Great Kiskadee	11	
+Green Jay	7	
+Gyrfalcon	3	
+Hairy Woodpecker	43	
+Hammond's Flycatcher	67	
+Harris' Hawk	12	
+Harris's Hawk	5	
+Hen Harrier	63	
+Hermit Thrush	6	
+Himalayan Cuckoo	1	
+Horned Lark	201	
+House Finch	27	
+House Sparrow	56	
+House Wren	22	
+Hutton's Vireo	8	
+Indigo Bunting	11	
+Ivory-billed Woodpecker	13	
+Kirtland's Warbler	24	
+Lapland Longspur	76	
+Large-billed Sparrow	13	
+Le Conte's Sparrow	26	
+Least Flycatcher	19	
+Lesser Goldfinch	30	
+Lewis's Woodpecker	21	
+Loggerhead Shrike	84	
+Long-billed Thrasher	68	
+Long-eared Owl	65	
+Louisiana Waterthrush	28	
+Lucy's Warbler	8	
+MacGillivray's Warbler	28	
+Magnificent Hummingbird	9	
+Magnolia Warbler	5	
+Mangrove Cuckoo	7	
+Marsh Wren	8	
+Masked Bob-white	20	
+McCown's Longspur	12	
+Merlin	23	
+Mississippi Kite	36	
+Mountain Bluebird	34	
+Mountain Chickadee	44	
+Mourning Dove	76	
+Nashville Warbler	38	
+Northern Beardless-tyrannulet	10	
+Northern Bobwhite	5	
+Northern Cardinal	97	
+Northern Flicker	31	
+Northern Goshawk	237	
+Northern Harrier	4	
+Northern Hawk-owl	4	
+Northern Mockingbird	15	
+Northern Pygmy Owl	5	
+Northern Rough-winged Swallow	74	
+Northern Saw-whet Owl	5	
+Northern Waterthrush	28	
+Nuttall's Woodpecker	15	
+Oak Titmouse	21	
+Olive-sided Flycatcher	19	
+Orange-crowned Warbler	57	
+Osprey	60	
+Ovenbird	52	
+Pacific-slope Flycatcher	88	
+Painted Bunting	5	
+Palm Warbler	5	
+Peale's Falcon	7	
+Peregrine Falcon	5	
+Philadelphia Vireo	3	
+Pileated Woodpecker	13	
+Pine Grosbeak	50	
+Pine Warbler	64	
+Pink-footed Goose	5	
+Plain Chachalaca	2	
+Plain Titmouse	10	
+Poo-uli	8	
+Prairie Falcon	60	
+Prairie Warbler	14	
+Prothonotary Warbler	24	
+Purple Martin	102	
+Pygmy Nuthatch	8	
+Pyrrhuloxia	6	
+Red-Backed Hawk	10	
+Red-bellied Woodpecker	40	
+Red-Breasted Sapsucker	26	
+Red-cockaded Woodpecker	24	
+Red-eyed Vireo	22	
+Red-headed Woodpecker	74	
+Red-shouldered Hawk	47	
+Red-tailed Hawk	520	
+Red-winged Blackbird	343	
+Red Crossbill	14	
+Rock Pigeon	229	
+Rose-breasted Grosbeak	94	
+Roseate Spoonbill	4	
+Rough-legged Buzzard	5	
+Rough-legged Hawk	100	
+Ruby-crowned Kinglet	33	
+Rusty Blackbird	4	
+Sagebrush Sparrow	36	
+Savannah Sparrow	9	
+Say's Phoebe	71	
+Scarlet Tanager	10	
+Scissor-tailed Flycatcher	89	
+Scrub Jay	70	
+Sennett's White-tailed Hawk	6	
+Sharp-shinned Hawk	206	
+Short-eared Owl	70	
+Short-tailed Hawk	6	
+Short-tailed Shearwater	6	
+Smith's Longspur	20	
+Smooth-billed Ani	20	
+Snail Kite	3	
+Snow Bunting	63	
+Snowy Owl	21	
+Song Sparrow	61	
+Spotted Dove	220	
+Spotted Owl	5	
+Spotted Towhee	52	
+Sprague's Pipit	21	
+Steller's Jay	35	
+Sulphur-bellied Flycatcher	9	
+Summer Tanager	9	
+Swainson's Hawk	185	
+Swainson's Hawks	33	
+Swainson's Thrush	9	
+Swallow-tailed Kite	19	
+Tennessee Warbler	24	
+Thick-billed Parrot	1	
+Townsend's Solitaire	16	
+Townsend's Warbler	30	
+Tree Swallow	101	
+Tricolored Blackbird	110	
+Tropical Kingbird	5	
+Trumpeter Swan	9	
+Tufted Titmouse	7	
+Turkey Vulture	131	
+Upland Sandpiper	17	
+Varied Thrush	35	
+Vaux's Swift	145	
+Veery	18	
+Vesper Sparrow	180	
+Violet-green Swallow	44	
+Warbling Vireo	37	
+Western Barn Swallow	7	
+Western Bluebird	70	
+Western Kingbird	71	
+Western Meadowlark	541	
+Western Scrub-Jay	33	
+Western Tanager	34	
+Western Wood-pewee	136	
+Whiskered Screech Owl	5	
+White-breasted Nuthatch	26	
+White-crowned Pigeon	116	
+White-crowned Sparrow	79	
+White-tailed Eagle	2	
+White-tailed Hawk	5	
+White-tailed Kite	30	
+White-tipped Dove	8	
+White-winged Crossbill	9	
+White-winged Dove	1074	
+Williamson's Sapsucker	2	
+Willow Flycatcher	12	
+Wilson's Warbler	39	
+Winter Wren	10	
+Wood Stork	225	
+Wood Thrush	20	
+Wren Tit	9	
+Yellow-bellied Flycatcher	73	
+Yellow-bellied Sapsucker	72	
+Yellow-billed Cuckoo	12	
+Yellow-billed Loon	6	
+Yellow-billed Magpie	85	
+Yellow-breasted Chat	8	
+Yellow-headed Blackbird	12	
+Yellow-rumped Warbler (Audubon's)	41	
+Yellow-rumped Warbler (Myrtle)	10	
+Yellow Warbler	34	
+Zone-tailed Hawk	83	
