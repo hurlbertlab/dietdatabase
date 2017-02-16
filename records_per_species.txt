@@ -1,5 +1,4 @@
 "Common_Name"	"n"
-""	6
 "Abert's Towhee"	5
 "Acadian Flycatcher"	33
 "Acorn Woodpecker"	49
