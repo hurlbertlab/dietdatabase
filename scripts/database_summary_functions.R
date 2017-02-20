@@ -66,7 +66,7 @@ speciesSummary = function(commonName, diet, by = 'Order') {
                         'Prey_Genus', 'Prey_Scientific_Name')]
   level = which(names(dietprey) == taxonLevel)
   dietsp[, taxonLevel] = apply(dietprey, 1, function(x)
-    if(x[level] == "") { paste("Unid.", x[max(which(x != "")[which(x != "") < level])])} 
+    if(x[level] == "") { paste("Unid.", x[max(which(x != "")[which(x != "") < level], na.rm = T)])} 
     else { x[level] })
   
   # Prey_Stage should only matter for distinguishing things at the Order level and 
@@ -88,7 +88,8 @@ speciesSummary = function(commonName, diet, by = 'Order') {
   # Equal-weighted mean fraction of diet (all studies weighted equally despite
   #  variation in sample size)
   preySummary = dietsp %>% 
-    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Item_Sample_Size, Taxon, Diet_Type) %>%
+    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+             Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
     summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
     group_by(Diet_Type, Taxon) %>%
     summarize(Sum_Diet2 = sum(Sum_Diet, na.rm = T)) %>%
