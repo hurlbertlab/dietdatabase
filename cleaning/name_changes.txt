@@ -41,3 +41,4 @@ Plagyodus	Alepisaurus	ITIS:162524	renamed and misspelled	"Murie, O. J. 1940. Foo
 Cyclorrhynchus psittacula	Aethia psittacula	ITIS:554029	reclassified	"Murie, O. J. 1940. Food Habits of the Northern Bald Eagle in the Aleutian Islands, Alaska. The Condor. 42:198-202."
 Xylosyctes	Xyloryctes	ITIS:926605	misspelled in publication	"Cottam, C. and P. Knappen. 1939. Food of some uncommon North American birds. Auk 56:138-169."
 Pupoides fallax	Pupoides albilabris	ITIS:76808	renamed	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."
+Amblytelinae	Carabidae		source taxon name was of type tribe and reclassified as carabidae in coleoptera 	"Rathbun, S. F. 1925. The Black Swift and its habits. Auk 42:497-516."
