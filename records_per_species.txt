@@ -1,7 +1,7 @@
 Common_Name	n	
 Abert's Towhee	5	
 Acadian Flycatcher	33	
-Acorn Woodpecker	49	x
+Acorn Woodpecker	49	
 Alder/Willow Flycatcher	83	
 American Crow	67	
 American Goldfinch	16	
@@ -9,7 +9,7 @@ American Kestrel	172
 American Pipit	186	
 American Redstart	40	
 American Robin	426	
-American Three-toed Woodpecker	9	
+American Three-toed Woodpecker	9	x
 American Tree Sparrow	84	
 American White Pelican	1	
 Ash-throated Flycatcher	39	
