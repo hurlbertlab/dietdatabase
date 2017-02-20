@@ -3222,7 +3222,7 @@ Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Eells, M. M. 19
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Heinrich, B., D. Kaye, T. Knight, and K. Schaumburg. 1994. Dispersal and association among Common Ravens. Condor 96:545-551."	y	n		
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Heinrich, B. 1988b. Winter foraging at carcasses by three sympatric corvids, with emphasis on recruitment by the raven, Corvus corax. Behav. Ecol. Sociobiol. 23:141-156."	y	n		
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Parmelee, D. F. and J. M. Parmelee. 1988. Ravens observed killing roosting kittywakes. Condor 90:952."	n		unavailable	
-Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Camp, R. J., R. L. Knight, H. A. L. Knight, M. W. Sherman, and J. Y. Kawashima. 1993. Food habits of the nesting Common Ravens in the eastern Mojave Desert. Southwest. Nat. 38:163-165."	y	y	data not yet entered	
+Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Camp, R. J., R. L. Knight, H. A. L. Knight, M. W. Sherman, and J. Y. Kawashima. 1993. Food habits of the nesting Common Ravens in the eastern Mojave Desert. Southwest. Nat. 38:163-165."	y	y	Entered	
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Avery, M. L., D. L. Bergman, D. G. Decker, R. D. Flynt, and C. E. Knittle. 1993. Evaluation of aversive conditioning for reducing raven predation on eggs of California Least Terns, Camp Pendelton, California-1992. U.S. Dept. Agric., Denver Wildl. Res. Center, Florida Field Stn., Gainesville."	n		unavailable	
 Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Temple, S. A. 1974. Winter food habits of ravens on the arctic slope of Alaska. Arctic 27:41-46."	n		unavailable	
 Common Raven	Corvidae	1999	Diet	Major Food Items	"Mckernan, R. L. 1992b. Field observations of Common Raven at Whiskey Pete's California-Nevada Stateline, Fall 1991. Report to U.S. Dept. of the Interior, Bureau of Land Manag. Needles, CA."	n		unavailable	
@@ -3235,12 +3235,12 @@ Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Knowlton, G. F. 1943. Rav
 Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Nelson, A. L. 1934. Some early summer food preferences of the American raven in southeastern Oregon. Condor 36:10-15."	y	y	data not yet entered	
 Common Raven	Corvidae	1999	Food Selection And Storage	Food Storage	"Turcek, F. J. and L. Kelso. 1968. Ecological aspects of food transportion and storage in the Corvidae. Comm. Behav. Biol. Pt. A 1:277-297."	n		unavailable	
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Maser, C. 1975. Predation by Common Ravens on feral Rock Doves. Wilson Bull. 87:552-553."	y	n		
-Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Jefferson, B. 1989. Observations of Common Raven in metropolitan Toronto. Ont. Birds 7:15-20."				
-Common Raven	Corvidae	1999	Food Selection And Storage	Food Storage	"Gwinner, E. 1965. Beobachtungen ????ber Nestbau und Brutpflege des Kolkraben (Corvus corax) in Gefangenschaft. J. Orn. 103:146-177."				
-Common Raven	Corvidae	1999	Nutrition And Energetics		"Shank, C. C. 1986. Territory size, energetics, and breeding strategy in the Corvidae. Am. Nat. 128:642-652."				
-Common Raven	Corvidae	1999	Nutrition And Energetics		"Heinrich, B. 1994b. Does the early Common Raven get (and show) the meat? Auk 111:764-769."				
-Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Harriman, A. E. and R. H. Berger. 1986. Olfactory acuity in the Common Raven (Corvus corax). Phys. Behav. 36:257-262."				
-Common Raven	Corvidae	1999	Food Selection And Storage	Food Storage	"Simmons, K. E. L. 1970. Further observations on food-hiding in the Corvidae. Br. Birds 63:175-177."				
+Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Jefferson, B. 1989. Observations of Common Raven in metropolitan Toronto. Ont. Birds 7:15-20."	n		unavailable	
+Common Raven	Corvidae	1999	Food Selection And Storage	Food Storage	"Gwinner, E. 1965. Beobachtungen ????ber Nestbau und Brutpflege des Kolkraben (Corvus corax) in Gefangenschaft. J. Orn. 103:146-177."	n		unavailable	
+Common Raven	Corvidae	1999	Nutrition And Energetics		"Shank, C. C. 1986. Territory size, energetics, and breeding strategy in the Corvidae. Am. Nat. 128:642-652."	y	n		
+Common Raven	Corvidae	1999	Nutrition And Energetics		"Heinrich, B. 1994b. Does the early Common Raven get (and show) the meat? Auk 111:764-769."	y	n		
+Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Harriman, A. E. and R. H. Berger. 1986. Olfactory acuity in the Common Raven (Corvus corax). Phys. Behav. 36:257-262."	y	n		
+Common Raven	Corvidae	1999	Food Selection And Storage	Food Storage	"Simmons, K. E. L. 1970. Further observations on food-hiding in the Corvidae. Br. Birds 63:175-177."	n		unavailable	
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Gaston, A. J., D. K. Cairns, R. D. Elliot, and D. G. Noble. 1985. A natural history of Digges Sound. Can. Wildl. Serv. Rep. no. 46."	y	n		
 Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Dorn, J. L. 1972. The Common Raven in Jackson Hole, Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	y	Entered data	
 Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Barrows, W. B. 1888. The food of crows. U.S. Dep. Agric. Rep. 1888:498-535."				
