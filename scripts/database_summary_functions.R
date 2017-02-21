@@ -66,7 +66,7 @@ speciesSummary = function(commonName, diet, by = 'Order') {
                         'Prey_Genus', 'Prey_Scientific_Name')]
   level = which(names(dietprey) == taxonLevel)
   dietsp[, taxonLevel] = apply(dietprey, 1, function(x)
-    if(x[level] == "") { paste("Unid.", x[max(which(x != "")[which(x != "") < level], na.rm = T)])} 
+    if(x[level] == "" | is.na(x[level])) { paste("Unid.", x[max(which(x != "")[which(x != "") < level], na.rm = T)])} 
     else { x[level] })
   
   # Prey_Stage should only matter for distinguishing things at the Order level and 
