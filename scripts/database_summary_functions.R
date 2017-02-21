@@ -88,7 +88,7 @@ speciesSummary = function(commonName, diet, by = 'Order') {
   # Equal-weighted mean fraction of diet (all studies weighted equally despite
   #  variation in sample size)
   preySummary = dietsp %>% 
-    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Bird_Sample_Size,
              Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
     summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
     group_by(Diet_Type, Taxon) %>%
