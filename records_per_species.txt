@@ -9,9 +9,9 @@ American Kestrel	172
 American Pipit	186	
 American Redstart	40	
 American Robin	426	
-American Three-toed Woodpecker	9	x
+American Three-toed Woodpecker	9	
 American Tree Sparrow	84	
-American White Pelican	1	
+American White Pelican	1	x
 Ash-throated Flycatcher	39	
 Azure Bluebird	11	
 Bachman's Sparrow	28	

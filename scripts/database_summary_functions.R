@@ -81,15 +81,17 @@ speciesSummary = function(commonName, diet, by = 'Order') {
   
   analysesPerDietType = dietsp %>%
     select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
-           Habitat_type, Item_Sample_Size, Diet_Type) %>%
+           Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type) %>%
     distinct() %>%
     count(Diet_Type)
   
   # Equal-weighted mean fraction of diet (all studies weighted equally despite
   #  variation in sample size)
   preySummary = dietsp %>% 
+
     group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
-             Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
+             Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
+    
     summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
     group_by(Diet_Type, Taxon) %>%
     summarize(Sum_Diet2 = sum(Sum_Diet, na.rm = T)) %>%
