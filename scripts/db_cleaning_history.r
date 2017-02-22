@@ -450,6 +450,27 @@ diet$Prey_Part = gsub('catkins', 'catkin', diet$Prey_Part)
 diet$Prey_Part = gsub('leaves', 'leaf', diet$Prey_Part)
 
 
+#Date: 21 Feb 2017; By: Allen Hurlbert
+
+# Assign Prey_Phylum = 'Foraminifera' for all records where common name is foraminifera
+diet$Prey_Phylum[diet$Prey_Common_Name == 'foraminifera'] = 'Foraminifera'
+diet$Prey_Kingdom[diet$Prey_Common_Name == 'algae'] = 'Plantae'
+
+# Use Kingdoms 'Animalia' and 'Plantae' instead of 'Metazoa' and 'Viridiplantae'
+diet$Prey_Kingdom[diet$Prey_Kingdom == 'Metazoa'] = 'Animalia'
+diet$Prey_Kingdom[diet$Prey_Kingdom == 'Animali'] = 'Animalia'
+diet$Prey_Kingdom[diet$Prey_Kingdom == 'Viridiplantae'] = 'Plantae'
+diet$Prey_Family[diet$Prey_Phylum == 'Graminea'] = 'Poaceae'
+diet$Prey_Order[diet$Prey_Phylum == 'Graminea'] = 'Poales'
+diet$Prey_Class[diet$Prey_Phylum == 'Graminea'] = 'Magnoliopsida'
+diet$Prey_Phylum[diet$Prey_Phylum == 'Graminea'] = ''
+
+diet$Subspecies[diet$Subspecies == ""] = NA
+
+
+
+
+
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
 write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
