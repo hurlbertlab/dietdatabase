@@ -11,7 +11,7 @@ American Redstart	40
 American Robin	426	
 American Three-toed Woodpecker	9	
 American Tree Sparrow	84	
-American White Pelican	1	x
+American White Pelican	1	
 Ash-throated Flycatcher	39	
 Azure Bluebird	11	
 Bachman's Sparrow	28	
@@ -29,7 +29,7 @@ Bell's Vireo	8
 Bewick's Wren	20	
 Black-and-white Warbler	8	
 Black-backed Woodpecker	5	
-Black-billed Magpie	45	
+Black-billed Magpie	45	x
 Black-capped Chickadee	4	
 Black-chested Buzzard-Eagle	9	
 Black-footed Albatross	7	
