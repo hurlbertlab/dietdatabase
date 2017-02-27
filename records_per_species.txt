@@ -29,12 +29,12 @@ Bell's Vireo	8
 Bewick's Wren	20	
 Black-and-white Warbler	8	
 Black-backed Woodpecker	5	
-Black-billed Magpie	45	x
+Black-billed Magpie	45	
 Black-capped Chickadee	4	
 Black-chested Buzzard-Eagle	9	
 Black-footed Albatross	7	
 Black-headed Grosbeak	119	
-Black-throated Blue Warbler	17	
+Black-throated Blue Warbler	17	x
 Black-throated Green Warbler	20	
 Black Phoebe	86	
 Black Rosy-Finch	23	
