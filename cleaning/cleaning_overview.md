@@ -153,7 +153,7 @@ But first, a simple check for potential typos is to make sure that all values wi
 up to 100%. We're still working on tools for this, but one important check uses the `speciesSummary` function, where you specify 
 the species common name, the diet database object, and the taxonomic level at which you want data summarized. E.g., 
 
-First, get a summary of the entries for a specific bird
+First, get a summary of the entries for a specific bird:
 ```
 > speciesSummary('Black-throated Blue Warbler', diet, by = 'Order')
 $numStudies
@@ -208,7 +208,7 @@ $preySummary
 15 Occurrence       Hymenoptera  0.16666667
 16 Occurrence       Lepidoptera  0.16666667
 ```
-Storing species summary in a variable makes working with it easier. For each new bird, simply make a new abbreviation as the variable name and substitute in the bird name inside the ```speciesSummary``` function. The following shoes the same as above:
+Storing species summary in a variable makes working with it easier. For each new bird, simply make a new abbreviation as the variable name and substitute in the bird name inside the ```speciesSummary``` function (don't worry about saving these when you're closing RStudio for the day). The following shoes the same as above:
 ```
 > bluwarb = speciesSummary("Black-throated Blue Warbler", diet, by = "Order")
 > bluwarb
@@ -260,11 +260,11 @@ $preySummary
 13 Occurrence       Hymenoptera  0.16666667
 14 Occurrence       Lepidoptera  0.16666667
 ```
-Now, look at which Diet Types are listed:
+Now, look at which Diet Types are listed.
 Items, Wt_or_Vol, and Unspecified are what we'll be checking with the following code (not Occurence): 
 ```
 > sum(subset(bluwarb$preySummary, Diet_Type=="Items")$Frac_Diet)
 [1] 1
 ```
-To find the sum of the different Diet Types, simply change "Items" to whichever Diet Type you want, such as "Unspecified" or "Wt_or_Vol".
-The sum of each Diet Diet should be 1.0 or reasonably close. If the value is not about 1.0, it means there is probably a typo, error, or other problem somewhere in the entries. Open up the AvianDietDatabase and check the values for the Diet Type(s) where the sum was not 1.0 to find the problem. You most likely will have to consult the sources or papers themselves to reference the values. Make the necessary corrections and re-check the new sum.
+To find the sum of the different Diet Types, simply change "Items" to whichever Diet Type you want, such as "Unspecified" or "Wt_or_Vol". Don't forget to substitute in your new variable name also for each new bird.
+The sum of each Diet Type should be 1.0 or reasonably close. If the value is not about 1.0, it means there is probably a typo, error, or other problem somewhere in the entries. Open up the AvianDietDatabase and check the values for the Diet Type(s) where the sum was not 1.0 to find the problem. You most likely will have to consult the sources or papers themselves to reference the values. Make the necessary corrections and re-check the new sum.
