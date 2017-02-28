@@ -152,6 +152,8 @@ We will do spot checks of all entered studies, double-checking what's in the ori
 But first, a simple check for potential typos is to make sure that all values within a given diet analysis actually add
 up to 100%. We're still working on tools for this, but one important check uses the `speciesSummary` function, where you specify 
 the species common name, the diet database object, and the taxonomic level at which you want data summarized. E.g., 
+
+First, get a summary of the entries for a specific bird
 ```
 > speciesSummary('Black-throated Blue Warbler', diet, by = 'Order')
 $numStudies
@@ -206,4 +208,63 @@ $preySummary
 15 Occurrence       Hymenoptera  0.16666667
 16 Occurrence       Lepidoptera  0.16666667
 ```
+Storing species summary in a variable makes working with it easier. For each new bird, simply make a new abbreviation as the variable name and substitute in the bird name inside the ```speciesSummary``` function.
+```
+> bluwarb = speciesSummary("Black-throated Blue Warbler", diet, by = "Order")
+> bluwarb
+$numStudies
+[1] 2
 
+$Studies
+[1] "King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."                                                                               
+[2] "Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet, and habitat structure. Ecology 63:1918-1931."
+
+$numRecords
+[1] 17
+
+$recordsPerYear
+  Observation_Year_Begin  n
+1                   1875  3
+2                   1974 10
+3                   1976  4
+
+$recordsPerRegion
+  Location_Region  n
+1   New Hampshire 14
+2       Wisconsin  3
+
+$recordsPerType
+   Diet_Type  n
+1      Items 14
+2 Occurrence  3
+
+$analysesPerDietType
+   Diet_Type n
+1      Items 3
+2 Occurrence 1
+
+$preySummary
+    Diet_Type              Taxon  Frac_Diet
+1       Items Lepidoptera larvae 0.45300000
+2       Items        Coleoptera  0.16666667
+3       Items   coleoptera adult 0.16666667
+4       Items  Lepidoptera adult 0.04600000
+5       Items           Diptera  0.04600000
+6       Items      Diptera adult 0.04000000
+7       Items         Homoptera  0.01733333
+8       Items    Homoptera adult 0.01733333
+9       Items       Hymenoptera  0.01733333
+10      Items  Hymenoptera adult 0.01733333
+11      Items           Araneae  0.01233333
+12 Occurrence        Coleoptera  0.83333333
+13 Occurrence       Hymenoptera  0.16666667
+14 Occurrence       Lepidoptera  0.16666667
+```
+Now, look at which Diet Types are listed:
+Items, Wt_or_Vol, and Unspecified are what we'll be checking with the following code (not Occurence): 
+```
+> sum(subset(bluwarb$preySummary, Diet_Type=="Items")$Frac_Diet)
+[1] 1
+```
+To find the sum of the different Diet Types, simply change "Items" to whichever Diet Type you want, such as "Unspecified" or "Wt_or_Vol".
+The sum of each Diet Diet should be 1.0 or reasonably close. If the value is not about 1.0, it means there is probably a typo, error, or other problem somewhere in the entries. Open up the AvianDietDatabase and check the values for the Diet Type(s) where the sum was not 1.0 to find the problem. Make the necessary corrections and re-check the new sum.
