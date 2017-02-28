@@ -208,7 +208,7 @@ $preySummary
 15 Occurrence       Hymenoptera  0.16666667
 16 Occurrence       Lepidoptera  0.16666667
 ```
-Storing species summary in a variable makes working with it easier. For each new bird, simply make a new abbreviation as the variable name and substitute in the bird name inside the ```speciesSummary``` function (don't worry about saving these when you're closing RStudio for the day). The following shoes the same as above:
+Storing species summary in a variable makes working with it easier. For each new bird, simply make a new abbreviation as the variable name and substitute in the bird name inside the ```speciesSummary``` function (don't worry about saving these when you're closing RStudio for the day). The following shows the same as above:
 ```
 > bluwarb = speciesSummary("Black-throated Blue Warbler", diet, by = "Order")
 > bluwarb
@@ -261,7 +261,7 @@ $preySummary
 14 Occurrence       Lepidoptera  0.16666667
 ```
 Now, look at which Diet Types are listed.
-Items, Wt_or_Vol, and Unspecified are what we'll be checking with the following code (not Occurence): 
+Items, Wt_or_Vol, and Unspecified are what we'll be checking with the following code (not Occurrence): 
 ```
 > sum(subset(bluwarb$preySummary, Diet_Type=="Items")$Frac_Diet)
 [1] 1
