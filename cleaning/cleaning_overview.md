@@ -14,6 +14,51 @@ source('scripts/database_summary_functions.R')
 
 There should now be an object in your working environment called `diet` which is the database.
 
+##Overall database summary
+To get a sense of the total number of records, species covered, etc of the entire database, use the 
+function `dbSummary()` like this:
+```
+> dbSummary(diet, refs)
+$numRecords
+[1] 25267
+
+$numSpecies
+[1] 435
+
+$numStudies
+[1] 498
+
+$recordsPerSpecies
+                              Common_Name    n
+1                          Abert's Towhee    5
+2                      Acadian Flycatcher   32
+3                        Acorn Woodpecker   40
+4                     African Pygmy-Goose   10
+5                 Alder/Willow Flycatcher   83
+6                     American Black Duck   43
+7                           American Crow   67
+8                      American Goldfinch   16
+9                        American Kestrel  172
+10                         American Pipit  186
+...
+$speciesPerFamily
+               ORDER            Family SpeciesWithData WithoutData
+1    Accipitriformes      Accipitridae              34           7
+2    Accipitriformes       Cathartidae               2           1
+3    Accipitriformes       Pandionidae               1           0
+4       Anseriformes          Anatidae             101           2
+5       Anseriformes         Anhimidae               1           0
+6       Anseriformes     Anseranatidae               1           0
+7   Caprimulgiformes          Apodidae               2           2
+8   Caprimulgiformes     Caprimulgidae               4           3
+9   Caprimulgiformes       Trochilidae               3          11
+10   Charadriiformes      Scolopacidae               2          28
+11   Charadriiformes           Alcidae               0          16
+12   Charadriiformes      Charadriidae               0           6
+...
+```
+
+
 ##Checking for outliers
 Check for outliers of numeric values by typing `outlierCheck(diet)` into R. You should get something that looks like this:
 ```
