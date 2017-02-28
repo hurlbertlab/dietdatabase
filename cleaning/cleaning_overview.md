@@ -208,7 +208,7 @@ $preySummary
 15 Occurrence       Hymenoptera  0.16666667
 16 Occurrence       Lepidoptera  0.16666667
 ```
-Storing species summary in a variable makes working with it easier. For each new bird, simply make a new abbreviation as the variable name and substitute in the bird name inside the ```speciesSummary``` function.
+Storing species summary in a variable makes working with it easier. For each new bird, simply make a new abbreviation as the variable name and substitute in the bird name inside the ```speciesSummary``` function. The following shoes the same as above:
 ```
 > bluwarb = speciesSummary("Black-throated Blue Warbler", diet, by = "Order")
 > bluwarb
@@ -267,4 +267,4 @@ Items, Wt_or_Vol, and Unspecified are what we'll be checking with the following 
 [1] 1
 ```
 To find the sum of the different Diet Types, simply change "Items" to whichever Diet Type you want, such as "Unspecified" or "Wt_or_Vol".
-The sum of each Diet Diet should be 1.0 or reasonably close. If the value is not about 1.0, it means there is probably a typo, error, or other problem somewhere in the entries. Open up the AvianDietDatabase and check the values for the Diet Type(s) where the sum was not 1.0 to find the problem. Make the necessary corrections and re-check the new sum.
+The sum of each Diet Diet should be 1.0 or reasonably close. If the value is not about 1.0, it means there is probably a typo, error, or other problem somewhere in the entries. Open up the AvianDietDatabase and check the values for the Diet Type(s) where the sum was not 1.0 to find the problem. You most likely will have to consult the sources or papers themselves to reference the values. Make the necessary corrections and re-check the new sum.
