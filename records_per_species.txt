@@ -34,7 +34,7 @@ Black-capped Chickadee	4
 Black-chested Buzzard-Eagle	9	
 Black-footed Albatross	7	
 Black-headed Grosbeak	119	
-Black-throated Blue Warbler	17	x
+Black-throated Blue Warbler	17	
 Black-throated Green Warbler	20	
 Black Phoebe	86	
 Black Rosy-Finch	23	
@@ -52,7 +52,7 @@ Boreal Owl	40
 Brewer's Blackbird	147	
 Brewer's Sparrow	90	
 Broad-billed Hummingbird	16	
-Broad-winged Hawk	266	
+Broad-winged Hawk	266	x
 Brown-crested Flycatcher	12	
 Brown-headed Cowbird	124	
 Brown-Headed Cowbird	20	
