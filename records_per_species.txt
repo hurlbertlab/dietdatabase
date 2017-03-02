@@ -311,7 +311,7 @@ Yellow-bellied Sapsucker	72
 Yellow-billed Cuckoo	12	
 Yellow-billed Loon	6	
 Yellow-billed Magpie	85	
-Yellow-breasted Chat	8	
+Yellow-breasted Chat	8	x
 Yellow-headed Blackbird	12	
 Yellow-rumped Warbler (Audubon's)	41	
 Yellow-rumped Warbler (Myrtle)	10	
