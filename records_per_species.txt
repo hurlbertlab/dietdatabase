@@ -301,7 +301,7 @@ White-winged Crossbill	9
 White-winged Dove	1074	
 Williamson's Sapsucker	2	
 Willow Flycatcher	12	
-Wilson's Warbler	39	
+Wilson's Warbler	39	x
 Winter Wren	10	
 Wood Stork	225	
 Wood Thrush	20	
@@ -309,9 +309,9 @@ Wren Tit	9
 Yellow-bellied Flycatcher	73	
 Yellow-bellied Sapsucker	72	
 Yellow-billed Cuckoo	12	
-Yellow-billed Loon	6	
-Yellow-billed Magpie	85	
-Yellow-breasted Chat	8	x
+Yellow-billed Loon	6	Yellow-billed Pintail (South Georgia)
+Yellow-billed Magpie	85	Yellow-billed Teal 
+Yellow-breasted Chat	8	
 Yellow-headed Blackbird	12	
 Yellow-rumped Warbler (Audubon's)	41	
 Yellow-rumped Warbler (Myrtle)	10	
