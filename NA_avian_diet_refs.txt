@@ -3232,7 +3232,7 @@ Common Raven	Corvidae	1999	Food Selection And Storage	Food Selection	"Heinrich, 
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Murphy, E. C. and J. H. Schauer. 1996. Synchrony in egg-laying and reproductive success of neighboring Common Murres, Uria aalge. Behav. Ecol. Sociobiol. 39:245-258."	y	n		
 Common Raven	Corvidae	1999	Metabolism And Temperature Regulation		"Schwan, M. W. and D. D. Williams. 1978. Temperature regulation in the Common Raven of interior Alaska. Comp. Biochem. Physiol. 60:31-36."	y	n		
 Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Knowlton, G. F. 1943. Raven eats Mormon cricket eggs. Auk 60:273."	y	y	data not yet entered; identified in the literature as western raven (corvus corax sinatus)	
-Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Nelson, A. L. 1934. Some early summer food preferences of the American raven in southeastern Oregon. Condor 36:10-15."	y	y	data not yet entered	
+Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Nelson, A. L. 1934. Some early summer food preferences of the American raven in southeastern Oregon. Condor 36:10-15."	y	y	Entered data	
 Common Raven	Corvidae	1999	Food Selection And Storage	Food Storage	"Turcek, F. J. and L. Kelso. 1968. Ecological aspects of food transportion and storage in the Corvidae. Comm. Behav. Biol. Pt. A 1:277-297."	n		unavailable	
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Maser, C. 1975. Predation by Common Ravens on feral Rock Doves. Wilson Bull. 87:552-553."	y	n		
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Jefferson, B. 1989. Observations of Common Raven in metropolitan Toronto. Ont. Birds 7:15-20."	n		unavailable	
@@ -3243,10 +3243,10 @@ Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Harriman, A. E.
 Common Raven	Corvidae	1999	Food Selection And Storage	Food Storage	"Simmons, K. E. L. 1970. Further observations on food-hiding in the Corvidae. Br. Birds 63:175-177."	n		unavailable	
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Gaston, A. J., D. K. Cairns, R. D. Elliot, and D. G. Noble. 1985. A natural history of Digges Sound. Can. Wildl. Serv. Rep. no. 46."	y	n		
 Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Dorn, J. L. 1972. The Common Raven in Jackson Hole, Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	y	Entered data	
-Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Barrows, W. B. 1888. The food of crows. U.S. Dep. Agric. Rep. 1888:498-535."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Wootton, J. T. 1995. Effects of birds on sea urchins and algae: a lower-intertidal trophic cascade. Ecoscience 2:321-328."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Montevecchi, W. A. 1977. Predation in a salt marsh Laughing Gull colony. Auk 94:583-585."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Turcotte, W. H. and D. L. Watts. 1999. Birds of Mississippi. Univ. Press of Mississippi, Jackson."				
+Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Barrows, W. B. 1888. The food of crows. U.S. Dep. Agric. Rep. 1888:498-535."	n		unavailable	
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Wootton, J. T. 1995. Effects of birds on sea urchins and algae: a lower-intertidal trophic cascade. Ecoscience 2:321-328."	n		unavailable	
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Montevecchi, W. A. 1977. Predation in a salt marsh Laughing Gull colony. Auk 94:583-585."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Turcotte, W. H. and D. L. Watts. 1999. Birds of Mississippi. Univ. Press of Mississippi, Jackson."	n		unavailable	
 Fish Crow	Corvidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Mcatee, W. L. 1917. The shedding of the stomach lining by birds, particularly as exemplified by the Anatidae. Auk 34:415-421."				
 Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Butler, R. W. 1980. The breeding ecology and social organization of the Northwestern Crow on Mitlenatch Island, British Columbia. Master's Thesis. Simon Fraser Univ. Burnaby, BC."				
 Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Foerstel, A. 1993. The Carrion Crow, Corvus corone, opens walnuts, Juglans regia, by dropping them. Ornithologischer Anzeiger 32:165."				
