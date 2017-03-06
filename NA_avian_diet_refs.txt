@@ -3232,7 +3232,7 @@ Common Raven	Corvidae	1999	Food Selection And Storage	Food Selection	"Heinrich, 
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Murphy, E. C. and J. H. Schauer. 1996. Synchrony in egg-laying and reproductive success of neighboring Common Murres, Uria aalge. Behav. Ecol. Sociobiol. 39:245-258."	y	n		
 Common Raven	Corvidae	1999	Metabolism And Temperature Regulation		"Schwan, M. W. and D. D. Williams. 1978. Temperature regulation in the Common Raven of interior Alaska. Comp. Biochem. Physiol. 60:31-36."	y	n		
 Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Knowlton, G. F. 1943. Raven eats Mormon cricket eggs. Auk 60:273."	y	y	data not yet entered; identified in the literature as western raven (corvus corax sinatus)	
-Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Nelson, A. L. 1934. Some early summer food preferences of the American raven in southeastern Oregon. Condor 36:10-15."	y	y	data not yet entered	
+Common Raven	Corvidae	1999	Diet	Quantitative Analysis	"Nelson, A. L. 1934. Some early summer food preferences of the American raven in southeastern Oregon. Condor 36:10-15."	y	y	Entered data	
 Common Raven	Corvidae	1999	Food Selection And Storage	Food Storage	"Turcek, F. J. and L. Kelso. 1968. Ecological aspects of food transportion and storage in the Corvidae. Comm. Behav. Biol. Pt. A 1:277-297."	n		unavailable	
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Maser, C. 1975. Predation by Common Ravens on feral Rock Doves. Wilson Bull. 87:552-553."	y	n		
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Jefferson, B. 1989. Observations of Common Raven in metropolitan Toronto. Ont. Birds 7:15-20."	n		unavailable	
