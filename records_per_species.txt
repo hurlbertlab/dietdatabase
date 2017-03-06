@@ -52,7 +52,7 @@ Boreal Owl	40
 Brewer's Blackbird	147							
 Brewer's Sparrow	90							
 Broad-billed Hummingbird	16							
-Broad-winged Hawk	266	x						
+Broad-winged Hawk	266							
 Brown-crested Flycatcher	12							
 Brown-headed Cowbird	124							
 Brown-Headed Cowbird	20							
@@ -85,7 +85,7 @@ Chuck-will's-widow	3
 Clark's Grebe	7							
 Clark's Nutcracker	6							
 Cliff Swallow	161							
-Common Black-Hawk	81							
+Common Black-Hawk	81	x						
 Common Black Hawk	9							
 Common Gallinule	127							
 Common Grackle	64							
