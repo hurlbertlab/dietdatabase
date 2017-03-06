@@ -286,11 +286,11 @@ Western Barn Swallow	7
 Western Bluebird	70							
 Western Kingbird	71							
 Western Meadowlark	541							
-Western Scrub-Jay	33							
+Western Scrub-Jay	33	x						
 Western Tanager	34							
-Western Wood-pewee	136							
+Western Wood-pewee	136	?						
 Whiskered Screech Owl	5							
-White-breasted Nuthatch	26	white-backed duck		x				
+White-breasted Nuthatch	26	white-backed duck		white-faced whistling duck				
 White-crowned Pigeon	116							
 White-crowned Sparrow	79							
 White-tailed Eagle	2							
