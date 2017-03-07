@@ -264,7 +264,7 @@ Summer Tanager	9
 Swainson's Hawk	185							
 Swainson's Hawks	33							
 Swainson's Thrush	9							
-Swallow-tailed Kite	19							
+Swallow-tailed Kite	19	swan goose	x					
 Tennessee Warbler	24							
 Thick-billed Parrot	1							
 Townsend's Solitaire	16							
@@ -286,9 +286,9 @@ Western Barn Swallow	7
 Western Bluebird	70							
 Western Kingbird	71							
 Western Meadowlark	541							
-Western Scrub-Jay	33	x						
+Western Scrub-Jay	33							
 Western Tanager	34							
-Western Wood-pewee	136	?						
+Western Wood-pewee	136							
 Whiskered Screech Owl	5							
 White-breasted Nuthatch	26	white-backed duck		white-faced whistling duck				
 White-crowned Pigeon	116							
