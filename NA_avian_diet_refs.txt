@@ -3247,22 +3247,22 @@ Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Barrows, W. B. 1888. The food 
 Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Wootton, J. T. 1995. Effects of birds on sea urchins and algae: a lower-intertidal trophic cascade. Ecoscience 2:321-328."	n		unavailable	
 Fish Crow	Corvidae	2001	Diet	Major Food Items	"Montevecchi, W. A. 1977. Predation in a salt marsh Laughing Gull colony. Auk 94:583-585."	y	n		
 Fish Crow	Corvidae	2001	Diet	Major Food Items	"Turcotte, W. H. and D. L. Watts. 1999. Birds of Mississippi. Univ. Press of Mississippi, Jackson."	n		unavailable	
-Fish Crow	Corvidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Mcatee, W. L. 1917. The shedding of the stomach lining by birds, particularly as exemplified by the Anatidae. Auk 34:415-421."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Butler, R. W. 1980. The breeding ecology and social organization of the Northwestern Crow on Mitlenatch Island, British Columbia. Master's Thesis. Simon Fraser Univ. Burnaby, BC."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Foerstel, A. 1993. The Carrion Crow, Corvus corone, opens walnuts, Juglans regia, by dropping them. Ornithologischer Anzeiger 32:165."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Richardson, H. and N. A. M. Verbeek. 1986. Diet selection and optimization by Northwestern Crows (Corvus caurinus) feeding on littleneck clams (Venerupis japonica) Ecology 67:1219-1226."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Berrow, S. D. 1991. Predation by the Hooded Crow Corvus corone cornix on freshwater pearl mussels Margaritifera margaritifera. Irish Nat. J. 23:492-493."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Zach, R. 1979. Shell dropping: decision-making and optimal foraging in Northwestern Crows. Behaviour 68:106-117."				
-Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Jackson, D. R. and R. N. Walker. 1997. Reproduction in the Suwannee cooter, Pseudemys concinna suwanniensis. Bull. Fla. Mus. Nat. Hist. 41:69-167."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Miller, L. M. and J. Burger. 1978. Factors affecting nesting success of the Glossy Ibis. Auk 95:353-361."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Carr, A. 1983. Triple-clutchers. Anim. Kingdom 86:46-49."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Fink, L. C. 1975. Changing status of the Fish Crow inland. Chat 39:67-71."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Stoddard, H. L. 1978. Birds of Grady County, Georgia. Bull. Tall Timbers Res. Stn. 21."				
-Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Shields, M. A. and J. F. Parnell. 1986. Fish Crow predation on eggs of the White Ibis at Battery Island, North Carolina. Auk 103:531-539."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Fargo, W. G. 1927. Feeding station habit of Fish Crow. Auk 44:566-567."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Whiteley, J. D., J. S. Pritchard, and P. J. B. Slater. 1990. Strategies of mussel dropping by Carrion Crows Corvus c. corone. Bird Study 37:12-17."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Scott, W. E. D. 1889. A summary of observations on the birds of the Gulf coast of Florida. Auk 6:13-18, 152-160, 245-252, 318-326."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Mcgowan, K. J. 1990. Nesting Fish Crows adopt a fledgling Blue Jay. J. Field Ornithol. 61:171-173."				
+Fish Crow	Corvidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Mcatee, W. L. 1917. The shedding of the stomach lining by birds, particularly as exemplified by the Anatidae. Auk 34:415-421."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Butler, R. W. 1980. The breeding ecology and social organization of the Northwestern Crow on Mitlenatch Island, British Columbia. Master's Thesis. Simon Fraser Univ. Burnaby, BC."	y	y	data not yet entered; identified in literature as northwestern crow (corvus caurinus)	
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Foerstel, A. 1993. The Carrion Crow, Corvus corone, opens walnuts, Juglans regia, by dropping them. Ornithologischer Anzeiger 32:165."	n		unavailable	
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Richardson, H. and N. A. M. Verbeek. 1986. Diet selection and optimization by Northwestern Crows (Corvus caurinus) feeding on littleneck clams (Venerupis japonica) Ecology 67:1219-1226."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Berrow, S. D. 1991. Predation by the Hooded Crow Corvus corone cornix on freshwater pearl mussels Margaritifera margaritifera. Irish Nat. J. 23:492-493."	n		unavailable	
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Zach, R. 1979. Shell dropping: decision-making and optimal foraging in Northwestern Crows. Behaviour 68:106-117."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Jackson, D. R. and R. N. Walker. 1997. Reproduction in the Suwannee cooter, Pseudemys concinna suwanniensis. Bull. Fla. Mus. Nat. Hist. 41:69-167."	n		unavailable	
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Miller, L. M. and J. Burger. 1978. Factors affecting nesting success of the Glossy Ibis. Auk 95:353-361."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Carr, A. 1983. Triple-clutchers. Anim. Kingdom 86:46-49."	n		unavailable	
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Fink, L. C. 1975. Changing status of the Fish Crow inland. Chat 39:67-71."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Stoddard, H. L. 1978. Birds of Grady County, Georgia. Bull. Tall Timbers Res. Stn. 21."	n		unavailable	
+Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Shields, M. A. and J. F. Parnell. 1986. Fish Crow predation on eggs of the White Ibis at Battery Island, North Carolina. Auk 103:531-539."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Fargo, W. G. 1927. Feeding station habit of Fish Crow. Auk 44:566-567."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Whiteley, J. D., J. S. Pritchard, and P. J. B. Slater. 1990. Strategies of mussel dropping by Carrion Crows Corvus c. corone. Bird Study 37:12-17."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Scott, W. E. D. 1889. A summary of observations on the birds of the Gulf coast of Florida. Auk 6:13-18, 152-160, 245-252, 318-326."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Mcgowan, K. J. 1990. Nesting Fish Crows adopt a fledgling Blue Jay. J. Field Ornithol. 61:171-173."	y	n		
 Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Voigts, D. K. 1999. Observations of a colony of roof-nesting Least Terns, 1988-1997. Fla. Field Nat. 27:103-108."				
 Fish Crow	Corvidae	2001	Diet	Major Food Items	"Bendire, C. E. 1895. Life histories of North American birds. U.S. Natl. Mus. Species Bull. 3."				
 Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Mitchell, M. C., L. B. Best, and J. P. Gionfriddo. 1996. Avian nest-site selection and nesting success in two Florida citrus groves. Wilson Bull. 108:573-583."				
