@@ -252,7 +252,7 @@ Smith's Longspur	20
 Smooth-billed Ani	20							
 Snail Kite	3							
 Snow Bunting	63							
-Snowy Owl	21							
+Snowy Owl	21	x						
 Song Sparrow	61							
 Spotted Dove	220							
 Spotted Owl	5							
@@ -264,7 +264,7 @@ Summer Tanager	9
 Swainson's Hawk	185							
 Swainson's Hawks	33							
 Swainson's Thrush	9							
-Swallow-tailed Kite	19	swan goose	x					
+Swallow-tailed Kite	19	swan goose						
 Tennessee Warbler	24							
 Thick-billed Parrot	1							
 Townsend's Solitaire	16							
