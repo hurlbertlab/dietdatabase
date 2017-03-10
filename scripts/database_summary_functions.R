@@ -219,21 +219,4 @@ updateNameStatus = function(diet, write = TRUE) {
   }
 }
                                
-#-------------------------------------------------------------------------------------------                               
-# Read in diet database, references, and eBird taxonomy tables
-diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
-                  fill=T, stringsAsFactors = F)
-refs = read.table('NA_avian_diet_refs.txt', header=T, sep = '\t', quote = '\"',
-                  fill=T, stringsAsFactors = F)
-
-# Make sure to grab the most recent eBird table in the directory
-taxfiles = file.info(list.files()[grep('eBird', list.files())])
-taxfiles$name = row.names(taxfiles)
-tax = read.table(taxfiles$name[taxfiles$mtime == max(taxfiles$mtime)], header = T,
-                 sep = ',', quote = '\"', stringsAsFactors = F)
-orders = unique(tax[, c('ORDER', 'FAMILY')])
-orders$Family = word(orders$FAMILY, 1)
-orders = filter(orders, FAMILY != "" & ORDER != "") %>%
-  select(ORDER, Family)
-
 
