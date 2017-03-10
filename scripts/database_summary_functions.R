@@ -6,7 +6,11 @@ library(tidyr)
 
 #################
 
-dbSummary = function(diet, refs) {
+dbSummary = function() {
+  diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                    fill=T, stringsAsFactors = F)
+  refs = read.table('NA_avian_diet_refs.txt', header=T, sep = '\t', quote = '\"',
+                    fill=T, stringsAsFactors = F)
   species = unique(diet[, c('Common_Name', 'Family')])
   allspecies = unique(refs[, c('common_name', 'family')])
   numSpecies = nrow(species)
@@ -38,7 +42,10 @@ dbSummary = function(diet, refs) {
 
 # Argument "by" may specify the prey's 'Kingdom', 'Phylum', 'Class', 'Order', 'Family',
 #   'Genus', or 'Scientific_Name' ('Species' will not work)
-speciesSummary = function(commonName, diet, by = 'Order') {
+speciesSummary = function(commonName, by = 'Order') {
+  diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                    fill=T, stringsAsFactors = F)
+  
   if (!commonName %in% diet$Common_Name) {
     warning("No species with that name in the Diet Database.")
     return(NULL)
