@@ -4987,14 +4987,14 @@ Northern Rough-winged Swallow	Hirundinidae	1996	Feeding	Food Capture And Consump
 Northern Rough-winged Swallow	Hirundinidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Lunk, W. A. 1962. The Rough-winged Swallow: a study based on its breeding biology in Michigan. Bull. Nuttall Ornithol. Club no. 4."	n			
 Northern Rough-winged Swallow	Hirundinidae	1996	Diet	Major Food Items; Quantitative Analysis	"Hespenheide, H. A. 1975. Selective predation by two swifts and a swallow in Central America. Ibis 117:82-99."	y	y	entered	
 Northern Rough-winged Swallow	Hirundinidae	1996	Diet	Major Food Items; Quantitative Analysis	"Beal, F. E. L. 1918. Food habits of the swallows, a family of valuable native birds. Bull. U.S. Dept. Agric. 619."	y	y	entered	
-Northern Rough-winged Swallow	Hirundinidae	1996	Feeding	Food Capture And Consumption	"Wolinski, R. A. 1980. Rough-winged Swallow feeding of fly larvae. Wilson Bull. 92:121-122."				
-Northern Rough-winged Swallow	Hirundinidae	1996	Diet	Major Food Items; Quantitative Analysis	"Screws, Jr., D. G. 1991. Unusual behavior in Northern Rough-winged Swallows. Oriole 56:44-45."				
-Purple Martin	Hirundinidae	1997	Feeding	Food Capture And Consumption	"Brown, C. R. and S. D. Wolfe III. 1978. Post-breeding movements of Purple Martins in the Lake Texoma area. Bull. Texas Ornithol. Soc. 11:22-23."				
-Purple Martin	Hirundinidae	1997	Feeding	Food Capture And Consumption	"Brown, C. R. 1976b. Minimum temperature for feeding by Purple Martins. Wilson Bull. 88:672-673."				
-Purple Martin	Hirundinidae	1997	Feeding	Food Capture And Consumption	"Robins, J. D. 1971. Feeding behavior of several aerial foragers after an extended rainy period. Trans. Kansas Acad. Sci. 73:434-438."				
-Purple Martin	Hirundinidae	1997	Diet	Major Food Items	"Walsh, H. 1978. Food of nestling Purple Martins. Wilson Bull. 90:248-260."				
-Purple Martin	Hirundinidae	1997	Feeding	Microhabitat For Foraging	"Graber, R. R., J. W. Graber, and E. L. Kirk. 1972. Illinois birds: Hirundinidae. Ill. Nat. Hist. Surv. Biol. Notes 80, Urbana, IL."				
-Purple Martin	Hirundinidae	1997	Diet	Major Food Items	"Brown, C. R. 1981a. Purple Martins feeding on cicadas. Southwest. Nat. 25:553."				
+Northern Rough-winged Swallow	Hirundinidae	1996	Feeding	Food Capture And Consumption	"Wolinski, R. A. 1980. Rough-winged Swallow feeding of fly larvae. Wilson Bull. 92:121-122."	y	n		
+Northern Rough-winged Swallow	Hirundinidae	1996	Diet	Major Food Items; Quantitative Analysis	"Screws, Jr., D. G. 1991. Unusual behavior in Northern Rough-winged Swallows. Oriole 56:44-45."	y	n		
+Purple Martin	Hirundinidae	1997	Feeding	Food Capture And Consumption	"Brown, C. R. and S. D. Wolfe III. 1978. Post-breeding movements of Purple Martins in the Lake Texoma area. Bull. Texas Ornithol. Soc. 11:22-23."	n			
+Purple Martin	Hirundinidae	1997	Feeding	Food Capture And Consumption	"Brown, C. R. 1976b. Minimum temperature for feeding by Purple Martins. Wilson Bull. 88:672-673."	y	n		
+Purple Martin	Hirundinidae	1997	Feeding	Food Capture And Consumption	"Robins, J. D. 1971. Feeding behavior of several aerial foragers after an extended rainy period. Trans. Kansas Acad. Sci. 73:434-438."	y	n		
+Purple Martin	Hirundinidae	1997	Diet	Major Food Items	"Walsh, H. 1978. Food of nestling Purple Martins. Wilson Bull. 90:248-260."	y	y	entered	
+Purple Martin	Hirundinidae	1997	Feeding	Microhabitat For Foraging	"Graber, R. R., J. W. Graber, and E. L. Kirk. 1972. Illinois birds: Hirundinidae. Ill. Nat. Hist. Surv. Biol. Notes 80, Urbana, IL."	y	n		
+Purple Martin	Hirundinidae	1997	Diet	Major Food Items	"Brown, C. R. 1981a. Purple Martins feeding on cicadas. Southwest. Nat. 25:553."	y	n		
 Purple Martin	Hirundinidae	1997	Metabolism And Temperature Regulation		"Utter, J. M. and E. A. LeFebvre. 1973. Daily energy expenditure of Purple Martins (Progne subis) during the breeding season: estimates using D2018 and time budget methods. Ecology 54:597-604."	y	n		
 Purple Martin	Hirundinidae	1997	Feeding	Microhabitat For Foraging	"Johnston, R. F. and J. W. Hardy. 1962. Behavior of the Purple Martin. Wilson Bull. 74:243-262."	y	n		
 Purple Martin	Hirundinidae	1997	Diet	Major Food Items	"Johnston, R. F. 1967. Seasonal variation in the food of the Purple Martin Progne subis in Kansas. Ibis 109:8-13."	y	y	entered	
