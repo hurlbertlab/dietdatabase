@@ -244,7 +244,7 @@ Scarlet Tanager	10
 Scissor-tailed Flycatcher	89							
 Scrub Jay	70							
 Sennett's White-tailed Hawk	6							
-Sharp-shinned Hawk	206							
+Sharp-shinned Hawk	206		x					
 Short-eared Owl	70							
 Short-tailed Hawk	6							
 Short-tailed Shearwater	6							
