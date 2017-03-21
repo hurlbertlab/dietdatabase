@@ -80,7 +80,6 @@ clean_names = function(preyTaxonLevel, write = FALSE) {
     #  problemNames = rbind(problemNames, c(preyTaxonLevel, n))
     #} else {
       for (l in higherLevels) {
-        print(l)
         if (l == 2 & hierarchy$name[1] == 'Plantae') {
           rank = 'division'
         } else {
@@ -90,8 +89,15 @@ clean_names = function(preyTaxonLevel, write = FALSE) {
         if (rank %in% hierarchy$rank) {
           # For names at the specified level that are not NA, assign to the
           # specified HIGHER taxonomic level the name from ITIS ('hierarchy')
-          diet[diet[!is.na(diet[, level +18]), level + 18] == n, preyLevels[l]] = 
-            hierarchy$name[hierarchy$rank == rank]
+          
+          if (l < 8) {
+            
+          }
+          recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n &
+                         rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level))
+          
+          
+          diet[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
         }
       }
     }
