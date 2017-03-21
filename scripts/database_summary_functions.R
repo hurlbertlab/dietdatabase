@@ -81,6 +81,7 @@ speciesSummary = function(commonName, by = 'Order') {
   if (by %in% c('Order', 'Family', 'Genus', 'Scientific_Name')) {
     stage = dietsp$Prey_Stage
     stage[is.na(stage)] = ""
+    stage[stage == 'adult'] = ""
     dietsp$Taxon = paste(dietsp[, taxonLevel], stage)
   } else {
     dietsp$Taxon = dietsp[, taxonLevel]
@@ -103,7 +104,7 @@ speciesSummary = function(commonName, by = 'Order') {
     group_by(Diet_Type, Taxon) %>%
     summarize(Sum_Diet2 = sum(Sum_Diet, na.rm = T)) %>%
     left_join(analysesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
-    mutate(Frac_Diet = Sum_Diet2/n) %>%
+    mutate(Frac_Diet = round(Sum_Diet2/n, 4)) %>%
     select(Diet_Type, Taxon, Frac_Diet) %>%
     arrange(Diet_Type, desc(Frac_Diet))
   
