@@ -112,7 +112,7 @@ Eastern Meadowlark	50
 Eastern Phoebe	12							
 Eastern Screech-Owl	219							
 Eastern Screech Owl	5							
-Eastern Wood-pewee	156	x						
+Eastern Wood-pewee	156							
 Elegant Trogon	18							
 Elf Owl	3							
 Emperor Goose	13							
@@ -141,7 +141,7 @@ Great Gray Owl	128
 Great Grey Owl	3							
 Great Grey Shrike	130							
 Great Horned Owl	756							
-Great Kiskadee	11							
+Great Kiskadee	11	x						
 Green Jay	7							
 Gyrfalcon	3							
 Hairy Woodpecker	43							
