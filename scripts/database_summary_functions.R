@@ -6,7 +6,11 @@ library(tidyr)
 
 #################
 
-dbSummary = function(diet, refs) {
+dbSummary = function() {
+  diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                    fill=T, stringsAsFactors = F)
+  refs = read.table('NA_avian_diet_refs.txt', header=T, sep = '\t', quote = '\"',
+                    fill=T, stringsAsFactors = F)
   species = unique(diet[, c('Common_Name', 'Family')])
   allspecies = unique(refs[, c('common_name', 'family')])
   numSpecies = nrow(species)
@@ -38,7 +42,10 @@ dbSummary = function(diet, refs) {
 
 # Argument "by" may specify the prey's 'Kingdom', 'Phylum', 'Class', 'Order', 'Family',
 #   'Genus', or 'Scientific_Name' ('Species' will not work)
-speciesSummary = function(commonName, diet, by = 'Order') {
+speciesSummary = function(commonName, by = 'Order') {
+  diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                    fill=T, stringsAsFactors = F)
+  
   if (!commonName %in% diet$Common_Name) {
     warning("No species with that name in the Diet Database.")
     return(NULL)
@@ -74,6 +81,7 @@ speciesSummary = function(commonName, diet, by = 'Order') {
   if (by %in% c('Order', 'Family', 'Genus', 'Scientific_Name')) {
     stage = dietsp$Prey_Stage
     stage[is.na(stage)] = ""
+    stage[stage == 'adult'] = ""
     dietsp$Taxon = paste(dietsp[, taxonLevel], stage)
   } else {
     dietsp$Taxon = dietsp[, taxonLevel]
@@ -81,7 +89,7 @@ speciesSummary = function(commonName, diet, by = 'Order') {
   
   analysesPerDietType = dietsp %>%
     select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
-           Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type) %>%
+           Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type, Study_Type) %>%
     distinct() %>%
     count(Diet_Type)
   
@@ -96,7 +104,7 @@ speciesSummary = function(commonName, diet, by = 'Order') {
     group_by(Diet_Type, Taxon) %>%
     summarize(Sum_Diet2 = sum(Sum_Diet, na.rm = T)) %>%
     left_join(analysesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
-    mutate(Frac_Diet = Sum_Diet2/n) %>%
+    mutate(Frac_Diet = round(Sum_Diet2/n, 4)) %>%
     select(Diet_Type, Taxon, Frac_Diet) %>%
     arrange(Diet_Type, desc(Frac_Diet))
   
@@ -212,13 +220,6 @@ updateNameStatus = function(diet, write = TRUE) {
   }
 }
                                
-#-------------------------------------------------------------------------------------------                               
-# Read in diet database, references, and eBird taxonomy tables
-diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
-                  fill=T, stringsAsFactors = F)
-refs = read.table('NA_avian_diet_refs.txt', header=T, sep = '\t', quote = '\"',
-                  fill=T, stringsAsFactors = F)
-
 # Make sure to grab the most recent eBird table in the directory
 taxfiles = file.info(list.files()[grep('eBird', list.files())])
 taxfiles$name = row.names(taxfiles)
@@ -228,5 +229,3 @@ orders = unique(tax[, c('ORDER', 'FAMILY')])
 orders$Family = word(orders$FAMILY, 1)
 orders = filter(orders, FAMILY != "" & ORDER != "") %>%
   select(ORDER, Family)
-
-
