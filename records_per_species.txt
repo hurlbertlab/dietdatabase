@@ -141,7 +141,7 @@ Great Gray Owl	128
 Great Grey Owl	3							
 Great Grey Shrike	130							
 Great Horned Owl	756							
-Great Kiskadee	11	x						
+Great Kiskadee	11							
 Green Jay	7							
 Gyrfalcon	3							
 Hairy Woodpecker	43							
@@ -162,7 +162,7 @@ Kirtland's Warbler	24
 Lapland Longspur	76							
 Large-billed Sparrow	13							
 Le Conte's Sparrow	26							
-Least Flycatcher	19							
+Least Flycatcher	19	x						
 Lesser Goldfinch	30							
 Lewis's Woodpecker	21							
 Loggerhead Shrike	84							
