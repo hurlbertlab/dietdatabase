@@ -240,11 +240,11 @@ Rusty Blackbird	4
 Sagebrush Sparrow	36							
 Savannah Sparrow	9							
 Say's Phoebe	71							
-Scarlet Tanager	10							
+Scarlet Tanager	10		x					
 Scissor-tailed Flycatcher	89							
 Scrub Jay	70							
 Sennett's White-tailed Hawk	6							
-Sharp-shinned Hawk	206		x					
+Sharp-shinned Hawk	206							
 Short-eared Owl	70							
 Short-tailed Hawk	6							
 Short-tailed Shearwater	6							
