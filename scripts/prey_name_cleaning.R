@@ -17,42 +17,42 @@ clean_names = function(diet, preyTaxonLevel, write = FALSE) {
   # that have no taxonomic identification at a lower level
   if (preyTaxonLevel == 'Phylum') {
     uniqueNames = unique(diet$Prey_Phylum[!is.na(diet$Prey_Phylum) &
-                                      is.na(diet$Prey_Class) &
-                                      is.na(diet$Prey_Order) &
-                                      is.na(diet$Prey_Suborder) &
-                                      is.na(diet$Prey_Family) &
-                                      is.na(diet$Prey_Genus) &
-                                      is.na(diet$Prey_Scientific_Name)]) %>%
+                                  !(!is.na(diet$Prey_Class) & diet$Prey_Class != "") &
+                                      !(!is.na(diet$Prey_Order) & diet$Prey_Order != "") &
+                                      !(!is.na(diet$Prey_Suborder) & diet$Prey_Suborder != "") &
+                                      !(!is.na(diet$Prey_Family) & diet$Prey_Family != "") &
+                                      !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
+                                      !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Class') {
     uniqueNames = unique(diet$Prey_Class[!is.na(diet$Prey_Class) &
-                                      is.na(diet$Prey_Order) &
-                                      is.na(diet$Prey_Suborder) &
-                                      is.na(diet$Prey_Family) &
-                                      is.na(diet$Prey_Genus) &
-                                      is.na(diet$Prey_Scientific_Name)]) %>%
+                                           !(!is.na(diet$Prey_Order) & diet$Prey_Order != "") &
+                                           !(!is.na(diet$Prey_Suborder) & diet$Prey_Suborder != "") &
+                                           !(!is.na(diet$Prey_Family) & diet$Prey_Family != "") &
+                                           !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
+                                           !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Order') {
     uniqueNames = unique(diet$Prey_Order[!is.na(diet$Prey_Order) &
-                                    is.na(diet$Prey_Suborder) &
-                                    is.na(diet$Prey_Family) &
-                                    is.na(diet$Prey_Genus) &
-                                    is.na(diet$Prey_Scientific_Name)]) %>%
+                                           !(!is.na(diet$Prey_Suborder) & diet$Prey_Suborder != "") &
+                                           !(!is.na(diet$Prey_Family) & diet$Prey_Family != "") &
+                                           !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
+                                           !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Suborder') {
     uniqueNames = unique(diet$Prey_Suborder[!is.na(diet$Prey_Suborder) &
-                                    is.na(diet$Prey_Family) &
-                                    is.na(diet$Prey_Genus) &
-                                    is.na(diet$Prey_Scientific_Name)]) %>%
+                                              !(!is.na(diet$Prey_Family) & diet$Prey_Family != "") &
+                                              !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
+                                              !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Family') {
     uniqueNames = unique(diet$Prey_Family[!is.na(diet$Prey_Family) &
-                                       is.na(diet$Prey_Genus) &
-                                       is.na(diet$Prey_Scientific_Name)]) %>%
+                                            !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
+                                            !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Genus') {
     uniqueNames = unique(diet$Prey_Genus[!is.na(diet$Prey_Genus) &
-                                        is.na(diet$Prey_Scientific_Name)]) %>%
+                                           !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Scientific_Name') {
     uniqueNames = unique(diet$Prey_Scientific_Name[!is.na(diet$Prey_Scientific_Name)]) %>%
@@ -74,7 +74,7 @@ clean_names = function(diet, preyTaxonLevel, write = FALSE) {
   problemNames = data.frame(level = NULL, name = NULL)
   
   for (n in uniqueNames) {
-    #hierarchy = classification(n, db = 'itis')[[1]]
+    hierarchy = classification(n, db = 'itis')[[1]]
     
     #if (...) {
     #  problemNames = rbind(problemNames, c(preyTaxonLevel, n))
@@ -97,14 +97,14 @@ clean_names = function(diet, preyTaxonLevel, write = FALSE) {
           } else if (level == 8) {
             lowerLevelCheck = TRUE
           }
-            
+          
           recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n & lowerLevelCheck)
-
+          
           
           diet[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
         }
       }
     }
-  return(diet)
-}
+  return(diet[, preyLevels])
+  }
 
