@@ -76,9 +76,10 @@ clean_names = function(diet, preyTaxonLevel, write = FALSE) {
   for (n in uniqueNames) {
     hierarchy = classification(n, db = 'itis')[[1]]
     
-    #if (...) {
-    #  problemNames = rbind(problemNames, c(preyTaxonLevel, n))
-    #} else {
+    # class is logical if taxonomic name does not match any existing names
+    if (class(hierarchy)[1] == 'logical') {
+      problemNames = rbind(problemNames, data.frame(level = preyTaxonLevel, name = n))
+    } else {
       for (l in higherLevels) {
         if (l == 2 & hierarchy$name[1] == 'Plantae') {
           rank = 'division'
@@ -102,9 +103,10 @@ clean_names = function(diet, preyTaxonLevel, write = FALSE) {
           
           
           diet[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
-        }
-      }
-    }
-  return(diet[, preyLevels])
-  }
+        } # end if rank
+      } # end for l
+    } # end else
+  } # end for n
+  return(list(diet = diet, badnames = problemNames))
+}
 

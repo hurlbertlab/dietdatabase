@@ -15,3 +15,5 @@ test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Animalia	Arthropoda	In
 test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Animalia	Anthopoda					Coleomegilla															
 test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Animalia	Arthropoda	Insecta				Bombus															
 test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA			Insecta			Drosophilidae																
+test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA			Insecta			typo_typo																
+test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA			Insecta	typo_typo																		
