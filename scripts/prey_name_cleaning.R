@@ -1,4 +1,4 @@
-clean_names = function(preyTaxonLevel, write = FALSE) {
+clean_names = function(diet, preyTaxonLevel, write = FALSE) {
   require(taxize)
   require(stringr)
   
@@ -74,7 +74,7 @@ clean_names = function(preyTaxonLevel, write = FALSE) {
   problemNames = data.frame(level = NULL, name = NULL)
   
   for (n in uniqueNames) {
-    hierarchy = classification(n, db = 'itis')[[1]]
+    #hierarchy = classification(n, db = 'itis')[[1]]
     
     #if (...) {
     #  problemNames = rbind(problemNames, c(preyTaxonLevel, n))
@@ -90,17 +90,21 @@ clean_names = function(preyTaxonLevel, write = FALSE) {
           # For names at the specified level that are not NA, assign to the
           # specified HIGHER taxonomic level the name from ITIS ('hierarchy')
           
-          if (l < 8) {
-            
+          if (level < 7) {
+            lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level)
+          } else if (level == 7) {
+            lowerLevelCheck = is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == ""
+          } else if (level == 8) {
+            lowerLevelCheck = TRUE
           }
-          recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n &
-                         rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level))
-          
+            
+          recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n & lowerLevelCheck)
+
           
           diet[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
         }
       }
     }
-  return(diet[, preyLevels])
-  }
+  return(diet)
+}
 
