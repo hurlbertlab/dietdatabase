@@ -3286,8 +3286,8 @@ Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Mcnair, D. B. 1989
 Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Audubon, J. J. 1834. Ornithological biography. Vol. 2. Adam and Charles Black, Edinburgh."	y	n		
 Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice. U.S. Natl. Mus. Bull. 191."	y	n		
 Florida Scrub-Jay	Corvidae	1996	Metabolism And Temperature Regulation		"Morris, D. 1956. The feather postures of birds and the problem of the origin of social signals. Behav. 9:75-113."	y	n		
-Florida Scrub-Jay	Corvidae	1996	Diet	Major Food Items	"Degange, A. R. 1976. The daily and annual time budget of the Florida Scrub Jay. Master's Thesis. Univ. of South Florida, Tampa."				
-Florida Scrub-Jay	Corvidae	1996	Food Selection And Storage		"Degange, A. R., J. W. Fitzpatrick, J. N. Layne, and G. E. Woolfenden. 1989. Acorn harvesting by Florida Scrub Jays. Ecology 70:348-356."				
+Florida Scrub-Jay	Corvidae	1996	Diet	Major Food Items	"Degange, A. R. 1976. The daily and annual time budget of the Florida Scrub Jay. Master's Thesis. Univ. of South Florida, Tampa."	n		unavailable	
+Florida Scrub-Jay	Corvidae	1996	Food Selection And Storage		"Degange, A. R., J. W. Fitzpatrick, J. N. Layne, and G. E. Woolfenden. 1989. Acorn harvesting by Florida Scrub Jays. Ecology 70:348-356."	y	y	entered	
 Florida Scrub-Jay	Corvidae	1996	Feeding	Microhabitat For Foraging	"Woolfenden, G. E. and J. W. Fitzpatrick. 1984. The Florida Scrub Jay: demography of a cooperative-breeding bird. Princeton Univ. Press, Princeton, NJ."				
 Florida Scrub-Jay	Corvidae	1996	Metabolism And Temperature Regulation		"Woolfenden, G. E. 1978. Growth and survival of young Florida Scrub Jays. Wilson Bull. 90:1-18."				
 Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Peterson, A. T. 1993. Adaptive geographical variation in bill shape of Scrub Jays (Aphelocoma coerulescens). Am. Nat. 142:508-527."				
