@@ -17,3 +17,4 @@ test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Animalia	Arthropoda	In
 test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA			Insecta			Drosophilidae																
 test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA			Insecta			typo_typo																
 test	test		test	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA			Insecta	typo_typo																		
+name	specified		in	the 	wrong	 rank	should	get	saved	to	problem	names	NA	NA	NA	NA	NA	Animalia			Oligochaeta																		
