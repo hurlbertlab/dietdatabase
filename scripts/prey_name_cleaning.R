@@ -1,4 +1,4 @@
-clean_names = function(diet, preyTaxonLevel, write = FALSE) {
+clean_names = function(diet, preyTaxonLevel, problemNames = NULL, write = FALSE) {
   require(taxize)
   require(stringr)
   
@@ -70,8 +70,9 @@ clean_names = function(diet, preyTaxonLevel, write = FALSE) {
   
   higherLevels = 1:(level-1)
   
-  
-  problemNames = data.frame(level = NULL, name = NULL)
+  if (problemNames = NULL) {
+    problemNames = data.frame(level = NULL, name = NULL)
+  }
   
   for (n in uniqueNames) {
     hierarchy = classification(n, db = 'itis')[[1]]
@@ -107,6 +108,8 @@ clean_names = function(diet, preyTaxonLevel, write = FALSE) {
       } # end for l
     } # end else
   } # end for n
+  
+  if ()
   return(list(diet = diet, badnames = problemNames))
 }
 
