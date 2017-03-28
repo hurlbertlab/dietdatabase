@@ -3288,19 +3288,19 @@ Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Bent, A. C
 Florida Scrub-Jay	Corvidae	1996	Metabolism And Temperature Regulation		"Morris, D. 1956. The feather postures of birds and the problem of the origin of social signals. Behav. 9:75-113."	y	n		
 Florida Scrub-Jay	Corvidae	1996	Diet	Major Food Items	"Degange, A. R. 1976. The daily and annual time budget of the Florida Scrub Jay. Master's Thesis. Univ. of South Florida, Tampa."	n		unavailable	
 Florida Scrub-Jay	Corvidae	1996	Food Selection And Storage		"Degange, A. R., J. W. Fitzpatrick, J. N. Layne, and G. E. Woolfenden. 1989. Acorn harvesting by Florida Scrub Jays. Ecology 70:348-356."	y	y	entered	
-Florida Scrub-Jay	Corvidae	1996	Feeding	Microhabitat For Foraging	"Woolfenden, G. E. and J. W. Fitzpatrick. 1984. The Florida Scrub Jay: demography of a cooperative-breeding bird. Princeton Univ. Press, Princeton, NJ."				
-Florida Scrub-Jay	Corvidae	1996	Metabolism And Temperature Regulation		"Woolfenden, G. E. 1978. Growth and survival of young Florida Scrub Jays. Wilson Bull. 90:1-18."				
-Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Peterson, A. T. 1993. Adaptive geographical variation in bill shape of Scrub Jays (Aphelocoma coerulescens). Am. Nat. 142:508-527."				
-Florida Scrub-Jay	Corvidae	1996	Food Selection And Storage		"Fleck, D. C. 1988. Acorn tannin influences on the caching behavior of the Florida Scrub Jay (Aphelocoma c. coerulescens). Master's Thesis. Univ. of South Florida, Tampa."				
-Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Zusi, R. L. 1987. A feeding adaptation of the jaw articulation in new world jays (Corvidae) Auk 104:665-680."				
-Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Baber, D. W. and J. G. Morris. 1980. Florida Scrub Jays foraging on feral hogs. Auk 97:202."				
-Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Fitzpatrick, J. W. and G. E. Woolfenden. 1996. Florida Scrub-Jay forages on back of white-tailed deer. Condor 98(2):422-423."				
-Green Jay	Corvidae	1995	Feeding	Food Capture And Consumption	"Alvarez, H. 1975. The social system of the Green Jay in Colombia. Living Bird 14:5-44."				
-Green Jay	Corvidae	1995	Diet	Major Food Items	"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice, Pt. 1. U.S. Nat. Mus. Bull. 191."				
-Green Jay	Corvidae	1995	Feeding	Food Capture And Consumption	"Gayou, D. C. 1982. Tool use by Green Jays. Wilson Bull. 94:595-596."				
-Green Jay	Corvidae	1995	Diet	Major Food Items	"Smith, A. P. 1910. Miscellaneous notes from the lower Rio Grande. Condor 12:93-103."				
-Green Jay	Corvidae	1995	Feeding	Food Capture And Consumption	"Gayou, D. C. 1984. The behavioral ecology of Texas Green Jays. Phd Thesis. Univ. of Missouri, Columbia."				
-Hawaiian Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Sakai, H. F., C. J. Ralph, and C. D. Jenkins. 1986. Foraging ecology of the Hawaiian Crow, an endangered generalist. Condor 88:211-219."				
+Florida Scrub-Jay	Corvidae	1996	Feeding	Microhabitat For Foraging	"Woolfenden, G. E. and J. W. Fitzpatrick. 1984. The Florida Scrub Jay: demography of a cooperative-breeding bird. Princeton Univ. Press, Princeton, NJ."	y	n		
+Florida Scrub-Jay	Corvidae	1996	Metabolism And Temperature Regulation		"Woolfenden, G. E. 1978. Growth and survival of young Florida Scrub Jays. Wilson Bull. 90:1-18."	y	n		
+Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Peterson, A. T. 1993. Adaptive geographical variation in bill shape of Scrub Jays (Aphelocoma coerulescens). Am. Nat. 142:508-527."	y	n		
+Florida Scrub-Jay	Corvidae	1996	Food Selection And Storage		"Fleck, D. C. 1988. Acorn tannin influences on the caching behavior of the Florida Scrub Jay (Aphelocoma c. coerulescens). Master's Thesis. Univ. of South Florida, Tampa."	n		unavailable	
+Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Zusi, R. L. 1987. A feeding adaptation of the jaw articulation in new world jays (Corvidae) Auk 104:665-680."	y	n		
+Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Baber, D. W. and J. G. Morris. 1980. Florida Scrub Jays foraging on feral hogs. Auk 97:202."	y	n		
+Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Fitzpatrick, J. W. and G. E. Woolfenden. 1996. Florida Scrub-Jay forages on back of white-tailed deer. Condor 98(2):422-423."	y	n		
+Green Jay	Corvidae	1995	Feeding	Food Capture And Consumption	"Alvarez, H. 1975. The social system of the Green Jay in Colombia. Living Bird 14:5-44."	n		unavailable	
+Green Jay	Corvidae	1995	Diet	Major Food Items	"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice, Pt. 1. U.S. Nat. Mus. Bull. 191."	y	n		
+Green Jay	Corvidae	1995	Feeding	Food Capture And Consumption	"Gayou, D. C. 1982. Tool use by Green Jays. Wilson Bull. 94:595-596."	y	n		
+Green Jay	Corvidae	1995	Diet	Major Food Items	"Smith, A. P. 1910. Miscellaneous notes from the lower Rio Grande. Condor 12:93-103."	y	n		
+Green Jay	Corvidae	1995	Feeding	Food Capture And Consumption	"Gayou, D. C. 1984. The behavioral ecology of Texas Green Jays. Phd Thesis. Univ. of Missouri, Columbia."	n		unavailable	
+Hawaiian Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Sakai, H. F., C. J. Ralph, and C. D. Jenkins. 1986. Foraging ecology of the Hawaiian Crow, an endangered generalist. Condor 88:211-219."	y	y	entered	
 Hawaiian Crow	Corvidae	2002	Diet	Major Food Items	"Rock, J. F. 1913. The indigenous trees of the Hawaiian Islands. Published privately, Honolulu, HI. (Reproduced, with introduction by S. Carlquist and addendum by D. R. Herbst, 1974, Charles E. Tuttle Co. Rutland, VT.)"				
 Hawaiian Crow	Corvidae	2002	Diet	Major Food Items	"Sakai, H. F. and J. R. Carpenter. 1990. The variety and nutritional value of foods consumed by Hawaiian Crow nestlings, an endangered species. Condor 92:220-228."				
 Hawaiian Crow	Corvidae	2002	Diet	Major Food Items	"Perkins, R. C. L. 1903. Vertebrata. Pages 365-466 in Fauna Hawaiiensis. Vol. 1, pt. 4 (Sharpe, D., Ed.) Univ. Press, Cambridge, U.K."				
