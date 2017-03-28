@@ -3263,31 +3263,31 @@ Fish Crow	Corvidae	2001	Diet	Major Food Items	"Fargo, W. G. 1927. Feeding statio
 Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Whiteley, J. D., J. S. Pritchard, and P. J. B. Slater. 1990. Strategies of mussel dropping by Carrion Crows Corvus c. corone. Bird Study 37:12-17."	y	n		
 Fish Crow	Corvidae	2001	Diet	Major Food Items	"Scott, W. E. D. 1889. A summary of observations on the birds of the Gulf coast of Florida. Auk 6:13-18, 152-160, 245-252, 318-326."	y	n		
 Fish Crow	Corvidae	2001	Diet	Major Food Items	"Mcgowan, K. J. 1990. Nesting Fish Crows adopt a fledgling Blue Jay. J. Field Ornithol. 61:171-173."	y	n		
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Voigts, D. K. 1999. Observations of a colony of roof-nesting Least Terns, 1988-1997. Fla. Field Nat. 27:103-108."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Bendire, C. E. 1895. Life histories of North American birds. U.S. Natl. Mus. Species Bull. 3."				
-Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Mitchell, M. C., L. B. Best, and J. P. Gionfriddo. 1996. Avian nest-site selection and nesting success in two Florida citrus groves. Wilson Bull. 108:573-583."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Zach, R. 1978. Selection and dropping of whelks by Northwestern Crows. Behaviour 67:134-148."				
-Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Burger, J. and D. C. Hahn. 1977. Crow predation on Black-crowned Night Heron eggs. Wilson Bull. 89:350-351."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Burchsted, A. E. 1985. Continued scolding by parent birds after nest predation by crows. Fla. Field Nat. 13:38-41."				
-Fish Crow	Corvidae	2001	Food Selection And Storage		"Mcnair, D. B. 1985. An auxiliary with a mated pair and food-caching behavior in the Fish Crow. Wilson Bull. 97:123-125."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Bent, A. C. 1946. Life histories of North American jays, crows and titmice. U.S. Natl. Mus. Bull. 191."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Norris, R. A. 1951. Distribution and populations of summer birds in southwestern Georgia. Occas. Publ. Georgia Ornithol. Soc. Univ. of Georgia Press, Athens."				
-Fish Crow	Corvidae	2001	Nutrition And Energetics		"Irving, L., H. Krog, and M. Monson. 1955. The metabolism of some Alaskan animals in winter and summer. Physiol. Zool. 28:173-185."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Post, W. and C. A. Seals. 1991. Breeding biology of a newly-established Double-crested Cormorant population in South Carolina. Colon. Waterbirds 14:34-38."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Cristol, D. A. and P. V. Switzer. 1999. Avian prey-dropping behavior. II. American crows and walnuts. Behav. Ecol. 10:220-226."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Bailey, H. H. 1925. The birds of Florida. Williams and Wilkins Co. Baltimore."				
-Fish Crow	Corvidae	2001	Nutrition And Energetics		"Bernstein, M. H., S. P. Thomas, and K. Schmidt-Nielsen. 1973. Power input during flight of the Fish Crow, Corvus ossifragus. J. Exp. Biol. 58:401-410."				
-Fish Crow	Corvidae	2001	Diet	Major Food Items	"Bildstein, K. L., W. Post, J. Johnston, and P. Frederick. 1990. Freshwater wetlands rainfall and the breeding ecology of White Ibises in coastal South Carolina. Wilson Bull. 102:84-98."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Wunderle, Jr., J. M. 1978. Territorial defense of a nectar source by a Palm Warbler. Wilson Bull. 90:297-299."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Crawford, R. L. 1971. Predation on birds killed at TV tower. Oriole 36:33-35."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Wilson, A. 1812. American ornithology. Vol. 5. Bradsford and Inskeep, Philadelphia, PA."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Montevecchi, W. A. 1978. Corvids using objects to displace gulls from nests. Condor 80:349."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Mcnair, D. B. 1989. Attempted interspecific food piracy by Fish Crow of an Osprey. Chat 53:66-68."				
-Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Audubon, J. J. 1834. Ornithological biography. Vol. 2. Adam and Charles Black, Edinburgh."				
-Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice. U.S. Natl. Mus. Bull. 191."				
-Florida Scrub-Jay	Corvidae	1996	Metabolism And Temperature Regulation		"Morris, D. 1956. The feather postures of birds and the problem of the origin of social signals. Behav. 9:75-113."				
-Florida Scrub-Jay	Corvidae	1996	Diet	Major Food Items	"Degange, A. R. 1976. The daily and annual time budget of the Florida Scrub Jay. Master's Thesis. Univ. of South Florida, Tampa."				
-Florida Scrub-Jay	Corvidae	1996	Food Selection And Storage		"Degange, A. R., J. W. Fitzpatrick, J. N. Layne, and G. E. Woolfenden. 1989. Acorn harvesting by Florida Scrub Jays. Ecology 70:348-356."				
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Voigts, D. K. 1999. Observations of a colony of roof-nesting Least Terns, 1988-1997. Fla. Field Nat. 27:103-108."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Bendire, C. E. 1895. Life histories of North American birds. U.S. Natl. Mus. Species Bull. 3."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Mitchell, M. C., L. B. Best, and J. P. Gionfriddo. 1996. Avian nest-site selection and nesting success in two Florida citrus groves. Wilson Bull. 108:573-583."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Zach, R. 1978. Selection and dropping of whelks by Northwestern Crows. Behaviour 67:134-148."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Burger, J. and D. C. Hahn. 1977. Crow predation on Black-crowned Night Heron eggs. Wilson Bull. 89:350-351."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Burchsted, A. E. 1985. Continued scolding by parent birds after nest predation by crows. Fla. Field Nat. 13:38-41."	n		unavailable	
+Fish Crow	Corvidae	2001	Food Selection And Storage		"Mcnair, D. B. 1985. An auxiliary with a mated pair and food-caching behavior in the Fish Crow. Wilson Bull. 97:123-125."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Bent, A. C. 1946. Life histories of North American jays, crows and titmice. U.S. Natl. Mus. Bull. 191."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Norris, R. A. 1951. Distribution and populations of summer birds in southwestern Georgia. Occas. Publ. Georgia Ornithol. Soc. Univ. of Georgia Press, Athens."	n		unavailable	
+Fish Crow	Corvidae	2001	Nutrition And Energetics		"Irving, L., H. Krog, and M. Monson. 1955. The metabolism of some Alaskan animals in winter and summer. Physiol. Zool. 28:173-185."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Post, W. and C. A. Seals. 1991. Breeding biology of a newly-established Double-crested Cormorant population in South Carolina. Colon. Waterbirds 14:34-38."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Cristol, D. A. and P. V. Switzer. 1999. Avian prey-dropping behavior. II. American crows and walnuts. Behav. Ecol. 10:220-226."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Bailey, H. H. 1925. The birds of Florida. Williams and Wilkins Co. Baltimore."	y	n		
+Fish Crow	Corvidae	2001	Nutrition And Energetics		"Bernstein, M. H., S. P. Thomas, and K. Schmidt-Nielsen. 1973. Power input during flight of the Fish Crow, Corvus ossifragus. J. Exp. Biol. 58:401-410."	y	n		
+Fish Crow	Corvidae	2001	Diet	Major Food Items	"Bildstein, K. L., W. Post, J. Johnston, and P. Frederick. 1990. Freshwater wetlands rainfall and the breeding ecology of White Ibises in coastal South Carolina. Wilson Bull. 102:84-98."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Wunderle, Jr., J. M. 1978. Territorial defense of a nectar source by a Palm Warbler. Wilson Bull. 90:297-299."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Crawford, R. L. 1971. Predation on birds killed at TV tower. Oriole 36:33-35."	n		unavailable	
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Wilson, A. 1812. American ornithology. Vol. 5. Bradsford and Inskeep, Philadelphia, PA."	n		unavailable	
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Montevecchi, W. A. 1978. Corvids using objects to displace gulls from nests. Condor 80:349."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Mcnair, D. B. 1989. Attempted interspecific food piracy by Fish Crow of an Osprey. Chat 53:66-68."	y	n		
+Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Audubon, J. J. 1834. Ornithological biography. Vol. 2. Adam and Charles Black, Edinburgh."	y	n		
+Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Bent, A. C. 1946. Life histories of North American jays, crows, and titmice. U.S. Natl. Mus. Bull. 191."	y	n		
+Florida Scrub-Jay	Corvidae	1996	Metabolism And Temperature Regulation		"Morris, D. 1956. The feather postures of birds and the problem of the origin of social signals. Behav. 9:75-113."	y	n		
+Florida Scrub-Jay	Corvidae	1996	Diet	Major Food Items	"Degange, A. R. 1976. The daily and annual time budget of the Florida Scrub Jay. Master's Thesis. Univ. of South Florida, Tampa."	n		unavailable	
+Florida Scrub-Jay	Corvidae	1996	Food Selection And Storage		"Degange, A. R., J. W. Fitzpatrick, J. N. Layne, and G. E. Woolfenden. 1989. Acorn harvesting by Florida Scrub Jays. Ecology 70:348-356."	y	y	entered	
 Florida Scrub-Jay	Corvidae	1996	Feeding	Microhabitat For Foraging	"Woolfenden, G. E. and J. W. Fitzpatrick. 1984. The Florida Scrub Jay: demography of a cooperative-breeding bird. Princeton Univ. Press, Princeton, NJ."				
 Florida Scrub-Jay	Corvidae	1996	Metabolism And Temperature Regulation		"Woolfenden, G. E. 1978. Growth and survival of young Florida Scrub Jays. Wilson Bull. 90:1-18."				
 Florida Scrub-Jay	Corvidae	1996	Feeding	Food Capture And Consumption	"Peterson, A. T. 1993. Adaptive geographical variation in bill shape of Scrub Jays (Aphelocoma coerulescens). Am. Nat. 142:508-527."				

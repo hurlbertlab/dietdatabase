@@ -1,4 +1,4 @@
-clean_names = function(diet, preyTaxonLevel, problemNames = NULL, write = FALSE) {
+clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write = FALSE) {
   require(taxize)
   require(stringr)
   
@@ -10,10 +10,12 @@ clean_names = function(diet, preyTaxonLevel, problemNames = NULL, write = FALSE)
     return(NULL)
   }
   
-  #diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
-  #                  fill=T, stringsAsFactors = F)
-  
-    # Find unique names at specified preyTaxonLevel for all rows
+  if (is.null(diet)) {
+    diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                                        fill=T, stringsAsFactors = F) 
+  }
+
+  # Find unique names at specified preyTaxonLevel for all rows
   # that have no taxonomic identification at a lower level
   if (preyTaxonLevel == 'Phylum') {
     uniqueNames = unique(diet$Prey_Phylum[!is.na(diet$Prey_Phylum) &
@@ -62,16 +64,14 @@ clean_names = function(diet, preyTaxonLevel, problemNames = NULL, write = FALSE)
   uniqueNames = uniqueNames[uniqueNames != "" & !is.na(uniqueNames)]
   
   taxonLevel = paste('Prey_', preyTaxonLevel, sep = '')
-  preyLevels = c('Prey_Kingdom', 'Prey_Phylum', 'Prey_Class',
-                 'Prey_Order', 'Prey_Suborder', 'Prey_Family',
-                 'Prey_Genus', 'Prey_Scientific_Name')
+  preyLevels = paste('Prey_', levels, sep = '')
   
   level = which(preyLevels == taxonLevel)
   
   higherLevels = 1:(level-1)
   
-  if (problemNames = NULL) {
-    problemNames = data.frame(level = NULL, name = NULL)
+  if (is.null(problemNames)) {
+    problemNames = data.frame(level = NULL, name = NULL, condition = NULL)
   }
   
   for (n in uniqueNames) {
@@ -79,37 +79,76 @@ clean_names = function(diet, preyTaxonLevel, problemNames = NULL, write = FALSE)
     
     # class is logical if taxonomic name does not match any existing names
     if (class(hierarchy)[1] == 'logical') {
-      problemNames = rbind(problemNames, data.frame(level = preyTaxonLevel, name = n))
+      problemNames = rbind(problemNames, 
+                           data.frame(level = preyTaxonLevel, 
+                                      name = n,
+                                      condition = 'unmatched'))
     } else {
-      for (l in higherLevels) {
-        if (l == 2 & hierarchy$name[1] == 'Plantae') {
-          rank = 'division'
-        } else {
-          rank = str_to_lower(levels[l])
-        }
-        
-        if (rank %in% hierarchy$rank) {
-          # For names at the specified level that are not NA, assign to the
-          # specified HIGHER taxonomic level the name from ITIS ('hierarchy')
-          
-          if (level < 7) {
-            lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level)
-          } else if (level == 7) {
-            lowerLevelCheck = is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == ""
-          } else if (level == 8) {
-            lowerLevelCheck = TRUE
+
+      # If the name matches, but has been assigned the wrong rank, add to problemNames
+      focalrank = str_to_lower(levels[level])
+      
+      # Input accepted, took taxon 'Oligochaeta'.
+      
+      #Error in if (hierarchy$name[hierarchy$rank == focalrank] != n) { : 
+      #    argument is of length zero
+      
+      # Need to fix if statement below so that instances where the focal rank
+      # is missing from hierarchy are addressed
+      
+      if (hierarchy$name[hierarchy$rank == focalrank] != n) {
+        problemNames = rbind(problemNames, 
+                             data.frame(level = preyTaxonLevel, 
+                                        name = n,
+                                        condition = 'wrong rank'))
+      # Otherwise, grab 
+      } else {
+        for (l in higherLevels) {
+          if (l == 2 & hierarchy$name[1] == 'Plantae') {
+            rank = 'division'
+          } else {
+            rank = str_to_lower(levels[l])
           }
           
-          recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n & lowerLevelCheck)
-          
-          
-          diet[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
-        } # end if rank
-      } # end for l
-    } # end else
+          # Otherwise, if the rank is one that is returned by the taxize match:
+          if (rank %in% hierarchy$rank) {
+            # For names at the specified level that are not NA, assign to the
+            # specified HIGHER taxonomic level the name from ITIS ('hierarchy')
+            
+            if (level < 7) {
+              lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level)
+            } else if (level == 7) {
+              lowerLevelCheck = is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == ""
+            } else if (level == 8) {
+              lowerLevelCheck = TRUE
+            }
+            
+            recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n & lowerLevelCheck)
+            
+            
+            diet[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
+          } # end if rank
+
+        } # end for l
+        
+      } # end else (correct rank)
+      
+    } # end else (taxize name match)
+
   } # end for n
   
-  if ()
+  if (write) {
+    write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
+    write.table(problemNames, 'unmatched_ITIS_names.txt', sep = '\t', row.names = F)
+  }
+
   return(list(diet = diet, badnames = problemNames))
+
 }
+
+# Example cleaning
+diet = read.table('AvianDietDatabase.txt', header = T, sep = '\t', quote = '\"', stringsAsFactors = F)
+clean_phy = clean_names('Phylum')
+clean_cl = clean_names('Class', diet = clean_phy$diet, problemNames = clean_phy$badnames)
+clean_or = clean_names('Order', diet = clean_cl$diet, problemNames = clean_cl$badnames)
 
