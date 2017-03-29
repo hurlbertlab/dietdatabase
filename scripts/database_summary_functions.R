@@ -64,6 +64,47 @@ speciesSummary = function(commonName, by = 'Order') {
   recordsPerRegion = data.frame(count(dietsp, Location_Region))
   recordsPerType = data.frame(count(dietsp, Diet_Type))
   
+  # Report the number of records for which prey are identified to the different 
+  # taxonomic levels, which will be important for interpreting summary occurrence data
+  king_n = nrow(dietsp[!is.na(dietsp$Prey_Kingdom) & dietsp$Prey_Kingdom != "" &
+                         !(!is.na(dietsp$Prey_Phylum) & dietsp$Prey_Phylum != "") &
+                         !(!is.na(dietsp$Prey_Class) & dietsp$Prey_Class != "") &
+                         !(!is.na(dietsp$Prey_Order) & dietsp$Prey_Order != "") &
+                         !(!is.na(dietsp$Prey_Suborder) & dietsp$Prey_Suborder != "") &
+                         !(!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "") &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  phyl_n = nrow(dietsp[!is.na(dietsp$Prey_Phylum) & dietsp$Prey_Phylum != "" &
+                         !(!is.na(dietsp$Prey_Class) & dietsp$Prey_Class != "") &
+                         !(!is.na(dietsp$Prey_Order) & dietsp$Prey_Order != "") &
+                         !(!is.na(dietsp$Prey_Suborder) & dietsp$Prey_Suborder != "") &
+                         !(!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "") &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  clas_n = nrow(dietsp[!is.na(dietsp$Prey_Class) & dietsp$Prey_Class != "" &
+                         !(!is.na(dietsp$Prey_Order) & dietsp$Prey_Order != "") &
+                         !(!is.na(dietsp$Prey_Suborder) & dietsp$Prey_Suborder != "") &
+                         !(!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "") &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  orde_n = nrow(dietsp[!is.na(dietsp$Prey_Order) & dietsp$Prey_Order != "" &
+                         !(!is.na(dietsp$Prey_Suborder) & dietsp$Prey_Suborder != "") &
+                         !(!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "") &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  fami_n = nrow(dietsp[!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "" &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  genu_n = nrow(dietsp[!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "" &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  spec_n = nrow(dietsp[!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != "", ])
+  
+  recordsPerPreyIDLevel = data.frame(level = c('Kingdom', 'Phylum', 'Class', 'Order', 'Family', 'Genus', 'Species'),
+                                     n = c(king_n, phyl_n, clas_n, orde_n, fami_n, genu_n, spec_n))
+  
+  
+  
+  
   taxonLevel = paste('Prey_', by, sep = '')
   
   # If prey not identified down to taxon level specified, replace "" with
@@ -76,6 +117,7 @@ speciesSummary = function(commonName, by = 'Order') {
     if(x[level] == "" | is.na(x[level])) { paste("Unid.", x[max(which(x != "")[which(x != "") < level], na.rm = T)])} 
     else { x[level] })
   
+   
   # Prey_Stage should only matter for distinguishing things at the Order level and 
   # below (e.g. distinguishing between Lepidoptera larvae and adults).
   if (by %in% c('Order', 'Family', 'Genus', 'Scientific_Name')) {
@@ -132,6 +174,7 @@ speciesSummary = function(commonName, by = 'Order') {
               numRecords = numRecords,
               recordsPerYear = recordsPerYear,
               recordsPerRegion = recordsPerRegion,
+              recordsPerPreyIDLevel = recordsPerPreyIDLevel,
               recordsPerType = recordsPerType,
               analysesPerDietType = data.frame(analysesPerDietType),
               preySummary = data.frame(preySummary)))
