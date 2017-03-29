@@ -82,7 +82,7 @@ speciesSummary = function(commonName, by = 'Order') {
     stage = dietsp$Prey_Stage
     stage[is.na(stage)] = ""
     stage[stage == 'adult'] = ""
-    dietsp$Taxon = paste(dietsp[, taxonLevel], stage)
+    dietsp$Taxon = paste(dietsp[, taxonLevel], stage) %>% trimws("both")
   } else {
     dietsp$Taxon = dietsp[, taxonLevel]
   }
@@ -95,7 +95,7 @@ speciesSummary = function(commonName, by = 'Order') {
   
   # Equal-weighted mean fraction of diet (all studies weighted equally despite
   #  variation in sample size)
-  preySummary = dietsp %>% 
+  preySummary_nonOccurrence = dietsp %>% filter(Diet_Type != "Occurrence") %>%
 
     group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
              Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
@@ -108,7 +108,26 @@ speciesSummary = function(commonName, by = 'Order') {
     select(Diet_Type, Taxon, Frac_Diet) %>%
     arrange(Diet_Type, desc(Frac_Diet))
   
-  return(list(numStudies = numStudies,
+  # Fraction Occurrence values don't sum to 1, so all we can do is say that at
+  # a given taxonomic level, at least X% of samples included that prey type
+  # based on the maximum % occurrence of prey within that taxonomic group.
+  # We then average occurrence values across studies/analyses.
+  preySummary_Occurrence = dietsp %>% filter(Diet_Type == "Occurrence") %>%
+    
+    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+             Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
+    
+    summarize(Max_Diet = max(Fraction_Diet, na.rm = T)) %>%
+    group_by(Diet_Type, Taxon) %>%
+    summarize(Sum_Diet2 = sum(Max_Diet, na.rm = T)) %>%
+    left_join(analysesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
+    mutate(Frac_Diet = round(Sum_Diet2/n, 4)) %>%
+    select(Diet_Type, Taxon, Frac_Diet) %>%
+    arrange(Diet_Type, desc(Frac_Diet))
+  
+  preySummary = rbind(preySummary_nonOccurrence, preySummary_Occurrence)
+  
+    return(list(numStudies = numStudies,
               Studies = Studies,
               numRecords = numRecords,
               recordsPerYear = recordsPerYear,
