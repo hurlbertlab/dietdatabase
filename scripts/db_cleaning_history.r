@@ -468,7 +468,99 @@ diet$Prey_Phylum[diet$Prey_Phylum == 'Graminea'] = ''
 diet$Subspecies[diet$Subspecies == ""] = NA
 
 
+#Date: 29 March 2017; By: Allen Hurlbert
+# This script must be run interactively because of input required by taxize
 
+clean_phy = clean_names('Phylum')
+
+# ITIS options when multiple names match:
+# Chlorophyta: 1 (5414)
+
+clean_cl = clean_names('Class', diet = clean_phy$diet, problemNames = clean_phy$badnames)
+
+# ITIS options when multiple names match:
+# Clitellata: 2 (914165)
+# Oligochaeta: 3 (914193)
+# Collembola: 2( 914185)
+# Polychaeta: 15 (914166)
+
+clean_or = clean_names('Order', diet = clean_cl$diet, problemNames = clean_cl$badnames)
+
+# ITIS options when multiple names match:
+# Chelonia: NA (not an Order, should be Testudines)
+# Oligochaeta: 3 (914193)
+# Scorpionida: NA (should be Scorpiones)
+# Mantodea: 2 (914220)
+# Aranae: NA (should be Araneae)
+# Lepidoptera : NA (remove trailing space)
+# Acarina : NA (remove trailing space)
+# Other: NA
+
+clean_fa = clean_names('Family', diet = clean_or$diet, problemNames = clean_or$badnames)
+
+# ITIS options when multiple names match:
+# Aphidae: NA
+# Jassidae: NA (should be Cicadellidae)
+# Scatophagidae: NA (should be Scathophagidae)
+# Geridae: NA (should be Gerridae)
+# Argidae: 1 (152757)
+# Sphaeriidae: NA (should be Pisidiidae)
+
+write.table(clean_fa$diet, 'cleaning/phy_cla_ord_fam_cleaned_db.txt', 
+            sep = '\t', row.names = F)
+write.table(clean_fa$badnames, 'cleaning/phy_cla_ord_fam_cleaning.txt', 
+            sep = '\t', row.names = F)
+# This latter file was gone through by hand to determine how each problem 
+# name should be dealt with. This was saved as phy_cla_ord_fam_problemnames.txt
+
+diet = clean_fa$diet
+
+# For each problem name, replace or fix record as needed
+probnames = read.table('cleaning/phy_cla_ord_fam_problemnames.txt',
+                       header = T, sep = '\t', quote = '\"', stringsAsFactors = F)
+probnames$taxonLevel = paste('Prey_', probnames$level, sep = '')
+
+taxlevels = data.frame(level = c('Kingdom', 'Phylum', 'Class', 'Order', 'Suborder', 
+                                 'Family', 'Genus', 'Scientific_Name'),
+                       levelnum = 19:26)
+
+probnames = left_join(probnames, taxlevels)
+
+for (i in 1:nrow(probnames)) {
+  
+  level = probnames$levelnum[i]
+  taxonLevel = probnames$taxonLevel[i]
+  
+  if (level < 25) {
+    lowerLevelCheck = rowSums(is.na(diet[, (level+1):26]) | diet[, (level+1):26] == "") == (26 - level)
+  } else if (level == 25) {
+    lowerLevelCheck = is.na(diet[, (level+1):26]) | diet[, (level+1):26] == ""
+  } else if (level == 26) {
+    lowerLevelCheck = TRUE
+  }
+  
+  recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == probnames$name[i] & lowerLevelCheck)
+  
+  if (probnames$notes[i] != "keep as is") {
+    diet[recs, level] = probnames$replacewith[i]
+  }
+
+  if (!(probnames$notes[i] == "" | probnames$notes[i] == "keep as is")) {
+  
+    if (grepl("&", probnames$notes[i])) {
+      split = unlist(strsplit(probnames$notes[i], " & "))
+      for (j in split) {
+        note = unlist(strsplit(j, " = "))
+        diet[recs, paste('Prey_', note[1], sep = '')] = note[2]
+      }
+    } else {
+      note = unlist(strsplit(probnames$notes[i], " = "))
+      
+      diet[recs, paste('Prey_', note[1], sep = '')] = note[2]
+    }
+    rm(note)
+  }        
+}
 
 
 #----------------------------------------------------------------------

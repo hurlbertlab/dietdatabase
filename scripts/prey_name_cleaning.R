@@ -192,3 +192,13 @@ clean_or = clean_names('Order', diet = clean_cl$diet, problemNames = clean_cl$ba
 # Acarina : NA (remove trailing space)
 # Other: NA
 
+clean_fa = clean_names('Family', diet = clean_or$diet, problemNames = clean_or$badnames)
+
+# ITIS options when multiple names match:
+# Aphidae: NA
+# Jassidae: NA (should be Cicadellidae)
+# Scatophagidae: NA (should be Scathophagidae)
+# Geridae: NA (should be Gerridae)
+# Argidae: 1 (152757)
+# Sphaeriidae: NA (should be Pisidiidae)
+# 
