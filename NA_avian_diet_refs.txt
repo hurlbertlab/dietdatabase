@@ -3325,11 +3325,11 @@ Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Emms, S. K
 Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Verbeek, N. A. M. 1998. Food fed to nestling Northwestern Crows. Wilson Bull. 110:483-488."	y	y	data not yet entered	
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Wootton, J. T. 1995. Effects of birds on sea urchins and algae: a lower-intertidal trophic cascade. Ecoscience 2:321-328."	n		unavailable	
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Beebe, F. L. 1960. The marine peregrines of the northwest Pacific coast. Condor 62:145-189."	y	n		
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Siegel-Causey, D. and G. L. Hunt, Jr. 1981. Colonial defence behavior in Double-crested and Pelagic Cormorants. Auk 98:522-531."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Tangren, G. V. 1982. Feeding behavior of crows and gulls on a Puget Sound beach. West. Birds 13:1-12."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Verbeek, N. A. M. 1988. Differential predation of eggs in clutches of Glaucous-winged Gulls Larus glaucescens. Ibis 130:512-518."				
-Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Irving, L., H. Krog, and M. Monson. 1955. The metabolism of some Alaskan animals in winter and summer. Physiol. Zool. 28:173-185."				
-Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Wootton, J. T. 1997. Estimates and tests of per capita interaction strength: diet, abundance, and impact of intertidally foraging birds. Ecol. Monogr. 67:45-64."				
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Siegel-Causey, D. and G. L. Hunt, Jr. 1981. Colonial defence behavior in Double-crested and Pelagic Cormorants. Auk 98:522-531."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Tangren, G. V. 1982. Feeding behavior of crows and gulls on a Puget Sound beach. West. Birds 13:1-12."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Verbeek, N. A. M. 1988. Differential predation of eggs in clutches of Glaucous-winged Gulls Larus glaucescens. Ibis 130:512-518."	y	n		
+Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Irving, L., H. Krog, and M. Monson. 1955. The metabolism of some Alaskan animals in winter and summer. Physiol. Zool. 28:173-185."	y	n		
+Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Wootton, J. T. 1997. Estimates and tests of per capita interaction strength: diet, abundance, and impact of intertidally foraging birds. Ecol. Monogr. 67:45-64."	y	y	entered	
 Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Zach, R. 1978. Selection and dropping of whelks by Northwestern Crows. Behaviour 67:134-148."				
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Parrish, J. K. 1995. Influence of group size and habitat type on reproductive success in Common Murres (Uria aalge). Auk 112:390-401."				
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Butler, R. W. 1997. The Great Blue Heron. Univ. of British Columbia Press, Vancouver."				
