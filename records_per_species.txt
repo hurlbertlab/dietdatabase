@@ -220,7 +220,7 @@ Prothonotary Warbler	24
 Purple Martin	102							
 Pygmy Nuthatch	8							
 Pyrrhuloxia	6							
-Red-Backed Hawk	10							
+Red-Backed Hawk	10	red-eyed vireo		x				
 Red-bellied Woodpecker	40							
 Red-Breasted Sapsucker	26							
 Red-cockaded Woodpecker	24							
@@ -231,7 +231,7 @@ Red-tailed Hawk	520
 Red-winged Blackbird	343							
 Red Crossbill	14							
 Rock Pigeon	229							
-Rose-breasted Grosbeak	94							
+Rose-breasted Grosbeak	94		x					
 Roseate Spoonbill	4							
 Rough-legged Buzzard	5							
 Rough-legged Hawk	100							
