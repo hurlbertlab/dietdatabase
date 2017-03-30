@@ -3330,11 +3330,11 @@ Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Tangren, G. V. 1982. Feed
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Verbeek, N. A. M. 1988. Differential predation of eggs in clutches of Glaucous-winged Gulls Larus glaucescens. Ibis 130:512-518."	y	n		
 Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Irving, L., H. Krog, and M. Monson. 1955. The metabolism of some Alaskan animals in winter and summer. Physiol. Zool. 28:173-185."	y	n		
 Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Wootton, J. T. 1997. Estimates and tests of per capita interaction strength: diet, abundance, and impact of intertidally foraging birds. Ecol. Monogr. 67:45-64."	y	y	entered	
-Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Zach, R. 1978. Selection and dropping of whelks by Northwestern Crows. Behaviour 67:134-148."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Parrish, J. K. 1995. Influence of group size and habitat type on reproductive success in Common Murres (Uria aalge). Auk 112:390-401."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Butler, R. W. 1997. The Great Blue Heron. Univ. of British Columbia Press, Vancouver."				
-Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Butler, R. W. 1974. The feeding ecology of the Northwestern Crow on Mitlenatch Island, British Columbia. Can. Field-Nat. 88:313-316."				
-Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Butler, R. W. 1980. The breeding ecology and social organization of the Northwestern Crow on Mitlenatch Island, British Columbia. Master's Thesis. Simon Fraser Univ., Burnaby, BC."				
+Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Zach, R. 1978. Selection and dropping of whelks by Northwestern Crows. Behaviour 67:134-148."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Parrish, J. K. 1995. Influence of group size and habitat type on reproductive success in Common Murres (Uria aalge). Auk 112:390-401."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Butler, R. W. 1997. The Great Blue Heron. Univ. of British Columbia Press, Vancouver."	y	n	is about the great blue heron	
+Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Butler, R. W. 1974. The feeding ecology of the Northwestern Crow on Mitlenatch Island, British Columbia. Can. Field-Nat. 88:313-316."	n		unavailable	
+Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Butler, R. W. 1980. The breeding ecology and social organization of the Northwestern Crow on Mitlenatch Island, British Columbia. Master's Thesis. Simon Fraser Univ., Burnaby, BC."	y	y	entered	
 Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"James, P. C. and N. A. M. Verbeek. 1983. The food storage behaviour of the Northwestern Crow. Behaviour 85:276-291."				
 Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Verbeek, N. A. M. 1997. Food cache recovery by Northwestern Crows (Corvus caurinus). Can. J. Zool. 75:1351-1356."				
 Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Armstrong, R. H. 1990. Guide to the birds of Alaska. Alaska Northwest Books, Anchorage."				
