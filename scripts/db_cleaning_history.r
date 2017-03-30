@@ -513,6 +513,99 @@ write.table(clean_fa$badnames, 'cleaning/phy_cla_ord_fam_cleaning.txt',
 # This latter file was gone through by hand to determine how each problem 
 # name should be dealt with. This was saved as phy_cla_ord_fam_problemnames.txt
 
+for (n in 1:ncol(clean_fa$diet)) {
+  clean_fa$diet[, n] = str_trim(clean_fa$diet[, n])
+}
+
+clean_ge = clean_names('Genus', diet = clean_fa$diet)
+
+
+# ITIS options when multiple names match:
+# Passer: 49 () #49 is wrong (mistakenly used 'Paludipasser locustella uelensis')
+# Limnophila: 142 () #142 is wrong (mistakenly used 'Limnophila pteropoecila')
+# Paniscus: NA (should be Ophion)
+# Bouteloua: 1 (41491) #probably ok but check
+# Elymus: 17 (40677) #probably ok but check
+# Ficus: 188 (19081) #188 was wrong (mistakenly used 'Ficus godeffroyi')
+# Morus: 42 (19064) #42 was wrong (mistakenly used 'Morus confinis')
+# Siren: 19 (773312) #19 was wrong (mistakenly used 'Pseudobranchus striatus axanthus')
+# Sida: 842 (21725)
+# Chloris: 51 (41552)
+# Graminea: NA (should be blank)
+# Stellaria: 11 (20163)
+# Bromus: 9 (40478)
+# Digitaria: 4 (203845)
+# Triodia: NA (should be blank)
+# Choris: NA (should be Chloris)
+# Arenaria: 19 (20235)
+# grass: NA
+# Ulmus: 4 (19048)
+# Iris: ?? (43191) #cant find taxize #, but 1 record is correctly classified
+# Bembidium: NA (should be Bembidion)
+# Macrops: NA (should be Listronotus)
+# Tomicus: NA (Family should be Curculionidae, replace with blank, no ITIS match)
+# Pimpla: NA (Family should be Ichneumonidae, no ITIS match)
+# Ophion: NA (Family should be Ichneumonidae, no ITIS match)
+# Scymnus: 35 (187044)
+# Ichneumon: NA (Family should be Ichneumonidae, no ITIS match)
+# Scambus: NA (Family should be Ichneumonidae, no ITIS match)
+# Stictocephalus: NA (Family should be Membracidae, no ITIS match)
+# Pamera: NA (Family should be Rhyparochromidae, no ITIS match)
+# Olyra: 13 (41963)
+# Melanophthalma: NA (Family should be Latridiidae, no ITIS match)
+# Choristoneura: NA (should be Archips)
+# Lagurus: 8 (180354)
+# Bolboceras: NA (Family should be Geotrupidae, no ITIS match)
+# Lycopus: 1 (32253)
+# Evarthrus: 1 (931447) (actually Cyclotrachelus)
+# Agonoderus: NA (should be Pterostichus)
+# Opatrinus: NA (Family should be Tenebrionidae, no ITIS match)
+# Amnesia: NA (Family should be Curculionidae, no ITIS match)
+# Sitones: NA (should be Sitona)
+# Cleonus: NA (should be Cleonis)
+# Balaninus: NA (should be Curculio)
+# Alsine: NA (should be Stellaria (taxize #11))
+# Byrrhus: 4 (728016)
+# Chaetophora: 4 (728026)
+# Diplotaxis: 2 (926466)
+# Halticus: 3 (105712)
+# Gastroidea: NA (should be Gastrophysa)
+# Staphylinus: NA (Family should be Staphylinidae, no ITIS match)
+# Deromyia: NA (Family should be Asilidae, no ITIS match)
+# Odynerus: NA (Family should be Vespidae, no ITIS match)
+# Cryptus: NA (Family should be Ichneumonidae, no ITIS match)
+# Ammophila: 5 (40447)
+# Pompilus: NA (should be Anoplius)
+# Tettix: NA (should be Tetrix)
+# Pteromalus: NA (should be Eupteromalus)
+# Hemiteles: 3 (153373)
+# Elater: NA (Family should be Elateridae, no ITIS match)
+# Tortrix: NA (Family should be Tortricidae, no ITIS match)
+# Callitriche: 2 (32051)
+# Griselinia: NA (Family should be Griseliniaceae, no ITIS match)
+# Ceratophallus: NA (Family should be Planorbidae, no ITIS match)
+# Tridens: 101 (42220)
+# Xanthocnemis: NA (Family should be Coenagrionidae, no ITIS match)
+# Gilia: 98 (31075)
+# Chrysochlamys: NA (Family should be Clusiaceae, no ITIS match)
+# Podolepis: NA (Family should be Asteraceae)
+# Pontogeneia: 1 (93720)
+# Cucumaria: 1 (158191)
+# Bassia: 2 (20586)
+# Sphaerium: 19 (81391)
+# Citronella: NA (Family should be Cardiopteridaceae, no ITIS match)
+
+write.table(clean_ge$diet, 'cleaning/phy_cla_ord_fam_gen_cleaned_db.txt', 
+            sep = '\t', row.names = F)
+write.table(clean_ge$badnames, 'cleaning/phy_cla_ord_fam_gen_cleaning.txt', 
+            sep = '\t', row.names = F)
+
+
+
+
+
+
+
 diet = clean_fa$diet
 
 # For each problem name, replace or fix record as needed
@@ -531,6 +624,7 @@ for (i in 1:nrow(probnames)) {
   level = probnames$levelnum[i]
   taxonLevel = probnames$taxonLevel[i]
   
+  # Check that all names below the taxonomic level specified are blank or NA
   if (level < 25) {
     lowerLevelCheck = rowSums(is.na(diet[, (level+1):26]) | diet[, (level+1):26] == "") == (26 - level)
   } else if (level == 25) {
@@ -543,6 +637,7 @@ for (i in 1:nrow(probnames)) {
   
   if (probnames$notes[i] != "keep as is") {
     diet[recs, level] = probnames$replacewith[i]
+    print(paste("Replaced", probnames$name[i], "with", probnames$replacewith[i]))
   }
 
   if (!(probnames$notes[i] == "" | probnames$notes[i] == "keep as is")) {
@@ -552,14 +647,17 @@ for (i in 1:nrow(probnames)) {
       for (j in split) {
         note = unlist(strsplit(j, " = "))
         diet[recs, paste('Prey_', note[1], sep = '')] = note[2]
+        print(paste("Assigned", note[2], "to Prey", note[1]))
       }
     } else {
       note = unlist(strsplit(probnames$notes[i], " = "))
       
       diet[recs, paste('Prey_', note[1], sep = '')] = note[2]
+      print(paste("Assigned", note[2], "to Prey", note[1]))
     }
     rm(note)
-  }        
+  }      
+  print(paste(i, "out of", nrow(probnames)))
 }
 
 
