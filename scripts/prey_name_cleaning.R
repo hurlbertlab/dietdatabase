@@ -1,4 +1,19 @@
-clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write = FALSE) {
+# Function for cleaning prey taxonomic names to conform to ITIS nomenclature.
+# Note that this name focuses on the lowest taxonomic level identified, and fills
+# 
+
+# preyTaxonLevel: Kingdom, Phylum, Class, Order, Suborder, Family, Genus, Scientific_Name
+#                 NOTE: Phylum is equivalent to 'Division' in plants
+# diet: diet database data.frame, if NULL will read in from repo
+# problemNames: data.frame of problem names if you want to append to existing df
+# write: if TRUE, will write to database after every name is cleaned
+#         (useful when there are 100s to 1000s of names that won't all get processed
+#          in one sitting)
+# all: if TRUE, will clean all names at specified level; if FALSE, will only examine
+#      and clean records for which Prey_Name_Status is != 'verified'
+
+clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, 
+                       write = FALSE, all = FALSE) {
   require(taxize)
   require(stringr)
   
@@ -15,49 +30,53 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
                                         fill=T, stringsAsFactors = F) 
   }
 
+  if (all == FALSE) {
+    diet2 = diet[diet$Prey_Name_Status != 'verified' | is.na(diet$Prey_Name_Status), ]
+  }
+  
   # Find unique names at specified preyTaxonLevel for all rows
   # that have no taxonomic identification at a lower level
   if (preyTaxonLevel == 'Phylum') {
-    uniqueNames = unique(diet$Prey_Phylum[!is.na(diet$Prey_Phylum) &
-                                  !(!is.na(diet$Prey_Class) & diet$Prey_Class != "") &
-                                      !(!is.na(diet$Prey_Order) & diet$Prey_Order != "") &
-                                      !(!is.na(diet$Prey_Suborder) & diet$Prey_Suborder != "") &
-                                      !(!is.na(diet$Prey_Family) & diet$Prey_Family != "") &
-                                      !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
-                                      !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
+    uniqueNames = unique(diet2$Prey_Phylum[!is.na(diet2$Prey_Phylum) &
+                                  !(!is.na(diet2$Prey_Class) & diet2$Prey_Class != "") &
+                                      !(!is.na(diet2$Prey_Order) & diet2$Prey_Order != "") &
+                                      !(!is.na(diet2$Prey_Suborder) & diet2$Prey_Suborder != "") &
+                                      !(!is.na(diet2$Prey_Family) & diet2$Prey_Family != "") &
+                                      !(!is.na(diet2$Prey_Genus) & diet2$Prey_Genus != "") &
+                                      !(!is.na(diet2$Prey_Scientific_Name) & diet2$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Class') {
-    uniqueNames = unique(diet$Prey_Class[!is.na(diet$Prey_Class) &
-                                           !(!is.na(diet$Prey_Order) & diet$Prey_Order != "") &
-                                           !(!is.na(diet$Prey_Suborder) & diet$Prey_Suborder != "") &
-                                           !(!is.na(diet$Prey_Family) & diet$Prey_Family != "") &
-                                           !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
-                                           !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
+    uniqueNames = unique(diet2$Prey_Class[!is.na(diet2$Prey_Class) &
+                                           !(!is.na(diet2$Prey_Order) & diet2$Prey_Order != "") &
+                                           !(!is.na(diet2$Prey_Suborder) & diet2$Prey_Suborder != "") &
+                                           !(!is.na(diet2$Prey_Family) & diet2$Prey_Family != "") &
+                                           !(!is.na(diet2$Prey_Genus) & diet2$Prey_Genus != "") &
+                                           !(!is.na(diet2$Prey_Scientific_Name) & diet2$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Order') {
-    uniqueNames = unique(diet$Prey_Order[!is.na(diet$Prey_Order) &
-                                           !(!is.na(diet$Prey_Suborder) & diet$Prey_Suborder != "") &
-                                           !(!is.na(diet$Prey_Family) & diet$Prey_Family != "") &
-                                           !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
-                                           !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
+    uniqueNames = unique(diet2$Prey_Order[!is.na(diet2$Prey_Order) &
+                                           !(!is.na(diet2$Prey_Suborder) & diet2$Prey_Suborder != "") &
+                                           !(!is.na(diet2$Prey_Family) & diet2$Prey_Family != "") &
+                                           !(!is.na(diet2$Prey_Genus) & diet2$Prey_Genus != "") &
+                                           !(!is.na(diet2$Prey_Scientific_Name) & diet2$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Suborder') {
-    uniqueNames = unique(diet$Prey_Suborder[!is.na(diet$Prey_Suborder) &
-                                              !(!is.na(diet$Prey_Family) & diet$Prey_Family != "") &
-                                              !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
-                                              !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
+    uniqueNames = unique(diet2$Prey_Suborder[!is.na(diet2$Prey_Suborder) &
+                                              !(!is.na(diet2$Prey_Family) & diet2$Prey_Family != "") &
+                                              !(!is.na(diet2$Prey_Genus) & diet2$Prey_Genus != "") &
+                                              !(!is.na(diet2$Prey_Scientific_Name) & diet2$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Family') {
-    uniqueNames = unique(diet$Prey_Family[!is.na(diet$Prey_Family) &
-                                            !(!is.na(diet$Prey_Genus) & diet$Prey_Genus != "") &
-                                            !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
+    uniqueNames = unique(diet2$Prey_Family[!is.na(diet2$Prey_Family) &
+                                            !(!is.na(diet2$Prey_Genus) & diet2$Prey_Genus != "") &
+                                            !(!is.na(diet2$Prey_Scientific_Name) & diet2$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Genus') {
-    uniqueNames = unique(diet$Prey_Genus[!is.na(diet$Prey_Genus) &
-                                           !(!is.na(diet$Prey_Scientific_Name) & diet$Prey_Scientific_Name != "")]) %>%
+    uniqueNames = unique(diet2$Prey_Genus[!is.na(diet2$Prey_Genus) &
+                                           !(!is.na(diet2$Prey_Scientific_Name) & diet2$Prey_Scientific_Name != "")]) %>%
                                 as.character()
   } else if (preyTaxonLevel == 'Scientific_Name') {
-    uniqueNames = unique(diet$Prey_Scientific_Name[!is.na(diet$Prey_Scientific_Name)]) %>%
+    uniqueNames = unique(diet2$Prey_Scientific_Name[!is.na(diet2$Prey_Scientific_Name)]) %>%
                                 as.character()
   }
   
@@ -78,8 +97,9 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
   if (is.null(problemNames)) {
     problemNames = data.frame(level = NULL, name = NULL, condition = NULL)
   }
-  
+  namecount = 1
   for (n in uniqueNames) {
+    print(paste(namecount, "out of", length(uniqueNames)))
     hierarchy = classification(n, db = 'itis')[[1]]
     
     # class is logical if taxonomic name does not match any existing names
@@ -98,14 +118,6 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
         focalrank = 'division'
       }
       
-      # Input accepted, took taxon 'Oligochaeta'.
-      
-      #Error in if (hierarchy$name[hierarchy$rank == focalrank] != n) { : 
-      #    argument is of length zero
-      
-      # Need to fix if statement below so that instances where the focal rank
-      # is missing from hierarchy are addressed
-      
       if (!focalrank %in% hierarchy$rank) {
         problemNames = rbind(problemNames, 
                              data.frame(level = preyTaxonLevel, 
@@ -119,6 +131,21 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
                                         condition = 'wrong rank; too high'))
       # Otherwise, grab 
       } else {
+        
+        # Identify all records with the specified name where all lower taxonomic
+        # levels are blank or NA
+        if (level < 7) {
+          lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level)
+        } else if (level == 7) {
+          lowerLevelCheck = is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == ""
+        } else if (level == 8) {
+          lowerLevelCheck = TRUE
+        }
+        
+        recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n & lowerLevelCheck)
+        
+        diet$Prey_Name_Status[recs] = 'verified'
+        
         for (l in higherLevels) {
           if (l == 2 & hierarchy$name[1] == 'Plantae') {
             rank = 'division'
@@ -131,18 +158,8 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
             # For names at the specified level that are not NA, assign to the
             # specified HIGHER taxonomic level the name from ITIS ('hierarchy')
             
-            if (level < 7) {
-              lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level)
-            } else if (level == 7) {
-              lowerLevelCheck = is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == ""
-            } else if (level == 8) {
-              lowerLevelCheck = TRUE
-            }
-            
-            recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n & lowerLevelCheck)
-            
-            
             diet[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
+        
           } # end if rank
 
         } # end for l
@@ -150,55 +167,17 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
       } # end else (correct rank)
       
     } # end else (taxize name match)
+  
+    namecount = namecount + 1
 
+    if (write) {
+      write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
+      write.table(problemNames, 'unmatched_ITIS_names.txt', sep = '\t', row.names = F)
+    }
+  
   } # end for n
   
-  if (write) {
-    write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
-    write.table(problemNames, 'unmatched_ITIS_names.txt', sep = '\t', row.names = F)
-  }
-
   return(list(diet = diet, badnames = problemNames))
 
 }
 
-#-------------------------------------------------------------------------------
-# Cleaning
-#
-# This script must be run interactively because of input required by taxize
-
-clean_phy = clean_names('Phylum')
-
-# ITIS options when multiple names match:
-# Chlorophyta: 1 (5414)
-
-clean_cl = clean_names('Class', diet = clean_phy$diet, problemNames = clean_phy$badnames)
-
-# ITIS options when multiple names match:
-# Clitellata: 2 (914165)
-# Oligochaeta: 3 (914193)
-# Collembola: 2( 914185)
-# Polychaeta: 15 (914166)
-
-clean_or = clean_names('Order', diet = clean_cl$diet, problemNames = clean_cl$badnames)
-
-# ITIS options when multiple names match:
-# Chelonia: NA (not an Order, should be Testudines)
-# Oligochaeta: 3 (914193)
-# Scorpionida: NA (should be Scorpiones)
-# Mantodea: 2 (914220)
-# Aranae: NA (should be Araneae)
-# Lepidoptera : NA (remove trailing space)
-# Acarina : NA (remove trailing space)
-# Other: NA
-
-clean_fa = clean_names('Family', diet = clean_or$diet, problemNames = clean_or$badnames)
-
-# ITIS options when multiple names match:
-# Aphidae: NA
-# Jassidae: NA (should be Cicadellidae)
-# Scatophagidae: NA (should be Scathophagidae)
-# Geridae: NA (should be Gerridae)
-# Argidae: 1 (152757)
-# Sphaeriidae: NA (should be Pisidiidae)
-# 
