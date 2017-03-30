@@ -1,0 +1,38 @@
+level	name	condition	replacewith	notes
+Phylum	Streptophyta	wrong rank; too low	Tracheophyta	
+Phylum	Foraminifera	unmatched	Retaria	
+Phylum	Bacillariophyta	wrong rank; too low	Ochrophyta	Class = 'Bacillariophyceae'
+Class	Rodentia	wrong rank; too high	Mammalia	Order = 'Rodentia'
+Class	Reptilia/Amphibia	unmatched		keep as is
+Class	Crustacea	wrong rank; too low	Arthropoda	Common_Name = 'crustacean'
+Class	Clitellata	wrong rank; too low	Oligochaeta	
+Class	Pseudoscorpionida	wrong rank; too low	Pseudoscorpiones	
+Class	Arthropoda	wrong rank; too low		Phylum = 'Arthropoda'
+Class	Chordata	wrong rank; too low		Phylum = 'Chordata'
+Class	Chilopoda 	unmatched	Chilopoda	
+Class	Hirudinida	wrong rank; too high	Hirudinea	
+Class	Polychaeta	wrong rank; too low		Common_Name = 'polychaete worm'
+Class	Actinopteri	unmatched	Actinopterygii	
+Order	Chelonia	unmatched	Testudines	
+Order	Ranidae	wrong rank; too high	Anura	Family = 'Ranidae'
+Order	Gastropoda	wrong rank; too low		Class = 'Gastropoda'
+Order	Diplopoda	wrong rank; too low		Class = 'Diplopoda'
+Order	Chilopoda	wrong rank; too low		Class = 'Chilopoda'
+Order	hemiptera	wrong rank; too high		
+Order	Phalangida	wrong rank; too high	Opiliones	
+Order	Oligochaeta	wrong rank; too low		Class = 'Oligochaeta'
+Order	Scorpionida	unmatched	Scorpiones	
+Order	Aranae	unmatched	Araneae	
+Order	Acarina	wrong rank; too low		Class = 'Arachnida' & Common_Name = 'mite'
+Order	Lepidoptera 	unmatched	Lepidoptera	
+Order	Coleoptera 	unmatched	Coleoptera	
+Order	Diptera 	wrong rank; too low	Diptera	
+Order	Hymenoptera 	unmatched	Hymenoptera	
+Order	Homoptera 	unmatched		
+Order	Araneidae	wrong rank; too high	Araneae	
+Order	Acarina 	unmatched		Class = 'Arachnida' & Common_Name = 'mite'
+Order	Heteroptera	wrong rank; too high	Hemiptera	Suborder = 'Heteroptera'
+Order	arachnida	wrong rank; too low	Araneae	
+Order	Tricoptera	unmatched	Trichoptera	
+Order	Gasteropoda	unmatched	Gastropoda	
+Order	Arachnida	wrong rank; too low	Araneae	

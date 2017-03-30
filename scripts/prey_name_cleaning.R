@@ -63,6 +63,11 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
   
   uniqueNames = uniqueNames[uniqueNames != "" & !is.na(uniqueNames)]
   
+  if (length(uniqueNames) == 0) {
+    stop("No unique names identified only to this taxonomic level")
+    
+  }
+  
   taxonLevel = paste('Prey_', preyTaxonLevel, sep = '')
   preyLevels = paste('Prey_', levels, sep = '')
   
@@ -88,6 +93,11 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
       # If the name matches, but has been assigned the wrong rank, add to problemNames
       focalrank = str_to_lower(levels[level])
       
+      if (focalrank == 'phylum' & 
+          (hierarchy$name[1] %in% c('Plantae', 'Chromista'))) {
+        focalrank = 'division'
+      }
+      
       # Input accepted, took taxon 'Oligochaeta'.
       
       #Error in if (hierarchy$name[hierarchy$rank == focalrank] != n) { : 
@@ -96,11 +106,17 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
       # Need to fix if statement below so that instances where the focal rank
       # is missing from hierarchy are addressed
       
-      if (hierarchy$name[hierarchy$rank == focalrank] != n) {
+      if (!focalrank %in% hierarchy$rank) {
         problemNames = rbind(problemNames, 
                              data.frame(level = preyTaxonLevel, 
                                         name = n,
-                                        condition = 'wrong rank'))
+                                        condition = 'wrong rank; too low'))
+      } else if (focalrank %in% hierarchy$rank & 
+                  hierarchy$name[hierarchy$rank == focalrank] != n) {
+        problemNames = rbind(problemNames, 
+                             data.frame(level = preyTaxonLevel, 
+                                        name = n,
+                                        condition = 'wrong rank; too high'))
       # Otherwise, grab 
       } else {
         for (l in higherLevels) {
@@ -146,9 +162,43 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, write =
 
 }
 
-# Example cleaning
-diet = read.table('AvianDietDatabase.txt', header = T, sep = '\t', quote = '\"', stringsAsFactors = F)
+#-------------------------------------------------------------------------------
+# Cleaning
+#
+# This script must be run interactively because of input required by taxize
+
 clean_phy = clean_names('Phylum')
+
+# ITIS options when multiple names match:
+# Chlorophyta: 1 (5414)
+
 clean_cl = clean_names('Class', diet = clean_phy$diet, problemNames = clean_phy$badnames)
+
+# ITIS options when multiple names match:
+# Clitellata: 2 (914165)
+# Oligochaeta: 3 (914193)
+# Collembola: 2( 914185)
+# Polychaeta: 15 (914166)
+
 clean_or = clean_names('Order', diet = clean_cl$diet, problemNames = clean_cl$badnames)
 
+# ITIS options when multiple names match:
+# Chelonia: NA (not an Order, should be Testudines)
+# Oligochaeta: 3 (914193)
+# Scorpionida: NA (should be Scorpiones)
+# Mantodea: 2 (914220)
+# Aranae: NA (should be Araneae)
+# Lepidoptera : NA (remove trailing space)
+# Acarina : NA (remove trailing space)
+# Other: NA
+
+clean_fa = clean_names('Family', diet = clean_or$diet, problemNames = clean_or$badnames)
+
+# ITIS options when multiple names match:
+# Aphidae: NA
+# Jassidae: NA (should be Cicadellidae)
+# Scatophagidae: NA (should be Scathophagidae)
+# Geridae: NA (should be Gerridae)
+# Argidae: 1 (152757)
+# Sphaeriidae: NA (should be Pisidiidae)
+# 

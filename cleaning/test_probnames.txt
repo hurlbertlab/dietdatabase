@@ -1,0 +1,8 @@
+level	name	condition	replacewith	notes
+Phylum	Streptophyta	wrong rank; too low	Tracheophyta	
+Phylum	Foraminifera	unmatched	Retaria	
+Phylum	Bacillariophyta	wrong rank; too low	Ochrophyta	Class = Bacillariophyceae
+Class	Rodentia	wrong rank; too high	Mammalia	Order = Rodentia
+Class	Reptilia/Amphibia	unmatched		keep as is
+Order	Acarina	wrong rank; too low		Class = Arachnida & Common_Name = mite
+Order	Lepidoptera 	unmatched	Lepidoptera	

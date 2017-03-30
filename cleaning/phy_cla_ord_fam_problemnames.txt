@@ -1,0 +1,133 @@
+level	name	condition	replacewith	notes
+Phylum	Streptophyta	wrong rank; too low	Tracheophyta	
+Phylum	Foraminifera	unmatched	Retaria	
+Phylum	Bacillariophyta	wrong rank; too low	Ochrophyta	Class = Bacillariophyceae
+Class	Rodentia	wrong rank; too high	Mammalia	Order = Rodentia
+Class	Reptilia/Amphibia	unmatched		keep as is
+Class	Crustacea	wrong rank; too low	Arthropoda	Common_Name = crustacean
+Class	Clitellata	wrong rank; too low	Oligochaeta	
+Class	Pseudoscorpionida	wrong rank; too low	Pseudoscorpiones	
+Class	Arthropoda	wrong rank; too low		Phylum = Arthropoda
+Class	Chordata	wrong rank; too low		Phylum = Chordata
+Class	Chilopoda 	unmatched	Chilopoda	
+Class	Hirudinida	wrong rank; too high	Hirudinea	
+Class	Polychaeta	wrong rank; too low		Common_Name = polychaete worm
+Class	Actinopteri	unmatched	Actinopterygii	
+Order	Chelonia	unmatched	Testudines	
+Order	Ranidae	wrong rank; too high	Anura	Family = Ranidae
+Order	Gastropoda	wrong rank; too low		Class = Gastropoda
+Order	Diplopoda	wrong rank; too low		Class = Diplopoda
+Order	Chilopoda	wrong rank; too low		Class = Chilopoda
+Order	hemiptera	wrong rank; too high		
+Order	Phalangida	wrong rank; too high	Opiliones	
+Order	Oligochaeta	wrong rank; too low		Class = Oligochaeta
+Order	Scorpionida	unmatched	Scorpiones	
+Order	Aranae	unmatched	Araneae	
+Order	Acarina	wrong rank; too low		Class = Arachnida & Common_Name = mite
+Order	Lepidoptera 	unmatched	Lepidoptera	
+Order	Coleoptera 	unmatched	Coleoptera	
+Order	Diptera 	wrong rank; too low	Diptera	
+Order	Hymenoptera 	unmatched	Hymenoptera	
+Order	Homoptera 	unmatched		
+Order	Araneidae	wrong rank; too high	Araneae	
+Order	Acarina 	unmatched		Class = Arachnida & Common_Name = mite
+Order	Heteroptera	wrong rank; too high	Hemiptera	Suborder = Heteroptera
+Order	arachnida	wrong rank; too low	Araneae	
+Order	Tricoptera	unmatched	Trichoptera	
+Order	Gasteropoda	unmatched	Gastropoda	
+Order	Arachnida	wrong rank; too low	Araneae	
+Family	Noctuides	unmatched	Noctuidae	
+Family	Cyanocorax	wrong rank; too high	Corvidae	Genus = Cyanocorax
+Family	cervidae	wrong rank; too high	Cervidae	
+Family	Aphidae	unmatched	Aphididae	
+Family	Myrmeleontinae	wrong rank; too high	Myrmeleontidae	
+Family	Jassidae	unmatched	Cicadellidae	
+Family	Lissonotinae; Ichneumoninae	unmatched	Ichneumonidae	
+Family	Tryphoninae	unmatched	Ichneumonidae	
+Family	Campopleginae	unmatched	Ichneumonidae	
+Family	Ichneumoninae	unmatched	Ichneumonidae	
+Family	Trichoptera	wrong rank; too low		Order = Trichoptera
+Family	Anthobium	unmatched	Staphylinidae	
+Family	Eupelminae	unmatched	Eupelmidae	
+Family	Panicinae	wrong rank; too high	Ichneumonidae	
+Family	Limoniidae	unmatched	Tipulidae	
+Family	 Stratiomyidae 	unmatched	Stratiomyidae	
+Family	Dolichopidae	unmatched	Dolichopodidae	
+Family	Opomyzidae	wrong rank; too low	Mydidae	
+Family	Scatophagidae	unmatched	Scathophagidae	
+Family	Alleculinae	wrong rank; too high	Tenebrionidae	
+Family	Ichnumonidae	unmatched	Ichneumonidae	
+Family	Cucujoidea	wrong rank; too low	Cucujidae	
+Family	Leguminose	unmatched	Fabaceae	
+Family	Microtinae	unmatched	Cricetidae	
+Family	Raphidiidae?	unmatched	Raphidiidae	
+Family	Phymatinae	wrong rank; too high	Reduviidae	
+Family	Scarabidae	unmatched	Scarabaeidae	
+Family	Geotropidae	unmatched	Geotrupidae	
+Family	Coccinelidae	unmatched	Coccinellidae	
+Family	Sylphidae	unmatched	Silphidae	
+Family	Geridae	unmatched	Gerridae	
+Family	Corimelanidae	unmatched	Thyreocoridae 	
+Family	Anthrocoridae	unmatched	Anthocoridae	
+Family	Bracconidae	unmatched	Braconidae	
+Family	Chalcidoidea	wrong rank; too low	Chalcididae	
+Family	Apoidae	unmatched		Unidentified = yes
+Family	Eucerinae	unmatched	Apidae	
+Family	Multillidae	unmatched	Mutillidae	
+Family	Xylocopinae	wrong rank; too high	Apidae	
+Family	Culicinae	wrong rank; too high	Culicidae	
+Family	Mycetophillidae	unmatched	Mycetophilidae	
+Family	Chloropodidae	unmatched	Chloropidae	
+Family	Empidae	unmatched	Empididae	
+Family	Ochthiphillidae	unmatched		Unidentified = yes
+Family	Cicadellinae	unmatched	Cicadellidae	
+Family	Unidentified	unmatched		Unidentified = yes
+Family	unidentified	unmatched		Unidentified = yes
+Family	Brachycera	wrong rank; too low		Suborder = Brachycera
+Family	Unknown	wrong rank; too high		Unidentified = yes
+Family	Aphidoidea	wrong rank; too low		Suborder = Sternorrhyncha
+Family	Rhynchophora	unmatched	Curculionidae	
+Family	Cantharide	unmatched	Cantharidae	
+Family	chrysomelidae	wrong rank; too high	Chrysomelidae	
+Family	curculionidae	wrong rank; too high	Curculionidae	
+Family	unknown	wrong rank; too high		Unidentified = yes
+Family	scolytidae	wrong rank; too high	Scolytidae	
+Family	tabanidae	wrong rank; too high	Tabanidae	
+Family	syrphidae	wrong rank; too high	Syrphidae	
+Family	coccidae	wrong rank; too high	Coccidae	
+Family	cercopidae	wrong rank; too high	Cercopidae	
+Family	vespidae	wrong rank; too high	Vespidae	
+Family	diprionidae	wrong rank; too high	Diprionidae	
+Family	tenthredinidae	wrong rank; too high	Tenthredinidae	
+Family	saturniidae	wrong rank; too high	Saturniidae	
+Family	chrysopidae	wrong rank; too high	Chrysopidae	
+Family	mantidae	wrong rank; too high	Mantidae	
+Family	psocidae	wrong rank; too high	Psocidae	
+Family	elateridae	wrong rank; too high	Elateridae	
+Family	aphididae	wrong rank; too high	Aphididae	
+Family	fulgoridae	wrong rank; too high	Fulgoridae	
+Family	ichneumonidae	wrong rank; too high	Ichneumonidae	
+Family	chrysididae	wrong rank; too high	Chrysididae	
+Family	limacodidae	wrong rank; too high	Limacodidae	
+Family	panorpidae	wrong rank; too high	Panorpidae	
+Family	gryllidae	wrong rank; too high	Gryllidae	
+Family	tetrigidae	wrong rank; too high	Tetrigidae	
+Family	Locustidae	unmatched	Tettigoniidae	
+Family	Unidentified beetle	unmatched		Unidentified = yes
+Family	Heteronemiidae	unmatched	Phasmatidae	
+Family	Tettigonioidea	wrong rank; too low	Tettigoniidae	
+Family	Satyrinae	wrong rank; too high	Nymphalidae	
+Family	Trypetidae	unmatched	Tephritidae	
+Family	Geomyzidae	unmatched	Chyromyidae	
+Family	Mylabridae	unmatched	Meloidae	
+Family	Areopodidae	unmatched	Delphacidae	
+Family	Phalaenidae	unmatched	Noctuidae	
+Family	 Phlaeothripidae	unmatched	Phlaeothripidae	
+Family	Eneyrtidae	unmatched	Encyrtidae	
+Family	Elatedidae	unmatched	Elateridae	
+Family	Scarabaeidae 	unmatched	Scarabaeidae	
+Family	Myrmeleonidae	unmatched	Myrmeleontidae	
+Family	Sphaeriidae	unmatched	Psididiidae	
+Family	Helcomyzidae	wrong rank; too low	Heleomyzidae	
+Family	Scutellidae	unmatched		Order = Clypeasteroida
+Family	Gripopterygidae	unmatched	Gripopterygidae	
