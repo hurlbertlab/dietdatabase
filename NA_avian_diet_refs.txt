@@ -3350,12 +3350,12 @@ Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Verbeek, N
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Paine, R. T., J. T. Wootton, and P. D. Boersma. 1990. Direct and indirect effects of peregrine falcon predation on seabird abundance. Auk 107:1-9."				
 Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Richardson, H. and N. A. M. Verbeek. 1987. Diet selection by yearling Northwestern Crows (Corvus caurinus) feeding on littleneck clams (Venerupis japonica). Auk 104:263-269."				
 Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Zach, R. 1979. Shell dropping: decision-making and optimal foraging in Northwestern Crows. Behaviour 68:106-117."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Ligon, J. D. and D. J. Martin. 1974. Pi????on seeds assessment by the Pi????on Jay, Gymnorhinus cyanocephalus. Anim. Behav. 22:421-429."				
-Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Balda, R. P. and G. C. Bateman. 1971. Flocking and annual cycle of the Pi????on Jay, Gymnorhinus cyanocephalus. Condor 73:287-302."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Smith, C. C. and R. P. Balda. 1979. Competition among insects, birds, and mammals for conifer seeds. Am. Zool. 19:1065-1083."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Zusi, R. L. 1987. A feeding adaptation of the jaw articulation in new world jays (Corvidae). Auk 104:665-680."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Vander Wall, S. B. and R. P. Balda. 1981. Ecology and evolution of food-storage behavior in conifer-seed-caching corvids. Z. Tierpsychol. 56:217-242."				
-Pinyon Jay	Corvidae	2002	Nutrition And Energetics		"Little, Jr., E. L. 1938b. Stages of growth of pinyons in 1938. U.S. For. Range Exp. Stn. Res. Note no. 50."				
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Ligon, J. D. and D. J. Martin. 1974. Pi????on seeds assessment by the Pi????on Jay, Gymnorhinus cyanocephalus. Anim. Behav. 22:421-429."	y	n		
+Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Balda, R. P. and G. C. Bateman. 1971. Flocking and annual cycle of the Pi????on Jay, Gymnorhinus cyanocephalus. Condor 73:287-302."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Smith, C. C. and R. P. Balda. 1979. Competition among insects, birds, and mammals for conifer seeds. Am. Zool. 19:1065-1083."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Zusi, R. L. 1987. A feeding adaptation of the jaw articulation in new world jays (Corvidae). Auk 104:665-680."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Vander Wall, S. B. and R. P. Balda. 1981. Ecology and evolution of food-storage behavior in conifer-seed-caching corvids. Z. Tierpsychol. 56:217-242."	y	n		
+Pinyon Jay	Corvidae	2002	Nutrition And Energetics		"Little, Jr., E. L. 1938b. Stages of growth of pinyons in 1938. U.S. For. Range Exp. Stn. Res. Note no. 50."	n		unavailable	
 Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Ligon, J. D. 1978. Reproductive interdependence of Pi????on Jays and pi????on pines. Ecol. Monogr. 48:111-126."				
 Pinyon Jay	Corvidae	2002	Food Selection And Storage	Spatial Cognition	"Balda, R. P. and A. C. Kamil. 1989. A comparative study of cache recovery by three corvid species. Anim. Behav. 38:486-495."				
 Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Ligon, J. D. 1974b. Green cones of the pi????on pine stimulate late summer breeding in the Pi????on Jay. Nature 250:80-82."				
