@@ -3335,21 +3335,21 @@ Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Parrish, J. K. 1995. Infl
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Butler, R. W. 1997. The Great Blue Heron. Univ. of British Columbia Press, Vancouver."	y	n	is about the great blue heron	
 Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Butler, R. W. 1974. The feeding ecology of the Northwestern Crow on Mitlenatch Island, British Columbia. Can. Field-Nat. 88:313-316."	n		unavailable	
 Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Butler, R. W. 1980. The breeding ecology and social organization of the Northwestern Crow on Mitlenatch Island, British Columbia. Master's Thesis. Simon Fraser Univ., Burnaby, BC."	y	y	entered	
-Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"James, P. C. and N. A. M. Verbeek. 1983. The food storage behaviour of the Northwestern Crow. Behaviour 85:276-291."				
-Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Verbeek, N. A. M. 1997. Food cache recovery by Northwestern Crows (Corvus caurinus). Can. J. Zool. 75:1351-1356."				
-Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Armstrong, R. H. 1990. Guide to the birds of Alaska. Alaska Northwest Books, Anchorage."				
-Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Willson, M. F. and T. A. Comet. 1993. Food choices by Northwestern Crows: experiments with captive, free-ranging and hand-raised birds. Condor 95:596-615."				
-Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Robinette, R. L. and J. C. Ha. 1997. The significance of fishing by Northwestern Crows. Wilson Bull. 109:748-749."				
-Northwestern Crow	Corvidae	1999	Metabolism And Temperature Regulation		"Irving, L. 1960. Birds of Anaktuvuk Pass, Kobuk and Old Crow. U.S. Nat. Mus. Bull. 217."				
-Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Saunders, T. and R. Ydenberg. 1995. Consumption and caching of food in the Northwestern Crow (Corvus caurinus). Auk 112:778-779."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Emms, S. K. and N. A. M. Verbeek. 1989. Significance of the pattern of nest distribution in the Pigeon Guillemot (Cephus columba). Auk 106:193-202."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Drent, R., G. F. Van Tets, F. Tompa, and K. Vermeer. 1964. The breeding birds of Mandarte Island, British Columbia. Can. Field-Nat. 78:208-263."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Summers, K. R. 1974. Seabirds breeding along the east coast of Moresby Island, Queen Charlotte Islands, British Columbia. Syesis 7:1-12."				
-Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Shepherd, D. A. 1988. Foraging interactions among Black-billed Magpies, Northwestern Crows, and Red Foxes on Kodiak Island, Alaska. Murrelet 69:68-69."				
-Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Verbeek, N. A. M. 1982. Egg predation by Northwestern Crows: its association with human and Bald Eagle activity. Auk 99:347-352."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Paine, R. T., J. T. Wootton, and P. D. Boersma. 1990. Direct and indirect effects of peregrine falcon predation on seabird abundance. Auk 107:1-9."				
-Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Richardson, H. and N. A. M. Verbeek. 1987. Diet selection by yearling Northwestern Crows (Corvus caurinus) feeding on littleneck clams (Venerupis japonica). Auk 104:263-269."				
-Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Zach, R. 1979. Shell dropping: decision-making and optimal foraging in Northwestern Crows. Behaviour 68:106-117."				
+Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"James, P. C. and N. A. M. Verbeek. 1983. The food storage behaviour of the Northwestern Crow. Behaviour 85:276-291."	y	n		
+Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Verbeek, N. A. M. 1997. Food cache recovery by Northwestern Crows (Corvus caurinus). Can. J. Zool. 75:1351-1356."	y	n		
+Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Armstrong, R. H. 1990. Guide to the birds of Alaska. Alaska Northwest Books, Anchorage."	y	n		
+Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Willson, M. F. and T. A. Comet. 1993. Food choices by Northwestern Crows: experiments with captive, free-ranging and hand-raised birds. Condor 95:596-615."	y	n		
+Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Robinette, R. L. and J. C. Ha. 1997. The significance of fishing by Northwestern Crows. Wilson Bull. 109:748-749."	y	n		
+Northwestern Crow	Corvidae	1999	Metabolism And Temperature Regulation		"Irving, L. 1960. Birds of Anaktuvuk Pass, Kobuk and Old Crow. U.S. Nat. Mus. Bull. 217."	n		Available in Davis Library	
+Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Saunders, T. and R. Ydenberg. 1995. Consumption and caching of food in the Northwestern Crow (Corvus caurinus). Auk 112:778-779."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Emms, S. K. and N. A. M. Verbeek. 1989. Significance of the pattern of nest distribution in the Pigeon Guillemot (Cephus columba). Auk 106:193-202."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Drent, R., G. F. Van Tets, F. Tompa, and K. Vermeer. 1964. The breeding birds of Mandarte Island, British Columbia. Can. Field-Nat. 78:208-263."	n		unavailable	
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Summers, K. R. 1974. Seabirds breeding along the east coast of Moresby Island, Queen Charlotte Islands, British Columbia. Syesis 7:1-12."	n		unavailable	
+Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Shepherd, D. A. 1988. Foraging interactions among Black-billed Magpies, Northwestern Crows, and Red Foxes on Kodiak Island, Alaska. Murrelet 69:68-69."	y	n		
+Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Verbeek, N. A. M. 1982. Egg predation by Northwestern Crows: its association with human and Bald Eagle activity. Auk 99:347-352."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Paine, R. T., J. T. Wootton, and P. D. Boersma. 1990. Direct and indirect effects of peregrine falcon predation on seabird abundance. Auk 107:1-9."	y	n		
+Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Richardson, H. and N. A. M. Verbeek. 1987. Diet selection by yearling Northwestern Crows (Corvus caurinus) feeding on littleneck clams (Venerupis japonica). Auk 104:263-269."	y	n		
+Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Zach, R. 1979. Shell dropping: decision-making and optimal foraging in Northwestern Crows. Behaviour 68:106-117."	y	n		
 Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Ligon, J. D. and D. J. Martin. 1974. Pi????on seeds assessment by the Pi????on Jay, Gymnorhinus cyanocephalus. Anim. Behav. 22:421-429."	y	n		
 Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Balda, R. P. and G. C. Bateman. 1971. Flocking and annual cycle of the Pi????on Jay, Gymnorhinus cyanocephalus. Condor 73:287-302."	y	n		
 Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Smith, C. C. and R. P. Balda. 1979. Competition among insects, birds, and mammals for conifer seeds. Am. Zool. 19:1065-1083."	y	n		
@@ -3389,19 +3389,19 @@ Steller's Jay	Corvidae	1998	Metabolism And Temperature Regulation		"Weathers, W.
 Steller's Jay	Corvidae	1998	Feeding	Food Capture And Consumption	"Abbott, C. G. 1929. Watching Long-crested Jays. Condor 3:124-125."				
 Steller's Jay	Corvidae	1998	Feeding	Food Capture And Consumption	"Brown, J. L. 1964. The integration of agonistic behavior in the Steller's Jay, Cyanocitta stelleri (Gmelin). Univ. Calif. Publ. Zool. 60."				
 Steller's Jay	Corvidae	1998	Diet		"Vander Wall, S. B. and R. P. Balda. 1981. Ecology and evolution of food-storage behavior in conifer-caching corvids. Z. Tierpsychol. 56:217-242."				
-Steller's Jay	Corvidae	1998	Feeding	Food Capture And Consumption	"Carothers, S. W., N. J. Sharber, and R. P. Balda. 1972. Steller's Jays prey on Gray-headed Juncos and a Pygmy Nuthatch during periods of heavy snow. Wilson Bull. 84:204-205."				
-Steller's Jay	Corvidae	1998	Diet		"Goodwin, D. 1976. Crows of the world. Cornell Univ. Press, Ithaca, NY."				
-Steller's Jay	Corvidae	1998	Diet		"Hutchins, H. E. and R. M. Lanner. 1982. The central role of Clark's Nutcracker in the dispersal and establishment of whitebark pine. Oecologia 55:192-201."				
-Steller's Jay	Corvidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Hardy, J. W. 1961. Studies in behavior and phylogeny of certain New World jays (Garrulinae). Univ. Kans. Sci. Bull. 42:13-149."				
+Steller's Jay	Corvidae	1998	Feeding	Food Capture And Consumption	"Carothers, S. W., N. J. Sharber, and R. P. Balda. 1972. Steller's Jays prey on Gray-headed Juncos and a Pygmy Nuthatch during periods of heavy snow. Wilson Bull. 84:204-205."		n	unavailable	
+Steller's Jay	Corvidae	1998	Diet		"Goodwin, D. 1976. Crows of the world. Cornell Univ. Press, Ithaca, NY."	n		unavailable	
+Steller's Jay	Corvidae	1998	Diet		"Hutchins, H. E. and R. M. Lanner. 1982. The central role of Clark's Nutcracker in the dispersal and establishment of whitebark pine. Oecologia 55:192-201."	y	n		
+Steller's Jay	Corvidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Hardy, J. W. 1961. Studies in behavior and phylogeny of certain New World jays (Garrulinae). Univ. Kans. Sci. Bull. 42:13-149."	n		unavailable	
 Steller's Jay	Corvidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered; article has common name as Steller Jay	
-Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Bull. 34:1-96."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Carmen, W. J. 1988. Behavioral ecology of the California Scrub Jay (Aphelocoma coerulescens californica): a non-cooperative breeder with close cooperative relatives. Phd Thesis. Univ. of California, Berkeley."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Hoyt, J. B. B. 1990. Scrub jay resource utilization: foraging ecology in an urban park and an oak woodland. Master's Thesis. California State Univ. Fresno."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Yeaton, R. I. 1974. An ecological analysis of chaparral and pine forest bird communities on Santa Cruz Island and mainland California. Ecology 55:959-973."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Burt, D. B. 1996. Habitat-use patterns in cooperative and non-cooperative breeding birds: testing predictions with Western Scrub-Jays. Wilson Bull. 108:712-727."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Richardson, F. 1938. California Jay catches flies. Condor 40:264."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Brown, J. L. 1963a. Social organization and behavior of the Mexican Jay. Condor 65:126-153."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Desante, D. 1982. Nests and nest predation in land birds. Point Reyes Bird Observ. Newsl. 59:1-5."				
+Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Bull. 34:1-96."	y	y	data not yet entered	
+Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Carmen, W. J. 1988. Behavioral ecology of the California Scrub Jay (Aphelocoma coerulescens californica): a non-cooperative breeder with close cooperative relatives. Phd Thesis. Univ. of California, Berkeley."	n		unavailable	
+Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Hoyt, J. B. B. 1990. Scrub jay resource utilization: foraging ecology in an urban park and an oak woodland. Master's Thesis. California State Univ. Fresno."	n		unavailable	
+Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Yeaton, R. I. 1974. An ecological analysis of chaparral and pine forest bird communities on Santa Cruz Island and mainland California. Ecology 55:959-973."	y	n		
+Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Burt, D. B. 1996. Habitat-use patterns in cooperative and non-cooperative breeding birds: testing predictions with Western Scrub-Jays. Wilson Bull. 108:712-727."	y	n		
+Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Richardson, F. 1938. California Jay catches flies. Condor 40:264."	n		unavailable	
+Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Brown, J. L. 1963a. Social organization and behavior of the Mexican Jay. Condor 65:126-153."	y	n		
+Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Desante, D. 1982. Nests and nest predation in land birds. Point Reyes Bird Observ. Newsl. 59:1-5."	n		unavailable	
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Eicholz, M. W. and W. D. Koenig. 1992. Gopher snake attraction to birds' nests. Southwest. Nat. 37:293-298."	y	n		
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Michener, H. and J. R. Michener. 1945. California jays, their storage and recovery of food, and observations at one nest. Condor 47:206-210."	y	n		
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Ehrlich, P. R. and J. F. McLaughlin. 1988. Scrub jay predation on starlings and swallows: attack and interspecific defense. Condor 90:503-505."	y	n		
