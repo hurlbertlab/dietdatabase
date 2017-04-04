@@ -3335,37 +3335,37 @@ Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Parrish, J. K. 1995. Infl
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Butler, R. W. 1997. The Great Blue Heron. Univ. of British Columbia Press, Vancouver."	y	n	is about the great blue heron	
 Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Butler, R. W. 1974. The feeding ecology of the Northwestern Crow on Mitlenatch Island, British Columbia. Can. Field-Nat. 88:313-316."	n		unavailable	
 Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Butler, R. W. 1980. The breeding ecology and social organization of the Northwestern Crow on Mitlenatch Island, British Columbia. Master's Thesis. Simon Fraser Univ., Burnaby, BC."	y	y	entered	
-Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"James, P. C. and N. A. M. Verbeek. 1983. The food storage behaviour of the Northwestern Crow. Behaviour 85:276-291."				
-Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Verbeek, N. A. M. 1997. Food cache recovery by Northwestern Crows (Corvus caurinus). Can. J. Zool. 75:1351-1356."				
-Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Armstrong, R. H. 1990. Guide to the birds of Alaska. Alaska Northwest Books, Anchorage."				
-Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Willson, M. F. and T. A. Comet. 1993. Food choices by Northwestern Crows: experiments with captive, free-ranging and hand-raised birds. Condor 95:596-615."				
-Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Robinette, R. L. and J. C. Ha. 1997. The significance of fishing by Northwestern Crows. Wilson Bull. 109:748-749."				
-Northwestern Crow	Corvidae	1999	Metabolism And Temperature Regulation		"Irving, L. 1960. Birds of Anaktuvuk Pass, Kobuk and Old Crow. U.S. Nat. Mus. Bull. 217."				
-Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Saunders, T. and R. Ydenberg. 1995. Consumption and caching of food in the Northwestern Crow (Corvus caurinus). Auk 112:778-779."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Emms, S. K. and N. A. M. Verbeek. 1989. Significance of the pattern of nest distribution in the Pigeon Guillemot (Cephus columba). Auk 106:193-202."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Drent, R., G. F. Van Tets, F. Tompa, and K. Vermeer. 1964. The breeding birds of Mandarte Island, British Columbia. Can. Field-Nat. 78:208-263."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Summers, K. R. 1974. Seabirds breeding along the east coast of Moresby Island, Queen Charlotte Islands, British Columbia. Syesis 7:1-12."				
-Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Shepherd, D. A. 1988. Foraging interactions among Black-billed Magpies, Northwestern Crows, and Red Foxes on Kodiak Island, Alaska. Murrelet 69:68-69."				
-Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Verbeek, N. A. M. 1982. Egg predation by Northwestern Crows: its association with human and Bald Eagle activity. Auk 99:347-352."				
-Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Paine, R. T., J. T. Wootton, and P. D. Boersma. 1990. Direct and indirect effects of peregrine falcon predation on seabird abundance. Auk 107:1-9."				
-Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Richardson, H. and N. A. M. Verbeek. 1987. Diet selection by yearling Northwestern Crows (Corvus caurinus) feeding on littleneck clams (Venerupis japonica). Auk 104:263-269."				
-Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Zach, R. 1979. Shell dropping: decision-making and optimal foraging in Northwestern Crows. Behaviour 68:106-117."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Ligon, J. D. and D. J. Martin. 1974. Pi????on seeds assessment by the Pi????on Jay, Gymnorhinus cyanocephalus. Anim. Behav. 22:421-429."				
-Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Balda, R. P. and G. C. Bateman. 1971. Flocking and annual cycle of the Pi????on Jay, Gymnorhinus cyanocephalus. Condor 73:287-302."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Smith, C. C. and R. P. Balda. 1979. Competition among insects, birds, and mammals for conifer seeds. Am. Zool. 19:1065-1083."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Zusi, R. L. 1987. A feeding adaptation of the jaw articulation in new world jays (Corvidae). Auk 104:665-680."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Vander Wall, S. B. and R. P. Balda. 1981. Ecology and evolution of food-storage behavior in conifer-seed-caching corvids. Z. Tierpsychol. 56:217-242."				
-Pinyon Jay	Corvidae	2002	Nutrition And Energetics		"Little, Jr., E. L. 1938b. Stages of growth of pinyons in 1938. U.S. For. Range Exp. Stn. Res. Note no. 50."				
-Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Ligon, J. D. 1978. Reproductive interdependence of Pi????on Jays and pi????on pines. Ecol. Monogr. 48:111-126."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage	Spatial Cognition	"Balda, R. P. and A. C. Kamil. 1989. A comparative study of cache recovery by three corvid species. Anim. Behav. 38:486-495."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Ligon, J. D. 1974b. Green cones of the pi????on pine stimulate late summer breeding in the Pi????on Jay. Nature 250:80-82."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Balda, R. P. 1980. Are seed caching systems co-evolved? Acta XVII Congr. Int. Ornithol. 2:1185-1191."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Shulzitski, J. 1999. Sex differences in the spatial memory ability of mated Pinyon Jays. Master's Thesis. Northern Arizona Univ. Flagstaff."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage	Spatial Cognition	"Bednekoff, P. A., R. P. Balda, A. C. Kamil, and A. L. Hile. 1997. Long term spatial memory in four seed caching corvid species. Anim. Behav. 53:335-341."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage	Spatial Cognition	"Kamil, A. C., R. P. Balda, and D. J. Olson. 1994. Performance of four seed-caching corvid species in the radial-arm maze analog. J. Comp. Psychol. 108:385-393."				
-Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Bendire, C. E. 1895. Life histories of North American birds. U.S. Natl. Mus. Bull. 3."				
-Pinyon Jay	Corvidae	2002	Nutrition And Energetics		"Little, Jr., E. L. 1938a. The earliest stages of pinyon cones. U.S. For. Range Exp. Stn. Res. Note no. 46."				
-Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Chen, B. 2000. Differential spatial memory by male and female Pinyon Jays. Master's Thesis. Northern Arizona Univ. Flagstaff."				
+Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"James, P. C. and N. A. M. Verbeek. 1983. The food storage behaviour of the Northwestern Crow. Behaviour 85:276-291."	y	n		
+Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Verbeek, N. A. M. 1997. Food cache recovery by Northwestern Crows (Corvus caurinus). Can. J. Zool. 75:1351-1356."	y	n		
+Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Armstrong, R. H. 1990. Guide to the birds of Alaska. Alaska Northwest Books, Anchorage."	y	n		
+Northwestern Crow	Corvidae	1999	Food Selection And Storage		"Willson, M. F. and T. A. Comet. 1993. Food choices by Northwestern Crows: experiments with captive, free-ranging and hand-raised birds. Condor 95:596-615."	y	n		
+Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Robinette, R. L. and J. C. Ha. 1997. The significance of fishing by Northwestern Crows. Wilson Bull. 109:748-749."	y	n		
+Northwestern Crow	Corvidae	1999	Metabolism And Temperature Regulation		"Irving, L. 1960. Birds of Anaktuvuk Pass, Kobuk and Old Crow. U.S. Nat. Mus. Bull. 217."	n		Available in Davis Library	
+Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Saunders, T. and R. Ydenberg. 1995. Consumption and caching of food in the Northwestern Crow (Corvus caurinus). Auk 112:778-779."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Emms, S. K. and N. A. M. Verbeek. 1989. Significance of the pattern of nest distribution in the Pigeon Guillemot (Cephus columba). Auk 106:193-202."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Drent, R., G. F. Van Tets, F. Tompa, and K. Vermeer. 1964. The breeding birds of Mandarte Island, British Columbia. Can. Field-Nat. 78:208-263."	n		unavailable	
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Summers, K. R. 1974. Seabirds breeding along the east coast of Moresby Island, Queen Charlotte Islands, British Columbia. Syesis 7:1-12."	n		unavailable	
+Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Shepherd, D. A. 1988. Foraging interactions among Black-billed Magpies, Northwestern Crows, and Red Foxes on Kodiak Island, Alaska. Murrelet 69:68-69."	y	n		
+Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Verbeek, N. A. M. 1982. Egg predation by Northwestern Crows: its association with human and Bald Eagle activity. Auk 99:347-352."	y	n		
+Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Paine, R. T., J. T. Wootton, and P. D. Boersma. 1990. Direct and indirect effects of peregrine falcon predation on seabird abundance. Auk 107:1-9."	y	n		
+Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Richardson, H. and N. A. M. Verbeek. 1987. Diet selection by yearling Northwestern Crows (Corvus caurinus) feeding on littleneck clams (Venerupis japonica). Auk 104:263-269."	y	n		
+Northwestern Crow	Corvidae	1999	Nutrition And Energetics		"Zach, R. 1979. Shell dropping: decision-making and optimal foraging in Northwestern Crows. Behaviour 68:106-117."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Ligon, J. D. and D. J. Martin. 1974. Pi????on seeds assessment by the Pi????on Jay, Gymnorhinus cyanocephalus. Anim. Behav. 22:421-429."	y	n		
+Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Balda, R. P. and G. C. Bateman. 1971. Flocking and annual cycle of the Pi????on Jay, Gymnorhinus cyanocephalus. Condor 73:287-302."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Smith, C. C. and R. P. Balda. 1979. Competition among insects, birds, and mammals for conifer seeds. Am. Zool. 19:1065-1083."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Zusi, R. L. 1987. A feeding adaptation of the jaw articulation in new world jays (Corvidae). Auk 104:665-680."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Vander Wall, S. B. and R. P. Balda. 1981. Ecology and evolution of food-storage behavior in conifer-seed-caching corvids. Z. Tierpsychol. 56:217-242."	y	n		
+Pinyon Jay	Corvidae	2002	Nutrition And Energetics		"Little, Jr., E. L. 1938b. Stages of growth of pinyons in 1938. U.S. For. Range Exp. Stn. Res. Note no. 50."	n		unavailable	
+Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Ligon, J. D. 1978. Reproductive interdependence of Pi????on Jays and pi????on pines. Ecol. Monogr. 48:111-126."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage	Spatial Cognition	"Balda, R. P. and A. C. Kamil. 1989. A comparative study of cache recovery by three corvid species. Anim. Behav. 38:486-495."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Ligon, J. D. 1974b. Green cones of the pi????on pine stimulate late summer breeding in the Pi????on Jay. Nature 250:80-82."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Balda, R. P. 1980. Are seed caching systems co-evolved? Acta XVII Congr. Int. Ornithol. 2:1185-1191."	n		unavailable	
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Shulzitski, J. 1999. Sex differences in the spatial memory ability of mated Pinyon Jays. Master's Thesis. Northern Arizona Univ. Flagstaff."	n		unavailable	
+Pinyon Jay	Corvidae	2002	Food Selection And Storage	Spatial Cognition	"Bednekoff, P. A., R. P. Balda, A. C. Kamil, and A. L. Hile. 1997. Long term spatial memory in four seed caching corvid species. Anim. Behav. 53:335-341."	y	n		
+Pinyon Jay	Corvidae	2002	Food Selection And Storage	Spatial Cognition	"Kamil, A. C., R. P. Balda, and D. J. Olson. 1994. Performance of four seed-caching corvid species in the radial-arm maze analog. J. Comp. Psychol. 108:385-393."	y	n		
+Pinyon Jay	Corvidae	2002	Feeding	Main Foods Taken	"Bendire, C. E. 1895. Life histories of North American birds. U.S. Natl. Mus. Bull. 3."	y	n		
+Pinyon Jay	Corvidae	2002	Nutrition And Energetics		"Little, Jr., E. L. 1938a. The earliest stages of pinyon cones. U.S. For. Range Exp. Stn. Res. Note no. 46."	n		unavailable	
+Pinyon Jay	Corvidae	2002	Food Selection And Storage		"Chen, B. 2000. Differential spatial memory by male and female Pinyon Jays. Master's Thesis. Northern Arizona Univ. Flagstaff."	n		unavailable	
 Pinyon Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Balda, R. P., G. C. Bateman, and G. F. Foster. 1972. Flocking associates of the Pi????on Jay. Wilson Bull. 84:60-76."				
 Pinyon Jay	Corvidae	2002	Metabolism And Temperature Regulation		"Cannon, Jr., F. D. 1973. Nesting energetics of the Pi????on Jay. Master's Thesis. Northern Arizona Univ. Flagstaff."				
 Pinyon Jay	Corvidae	2002	Food Selection And Storage	Spatial Cognition	"Balda, R. P., A. C. Kamil, P. A. Bednekoff, and A. L. Hile. 1997. Species differences in spatial memory performance on a three-dimensional task. Ethology 103:47-55."				
