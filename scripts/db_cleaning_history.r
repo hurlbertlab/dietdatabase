@@ -521,14 +521,16 @@ clean_ge = clean_names('Genus', diet = clean_fa$diet)
 
 
 # ITIS options when multiple names match:
-# Passer: 49 () #49 is wrong (mistakenly used 'Paludipasser locustella uelensis')
-# Limnophila: 142 () #142 is wrong (mistakenly used 'Limnophila pteropoecila')
+# Micropterus: 13 (168158)
+# Passer: 51 (179627) #INITIALLY 'CLEANED' USING WRONG TAXIZE #
+# Avena: 26 (41455)
+# Limnophila: 17 (33634) #INITIALLY 'CLEANED' USING WRONG TAXIZE #
 # Paniscus: NA (should be Ophion)
 # Bouteloua: 1 (41491) #probably ok but check
 # Elymus: 17 (40677) #probably ok but check
-# Ficus: 188 (19081) #188 was wrong (mistakenly used 'Ficus godeffroyi')
-# Morus: 42 (19064) #42 was wrong (mistakenly used 'Morus confinis')
-# Siren: 19 (773312) #19 was wrong (mistakenly used 'Pseudobranchus striatus axanthus')
+# Ficus: 166 (19081) #INITIALLY 'CLEANED' USING WRONG TAXIZE #
+# Morus: 34 (19064) #INITIALLY 'CLEANED' USING WRONG TAXIZE #
+# Siren: 35 (773312) #INITIALLY 'CLEANED' USING WRONG TAXIZE #
 # Sida: 842 (21725)
 # Chloris: 51 (41552)
 # Graminea: NA (should be blank)
