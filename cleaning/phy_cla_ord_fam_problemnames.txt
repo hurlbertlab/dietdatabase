@@ -134,9 +134,9 @@ Family	Gripopterygidae	unmatched	Gripopterygidae
 Genus	Anas platyrhynchos	wrong rank; too high	Anas	Scientific_Name = Anas platyrhynchos
 Genus	Plagiodes	unmatched		Class = Actinopterygii & Order = Teleostei & Unidentified = yes
 Genus	Pleuronectidae	wrong rank; too low		Family = Pleuronectidae
-Genus	Trichoton	unmatched		Family = Tenebrionidae & Unidentified = yes
-Genus	Eleodes	wrong rank; too high		Family = Tenebrionidae & Unidentified = yes
-Genus	Cicadula	unmatched		
+Genus	Trichoton	unmatched		keep as is
+Genus	Eleodes	wrong rank; too high		keep as is
+Genus	Cicadula	unmatched		keep as is
 Genus	Oncopsis	unmatched		
 Genus	Phlepsius	unmatched		
 Genus	Paniscus	unmatched		
