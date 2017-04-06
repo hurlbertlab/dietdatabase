@@ -102,12 +102,27 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
     print(paste(namecount, "out of", length(uniqueNames)))
     hierarchy = classification(n, db = 'itis')[[1]]
     
+    # Identify all records with the specified name where all lower taxonomic
+    # levels are blank or NA
+    if (level < 7) {
+      lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level)
+    } else if (level == 7) {
+      lowerLevelCheck = is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == ""
+    } else if (level == 8) {
+      lowerLevelCheck = TRUE
+    }
+    
+    recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n & lowerLevelCheck)
+    
     # class is logical if taxonomic name does not match any existing names
     if (class(hierarchy)[1] == 'logical') {
       problemNames = rbind(problemNames, 
                            data.frame(level = preyTaxonLevel, 
                                       name = n,
                                       condition = 'unmatched'))
+      
+      diet$Prey_Name_Status[recs] = 'unverified'
+      
     } else {
 
       # If the name matches, but has been assigned the wrong rank, add to problemNames
@@ -126,28 +141,24 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                              data.frame(level = preyTaxonLevel, 
                                         name = n,
                                         condition = 'wrong rank; too low'))
+        
+        diet$Prey_Name_Status[recs] = 'unverified'
+        
       } else if (focalrank %in% hierarchy$rank & 
                   hierarchy$name[hierarchy$rank == focalrank] != n) {
         problemNames = rbind(problemNames, 
                              data.frame(level = preyTaxonLevel, 
                                         name = n,
                                         condition = 'wrong rank; too high'))
+
+        diet$Prey_Name_Status[recs] = 'unverified'
+        
       # Otherwise, grab 
       } else {
         
-        # Identify all records with the specified name where all lower taxonomic
-        # levels are blank or NA
-        if (level < 7) {
-          lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level)
-        } else if (level == 7) {
-          lowerLevelCheck = is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == ""
-        } else if (level == 8) {
-          lowerLevelCheck = TRUE
-        }
+        itis_id = hierarchy$id[hierarchy$rank == focalrank & hierarchy$name == n]
         
-        recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n & lowerLevelCheck)
-        
-        diet$Prey_Name_Status[recs] = 'verified'
+        diet$Prey_Name_Status[recs] = itis_id
         
         for (l in higherLevels) {
           if (l == 2 & hierarchy$name[1] == 'Plantae') {
