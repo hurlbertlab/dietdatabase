@@ -134,50 +134,50 @@ Family	Gripopterygidae	unmatched	Gripopterygidae
 Genus	Anas platyrhynchos	wrong rank; too high	Anas	Scientific_Name = Anas platyrhynchos
 Genus	Plagiodes	unmatched		Class = Actinopterygii & Order = Teleostei & Unidentified = yes
 Genus	Pleuronectidae	wrong rank; too low		Family = Pleuronectidae
-Genus	Trichoton	unmatched		keep as is
-Genus	Eleodes	wrong rank; too high		keep as is
-Genus	Cicadula	unmatched		keep as is
-Genus	Oncopsis	unmatched		
-Genus	Phlepsius	unmatched		
-Genus	Paniscus	unmatched		
+Genus	Trichoton	unmatched	Trichoton	Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Eleodes	wrong rank; too high	Eleodes	Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Cicadula	unmatched	Cicadula	Famly = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Oncopsis	unmatched	Oncopsis	Famly = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Phlepsius	unmatched	Phlepsius	Famly = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Paniscus	unmatched	Ophion	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
 Genus	Meteorus	unmatched		
-Genus	Elateridae limonius	unmatched		
-Genus	Graminea	unmatched		
-Genus	Gallium	unmatched		
-Genus	Zea L.	unmatched		
-Genus	Euphorbia L.	unmatched		
-Genus	Quercus L.	unmatched		
-Genus	Citellus	unmatched		
-Genus	Triodia	unmatched		
-Genus	Choris	unmatched		
-Genus	Unidentified	unmatched		
-Genus	Unidentified Species 2	unmatched		
-Genus	Unidentified Species 1	unmatched		
-Genus	Claytonia?	unmatched		
-Genus	Aster/Erigeron	unmatched		
-Genus	grass	unmatched		
+Genus	Elateridae limonius	unmatched	Limonius	
+Genus	Graminea	unmatched		Family = Poaceae
+Genus	Gallium	unmatched	Galium	
+Genus	Zea L.	unmatched	Zea	
+Genus	Euphorbia L.	unmatched	Euphorbia	
+Genus	Quercus L.	unmatched	Quercus	
+Genus	Citellus	unmatched	Spermophilus	
+Genus	Triodia	unmatched	Triodia	Family = Poaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Choris	unmatched	Chloris	
+Genus	Unidentified	unmatched		Unidentified = yes
+Genus	Unidentified Species 2	unmatched		Unidentified = yes
+Genus	Unidentified Species 1	unmatched		Unidentified = yes
+Genus	Claytonia?	unmatched	Claytonia	
+Genus	Aster/Erigeron	unmatched	Aster/Erigeron	Family = Asteraceae & Order = Asterales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	grass	unmatched		Family = Poaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta
 Genus	Iris	unmatched		
-Genus	Bembidium	unmatched		
-Genus	Macrops	unmatched		
-Genus	Tomicus	unmatched		
-Genus	Pimpla	unmatched		
-Genus	Ophion	unmatched		
-Genus	Bassus?	unmatched		
-Genus	Rhodites	unmatched		
-Genus	Homalodisca	unmatched		
-Genus	Emesa?	unmatched		
-Genus	Epitrix?	unmatched		
-Genus	Ichneumon	unmatched		
-Genus	Urosigalphus	unmatched		
-Genus	Apanteles	unmatched		
-Genus	Ophiderma	unmatched		
-Genus	Corizus	wrong rank; too low		
-Genus	Homaeotarsus	unmatched		
-Genus	Rhyncholus	wrong rank; too low		
-Genus	Telamona?	unmatched		
-Genus	Platycotis	unmatched		
-Genus	Criocephalus	wrong rank; too low		
-Genus	Scambus	unmatched		
+Genus	Bembidium	unmatched	Bembidion	
+Genus	Macrops	unmatched	Listronotus	
+Genus	Tomicus	unmatched	Tomicus	Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Pimpla	unmatched	Pimpla	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Ophion	unmatched	Ophion	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Bassus?	unmatched	Bassus	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Rhodites	unmatched	Rhodites	Family = Cypinidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Homalodisca	unmatched	Homalodisca	Family = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Emesa?	unmatched	Emesa	
+Genus	Epitrix?	unmatched	Epitrix	
+Genus	Ichneumon	unmatched	Ichneumon	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Urosigalphus	unmatched	Urosigalphus	Family = Braconidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Apanteles	unmatched	Apanteles	Family = Braconidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Ophiderma	unmatched	Ophiderma	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Corizus	wrong rank; too low	Corizus	Family = Rhopalidae & Suborder = Heteroptera & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Homaeotarsus	unmatched	Homaeotarsus	Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Rhyncholus	wrong rank; too low	Rhyncolus	
+Genus	Telamona?	unmatched	Telamona	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Platycotis	unmatched	Platycotis	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Criocephalus	wrong rank; too low	Arhopalus	
+Genus	Scambus	unmatched	Scambus	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
 Genus	Chalcis?	unmatched		
 Genus	Pogonomyrmex?	unmatched		
 Genus	Stictocephalus	unmatched		
