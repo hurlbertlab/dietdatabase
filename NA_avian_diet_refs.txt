@@ -3069,7 +3069,7 @@ American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Boswall, J. H.
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Brothers, D. R. 1994. Bufo boreas (western toad). Predation. Herp. Rev. 25:117."	y	n		
 American Crow	Corvidae	2002	Food Selection And Storage		"Cristol, D. A. 2001. American Crows cache less preferred walnuts. Animal Behavior 62:331-336."	y	n		
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Montevecchi, W. A. 1976. Egg size and the egg predatory behaviour of crows. Behaviour 57:307-320."	y	n		
-American Crow	Corvidae				"Kalmbach, E. R. 1918. The crow and its relation to man. U.S. Dep. Agric. Bulletin No. 621."	y	y	not entered yet	
+American Crow	Corvidae				"Kalmbach, E. R. 1918. The crow and its relation to man. U.S. Dep. Agric. Bulletin No. 621."	y	y	entered	
 Black-billed Magpie	Corvidae	1999	Diet		"Reebs, S. G. and D. A. Boag. 1987. Regurgitated pellets and late winter diet of Black-billed Magpies (Pica pica) in Central Alberta. Can. Field-Nat. 101:108-110."	y	y	"Entered data, suggests Kalmbach 1927"	
 Black-billed Magpie	Corvidae	1999	Diet		"Jones, R. E. and K. E. Hungerford. 1972. Evaluation of nesting cover as protection from Magpie predation. J. Wildl. Manage. 36:727-732."	y	n		
 Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Stirling, D. 1968. Notes on food and feeding habits of some wintering birds. Can. Field-Nat. 82:14-17."	y	n		
