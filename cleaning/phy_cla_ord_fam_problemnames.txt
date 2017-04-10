@@ -12,7 +12,7 @@ Class	Chordata	wrong rank; too low		Phylum = Chordata
 Class	Chilopoda 	unmatched	Chilopoda	
 Class	Hirudinida	wrong rank; too high	Hirudinea	
 Class	Polychaeta	wrong rank; too low		Common_Name = polychaete worm
-Class	Actinopteri	unmatched	Actinopterygii	
+Class	Actinopteri	unmatched	Teleostei	
 Order	Chelonia	unmatched	Testudines	
 Order	Ranidae	wrong rank; too high	Anura	Family = Ranidae
 Order	Gastropoda	wrong rank; too low		Class = Gastropoda
@@ -131,3 +131,143 @@ Family	Sphaeriidae	unmatched	Psididiidae
 Family	Helcomyzidae	wrong rank; too low	Heleomyzidae	
 Family	Scutellidae	unmatched		Order = Clypeasteroida
 Family	Gripopterygidae	unmatched	Gripopterygidae	
+Genus	Anas platyrhynchos	wrong rank; too high	Anas	Scientific_Name = Anas platyrhynchos
+Genus	Plagiodes	unmatched		Class = Actinopterygii & Order = Teleostei & Unidentified = yes
+Genus	Pleuronectidae	wrong rank; too low		Family = Pleuronectidae
+Genus	Trichoton	unmatched	Trichoton	Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Eleodes	wrong rank; too high	Eleodes	Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Cicadula	unmatched	Cicadula	Famly = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Oncopsis	unmatched	Oncopsis	Famly = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Phlepsius	unmatched	Phlepsius	Famly = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Paniscus	unmatched	Ophion	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Meteorus	unmatched		
+Genus	Elateridae limonius	unmatched	Limonius	
+Genus	Graminea	unmatched		Family = Poaceae
+Genus	Gallium	unmatched	Galium	
+Genus	Zea L.	unmatched	Zea	
+Genus	Euphorbia L.	unmatched	Euphorbia	
+Genus	Quercus L.	unmatched	Quercus	
+Genus	Citellus	unmatched	Spermophilus	
+Genus	Triodia	unmatched	Triodia	Family = Poaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Choris	unmatched	Chloris	
+Genus	Unidentified	unmatched		Unidentified = yes
+Genus	Unidentified Species 2	unmatched		Unidentified = yes
+Genus	Unidentified Species 1	unmatched		Unidentified = yes
+Genus	Claytonia?	unmatched	Claytonia	
+Genus	Aster/Erigeron	unmatched	Aster/Erigeron	Family = Asteraceae & Order = Asterales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	grass	unmatched		Family = Poaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Iris	unmatched		
+Genus	Bembidium	unmatched	Bembidion	
+Genus	Macrops	unmatched	Listronotus	
+Genus	Tomicus	unmatched	Tomicus	Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Pimpla	unmatched	Pimpla	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Ophion	unmatched	Ophion	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Bassus?	unmatched	Bassus	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Rhodites	unmatched	Rhodites	Family = Cypinidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Homalodisca	unmatched	Homalodisca	Family = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Emesa?	unmatched	Emesa	
+Genus	Epitrix?	unmatched	Epitrix	
+Genus	Ichneumon	unmatched	Ichneumon	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Urosigalphus	unmatched	Urosigalphus	Family = Braconidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Apanteles	unmatched	Apanteles	Family = Braconidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Ophiderma	unmatched	Ophiderma	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Corizus	wrong rank; too low	Corizus	Family = Rhopalidae & Suborder = Heteroptera & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Homaeotarsus	unmatched	Homaeotarsus	Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Rhyncholus	wrong rank; too low	Rhyncolus	
+Genus	Telamona?	unmatched	Telamona	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Platycotis	unmatched	Platycotis	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Criocephalus	wrong rank; too low	Arhopalus	
+Genus	Scambus	unmatched	Scambus	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Chalcis?	unmatched	Chalcis	Family = Chalcididae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Pogonomyrmex?	unmatched	Pogonomyrmex	
+Genus	Stictocephalus	unmatched	Stictocephala	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Pamera	unmatched	Aphanus	Family = Rhyparochromidae & Suborder = Heteroptera & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Trogophlaeus	unmatched	Trogophlaeus	Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Reduviolus	wrong rank; too high	Nabis	
+Genus	Altica?	unmatched	Altica	
+Genus	Cantharis?	unmatched	Cantharis	
+Genus	Margarodes	unmatched	Margarodes	Family = Margarodidae & Suborder = Sternorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Homaemus parvulus	wrong rank; too high	Homaemus	Scientific_Name = Homaemus parvulus
+Genus	Thyreocoris	unmatched	Thyreocoris	Family = Thyreocoridae & Suborder = Heteroptera & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Stictocephala	wrong rank; too high	Stictocephala	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Monocrepidius	unmatched	Conoderus	
+Genus	Melanophthalma	unmatched	Melanophthalma	Family = Latridiidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Lepidosina	unmatched		keep as is
+Genus	Mesochorus	wrong rank; too high	Mesochorus	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Campoplex	unmatched	Campoplex	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Lissonota	wrong rank; too low	Lissonota	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Agrothereutes	unmatched	Agrothereutes	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Phaeogenes	unmatched	Phaeogenes	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Erythroneura	unmatched	Erythroneura	Family = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Typhlocybini	unmatched	Typhlocybini	Family = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Formicidae	wrong rank; too low		Family = Formicidae
+Genus	Choristoneura	unmatched	Archips	
+Genus	Bolboceras	unmatched	Bolboceras	Family = Geotrupidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Coniontis	unmatched	Coniontis	Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Amphicyrta	unmatched	Amphicyrta	Family = Byrrhidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Odontaeus	unmatched	Odonteus	
+Genus	Romalium	unmatched	Enaphalodes	
+Genus	Evarthrus	wrong rank; too high	Cyclotrachelus	
+Genus	Agonoderus	unmatched	Pterostichus	
+Genus	Telephorus	unmatched	Cantharis	
+Genus	Lachnosterna	unmatched	Phyllophaga	
+Genus	Opatrinus	unmatched	Opatrinus	Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Amnesia	unmatched	Amnesia	Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Sitones	unmatched	Sitona	
+Genus	Cleonus	unmatched	Cleonis	
+Genus	Balaninus	unmatched	Curculio	
+Genus	Alsine	unmatched	Stellaria	
+Genus	Evonymus	wrong rank; too low	Euonymus	
+Genus	Leucarctia	unmatched	Estigmene	
+Genus	Camptobrochis	wrong rank; too low	Deraeocoris	
+Genus	Amaranthus?	unmatched	Amaranthus	
+Genus	Rumex?	unmatched	Rumex	
+Genus	Polygonum?	unmatched	Polygonum	
+Genus	Dichelonycha	unmatched	Dichelonyx	
+Genus	Isorhipis	unmatched	Isorhipis	Family = Eucnemidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Gastroidea	unmatched	Gastrophysa	
+Genus	Corphyra	unmatched	Corphyra	Family = Anthicidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Staphylinus	unmatched	Staphylinus	Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Athous	wrong rank; too high	Athous	Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Cremastochilus	unmatched	Cremastocheilus	
+Genus	Deromyia	unmatched	Diogmites	
+Genus	Odynerus	unmatched	Odynerus	Family = Vespidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Myzine	wrong rank; too high	Myzinum	Family = Tiphiidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Cryptus	unmatched	Cryptus	
+Genus	Limneria	unmatched	Limneria	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Pompilus	unmatched	Anoplius	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Lampronota	wrong rank; too high	Lampronota	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Xylonomus	unmatched	Xylonomus	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Tettix	unmatched	Tetrix	
+Genus	Ceresa	wrong rank; too high	Ceresa	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Pteromalus	unmatched	Eupteromalus	
+Genus	Proctotrypes	unmatched	Proctotrupes	Family = Proctotrupidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Mesostenus	wrong rank; too high	Mesostenus	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Elater	unmatched	Elater	Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Asilidae	wrong rank; too low		Family = Asilidae
+Genus	Thalessa	unmatched	Megarhyssa	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Tortrix	unmatched	Tortrix	Family = Tortricidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Griselinia	unmatched	Griselinia	Family = Griseliniaceae & Order = Apiales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Micronecta	unmatched	Micronecta	Family = Micronectidae & Suborder = Heteroptera & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda
+Genus	Ceratophallus	unmatched	Ceratophallus	Family = Planorbidae & Order = Hygrophila & Class = Gastropoda & Phylum = Mollusca
+Genus	Procordulia	unmatched	Procordulia	Family = Corduliidae & Order = Odonata & Class = Insecta & Phylum = Arthropoda
+Genus	Xanthocnemis	unmatched	Xanthocnemis	Family = Coenagrionidae & Order = Odonata & Class = Insecta & Phylum = Arthropoda
+Genus	Dichroplus	unmatched	Dichroplus	Family = Acrididae & Order = Orthoptera & Class = Insecta & Phylum = Arthropoda
+Genus	Wettinia	unmatched	Wettinia	Family = Arecaceae & Order = Arecales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Chrysochlamys	unmatched	Chrysochlamys	Family = Clusiaceae & Order = Malpighiales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Coussarea	unmatched	Coussarea	Family = Rubiaceae & Order = Malpighiales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Isoetopsis	unmatched	Isoetopsis	Family = Asteraceae & Order = Asterales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Podolepis	unmatched	Podolepis	Family = Asteraceae & Order = Asterales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Nesameletus	unmatched	Nesameletus	Family = Nesameletidae & Order = Ephemeroptera & Class = Insecta & Phylum = Arthropoda
+Genus	Archichauliodes	unmatched	Archichauliodes	Family = Corydalidae & Order = Megaloptera & Class = Insecta & Phylum = Arthropoda
+Genus	Bertya	unmatched	Bertya	Family = Euphorbiaceae & Order = Malpighiales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Dichopogon	unmatched	Arthropodium	
+Genus	Einadia	unmatched	Chenopodium	
+Genus	Monechma	wrong rank; too low	Justicia	
+Genus	Stylochaeton	unmatched	Stylochaeton	Family = Araceae & Order = Alismatales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Citronella	unmatched	Citronella	Family = Cardiopteridaceae & Order = Aquifoliales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Lepilaena	unmatched	Lepilaena	Family = Potamogetonaceae & Order = Alismatales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Oreomyrrhis	unmatched	Chaerophyllum	
+Genus	Cyathodes	unmatched	Cyathodes	Family = Ericaceae & Order = Ericales & Class = Magnoliopsida & Phylum = Tracheophyta
+Genus	Deleatidium	unmatched	Deleatidium	Family = Leptophlebiidae & Order = Ephemeroptera & Class = Insecta & Phylum = Arthropoda
+Genus	Zelandobius	unmatched	Zelandobius	Family = Gripopterygidae & Order = Ephemeroptera & Class = Insecta & Phylum = Arthropoda
