@@ -185,7 +185,7 @@ Mourning Dove	76
 Nashville Warbler	38							
 Northern Beardless-tyrannulet	10							
 Northern Bobwhite	5							
-Northern Cardinal	97	*						
+Northern Cardinal	97							
 Northern Flicker	31							
 Northern Goshawk	237							
 Northern Harrier	4							
