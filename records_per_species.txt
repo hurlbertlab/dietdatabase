@@ -180,7 +180,7 @@ McCown's Longspur	12
 Merlin	23							
 Mississippi Kite	36							
 Mountain Bluebird	34	x						
-Mountain Chickadee	44							
+Mountain Chickadee	44	x						
 Mourning Dove	76							
 Nashville Warbler	38							
 Northern Beardless-tyrannulet	10							
@@ -200,7 +200,7 @@ Oak Titmouse	21
 Olive-sided Flycatcher	19							
 Orange-crowned Warbler	57							
 Osprey	60							
-Ovenbird	52							
+Ovenbird	52	x						
 Pacific-slope Flycatcher	88							
 Painted Bunting	5							
 Palm Warbler	5							

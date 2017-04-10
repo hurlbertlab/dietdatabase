@@ -200,7 +200,7 @@ the species common name, the diet database object, and the taxonomic level at wh
 
 First, get a summary of the entries for a specific bird:
 ```
-> speciesSummary('Black-throated Blue Warbler', diet, by = 'Order')
+> speciesSummary("Black-throated Blue Warbler")
 $numStudies
 [1] 3
 
@@ -255,7 +255,7 @@ $preySummary
 ```
 Storing species summary in a variable makes working with it easier. For each new bird, simply make a new abbreviation as the variable name and substitute in the bird name inside the ```speciesSummary``` function (don't worry about saving these when you're closing RStudio for the day). The following shows the same as above:
 ```
-> bluwarb = speciesSummary("Black-throated Blue Warbler", diet, by = "Order")
+> bluwarb = speciesSummary("Black-throated Blue Warbler")
 > bluwarb
 $numStudies
 [1] 2
