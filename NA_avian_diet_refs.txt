@@ -3322,7 +3322,7 @@ Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Mclean, I. G., J. N. M. S
 Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Richardson, H. and N. A. M. Verbeek. 1986. Diet selection and optimization by Northwestern Crows feeding on Japanese littleneck clams. Ecology 67:1219-1226."	y	n		
 Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"James, P. C. 1981. Attempted predation of juvenile starlings by Northwestern Crows. Can. Field-Nat. 95:473-474."	n		unavailable	
 Northwestern Crow	Corvidae	1999	Feeding	Food Capture And Consumption	"Emms, S. K. and N. A. M. Verbeek. 1991. Kleptoparasite avoidance tactics of pigeon guillemots, Cephus columba. Anim. Behav. 41:907-909."	n		unavailable	
-Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Verbeek, N. A. M. 1998. Food fed to nestling Northwestern Crows. Wilson Bull. 110:483-488."	y	y	entering	
+Northwestern Crow	Corvidae	1999	Feeding	Main Foods Taken	"Verbeek, N. A. M. 1998. Food fed to nestling Northwestern Crows. Wilson Bull. 110:483-488."	y	y	entered	
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Wootton, J. T. 1995. Effects of birds on sea urchins and algae: a lower-intertidal trophic cascade. Ecoscience 2:321-328."	n		unavailable	
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Beebe, F. L. 1960. The marine peregrines of the northwest Pacific coast. Condor 62:145-189."	y	n		
 Northwestern Crow	Corvidae	1999	Diet	Major Food Items	"Siegel-Causey, D. and G. L. Hunt, Jr. 1981. Colonial defence behavior in Double-crested and Pelagic Cormorants. Auk 98:522-531."	y	n		
