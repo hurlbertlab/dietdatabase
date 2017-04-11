@@ -669,6 +669,11 @@ for (i in 1:nrow(probnames)) {
 }
 
 
+
+# Cleaning Sites column
+diet$Sites[diet$Sites %in% c('multiple', 'Multiple', '')] = NA
+diet$Sites = as.numeric(diet$Sites)
+
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
 write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
