@@ -1,0 +1,107 @@
+Prey_Part	n	replacewith	other
+NA	11240	NA	
+	10240	NA	
+seed	2732	seed	
+fruit	516	fruit	
+leaf	303	vegetation	
+vegetation	190	vegetation	
+fiber	66	vegetation	
+tuber	57	root	
+root	45	root	
+flower	39	flower	
+berries	36	fruit	
+shoots	33	vegetation	
+carrion	29	NA	
+epidermis	29	vegetation	
+stem	26	vegetation	
+bud	25	flower	
+ 	22	NA	
+rhizome	21	root	
+feather	12	NA	
+mast	12	seed	
+plant material	12	NA	
+propagule	11	seed	
+shell	11	NA	
+achene	10	seed	
+stolon	10	vegetation	
+caryopsis	9	seed	
+needles	8	vegetation	
+bulb	7	root	
+nutlet	7	seed	
+crushed animal matter	6	NA	
+crushed plant matter	6	NA	
+spore	6	spore	
+fruit; seed	5	fruit	
+mandible	5	NA	
+pollen	5	pollen	
+seed; fruit	5	fruit	
+seedhead	5	seed	
+acorn	4	seed	
+anthers	4	pollen	
+catkin	4	seed	
+gall	4	gall	
+oogonium	4	oogonium	
+rootstalk	4	root	
+subterranean parts	4	root	
+bulbil	3	vegetation	
+chitin	3	NA	
+egg case	3	egg	
+egg shell	3	egg	
+nut	3	seed	
+plant	3	NA	
+tooth	3	NA	
+acorn cotyledons	2	seed	
+bark	2	bark	
+bone; teeth	2	NA	
+bud; flower	2	flower	
+cocoon	2	NA	Prey_Stage = pupa
+corm	2	root	
+drupes	2	fruit	
+dung	2	dung	
+egg sacs	2	egg	
+fibers	2	vegetation	
+hair	2	NA	
+kernel	2	seed	
+lichens	2	NA	Prey_Kingdom = Fungi & Prey_Phylum = Ascomycota & Prey_Common_Name = lichen
+pits; seed	2	seed	
+puff ball	2	NA	Prey_Kingdom = Fungi & Prey_Phylum = Basidiomycota
+rootstock	2	root	
+scales	2	NA	
+skin; pulp	2	fruit	
+sporocarp	2	NA	
+tubercle	2	vegetation	
+acorn mast	1	seed	
+berries; small fruit; seed	1	fruit	
+bone	1	NA	
+bones	1	NA	
+bud; leaf	1	vegetation	
+bud; shoots	1	vegetation	
+cambium	1	vegetation	
+capsule	1	spore	
+carcass; afterbirth	1	NA	
+cotyledon	1	seed	
+down	1	NA	
+elytra	1	NA	
+feather;  bone	1	NA	
+feathers	1	NA	
+fiber; pollen	1	pollen	
+foliage	1	vegetation	
+fragments	1	seed	
+galls	1	gall	
+jawbone	1	NA	
+leg	1	NA	
+oospore	1	spore	
+petals	1	flower	
+pulp	1	seed	
+scute	1	NA	
+seed; fruit (non-conifer)	1	seed	
+seed; fruit pulp; catkin; etc	1	seed	
+seedpod	1	seed	
+skin	1	fruit	
+skin; fruit	1	fruit	
+sporangium	1	spore	
+spore case	1	spore	
+stamen	1	pollen	
+submerged vegetation	1	vegetation	
+tree sap	1	sap	
+whole grain + fragments	1	seed	

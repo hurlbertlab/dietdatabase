@@ -674,6 +674,40 @@ for (i in 1:nrow(probnames)) {
 diet$Sites[diet$Sites %in% c('multiple', 'Multiple', '')] = NA
 diet$Sites = as.numeric(diet$Sites)
 
+
+# 11 April 2017; Allen Hurlbert
+# Cleaning and standardizing Prey_Part field
+
+parts = read.table('cleaning/prey_parts.txt', header=T, sep = '\t', stringsAsFactors = F)
+for (i in 1:nrow(parts)) {
+  
+  recs = which(diet$Prey_Part == parts$Prey_Part[i])
+  
+  if (parts$other[i] != "") {
+    
+    if (grepl("&", parts$other[i])) {
+      split = unlist(strsplit(parts$other[i], " & "))
+      for (j in split) {
+        note = unlist(strsplit(j, " = "))
+        diet[recs, note[1]] = note[2]
+        print(paste("Assigned", note[2], "to", note[1]))
+      }
+    } else {
+      note = unlist(strsplit(parts$other[i], " = "))
+      
+      diet[recs, note[1]] = note[2]
+      print(paste("Assigned", note[2], "to", note[1]))
+    }
+    rm(note)
+  }      
+  
+  diet$Prey_Part[recs] = parts$replacewith[i]
+  print(paste(parts$Prey_Part[i], "replaced with", parts$replacewith[i]))
+}
+
+
+
+# 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
 write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
