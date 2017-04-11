@@ -604,8 +604,11 @@ write.table(clean_ge$badnames, 'cleaning/phy_cla_ord_fam_gen_cleaning.txt',
 
 
 clean_sp = clean_names('Scientific_Name', diet = clean_ge$diet)
-# ITIS options when multiple names match:
 
+write.table(clean_sp$diet, 'cleaning/phy_cla_ord_fam_gen_spp_cleaned_db.txt', 
+            sep = '\t', row.names = F)
+write.table(clean_ge$badnames, 'cleaning/phy_cla_ord_fam_gen_spp_cleaning.txt', 
+            sep = '\t', row.names = F)
 
 
 
