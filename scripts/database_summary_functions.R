@@ -60,7 +60,7 @@ speciesSummary = function(commonName, by = 'Order') {
   numStudies = length(unique(dietsp$Source))
   Studies = unique(dietsp$Source)
   numRecords = nrow(dietsp)
-  recordsPerYear = data.frame(count(dietsp, Observation_Year_Begin))
+  recordsPerYear = data.frame(count(dietsp, Observation_Year_End))
   recordsPerRegion = data.frame(count(dietsp, Location_Region))
   recordsPerType = data.frame(count(dietsp, Diet_Type))
   
@@ -257,31 +257,19 @@ LeadingAndTrailingSpaceRemover = function(dietdatabase) {
 }
          
 
-# Function for specifying Prey_Name_Status as 'unknown' if name does
-# not match GloBI's names in 'taxonUnmatched.tsv'
-# May want to be sure to download an updated version of 'taxonUnmatched.tsv'
-# from http://www.globalbioticinteractions.org/references.html
-updateNameStatus = function(diet, write = TRUE) {
-  require(dplyr)
-  names = read.table('cleaning/taxonUnmatched.tsv', sep = '\t',
-                          quote = '\"', fill = T, header = T) %>%
-    filter(grepl('Allen Hurlbert. Avian Diet Database', source))
- 
-  badNames = unmatched$unmatched.taxon.name
+# For dates with no clear Observation_Year_End, replace
+# Observation_Year_End with the publication year.
+# (rapply is to exclude any years in the article title)
 
-  diet$Prey_Name_Status[dd$Prey_Kingdom %in% badNames |
-                        dd$Prey_Phylum %in% badNames |
-                        dd$Prey_Class %in% badNames |
-                        dd$Prey_Order %in% badNames |
-                        dd$Prey_Suborder %in% badNames |
-                        dd$Prey_Family %in% badNames |
-                        dd$Prey_Genus %in% badNames |
-                        dd$Prey_Scientific_Name %in% badNames] = 'unknown'
-  if(write) {
-    write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
-  }
+fill_study_years = function(diet) {
+  fixed = diet %>% mutate(pubyear = str_match_all(Source, "[0-9][0-9][0-9][0-9]") %>%
+                           rapply(function(x) head(x, 1)) %>% as.numeric()) %>%
+    mutate(Observation_Year_End = ifelse(is.na(Observation_Year_End), pubyear, Observation_Year_End)) %>%
+    select(Common_Name:Source)
+return(fixed)  
 }
-                               
+
+
 # Make sure to grab the most recent eBird table in the directory
 taxfiles = file.info(list.files()[grep('eBird', list.files())])
 taxfiles$name = row.names(taxfiles)
