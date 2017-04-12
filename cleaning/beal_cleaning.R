@@ -8,7 +8,7 @@ diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
 
 
 beal = unique(diet[grep("Beal", diet$Source), c('Common_Name', 'Source')]) %>%
-  arrange(Common_Name, study)
+  arrange(Common_Name, Source)
 
 beal$study = substr(beal$Source, 1, 19)
 
