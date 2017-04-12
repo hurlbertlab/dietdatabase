@@ -1,0 +1,38 @@
+Prey_Stage	n	replacewith	notes
+NA	13296	NA	
+	11325	NA	
+larvae	509	larva	
+adult	481	adult	
+juvenile	47	juvenile	
+larvae; adult	42	NA	
+pupae	40	pupa	
+fledgling	36	juvenile	
+egg	34	egg	
+nymphs	28	larva	
+larvae; pupae	16	CHECK	
+adult; larvae	10	CHECK	
+adult; egg	6	CHECK	
+nymph	6	larva	
+teneral	6	teneral	
+eggs	4	egg	
+larval	4	larva	
+nestling	4	juvenile	
+young	4	juvenile	
+fawn	3	juvenile	
+adult; cocoon	2	CHECK	
+ducklings	2	juvenile	
+egg; larvae; pupae	2	CHECK	
+ephippia	2	egg	
+larvae; adult; pupae	2	CHECK	
+larvae; pupae; adult	2	CHECK	
+naiads	2	larva	
+pupa	2	pupa	
+adult; larvae; pupae	1	CHECK	
+adult; pupae	1	CHECK	
+immature	1	juvenile	
+parr	1	juvenile	
+pupae; adult	1	pupa; adult	
+seed	1	NA	Prey_Part = seed
+smolts	1	juvenile	
+statoblasts	1	statoblast	
+tadpoles	1	larva	
