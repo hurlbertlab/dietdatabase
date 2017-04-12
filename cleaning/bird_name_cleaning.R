@@ -13,6 +13,8 @@ taxfiles = file.info(list.files()[grep('eBird', list.files())])
 taxfiles$name = row.names(taxfiles)
 tax = read.table(taxfiles$name[taxfiles$mtime == max(taxfiles$mtime)], header = T,
                  sep = ',', quote = '\"', stringsAsFactors = F)
+tax$Family = word(tax$FAMILY, 1)
+
 orders = unique(tax[, c('ORDER', 'FAMILY')])
 orders$Family = word(orders$FAMILY, 1)
 orders = filter(orders, FAMILY != "" & ORDER != "") %>%
@@ -28,3 +30,6 @@ unmatchedsci = anti_join(db_spp, tax, by = c("Scientific_Name" = "SCI_NAME"))
 
 unmatched2 = anti_join(db_spp, tax, by = c("Common_Name" = "PRIMARY_COM_NAME", "Scientific_Name" = "SCI_NAME"))
 
+unmatched3 = anti_join(db_spp, tax, by = c("Common_Name" = "PRIMARY_COM_NAME", 
+                                           "Scientific_Name" = "SCI_NAME",
+                                           "Family" = "Family"))
