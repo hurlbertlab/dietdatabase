@@ -32,8 +32,8 @@ Note that Families for which I know that data remain to be entered are highlight
 --Hirundinidae  
 --Icteridae  
 --Laniidae  
---Mimidae  
---Motacillidae  
+--Mimidae (many refs to be checked)
+--Motacillidae (refs to be checked)
 --Paridae  
 --Parulidae  
 --Passeridae  
