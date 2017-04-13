@@ -2562,6 +2562,21 @@ Dickcissel	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Fretwell, S. 
 Dickcissel	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Basili, G. D. and S. A. Temple. 1999b. Demographic characteristics of Dickcissels in winter. Stud. Avian Biol. 19:281-288."	y	n		
 Dickcissel	Cardinalidae	2002	Feeding	Main Foods Taken	"Basili, G. D. and S. A. Temple. 1998. Dickcissels and crop damage in Venezuela: defining the problem with ecological models. Ecol. Applic. 9:732-739."	y	n		
 Dickcissel	Cardinalidae	2002	Food Selection And Storage		"Kobal, S. N., N. F. Payne, and D. R. Ludwig. 1998. Nestling food habits of 7 grassland bird species and insect abundance in grassland habitats in northern Illinois. Trans. Ill. Acad. Sci. 91:69-75."	y	n		
+Hepatic Tanager	Cardinalidae	2002	Feeding	Main Foods Taken	"Cruden, R. W. and S. M. Hermann-Parker. 1977. Defense of feeding sites by orioles and Hepatic Tanagers in Mexico. Auk 94:594-596."				
+Hepatic Tanager	Cardinalidae	2002	Feeding	Main Foods Taken	"Marshall, Jr., J. T. 1957. Birds of pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna no. 32."				
+Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Isler, M. L. and P. R. Isler. 1999. The tanagers: natural history, distribution, and identification. Smithson. Inst. Press, Washington, D.C."				
+Hepatic Tanager	Cardinalidae	2002	Feeding	Main Foods Taken	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."				
+Hepatic Tanager	Cardinalidae	2002	Feeding	Main Foods Taken	"Miller, A. H. and E. McMillan. 1964. Hepatic Tanager vagrant to coastal section of California. Condor 66:308."				
+Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Wetmore, A. 1921. Further notes on birds observed near Williams, Arizona. Condor 23:60-67."				
+Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Howell, T. R. 1972. Birds of the lowland pine savanna of northeastern Nicaragua. Condor 74:316-340."				
+Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Bohlen, H. D. 1989. The birds of Illinois. Indiana Univ. Press, Bloomington."				
+Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Fish Game and Bur. Biol. Surv. Washington, D.C."				
+Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Johnson, N. K. 1965. The breeding avifaunas of the Sheep and Spring ranges in southern Nevada. Condor 67:93-124."				
+Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Dobbs, R. C. and P. R. Martin. 1998. Migrant bird participation at an army ant swarm in montane Jalisco, Mexico. Wilson Bull. 110:293-295."				
+Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Ffrench, R. 1991. A guide to the birds of Trinidad and Tobago. Cornell Univ. Press, Ithaca, NY."				
+Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."				
+Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Russell, S. M. 1964. A distributional study of the birds of British Honduras. Ornithol. Monogr. no. 1."				
+Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Henshaw, H. W. 1875. Report on the ornithological collections made in portions of Nevada, Utah, California, Colorado, New Mexico, and Arizona during the years 1871, 1872, 1873, and 1874. Wheeler's Rep. Exploratory Survey West of the 100th meridian, Washington, D.C."				
 Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Bradley, H. L. 1948. A life history study of the Indigo Bunting. Jack-Pine Warbler 26:103-113."	y	n		
 Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Mcatee, W. L. 1926. The relation of birds to woodlots in New York state. Roosevelt Wild Life Bull. 4. 154."	y	n		
 Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Butler, A. W. 1897. The birds of Indiana. Indiana Department of Geology and Natural Resources, Annual Report 22:515-1187."	y	y		
@@ -2614,7 +2629,43 @@ Rose-breasted Grosbeak	Cardinalidae	2002	Feeding	Food Capture And Consumption	"T
 Rose-breasted Grosbeak	Cardinalidae	2002	Feeding	Microhabitat For Foraging	"Dunham, D. W. 1966a. Maintenance activities of the Rose-breasted Grosbeak. Wilson Bull. 78:68-78."	y	n		
 Rose-breasted Grosbeak	Cardinalidae	2002	Feeding	Microhabitat For Foraging	"Howell, S. N. G. and S. Webb. 1995. A guide to the birds of Mexico and northern Central America. Oxford Univ. Press, New York."	y	n		
 Rose-breasted Grosbeak	Cardinalidae	2002	Feeding	Microhabitat For Foraging	"Hilty, S. L. and W. L. Brown. 1986. A guide to the birds of Colombia. Princeton Univ. Press, Princeton, NJ."	y	n		
+Scarlet Tanager	Cardinalidae	1999	Feeding	Main Foods Taken	"Isler, M. L. and P. R. Isler. 1999. The Tanagers: natural history, distribution, and identification. Smithsonian Inst. Press, Washington, D.C."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Main Foods Taken	"Prescott, K. W. 1965. The Scarlet Tanager (Piranga olivacea). N.J. State Mus. Invest. no. 2."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Mueller, H. C. and N. S. Mueller. 1976. Bay-breasted Warblers feeding on fruit: interspecific social facilitation? Bird-Banding 47:276."				
+Scarlet Tanager	Cardinalidae	1999	Food Selection And Storage		"Cooper, R. J. 1988. Dietary relationships among insectivorous birds of an eastern deciduous forest. Ph.D. thesis. West Virginia Univ., Morgantown."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Mcnair, D. B. and J. Escobar. 1993. Verified winter record of Scarlet Tanager in Charleston, SC, and a review of the winter status of Scarlet Tanager in the Southeast United States. Chat 57:25-31."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Stotz, D. F., R. O. Bierregaard, M. Cohn-Haft, P. Petermann, and J. Smith. 1992. The status of North American migrants in central Amazonian Brazil. Condor 94:608-621."				
+Scarlet Tanager	Cardinalidae	1999	Diet	Quantitative Analysis	"Mcatee, W. L. 1926. The relation of birds to woodlots in New York state. Roosevelt Wildl. Bull. no. 4."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Holmes, R. T. and S. K. Robinson. 1981. Tree species preferences of foraging insectivorous birds in a northern hardwoods forest. Oecologia 48:31-35."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Zumeta, D. C. and R. T. Holmes. 1978. Habitat shift and roadside mortality of Scarlet Tanagers during a cold wet New England spring. Wilson Bull. 90:575-586."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Maurer, B. A. and R. C. Whitmore. 1981. Foraging of five bird species in two forests with different vegetation structure. Wilson Bull. 93:478-490."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Sabo, S. R. and R. T. Holmes. 1983. Foraging niches and the structure of forest bird communities in contrasting montane habitats. Condor 85:121-138."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Holmes, R. T. 1986. Foraging patterns of forest birds: male-female differences. Wilson Bull. 98:196-213."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Cooper, R. J., P. J. Martinat, and R. C. Whitmore. 1990. Dietary similarity among insectivorous birds: Influence of taxonomic versus ecological categorization of prey. Stud. Avian Biol. no. 13:104-109."				
+Scarlet Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and their allies. U.S. Natl. Mus. Bull. 211."				
+Scarlet Tanager	Cardinalidae	1999	Food Selection And Storage		"Sample, B. E., R. F. Cooper, and R. C. Whitmore. 1993. Dietary shifts among songbirds from a diflubenzuron-treated forest. Condor 95:616-624."				
 Varied Bunting	Cardinalidae	1998	Feeding	Main Foods Taken	"Wolfe, L. R. 1968. Varied Bunting. Pages 132-137 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies. (Bent, A. C. and O. L. Austin, Jr., Eds.) U.S. Nat. Mus. Bull. 237."	y	n		
+Western Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 2. Univ. of Texas Press, Austin."				
+Western Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Grinnell, J. and A. H. Miller. 1944. The distribution of the birds of California. Pac. Coast Avifauna no. 27."				
+Western Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Airola, D. A. and R. H. Barrett. 1985. Foraging and habitat relationships of insect-gleaning birds in a Sierra Nevada mixed-conifer forest. Condor 87:205-216."				
+Western Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Morgan, K. H., J. P. L. Savard, and S. P. Wetmore. 1991. Foraging behaviour of forest birds of the dry interior Douglas-fir, ponderosa pine forests of British Columbia. Tech. Rep. Ser. no. 149. Can. Wildl. Serv., Pacific and Yukon Regions."				
+Western Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Edwards, E. P. 1972. A field guide to the birds of Mexico. E. P. Edwards, Sweet Briar, VA."				
+Western Tanager	Cardinalidae	1999	Feeding	Microhabitat For Foraging	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Comstock Publ. Assoc. Ithaca, NY."				
+Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1957. Birds of pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna no. 32."				
+Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers and allies. U.S. Natl. Mus. Bull. 211."				
+Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Terres, J. K. 1980. The Audubon Society Encyclopedia of North American Birds. Alfred A. Knopf, Inc., New York."				
+Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Mcallister, Jr., T. H. and D. B. Marshall. 1945. Summer birds of the Fremont National Forest, Oregon. Auk 62:177-189."	y	y		
+Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Munro, J. A. 1950. The birds and mammals of the Creston region, British Columbia. Occas. Pap. B.C. Prov. Mus. no. 8. British Columbia Provincial Museum, Victoria."				
+Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Small, A. 1994. California birds: their status and distribution. Ibis Publ. Co. Vista, CA."				
+Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Johnson, V. R. 1964. Three winter records in the central valley of California. Condor 66:517-518."				
+Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Bailey, A. M. and R. J. Niedrach. 1965. Birds of Colorado. Vol. 2. Denver Mus. Nat. Hist. Denver, CO."				
+Western Tanager	Cardinalidae	1999	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, part 1. U.S. Dep. Agric. Biol. Surv. Bull. 30."	y	y	data has not yet been entered	
+Western Tanager	Cardinalidae	1999	Diet	Major Food Items	"Mcatee, W. L. 1933. Bird allies of the farmer. Excerpt from hearing before the subcommittee of House Committee on Appropriations, etc. U.S. Dep. Agric. Biol. Surv. Bull. Washington, D.C."				
+Western Tanager	Cardinalidae	1999	Diet	Major Food Items	"Isler, M. L. and P. R. Isler. 1987. The tanagers: natural history, distribution, and identification. Smithson. Inst. Press, Washington, D.C."				
+Western Tanager	Cardinalidae	1999	Diet	Major Food Items	"Bull, J. 1964. Birds of the New York area. Dover Publ. Inc., New York."				
+Western Tanager	Cardinalidae	1999	Food Selection And Storage		"Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet and habitat structure. Ecology 63:1918-1931."				
+Western Tanager	Cardinalidae	1999	Metabolism And Temperature Regulation		"Szaro, R. C. and R. P. Balda. 1979. Bird community dynamics in a ponderosa pine forest. Stud. Avian Biol. no. 3."		y		
+Western Tanager	Cardinalidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"	y			
 Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Mcilhenny, E. A. 1939. Feeding habits of Black Vulture. Auk 56:472-474."	y	y	entered	
 Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Baynard, O. E. 1914. The Black Vulture. Blue-bird 7:48-53."	n		unavailable	
 Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Sprunt, Jr., A. 1946. Predation on living prey by the Black Vulture. Auk 63:260-261."	y	y	entered	
@@ -6499,6 +6550,15 @@ Northern Bobwhite	Odontophoridae	1999	"Drinking, Pellet-Casting, And Defecation"
 Northern Bobwhite	Odontophoridae	1999	Metabolism And Temperature Regulation		"Spiers, D. E., T. Adams, and R. K. Ringer. 1983. Temperature regulation in adult quail (Colinus virginianus) during acute thermal stress. Comp. Biochem. Physiol. A 74:369-373."				
 Northern Bobwhite	Odontophoridae	1999	Nutrition And Energetics		"Lochmiller, R. L., M. R. Vestey, and J. C. Boren. 1993. Relationship between protein nutritional status and immunocompetence in Northern Bobwhite chicks. Auk 110:503-510."				
 Northern Bobwhite	Odontophoridae	1999	"Drinking, Pellet-Casting, And Defecation"		"Koerth, N. E. and F. S. Guthery. 1991. Water restriction effects on northern bobwhite reproduction. J. Wildl. Manage. 55:132-137."				
+Wrentit	Paradoxornithidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Surv. Bull. 30:71-74."	y	y	data has not yet been entered	
+Wrentit	Paradoxornithidae	2002	Feeding	Main Foods Taken	"Erickson, M. M. 1938. Territory, annual cycle, and numbers in a population of wren-tits (Chamaea fasciata). Univ. of California Publ. Zool. 42:247-334."	y	n		
+Wrentit	Paradoxornithidae	2002	Feeding	Food Capture And Consumption	"Grinnell, J. 1913. Call notes and mannerisms of the Wrentit. Condor 15:178-181."	y	n		
+Wrentit	Paradoxornithidae	2002	Feeding	Food Capture And Consumption	"Clark, Jr., G. A. 1973. Holding food in the feet in passerines. J. Field Ornithol. 44:91-99."	y	n		
+Wrentit	Paradoxornithidae	2002	Diet	Major Food Items	"Gander, F. F. 1928. Observations on the feeding habits of some common birds. Condor 30:363."	n		unavailable	
+Wrentit	Paradoxornithidae	2002	Diet	Major Food Items	"Dawson, W. L. 1923. The birds of California. Vol. 2. South Moulton Co. San Diego."	n		unavailable	
+Wrentit	Paradoxornithidae	2002	Diet	Major Food Items	"Eakin, R. M. 1942. Bathing of young Wrentit by parent. Condor 44:281."	n		unavailable	
+Wrentit	Paradoxornithidae	2002	Diet	Quantitative Analysis	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to food habits. McGraw Hill, New York."	y	n		
+Wrentit	Paradoxornithidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence in a temperate oak woodland. Auk 97:339-350."	y	n		
 Boreal Chickadee	Paridae	1996	Ecological Relationships Of Sympatric Chickadees Of Boreal Habitats		"Dixon, K. L. 1961. Habitat distribution and niche relationships in North American species of Parus. Pages 179-216 in Vertebrate speciation. (Blair, W. F., Ed.) Univ. of Texas Press, Austin."	y	n		
 Boreal Chickadee	Paridae	1996	Nutrition And Energetics		"Damman, A. W. H. 1964. Some forest types of central Newfoundland and their relation to environmental factors. For. Sci. Monogr. 8, Soc. Am. Foresters."	y	n		
 Boreal Chickadee	Paridae	1996	Ecological Relationships Of Sympatric Chickadees Of Boreal Habitats		"Lack, D. 1945. The ecology of closely related species with special reference to Cormorant (Phalacrocorax carbo) and Shag (P. aristotelis). J. Anim. Ecol. 14:12-16."	y	n	No data for boreal chickadee; some for cormorant	
@@ -6908,7 +6968,7 @@ MacGillivray's Warbler	Parulidae	2003	Feeding	Microhabitat For Foraging	"Hutto, 
 MacGillivray's Warbler	Parulidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"	n			
 Magnolia warbler	Parulidae	1883	Diet	Main Foods Taken	"King, F. H. 1883. Economic relations\""	n"""				
 Magnolia warbler	Parulidae	1883	Diet	Main Foods Taken	"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."	y	n		
-Myrtle Warbler	Parulidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	n	data too vague	
+Myrtle Warbler	Parulidae	1910	Diet	Main Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	n		
 Nashville Warbler	Parulidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"	y	n	"No available data found, Need data for this species"	
 Nashville Warbler	Parulidae	2003	Diet	Major Food Items	"King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."	y	n		
 Northern Waterthrush	Parulidae	1995	Feeding	Food Capture And Consumption	"Paynter, Jr., R. A. 1953. Autumnal migration on Campeche Bank. Auk 70:338-349."	y	n		
@@ -8124,7 +8184,7 @@ Ivory-billed Woodpecker	Picidae	2002	Feeding	Microhabitat For Foraging	"Lamb, G.
 Ivory-billed Woodpecker	Picidae	2002	Feeding	Food Capture And Consumption	"Dennis, J. V. 1984. Tale of two woodpeckers. Living Bird Q. 3:18-21."				
 Ivory-billed Woodpecker	Picidae	2002	Diet		"Wilson, A. 1811. American ornithology. Philadelphia, PA, Vol. 4:20-26."				
 Ivory-billed Woodpecker	Picidae	2002	Diet		"Gosse, P. H. 1859. Letters from Alabama (U.S.) chiefly relating to natural history. Univ. of Alabama Press, Tuscaloosa."				
-Ivory-billed Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. Bull. U.S. Biol. Surv. 37."				
+Ivory-billed Woodpecker	Picidae	2002	Diet		"Beal, F. E. L. 1911. Food of the woodpeckers of the United States. Bull. U.S. Biol. Surv. 37."	y	y		
 Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Scott, W. E. D. 1886. On the avi-fauna of Pinal County, with remarks on some birds of Pima and Gila Counties, Arizona. Auk 3:249-258, 383-389, 421-432; 4: 16-24, 196-205; 5: 29-36, 159-168."	y	n		
 Ladder-backed Woodpecker	Picidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Short, Jr., L. L. 1982. Woodpeckers of the world. Del. Mus. Nat. Hist. Monogr. Ser. 4, Greenville."	n			
 Ladder-backed Woodpecker	Picidae	2001	Feeding	Microhabitat For Foraging	"Short, Jr., L. L. 1971. Systematics and behavior of some North American woodpeckers, genus Picoides (Aves). Bull. Am. Mus. Nat. Hist. 145."	y	n		
@@ -10254,9 +10314,9 @@ Eastern Screech-Owl	Strigidae	1995	Food Selection And Storage		"Phelan, F. J. S.
 Eastern Screech-Owl	Strigidae	1995	Food Selection And Storage		"Postler, J. L. and G. W. Barrett. 1982. Prey selection and bioenergetics of captive screech owls. Ohio J. Sci. 82:55-58."	y	y		
 Eastern Screech-Owl	Strigidae	1995	Food Selection And Storage		"Metzgar, L. H. 1967. An experimental comparison of screech owl predation on resident and transient white-footed mice (Peromyscus leucopus). J. Mammal. 48:387-391."	y	y	"Lists prey items, no quantitative data"	
 Eastern Screech-Owl	Strigidae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	n			
-Eastern Screech-Owl	Strigidae	2010	Diet		"Artuso, Christian. 2010. The diet of the Eastern Screech-Owl, Megascops asio, at the northern periphery of its range. Canadian Field-Naturalist 124(2): 122?133."	y	n	Available at UNC library	
+Eastern Screech-Owl	Strigidae	2010	Diet		"Artuso, Christian. 2010. The diet of the Eastern Screech-Owl, Megascops asio, at the northern periphery of its range. Canadian Field-Naturalist 124(2): 122?133."	y	y		
 Elf Owl	Strigidae	1999	Feeding	Microhabitat For Foraging	"Gehlbach, F. R. 1981. Mountain islands and desert seas: a natural history of the U.S.-Mexican borderlands. Texas A&M Univ. Press, College Station."	y	n		
-Elf Owl	Strigidae	1999	Feeding	Main Foods Taken	"Earhart, C. M. and N. K. Johnson. 1970. Size dimorphism and food habits of North American owls. Condor 72:252-264."	n		Available at UNC library	
+Elf Owl	Strigidae	1999	Feeding	Main Foods Taken	"Earhart, C. M. and N. K. Johnson. 1970. Size dimorphism and food habits of North American owls. Condor 72:252-264."	y	y		
 Elf Owl	Strigidae	1999	Diet	Quantitative Analysis	"Cisneros-Palacios, E. and C. Bonilla-Ruz. 1993. New distributional information on Mexican birds. III. Northern Oaxaca. Bull. Br. Ornithol. Club 113:213-215."	y	n		
 Elf Owl	Strigidae	1999	Feeding	Main Foods Taken	"Ligon, J. D. 1968a. The biology of the Elf Owl, Micrathene whitneyi. Univ. Mich. Mus. Zool. Misc. Publ. 136."	y	n	Available at UNC library	
 Elf Owl	Strigidae	1999	Diet	Major Food Items	"Davis, J. 1965. Natural history, variation, and distribution of the Strickland's woodpecker. Auk 82:537-590."	y	n		
@@ -10787,66 +10847,6 @@ Red-footed Booby	Sulidae	1996	Feeding		"Palmer, R. S. 1962. Handbook of North Am
 Red-footed Booby	Sulidae	1996	Feeding		"Schreiber, R. W. and D. A. Hensley. 1976. The diets of Sula dactylatra, Sula sula, and Fregata minor on Christmas Island, Pacific Ocean. Pac. Sci. 30:241-248."				
 Red-footed Booby	Sulidae	1996	Nutrition And Energetics		"Schreiber, E. A. 1994. El Ni????o-Southern Oscillation effects on provisioning and growth in Red-tailed Tropicbirds. Colon. Waterbirds 17:105-215."				
 Red-footed Booby	Sulidae	1996	Nutrition And Energetics		"Ashmole, N. P. 1963. The regulation of numbers of tropical oceanic birds. Ibis 103b:458-473."				
-Wrentit	Sylviidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Surv. Bull. 30:71-74."	y	y	data has not yet been entered	
-Wrentit	Sylviidae	2002	Feeding	Main Foods Taken	"Erickson, M. M. 1938. Territory, annual cycle, and numbers in a population of wren-tits (Chamaea fasciata). Univ. of California Publ. Zool. 42:247-334."	y	n		
-Wrentit	Sylviidae	2002	Feeding	Food Capture And Consumption	"Grinnell, J. 1913. Call notes and mannerisms of the Wrentit. Condor 15:178-181."	y	n		
-Wrentit	Sylviidae	2002	Feeding	Food Capture And Consumption	"Clark, Jr., G. A. 1973. Holding food in the feet in passerines. J. Field Ornithol. 44:91-99."	y	n		
-Wrentit	Sylviidae	2002	Diet	Major Food Items	"Gander, F. F. 1928. Observations on the feeding habits of some common birds. Condor 30:363."	n		unavailable	
-Wrentit	Sylviidae	2002	Diet	Major Food Items	"Dawson, W. L. 1923. The birds of California. Vol. 2. South Moulton Co. San Diego."	n		unavailable	
-Wrentit	Sylviidae	2002	Diet	Major Food Items	"Eakin, R. M. 1942. Bathing of young Wrentit by parent. Condor 44:281."	n		unavailable	
-Wrentit	Sylviidae	2002	Diet	Quantitative Analysis	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to food habits. McGraw Hill, New York."	y	n		
-Wrentit	Sylviidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Williams, P. L. and W. D. Koenig. 1980. Water dependence in a temperate oak woodland. Auk 97:339-350."	y	n		
-Hepatic Tanager	Thraupidae	2002	Feeding	Main Foods Taken	"Cruden, R. W. and S. M. Hermann-Parker. 1977. Defense of feeding sites by orioles and Hepatic Tanagers in Mexico. Auk 94:594-596."				
-Hepatic Tanager	Thraupidae	2002	Feeding	Main Foods Taken	"Marshall, Jr., J. T. 1957. Birds of pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna no. 32."				
-Hepatic Tanager	Thraupidae	2002	Feeding	Food Capture And Consumption	"Isler, M. L. and P. R. Isler. 1999. The tanagers: natural history, distribution, and identification. Smithson. Inst. Press, Washington, D.C."				
-Hepatic Tanager	Thraupidae	2002	Feeding	Main Foods Taken	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."				
-Hepatic Tanager	Thraupidae	2002	Feeding	Main Foods Taken	"Miller, A. H. and E. McMillan. 1964. Hepatic Tanager vagrant to coastal section of California. Condor 66:308."				
-Hepatic Tanager	Thraupidae	2002	Feeding	Food Capture And Consumption	"Wetmore, A. 1921. Further notes on birds observed near Williams, Arizona. Condor 23:60-67."				
-Hepatic Tanager	Thraupidae	2002	Diet	Major Food Items	"Howell, T. R. 1972. Birds of the lowland pine savanna of northeastern Nicaragua. Condor 74:316-340."				
-Hepatic Tanager	Thraupidae	2002	Diet	Major Food Items	"Bohlen, H. D. 1989. The birds of Illinois. Indiana Univ. Press, Bloomington."				
-Hepatic Tanager	Thraupidae	2002	Diet	Major Food Items	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Fish Game and Bur. Biol. Surv. Washington, D.C."				
-Hepatic Tanager	Thraupidae	2002	Diet	Major Food Items	"Johnson, N. K. 1965. The breeding avifaunas of the Sheep and Spring ranges in southern Nevada. Condor 67:93-124."				
-Hepatic Tanager	Thraupidae	2002	Feeding	Food Capture And Consumption	"Dobbs, R. C. and P. R. Martin. 1998. Migrant bird participation at an army ant swarm in montane Jalisco, Mexico. Wilson Bull. 110:293-295."				
-Hepatic Tanager	Thraupidae	2002	Diet	Major Food Items	"Ffrench, R. 1991. A guide to the birds of Trinidad and Tobago. Cornell Univ. Press, Ithaca, NY."				
-Hepatic Tanager	Thraupidae	2002	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."				
-Hepatic Tanager	Thraupidae	2002	Feeding	Food Capture And Consumption	"Russell, S. M. 1964. A distributional study of the birds of British Honduras. Ornithol. Monogr. no. 1."				
-Hepatic Tanager	Thraupidae	2002	Feeding	Food Capture And Consumption	"Henshaw, H. W. 1875. Report on the ornithological collections made in portions of Nevada, Utah, California, Colorado, New Mexico, and Arizona during the years 1871, 1872, 1873, and 1874. Wheeler's Rep. Exploratory Survey West of the 100th meridian, Washington, D.C."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Main Foods Taken	"Isler, M. L. and P. R. Isler. 1999. The Tanagers: natural history, distribution, and identification. Smithsonian Inst. Press, Washington, D.C."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Main Foods Taken	"Prescott, K. W. 1965. The Scarlet Tanager (Piranga olivacea). N.J. State Mus. Invest. no. 2."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Mueller, H. C. and N. S. Mueller. 1976. Bay-breasted Warblers feeding on fruit: interspecific social facilitation? Bird-Banding 47:276."				
-Scarlet Tanager	Thraupidae	1999	Food Selection And Storage		"Cooper, R. J. 1988. Dietary relationships among insectivorous birds of an eastern deciduous forest. Ph.D. thesis. West Virginia Univ., Morgantown."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Mcnair, D. B. and J. Escobar. 1993. Verified winter record of Scarlet Tanager in Charleston, SC, and a review of the winter status of Scarlet Tanager in the Southeast United States. Chat 57:25-31."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Stotz, D. F., R. O. Bierregaard, M. Cohn-Haft, P. Petermann, and J. Smith. 1992. The status of North American migrants in central Amazonian Brazil. Condor 94:608-621."				
-Scarlet Tanager	Thraupidae	1999	Diet	Quantitative Analysis	"Mcatee, W. L. 1926. The relation of birds to woodlots in New York state. Roosevelt Wildl. Bull. no. 4."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Holmes, R. T. and S. K. Robinson. 1981. Tree species preferences of foraging insectivorous birds in a northern hardwoods forest. Oecologia 48:31-35."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Zumeta, D. C. and R. T. Holmes. 1978. Habitat shift and roadside mortality of Scarlet Tanagers during a cold wet New England spring. Wilson Bull. 90:575-586."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Maurer, B. A. and R. C. Whitmore. 1981. Foraging of five bird species in two forests with different vegetation structure. Wilson Bull. 93:478-490."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Sabo, S. R. and R. T. Holmes. 1983. Foraging niches and the structure of forest bird communities in contrasting montane habitats. Condor 85:121-138."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Holmes, R. T. 1986. Foraging patterns of forest birds: male-female differences. Wilson Bull. 98:196-213."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Cooper, R. J., P. J. Martinat, and R. C. Whitmore. 1990. Dietary similarity among insectivorous birds: Influence of taxonomic versus ecological categorization of prey. Stud. Avian Biol. no. 13:104-109."				
-Scarlet Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers, and their allies. U.S. Natl. Mus. Bull. 211."				
-Scarlet Tanager	Thraupidae	1999	Food Selection And Storage		"Sample, B. E., R. F. Cooper, and R. C. Whitmore. 1993. Dietary shifts among songbirds from a diflubenzuron-treated forest. Condor 95:616-624."				
-Western Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 2. Univ. of Texas Press, Austin."				
-Western Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Grinnell, J. and A. H. Miller. 1944. The distribution of the birds of California. Pac. Coast Avifauna no. 27."				
-Western Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Airola, D. A. and R. H. Barrett. 1985. Foraging and habitat relationships of insect-gleaning birds in a Sierra Nevada mixed-conifer forest. Condor 87:205-216."				
-Western Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Morgan, K. H., J. P. L. Savard, and S. P. Wetmore. 1991. Foraging behaviour of forest birds of the dry interior Douglas-fir, ponderosa pine forests of British Columbia. Tech. Rep. Ser. no. 149. Can. Wildl. Serv., Pacific and Yukon Regions."				
-Western Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Edwards, E. P. 1972. A field guide to the birds of Mexico. E. P. Edwards, Sweet Briar, VA."				
-Western Tanager	Thraupidae	1999	Feeding	Microhabitat For Foraging	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Comstock Publ. Assoc. Ithaca, NY."				
-Western Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1957. Birds of pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna no. 32."				
-Western Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Bent, A. C. 1958. Life histories of North American blackbirds, orioles, tanagers and allies. U.S. Natl. Mus. Bull. 211."				
-Western Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Terres, J. K. 1980. The Audubon Society Encyclopedia of North American Birds. Alfred A. Knopf, Inc., New York."				
-Western Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Mcallister, Jr., T. H. and D. B. Marshall. 1945. Summer birds of the Fremont National Forest, Oregon. Auk 62:177-189."	y	y		
-Western Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Munro, J. A. 1950. The birds and mammals of the Creston region, British Columbia. Occas. Pap. B.C. Prov. Mus. no. 8. British Columbia Provincial Museum, Victoria."				
-Western Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Small, A. 1994. California birds: their status and distribution. Ibis Publ. Co. Vista, CA."				
-Western Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Johnson, V. R. 1964. Three winter records in the central valley of California. Condor 66:517-518."				
-Western Tanager	Thraupidae	1999	Feeding	Food Capture And Consumption	"Bailey, A. M. and R. J. Niedrach. 1965. Birds of Colorado. Vol. 2. Denver Mus. Nat. Hist. Denver, CO."				
-Western Tanager	Thraupidae	1999	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, part 1. U.S. Dep. Agric. Biol. Surv. Bull. 30."	y	y	data has not yet been entered	
-Western Tanager	Thraupidae	1999	Diet	Major Food Items	"Mcatee, W. L. 1933. Bird allies of the farmer. Excerpt from hearing before the subcommittee of House Committee on Appropriations, etc. U.S. Dep. Agric. Biol. Surv. Bull. Washington, D.C."				
-Western Tanager	Thraupidae	1999	Diet	Major Food Items	"Isler, M. L. and P. R. Isler. 1987. The tanagers: natural history, distribution, and identification. Smithson. Inst. Press, Washington, D.C."				
-Western Tanager	Thraupidae	1999	Diet	Major Food Items	"Bull, J. 1964. Birds of the New York area. Dover Publ. Inc., New York."				
-Western Tanager	Thraupidae	1999	Food Selection And Storage		"Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet and habitat structure. Ecology 63:1918-1931."				
-Western Tanager	Thraupidae	1999	Metabolism And Temperature Regulation		"Szaro, R. C. and R. P. Balda. 1979. Bird community dynamics in a ponderosa pine forest. Stud. Avian Biol. no. 3."		y		
-Western Tanager	Thraupidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"	y			
 Glossy Ibis	Threskiornithidae	2000	Feeding	Microhabitat For Foraging	"Frederick, P. C. and S. M. McGehee. 1994. Wading bird use of wastewater treatment wetlands in central Florida. Colon. Waterbirds 17:50-59."				
 Glossy Ibis	Threskiornithidae	2000	Diet	Quantitative Analysis	"Baynard, E. O. 1913b. Home life of the Glossy Ibis (Plegadis autumnolis Linn.). Wilson Bull. 20:103-117."				
 Glossy Ibis	Threskiornithidae	2000	Metabolism And Temperature Regulation		"Williams, B. 1975. Growth rate and nesting aspects for the Glossy Ibis in Virginia. Raven 46:35-50."				
