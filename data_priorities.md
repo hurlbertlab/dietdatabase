@@ -7,27 +7,27 @@ finishing up everything within Passeriformes before working on other Orders.
 Note that Families for which I know that data remain to be entered are highlighted with parenthetical notes. However, it should probably be confirmed that no References remain to be checked for the other Families.
 
 ### Accipitriformes  
---Accipitridae (still more species/refs to enter?)  
---Cathartidae (1 species to enter: California Condor?))  
+--Accipitridae   
+--Cathartidae    
 
 ### Ciconiiformes  
---Ciconiidae
+--Ciconiidae  
 
 ### Columbiformes  
---Columbidae
+--Columbidae (need to check/enter Passenger Pigeon)  
 
-### Cuculiformes
+### Cuculiformes  
 --Cuculidae   
 
 ### Passeriformes  
---Aegithalidae  (need to enter: Bushtit)  
---Alaudidae  (need to enter: Horned Lark, Sky Lark)  
+--Aegithalidae  
+--Alaudidae  
 --Bombycillidae  
 --Calcariidae  
 --Cardinalidae  
 --Certhiidae  
 --Corvidae  
---Emberizide  
+--Emberizide (need to check/enter Saltmarsh Sparrow)
 --Fringillidae  
 --Hirundinidae  
 --Icteridae  
@@ -44,7 +44,6 @@ Note that Families for which I know that data remain to be entered are highlight
 --Sittidae  
 --Sturnidae  
 --Sylviidae  
---Thraupidae (needs to be updated to Cardinalidae)  
 --Timaliidae  
 --Troglodytidae  
 --Turdidae  
@@ -52,30 +51,30 @@ Note that Families for which I know that data remain to be entered are highlight
 --Vireonidae  
 
 ### Piciformes  
---Picidae (some sources unavailable online)
+--Picidae  
 
 ### Strigiformes
---Strigidae (?)  
---Tytonidae (?)  
+--Strigidae    
+--Tytonidae    
 
 ### Trogoniformes  
 --Trogonidae (2 species to enter)  
+
+### Caprimulgiformes
+--Apodidae 
+--Caprimulgidae (need to check/enter Eastern Whip-poor-will)  
+--Trochilidae (13 to enter; most probably no data)  
+
+### Falconiformes  
+--Falconidae (many references to be checked, although we currently have data for 5/6 species)  
 
 ----------
 
 A secondary set of Orders to enter after the above are finished:
 
-### Caprimulgiformes
---Apodidae 
---Caprimulgidae (5 to enter)  
---Trochilidae (13 to enter; most probably no data)  
-
-### Falconiformes  
---Falconidae (4 to enter)  
-
 ### Galliformes  
 --Odontophoridae  
---Cracidae (1 to enter)  
+--Cracidae (need to check/enter Plain Chachalaca)  
 --Phasianidae (16 to enter)  
 
 ### Gruiformes  
