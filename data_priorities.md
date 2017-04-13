@@ -45,8 +45,8 @@ Note that Families for which I know that data remain to be entered are highlight
 --Sturnidae  
 --Sylviidae  
 --Timaliidae  
---Troglodytidae  
---Turdidae  
+--Troglodytidae (refs to check)
+--Turdidae (refs to check)
 --Tyrannidae  
 --Vireonidae  
 
@@ -55,10 +55,10 @@ Note that Families for which I know that data remain to be entered are highlight
 
 ### Strigiformes
 --Strigidae    
---Tytonidae    
+--Tytonidae (refs to check)   
 
 ### Trogoniformes  
---Trogonidae (2 species to enter)  
+--Trogonidae  
 
 ### Caprimulgiformes
 --Apodidae 
