@@ -1,6 +1,6 @@
 # Function for cleaning prey taxonomic names to conform to ITIS nomenclature.
 # Note that this name focuses on the lowest taxonomic level identified, and fills
-# 
+# in names of higher taxonomic levels as specified by ITIS (from taxize)
 
 # preyTaxonLevel: Kingdom, Phylum, Class, Order, Suborder, Family, Genus, Scientific_Name
 #                 NOTE: Phylum is equivalent to 'Division' in plants
@@ -31,7 +31,9 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
   }
 
   if (all == FALSE) {
-    diet2 = diet[diet$Prey_Name_Status != 'verified' | is.na(diet$Prey_Name_Status), ]
+    diet2 = diet[diet$Prey_Name_Status == 'unverified' | is.na(diet$Prey_Name_Status), ]
+  } else {
+    diet2 = diet
   }
   
   # Find unique names at specified preyTaxonLevel for all rows
