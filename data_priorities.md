@@ -26,15 +26,15 @@ Note that Families for which I know that data remain to be entered are highlight
 --Calcariidae  
 --Cardinalidae  
 --Certhiidae  
---Cinclidae (check out refs here for American Dipper: https://birdsna.org/Species-Account/bna/species/amedip/foodhabits)
+--Cinclidae (check out refs here for American Dipper: https://birdsna.org/Species-Account/bna/species/amedip/foodhabits)  
 --Corvidae  
---Emberizide (need to check/enter Saltmarsh Sparrow)
+--Emberizide (need to check/enter Saltmarsh Sparrow)  
 --Fringillidae  
 --Hirundinidae  
 --Icteridae  
 --Laniidae  
---Mimidae (many refs to be checked)
---Motacillidae (refs to be checked)
+--Mimidae (many refs to be checked)  
+--Motacillidae (refs to be checked)  
 --Paridae  
 --Parulidae  
 --Passeridae  
@@ -46,8 +46,8 @@ Note that Families for which I know that data remain to be entered are highlight
 --Sturnidae  
 --Sylviidae  
 --Timaliidae  
---Troglodytidae (refs to check)
---Turdidae (refs to check)
+--Troglodytidae (refs to check)  
+--Turdidae (refs to check)  
 --Tyrannidae  
 --Vireonidae  
 
@@ -63,11 +63,11 @@ Note that Families for which I know that data remain to be entered are highlight
 
 ### Caprimulgiformes
 --Apodidae 
---Caprimulgidae (need to check/enter Eastern Whip-poor-will)  
---Trochilidae (13 to enter; most probably no data)  
+--Caprimulgidae (need to check/enter Eastern Whip-poor-will)   
+--Trochilidae (13 to enter; most probably no data)   
 
 ### Falconiformes  
---Falconidae (many references to be checked, although we currently have data for 5/6 species)  
+--Falconidae (many references to be checked, although we currently have data for 5/6 species)   
 
 ----------
 
