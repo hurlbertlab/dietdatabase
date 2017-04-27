@@ -1,13 +1,6 @@
 # Cleaning bird taxonomic names to be in line with the eBird Clements 2016 checklist.
 
 library(dplyr)
-library(stringr)
-
-simpleCap <- function(x) {
-  s <- strsplit(x, " ")[[1]]
-  paste(toupper(substring(s, 1,1)), substring(s, 2),
-        sep="", collapse=" ")
-}
 
 #-------------------------------------------------------------------------------------------                               
 # Make sure to grab the most recent eBird table in the directory
