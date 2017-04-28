@@ -1,24 +1,17 @@
 # Cleaning bird taxonomic names to be in line with the eBird Clements 2016 checklist.
 
 library(dplyr)
-library(stringr)
-
-simpleCap <- function(x) {
-  s <- strsplit(x, " ")[[1]]
-  paste(toupper(substring(s, 1,1)), substring(s, 2),
-        sep="", collapse=" ")
-}
 
 #-------------------------------------------------------------------------------------------                               
-# Read in diet database and eBird taxonomy table
-diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
-                  fill=T, stringsAsFactors = F)
-
 # Make sure to grab the most recent eBird table in the directory
-tax = read.table('eBird_Taxonomy_V2016.csv', header = T,
+tax = read.table('birdtaxonomy/eBird_Taxonomy_V2016.csv', header = T,
                  sep = ',', quote = '\"', stringsAsFactors = F)
 tax$Family = word(tax$FAMILY, 1)
 
+
+# Read in diet database and eBird taxonomy table
+diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                  fill=T, stringsAsFactors = F)
 
 db_spp = select(diet, Common_Name, Scientific_Name, Family) %>% unique()
 

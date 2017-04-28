@@ -11,6 +11,7 @@ dbSummary = function() {
                     fill=T, stringsAsFactors = F)
   refs = read.table('NA_avian_diet_refs.txt', header=T, sep = '\t', quote = '\"',
                     fill=T, stringsAsFactors = F)
+  orders = read.csv('birdtaxonomy/orders.csv', header = T, stringsAsFactors = F)
   species = unique(diet[, c('Common_Name', 'Family')])
   allspecies = unique(refs[, c('common_name', 'family')])
   numSpecies = nrow(species)
@@ -27,8 +28,8 @@ dbSummary = function() {
   spCountByFamily2 = spCountByFamily2[spCountByFamily2$Family != "", ]
   spCountByFamily3 = spCountByFamily2 %>% 
     inner_join(orders, by = 'Family') %>%
-    select(ORDER, Family, SpeciesWithData, WithoutData) %>%
-    arrange(ORDER)
+    select(Order, Family, SpeciesWithData, WithoutData) %>%
+    arrange(Order)
   spCountByFamily3$SpeciesWithData[is.na(spCountByFamily3$SpeciesWithData)] = 0
   return(list(numRecords=numRecords,
               numSpecies=numSpecies, 
@@ -269,13 +270,3 @@ fill_study_years = function(diet) {
 return(fixed)  
 }
 
-
-# Make sure to grab the most recent eBird table in the directory
-taxfiles = file.info(list.files()[grep('eBird', list.files())])
-taxfiles$name = row.names(taxfiles)
-tax = read.table(taxfiles$name[taxfiles$mtime == max(taxfiles$mtime)], header = T,
-                 sep = ',', quote = '\"', stringsAsFactors = F)
-orders = unique(tax[, c('ORDER', 'FAMILY')])
-orders$Family = word(orders$FAMILY, 1)
-orders = filter(orders, FAMILY != "" & ORDER != "") %>%
-  select(ORDER, Family)
