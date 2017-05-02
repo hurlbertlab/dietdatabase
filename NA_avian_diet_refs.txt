@@ -3944,7 +3944,7 @@ American Tree Sparrow	Emberizidae	1993	Nutrition And Energetics		"Stuebe, M. M. 
 American Tree Sparrow	Emberizidae	1993	Diet	Major Food Items	"Dance, K. W. 1986. Winter foods of Northern Cardinal, American Tree Sparrow and Pine Grosbeak in Southern Ontario. Ont. Birds 4:33-35."	n		unavailable	
 American Tree Sparrow	Emberizidae	1993	Diet	Major Food Items	"West, G. C. 1973. Foods eaten by Tree Sparrows in relation to availability during summer in northern Manitoba. Arctic 26:7-21."	y	y	data entered	
 American Tree Sparrow	Emberizidae	1993	Feeding	Food Capture And Consumption	"Gaines, S. 1989. Comparisons of patch-use models for wintering American Tree Sparrows. Auk 106:118-123."	y	n		
-American Tree Sparrow	Emberizidae	1993	Feeding	Microhabitat For Foraging	"Baumgartner, A. M. 1937c. Food and feeding habits of the Tree Sparrow. Wilson Bull. 49:65-80."	y	y	data will be entered 	
+American Tree Sparrow	Emberizidae	1993	Feeding	Microhabitat For Foraging	"Baumgartner, A. M. 1937c. Food and feeding habits of the Tree Sparrow. Wilson Bull. 49:65-80."	y	n		
 American Tree Sparrow	Emberizidae	1993	Diet	Major Food Items	"Baumgartner, A. M. 1968. Tree Sparrow. Pages 1137-1165 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows and allies. (Austin, Jr., O L., Ed.) U.S. Natl. Mus. Bull. 237."	n		unavailable	
 American Tree Sparrow	Emberizidae	1993	Feeding	Food Capture And Consumption	"Capainola, P. 1984. Feeding strategies among sympatric passerines in winter. Kingbird 34:87-89."	n		unavailable	
 American Tree Sparrow	Emberizidae	1993	Diet	Major Food Items	"Russak, M. L. 1956. Tree Sparrows (Spizella arborea) feeding on the common reed. Auk 73:288."	y	n		
@@ -4245,18 +4245,18 @@ Sage Sparrow	Emberizidae	1998	Feeding	Main Foods Taken	"Degraaf, R. M., N. G. Ti
 Sage Sparrow	Emberizidae	1998	Diet		"Meents, J. K., B. W. Anderson, and R. D. Ohmart. 1982. Vegetation relationships and food of Sage Sparrows wintering in honey mesquite habitat. Wilson Bull. 94:129-138."	y	y	entered	
 Sage Sparrow	Emberizidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Moldenhauer, R. R. and J. A. Wiens. 1970. The water economy of the Sage Sparrow, Amphispiza belli nevadensis. Condor 72:265-275."	y	n		
 Sage Sparrow	Emberizidae	1998	Diet		"Rotenberry, J. T. 1980. Dietary relationships among shrubsteppe passerine birds: competition or opportunism in a variable environment? Ecol. Monogr. 50:93-110."	y	n	birds not separated	
-Saltmarsh Sparrow	Emberizidae	1994	Feeding	Microhabitat For Foraging	"Woolfenden, G. E. 1956. Comparative breeding behavior of Ammospiza caudacuta and A. maritima. Univ. Kansas Publ., Mus. Nat. Hist. 10:45-75."				
-Saltmarsh Sparrow	Emberizidae	1994	Feeding	Microhabitat For Foraging	"Lewis, H. F. 1920. Notes on the Acadian Sharp-tailed Sparrow (Passerherbulus nelsoni subvirgatus). Auk 37:587-589."				
-Saltmarsh Sparrow	Emberizidae	1994	Feeding	Microhabitat For Foraging	"Oberholser, H. C. 1974. The bird life of Texas. Univ. Texas Press, Austin."				
-Saltmarsh Sparrow	Emberizidae	1994	"Drinking, Pellet-Casting, And Defecation"		"Poulson, T. L. 1969. Salt and water balance in Seaside and Sharp-tailed sparrows. Auk 86:473-489."				
-Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Knight, O. W. 1908. The birds of Maine. Charles H. Glass & Co. Bangor, ME."				
-Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Montagna, W. 1942. The Sharp-tailed Sparrows of the Atlantic Coast. Wilson Bull. 54:107-120."				
-Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Hill, N. P. 1968. Sharp-tailed Sparrow subspecies. Pages 789-819 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, pt. 2. (Austin, Jr., O. L., Ed.) Bull. U.S. Natl. Mus. 237."				
-Saltmarsh Sparrow	Emberizidae	1994	Feeding	Microhabitat For Foraging	"Post, W. and J. S. Greenlaw. 1975. Seaside Sparrow displays: their function in social organization and habitat. Auk 92:461-492."				
-Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Judd, S. D. 1901. The relation of sparrows to agriculture. U.S. Dept. Agric., Div. Biol. Surv., Bull. 15:1-98."				
-Saltmarsh Sparrow	Emberizidae	1994	Feeding	Food Capture And Consumption	"Post, W. and J. S. Greenlaw. 1982. Comparative costs of promiscuity and monogamy: a test of reproductive effort theory. Behav. Ecol. Sociobiol. 10:101-107."				
-Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-Hill, NY."				
-Saltmarsh Sparrow	Emberizidae	1994	Feeding	Food Capture And Consumption	"Greenlaw, J. S. 1977. Taxonomic distribution, origin, and evolution of bilateral scratching in ground-feeding birds. Condor 79:426-439."				
+Saltmarsh Sparrow	Emberizidae	1994	Feeding	Microhabitat For Foraging	"Woolfenden, G. E. 1956. Comparative breeding behavior of Ammospiza caudacuta and A. maritima. Univ. Kansas Publ., Mus. Nat. Hist. 10:45-75."	n		unavailable	
+Saltmarsh Sparrow	Emberizidae	1994	Feeding	Microhabitat For Foraging	"Lewis, H. F. 1920. Notes on the Acadian Sharp-tailed Sparrow (Passerherbulus nelsoni subvirgatus). Auk 37:587-589."	y	n		
+Saltmarsh Sparrow	Emberizidae	1994	Feeding	Microhabitat For Foraging	"Oberholser, H. C. 1974. The bird life of Texas. Univ. Texas Press, Austin."	n		unavailable	
+Saltmarsh Sparrow	Emberizidae	1994	"Drinking, Pellet-Casting, And Defecation"		"Poulson, T. L. 1969. Salt and water balance in Seaside and Sharp-tailed sparrows. Auk 86:473-489."	y	n		
+Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Knight, O. W. 1908. The birds of Maine. Charles H. Glass & Co. Bangor, ME."	y	n		
+Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Montagna, W. 1942. The Sharp-tailed Sparrows of the Atlantic Coast. Wilson Bull. 54:107-120."	y	n		
+Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Hill, N. P. 1968. Sharp-tailed Sparrow subspecies. Pages 789-819 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, pt. 2. (Austin, Jr., O. L., Ed.) Bull. U.S. Natl. Mus. 237."	n		unavailable	
+Saltmarsh Sparrow	Emberizidae	1994	Feeding	Microhabitat For Foraging	"Post, W. and J. S. Greenlaw. 1975. Seaside Sparrow displays: their function in social organization and habitat. Auk 92:461-492."	y	n		
+Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Judd, S. D. 1901. The relation of sparrows to agriculture. U.S. Dept. Agric., Div. Biol. Surv., Bull. 15:1-98."	y	y	entered	
+Saltmarsh Sparrow	Emberizidae	1994	Feeding	Food Capture And Consumption	"Post, W. and J. S. Greenlaw. 1982. Comparative costs of promiscuity and monogamy: a test of reproductive effort theory. Behav. Ecol. Sociobiol. 10:101-107."	y	y	will enter	
+Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-Hill, NY."	y	n		
+Saltmarsh Sparrow	Emberizidae	1994	Feeding	Food Capture And Consumption	"Greenlaw, J. S. 1977. Taxonomic distribution, origin, and evolution of bilateral scratching in ground-feeding birds. Condor 79:426-439."	y	n		
 Song Sparrow	Emberizidae	2002	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw Hill, New York."	n		unavailable	
 Song Sparrow	Emberizidae	2002	Feeding	Main Foods Taken	"Judd, S. D. 1901. The relation of sparrows to agriculture. U.S. Dep. Agric., Biol. Surv. Bull. no. 15."	y	n		
 Song Sparrow	Emberizidae	2002	Feeding	Microhabitat For Foraging	"Tompa, F. S. 1964. Factors determining the numbers of Song Sparrows, Melospiza melodia (Wilson), on Mandarte Is., B.C., Canada. Acta. Zool. Fenn. 109:1-68."	y	n		
