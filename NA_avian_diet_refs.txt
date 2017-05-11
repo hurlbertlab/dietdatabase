@@ -2099,7 +2099,7 @@ Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Latham, R. 1920. 
 Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"George, W. G. 1971. Foliage-gleaning by Chimney Swifts. Auk 88:177."	y	n		
 Chimney Swift	Apodidae	2002	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. C. Nelson. 1951. American wildlife and plants. McGraw Hill Book Co. New York."	n	n		
 Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Dawson, W. R. and J. W. Hudson. 1970. Birds. Pages 223-310 in Comparative physiology of thermoregulation. Vol. 1 (Whittow, G. C., Ed.) Academic Press, New York."	n	n		
-Chimney Swift	Apodidae	2002	Feeding	Main Foods Taken	"Fischer, R. B. 1958. The breeding biology of the Chimney Swift, Chaetura pelagica (Linnaeus). N.Y. State Mus. Sci. Serv. Bull. 368:1-139."	n	n		
+Chimney Swift	Apodidae	2002	Feeding	Main Foods Taken	"Fischer, R. B. 1958. The breeding biology of the Chimney Swift, Chaetura pelagica (Linnaeus). N.Y. State Mus. Sci. Serv. Bull. 368:1-139."	n	n	This study has data!	
 Chimney Swift	Apodidae	2002	Feeding	Microhabitat For Foraging	"Graber, R. R. and J. W. Graber. 1963. A comparative study of bird populations in Illinois, 1906-1909 and 1956-1958. Ill. Nat. Hist. Surv. Bull. 28:383-528."	n	n		
 Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Berger, A. J. 1961. Bird study. John Wiley and Sons, Inc. New York."	y	n		
 Chimney Swift	Apodidae	2002	Metabolism And Temperature Regulation		"Ramsey, J. J. 1970. Temperature changes in Chimney Swifts (Chaetura pelagica) at lowered environmental temperatures. Condor 72:225-229."	y	n		
