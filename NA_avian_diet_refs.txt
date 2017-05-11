@@ -4254,7 +4254,7 @@ Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Montagna, W. 1942. The
 Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Hill, N. P. 1968. Sharp-tailed Sparrow subspecies. Pages 789-819 in Life histories of North American cardinals, grosbeaks, buntings, towhees, finches, sparrows, and allies, pt. 2. (Austin, Jr., O. L., Ed.) Bull. U.S. Natl. Mus. 237."	n		unavailable	
 Saltmarsh Sparrow	Emberizidae	1994	Feeding	Microhabitat For Foraging	"Post, W. and J. S. Greenlaw. 1975. Seaside Sparrow displays: their function in social organization and habitat. Auk 92:461-492."	y	n		
 Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Judd, S. D. 1901. The relation of sparrows to agriculture. U.S. Dept. Agric., Div. Biol. Surv., Bull. 15:1-98."	y	y	entered	
-Saltmarsh Sparrow	Emberizidae	1994	Feeding	Food Capture And Consumption	"Post, W. and J. S. Greenlaw. 1982. Comparative costs of promiscuity and monogamy: a test of reproductive effort theory. Behav. Ecol. Sociobiol. 10:101-107."	y	y	will enter	
+Saltmarsh Sparrow	Emberizidae	1994	Feeding	Food Capture And Consumption	"Post, W. and J. S. Greenlaw. 1982. Comparative costs of promiscuity and monogamy: a test of reproductive effort theory. Behav. Ecol. Sociobiol. 10:101-107."	y	y	entered	
 Saltmarsh Sparrow	Emberizidae	1994	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw-Hill, NY."	y	n		
 Saltmarsh Sparrow	Emberizidae	1994	Feeding	Food Capture And Consumption	"Greenlaw, J. S. 1977. Taxonomic distribution, origin, and evolution of bilateral scratching in ground-feeding birds. Condor 79:426-439."	y	n		
 Song Sparrow	Emberizidae	2002	Feeding	Main Foods Taken	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants: a guide to wildlife food habits. McGraw Hill, New York."	n		unavailable	
@@ -5912,54 +5912,53 @@ Yellow-footed Gull	Laridae	1996	Nutrition And Energetics		"Pierotti, R. J. and C
 Yellow-footed Gull	Laridae	1996	Nutrition And Energetics		"Pierotti, R. J. and C. A. Annett. 1995. Western Gull (Larus occidentalis). in The Birds of North America, no. 174. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA, and Am. Ornithol. Union, Washington, D.C."				
 Yellow-footed Gull	Laridae	1996	Nutrition And Energetics		"Pierotti, R. J. and C. A. Annett. 1987. Reproductive consequences of specialization and switching in an ecological generalist. Pages 417-442 in Foraging behavior. (Kamil, A. C., J. R. Krebs, and H. R. Pulliam, Eds.) Plenum Press, New York."				
 Yellow-footed Gull	Laridae	1996	Metabolism And Temperature Regulation		"Dawson, W. R. and A. F. Bennett. 1980. Metabolism and thermoregulation in hatchling Western Gulls. Condor 82:103-105."				
-Bendire's Thrasher	Mimidae	1993	Feeding		"Engels, W. L. 1940. Structural adaptations in thrashers (Mimidae: Genus Toxostoma) with comments on interspecific relationships. Univ. Calif. Pub. Zool. 42:341-400."				
-Bendire's Thrasher	Mimidae	1993	Diet		"Woodbury, A. M. 1939. Bird records from Utah and Arizona. Condor 41:157-163."				
-Bendire's Thrasher	Mimidae	1993	Diet		"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers, and their allies. Bull. U.S. Natl. Mus. No. 195."				
-Bendire's Thrasher	Mimidae	1993	Feeding		"Ambrose, Jr., J. E. 1963. The breeding ecology of Toxostoma curvirostre and T. bendirei in the vicinity of Tucson, Arizona. Master's Thesis. Univ. Ariz., Tucson."				
-Brown Thrasher	Mimidae	2000	Feeding	Microhabitat For Foraging	"Jaeger, R. G. 1981. Birds as inefficient predators on terrestrial salamanders. Am. Nat. 117:835-837."				
-Brown Thrasher	Mimidae	2000	Food Selection And Storage		"Howard, R. R. and E. D. Brodie, Jr. 1970. A mimetic relationship in salamanders: Notophthalmus viridescens and Pseudotriton ruber (abstract). Am. Zool. 10:475."				
-Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Clark, Jr., G. A. 1971. The occurrence of bill-sweeping in the terrestrial foraging of birds. Wilson Bull. 83:66-73."				
-Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Olyphant, J. C. 1978. Bird identification including notes on the life history and plumage. Inland Bird Banding 50:142-151."				
-Brown Thrasher	Mimidae	2000	Nutrition And Energetics		"Blem, C. R. 1973. Laboratory measurements of metabolized energy in some passerine nestlings. Auk 90:895-897."				
-Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Fischer, D. H. 1981b. Wintering ecology of thrashers in southern Texas. Condor 83:340-346."				
-Brown Thrasher	Mimidae	2000	Diet		"Grant, G. S. 1992. Brown Thrasher preys on fiddler crab. Chat 56:6-7."				
-Brown Thrasher	Mimidae	2000	Diet		"Gabrielson, I. N. 1912. A study of the home life of the Brown Thrasher, Toxostoma rufum (Linn.). Wilson Bull. 24:65-94."				
-Brown Thrasher	Mimidae	2000	Diet		"Graber, R. R., J. W. Graber, and E. L. Kirk. 1970. Illinois birds: Mimidae. Ill. Nat. Hist. Surv. Biol. Notes 68:3-38."				
-Brown Thrasher	Mimidae	2000	Feeding	Microhabitat For Foraging	"Fischer, D. H. 1981a. Winter time budgets of Brown Thrashers. J. Field Ornithol. 52:304-308."				
-Brown Thrasher	Mimidae	2000	Feeding	Microhabitat For Foraging	"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers, and their allies. U.S. Natl. Mus. Bull. 195."				
-Brown Thrasher	Mimidae	2000	Diet		"Beal, F. E. L., W. L. McAtee, and E. R. Kalmbach. 1916. Common birds of southeastern United States in relation to agriculture. U.S. Dep. Agric. Farmer's Bull. 755."				
-Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Engels, W. 1940. Structural adaptations in thrashers (Mimidae: genus Toxostoma) with comments on interspecific relations. Univ. Calif. Publ. Zool. 42:341-400."				
-Brown Thrasher	Mimidae	2000	Metabolism And Temperature Regulation		"Baldwin, S. P. and S. C. Kendeigh. 1932. Physiology of the temperature of birds. Sci. Publ. Cleveland Mus. Nat. Hist. 3:1-173."				
-Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Evans, D. L. 1984. Reactions of some adult passerines to Bombus pennsylvanicus and its mimic, Mallota bautias. Ibis 126:50-58."				
-Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Hilton, Jr., B. 1992. Tool-making and tool-using by a Brown Thrasher (Toxostoma rufum). Chat 56:4-5."				
-California Thrasher	Mimidae	1910	Diet	Major Food Items					
-Crissal Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Hoffman, R. 1927. Birds of the Pacific states. Houghton Mifflin Co., Boston, MA."				
-Crissal Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1960. Interrelations of Abert and brown towhees. Condor 62:49-64."				
-Crissal Thrasher	Mimidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Bendire, C. 1876. The Crissal Thrasher. Forest and Stream 7:148."				
-Crissal Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Engels, W. 1940. Structural adaptations in thrashers (Mimidae: genus Toxostoma) with comments on interspecific relationships. Univ. Calif. Publ. Zool. 42:341-400."				
-Crissal Thrasher	Mimidae	1999	Metabolism And Temperature Regulation		"Hanna, W. C. 1933. Nesting of the Crissal Thrasher in Coachella Valley, California. Condor 35:79."				
-Crissal Thrasher	Mimidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Gullion, G. W., W. M. Pulich, and F. G. Evenden. 1959. Notes on the occurrence of birds in southern Nevada. Condor 61:278-297."				
-Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Anderson, B. W., W. G. Hunter, and R. D. Ohmart. 1998. Status changes of bird species using revegetated riparian habitats on the lower Colorado River from 1977-1984. Gen. Tech. Rep. PSW-110. U.S. Dept. Agric. For. Serv."				
-Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Gilman, M. F. 1909. Among the thrashers in Arizona. Condor 11:49-54."				
-Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Raitt, R. J. and S. L. Pimm. 1976. Dynamics of bird communities in the Chihuahuan Desert, New Mexico. Condor 78:427-442."				
-Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Brandt, H. 1951. Arizona and its bird life. The Bird Research Foundation, Cleveland, OH."				
-Crissal Thrasher	Mimidae	1999	Feeding	Main Foods Taken	"Bailey, F. M. 1924. Handbook of birds of the western United States. Houghton Mifflin Co. Boston."				
-Crissal Thrasher	Mimidae	1999	Feeding	Main Foods Taken	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River valley. Univ. of Arizona Press, Tucson."				
-Crissal Thrasher	Mimidae	1999	Feeding	Main Foods Taken	"Mearns, E. A. 1886. Some birds of Arizona. Auk 3:289-307."				
-Crissal Thrasher	Mimidae	1999	Metabolism And Temperature Regulation		"Bartholomew, G. A. and T. J. Cade. 1963. The water economy of land birds. Auk 97:504-539."				
-Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Brewster, W. 1882. On a collection of birds lately made by Mr. F. Stephens in Arizona. Bull. Nuttall Ornithol. Club 7:193-212."				
-Curve-billed Thrasher	Mimidae	1996	Diet	Major Food Items	"Vleck, C. M. 1993. Hormones, reproduction, and behavior in birds of the Sonoran desert. Pages 73-86 in Avian endocrinology. (Sharp, P. J., Ed.) J. Endocrinol., Ltd. Bristol, U.K."				
-Curve-billed Thrasher	Mimidae	1996	Metabolism And Temperature Regulation		"Wingfield, J. C., C. M. Vleck, and M. C. Moore. 1992. Seasonal changes of the adrenocortical response to stress in birds of the Sonoran desert. J. Exp. Zool. 26:119-128."				
-Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Ambrose, Jr., J. E. 1963. The breeding ecology of Toxostoma curvirostre and T. bendirei in the vicinity of Tucson, Arizona. Master's Thesis. Univ. of Arizona, Tucson."				
-Curve-billed Thrasher	Mimidae	1996	Diet	Major Food Items	"Martinez Del Rio, C. and L. E. Eguiarte. 1987. Bird visitation to Agave salmana: comparisons among hummingbirds and perching birds. Condor 89:357-363."				
-Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Brown, H. 1892. The habitat and nesting of Palmer's Thrasher. Zoe 3:243-248."				
-Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Anderson, A. H. and A. Anderson. 1973. The Cactus Wren. Univ. of Arizona Press, Tucson."				
-Curve-billed Thrasher	Mimidae	1996	Feeding	Main Foods Taken	"Fischer, D. H. 1980. Breeding biology of Curve-billed Thrashers and Long-billed Thrashers in southern Texas. Condor 82:392-397."				
-Curve-billed Thrasher	Mimidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers and their allies. Bull. U.S. Natl. Mus. 195."				
-Curve-billed Thrasher	Mimidae	1996	Nutrition And Energetics		"Steenbergh, W. F. and C. H. Lowe. 1977. Ecology of the saguaro: II. Natl. Park Service, Monograph Series, no. 8."				
-Curve-billed Thrasher	Mimidae	1996	Feeding	Main Foods Taken	"Fischer, D. H. 1981. Wintering ecology of thrashers in southern Texas. Condor 83:340-346."				
-Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Stafford, E. F. 1912. Notes on Palmer's Thrasher (Toxostoma curvirostre palmeri). Auk 29:363-368."				
-Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Bailey, F. M. 1923. Birds recorded from the Santa Rita Mountains in southern Arizona. Pac. Coast Avifauna 15:1-60."				
+Bendire's Thrasher	Mimidae	1993	Feeding		"Engels, W. L. 1940. Structural adaptations in thrashers (Mimidae: Genus Toxostoma) with comments on interspecific relationships. Univ. Calif. Pub. Zool. 42:341-400."	n		unavailable	
+Bendire's Thrasher	Mimidae	1993	Diet		"Woodbury, A. M. 1939. Bird records from Utah and Arizona. Condor 41:157-163."	y	n		
+Bendire's Thrasher	Mimidae	1993	Diet		"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers, and their allies. Bull. U.S. Natl. Mus. No. 195."	y	n		
+Bendire's Thrasher	Mimidae	1993	Feeding		"Ambrose, Jr., J. E. 1963. The breeding ecology of Toxostoma curvirostre and T. bendirei in the vicinity of Tucson, Arizona. Master's Thesis. Univ. Ariz., Tucson."	n		unavailable	
+Brown Thrasher	Mimidae	2000	Feeding	Microhabitat For Foraging	"Jaeger, R. G. 1981. Birds as inefficient predators on terrestrial salamanders. Am. Nat. 117:835-837."	y	n		
+Brown Thrasher	Mimidae	2000	Food Selection And Storage		"Howard, R. R. and E. D. Brodie, Jr. 1970. A mimetic relationship in salamanders: Notophthalmus viridescens and Pseudotriton ruber (abstract). Am. Zool. 10:475."	n		unavailable	
+Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Clark, Jr., G. A. 1971. The occurrence of bill-sweeping in the terrestrial foraging of birds. Wilson Bull. 83:66-73."	y	n		
+Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Olyphant, J. C. 1978. Bird identification including notes on the life history and plumage. Inland Bird Banding 50:142-151."	n		unavailable	
+Brown Thrasher	Mimidae	2000	Nutrition And Energetics		"Blem, C. R. 1973. Laboratory measurements of metabolized energy in some passerine nestlings. Auk 90:895-897."	y	n		
+Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Fischer, D. H. 1981b. Wintering ecology of thrashers in southern Texas. Condor 83:340-346."	y	n	already entered in database	
+Brown Thrasher	Mimidae	2000	Diet		"Grant, G. S. 1992. Brown Thrasher preys on fiddler crab. Chat 56:6-7."	y	n		
+Brown Thrasher	Mimidae	2000	Diet		"Gabrielson, I. N. 1912. A study of the home life of the Brown Thrasher, Toxostoma rufum (Linn.). Wilson Bull. 24:65-94."	y	y	will enter	
+Brown Thrasher	Mimidae	2000	Diet		"Graber, R. R., J. W. Graber, and E. L. Kirk. 1970. Illinois birds: Mimidae. Ill. Nat. Hist. Surv. Biol. Notes 68:3-38."	n		unavailable	
+Brown Thrasher	Mimidae	2000	Feeding	Microhabitat For Foraging	"Fischer, D. H. 1981a. Winter time budgets of Brown Thrashers. J. Field Ornithol. 52:304-308."	y	n		
+Brown Thrasher	Mimidae	2000	Feeding	Microhabitat For Foraging	"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers, and their allies. U.S. Natl. Mus. Bull. 195."	y	n		
+Brown Thrasher	Mimidae	2000	Diet		"Beal, F. E. L., W. L. McAtee, and E. R. Kalmbach. 1916. Common birds of southeastern United States in relation to agriculture. U.S. Dep. Agric. Farmer's Bull. 755."	n		beal papers already entered	
+Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Engels, W. 1940. Structural adaptations in thrashers (Mimidae: genus Toxostoma) with comments on interspecific relations. Univ. Calif. Publ. Zool. 42:341-400."	n		unavailable	
+Brown Thrasher	Mimidae	2000	Metabolism And Temperature Regulation		"Baldwin, S. P. and S. C. Kendeigh. 1932. Physiology of the temperature of birds. Sci. Publ. Cleveland Mus. Nat. Hist. 3:1-173."	y	n		
+Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Evans, D. L. 1984. Reactions of some adult passerines to Bombus pennsylvanicus and its mimic, Mallota bautias. Ibis 126:50-58."	y	n		
+Brown Thrasher	Mimidae	2000	Feeding	Food Capture And Consumption	"Hilton, Jr., B. 1992. Tool-making and tool-using by a Brown Thrasher (Toxostoma rufum). Chat 56:4-5."	y	n		
+Crissal Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Hoffman, R. 1927. Birds of the Pacific states. Houghton Mifflin Co., Boston, MA."	n		unavailable	
+Crissal Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Marshall, Jr., J. T. 1960. Interrelations of Abert and brown towhees. Condor 62:49-64."	y	y	possible data	
+Crissal Thrasher	Mimidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Bendire, C. 1876. The Crissal Thrasher. Forest and Stream 7:148."	n		unavailable	
+Crissal Thrasher	Mimidae	1999	Feeding	Food Capture And Consumption	"Engels, W. 1940. Structural adaptations in thrashers (Mimidae: genus Toxostoma) with comments on interspecific relationships. Univ. Calif. Publ. Zool. 42:341-400."	n		unavailable	
+Crissal Thrasher	Mimidae	1999	Metabolism And Temperature Regulation		"Hanna, W. C. 1933. Nesting of the Crissal Thrasher in Coachella Valley, California. Condor 35:79."	y	n		
+Crissal Thrasher	Mimidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Gullion, G. W., W. M. Pulich, and F. G. Evenden. 1959. Notes on the occurrence of birds in southern Nevada. Condor 61:278-297."	y	n		
+Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Anderson, B. W., W. G. Hunter, and R. D. Ohmart. 1998. Status changes of bird species using revegetated riparian habitats on the lower Colorado River from 1977-1984. Gen. Tech. Rep. PSW-110. U.S. Dept. Agric. For. Serv."	y	n		
+Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Gilman, M. F. 1909. Among the thrashers in Arizona. Condor 11:49-54."	y	n		
+Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Raitt, R. J. and S. L. Pimm. 1976. Dynamics of bird communities in the Chihuahuan Desert, New Mexico. Condor 78:427-442."	y	n		
+Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Brandt, H. 1951. Arizona and its bird life. The Bird Research Foundation, Cleveland, OH."	n		unavailable	
+Crissal Thrasher	Mimidae	1999	Feeding	Main Foods Taken	"Bailey, F. M. 1924. Handbook of birds of the western United States. Houghton Mifflin Co. Boston."	y	n		
+Crissal Thrasher	Mimidae	1999	Feeding	Main Foods Taken	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the lower Colorado River valley. Univ. of Arizona Press, Tucson."	y	n		
+Crissal Thrasher	Mimidae	1999	Feeding	Main Foods Taken	"Mearns, E. A. 1886. Some birds of Arizona. Auk 3:289-307."	y	n		
+Crissal Thrasher	Mimidae	1999	Metabolism And Temperature Regulation		"Bartholomew, G. A. and T. J. Cade. 1963. The water economy of land birds. Auk 97:504-539."	y	n		
+Crissal Thrasher	Mimidae	1999	Diet	Major Food Items	"Brewster, W. 1882. On a collection of birds lately made by Mr. F. Stephens in Arizona. Bull. Nuttall Ornithol. Club 7:193-212."	y	n		
+Curve-billed Thrasher	Mimidae	1996	Diet	Major Food Items	"Vleck, C. M. 1993. Hormones, reproduction, and behavior in birds of the Sonoran desert. Pages 73-86 in Avian endocrinology. (Sharp, P. J., Ed.) J. Endocrinol., Ltd. Bristol, U.K."	n		unavailable	
+Curve-billed Thrasher	Mimidae	1996	Metabolism And Temperature Regulation		"Wingfield, J. C., C. M. Vleck, and M. C. Moore. 1992. Seasonal changes of the adrenocortical response to stress in birds of the Sonoran desert. J. Exp. Zool. 26:119-128."	y	n		
+Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Ambrose, Jr., J. E. 1963. The breeding ecology of Toxostoma curvirostre and T. bendirei in the vicinity of Tucson, Arizona. Master's Thesis. Univ. of Arizona, Tucson."	n		unavailable	
+Curve-billed Thrasher	Mimidae	1996	Diet	Major Food Items	"Martinez Del Rio, C. and L. E. Eguiarte. 1987. Bird visitation to Agave salmana: comparisons among hummingbirds and perching birds. Condor 89:357-363."	y	n		
+Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Brown, H. 1892. The habitat and nesting of Palmer's Thrasher. Zoe 3:243-248."	n		unavailable	
+Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Anderson, A. H. and A. Anderson. 1973. The Cactus Wren. Univ. of Arizona Press, Tucson."	n		unavailable	
+Curve-billed Thrasher	Mimidae	1996	Feeding	Main Foods Taken	"Fischer, D. H. 1980. Breeding biology of Curve-billed Thrashers and Long-billed Thrashers in southern Texas. Condor 82:392-397."	y	n		
+Curve-billed Thrasher	Mimidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers and their allies. Bull. U.S. Natl. Mus. 195."	y	n		
+Curve-billed Thrasher	Mimidae	1996	Nutrition And Energetics		"Steenbergh, W. F. and C. H. Lowe. 1977. Ecology of the saguaro: II. Natl. Park Service, Monograph Series, no. 8."	y	n		
+Curve-billed Thrasher	Mimidae	1996	Feeding	Main Foods Taken	"Fischer, D. H. 1981. Wintering ecology of thrashers in southern Texas. Condor 83:340-346."	y	y	already entered in database	
+Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Stafford, E. F. 1912. Notes on Palmer's Thrasher (Toxostoma curvirostre palmeri). Auk 29:363-368."	y	n		
+Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Bailey, F. M. 1923. Birds recorded from the Santa Rita Mountains in southern Arizona. Pac. Coast Avifauna 15:1-60."	y	n		
 Curve-billed Thrasher	Mimidae	1996	Feeding	Food Capture And Consumption	"Pfister, R. 1984. Behavior of a breeding pair of Curve-billed Thrashers (Toxostoma curvirostre) and their progeny. Report, Dept. Ecol. and Evol. Biol. Univ. of Arizona, Tucson."				
 Le Conte's Thrasher	Mimidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Gullion, G. W., W. M. Pulich, and F. G. Evenden. 1959. Notes on the occurrence of birds in southern Nevada. Condor 61:278-297."				
 Le Conte's Thrasher	Mimidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Sheppard, J. M. 1973. An initial study of Le Conte's Thrasher (Toxostoma lecontei) Master's Thesis. California State Univ. Long Beach."				
