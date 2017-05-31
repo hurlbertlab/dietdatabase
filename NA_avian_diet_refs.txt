@@ -5980,18 +5980,18 @@ Sage Thrasher	Mimidae	1999	Diet		"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, 
 Elepaio	Monarchidae	1998	Feeding	Food Capture And Consumption	"Perkins, R. C. L. 1903. Vertebrata (Aves). Pages 368-465 in Fauna Hawaiiensis. (Sharp, D., Ed.) Cambridge Univ. Press, Cambridge, England."				
 Elepaio	Monarchidae	1998	Feeding	Microhabitat For Foraging	"Vanderwerf, E. A. 1993a. Scales of habitat selection by foraging Elepaio in undisturbed and human-altered Hawaiian forests. Condor 95:980-989."				
 Elepaio	Monarchidae	1998	Feeding	Microhabitat For Foraging	"Vanderwerf, E. A. 1994. Intraspecific variation in foraging behavior of Elepaio in Hawaiian forests of different structure. Auk 111:917-932."				
-American Pipit	Motacillidae	1994	Diet	Major Food Items	"Martin, A. C., H. S. Zimm, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."				
-American Pipit	Motacillidae	1994	Diet	Major Food Items	"Pickwell, G. 1947. The American Pipit in its arctic-alpine home. Auk 64:1-14."				
-American Pipit	Motacillidae	1994	Feeding	Food Capture And Consumption	"Hendricks, P. and C. J. Norment. 1986. Additions to the alpine avifauna of the Beartooth Mountains. Murrelet 67:90-92."				
-American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Drury, Jr., W. H. 1961. Studies of the breeding biology of Horned Lark, Water Pipit, Lapland Longspur, and Snow Bunting on Bylot Island, Northwest Territories, Canada. Bird-Banding 32:1-46."				
-American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Edwards, J. S. and P. C. Banko. 1976. Arthropod fallout and nutrient transport: a quantitative study of Alaskan snowpatches. Arct. Alp. Res. 8:237-245."				
-American Pipit	Motacillidae	1994	Diet	Major Food Items	"Gross, W. 1932. Home-life of the American Pipit. Bird-Lore 34:309-314."				
-American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Fleming, R. S. 1973. Bird communities above treeline, a comparison of temperate and equatorial mountain faunas. Phd Thesis. Univ. Washington, Seattle."				
-American Pipit	Motacillidae	1994	Nutrition And Energetics		"Irving, L. 1960a. Nutritional conditions of Water Pipits on arctic nesting grounds. Condor 62:469-472."				
-American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Hayward, C. L. 1952. Alpine biotic communities of the Uinta Mountains, Utah. Ecol. Monogr. 22:93-118."				
-American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Edwards, J. S. 1972. Arthropod fallout on Alaskan snow. Arct. Alp. Res. 4:167-176."				
-American Pipit	Motacillidae	1994	Diet	Major Food Items	"Hendricks, P. 1986. Avian predation of alpine butterflies. J. Lepid. Soc. 40:129."				
-American Pipit	Motacillidae	1994	Diet	Major Food Items	"Knowlton, G. F. 1944. Pipits eat injurious insects. Auk 61:137-138."				
+American Pipit	Motacillidae	1994	Diet	Major Food Items	"Martin, A. C., H. S. Zimm, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."	y	n		
+American Pipit	Motacillidae	1994	Diet	Major Food Items	"Pickwell, G. 1947. The American Pipit in its arctic-alpine home. Auk 64:1-14."	y	n		
+American Pipit	Motacillidae	1994	Feeding	Food Capture And Consumption	"Hendricks, P. and C. J. Norment. 1986. Additions to the alpine avifauna of the Beartooth Mountains. Murrelet 67:90-92."	y	n		
+American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Drury, Jr., W. H. 1961. Studies of the breeding biology of Horned Lark, Water Pipit, Lapland Longspur, and Snow Bunting on Bylot Island, Northwest Territories, Canada. Bird-Banding 32:1-46."	y	n		
+American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Edwards, J. S. and P. C. Banko. 1976. Arthropod fallout and nutrient transport: a quantitative study of Alaskan snowpatches. Arct. Alp. Res. 8:237-245."	y	n		
+American Pipit	Motacillidae	1994	Diet	Major Food Items	"Gross, W. 1932. Home-life of the American Pipit. Bird-Lore 34:309-314."	n		unavailable	
+American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Fleming, R. S. 1973. Bird communities above treeline, a comparison of temperate and equatorial mountain faunas. Phd Thesis. Univ. Washington, Seattle."	n		unavailable	
+American Pipit	Motacillidae	1994	Nutrition And Energetics		"Irving, L. 1960a. Nutritional conditions of Water Pipits on arctic nesting grounds. Condor 62:469-472."	y	n		
+American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Hayward, C. L. 1952. Alpine biotic communities of the Uinta Mountains, Utah. Ecol. Monogr. 22:93-118."	y	n		
+American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Edwards, J. S. 1972. Arthropod fallout on Alaskan snow. Arct. Alp. Res. 4:167-176."	y	n		
+American Pipit	Motacillidae	1994	Diet	Major Food Items	"Hendricks, P. 1986. Avian predation of alpine butterflies. J. Lepid. Soc. 40:129."	y	n		
+American Pipit	Motacillidae	1994	Diet	Major Food Items	"Knowlton, G. F. 1944. Pipits eat injurious insects. Auk 61:137-138."	y	y	entered	
 American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Norvell, J. R. 1985. Foraging sites of alpine birds in relation to snow accumulation. Master's Thesis. Towson State Univ. Baltimore, MD."				
 American Pipit	Motacillidae	1994	Feeding	Microhabitat For Foraging	"Hendricks, P. 1987b. Habitat use by nesting Water Pipits (Anthus spinoletta): a test of the snow-field hypothesis. Arct. Alp. Res. 19:313-320."				
 American Pipit	Motacillidae	1994	Feeding	Food Capture And Consumption	"Bent, A. C. 1950. Life histories of North American wagtails, shrikes, vireos, and their allies. U.S. Natl. Mus. Bull. No. 197."				
