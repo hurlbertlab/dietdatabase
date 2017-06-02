@@ -11238,11 +11238,11 @@ Bewick's Wren	Troglodytidae	2004	Diet	Quantitative Analysis	"Yard, H.K., C. Van 
 Bewick's Wren	Troglodytidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dept. Agric. Biol. Surv. Bull. 30."	y	y	beal papers already entered	
 Cactus Wren	Troglodytidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. U.S. Dept. Agric. Biol. Surv. Bull. 30."	y	y	beal papers already entered	
 Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers, and their allies. U.S. Natl. Mus. Bull. 195."	y	n		
-Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Mirsky, E. N. 1976. Ecology of co-existence in a wren-wrentit-warbler guild. Phd Thesis. Univ. of California, Los Angeles."				
-Canyon Wren	Troglodytidae	1995	Feeding	Food Capture And Consumption	"Martin, R. F. 1971. The Ca????on Wren (Catherpes mexicanus) raiding food storage of a trypoxylid wasp. Auk 88:677."				
-Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Grinnell, J. and A. H. Miller. 1944. Distribution of the birds of California. Pac. Coast Avifauna 27."				
-Canyon Wren	Troglodytidae	1995	"Drinking, Pellet-Casting, And Defecation"		"Smyth, M. and H. N. Coulombe. 1971. Notes on the use of desert springs by birds in California. Condor 73:240-243."				
-Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Tramontano, J. P. 1964. Comparative studies of the Rock Wren and Canyon Wren. Master's Thesis. Univ. of Arizona, Tucson."				
+Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Mirsky, E. N. 1976. Ecology of co-existence in a wren-wrentit-warbler guild. Phd Thesis. Univ. of California, Los Angeles."	n		unavailable	
+Canyon Wren	Troglodytidae	1995	Feeding	Food Capture And Consumption	"Martin, R. F. 1971. The Ca????on Wren (Catherpes mexicanus) raiding food storage of a trypoxylid wasp. Auk 88:677."	y	n		
+Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Grinnell, J. and A. H. Miller. 1944. Distribution of the birds of California. Pac. Coast Avifauna 27."	y	n		
+Canyon Wren	Troglodytidae	1995	"Drinking, Pellet-Casting, And Defecation"		"Smyth, M. and H. N. Coulombe. 1971. Notes on the use of desert springs by birds in California. Condor 73:240-243."	y	n		
+Canyon Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Tramontano, J. P. 1964. Comparative studies of the Rock Wren and Canyon Wren. Master's Thesis. Univ. of Arizona, Tucson."	y	y	will enter	
 Canyon Wren	Troglodytidae	1995	Diet	Major Food Items	"Miller, A. H. and R. C. Stebbins. 1964. The lives of desert animals in Joshua Tree National Monument. Univ. of California Press, Berkeley."				
 Carolina Wren	Troglodytidae	1995	Diet	Major Food Items	"Beal, F. E. L., W. L. McAtee, and E. R. Kalmbach. 1916. Common birds of southeastern United States in relation to agriculture. U.S. Dept. Agric. Farmers' Bull. 755."				
 Carolina Wren	Troglodytidae	1995	Feeding	Microhabitat For Foraging	"Dickson, J. G. and R. E. Noble. 1978. Vertical distribution of birds in a Louisiana bottomland hardwood forest. Wilson Bull. 90:19-30."				
