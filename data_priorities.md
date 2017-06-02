@@ -26,15 +26,15 @@ Note that Families for which I know that data remain to be entered are highlight
 --Calcariidae  
 --Cardinalidae  
 --Certhiidae  
---Cinclidae (check out refs here for American Dipper: https://birdsna.org/Species-Account/bna/species/amedip/foodhabits)  
+--Cinclidae    
 --Corvidae  
---Emberizide (need to check/enter Saltmarsh Sparrow)  
+--Emberizide  
 --Fringillidae  
 --Hirundinidae  
 --Icteridae  
 --Laniidae  
---Mimidae (many refs to be checked)  
---Motacillidae (refs to be checked)  
+--Mimidae  
+--Motacillidae  
 --Paridae  
 --Parulidae  
 --Passeridae  
