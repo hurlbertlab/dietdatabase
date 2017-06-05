@@ -11258,31 +11258,31 @@ House Wren	Troglodytidae	1998	Diet	Nestlings	"Morton, C. A. 1984. An experimenta
 House Wren	Troglodytidae	1998	Nutrition And Energetics		"Dykstra, C. R. and W. H. Karasov. 1992. Changes in gut structure and function of House Wrens (Troglodytes aedon) in response to increased energy demands. Physiol. Zool. 65:422-442."	y	n		
 House Wren	Troglodytidae	1998	Metabolism And Temperature Regulation		"Baldwin, S. P. and S. C. Kendeigh. 1932. Physiology of the temperature of birds. Sci. Publ. Cleveland. Mus. Nat. Hist. 3:1-173."	y	n		
 House Wren	Troglodytidae	1998	Metabolism And Temperature Regulation		"Kendeigh, S. C. 1963a. Thermodynamics of incubation in the House Wren, Troglodytes aedon. Proc. XIII Int. Ornithol. Congr., Ithaca, New York."	y	n		
-House Wren	Troglodytidae	1998	Diet	Independent Young And Adults	"Guinan, D. M. and S. G. Sealy. 1987. Diet of House Wrens (Troglodytes aedon) and the abundance of the invertebrate prey in the dune-ridge forest, Delta Marsh, Manitoba. Can. J. Zool. 65:1587-1596."	y	y	will enter	
+House Wren	Troglodytidae	1998	Diet	Independent Young And Adults	"Guinan, D. M. and S. G. Sealy. 1987. Diet of House Wrens (Troglodytes aedon) and the abundance of the invertebrate prey in the dune-ridge forest, Delta Marsh, Manitoba. Can. J. Zool. 65:1587-1596."	y	y	entered	
 House Wren	Troglodytidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. USDA Biol. Survey Bull. 30."	y	y	beal papers already entered	
 Marsh Wren	Troglodytidae	1997	Nutrition And Energetics		"Kale II, H. W. 1965. Ecology and bioenergetics of the Long-billed Marsh Wren Telmatodytes palustris griseus (Brewster) in Georgia salt marshes. Publ. Nuttall Ornithol. Club, no. 5."	n		unavailable	
 Marsh Wren	Troglodytidae	1997	Diet	Major Food Items	"Kale II, H. W. 1964. Food of the Long-billed Marsh Wren, Telmatodytes palustris griseus, in the salt marshes of Sapelo Island, Georgia. Oriole 29:47-61."	n		unavailable	
 Marsh Wren	Troglodytidae	1997	Diet	Major Food Items	"Welter, W. A. 1935. The natural history of the Long-billed Marsh Wren. Wilson Bull. 47:3-34."	y	n		
 Marsh Wren	Troglodytidae	1997	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry. USDA Biol. Survey Bull. 30."	y	y	beal papers already entered	
-Marsh Wren	Troglodytidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Kale II, H. W. 1967. Water sources of the Long-billed Marsh Wren in Georgia salt marshes. Auk 84:589-591."				
-Marsh Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Verner, J. 1965a. Breeding biology of the Long-billed Marsh Wren. Condor 67:6-30."				
-Marsh Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Verner, J. 1965b. Time budget of the male Long-billed Marsh Wren during the breeding season. Condor 67:125-139."				
-Rock Wren	Troglodytidae	2000	Feeding	Microhabitat For Foraging	"Mirsky, E. N. 1976. Ecology of coexistence in a wren-wrentit-warbler guild. Phd Thesis. Univ. of California, Los Angeles."				
-Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Knowlton, G. F. and F. C. Harmston. 1942. Insect food of the Rock Wren. Great Basin Nat. 3:22."				
-Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Pachard, F. M. 1946. Some observations of birds eating salt. Auk 63:89."				
-Rock Wren	Troglodytidae	2000	Feeding	Microhabitat For Foraging	"Tramontano, J. P. 1964. Comparative studies of the Rock Wren and the Canyon Wren. Master's Thesis. Univ. of Arizona, Tucson."				
-Rock Wren	Troglodytidae	2000	Feeding	Microhabitat For Foraging	"Phillips, P. K. and A. F. Sanborn. 1995. Use of an unusual food source by Rock Wrens (Troglodytidae). Great Basin Nat. 55:192."				
-Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Contreras, B. A. J. and C. H. Trevi????o-S. 1987. Notas sobre predaci????n de aves en reptiles. Southwest Nat. 32:505-506."				
-Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Knowlton, G. F. and F. C. Harmston. 1943. Grasshoppers and crickets eaten by Utah birds. Auk 60:589-591."				
-Rock Wren	Troglodytidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Smyth, M. and G. A. Bartholomew. 1966. The water economy of the Black-throated Sparrow and the Rock Wren. Condor 68:447-458."				
-Sedge Wren	Troglodytidae	2001	Feeding	Microhabitat For Foraging	"Schramm, P., D. S. Schramm, and S. G. Johnson. 1986. Seasonal phenology and habitat selection of the Sedge Wren Cistothorus platensis in a restored tallgrass prairie. Proc. N. Am. Prairie Conf. 9:95-99."				
-Sedge Wren	Troglodytidae	2001	Diet	Quantitative Analysis	"Imhof, T. A. 1976. Alabama birds. 2nd ed. Univ. of Alabama Press, Tuscaloosa."				
-Sedge Wren	Troglodytidae	2001	Feeding	Adaptations For Foraging	"Niemi, G. J. 1985. Patterns of morphological evolution in bird genera of New World and Old World peatlands. Ecology 66:1215-1228."				
-Sedge Wren	Troglodytidae	2001	Diet	Quantitative Analysis	"Howell, A. H. 1932. Florida bird life. Florida Dep. Game Freshwater Fish, Tallahassee."				
-Sedge Wren	Troglodytidae	2001	Feeding	Microhabitat For Foraging	"Walkinshaw, L. R. 1935. Studies of the Short-billed Marsh Wren (Cistothorus stellaris) in Michigan. Wilson Bull. 52:361-368."				
-Sedge Wren	Troglodytidae	2001	Feeding	Microhabitat For Foraging	"Sprunt, Jr., A. 1954. Florida bird life. Coward-McCann, Inc. New York."				
-Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Holmes, R. T., R. E. Bonney, Jr., and S. W. Pacala. 1979. Guild structure of the Hubbard Brook bird community: a multivariate approach. Ecology 60:512-520."				
-Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Holmes, R. T. and S. K. Robinson. 1988. Spatial patterns, foraging tactics, and diets of ground-foraging birds in a northern hardwoods forest. Wilson Bull. 100:377-394."				
+Marsh Wren	Troglodytidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Kale II, H. W. 1967. Water sources of the Long-billed Marsh Wren in Georgia salt marshes. Auk 84:589-591."	y	n		
+Marsh Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Verner, J. 1965a. Breeding biology of the Long-billed Marsh Wren. Condor 67:6-30."	y	n		
+Marsh Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Verner, J. 1965b. Time budget of the male Long-billed Marsh Wren during the breeding season. Condor 67:125-139."	y	n		
+Rock Wren	Troglodytidae	2000	Feeding	Microhabitat For Foraging	"Mirsky, E. N. 1976. Ecology of coexistence in a wren-wrentit-warbler guild. Phd Thesis. Univ. of California, Los Angeles."	n		unavailable	
+Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Knowlton, G. F. and F. C. Harmston. 1942. Insect food of the Rock Wren. Great Basin Nat. 3:22."	y	y	will enter	
+Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Pachard, F. M. 1946. Some observations of birds eating salt. Auk 63:89."	y	n		
+Rock Wren	Troglodytidae	2000	Feeding	Microhabitat For Foraging	"Tramontano, J. P. 1964. Comparative studies of the Rock Wren and the Canyon Wren. Master's Thesis. Univ. of Arizona, Tucson."	y	y	data already entered	
+Rock Wren	Troglodytidae	2000	Feeding	Microhabitat For Foraging	"Phillips, P. K. and A. F. Sanborn. 1995. Use of an unusual food source by Rock Wrens (Troglodytidae). Great Basin Nat. 55:192."	y	n		
+Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Contreras, B. A. J. and C. H. Trevi????o-S. 1987. Notas sobre predaci????n de aves en reptiles. Southwest Nat. 32:505-506."	n			
+Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Knowlton, G. F. and F. C. Harmston. 1943. Grasshoppers and crickets eaten by Utah birds. Auk 60:589-591."	y	n	has data only for grasshopper prey items	
+Rock Wren	Troglodytidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Smyth, M. and G. A. Bartholomew. 1966. The water economy of the Black-throated Sparrow and the Rock Wren. Condor 68:447-458."	y	n		
+Sedge Wren	Troglodytidae	2001	Feeding	Microhabitat For Foraging	"Schramm, P., D. S. Schramm, and S. G. Johnson. 1986. Seasonal phenology and habitat selection of the Sedge Wren Cistothorus platensis in a restored tallgrass prairie. Proc. N. Am. Prairie Conf. 9:95-99."	y	n		
+Sedge Wren	Troglodytidae	2001	Diet	Quantitative Analysis	"Imhof, T. A. 1976. Alabama birds. 2nd ed. Univ. of Alabama Press, Tuscaloosa."	n		unavailable	
+Sedge Wren	Troglodytidae	2001	Feeding	Adaptations For Foraging	"Niemi, G. J. 1985. Patterns of morphological evolution in bird genera of New World and Old World peatlands. Ecology 66:1215-1228."	y	n		
+Sedge Wren	Troglodytidae	2001	Diet	Quantitative Analysis	"Howell, A. H. 1932. Florida bird life. Florida Dep. Game Freshwater Fish, Tallahassee."	n		unavailable	
+Sedge Wren	Troglodytidae	2001	Feeding	Microhabitat For Foraging	"Walkinshaw, L. R. 1935. Studies of the Short-billed Marsh Wren (Cistothorus stellaris) in Michigan. Wilson Bull. 52:361-368."	y	n		
+Sedge Wren	Troglodytidae	2001	Feeding	Microhabitat For Foraging	"Sprunt, Jr., A. 1954. Florida bird life. Coward-McCann, Inc. New York."	n		unavailable	
+Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Holmes, R. T., R. E. Bonney, Jr., and S. W. Pacala. 1979. Guild structure of the Hubbard Brook bird community: a multivariate approach. Ecology 60:512-520."	y	n		
+Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Holmes, R. T. and S. K. Robinson. 1988. Spatial patterns, foraging tactics, and diets of ground-foraging birds in a northern hardwoods forest. Wilson Bull. 100:377-394."	y	y	hermit/swainsons thrush need to be entered	
 Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Sabo, S. R. and R. T. Holmes. 1983. Foraging niches and the structure of forest bird communities in contrasting montane habitats. Condor 85:121-138."				
 Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Bent, A. C. 1948. Life histories of North American nuthatches, wrens, thrashers, and their allies. U.S. Natl. Mus. Bull. 195."				
 Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Van Horne, B. and A. Bader. 1990. Diet of nestling Winter Wrens in relationship to food availability. Condor 92:413-420."				
