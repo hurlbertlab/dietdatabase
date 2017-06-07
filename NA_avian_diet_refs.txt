@@ -11268,12 +11268,12 @@ Marsh Wren	Troglodytidae	1997	"Drinking, Pellet-Casting, And Defecation"		"Kale 
 Marsh Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Verner, J. 1965a. Breeding biology of the Long-billed Marsh Wren. Condor 67:6-30."	y	n		
 Marsh Wren	Troglodytidae	1997	Feeding	Microhabitat For Foraging	"Verner, J. 1965b. Time budget of the male Long-billed Marsh Wren during the breeding season. Condor 67:125-139."	y	n		
 Rock Wren	Troglodytidae	2000	Feeding	Microhabitat For Foraging	"Mirsky, E. N. 1976. Ecology of coexistence in a wren-wrentit-warbler guild. Phd Thesis. Univ. of California, Los Angeles."	n		unavailable	
-Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Knowlton, G. F. and F. C. Harmston. 1942. Insect food of the Rock Wren. Great Basin Nat. 3:22."	y	y	will enter	
+Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Knowlton, G. F. and F. C. Harmston. 1942. Insect food of the Rock Wren. Great Basin Nat. 3:22."	y	y	entered	
 Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Pachard, F. M. 1946. Some observations of birds eating salt. Auk 63:89."	y	n		
 Rock Wren	Troglodytidae	2000	Feeding	Microhabitat For Foraging	"Tramontano, J. P. 1964. Comparative studies of the Rock Wren and the Canyon Wren. Master's Thesis. Univ. of Arizona, Tucson."	y	y	data already entered	
 Rock Wren	Troglodytidae	2000	Feeding	Microhabitat For Foraging	"Phillips, P. K. and A. F. Sanborn. 1995. Use of an unusual food source by Rock Wrens (Troglodytidae). Great Basin Nat. 55:192."	y	n		
 Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Contreras, B. A. J. and C. H. Trevi????o-S. 1987. Notas sobre predaci????n de aves en reptiles. Southwest Nat. 32:505-506."	n			
-Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Knowlton, G. F. and F. C. Harmston. 1943. Grasshoppers and crickets eaten by Utah birds. Auk 60:589-591."	y	n	has data only for grasshopper prey items	
+Rock Wren	Troglodytidae	2000	Diet	Quantitative Analysis	"Knowlton, G. F. and F. C. Harmston. 1943. Grasshoppers and crickets eaten by Utah birds. Auk 60:589-591."	y	n	has data broken down only for grasshopper prey items	
 Rock Wren	Troglodytidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Smyth, M. and G. A. Bartholomew. 1966. The water economy of the Black-throated Sparrow and the Rock Wren. Condor 68:447-458."	y	n		
 Sedge Wren	Troglodytidae	2001	Feeding	Microhabitat For Foraging	"Schramm, P., D. S. Schramm, and S. G. Johnson. 1986. Seasonal phenology and habitat selection of the Sedge Wren Cistothorus platensis in a restored tallgrass prairie. Proc. N. Am. Prairie Conf. 9:95-99."	y	n		
 Sedge Wren	Troglodytidae	2001	Diet	Quantitative Analysis	"Imhof, T. A. 1976. Alabama birds. 2nd ed. Univ. of Alabama Press, Tuscaloosa."	n		unavailable	
