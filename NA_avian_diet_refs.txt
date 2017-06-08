@@ -11373,20 +11373,20 @@ Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Pinkowski, B. C. 1977c.
 Eastern Bluebird	Turdidae	1998	Nutrition And Energetics		"Buser, C. S. 1980. A time and energy budget study of the eastern bluebird (Sialia sialis) during the breeding season. Master's Thesis. Rutgers Univ. New Brunswick, NJ."	y	n		
 Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Pinkowski, B. C. 1974f. Predation on a shrew by an eastern bluebird. Wilson Bull. 86:83."	y	n		
 Eastern Bluebird	Turdidae	1998	Nutrition And Energetics		"Pinkowski, B. C. 1978a. Feeding of nestling and fledgling eastern bluebirds. Wilson Bull. 90:84-98."	y	y	entered	
-Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Bent, A. C. 1949. Life histories of North American thrushes, kinglets, and their allies. U.S. Natl. Mus. Bull. 196."				
-Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Droge, D. L., P. A. Gowaty, and W. W. Weathers. 1991. Sex-biased provisioning: a test for differences in field metabolic rates of nestling eastern bluebirds. Condor 93:793-798."				
-Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Forbes, S. A. 1903. The food of birds. Bull. Illinois Lab. Nat. Hist. 1:86-162."				
-Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Flanigan, A. B. 1971. Predation on snakes by eastern bluebird and brown thrasher. Wilson Bull. 83:441."				
-Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Parker, R. L. and I. D. Parker. 1950. Note on behavior of birds on a cold winter day. Auk 67:108."				
-Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."		n		
-Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Goldman, P. 1975. Hunting behavior of eastern bluebirds. Auk 92:798-801."	y			
-Gray-cheeked Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Preble, E. A. and W. L. McAtee. 1923. A biological survey of the Pribilof Islands, Alaska. Part I. Birds and mammals. N. Am. Fauna 46."				
-Gray-cheeked Thrush	Turdidae	2001	Feeding	Food Capture And Consumption	"Yong, W. and F. R. Moore. 1990. Foot-quivering as a foraging maneuver among migrating Catharus thrushes. Wilson Bull. 102:542-545."				
-Gray-cheeked Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Dilger, W. C. 1956b. Hostile behavior and reproductive isolating mechanisms in the avian genera Catharus and Hylocichla. Auk 73:313-353."				
-Gray-cheeked Thrush	Turdidae	2001	Diet		"Beal, F. E. L. 1915. Food of the thrushes of the United States. U. S. Dept. Agric. Dept. Bull. 280."				
-Gray-cheeked Thrush	Turdidae	2001	Feeding	Food Capture And Consumption	"Willis, E. O. 1966. The role of migrant birds at swarms of army ants. Living Bird 5:187-231."				
-Gray-cheeked Thrush	Turdidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Dilger, W. C. 1956a. Hylocichlid thrushes in captivity with notes on their behaviour. Avicul. Mag. 52:183-189."				
-Hermit Thrush	Turdidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered	
+Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Bent, A. C. 1949. Life histories of North American thrushes, kinglets, and their allies. U.S. Natl. Mus. Bull. 196."	n		unavailable	
+Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Droge, D. L., P. A. Gowaty, and W. W. Weathers. 1991. Sex-biased provisioning: a test for differences in field metabolic rates of nestling eastern bluebirds. Condor 93:793-798."	y	n		
+Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Forbes, S. A. 1903. The food of birds. Bull. Illinois Lab. Nat. Hist. 1:86-162."	n		unavailable	
+Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Flanigan, A. B. 1971. Predation on snakes by eastern bluebird and brown thrasher. Wilson Bull. 83:441."	y	n		
+Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Parker, R. L. and I. D. Parker. 1950. Note on behavior of birds on a cold winter day. Auk 67:108."	y	n		
+Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Beal, F. 1915. Food of the robins and bluebirds of the United States. Bull. U.S.Dep. Agricul. 171:1-31."	y	y	beal papers already entered	
+Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Goldman, P. 1975. Hunting behavior of eastern bluebirds. Auk 92:798-801."	y	n		
+Gray-cheeked Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Preble, E. A. and W. L. McAtee. 1923. A biological survey of the Pribilof Islands, Alaska. Part I. Birds and mammals. N. Am. Fauna 46."	n		unavailable	
+Gray-cheeked Thrush	Turdidae	2001	Feeding	Food Capture And Consumption	"Yong, W. and F. R. Moore. 1990. Foot-quivering as a foraging maneuver among migrating Catharus thrushes. Wilson Bull. 102:542-545."	y	n		
+Gray-cheeked Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Dilger, W. C. 1956b. Hostile behavior and reproductive isolating mechanisms in the avian genera Catharus and Hylocichla. Auk 73:313-353."	y	n		
+Gray-cheeked Thrush	Turdidae	2001	Diet		"Beal, F. E. L. 1915. Food of the thrushes of the United States. U. S. Dept. Agric. Dept. Bull. 280."	y	y	data apparently not entered yet	
+Gray-cheeked Thrush	Turdidae	2001	Feeding	Food Capture And Consumption	"Willis, E. O. 1966. The role of migrant birds at swarms of army ants. Living Bird 5:187-231."	n		unavailable	
+Gray-cheeked Thrush	Turdidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Dilger, W. C. 1956a. Hylocichlid thrushes in captivity with notes on their behaviour. Avicul. Mag. 52:183-189."	n		unavailable	
+Hermit Thrush	Turdidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt 1. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	beal papers already entered	
 Kamao	Turdidae	1999	Diet	Major Food Items	"Rothschild, W. 1893. The avifauna of Laysan and the neighboring islands with a complete history to date of the birds of the Hawaiian possessions, Part 2. R. H. Porter, London."				
 Kamao	Turdidae	1999	Diet	Major Food Items	"Pratt, H. D. 1982. Relationships and speciation of the Hawaiian Thrushes. Living Bird 19:73-90."				
 Kamao	Turdidae	1999	Diet	Major Food Items	"Munro, G. C. 1944. Birds of Hawaii. Tongg Publ. Co., Honolulu. Reprinted 1960 by Charles E. Tuttle, Tokyo, Japan."				
@@ -11404,28 +11404,28 @@ Kamao	Turdidae	1999	Diet	Major Food Items	"Bryan, Jr., E. H. 1933. Hawaiian natu
 Kamao	Turdidae	1999	Diet	Major Food Items	"Wilson, S. B. and A. H. Evans. 1890. Aves Hawaiiensis: the birds of the Sandwich Islands. R. H. Porter, London."				
 Kamao	Turdidae	1999	Diet	Major Food Items	"Larosa, A. M., C. W. Smith, and D. E. Gardner. 1985. Role of alien and native birds in the dissemination of firetree (Myrica faya) and associated plants in Hawai'i. Pac. Sci. 39:372-378."				
 Kamao	Turdidae	1999	Diet	Major Food Items	"Woodward, S. A., P. M. Vitousek, K. Matson, F. Hughes, K. Benvenuto, and P. A. Matson. 1990. Use of the exotic tree Myrica faya by native and exotic birds in Hawai'i Volcanoes National Park. Pac. Sci. 44:88-93."				
-Mountain Bluebird	Turdidae	1996	Diet	Major Food Items; Quantitative Analyses	"Herlugson, C. J. 1982. Food of adult and nestling Western and Mountain bluebirds. Murrelet 63:59-65."				
-Mountain Bluebird	Turdidae	1996	Diet	Major Food Items; Quantitative Analyses	"Beal, F. E. L. 1915. Food of the robins and bluebirds of the United States. U.S. Dep. Agric. Bull. 171."				
-Mountain Bluebird	Turdidae	1996	Feeding	Food Capture And Consumption	"Power, H. W. 1974. The Mountain Bluebird: sex and the evolution of foraging behavior. Phd Thesis. Univ. of Michigan, Ann Arbor."				
-Mountain Bluebird	Turdidae	1996	Diet	Major Food Items; Quantitative Analyses	"Knowlton, G. F. and F. C. Harmston. 1946. Insect food of the Mountain Bluebird. J. Econ. Entomol. 39:384."				
-Mountain Bluebird	Turdidae	1996	Feeding	Microhabitat For Foraging	"Power, H. W. 1980a. The foraging behavior of Mountain Bluebirds-with emphasis on sexual differences. Ornithol. Monogr. 28."				
-Northern Wheatear	Turdidae	1997	Feeding	Main Foods Taken	"Dementiev, G. P. and N. A. Gladkov. 1966. Birds of the Soviet Union. Israel Program for Scientific Translations, Jerusalem."				
-Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"Moreno, J. 1983. Foraging decisions in the wheatear Oenanthe oenanthe L. during the breeding season. Acta Univ. Upsaliensis. Abstracts of Uppsala Dissertations from the Faculty of Science, no. 704."				
-Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"Panov, E. N. 1974. Die Steinschm????tzer des nordlichen Pal????arktis. Gattung Oenanthe. A. Ziemsen Verlag, Wittenberg Lutherstadt."				
-Northern Wheatear	Turdidae	1997	Diet	Major Food Items	"Cramp, S. 1988. The birds of the western Palearctic. Vol. 5. Oxford Univ. Press, Oxford, U.K."				
-Northern Wheatear	Turdidae	1997	Diet	Major Food Items	"Bean, G. 1883. Notes on birds collected during the summer of 1880 in Alaska and Siberia. Proc. U.S. Natl. Mus. 5:143-173."				
-Northern Wheatear	Turdidae	1997	Diet	Major Food Items	"Freuchen, P. and F. Salomonsen. 1960. The arctic year. G. P. Putman's Sons, New York."				
-Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"King, B. 1968. Wheatears on autumn passage feeding on bumble bees. Br. Birds 61:315."				
-Northern Wheatear	Turdidae	1997	Food Selection And Storage		"Kristin, A. and A. Exnerova. 1992. On the diet and foraging activity of Wheatear (Oenanthe oenanthe) in old grassland (Polana Mtns., Czechoslovakia). Acta Soc. Zool. Bohemoslov. 56:27-32."				
-Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"Tye, A. 1982. Social organization and feeding in the Wheatear and Fieldfare. Phd Thesis. Univ. of Cambridge, Cambridge."				
-Northern Wheatear	Turdidae	1997	Feeding	Main Foods Taken	"Conder, P. 1989. The wheatear. Christopher Helm, London."				
-Northern Wheatear	Turdidae	1997	Nutrition And Energetics		"Tatner, P. 1990. Energetic demands during brood rearing in the wheatear Oenanthe oenanthe. Ibis 132:423-435."				
-Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"King, B. 1978. Chat's method of eating caterpillars. Br. Birds 71:463."				
-Northern Wheatear	Turdidae	1997	Diet	Quantitative Analysis	"Cornwallis, L. 1975. The comparative ecology of eleven species of Wheatear (genus Oenanthe) in S.W. Iran. Phd Thesis. Oxford Univ. Oxford, U.K."				
-Northern Wheatear	Turdidae	1997	Diet	Quantitative Analysis	"Portenko, L. A. 1989. The birds of the Chukchi Peninsula and Wrangel Island. Vol. 2. Smithsonian Inst. Libraries and Natl. Sci. Foundation, Washington, D.C."				
-Northern Wheatear	Turdidae	1997	Feeding	Microhabitat For Foraging	"Keith, G. S., E. K. Urban, and C. H. Fry. 1992. The birds of Africa. Vol. 4. Academic Press, London."				
-Northern Wheatear	Turdidae	1997	Nutrition And Energetics		"Moreno, J. 1989b. Body-mass variation in breeding northern wheatears: a field experiment with supplementary food. Condor 91:178-186."				
-Northern Wheatear	Turdidae	1997	Diet	Quantitative Analysis	"Longstaff, T. G. 1932. An ecological reconnaissance in west Greenland. J. Anim. Ecol. 1:119-142."				
+Mountain Bluebird	Turdidae	1996	Diet	Major Food Items; Quantitative Analyses	"Herlugson, C. J. 1982. Food of adult and nestling Western and Mountain bluebirds. Murrelet 63:59-65."	y	y	entered	
+Mountain Bluebird	Turdidae	1996	Diet	Major Food Items; Quantitative Analyses	"Beal, F. E. L. 1915. Food of the robins and bluebirds of the United States. U.S. Dep. Agric. Bull. 171."	y	y	beal papers already entered	
+Mountain Bluebird	Turdidae	1996	Feeding	Food Capture And Consumption	"Power, H. W. 1974. The Mountain Bluebird: sex and the evolution of foraging behavior. Phd Thesis. Univ. of Michigan, Ann Arbor."	n		unavailable	
+Mountain Bluebird	Turdidae	1996	Diet	Major Food Items; Quantitative Analyses	"Knowlton, G. F. and F. C. Harmston. 1946. Insect food of the Mountain Bluebird. J. Econ. Entomol. 39:384."	n		unavailable	
+Mountain Bluebird	Turdidae	1996	Feeding	Microhabitat For Foraging	"Power, H. W. 1980a. The foraging behavior of Mountain Bluebirds-with emphasis on sexual differences. Ornithol. Monogr. 28."	y	n		
+Northern Wheatear	Turdidae	1997	Feeding	Main Foods Taken	"Dementiev, G. P. and N. A. Gladkov. 1966. Birds of the Soviet Union. Israel Program for Scientific Translations, Jerusalem."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"Moreno, J. 1983. Foraging decisions in the wheatear Oenanthe oenanthe L. during the breeding season. Acta Univ. Upsaliensis. Abstracts of Uppsala Dissertations from the Faculty of Science, no. 704."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"Panov, E. N. 1974. Die Steinschm????tzer des nordlichen Pal????arktis. Gattung Oenanthe. A. Ziemsen Verlag, Wittenberg Lutherstadt."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Diet	Major Food Items	"Cramp, S. 1988. The birds of the western Palearctic. Vol. 5. Oxford Univ. Press, Oxford, U.K."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Diet	Major Food Items	"Bean, G. 1883. Notes on birds collected during the summer of 1880 in Alaska and Siberia. Proc. U.S. Natl. Mus. 5:143-173."	y	n		
+Northern Wheatear	Turdidae	1997	Diet	Major Food Items	"Freuchen, P. and F. Salomonsen. 1960. The arctic year. G. P. Putman's Sons, New York."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"King, B. 1968. Wheatears on autumn passage feeding on bumble bees. Br. Birds 61:315."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Food Selection And Storage		"Kristin, A. and A. Exnerova. 1992. On the diet and foraging activity of Wheatear (Oenanthe oenanthe) in old grassland (Polana Mtns., Czechoslovakia). Acta Soc. Zool. Bohemoslov. 56:27-32."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"Tye, A. 1982. Social organization and feeding in the Wheatear and Fieldfare. Phd Thesis. Univ. of Cambridge, Cambridge."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Feeding	Main Foods Taken	"Conder, P. 1989. The wheatear. Christopher Helm, London."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Nutrition And Energetics		"Tatner, P. 1990. Energetic demands during brood rearing in the wheatear Oenanthe oenanthe. Ibis 132:423-435."	y	n		
+Northern Wheatear	Turdidae	1997	Feeding	Food Capture And Consumption	"King, B. 1978. Chat's method of eating caterpillars. Br. Birds 71:463."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Diet	Quantitative Analysis	"Cornwallis, L. 1975. The comparative ecology of eleven species of Wheatear (genus Oenanthe) in S.W. Iran. Phd Thesis. Oxford Univ. Oxford, U.K."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Diet	Quantitative Analysis	"Portenko, L. A. 1989. The birds of the Chukchi Peninsula and Wrangel Island. Vol. 2. Smithsonian Inst. Libraries and Natl. Sci. Foundation, Washington, D.C."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Feeding	Microhabitat For Foraging	"Keith, G. S., E. K. Urban, and C. H. Fry. 1992. The birds of Africa. Vol. 4. Academic Press, London."	n		unavailable	
+Northern Wheatear	Turdidae	1997	Nutrition And Energetics		"Moreno, J. 1989b. Body-mass variation in breeding northern wheatears: a field experiment with supplementary food. Condor 91:178-186."	y	n		
+Northern Wheatear	Turdidae	1997	Diet	Quantitative Analysis	"Longstaff, T. G. 1932. An ecological reconnaissance in west Greenland. J. Anim. Ecol. 1:119-142."	y	y	will enter	
 Olomao	Turdidae	1999	Feeding	Microhabitat For Foraging	"Wakelee, K. M. 1996. Life history of the '????ma'o (Myadestes obscurus). Master's Thesis. Univ. of Hawai'i, Honolulu."				
 Olomao	Turdidae	1999	Diet	Major Food Items	"Bryan, Jr., E. H. 1933. Hawaiian nature notes. Honolulu Star Bull., Ltd. Honolulu, HI."				
 Olomao	Turdidae	1999	Feeding	Food Capture And Consumption	"Van Riper III, C. and J. M. Scott. 1979. Observations on distribution, diet, and breeding of the Hawaiian Thrush. Condor 81:65-71."				
@@ -11530,10 +11530,6 @@ Veery	Turdidae	1-Jan-05	Diet	Major Food Items	"Tyler, W. M. 1949. Hylocichla fus
 Veery	Turdidae	1-Jan-05	Food Selection And Storage		"Cipollini, M. L. and E. W. Stiles. 1993. Fruit rot, antifungal defense, and palatability of fleshy fruits for frugivorous birds. Ecology 74:751-762."	y	n		
 Veery	Turdidae	1-Jan-05	Feeding	Main Foods Taken	"Dilger, W. C. 1956b. Adaptive modifications and ecological isolating mechanisms in the thrush genera Catharus and Hylocichla. Wilson Bull. 68:171-199."	y	n		
 Western Bluebird	Turdidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Bull. 34:1-96."	y	y	data has not yet been entered	
-White-rumped Shama	Turdidae	1998	Feeding And Diet		"Caum, E. L. 1933. The exotic birds of Hawaii. B. P. Bishop Mus. Occas. Pap. Vol. 10(9)"	y	n		
-White-rumped Shama	Turdidae	1998	Feeding And Diet		"Hawaii Audubon Society. 1989. Hawaii's birds. 4th ed. Hawaii Audubon Society, Honolulu."	y	n		
-White-rumped Shama	Turdidae	1998	Feeding And Diet		"Aguon, C. F. 1988. The breeding biology of the White-rumped Shama, Copsychus malabaricus, on Oahu. Master's Thesis. Univ. of Hawaii at Manoa, Honolulu."	y	n		
-White-rumped Shama	Turdidae	1998	Feeding And Diet		"Richardson, F. and J. Bowles. 1964. A survey of the birds of Kauai, Hawaii. Condor 63:179-180."	y	n		
 Acadian Flycatcher	Tyrannidae	2002	Feeding	Microhabitat For Foraging	"Bennett, S. E. 1980. Interspecific competition and the niche of the American Redstart (Setophaga ruticilla) in wintering and breeding communities. Pages 319-335 in Migrant birds in the Neotropics: ecology, behavior, distribution, and conservation. (Keast, A. and E. S. Morton, Eds.) Smithson. Inst. Press, Washington, D.C."	y	n		
 Acadian Flycatcher	Tyrannidae	2002	Diet	Quantitative Analysis	"Beal, F. E. L. 1912. Food of our more important flycatchers. U.S. Dep. Agric. Biol. Surv. Bull. 44."	y	y		
 Acadian Flycatcher	Tyrannidae	2002	Feeding	Food Capture And Consumption	"Remsen, Jr., J. V. and S. K. Robinson. 1990. A classification scheme for foraging behavior of birds in terrestrial habitats. Stud. Avian Biol. 13:144-160."	y	n		
