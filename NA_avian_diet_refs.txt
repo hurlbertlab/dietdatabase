@@ -11288,7 +11288,7 @@ Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Bent, A. C. 19
 Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Van Horne, B. and A. Bader. 1990. Diet of nestling Winter Wrens in relationship to food availability. Condor 92:413-420."	y	n		
 Winter Wren	Troglodytidae	2002	Feeding	Microhabitat For Foraging	"Heath, H. 1920. The nesting habits of the Alaska Wren. Condor 22:49-55."	y	n		
 Winter Wren	Troglodytidae	2002	Diet	Major Food Items	"Mclachlin, R. A. 1983. Dispersion of the Western Winter Wren (Troglodytes troglodytes) in the coastal western hemlock forest at the University of British Columbia Research Forest in southwestern British Columbia. Phd Thesis. Univ. of British Columbia, Vancouver."	y	y	questions about data; only frequency occurrence entered	
-Winter Wren	Troglodytidae	2002	Diet	Major Food Items	"Parrish, J. D. 1997. Patterns of frugivory and energetic condition in nearctic landbirds during autumn migration. Condor 99:681-697."	y	y	will enter	
+Winter Wren	Troglodytidae	2002	Diet	Major Food Items	"Parrish, J. D. 1997. Patterns of frugivory and energetic condition in nearctic landbirds during autumn migration. Condor 99:681-697."	y	y	data already entered	
 Winter Wren	Troglodytidae	2002	Diet	Major Food Items	"Cramp, S. 1988. The birds of the Western Palearctic Vol. 5: tyrant flycatchers to thrushes. Oxford Univ. Press, Oxford, U.K."	n		unavailable	
 Winter Wren	Troglodytidae	2002	Food Selection And Storage		"Armstrong, E. A. 1955. The wren. Collins, London."	n		unavailable	
 Winter Wren	Troglodytidae	2002	Nutrition And Energetics		"Lasiewski, R. C. and W. R. Dawson. 1967. A re-examination of the relation between standard metabolic rate and body weight in birds. Condor 69:13-23."	y	n		
@@ -11316,9 +11316,9 @@ Elegant Trogon	Trogonidae	1998	Metabolism And Temperature Regulation		"Skutch, A
 Elegant Trogon	Trogonidae	1998	"Drinking, Pellet-Casting, And Defecation"		"Beebe, W. 1905. Two bird-lovers in Mexico. Houghton, Mifflin and Co., New York."	y	n		
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Sallabanks, R. 1992b. Fruit fate, frugivory, and fruit characteristics: a study of the hawthorn, Crataegus monogyna (Rosaceae). Oecologia 91:296-304."	y	n		
 American Robin	Turdidae	1999	Food Selection And Storage		"Karasov, W. H. and D. J. Levey. 1990. Digestive system trade-offs and adaptations of frugivorous passerine birds. Physiol. Zool. 63:1248-1270."	y	n		
-American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Levey, D. J. and G. E. Duke. 1992. How do frugivores process fruit? Gastrointestinal transit and glucose absorption in Cedar Waxwings (Bombycilla cedrorum). Auk 109:722-730."	y	y		
+American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Levey, D. J. and G. E. Duke. 1992. How do frugivores process fruit? Gastrointestinal transit and glucose absorption in Cedar Waxwings (Bombycilla cedrorum). Auk 109:722-730."	y	n		
 American Robin	Turdidae	1999	Feeding	Food Capture And Consumption	"Sallabanks, R. and S. P. Courtney. 1992. Frugivory, seed predation, and insect-vertebrate interactions. Ann. Rev. Entomol. 37:377-400."	y	n		
-American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Phillips, J. C. 1927. Catbirds and robins as fisheaters. Bird-Lore 29:342-343."	y	y		
+American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Phillips, J. C. 1927. Catbirds and robins as fisheaters. Bird-Lore 29:342-343."	n		unavailable	
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Davis, W. F. 1969. Robin kills snake. Wilson Bull. 81:470-471."	y	n		
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Kimball, J. W. 1944. A fishy bird story. Auk 61:646-647."	y	n		
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Bayer, R. D. 1980. Novel use of an unusual food: American Robin eating parts of fish. J. Field Ornithol. 51:74-75."	y	n		
@@ -11356,23 +11356,23 @@ American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Li
 American Robin	Turdidae	1999	Food Selection And Storage		"Johnson, S. G. and R. K. Swihart. 1989. The influence of predation risk on central place foraging variables in the American Robin, Turdus migratorius. Trans. Kans. Acad. Sci. 92:155-158."	y	n		
 American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Powers, L. R. 1973. Record of a robin feeding shrews to its nestlings. Condor 75:248."	y	n		
 American Robin	Turdidae	1999	Food Selection And Storage		"White, D. W. and E. W. Stiles. 1991. Fruit harvesting by American Robins: influence of fruit size. Wilson Bull. 103:690-692."	y	n		
-American Robin	Turdidae	1999	Food Selection And Storage		"Swihart, R. K. and S. G. Johnson. 1986. Foraging decisions of American Robins: somatic and reproductive tradeoffs. Behav. Ecol. Sociobiol. 19:275-282."	y	y		
-American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Beal, F. E. L. 1915. Food of the robins and bluebirds of the United States. U.S. Dep. Agric. Bull. 171."	y	y		
+American Robin	Turdidae	1999	Food Selection And Storage		"Swihart, R. K. and S. G. Johnson. 1986. Foraging decisions of American Robins: somatic and reproductive tradeoffs. Behav. Ecol. Sociobiol. 19:275-282."	y	n		
+American Robin	Turdidae	1999	Diet	Major Food Items And Quantitative Analysis	"Beal, F. E. L. 1915. Food of the robins and bluebirds of the United States. U.S. Dep. Agric. Bull. 171."	y	y	beal papers already entered	
 American Robin	Turdidae	1999	Food Selection And Storage		"Willson, M. F. 1994. Fruit choice by captive American Robins. Condor 96:494-502."	y	n	Need info for this species	
-American Robin	Turdidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Bull. 34:1-96."	y	y	data has not yet been entered	
+American Robin	Turdidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to the fruit industry. U.S. Dep. Agric. Biol. Bull. 34:1-96."	y	y	beal papers already entered	
 Bicknell's Thrush	Turdidae	2001	Metabolism And Temperature Regulation		"Holmes, R. T. and R. H. Sawyer. 1975. Oxygen consumption in relation to ambient temperatures in five species of forest-dwelling thrushes (Hylocichla and Catharus). Comp. Biochem. Physiol. 50:527-531."	y	n		
-Bicknell's Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Wallace, G. J. 1939. Bicknell's Thrush, its taxonomy, distribution, and life history. Proc. Boston Soc. Nat. Hist. 41:211-402."				
+Bicknell's Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Wallace, G. J. 1939. Bicknell's Thrush, its taxonomy, distribution, and life history. Proc. Boston Soc. Nat. Hist. 41:211-402."	n		unavailable	
 Bicknell's Thrush	Turdidae	2001	Feeding	Microhabitat For Foraging	"Dilger, W. C. 1956a. Adaptive modifications and ecological isolating mechanisms in the thrush genera Catharus and Hylocichla. Wilson Bull. 68:171-199."	y	n		
-Bluethroat	Turdidae	2002	Feeding	Food Capture And Consumption	"Cramp, S. 1988. The birds of the Western Palearctic, Vol. 5: tyrant flycatchers to thrushes. Oxford Univ. Press, Oxford, U.K."				
-Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Manuwal, D. A. 1975. The status of the Bluethroat (Luscinia svecica) in North America. Murrelet 56:5-8."				
-Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Bailey, A. M. 1926. A report on the birds of northwestern Alaska and regions adjacent to Bering Strait, part X. Condor 28:165-170."				
-Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Bent, A. C. 1949. Life histories of North American thrushes, kinglets, and their allies. U.S. Natl. Mus. Bull. 196."				
-Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Frazier, A. and V. Nolan. 1959. Communal roosting by the eastern bluebird in winter. Bird-Banding 30:219-226."				
-Eastern Bluebird	Turdidae	1998	Feeding	Food Capture And Consumption	"Preston, F. W. and J. McCormick. 1948. The eyesight of the bluebird. Wilson Bull. 60:120-121."				
+Bluethroat	Turdidae	2002	Feeding	Food Capture And Consumption	"Cramp, S. 1988. The birds of the Western Palearctic, Vol. 5: tyrant flycatchers to thrushes. Oxford Univ. Press, Oxford, U.K."	n		unavailable	
+Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Manuwal, D. A. 1975. The status of the Bluethroat (Luscinia svecica) in North America. Murrelet 56:5-8."	y	n		
+Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Bailey, A. M. 1926. A report on the birds of northwestern Alaska and regions adjacent to Bering Strait, part X. Condor 28:165-170."	y	n		
+Bluethroat	Turdidae	2002	Feeding	Microhabitat For Foraging	"Bent, A. C. 1949. Life histories of North American thrushes, kinglets, and their allies. U.S. Natl. Mus. Bull. 196."	y	n		
+Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Frazier, A. and V. Nolan. 1959. Communal roosting by the eastern bluebird in winter. Bird-Banding 30:219-226."	y	n		
+Eastern Bluebird	Turdidae	1998	Feeding	Food Capture And Consumption	"Preston, F. W. and J. McCormick. 1948. The eyesight of the bluebird. Wilson Bull. 60:120-121."	y	n		
 Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Pinkowski, B. C. 1977c. Foraging behavior of the eastern bluebird. Wilson Bull. 89:404-414."	y	n		
 Eastern Bluebird	Turdidae	1998	Nutrition And Energetics		"Buser, C. S. 1980. A time and energy budget study of the eastern bluebird (Sialia sialis) during the breeding season. Master's Thesis. Rutgers Univ. New Brunswick, NJ."	y	n		
-Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Pinkowski, B. C. 1974f. Predation on a shrew by an eastern bluebird. Wilson Bull. 86:83."				
-Eastern Bluebird	Turdidae	1998	Nutrition And Energetics		"Pinkowski, B. C. 1978a. Feeding of nestling and fledgling eastern bluebirds. Wilson Bull. 90:84-98."				
+Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Pinkowski, B. C. 1974f. Predation on a shrew by an eastern bluebird. Wilson Bull. 86:83."	y	n		
+Eastern Bluebird	Turdidae	1998	Nutrition And Energetics		"Pinkowski, B. C. 1978a. Feeding of nestling and fledgling eastern bluebirds. Wilson Bull. 90:84-98."	y	y	entered	
 Eastern Bluebird	Turdidae	1998	Diet	Quantitative Analysis	"Bent, A. C. 1949. Life histories of North American thrushes, kinglets, and their allies. U.S. Natl. Mus. Bull. 196."				
 Eastern Bluebird	Turdidae	1998	Metabolism And Temperature Regulation		"Droge, D. L., P. A. Gowaty, and W. W. Weathers. 1991. Sex-biased provisioning: a test for differences in field metabolic rates of nestling eastern bluebirds. Condor 93:793-798."				
 Eastern Bluebird	Turdidae	1998	Feeding	Main Foods Taken	"Forbes, S. A. 1903. The food of birds. Bull. Illinois Lab. Nat. Hist. 1:86-162."				
