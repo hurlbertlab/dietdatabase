@@ -345,7 +345,7 @@ of these fields, and how data should be entered. Further instructions about how 
   <tr>
     <td>Study_Type</td>
     <td>The way that diet data were collected. Options include: emetic, fecal examination, stomach contents, 
-	behavioral observation, nest observation. "Stomach contents"
+	behavioral observation, nest observation, throat collar. "Stomach contents"
     implies that the birds were sacrificed and their complete stomach contents were examined.</td>
   </tr>
   <tr>
