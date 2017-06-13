@@ -46,8 +46,8 @@ Note that Families for which I know that data remain to be entered are highlight
 --Sturnidae  
 --Sylviidae  
 --Timaliidae  
---Troglodytidae (refs to check)  
---Turdidae (refs to check)  
+--Troglodytidae  
+--Turdidae (only Hawaiian refs to check)  
 --Tyrannidae  
 --Vireonidae  
 
