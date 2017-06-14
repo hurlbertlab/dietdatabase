@@ -11851,13 +11851,13 @@ Willow Flycatcher	Tyrannidae	2000	Diet	Quantitative Analysis	"Beal, F. E. L. 191
 Willow Flycatcher	Tyrannidae	2000	Diet	Quantitative Analysis	"Mccabe, R. A. 1991. The little green bird. Ecology of the Willow Flycatcher. Rusty Rock Press, Madison, WI."	y	n		
 Willow Flycatcher	Tyrannidae	2000	Diet	Quantitative Analysis	"Wetmore, A. 1972. The birds of the Republic of Panama. Smithson. Misc. Collect. 150, pt. 3:475-479."	y	n		
 Willow Flycatcher	Tyrannidae	2008	Diet	Quantitative Analysis	"Durst, S.L., T.C. Theimer, E.H. Paxton, M.K. Sogge. 2008. Age, Habitat, and Yearly Variation in the Diet of a Generalist Insectivore, The Southwestern Willow Flycatcher. Condor 110 (3): 514-525."	y	y		
-Barn Owl	Tytonidae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."				
-Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Parmalee, P. W. and W. E. Klippel. 1991. Seasonal variation in prey of the Barn Owl (Tyto alba) in Tennessee. J. Tenn. Acad. Sci. 66:219-224."				
-Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"David, P. G. 1996. Nesting and food habits of Barn Owls in south Florida. Fla. Field Nat. 24:93-136."				
-Barn Owl	Tytonidae	1-Jun-05	Nutrition And Energetics		"Johnson, W. D. 1974. The bioenergetics of the Barn Owl, Tyto alba. M. A. thesis. California State Univ. Long Beach."				
-Barn Owl	Tytonidae	1-Jun-05	Feeding	Food Capture And Consumption	"Lenton, G. M. 1984a. The feeding and breeding ecology of Barn Owls Tyto alba in peninsular Malaysia. Ibis 126:551-575."				
-Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"French, T. W. and C. H. Wharton. 1975. Barn Owls as mammal collectors in Georgia, Alabama and South Carolina. Oriole 40:6-10."				
-Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Colvin, B. A. and E. B. McLean. 1986. Food habits and prey specificity of the Common Barn Owl in Ohio. Ohio J. Sci. 86:76-86."				
+Barn Owl	Tytonidae	1998	Feeding	Food Capture And Consumption	"Jaksic, F. M., H. W. Greene, and J. L. Ya????ez. 1981. The guild structure of a community of predatory vertebrates in central Chile. Oecologia 49:21-28."	y	y	study took place in Chile; not entered	
+Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Parmalee, P. W. and W. E. Klippel. 1991. Seasonal variation in prey of the Barn Owl (Tyto alba) in Tennessee. J. Tenn. Acad. Sci. 66:219-224."	y	y	entered	
+Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"David, P. G. 1996. Nesting and food habits of Barn Owls in south Florida. Fla. Field Nat. 24:93-136."	y	y	entered	
+Barn Owl	Tytonidae	1-Jun-05	Nutrition And Energetics		"Johnson, W. D. 1974. The bioenergetics of the Barn Owl, Tyto alba. M. A. thesis. California State Univ. Long Beach."	n		unavailable	
+Barn Owl	Tytonidae	1-Jun-05	Feeding	Food Capture And Consumption	"Lenton, G. M. 1984a. The feeding and breeding ecology of Barn Owls Tyto alba in peninsular Malaysia. Ibis 126:551-575."	y	y	study took place in Malaysia; not entered	
+Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"French, T. W. and C. H. Wharton. 1975. Barn Owls as mammal collectors in Georgia, Alabama and South Carolina. Oriole 40:6-10."	n		unavailable	
+Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Colvin, B. A. and E. B. McLean. 1986. Food habits and prey specificity of the Common Barn Owl in Ohio. Ohio J. Sci. 86:76-86."	y	y	entered	
 Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Byrd, C. L. 1982. Home range, habitat and prey utilization of the Barn Owl in south Texas. M. S. Thesis. Texas A&I Univ. Kingsville, TX."				
 Barn Owl	Tytonidae	1-Jun-05	Nutrition And Energetics		"Marti, C. D. 1973. Food consumption and pellet formation rates in four owl species. Wilson Bull. 85:178-181."				
 Barn Owl	Tytonidae	1-Jun-05	Feeding	Food Capture And Consumption	"Bunn, D. S., A. B. Warburton, and R. D. S. Wilson. 1982. The barn owl. Buteo Books, Vermillion, SD."				
