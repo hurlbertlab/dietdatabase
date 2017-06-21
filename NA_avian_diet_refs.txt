@@ -11883,8 +11883,8 @@ Barn Owl	Tytonidae	1-Jun-05	Metabolism And Temperature Regulation		"Massemin, S.
 Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Vernon, C. J. 1972. An analysis of owl pellets collected in southern Africa. Ostrich 43:109-124."	n		unavailable	
 Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Bellocq, M. I. 2000. A review of the trophic ecology of the Barn Owl in Argentina. J. Raptor Res. 34:108-119."	y	y	study took place in Argentina; not entered	
 Barn Owl	Tytonidae	1-Jun-05	Feeding	Main Foods Taken	"Taylor, I. R. 1994. Barn Owls. Cambridge Univ. Press, Cambridge, UK."	n		unavailable	
-Barn Owl	Tytonidae	1-Jun-05	Diet	Quantitative Analysis	"Errington, P. L. 1932. Food habits of southern Wisconsin raptors. Part 1. owls. Condor 34:176-180."	y	y	will enter	
-Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Fitch, H. S. 1947. Predation by owls in the Sierran foothills of California. Condor 49:137-151."	y	y	will enter	
+Barn Owl	Tytonidae	1-Jun-05	Diet	Quantitative Analysis	"Errington, P. L. 1932. Food habits of southern Wisconsin raptors. Part 1. owls. Condor 34:176-180."	y	y	entered	
+Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Fitch, H. S. 1947. Predation by owls in the Sierran foothills of California. Condor 49:137-151."	y	y	entered	
 Barn Owl	Tytonidae	1-Jun-05	Diet	Major Food Items	"Knight, R. L. and R. E. Jackman. 1984. Food niche relationships between Great Horned Owls and Common Barn Owls in eastern Washington. Auk 101:175-179."	y	y	data already entered	
 Barn Owl	Tytonidae	1-Jun-05	Feeding	Food Capture And Consumption	"Michelat, D. and P. Giraudoux. 1992. Activit???? nocturne et strat????gie de recherche de nourriture par la Chouette effraie (Tyto alba), et partir du site de nidification. Alauda 60:3-8."	n		unavailable	
 Barn Owl	Tytonidae	1-Jun-05	"Drinking, Pellet-Casting, And Defecation"		"Gu????rin, G. 1928. Le vie des Chouettes. R????gime et croissance de l'Effraye Commune (Tyto alba alba Scop.) en Vend????e. P. Lechevalier, Paris."	n		unavailable	
