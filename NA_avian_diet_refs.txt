@@ -11893,7 +11893,7 @@ Barn Owl	Tytonidae	1-Jun-05	Feeding	Food Capture And Consumption	"Knudsen, E. I.
 Barn Owl	Tytonidae	1-Jun-05	Feeding	Food Capture And Consumption	"Konishi, M. 1973. How the owl tracks its prey. Am. Sci. 61:414-424."	y	n		
 Barn Owl	Tytonidae	1-Jun-05	Metabolism And Temperature Regulation		"Edwards, T. C. 1987. Standard rate of metabolism in the Common Barn Owl (Tyto alba). Wilson Bull. 99:704-706."	y	n		
 Barn Owl	Tytonidae	1-Jun-05	Metabolism And Temperature Regulation		"Handrich, Y. and S. Massemin. 1997. Higher winter mortality of the Barn Owl compared to the Long-eared Owl and the Tawny Owl: influence of lipid reserves and insulation? Condor 99:969-971."	y	n		
-Barn Owl	Tytonidae	1-Jun-05	Nutrition And Energetics		"Evans, F. C. and J. T. Emlen. 1947. Ecological notes on the prey selected by a Barn Owl. Condor 49:3-9."	y	y	will enter	
+Barn Owl	Tytonidae	1-Jun-05	Nutrition And Energetics		"Evans, F. C. and J. T. Emlen. 1947. Ecological notes on the prey selected by a Barn Owl. Condor 49:3-9."	y	y	entered	
 Barn Owl	Tytonidae	1-Jun-05	Diet	Quantitative Analysis	"Cramp, S. 1985. The birds of the western Palearctic. Vol. 4. Oxford Univ. Press, Oxford."	n		unavailable	
 Barn Owl	Tytonidae	1-Jun-05	Metabolism And Temperature Regulation		"Mccafferty, D. J., J. B. Montcrieff, and I. R. Taylor. 2001. How much energy do Barn Owls (Tyto alba) save by roosting? J. Thermal Biol. 26:193-203."	y	n		
 Barn Owl	Tytonidae	1-Jun-05	Metabolism And Temperature Regulation		"Handrich, Y., L. Nicolas, and Y. Le Maho. 1993b. Winter starvation in captive Common Barn-Owls: physiological states and reversible limits. Auk 110:458-469."	y	n		
