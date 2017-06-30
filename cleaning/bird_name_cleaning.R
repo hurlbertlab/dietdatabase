@@ -1,6 +1,7 @@
 # Cleaning bird taxonomic names to be in line with the eBird Clements 2016 checklist.
 
 library(dplyr)
+library(stringr)
 
 #-------------------------------------------------------------------------------------------                               
 # Make sure to grab the most recent eBird table in the directory
