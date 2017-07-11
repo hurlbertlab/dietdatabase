@@ -132,7 +132,7 @@ speciesSummary = function(commonName, by = 'Order') {
   
   analysesPerDietType = dietsp %>%
     select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
-           Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type, Study_Type) %>%
+           Bird_Sample_Size, Habitat_type, Location_Region, Location_Specific, Item_Sample_Size, Diet_Type, Study_Type) %>%
     distinct() %>%
     count(Diet_Type)
   
