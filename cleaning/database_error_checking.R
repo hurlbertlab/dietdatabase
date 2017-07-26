@@ -4,6 +4,9 @@ library(dplyr)
 library(tidyr)
 library(taxize)
 
+diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                  fill=T, stringsAsFactors = F)
+
 # Error checking -- quantitative valeus
 # Checks for outliers that should be double-checked and/or fixed
 out = outlierCheck(diet)
