@@ -706,6 +706,17 @@ for (i in 1:nrow(parts)) {
 }
 
 
+# 1 August 20187; Allen Hurlbert
+
+# Trim trailing and leading whitespace in every column
+for (i in 1:ncol(diet)) {
+  diet[,i] = trimws(diet[,i])
+}
+
+clean_spp = clean_names('Scientific_Name', diet, all = TRUE)
+
+
+
 
 # 
 #----------------------------------------------------------------------
