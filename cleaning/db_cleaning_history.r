@@ -713,7 +713,7 @@ for (i in 1:ncol(diet)) {
   diet[,i] = trimws(diet[,i])
 }
 
-clean_spp = clean_names('Scientific_Name', diet, all = TRUE)
+clean_spp = clean_names('Scientific_Name', diet, all = TRUE, write = FALSE)
 
 
 
