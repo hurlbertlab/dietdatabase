@@ -4,6 +4,9 @@ library(dplyr)
 library(tidyr)
 library(taxize)
 
+source('scripts/database_summary_functions.R')
+
+
 diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
                   fill=T, stringsAsFactors = F)
 
