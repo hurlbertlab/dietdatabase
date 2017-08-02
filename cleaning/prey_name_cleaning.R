@@ -130,7 +130,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
       # If the name matches, but has been assigned the wrong rank, add to problemNames
       
       if (preyTaxonLevel == 'Phylum' & 
-          (hierarchy$name[1] %in% c('Plantae', 'Chromista'))) {
+          (hierarchy$name[1] %in% c('Plantae', 'Chromista', 'Fungi'))) {
         focalrank = 'division'
       } else if (preyTaxonLevel == 'Scientific_Name') {
         focalrank = 'species'
