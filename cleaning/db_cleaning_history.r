@@ -749,6 +749,14 @@ badnames = rbind(clean_spp$badnames, clean_gen$badnames, clean_fam$badnames,
                  clean_ord$badnames, clean_cla$badnames, clean_phy$badnames)
 write.table(badnames, 'cleaning/problem_names.txt', sep = '\t', row.names = F)
 
+# This file was subsequently merged manually with info in cleaning/phy_cla_ord_fam_gen_spp_cleaning.txt
+# from March 2017.
+
+# Still need to find good names for (mostly) Scientific_Name level, then replace
+# as above, and then try re-running name cleaning script until all Prey_Name_Status
+# records have ITIS taxon id.
+
+
 # Manually fill in ITIS taxon id's for kingdoms where lower taxon levels are not provided
 diet7$Prey_Name_Status[diet7$Prey_Phylum
                          ]
