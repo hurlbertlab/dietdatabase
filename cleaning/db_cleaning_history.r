@@ -475,25 +475,25 @@ clean_phy = clean_names('Phylum')
 
 # ITIS options when multiple names match:
 # Chlorophyta: 1 (5414)
+# Foraminifera: NA (should be Kingdom Protozoa -> Phylum Protozoa -> Class Granuloreticulosea -> Order Foraminiferida)
 
 clean_cl = clean_names('Class', diet = clean_phy$diet, problemNames = clean_phy$badnames)
 
 # ITIS options when multiple names match:
-# Clitellata: 2 (914165)
-# Oligochaeta: 3 (914193)
+# Clitellata: 2 (568832)
+# Oligochaeta: NA (should be Clitellata)
 # Collembola: 2( 914185)
-# Polychaeta: 15 (914166)
+# Polychaeta: 16 (64358)
 
 clean_or = clean_names('Order', diet = clean_cl$diet, problemNames = clean_cl$badnames)
 
 # ITIS options when multiple names match:
 # Chelonia: NA (not an Order, should be Testudines)
-# Oligochaeta: 3 (914193)
+# Collembola: 1 (99237)
+# Oligochaeta: NA (should be Clitellata)
 # Scorpionida: NA (should be Scorpiones)
 # Mantodea: 2 (914220)
 # Aranae: NA (should be Araneae)
-# Lepidoptera : NA (remove trailing space)
-# Acarina : NA (remove trailing space)
 # Other: NA
 
 clean_fa = clean_names('Family', diet = clean_or$diet, problemNames = clean_or$badnames)
@@ -581,12 +581,13 @@ clean_ge = clean_names('Genus', diet = clean_fa$diet)
 # Tettix: NA (should be Tetrix)
 # Pteromalus: NA (should be Eupteromalus)
 # Hemiteles: 3 (153373)
+# Mesostenus: NA (Family should be Ichneumonidae, no ITIS match)
 # Elater: NA (Family should be Elateridae, no ITIS match)
 # Tortrix: NA (Family should be Tortricidae, no ITIS match)
 # Callitriche: 2 (32051)
 # Griselinia: NA (Family should be Griseliniaceae, no ITIS match)
 # Ceratophallus: NA (Family should be Planorbidae, no ITIS match)
-# Tridens: 101 (42220)
+# Tridens: NA (42220)
 # Xanthocnemis: NA (Family should be Coenagrionidae, no ITIS match)
 # Gilia: 98 (31075)
 # Chrysochlamys: NA (Family should be Clusiaceae, no ITIS match)
@@ -596,6 +597,12 @@ clean_ge = clean_names('Genus', diet = clean_fa$diet)
 # Bassia: 2 (20586)
 # Sphaerium: 19 (81391)
 # Citronella: NA (Family should be Cardiopteridaceae, no ITIS match)
+# Ostoma: NA (Order Coleoptera, Family Trogossitidae, no ITIS match)
+# Helops: NA (Order Coleoptera, Family Tenebrionidae, no ITIS match)
+# Dyslobus: NA (should be Lepesoma, 616900)
+# Psylla: NA (Suborder should be Sternorrhyncha, Family should be Psyllidae, no ITIS match)
+# Tolype: NA (Order Lepidoptera, Family Lasiocampidae, no ITIS match)
+
 
 write.table(clean_ge$diet, 'cleaning/phy_cla_ord_fam_gen_cleaned_db.txt', 
             sep = '\t', row.names = F)
@@ -714,9 +721,37 @@ for (i in 1:ncol(diet)) {
 }
 
 clean_spp = clean_names('Scientific_Name', diet, all = TRUE, write = FALSE)
+diet2 = clean_spp$diet
+badnames_spp = clean_spp$badnames
+write.table(clean_spp$diet, 'ADD_clean_spp.txt', sep = '\t', row.names = F)
 
+clean_gen = clean_names('Genus', diet2, all = TRUE, write = FALSE)
+diet3 = clean_gen$diet
+write.table(diet3, 'ADD_clean_spp_gen.txt', sep = '\t', row.names = F)
 
+clean_fam = clean_names('Family', diet3, all = TRUE, write = FALSE)
+diet4 = clean_fam$diet
+write.table(diet4, 'ADD_clean_spp_gen_fam.txt', sep = '\t', row.names = F)
 
+clean_ord = clean_names('Order', diet4, all = TRUE, write = FALSE)
+diet5 = clean_ord$diet
+write.table(diet5, 'ADD_clean_spp_gen_fam_ord.txt', sep = '\t', row.names = F)
+
+clean_cla = clean_names('Class', diet5, all = TRUE, write = FALSE)
+diet6 = clean_cla$diet
+write.table(diet6, 'ADD_clean_spp_gen_fam_ord_cla.txt', sep = '\t', row.names = F)
+
+clean_phy = clean_names('Phylum', diet6, all = TRUE, write = FALSE)
+diet7 = clean_phy$diet
+write.table(diet7, 'ADD_clean_spp_gen_fam_ord_cla_phy.txt', sep = '\t', row.names = F)
+
+badnames = rbind(clean_spp$badnames, clean_gen$badnames, clean_fam$badnames,
+                 clean_ord$badnames, clean_cla$badnames, clean_phy$badnames)
+write.table(badnames, 'cleaning/problem_names.txt', sep = '\t', row.names = F)
+
+# Manually fill in ITIS taxon id's for kingdoms where lower taxon levels are not provided
+diet7$Prey_Name_Status[diet7$Prey_Phylum
+                         ]
 
 # 
 #----------------------------------------------------------------------

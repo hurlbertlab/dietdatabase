@@ -1,0 +1,1055 @@
+level	name	condition
+Scientific_Name	Phalacrocorax olivaceous	unmatched
+Scientific_Name	Ameriurus nebulosus	unmatched
+Scientific_Name	Gallus domesticus	unmatched
+Scientific_Name	Lepus amerianus	unmatched
+Scientific_Name	Leucophaeus articilla	unmatched
+Scientific_Name	Tringa melanoleucus	unmatched
+Scientific_Name	Cyprinus cypio	unmatched
+Scientific_Name	Felis domesticus	unmatched
+Scientific_Name	Hypoglossoides elassodon	unmatched
+Scientific_Name	Felis domestica	unmatched
+Scientific_Name	Colaptes auratu	wrong rank; too high
+Scientific_Name	Odocoileus rafinesque	unmatched
+Scientific_Name	Branta canadenses	unmatched
+Scientific_Name	Microtus amakensis	unmatched
+Scientific_Name	Lagopus rupestris	unmatched
+Scientific_Name	Uria aalgae	unmatched
+Scientific_Name	Oncorhynchus clarki	unmatched
+Scientific_Name	Thomomys talpoide	wrong rank; too high
+Scientific_Name	Alosa psedoharengus	unmatched
+Scientific_Name	Loligo pealei	wrong rank; too high
+Scientific_Name	Canis famiiliaris	unmatched
+Scientific_Name	Abrocoma bennetti	wrong rank; too high
+Scientific_Name	Oryzomys longicaudatus	wrong rank; too high
+Scientific_Name	Pipilo erythrophthalamus	unmatched
+Scientific_Name	Tamias hudsonicus	unmatched
+Scientific_Name	Corydalus cornuta	unmatched
+Scientific_Name	Sceloporus jarrovi	wrong rank; too high
+Scientific_Name	Sayornis pheobe	unmatched
+Scientific_Name	Catharus fuscesens	unmatched
+Scientific_Name	Richmondena cardinalis	unmatched
+Scientific_Name	Citellus tridecemlineatus	unmatched
+Scientific_Name	Eutamias bulleri	unmatched
+Scientific_Name	Dryobates scalaris	unmatched
+Scientific_Name	Dumetella carolinesis	unmatched
+Scientific_Name	Neotamias townsendii	unmatched
+Scientific_Name	Phrynosoma douglassi	wrong rank; too high
+Scientific_Name	Dipodomys ord	wrong rank; too high
+Scientific_Name	Lepus californicu	wrong rank; too high
+Scientific_Name	Sylvilagus nuttali	unmatched
+Scientific_Name	Eremophila alpestri	unmatched
+Scientific_Name	Athene cuniculari	wrong rank; too high
+Scientific_Name	Pituophis melanoleucu	wrong rank; too high
+Scientific_Name	Urocitellus richarsonii	unmatched
+Scientific_Name	Lepus townsendi	wrong rank; too high
+Scientific_Name	Zenaidura macroura	unmatched
+Scientific_Name	Colaptes cafer	unmatched
+Scientific_Name	Ondatra zibethicu	wrong rank; too high
+Scientific_Name	Sylvilagus nuttall	wrong rank; too high
+Scientific_Name	Corvus brachyrhync	wrong rank; too high
+Scientific_Name	Equus ferus caballus	unmatched
+Scientific_Name	Lepomis  gibbosus	unmatched
+Scientific_Name	Marmosa elegans	unmatched
+Scientific_Name	Pantherophis obsoletus	unmatched
+Scientific_Name	Plestiodon brevirostris	unmatched
+Scientific_Name	Gallus gallus domesticus	unmatched
+Scientific_Name	Anas platyrhynchos domesticus	unmatched
+Scientific_Name	Tyrannus verticalus	unmatched
+Scientific_Name	Aspidoscelis tigris	unmatched
+Scientific_Name	Oreothlypis celata	unmatched
+Scientific_Name	Coccothraustes vespertinaus	unmatched
+Scientific_Name	Plestiodon gilberti	unmatched
+Scientific_Name	Zea mays?	unmatched
+Scientific_Name	Fagopyrum esculentum Moensch	unmatched
+Scientific_Name	Ambrosia artemsiifolia	unmatched
+Scientific_Name	Bistorta vivpara	unmatched
+Scientific_Name	Termopsis augusticollis	unmatched
+Scientific_Name	"Aphodius fimetarius, eleutus"	unmatched
+Scientific_Name	Helobia punctipennis	unmatched
+Scientific_Name	Scatophaga furcata	unmatched
+Scientific_Name	Cercyon fulvipennis	unmatched
+Scientific_Name	Microbregma emarginatum granicolle	wrong rank; too high
+Scientific_Name	Serropalpus barbatus	unmatched
+Scientific_Name	Sapromyza luteola	unmatched
+Scientific_Name	Dichrochira glabricula	unmatched
+Scientific_Name	Aphodius distinctus	unmatched
+Scientific_Name	Tegenaria derhami	unmatched
+Scientific_Name	Kali tragus	unmatched
+Scientific_Name	Ischaemum rugosum; Oryza latifolia; Rottboellia cochinchinensis	unmatched
+Scientific_Name	Pennisetum glaucum	unmatched
+Scientific_Name	Echinochloa crus-gall	wrong rank; too high
+Scientific_Name	Lepomis	wrong rank; too low
+Scientific_Name	Rhamnus purshianus	unmatched
+Scientific_Name	Prunus domesticus	unmatched
+Scientific_Name	Quercus agrifolia garryana	unmatched
+Scientific_Name	Quercus agrifolia kelloggi	unmatched
+Scientific_Name	Quercus agrifolia wislizenii	unmatched
+Scientific_Name	Quercus agrifolia emoryii	unmatched
+Scientific_Name	Quercus agrifolia hypoleuca	unmatched
+Scientific_Name	Cornus nuttalli	wrong rank; too high
+Scientific_Name	Veronica texana	unmatched
+Scientific_Name	Brassicaceae sinapis	unmatched
+Scientific_Name	Gallium	unmatched
+Scientific_Name	Phytolaca americana	unmatched
+Scientific_Name	Abutilon molle	unmatched
+Scientific_Name	Syzygium Cumini	wrong rank; too high
+Scientific_Name	Paspalum Urvillei	wrong rank; too high
+Scientific_Name	Wikstroemia phillyraefolia	unmatched
+Scientific_Name	Xanthium saccharotum	unmatched
+Scientific_Name	Cirphis unipuncta	unmatched
+Scientific_Name	Megacerus alternatus	unmatched
+Scientific_Name	Momordica Balsamina	wrong rank; too high
+Scientific_Name	Cajanus Cajan	wrong rank; too high
+Scientific_Name	Lantana Camara	wrong rank; too high
+Scientific_Name	Siegesbeckia orientalis	unmatched
+Scientific_Name	Cassia Leschenaultiana	wrong rank; too high
+Scientific_Name	Chenopodium oachuense	unmatched
+Scientific_Name	Psidium Guajava	wrong rank; too high
+Scientific_Name	Styphelia Tameiameiae	wrong rank; too high
+Scientific_Name	Panicum texanum	unmatched
+Scientific_Name	Panicum reptans	unmatched
+Scientific_Name	Zizyphus obtusifolia	unmatched
+Scientific_Name	Melanoplus femur-rubrum	unmatched
+Scientific_Name	Pheuticus melanocephalus	unmatched
+Scientific_Name	Mustela ermina	unmatched
+Scientific_Name	Reithrodontymys megalotis	unmatched
+Scientific_Name	Marmota flavaventris	unmatched
+Scientific_Name	Carex D	unmatched
+Scientific_Name	Carex F	unmatched
+Scientific_Name	Carex J	unmatched
+Scientific_Name	Carex K	unmatched
+Scientific_Name	Carex I	unmatched
+Scientific_Name	Carex E	unmatched
+Scientific_Name	Avena fatua?	unmatched
+Scientific_Name	Inula Helenium	wrong rank; too high
+Scientific_Name	Mercurialis perennis	unmatched
+Scientific_Name	Pinus viginiana	unmatched
+Scientific_Name	Entylia concisa	unmatched
+Scientific_Name	Micrutalis calva	unmatched
+Scientific_Name	Micrutalis parva	unmatched
+Scientific_Name	Tetigonia hieroglyphica	unmatched
+Scientific_Name	Cicadula 6-punctata	unmatched
+Scientific_Name	Tylopelta brevis	unmatched
+Scientific_Name	Bembidium versicolor	unmatched
+Scientific_Name	Tachys tripunctata	unmatched
+Scientific_Name	Agonoderus pallipes	unmatched
+Scientific_Name	Hydrochus subcupreus?	unmatched
+Scientific_Name	Cercyon melanocephalum	unmatched
+Scientific_Name	Heterothops fasculus	unmatched
+Scientific_Name	Xantholinus obsidianus	unmatched
+Scientific_Name	Cilea silphoides	unmatched
+Scientific_Name	Stilbus apicalis	unmatched
+Scientific_Name	Typhaea fumata	unmatched
+Scientific_Name	Hister?americanus	unmatched
+Scientific_Name	Hister subrotundus	unmatched
+Scientific_Name	Saprinus scissus	unmatched
+Scientific_Name	Saprinus lubricus	wrong rank; too high
+Scientific_Name	Saprinus sphaeriodes	unmatched
+Scientific_Name	Cryptarcha strigata	unmatched
+Scientific_Name	Melanopthalma	unmatched
+Scientific_Name	Hyperoides choris	unmatched
+Scientific_Name	Drapetes geminatus	unmatched
+Scientific_Name	Oxyomus poreatus	unmatched
+Scientific_Name	Aphodius vittatus	unmatched
+Scientific_Name	Aphodius punctatus	unmatched
+Scientific_Name	Aphodius stercorosus	unmatched
+Scientific_Name	Metachroma aeneicolle	unmatched
+Scientific_Name	Crepidodera helxines	unmatched
+Scientific_Name	Thecesternus humeralis?	unmatched
+Scientific_Name	Sitona flavescens	unmatched
+Scientific_Name	Apion metallicum	unmatched
+Scientific_Name	Phytonomus posticus	unmatched
+Scientific_Name	Conotrachelus nenuphar?	unmatched
+Scientific_Name	Cryptorhynchus bisignatus	unmatched
+Scientific_Name	Hypocoeliodes wickhami?	unmatched
+Scientific_Name	Coeliodes acephalus	unmatched
+Scientific_Name	Limnobaris blandita	unmatched
+Scientific_Name	Rhinoncus longulus	unmatched
+Scientific_Name	Centrinus picumnus	unmatched
+Scientific_Name	Calandra oryza	unmatched
+Scientific_Name	Pityophthorus minutissimus	wrong rank; too high
+Scientific_Name	Tomicus calligraphicus	unmatched
+Scientific_Name	Brachytarsus plumbeus	unmatched
+Scientific_Name	Stictocephala festiva	unmatched
+Scientific_Name	Agallia 4-punctata	unmatched
+Scientific_Name	Nezara hilaris	unmatched
+Scientific_Name	Elaphrus ruscarius?	unmatched
+Scientific_Name	Poecilus lucublandus?	unmatched
+Scientific_Name	Poecilus scitulus?	unmatched
+Scientific_Name	Anisodactylus baltimorensis	unmatched
+Scientific_Name	Tropisternus limbalis	unmatched
+Scientific_Name	Philhydrus hamiltoni	unmatched
+Scientific_Name	Philonthus varians	unmatched
+Scientific_Name	Philonthus lomatus	unmatched
+Scientific_Name	Tachyporus californicus	unmatched
+Scientific_Name	ColeoColeomegilla maculata	unmatched
+Scientific_Name	Hippodamia ambigua	unmatched
+Scientific_Name	Hippodamia 15-maculata	unmatched
+Scientific_Name	Hippodamia 13-punctata	unmatched
+Scientific_Name	Cycloneda californica	unmatched
+Scientific_Name	Scymnus?collaris	unmatched
+Scientific_Name	Scymnus partibus	unmatched
+Scientific_Name	Dermestes mannerheimii	unmatched
+Scientific_Name	Hister?sellatus	unmatched
+Scientific_Name	Hister interruptus	unmatched
+Scientific_Name	Hister americanus	unmatched
+Scientific_Name	Pachylophus aeneipunctatus	unmatched
+Scientific_Name	Melanophthalmus gibbosus	unmatched
+Scientific_Name	Dryops striata	unmatched
+Scientific_Name	Otophorus vittatus	unmatched
+Scientific_Name	Typophorus nigritus?	unmatched
+Scientific_Name	Typophorus sellatus	unmatched
+Scientific_Name	Plagiodera prasinella	unmatched
+Scientific_Name	Gastrophysa viridula	unmatched
+Scientific_Name	Lina scripta	unmatched
+Scientific_Name	Diabrotica 12-punctata	unmatched
+Scientific_Name	Diabrotica soror	unmatched
+Scientific_Name	Epitrix parvula	unmatched
+Scientific_Name	Psylliodes punctulata	unmatched
+Scientific_Name	Apion vespertinum	unmatched
+Scientific_Name	Apion cavifrons	unmatched
+Scientific_Name	Sphenophorus placidus	unmatched
+Scientific_Name	Tomicus pini	unmatched
+Scientific_Name	Brachytarsus variegatus	unmatched
+Scientific_Name	Apis mellifera?	unmatched
+Scientific_Name	Oncometopia orbona	unmatched
+Scientific_Name	Olophrum obtectum	unmatched
+Scientific_Name	Saprinus rotundatus	unmatched
+Scientific_Name	Aphodius inquinatus	unmatched
+Scientific_Name	Cerotoma caminea	unmatched
+Scientific_Name	Galerucella sagittaria	unmatched
+Scientific_Name	Crepidodera velutinus	unmatched
+Scientific_Name	Rhipiphorus dimidiatus	unmatched
+Scientific_Name	Orchestes vittata	unmatched
+Scientific_Name	Tomicus calligraphus	unmatched
+Scientific_Name	Tomicus cacographus	unmatched
+Scientific_Name	Solubea pugnax	unmatched
+Scientific_Name	Podisus subspinosus	unmatched
+Scientific_Name	Rhantus bistriatus?	unmatched
+Scientific_Name	Creophilus villosus	unmatched
+Scientific_Name	Cercyon ocellatus	unmatched
+Scientific_Name	Tenebroides viridescens	unmatched
+Scientific_Name	Typophorus vitallis	unmatched
+Scientific_Name	Xyleborus impressus	unmatched
+Scientific_Name	Chramesus icoriae	unmatched
+Scientific_Name	Tiphia inornata	unmatched
+Scientific_Name	Ichneumon irritator	unmatched
+Scientific_Name	Juniperus virginiana?	unmatched
+Scientific_Name	Platynus variolatus	unmatched
+Scientific_Name	Casnonia pennsylvanica	unmatched
+Scientific_Name	Cnemidotus 12-punctatus	unmatched
+Scientific_Name	Hister?	unmatched
+Scientific_Name	Saprinus pennsylvanicus	unmatched
+Scientific_Name	Omosita colon?	unmatched
+Scientific_Name	Drasterius elegans	unmatched
+Scientific_Name	Haltica foliacea	unmatched
+Scientific_Name	Phyllotreta sinuata	unmatched
+Scientific_Name	Apion porcatus	unmatched
+Scientific_Name	Idiocerus duzei	unmatched
+Scientific_Name	Bradycellus ruprestis	unmatched
+Scientific_Name	Aleochara	wrong rank; too low
+Scientific_Name	Heliothis obsoleta	unmatched
+Scientific_Name	Polygonum glabrum	unmatched
+Scientific_Name	Lumbricus	wrong rank; too low
+Scientific_Name	Plestiodon inexpectatus	unmatched
+Scientific_Name	Sphaerobius quadristriatus	unmatched
+Scientific_Name	Oncometopia lateralis	unmatched
+Scientific_Name	Helochara communis	unmatched
+Scientific_Name	Draeculacephala mollipes	unmatched
+Scientific_Name	Xerophloea viridis	unmatched
+Scientific_Name	Tachys incurvus	unmatched
+Scientific_Name	Enochrus nebulosus	unmatched
+Scientific_Name	Oxytelus fuscipennis	unmatched
+Scientific_Name	Lacon rectangularis	unmatched
+Scientific_Name	Monocrepidius vespertinus	unmatched
+Scientific_Name	Aphodius fossor	unmatched
+Scientific_Name	Ataenius figurator	unmatched
+Scientific_Name	Phaedon prasinella	unmatched
+Scientific_Name	Systena taeniata	unmatched
+Scientific_Name	phyxelis rigidus	wrong rank; too high
+Scientific_Name	Sitona californicus	unmatched
+Scientific_Name	Maemactes cribratus	unmatched
+Scientific_Name	Chelonus fissus	unmatched
+Scientific_Name	Collops quadrimaculatus	unmatched
+Scientific_Name	Graphops beryllinus	unmatched
+Scientific_Name	Iva axillaris?	unmatched
+Scientific_Name	Lolium perenne?	unmatched
+Scientific_Name	Poa annua?	unmatched
+Scientific_Name	Acaciella angustissima	unmatched
+Scientific_Name	Erythroneura comes	unmatched
+Scientific_Name	Aphis maidis	unmatched
+Scientific_Name	Rhinosimus pallipes	unmatched
+Scientific_Name	Rhamnus californicus	unmatched
+Scientific_Name	Zonotrichia abicollis	unmatched
+Scientific_Name	Microtus epiroticus	unmatched
+Scientific_Name	Oreothlypis peregrina	unmatched
+Scientific_Name	Gastrophryne olivarea	unmatched
+Scientific_Name	Cnemidophorus sexlineanius	unmatched
+Scientific_Name	Phrynosoma conutum	unmatched
+Scientific_Name	Neotamias amoenus	unmatched
+Scientific_Name	Mustela rixosa	unmatched
+Scientific_Name	Rana slyvatica	unmatched
+Scientific_Name	perdix perdix	wrong rank; too high
+Scientific_Name	Columba livia domestica	unmatched
+Scientific_Name	Sylvilagus auduboni	wrong rank; too high
+Scientific_Name	Citellus beecheyi	unmatched
+Scientific_Name	Nycteris borealis	unmatched
+Scientific_Name	Balanosphyra formicivora	unmatched
+Scientific_Name	Junco oreganus	unmatched
+Scientific_Name	Coluber lateralis	unmatched
+Scientific_Name	Gallus Gallus	wrong rank; too high
+Scientific_Name	Nysius ericae	unmatched
+Scientific_Name	Pimpla marginata	unmatched
+Scientific_Name	Cychrus lecontei	unmatched
+Scientific_Name	Cychrus obliquus	unmatched
+Scientific_Name	Dyschirius basalis	unmatched
+Scientific_Name	Podabrus aterrimus	unmatched
+Scientific_Name	Pterostichus morio	wrong rank; too high
+Scientific_Name	Evarthrus sodalis	unmatched
+Scientific_Name	Platynus limbatus	unmatched
+Scientific_Name	Platynus aeneolus	unmatched
+Scientific_Name	Agonoderus lineola	unmatched
+Scientific_Name	Cnemidotus callosus	unmatched
+Scientific_Name	Hydrocharis obtusatus	unmatched
+Scientific_Name	Silpha lapponica	unmatched
+Scientific_Name	Silpha ramosa	wrong rank; too high
+Scientific_Name	Staphylinus vulpinus	unmatched
+Scientific_Name	Philonthus fusiformis	unmatched
+Scientific_Name	Philonthus occidentalis	unmatched
+Scientific_Name	Leptacinus grandiceps	unmatched
+Scientific_Name	Coccinella 9-notata	unmatched
+Scientific_Name	Chilocorus bivulnerus	unmatched
+Scientific_Name	Hister sellatus	unmatched
+Scientific_Name	Hister harrisi	unmatched
+Scientific_Name	Hister immunis	unmatched
+Scientific_Name	Hister 16-striatus	unmatched
+Scientific_Name	Hister 17-striatus	unmatched
+Scientific_Name	Ips fasciatus	unmatched
+Scientific_Name	Cytilus sericeus	unmatched
+Scientific_Name	Byrrhus murinus	unmatched
+Scientific_Name	Monocrepidius auritus	unmatched
+Scientific_Name	Monocrepidius bellus	unmatched
+Scientific_Name	Drasterius livens	unmatched
+Scientific_Name	Dalopius marginatus	unmatched
+Scientific_Name	Melanotus cribricollis	unmatched
+Scientific_Name	Corymbites cylidricollis	unmatched
+Scientific_Name	Telephorus bilineatus	unmatched
+Scientific_Name	Copris minuta	unmatched
+Scientific_Name	Aphodius fimentarius	unmatched
+Scientific_Name	Aphodius ruricola	unmatched
+Scientific_Name	Aphodius serval	unmatched
+Scientific_Name	Aphodius pardalis	unmatched
+Scientific_Name	Aphodius anthracinus	unmatched
+Scientific_Name	Aphodius robustus	unmatched
+Scientific_Name	Aphodius alternatus	unmatched
+Scientific_Name	Bolboceras farctus	unmatched
+Scientific_Name	Odontaeus filicornis	unmatched
+Scientific_Name	Lachnosterna tristis	unmatched
+Scientific_Name	Chlamys plicata	unmatched
+Scientific_Name	Pachybrachys hepatica	unmatched
+Scientific_Name	Typophorus canellus	unmatched
+Scientific_Name	Graphops nebulosus	unmatched
+Scientific_Name	Leptinotarsa 10-lineata	unmatched
+Scientific_Name	Calligrapha similis	unmatched
+Scientific_Name	Plagiodera viridis	unmatched
+Scientific_Name	Galerucella americana	unmatched
+Scientific_Name	Diabrotica vittata	unmatched
+Scientific_Name	Oedionychis interjectionis	unmatched
+Scientific_Name	Disonycha crenicollis	unmatched
+Scientific_Name	Haltica fuscoaenea	unmatched
+Scientific_Name	Haltica tombacina	unmatched
+Scientific_Name	Cassida bivittata	unmatched
+Scientific_Name	Epitragus canaliculatus	unmatched
+Scientific_Name	Blapstinus abbreviatus	unmatched
+Scientific_Name	Blapstinus pratensis	unmatched
+Scientific_Name	Notoxus hepaticus	unmatched
+Scientific_Name	Amnesia sordida	unmatched
+Scientific_Name	Mylacus soccatus	unmatched
+Scientific_Name	Geoderces melanothrix	unmatched
+Scientific_Name	Sitones lineellus	unmatched
+Scientific_Name	Sitones californicus	unmatched
+Scientific_Name	Sitones flavescens	unmatched
+Scientific_Name	Sitones hispidulus	unmatched
+Scientific_Name	Sitones binellus	unmatched
+Scientific_Name	Phytonomus punctatus	unmatched
+Scientific_Name	Phytonomus nigrirostris	unmatched
+Scientific_Name	Cleonus 4-lineatus	unmatched
+Scientific_Name	Tyloderma angustatum	unmatched
+Scientific_Name	Bibio albipennis	unmatched
+Scientific_Name	Mamestra subjuncta	unmatched
+Scientific_Name	Heliophila unipuncta	unmatched
+Scientific_Name	Carpocapsa pomonella	unmatched
+Scientific_Name	Tibicen septendecim	unmatched
+Scientific_Name	Draeculacephala reticulata	unmatched
+Scientific_Name	Corizus nigristernum	unmatched
+Scientific_Name	Tettigidea lateralis polymorpha	unmatched
+Scientific_Name	Helix mobileana	unmatched
+Scientific_Name	Melampus bidentata	unmatched
+Scientific_Name	Sabal serrulata	unmatched
+Scientific_Name	Juniperus monospermum	unmatched
+Scientific_Name	Myrica carolinensis	unmatched
+Scientific_Name	Benzoin benzoin	unmatched
+Scientific_Name	Pyrus americana	unmatched
+Scientific_Name	Crataegus oxycantha	unmatched
+Scientific_Name	Prunus pennsylvanica	unmatched
+Scientific_Name	Melia azederach	unmatched
+Scientific_Name	Evonymus americana	unmatched
+Scientific_Name	Celastrus scandenus	unmatched
+Scientific_Name	Berchemia volubilis	unmatched
+Scientific_Name	Vitis labrusea	unmatched
+Scientific_Name	Cornus alterniflora	unmatched
+Scientific_Name	Diospyros viginiana	unmatched
+Scientific_Name	Ribes satirum	unmatched
+Scientific_Name	prunus pennsylvanicus	unmatched
+Scientific_Name	Cicindela graminea	unmatched
+Scientific_Name	Dyschirius aeneus	unmatched
+Scientific_Name	Bembidium maculatum	unmatched
+Scientific_Name	Amara elongata	unmatched
+Scientific_Name	Amara basilaris	unmatched
+Scientific_Name	Platynus punctiformis	unmatched
+Scientific_Name	Harpalus viridiaenus	unmatched
+Scientific_Name	Harpalus pennylvanicus	unmatched
+Scientific_Name	Anisodactylus?rusticus	unmatched
+Scientific_Name	Scaphisoma punctulata	unmatched
+Scientific_Name	Anatis 15-punctulata	unmatched
+Scientific_Name	Saprinus fraternus	unmatched
+Scientific_Name	Corymbites cylidriformis	unmatched
+Scientific_Name	Limonius griseus	unmatched
+Scientific_Name	Aphodius granarius	unmatched
+Scientific_Name	Geotrupes splendidus	unmatched
+Scientific_Name	Anomala varians	unmatched
+Scientific_Name	Ligyrus gibbosus	unmatched
+Scientific_Name	Tetraopes tetraophthlamus	unmatched
+Scientific_Name	Colaspis brunnea flavida	unmatched
+Scientific_Name	Haltica chalybea	unmatched
+Scientific_Name	Spermophagus robiniae	unmatched
+Scientific_Name	Tribolium ferrugineum	unmatched
+Scientific_Name	Crymodes discicollis	unmatched
+Scientific_Name	Tanymecus lancaena	unmatched
+Scientific_Name	Macrops vitticollis	unmatched
+Scientific_Name	Balaninus caryatrypes	unmatched
+Scientific_Name	Balaninus nasicus	unmatched
+Scientific_Name	Rhodobaenus 13-punctatus	unmatched
+Scientific_Name	Gonia capitata	unmatched
+Scientific_Name	Hyperchiria io	unmatched
+Scientific_Name	Spilosoma virginiea	unmatched
+Scientific_Name	Nephelodes violans	unmatched
+Scientific_Name	Cydnus communis	unmatched
+Scientific_Name	Apateticus maculiventris	unmatched
+Scientific_Name	Corixa burmeisteri	unmatched
+Scientific_Name	Hippiscus tuberculatus	unmatched
+Scientific_Name	Melanoplus fermus-rubrum	unmatched
+Scientific_Name	Melanoplus atlanis	unmatched
+Scientific_Name	Udeopsylla nigra	unmatched
+Scientific_Name	Miogryllus saussurci	unmatched
+Scientific_Name	Triticum vulgaris	unmatched
+Scientific_Name	Smilax rotundiflora	unmatched
+Scientific_Name	Evonymus americanus	unmatched
+Scientific_Name	Trichalophus alternatus?	unmatched
+Scientific_Name	Dichelonycha elongata	unmatched
+Scientific_Name	Psyllobora taedata	unmatched
+Scientific_Name	Monachus saponatus	unmatched
+Scientific_Name	Glyptoscelis albidus	unmatched
+Scientific_Name	Pachybrachys abdominalis	unmatched
+Scientific_Name	Corymbites triundulatus	unmatched
+Scientific_Name	Trirhabda tomentosa	unmatched
+Scientific_Name	Chauliognathus marginatum	unmatched
+Scientific_Name	Telephorus fraxini	unmatched
+Scientific_Name	Telephorus flavipes	unmatched
+Scientific_Name	Bruchus prosopis	unmatched
+Scientific_Name	Dircaea liturata	unmatched
+Scientific_Name	Pyrota schwarzii	unmatched
+Scientific_Name	Coleocerus marmoratus	unmatched
+Scientific_Name	Sitones fiavescens	unmatched
+Scientific_Name	Disonycha melicollis	unmatched
+Scientific_Name	Microrhopala dimidiata	unmatched
+Scientific_Name	Dectes spinosus	unmatched
+Scientific_Name	Brachys ovata	unmatched
+Scientific_Name	Tettigonia atropunctata	unmatched
+Scientific_Name	Juniperus virginana	unmatched
+Scientific_Name	Saprinus obscurus	wrong rank; too high
+Scientific_Name	Notoxus alamedea	unmatched
+Scientific_Name	Aphodius ungulatus	unmatched
+Scientific_Name	Philonthus pubes	unmatched
+Scientific_Name	Amphicoma ursina	unmatched
+Scientific_Name	Triaena longula	unmatched
+Scientific_Name	Heterocerus tristis	unmatched
+Scientific_Name	Blapstinus pulverulentus	unmatched
+Scientific_Name	Sambucus glauea	unmatched
+Scientific_Name	Cornus pubescens	unmatched
+Scientific_Name	Choristoneura fumifera	wrong rank; too high
+Scientific_Name	Cicindela purpurca	unmatched
+Scientific_Name	Cicindela vulgaris	unmatched
+Scientific_Name	Cicindela 12-guttata	unmatched
+Scientific_Name	Pterostichus sayi	unmatched
+Scientific_Name	Amara bipunctata	unmatched
+Scientific_Name	Agonoderus lincola	unmatched
+Scientific_Name	Harpalus pennsylvanicus	unmatched
+Scientific_Name	Necrophorus guttata	unmatched
+Scientific_Name	Staphylinus cinnamopterus	unmatched
+Scientific_Name	Coccinella sanguinea var. munda	unmatched
+Scientific_Name	Anatis ocellata	unmatched
+Scientific_Name	Hister caenosus	unmatched
+Scientific_Name	Saprinus assimilis	unmatched
+Scientific_Name	Limonius auripilis	unmatched
+Scientific_Name	Corymbites hicroglyphicus	unmatched
+Scientific_Name	Phengodes fusiceps	unmatched
+Scientific_Name	Telephorus carolinus	unmatched
+Scientific_Name	Telephorus rotundicollis	unmatched
+Scientific_Name	Amphicerus punctipennis	unmatched
+Scientific_Name	Canthon Iaevis	unmatched
+Scientific_Name	Euphoria melancholica	unmatched
+Scientific_Name	Cremastochilus knochii	unmatched
+Scientific_Name	Cremastochilus castaneae	unmatched
+Scientific_Name	Anthophilax malachiticus	unmatched
+Scientific_Name	Typocerus zehratus	unmatched
+Scientific_Name	Leptura cordifera	unmatched
+Scientific_Name	Monohammus scutellatus	unmatched
+Scientific_Name	Typophorus viridicyanca	unmatched
+Scientific_Name	Chelymorpha argus	unmatched
+Scientific_Name	Epitragus acutus	unmatched
+Scientific_Name	Opatrinus aciculatus	unmatched
+Scientific_Name	Nemognatha cribricollis	unmatched
+Scientific_Name	Macrobasis unicolor	unmatched
+Scientific_Name	Epicauta trichrus	unmatched
+Scientific_Name	Rhodobaenus I3-punctatus	unmatched
+Scientific_Name	Lachnosterna congrua	unmatched
+Scientific_Name	Dichelonycha subvittata	unmatched
+Scientific_Name	Lachnosterna fusca	unmatched
+Scientific_Name	Aphodius rubeolus	unmatched
+Scientific_Name	Chrysomela pulchra	unmatched
+Scientific_Name	Chrysomela elegans	unmatched
+Scientific_Name	Lina trilineata	wrong rank; too high
+Scientific_Name	Tibicen cruentufera	unmatched
+Scientific_Name	Podisus spinosis	unmatched
+Scientific_Name	Euschistus fissilis	unmatched
+Scientific_Name	Aphaenogaster fulca	unmatched
+Scientific_Name	Solenopsis debilis	unmatched
+Scientific_Name	Aphaenogaster tennesseense	unmatched
+Scientific_Name	Vespa maculata	unmatched
+Scientific_Name	Tiphia tarda	unmatched
+Scientific_Name	Myzine 6-cincta	unmatched
+Scientific_Name	Camponotus esuriens	unmatched
+Scientific_Name	Formica fuscu	unmatched
+Scientific_Name	Ichneumon laetus	unmatched
+Scientific_Name	Cryptus americanus	unmatched
+Scientific_Name	Paniscus geminatus	unmatched
+Scientific_Name	Coelioxys 8-dentata	unmatched
+Scientific_Name	Vespa germanica	unmatched
+Scientific_Name	Ophion bilineatum	unmatched
+Scientific_Name	Nemobius vittatus	unmatched
+Scientific_Name	Cornus alterifolia	unmatched
+Scientific_Name	Cornus amonum	unmatched
+Scientific_Name	Pyrus arbitufolia	unmatched
+Scientific_Name	Sassafras varifolium	unmatched
+Scientific_Name	Juniperus virginianus	unmatched
+Scientific_Name	Rhamnus lanceolatus	unmatched
+Scientific_Name	Chauliognathus americanus	unmatched
+Scientific_Name	Laemosaccus plagiatus	unmatched
+Scientific_Name	Anatis 15-punctata	unmatched
+Scientific_Name	Psyllobora 20-maculata	unmatched
+Scientific_Name	Platysoma lecontei	unmatched
+Scientific_Name	Saprinus sphaeroides	unmatched
+Scientific_Name	Diabrotica longicomis	unmatched
+Scientific_Name	Odontota rubra	unmatched
+Scientific_Name	Odontota nervosa	unmatched
+Scientific_Name	Odontota quadrata	unmatched
+Scientific_Name	Haplandrus femoratus	unmatched
+Scientific_Name	Androchirus fuscipes	unmatched
+Scientific_Name	Mordella serval	unmatched
+Scientific_Name	Clerus 4-guttatus	unmatched
+Scientific_Name	Onthophagus hectate	unmatched
+Scientific_Name	Scaphidium 4-maculatum	unmatched
+Scientific_Name	Coccinella sanguinea	unmatched
+Scientific_Name	Cryptorynchus lapathi	unmatched
+Scientific_Name	Piazurus oculatus	unmatched
+Scientific_Name	Piazurus operculatus	unmatched
+Scientific_Name	Dineutes emarginatus	unmatched
+Scientific_Name	Aphodius bicolor	unmatched
+Scientific_Name	Tomicus avulsus	unmatched
+Scientific_Name	Tomicus grandicollis	unmatched
+Scientific_Name	Calandra oryzae	unmatched
+Scientific_Name	Leptura rubrica	wrong rank; too high
+Scientific_Name	Sapromyza vulgaris.	unmatched
+Scientific_Name	Lucilia caesar	unmatched
+Scientific_Name	Euschistus spinosus	unmatched
+Scientific_Name	Stictopelta trupunctata	unmatched
+Scientific_Name	Corizus lateralis	unmatched
+Scientific_Name	Chrysis coeruleans	unmatched
+Scientific_Name	Aphaenogaster fulvum	unmatched
+Scientific_Name	Tremex sericeus	unmatched
+Scientific_Name	Coccoloba cujabensis	unmatched
+Scientific_Name	Dendroctonus validus	unmatched
+Scientific_Name	Melanophila fulvoguttat	unmatched
+Scientific_Name	Elater behrensi	unmatched
+Scientific_Name	Asemum maestum	unmatched
+Scientific_Name	Hister ulkei	unmatched
+Scientific_Name	Mylacus saccatus	unmatched
+Scientific_Name	Collops argutus	unmatched
+Scientific_Name	Leptura instabilis	unmatched
+Scientific_Name	Ophryastes tubcrosus	unmatched
+Scientific_Name	Phacepholis elegans	unmatched
+Scientific_Name	Stenosphenus delosus	unmatched
+Scientific_Name	Cyllene crinicornis	unmatched
+Scientific_Name	Onthophagus pennsylveuicus	unmatched
+Scientific_Name	Cicindela rectilatera	unmatched
+Scientific_Name	Coccinella abdominalus	unmatched
+Scientific_Name	Macrobasis albida	unmatched
+Scientific_Name	Acmaeodera militarus	unmatched
+Scientific_Name	Cyllene robiniae	wrong rank; too high
+Scientific_Name	Aulacizes irrorata	unmatched
+Scientific_Name	Thyanta eustator	unmatched
+Scientific_Name	Euschistus sereus	unmatched
+Scientific_Name	Alabama argilacca	unmatched
+Scientific_Name	Mantispa brunnea	unmatched
+Scientific_Name	Syrbula acuticornius	unmatched
+Scientific_Name	Anisodactylus semipunctatus	unmatched
+Scientific_Name	Megapenthes turbulentus	unmatched
+Scientific_Name	Canthon laevis	unmatched
+Scientific_Name	Staphylinus luteipes	unmatched
+Scientific_Name	Staphylinus nigrellus	unmatched
+Scientific_Name	Hydaticus stagnalis	unmatched
+Scientific_Name	Eurygaster alternatus	unmatched
+Scientific_Name	Calocoris rapidus	unmatched
+Scientific_Name	Ophion bilineatus	unmatched
+Scientific_Name	Prosopis affinis	unmatched
+Scientific_Name	Coccinella 9-notata var. nevadica	unmatched
+Scientific_Name	Hippodamia transverso-guttata	unmatched
+Scientific_Name	Saprinus plenus	wrong rank; too high
+Scientific_Name	Ptilinus basilis	unmatched
+Scientific_Name	Onthophagus	wrong rank; too low
+Scientific_Name	Coccinella 9-punctata	unmatched
+Scientific_Name	Anatis 15 punctata	unmatched
+Scientific_Name	Podabrus punctata	unmatched
+Scientific_Name	Coccinella abdominalis	unmatched
+Scientific_Name	Madarus undulatus	unmatched
+Scientific_Name	Balaninus uniformis	unmatched
+Scientific_Name	Crepidodera cucumeris	unmatched
+Scientific_Name	Galerucella decora	unmatched
+Scientific_Name	Clisiocampa	unmatched
+Scientific_Name	Oryza perennis	unmatched
+Scientific_Name	Steinchisma laxum	unmatched
+Scientific_Name	Eichhornia heterosperma	unmatched
+Scientific_Name	Sagittaria planitiana	unmatched
+Scientific_Name	Schoenoplectiella mucronata	unmatched
+Scientific_Name	Musa x paradisiaca	wrong rank; too high
+Scientific_Name	Apodasmia similis	unmatched
+Scientific_Name	Melicope simplex	unmatched
+Scientific_Name	Leucopogon fasciculatus	unmatched
+Scientific_Name	Zeacumantus lutulentus	unmatched
+Scientific_Name	Austrolittorina antipodum	unmatched
+Scientific_Name	Paphies australis	unmatched
+Scientific_Name	Austrovenus stutchburyi	unmatched
+Scientific_Name	Halicarcinus varius	unmatched
+Scientific_Name	Sporobolus schoenoides	unmatched
+Scientific_Name	Panicum schinzii	unmatched
+Scientific_Name	Alitta succinea	unmatched
+Scientific_Name	Potamogeton schweinfurthii	unmatched
+Scientific_Name	Persicaria hispida	unmatched
+Scientific_Name	Aeschynomene ciliata	unmatched
+Scientific_Name	Nymphaea nouchali	unmatched
+Scientific_Name	Potamogeton malaianus	unmatched
+Scientific_Name	Vallisneria asiatica	unmatched
+Scientific_Name	Palaemon pugio	unmatched
+Scientific_Name	Potamogeton coloratus	unmatched
+Scientific_Name	Erythromma najas	unmatched
+Scientific_Name	Limecola balthica	unmatched
+Scientific_Name	Gevuina avellana	unmatched
+Scientific_Name	Margyricarpus pinnatus	unmatched
+Scientific_Name	Ficus andicola	unmatched
+Scientific_Name	Palicourea angustifolia	unmatched
+Scientific_Name	Lycianthes radiata	unmatched
+Scientific_Name	Sporobolus alterniflorus	unmatched
+Scientific_Name	Sporobolus pumilus	unmatched
+Scientific_Name	Pyropia columbina	unmatched
+Scientific_Name	Mazzaella laminarioides	unmatched
+Scientific_Name	Rostkovia magellanica	unmatched
+Scientific_Name	Gunnera magellanica	unmatched
+Scientific_Name	Chaerophyllum daucoides	unmatched
+Scientific_Name	Helosciadium nodiflorum	unmatched
+Scientific_Name	Physella anatina	unmatched
+Scientific_Name	Sesamum triphyllum	unmatched
+Scientific_Name	Allorchestes malleola	unmatched
+Scientific_Name	Coloburiscus humeralis	unmatched
+Scientific_Name	Daucus glochidiatus	unmatched
+Scientific_Name	Dodonaea bursariifolia	unmatched
+Scientific_Name	Cassytha melantha	unmatched
+Scientific_Name	Leukoma staminea	unmatched
+Scientific_Name	Squalius cephalus	unmatched
+Scientific_Name	Sacciolepis africana	unmatched
+Scientific_Name	Persicaria limbata	unmatched
+Scientific_Name	Hibiscus asper	unmatched
+Scientific_Name	Stereospermum kunthianum	unmatched
+Scientific_Name	Achatocarpus praecox	unmatched
+Scientific_Name	Jodina rhombifolia	unmatched
+Scientific_Name	Cynophalla retusa	unmatched
+Scientific_Name	Podocarpus parlatorei	unmatched
+Scientific_Name	Ilex argentina	unmatched
+Scientific_Name	Viburnum seemanii	unmatched
+Scientific_Name	Urochloa xantholeuca	unmatched
+Scientific_Name	Heliotropium ovalifolium	unmatched
+Scientific_Name	Aeschynomene fluitans	unmatched
+Scientific_Name	Aeschynomene nilotica	unmatched
+Scientific_Name	Alitta virens	unmatched
+Scientific_Name	Peringia ulvae	unmatched
+Scientific_Name	Breutelia affinis	unmatched
+Scientific_Name	Anisotome aromatica	unmatched
+Scientific_Name	Nertera depressa	unmatched
+Scientific_Name	Gunnera dentata	unmatched
+Scientific_Name	Discaria toumatou	unmatched
+Scientific_Name	Corokia cotoneaster	unmatched
+Scientific_Name	Gaultheria depressa	unmatched
+Scientific_Name	Pratia angulata	unmatched
+Scientific_Name	Ranunculus fluitans	unmatched
+Scientific_Name	Xanthocnemis zealandica	unmatched
+Scientific_Name	Ips confusus 	unmatched
+Scientific_Name	Orthotomicus latidens	unmatched
+Scientific_Name	Ips emarginatus	unmatched
+Scientific_Name	Melanophila californica	unmatched
+Scientific_Name	Ips montanus	unmatched
+Scientific_Name	Eurytoma conica	unmatched
+Scientific_Name	Otiorhynchus nodosus	unmatched
+Scientific_Name	Gallinula galeata	unmatched
+Scientific_Name	Athous brightwelli	unmatched
+Scientific_Name	Athous neacanthus	unmatched
+Scientific_Name	Laphria prosticata	unmatched
+Scientific_Name	Eutonia alleni	unmatched
+Scientific_Name	Maccaffertium merirvulanum	unmatched
+Scientific_Name	Euthyatira pudens	unmatched
+Scientific_Name	Habrosyne scripta	unmatched
+Scientific_Name	Acleris nigrolinea	unmatched
+Scientific_Name	Phaecasiophora confixana	unmatched
+Scientific_Name	Tipula bicolor	unmatched
+Scientific_Name	Hemichroa militaris	unmatched
+Scientific_Name	Semioscopis megamicrella	unmatched
+Scientific_Name	Helotropha leucostigma	unmatched
+Scientific_Name	Pseudexentera oregonana	unmatched
+Scientific_Name	Amelanchier florida	invalid
+Scientific_Name	Andropogon gerardi	invalid
+Scientific_Name	Benzoin aestivale	invalid
+Scientific_Name	Brachiaria platyphylla	invalid
+Scientific_Name	Celtis ehrenbergiana	invalid
+Scientific_Name	Celtis mississippiensis	invalid
+Scientific_Name	Condalia obovata	invalid
+Scientific_Name	Cornus paniculata	invalid
+Scientific_Name	Diodia teres	invalid
+Scientific_Name	Echinochloa crusgalli	invalid
+Scientific_Name	Festuca pratensis	invalid
+Scientific_Name	Lagurus curtatus	invalid
+Scientific_Name	Myrica caroliniensis	invalid
+Scientific_Name	Myrica cerifera	invalid
+Scientific_Name	Panicum fasciculatum	invalid
+Scientific_Name	Panicum wilcoxianum	invalid
+Scientific_Name	Persicaria vivipara	invalid
+Scientific_Name	Phoradendron flavescens	invalid
+Scientific_Name	Phytolacca decandra	invalid
+Scientific_Name	Polygonum hydropiperoides	invalid
+Scientific_Name	Polygonum lapathifolium	invalid
+Scientific_Name	Polygonum pensylvanicum	invalid
+Scientific_Name	Psedera quinquefolia	invalid
+Scientific_Name	Pyrus diversifolia	invalid
+Scientific_Name	Pyrus malus	invalid
+Scientific_Name	Rhus copallina	invalid
+Scientific_Name	Rhus diversiloba	invalid
+Scientific_Name	Rhus radicans	invalid
+Scientific_Name	Rhus toxicodendron	invalid
+Scientific_Name	Rhus trilobata	invalid
+Scientific_Name	Rhus vernix	invalid
+Scientific_Name	Rubus fruticosus	invalid
+Scientific_Name	Sambucus canadensis	invalid
+Scientific_Name	Sambucus glauca	invalid
+Scientific_Name	Sambucus pubens	invalid
+Scientific_Name	Sassafras variifolium	invalid
+Scientific_Name	Scirpus cespitosus	invalid
+Scientific_Name	Setaria lutescens	invalid
+Scientific_Name	Smilacina racemosa	invalid
+Scientific_Name	Triticum vulgare	invalid
+Scientific_Name	Vaccinium oxycoccus	invalid
+Scientific_Name	Viola langsdorfii	invalid
+Scientific_Name	Vitis cordifolia	invalid
+Genus	Micropterus	unmatched
+Genus	Anas platyrhynchos	wrong rank; too high
+Genus	Plagiodes	unmatched
+Genus	Pleuronectidae	wrong rank; too low
+Genus	Trichoton	unmatched
+Genus	Passer	unmatched
+Genus	Eleodes	wrong rank; too high
+Genus	Avena	unmatched
+Genus	Limnophila	unmatched
+Genus	Cicadula	unmatched
+Genus	Oncopsis	unmatched
+Genus	Phlepsius	unmatched
+Genus	Paniscus	unmatched
+Genus	Meteorus	unmatched
+Genus	Elateridae limonius	unmatched
+Genus	Elymus	unmatched
+Genus	Ficus	unmatched
+Genus	Sida	wrong rank; too high
+Genus	Graminea	unmatched
+Genus	Gallium	unmatched
+Genus	Schaefferi	unmatched
+Genus	Zea L.	unmatched
+Genus	Euphorbia L.	unmatched
+Genus	Quercus L.	unmatched
+Genus	Citellus	unmatched
+Genus	Triodia	unmatched
+Genus	Choris	unmatched
+Genus	Unidentified	unmatched
+Genus	Unidentified Species 2	unmatched
+Genus	Unidentified Species 1	unmatched
+Genus	Arenaria	wrong rank; too high
+Genus	Claytonia?	unmatched
+Genus	Aster/Erigeron	unmatched
+Genus	grass	unmatched
+Genus	Iris	unmatched
+Genus	Bembidium	unmatched
+Genus	Macrops	unmatched
+Genus	Tomicus	unmatched
+Genus	Pimpla	unmatched
+Genus	Ophion	unmatched
+Genus	Bassus?	unmatched
+Genus	Rhodites	unmatched
+Genus	Homalodisca	unmatched
+Genus	Emesa?	unmatched
+Genus	Epitrix?	unmatched
+Genus	Ichneumon	unmatched
+Genus	Urosigalphus	unmatched
+Genus	Apanteles	unmatched
+Genus	Ophiderma	unmatched
+Genus	Corizus	wrong rank; too low
+Genus	Homaeotarsus	unmatched
+Genus	Rhyncholus	wrong rank; too low
+Genus	Telamona?	unmatched
+Genus	Platycotis	unmatched
+Genus	Criocephalus	wrong rank; too low
+Genus	Scambus	unmatched
+Genus	Chalcis?	unmatched
+Genus	Pogonomyrmex?	unmatched
+Genus	Stictocephalus	unmatched
+Genus	Pamera	unmatched
+Genus	Trogophlaeus	unmatched
+Genus	Reduviolus	wrong rank; too high
+Genus	Altica?	unmatched
+Genus	Cantharis?	unmatched
+Genus	Margarodes	unmatched
+Genus	Homaemus parvulus	wrong rank; too high
+Genus	Thyreocoris	unmatched
+Genus	Stictocephala	wrong rank; too high
+Genus	Monocrepidius	unmatched
+Genus	Melanophthalma	unmatched
+Genus	Lepidosina	unmatched
+Genus	Mesochorus	wrong rank; too high
+Genus	Campoplex	unmatched
+Genus	Lissonota	wrong rank; too low
+Genus	Agrothereutes	unmatched
+Genus	Phaeogenes	unmatched
+Genus	Erythroneura	unmatched
+Genus	Formicidae	wrong rank; too low
+Genus	Choristoneura	unmatched
+Genus	Bolboceras	unmatched
+Genus	Coniontis	unmatched
+Genus	Amphicyrta	unmatched
+Genus	Odontaeus	unmatched
+Genus	Romalium	unmatched
+Genus	Evarthrus	wrong rank; too high
+Genus	Agonoderus	unmatched
+Genus	Telephorus	unmatched
+Genus	Lachnosterna	unmatched
+Genus	Opatrinus	unmatched
+Genus	Amnesia	unmatched
+Genus	Sitones	unmatched
+Genus	Cleonus	unmatched
+Genus	Balaninus	unmatched
+Genus	Alsine	unmatched
+Genus	Evonymus	wrong rank; too low
+Genus	Leucarctia	unmatched
+Genus	Camptobrochis	wrong rank; too low
+Genus	Amaranthus?	unmatched
+Genus	Rumex?	unmatched
+Genus	Polygonum?	unmatched
+Genus	Dichelonycha	unmatched
+Genus	Isorhipis	unmatched
+Genus	Gastroidea	unmatched
+Genus	Corphyra	unmatched
+Genus	Staphylinus	unmatched
+Genus	Athous	wrong rank; too high
+Genus	Cremastochilus	unmatched
+Genus	Deromyia	unmatched
+Genus	Odynerus	unmatched
+Genus	Myzine	wrong rank; too high
+Genus	Cryptus	unmatched
+Genus	Limneria	unmatched
+Genus	Pompilus	unmatched
+Genus	Lampronota	wrong rank; too high
+Genus	Xylonomus	unmatched
+Genus	Tettix	unmatched
+Genus	Ceresa	wrong rank; too high
+Genus	Pteromalus	unmatched
+Genus	Proctotrypes	unmatched
+Genus	Mesostenus	unmatched
+Genus	Elater	unmatched
+Genus	Asilidae	wrong rank; too low
+Genus	Thalessa	unmatched
+Genus	Tortrix	unmatched
+Genus	Griselinia	unmatched
+Genus	Micronecta	unmatched
+Genus	Ceratophallus	unmatched
+Genus	Tridens	wrong rank; too low
+Genus	Procordulia	unmatched
+Genus	Xanthocnemis	unmatched
+Genus	Dichroplus	unmatched
+Genus	Wettinia	unmatched
+Genus	Chrysochlamys	unmatched
+Genus	Coussarea	unmatched
+Genus	Isoetopsis	unmatched
+Genus	Podolepis	unmatched
+Genus	Nesameletus	unmatched
+Genus	Archichauliodes	unmatched
+Genus	Dichopogon	unmatched
+Genus	Einadia	unmatched
+Genus	Monechma	wrong rank; too low
+Genus	Stylochaeton	unmatched
+Genus	Citronella	unmatched
+Genus	Lepilaena	unmatched
+Genus	Oreomyrrhis	unmatched
+Genus	Cyathodes	unmatched
+Genus	Deleatidium	unmatched
+Genus	Zelandobius	unmatched
+Genus	Calitys	unmatched
+Genus	Ostoma	unmatched
+Genus	Temnoscheila	unmatched
+Genus	Palaeoxenus	unmatched
+Genus	Helops	unmatched
+Genus	Cibdelis	unmatched
+Genus	Dyslobus	unmatched
+Genus	Psylla	unmatched
+Genus	Apocheima	unmatched
+Genus	Tolype	unmatched
+Family	Noctuides	unmatched
+Family	Cyanocorax	wrong rank; too high
+Family	cervidae	wrong rank; too high
+Family	Aphidae	unmatched
+Family	Myrmeleontinae	wrong rank; too high
+Family	Jassidae	unmatched
+Family	Lissonotinae; Ichneumoninae	unmatched
+Family	Tryphoninae	unmatched
+Family	Campopleginae	unmatched
+Family	Ichneumoninae	unmatched
+Family	Trichoptera	wrong rank; too low
+Family	Anthobium	unmatched
+Family	Eupelminae	unmatched
+Family	Panicinae	wrong rank; too high
+Family	Limoniidae	unmatched
+Family	Dolichopidae	unmatched
+Family	Opomyzidae	wrong rank; too low
+Family	Alleculinae	wrong rank; too high
+Family	Ichnumonidae	unmatched
+Family	Cucujoidea	wrong rank; too low
+Family	Leguminose	unmatched
+Family	Microtinae	unmatched
+Family	Ulidiidae	wrong rank; too high
+Family	Raphidiidae?	unmatched
+Family	Megachillidae	unmatched
+Family	Phymatinae	wrong rank; too high
+Family	Scarabidae	unmatched
+Family	Geotropidae	unmatched
+Family	Coccinelidae	unmatched
+Family	Sylphidae	unmatched
+Family	Geridae	unmatched
+Family	Corimelanidae	unmatched
+Family	Anthrocoridae	unmatched
+Family	Bracconidae	unmatched
+Family	Chalcidoidea	wrong rank; too low
+Family	Apoidae	unmatched
+Family	Eucerinae	unmatched
+Family	Multillidae	unmatched
+Family	Xylocopinae	wrong rank; too high
+Family	Culicinae	wrong rank; too high
+Family	Mycetophillidae	unmatched
+Family	Chloropodidae	unmatched
+Family	Empidae	unmatched
+Family	Ochthiphillidae	unmatched
+Family	Cicadellinae	unmatched
+Family	Brachycera	wrong rank; too low
+Family	Unknown	wrong rank; too high
+Family	Aphidoidea	wrong rank; too low
+Family	Rhynchophora	unmatched
+Family	Cantharide	unmatched
+Family	chrysomelidae	wrong rank; too high
+Family	curculionidae	wrong rank; too high
+Family	unknown	wrong rank; too high
+Family	scolytidae	wrong rank; too high
+Family	tabanidae	wrong rank; too high
+Family	syrphidae	wrong rank; too high
+Family	coccidae	wrong rank; too high
+Family	cercopidae	wrong rank; too high
+Family	vespidae	wrong rank; too high
+Family	diprionidae	wrong rank; too high
+Family	tenthredinidae	wrong rank; too high
+Family	saturniidae	wrong rank; too high
+Family	chrysopidae	wrong rank; too high
+Family	mantidae	wrong rank; too high
+Family	psocidae	wrong rank; too high
+Family	elateridae	wrong rank; too high
+Family	aphididae	wrong rank; too high
+Family	fulgoridae	wrong rank; too high
+Family	ichneumonidae	wrong rank; too high
+Family	chrysididae	wrong rank; too high
+Family	limacodidae	wrong rank; too high
+Family	panorpidae	wrong rank; too high
+Family	gryllidae	wrong rank; too high
+Family	tetrigidae	wrong rank; too high
+Family	Unidentified	unmatched
+Family	Locustidae	unmatched
+Family	Unidentified beetle	unmatched
+Family	Heteronemiidae	unmatched
+Family	Tettigonioidea	wrong rank; too low
+Family	Satyrinae	wrong rank; too high
+Family	Trypetidae	unmatched
+Family	Geomyzidae	unmatched
+Family	Mylabridae	unmatched
+Family	Areopodidae	unmatched
+Family	Phalaenidae	unmatched
+Family	Eneyrtidae	unmatched
+Family	Elatedidae	unmatched
+Family	Myrmeleonidae	unmatched
+Family	Sphaeriidae	unmatched
+Family	Helcomyzidae	wrong rank; too low
+Family	Scutellidae	unmatched
+Family	Gripopterygidae	unmatched
+Family	Antennophoridae	unmatched
+Order	Chelonia	unmatched
+Order	Acari	wrong rank; too low
+Order	Diplopoda	wrong rank; too low
+Order	Chilopoda	wrong rank; too low
+Order	Gastropoda	wrong rank; too low
+Order	Phalangida	wrong rank; too high
+Order	Oligochaeta	unmatched
+Order	Scorpionida	unmatched
+Order	Aranae	unmatched
+Order	Acarina	wrong rank; too low
+Order	Araneidae	wrong rank; too high
+Order	Megadrilacea	unmatched
+Order	Heteroptera	wrong rank; too high
+Order	arachnida	wrong rank; too low
+Order	Tricoptera	unmatched
+Order	Gasteropoda	unmatched
+Order	Arachnida	wrong rank; too low
+Order	Cyperaceae	wrong rank; too high
+Class	Actinopterygii	wrong rank; too low
+Class	Rodentia	wrong rank; too high
+Class	Reptilia/Amphibia	unmatched
+Class	Crustacea	wrong rank; too low
+Class	Pseudoscorpionida	wrong rank; too low
+Class	Arthropoda	wrong rank; too low
+Class	Chordata	wrong rank; too low
+Class	Myriapoda	wrong rank; too low
+Class	Oligochaeta	unmatched
+Class	Hirudinida	wrong rank; too high
+Class	Actinopteri	unmatched
+Phylum	Basidiomycota	wrong rank; too low
+Phylum	Streptophyta	wrong rank; too low
+Phylum	Ascomycota	wrong rank; too low
+Phylum	Foraminifera	unmatched
+Phylum	Bacillariophyta	wrong rank; too low
