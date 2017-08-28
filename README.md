@@ -309,7 +309,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Prey_Stage</td>
-    <td>The lifestage of the identified prey item (e.g., adult, larvae, egg). In general, you only need to worry about this column if the information is explicitly provided in the data source. *BUT NOTE: Always specify 'adult' or 'larvae' for the Prey_Order "Lepidoptera" if you can figure it out.*</td>
+    <td>The lifestage of the identified prey item (e.g., adult, larvae, egg). In general, you only need to worry about this column if the information is explicitly provided in the data source. <b>BUT NOTE: Always specify 'adult' or 'larvae' for the Prey_Order "Lepidoptera" if you can figure it out.</b></td>
   </tr>
   <tr>
     <td>Prey_Part</td>
@@ -326,11 +326,11 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Diet_Type</td>
-    <td>4 possible values. *Wt_or_Vol*: Fraction of the diet as measured by weight or volume. E.g., all beetles in the stomach 
-    contents were weighed, and this value was divided by the mass of all stomach contents. *Items*: Fraction of the diet as
+	<td>4 possible values. <b>Wt_or_Vol</b>: Fraction of the diet as measured by weight or volume. E.g., all beetles in the stomach 
+    contents were weighed, and this value was divided by the mass of all stomach contents. <b>Items</b>: Fraction of the diet as
     measured by a count of the number of prey items. E.g., the number of beetles in the stomach contents were counted, and this 
-    value was divided by the total number of unique prey items in the stomach contents. *Occurrence*: Fraction of the birds examined
-    that contained at least one individual of this prey type. *Unspecified*: Fraction of the diet of the prey item based on a
+    value was divided by the total number of unique prey items in the stomach contents. <b>Occurrence</b>: Fraction of the birds examined
+		that contained at least one individual of this prey type. <b>Unspecified</b>: Fraction of the diet of the prey item based on a
     methodology unspecified by the authors.</td>
   </tr>
   <tr>
