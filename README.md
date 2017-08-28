@@ -11,7 +11,7 @@ range of ecological questions.
 These data are automatically incorporated into the Global Biotic Interactions (GloBI) database.
 See [http://www.globalbioticinteractions.org](http://www.globalbioticinteractions.org/index.html) for more details.
 
-##Data Entry and Versioning using Git
+## Data Entry and Versioning using Git
 
 The database is under version control using Git so that we can easily go back to previous states, it's automatically
 backed up, and many people can access it and add records simultaneously from different computers.
@@ -41,7 +41,7 @@ $ git push origin master
 Enter your github userid and password if prompted. Now your up-to-date files are available for incorporation into GloBI and
 for others to add to!
 
-##Potential Problems
+## Potential Problems
 Occasionally, when you try to push your latest changes, you will get an error like this:
 
 ```
@@ -129,7 +129,7 @@ American Robin	some correct data, or edits that you want to keep
 Save. Commit. Push.
 
 
-##Finding Diet Data
+## Finding Diet Data
 We are focusing our search for diet data in the published literature. References related to avian diets have been scraped
 from individual species accounts on the [Birds of North America website](http://bna.birds.cornell.edu/bna/), and are
 provided in the file 'NA_avian_diet_refs.txt'. For each species, look up the listed references to see if they contain
@@ -144,7 +144,7 @@ After you have examined all of the references listed in this table for a given s
 to see if any additional papers have been published on the diet of this species since the Birds of North America species
 account was published or last revised (the year in the "revised" column). 
 
-###Web of Science search
+### Web of Science search
 Go to [Web of Science](http://apps.webofknowledge.com) and in the Topic search box enter:  
 
 ```
@@ -157,7 +157,7 @@ Click on +Add Another Field, and select Year Published. Search all years since t
 
 Look up the papers in the search results, and be sure to add any that contain useful data to the NA_avian_diet_refs.txt table.
 
-##Data Entry Details
+## Data Entry Details
 To maximize the utility of the data, we need to record many types of information describing the what, when, where, and how 
 of its collection, and so our database has many fields. In the table below we explain what exactly is characterized in each
 of these fields, and how data should be entered. Further instructions about how to enter data in the database are provided [here](https://github.com/hurlbertlab/dietdatabase/blob/master/diet_data_instructions.md).
@@ -170,14 +170,17 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Common_Name</td>
-    <td>The common name of the species whose diet is being characterized.</td>
+    <td>The common name of the species whose diet is being characterized, following the most recent Clements / eBird 
+	  checklist. Make sure that this is the currently accepted name by 
+    checking http://help.ebird.org/customer/portal/kb_article_attachments/35388/original.xls?1407441617 and
+    http://avibase.bsc-eoc.org/. Names from older papers are potentially out of date and will need to be fixed.</td>
   </tr>
   <tr>
     <td>Scientific_Name</td>
     <td>Genus and species of the species whose diet is being characterized. For North American birds 
-    we will generally follow the most recent AOU checklist. Make sure that this is the currently accepted name by 
+    we will generally follow the most recent Clements / eBird checklist. Make sure that this is the currently accepted name by 
     checking http://help.ebird.org/customer/portal/kb_article_attachments/35388/original.xls?1407441617 and
-    http://avibase.bsc-eoc.org/. Names from older papers are potentially out of date.</td>
+    http://avibase.bsc-eoc.org/. Names from older papers are potentially out of date and will need to be fixed.</td>
   </tr>
   <tr>
     <td>Family</td>
@@ -185,8 +188,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Taxonomy</td>
-    <td>The taxonomic authority for the scientific name. For example, the American Ornithologists' Union supplement. 
-    Refer to http://avibase.bsc-eoc.org/ (and then search for the species) for the most up to date taxonomy.</td>
+    <td>The taxonomic authority for the scientific name. For example, eBird Clements checklist v2016.</td>
   </tr>
   <tr>
     <td>Longitude_dd</td>
@@ -216,7 +218,8 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Location_Region</td>
-    <td>Location of the study based on national or subnational place name (e.g., Florida, or Jamaica).</td>
+    <td>Location of the study based on national or subnational place name (e.g., Florida, or Jamaica). If the study spans multiple
+	  regions they can be listed separated by semi-colons (e.g. "Florida; Alabama; Georgia").</td>
   </tr>
   <tr>
     <td>Location_Specific</td>
@@ -280,8 +283,8 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>Prey_Suborder</td>
     <td>Suborder to which the prey item belongs. This field will most frequently be used when older studies report prey orders 
     "Homoptera", "Hemiptera", and "Heteroptera", which now all fall under the Order Hemiptera. Thus, a report of "Homoptera" should
-    be classified as Order Hemiptera, Suborder Homoptera. A report of "Hemiptera" should be classified as Order Hemiptera, 
-    Suborder Heteroptera.</td>
+    be classified as Order Hemiptera, Suborder Homoptera. An older (pre-2000s) report of "Hemiptera" should be classified as Order
+    Hemiptera, Suborder Heteroptera.</td>
   </tr>
   <tr>
     <td>Prey_Family</td>
@@ -301,8 +304,8 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>If "NO", then the diet fraction reported represents the fraction made up by all members of that lowest level of taxonomic classification reported. If "YES", then the diet fraction reported represents the fraction made up by those members of that lowest level of taxonomic classification reported that were not identified to lower levels. For example, let's say some diet items are identified to various families within Coleoptera, while some diet items are listed as "Unidentified Coleoptera" with the family unknown. In this case, we would have separate lines for the families "Tenebrionidae" and "Carabidae" for which <i>Unidentified</i> would be "NO", but we might also have a line that identifies only down to Order Coleoptera for which <i>Unidentified</i> would be "YES" because the value in this row does not represent the fraction of the diet made up of all Coleoptera, only the Coleoptera that were not assigned to other groups. <b>Use this field rather than ever entering "Unidentified" or "Unknown" in any of the prey taxonomic rank fields.</b></td>
   </tr>
   <tr>
-    <td>Prey_Name_Status</td>
-    <td>This field indicates the taxonomic validity of the prey name, taking a value of either 'verified' or 'unknown'. This field will be populated by an R script that examines output of the GloBI Names Report provided by http://globalbioticinteractions.org.</td>
+    <td>Prey_Name_ITIS_ID</td>
+    <td>The Integrated Taxonomic Information Service (ITIS) taxon ID associated with the prey item. This field will be populated by an R script automatically. Names with no match will be listed as 'unverified'.</td>
   </tr>
   <tr>
     <td>Prey_Stage</td>
@@ -332,11 +335,11 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Item_Sample_Size</td>
-    <td>Number of prey items identified in the diet sample.</td>
+    <td>Total number of prey items identified in the diet sample.</td>
   </tr>
   <tr>
     <td>Bird_Sample_Size</td>
-    <td>Number of individuals of the focal bird species used to characterize diet.</td>
+    <td>Total number of individuals of the focal bird species used to characterize diet.</td>
   </tr>
   <tr>
     <td>Sites</td>
@@ -344,9 +347,8 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Study_Type</td>
-    <td>The way that diet data were collected. Options include: emetic, fecal examination, stomach contents, 
-	behavioral observation, nest observation, throat collar. "Stomach contents"
-    implies that the birds were sacrificed and their complete stomach contents were examined.</td>
+    <td>The way that diet data were collected. Options include: emetic, fecal contents, stomach contents, esophagus contents, 
+	crop contents, pellet contents, behavioral observation, nest debris, prey remains.</td>
   </tr>
   <tr>
     <td>Notes</td>
