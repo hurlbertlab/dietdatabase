@@ -24,14 +24,14 @@ Note that Families for which I know that data remain to be entered are highlight
 --Alaudidae  
 --Bombycillidae  
 --Calcariidae  
---Cardinalidae (various tanager references to check/enter)
+--Cardinalidae (various tanager references to check/enter)  
 --Certhiidae  
 --Cinclidae    
 --Corvidae (various jay references to check/enter)  
 --Emberizide  
 --Fringillidae  
 --Hirundinidae  
---Icteridae (check/enter Western Meadowlark, Yellow-headed Blackbird Twedt et al. 1991)
+--Icteridae (check/enter Western Meadowlark, Yellow-headed Blackbird Twedt et al. 1991)  
 --Laniidae  
 --Mimidae  
 --Motacillidae  
