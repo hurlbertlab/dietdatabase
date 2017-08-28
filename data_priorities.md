@@ -77,11 +77,11 @@ Note that Families for which I know that data remain to be entered are highlight
 A secondary set of Orders to enter after the above are finished:
 
 ### Coraciiformes
---Alcedinidae (Belted Kingfisher)
+--Alcedinidae (Belted Kingfisher)  
 
 ### Galliformes  
 --Odontophoridae  
---Cracidae (done?) 
+--Cracidae (done?)  
 --Phasianidae (13 to enter)  
 
 ### Gruiformes  
@@ -90,39 +90,39 @@ A secondary set of Orders to enter after the above are finished:
 --Rallidae (9 to enter)  
 
 ### Pelecaniformes
---Ardeidae
+--Ardeidae  
 
 ---------
 
-Eventually, enter shorebirds and seabirds:
+Eventually, enter shorebirds and seabirds:  
 
 ### Charadriiformes
---Scolopacidae
---Alcidae
---Charadriidae
---Haematopodidae
---Jacanidae
---Laridae
---Recurvirostridae
---Stercorariidae
+--Scolopacidae  
+--Alcidae  
+--Charadriidae  
+--Haematopodidae  
+--Jacanidae  
+--Laridae  
+--Recurvirostridae  
+--Stercorariidae  
 
 ### Pelecaniformes
---Pelecanidae
---Threskiornithidae
+--Pelecanidae  
+--Threskiornithidae  
 
 ### Phaethontiformes
---Phaethontidae
+--Phaethontidae  
 
 ### Podicipediformes
---Podicipedidae
+--Podicipedidae  
 
 ### Procellariiformes
---Diomedeidae
---Procellariidae
---Hydrobatidae
+--Diomedeidae  
+--Procellariidae  
+--Hydrobatidae  
 
 ### Suliformes
---Anhingidae
---Fregatidae
---Phalacrocoracidae
---Sulidae
+--Anhingidae  
+--Fregatidae  
+--Phalacrocoracidae  
+--Sulidae  
