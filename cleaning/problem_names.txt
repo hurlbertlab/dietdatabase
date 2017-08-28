@@ -27,8 +27,8 @@ Scientific_Name	Tamias hudsonicus	unmatched	Tamiasciurus hudsonicus
 Scientific_Name	Corydalus cornuta	unmatched	Corydalis cornuta					
 Scientific_Name	Sceloporus jarrovi	wrong rank; too high	Sceloporus jarrovii					
 Scientific_Name	Sayornis pheobe	unmatched	Sayornis phoebe					
-Scientific_Name	Catharus fuscesens	unmatched						
-Scientific_Name	Richmondena cardinalis	unmatched						
+Scientific_Name	Catharus fuscesens	unmatched	Catharus fuscescens					
+Scientific_Name	Richmondena cardinalis	unmatched	Cardinalis cardinalis					
 Scientific_Name	Citellus tridecemlineatus	unmatched						
 Scientific_Name	Eutamias bulleri	unmatched						
 Scientific_Name	Dryobates scalaris	unmatched						
