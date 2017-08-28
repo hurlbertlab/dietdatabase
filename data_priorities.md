@@ -14,7 +14,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Ciconiidae  
 
 ### Columbiformes  
---Columbidae (need to check/enter Passenger Pigeon)  
+--Columbidae (need to check/enter Passenger Pigeon, Eurasian Collared-Dove)  
 
 ### Cuculiformes  
 --Cuculidae   
@@ -24,19 +24,19 @@ Note that Families for which I know that data remain to be entered are highlight
 --Alaudidae  
 --Bombycillidae  
 --Calcariidae  
---Cardinalidae  
+--Cardinalidae (various tanager references to check/enter)
 --Certhiidae  
 --Cinclidae    
---Corvidae  
+--Corvidae (various jay references to check/enter)  
 --Emberizide  
 --Fringillidae  
 --Hirundinidae  
---Icteridae  
+--Icteridae (check/enter Western Meadowlark, Yellow-headed Blackbird Twedt et al. 1991)
 --Laniidae  
 --Mimidae  
 --Motacillidae  
 --Paridae  
---Parulidae  
+--Parulidae (need to enter Swainson's Warbler)  
 --Passeridae  
 --Polioptilidae  
 --Ptilogonatidae  
@@ -47,7 +47,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Sylviidae  
 --Timaliidae  
 --Troglodytidae  
---Turdidae (only Hawaiian refs to check)  
+--Turdidae   
 --Tyrannidae  
 --Vireonidae  
 
@@ -55,7 +55,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Picidae  
 
 ### Psittaciformes
---Psittacidae (need to enter Carolina parakeet)
+--Psittacidae (need to enter Carolina parakeet, other parrots)
 
 ### Strigiformes
 --Strigidae    
@@ -74,10 +74,10 @@ Note that Families for which I know that data remain to be entered are highlight
 
 ----------
 
-A secondary set of Orders to enter after the above are finished:
+A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
 
 ### Coraciiformes
---Alcedinidae (Belted Kingfisher)  
+--Alcedinidae (need to check/enter kingfishers)  
 
 ### Galliformes  
 --Odontophoridae  
