@@ -41,7 +41,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Polioptilidae  
 --Ptilogonatidae  
 --Regulidae  
---Remizidae  
+--Remizidae  (need to enter Verdin)  
 --Sittidae  
 --Sturnidae  
 --Sylviidae  
@@ -53,6 +53,9 @@ Note that Families for which I know that data remain to be entered are highlight
 
 ### Piciformes  
 --Picidae  
+
+### Psittaciformes
+--Psittacidae (need to enter Carolina parakeet)
 
 ### Strigiformes
 --Strigidae    
@@ -73,13 +76,53 @@ Note that Families for which I know that data remain to be entered are highlight
 
 A secondary set of Orders to enter after the above are finished:
 
+### Coraciiformes
+--Alcedinidae (Belted Kingfisher)
+
 ### Galliformes  
 --Odontophoridae  
---Cracidae (need to check/enter Plain Chachalaca)  
---Phasianidae (16 to enter)  
+--Cracidae (done?) 
+--Phasianidae (13 to enter)  
 
 ### Gruiformes  
 --Aramidae (1 to enter)  
 --Gruidae (2 to enter)  
 --Rallidae (9 to enter)  
 
+### Pelecaniformes
+--Ardeidae
+
+---------
+
+Eventually, enter shorebirds and seabirds:
+
+### Charadriiformes
+--Scolopacidae
+--Alcidae
+--Charadriidae
+--Haematopodidae
+--Jacanidae
+--Laridae
+--Recurvirostridae
+--Stercorariidae
+
+### Pelecaniformes
+--Pelecanidae
+--Threskiornithidae
+
+### Phaethontiformes
+--Phaethontidae
+
+### Podicipediformes
+--Podicipedidae
+
+### Procellariiformes
+--Diomedeidae
+--Procellariidae
+--Hydrobatidae
+
+### Suliformes
+--Anhingidae
+--Fregatidae
+--Phalacrocoracidae
+--Sulidae
