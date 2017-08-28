@@ -14,7 +14,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Ciconiidae  
 
 ### Columbiformes  
---Columbidae (need to check/enter Passenger Pigeon)  
+--Columbidae (need to check/enter Passenger Pigeon, Eurasian Collared-Dove)  
 
 ### Cuculiformes  
 --Cuculidae   
@@ -24,35 +24,38 @@ Note that Families for which I know that data remain to be entered are highlight
 --Alaudidae  
 --Bombycillidae  
 --Calcariidae  
---Cardinalidae  
+--Cardinalidae (various tanager references to check/enter)
 --Certhiidae  
 --Cinclidae    
---Corvidae  
+--Corvidae (various jay references to check/enter)  
 --Emberizide  
 --Fringillidae  
 --Hirundinidae  
---Icteridae  
+--Icteridae (check/enter Western Meadowlark, Yellow-headed Blackbird Twedt et al. 1991)
 --Laniidae  
 --Mimidae  
 --Motacillidae  
 --Paridae  
---Parulidae  
+--Parulidae (need to enter Swainson's Warbler)  
 --Passeridae  
 --Polioptilidae  
 --Ptilogonatidae  
 --Regulidae  
---Remizidae  
+--Remizidae  (need to enter Verdin)  
 --Sittidae  
 --Sturnidae  
 --Sylviidae  
 --Timaliidae  
 --Troglodytidae  
---Turdidae (only Hawaiian refs to check)  
+--Turdidae   
 --Tyrannidae  
 --Vireonidae  
 
 ### Piciformes  
 --Picidae  
+
+### Psittaciformes
+--Psittacidae (need to enter Carolina parakeet, other parrots)
 
 ### Strigiformes
 --Strigidae    
@@ -71,15 +74,55 @@ Note that Families for which I know that data remain to be entered are highlight
 
 ----------
 
-A secondary set of Orders to enter after the above are finished:
+A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
+
+### Coraciiformes
+--Alcedinidae (need to check/enter kingfishers)  
 
 ### Galliformes  
 --Odontophoridae  
---Cracidae (need to check/enter Plain Chachalaca)  
---Phasianidae (16 to enter)  
+--Cracidae (done?)  
+--Phasianidae (13 to enter)  
 
 ### Gruiformes  
 --Aramidae (1 to enter)  
 --Gruidae (2 to enter)  
 --Rallidae (9 to enter)  
 
+### Pelecaniformes
+--Ardeidae  
+
+---------
+
+Eventually, enter shorebirds and seabirds:  
+
+### Charadriiformes
+--Scolopacidae  
+--Alcidae  
+--Charadriidae  
+--Haematopodidae  
+--Jacanidae  
+--Laridae  
+--Recurvirostridae  
+--Stercorariidae  
+
+### Pelecaniformes
+--Pelecanidae  
+--Threskiornithidae  
+
+### Phaethontiformes
+--Phaethontidae  
+
+### Podicipediformes
+--Podicipedidae  
+
+### Procellariiformes
+--Diomedeidae  
+--Procellariidae  
+--Hydrobatidae  
+
+### Suliformes
+--Anhingidae  
+--Fregatidae  
+--Phalacrocoracidae  
+--Sulidae  
