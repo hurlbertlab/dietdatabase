@@ -29,11 +29,11 @@ Scientific_Name	Sceloporus jarrovi	wrong rank; too high	Sceloporus jarrovii
 Scientific_Name	Sayornis pheobe	unmatched	Sayornis phoebe					
 Scientific_Name	Catharus fuscesens	unmatched	Catharus fuscescens					
 Scientific_Name	Richmondena cardinalis	unmatched	Cardinalis cardinalis					
-Scientific_Name	Citellus tridecemlineatus	unmatched						
-Scientific_Name	Eutamias bulleri	unmatched						
-Scientific_Name	Dryobates scalaris	unmatched						
-Scientific_Name	Dumetella carolinesis	unmatched						
-Scientific_Name	Neotamias townsendii	unmatched						
+Scientific_Name	Citellus tridecemlineatus	unmatched	Ictidomys tridecemlineatus					
+Scientific_Name	Eutamias bulleri	unmatched	Tamias bulleri					
+Scientific_Name	Dryobates scalaris	unmatched	Picoides scalaris					
+Scientific_Name	Dumetella carolinesis	unmatched	Dumetella carolinensis					
+Scientific_Name	Neotamias townsendii	unmatched	Tamias townsendii					
 Scientific_Name	Phrynosoma douglassi	wrong rank; too high	Phrynosoma douglassii					
 Scientific_Name	Dipodomys ord	wrong rank; too high	Dipodomys ordii					
 Scientific_Name	Lepus californicu	wrong rank; too high	Lepus californicus					
@@ -41,72 +41,72 @@ Scientific_Name	Sylvilagus nuttali	unmatched	Sylvilagus nuttalii
 Scientific_Name	Eremophila alpestri	unmatched	Eremophila alpestris					
 Scientific_Name	Athene cuniculari	wrong rank; too high	Athene cunicularia					
 Scientific_Name	Pituophis melanoleucu	wrong rank; too high	Pituophis melanoleucus					
-Scientific_Name	Urocitellus richarsonii	unmatched						
+Scientific_Name	Urocitellus richarsonii	unmatched	Urocitellus richardsonii					
 Scientific_Name	Lepus townsendi	wrong rank; too high	Lepus townsendii					
-Scientific_Name	Zenaidura macroura	unmatched						
-Scientific_Name	Colaptes cafer	unmatched						
+Scientific_Name	Zenaidura macroura	unmatched	Zenaida macroura					
+Scientific_Name	Colaptes cafer	unmatched	Colaptes auratus					
 Scientific_Name	Ondatra zibethicu	wrong rank; too high	Ondatra zibethicus					
 Scientific_Name	Sylvilagus nuttall	wrong rank; too high	Sylvilagus nuttallii					
 Scientific_Name	Corvus brachyrhync	wrong rank; too high	Corvus brachyrhyncos					
-Scientific_Name	Equus ferus caballus	unmatched						
-Scientific_Name	Lepomis  gibbosus	unmatched						
-Scientific_Name	Marmosa elegans	unmatched						
-Scientific_Name	Pantherophis obsoletus	unmatched						
-Scientific_Name	Plestiodon brevirostris	unmatched						
+Scientific_Name	Equus ferus caballus	unmatched	Equus caballus					
+Scientific_Name	Lepomis  gibbosus	unmatched	Lepomis gibbosus					
+Scientific_Name	Marmosa elegans	unmatched	Thylamys elegans					
+Scientific_Name	Pantherophis obsoletus	unmatched	Elaphe obsoleta					
+Scientific_Name	Plestiodon brevirostris	unmatched	Eumeces brevirostris					
 Scientific_Name	Gallus gallus domesticus	unmatched						
 Scientific_Name	Anas platyrhynchos domesticus	unmatched						
-Scientific_Name	Tyrannus verticalus	unmatched						
-Scientific_Name	Aspidoscelis tigris	unmatched						
-Scientific_Name	Oreothlypis celata	unmatched						
-Scientific_Name	Coccothraustes vespertinaus	unmatched						
-Scientific_Name	Plestiodon gilberti	unmatched						
+Scientific_Name	Tyrannus verticalus	unmatched	Tyrannus verticalis					
+Scientific_Name	Aspidoscelis tigris	unmatched	Cnemidophorus tigris					
+Scientific_Name	Oreothlypis celata	unmatched	Leiothlypis celata					
+Scientific_Name	Coccothraustes vespertinaus	unmatched	Hesperiphona vespertina					
+Scientific_Name	Plestiodon gilberti	unmatched	Eumeces gilberti					
 Scientific_Name	Zea mays?	unmatched	Zea mays					
-Scientific_Name	Fagopyrum esculentum Moensch	unmatched						
-Scientific_Name	Ambrosia artemsiifolia	unmatched						
-Scientific_Name	Bistorta vivpara	unmatched						
-Scientific_Name	Termopsis augusticollis	unmatched						
-Scientific_Name	"Aphodius fimetarius, eleutus"	unmatched						
+Scientific_Name	Fagopyrum esculentum Moensch	unmatched	Fagopyrum esculentum					
+Scientific_Name	Ambrosia artemsiifolia	unmatched	Ambrosia artemisiifolia					
+Scientific_Name	Bistorta vivpara	unmatched	Bistorta vivipara					
+Scientific_Name	Termopsis augusticollis	unmatched	Zootermopsis angusticollis					
+Scientific_Name	"Aphodius fimetarius, eleutus"	unmatched	Aphodius fimetarius					
 Scientific_Name	Helobia punctipennis	unmatched						
-Scientific_Name	Scatophaga furcata	unmatched						
-Scientific_Name	Cercyon fulvipennis	unmatched						
+Scientific_Name	Scatophaga furcata	unmatched	Scathophaga furcata					
+Scientific_Name	Cercyon fulvipennis	unmatched	Cercyon limbatus					
 Scientific_Name	Microbregma emarginatum granicolle	wrong rank; too high						
 Scientific_Name	Serropalpus barbatus	unmatched						
 Scientific_Name	Sapromyza luteola	unmatched						
-Scientific_Name	Dichrochira glabricula	unmatched						
-Scientific_Name	Aphodius distinctus	unmatched						
-Scientific_Name	Tegenaria derhami	unmatched						
-Scientific_Name	Kali tragus	unmatched						
+Scientific_Name	Dichrochira glabricula	unmatched	Pteromicra glabricula					
+Scientific_Name	Aphodius distinctus	unmatched	Chilothorax distinctus					
+Scientific_Name	Tegenaria derhami	unmatched	Tegenaria domestica					
+Scientific_Name	Kali tragus	unmatched	Salsola tragus					
 Scientific_Name	Ischaemum rugosum; Oryza latifolia; Rottboellia cochinchinensis	unmatched						
 Scientific_Name	Pennisetum glaucum	unmatched	Cenchrus americanus					
 Scientific_Name	Echinochloa crus-gall	wrong rank; too high	Echinochloa crus-galli					
 Scientific_Name	Lepomis	wrong rank; too low						
-Scientific_Name	Rhamnus purshianus	unmatched						
-Scientific_Name	Prunus domesticus	unmatched						
-Scientific_Name	Quercus agrifolia garryana	unmatched						
-Scientific_Name	Quercus agrifolia kelloggi	unmatched						
-Scientific_Name	Quercus agrifolia wislizenii	unmatched						
-Scientific_Name	Quercus agrifolia emoryii	unmatched						
-Scientific_Name	Quercus agrifolia hypoleuca	unmatched						
-Scientific_Name	Cornus nuttalli	wrong rank; too high						
-Scientific_Name	Veronica texana	unmatched						
+Scientific_Name	Rhamnus purshianus	unmatched	Rhamnus purshiana					
+Scientific_Name	Prunus domesticus	unmatched	Prunus domestica					
+Scientific_Name	Quercus agrifolia garryana	unmatched	Quercus garryana					
+Scientific_Name	Quercus agrifolia kelloggi	unmatched	Quercus kelloggii					
+Scientific_Name	Quercus agrifolia wislizenii	unmatched	Quercus wislizeni					
+Scientific_Name	Quercus agrifolia emoryii	unmatched	Quercus emoryi					
+Scientific_Name	Quercus agrifolia hypoleuca	unmatched	Quercus hypoleucoides					
+Scientific_Name	Cornus nuttalli	wrong rank; too high	Cornus nuttallii					
+Scientific_Name	Veronica texana	unmatched	Vernonia texana					
 Scientific_Name	Brassicaceae sinapis	unmatched						
 Scientific_Name	Gallium	unmatched						
-Scientific_Name	Phytolaca americana	unmatched						
-Scientific_Name	Abutilon molle	unmatched						
-Scientific_Name	Syzygium Cumini	wrong rank; too high						
-Scientific_Name	Paspalum Urvillei	wrong rank; too high						
-Scientific_Name	Wikstroemia phillyraefolia	unmatched						
-Scientific_Name	Xanthium saccharotum	unmatched						
-Scientific_Name	Cirphis unipuncta	unmatched						
-Scientific_Name	Megacerus alternatus	unmatched						
-Scientific_Name	Momordica Balsamina	wrong rank; too high						
-Scientific_Name	Cajanus Cajan	wrong rank; too high						
-Scientific_Name	Lantana Camara	wrong rank; too high						
-Scientific_Name	Siegesbeckia orientalis	unmatched						
-Scientific_Name	Cassia Leschenaultiana	wrong rank; too high						
-Scientific_Name	Chenopodium oachuense	unmatched						
-Scientific_Name	Psidium Guajava	wrong rank; too high						
-Scientific_Name	Styphelia Tameiameiae	wrong rank; too high						
+Scientific_Name	Phytolaca americana	unmatched	Phytolacca americana					
+Scientific_Name	Abutilon molle	unmatched	Abutilon grandifolium					
+Scientific_Name	Syzygium Cumini	wrong rank; too high	Syzygium cumini					
+Scientific_Name	Paspalum Urvillei	wrong rank; too high	Paspalum urvillei					
+Scientific_Name	Wikstroemia phillyraefolia	unmatched	Wikstroemia phillyreifolia					
+Scientific_Name	Xanthium saccharotum	unmatched	Xanthium strumarium					
+Scientific_Name	Cirphis unipuncta	unmatched	Mythimna unipuncta					
+Scientific_Name	Megacerus alternatus	unmatched	Megacerus leucospilus					
+Scientific_Name	Momordica Balsamina	wrong rank; too high	Momordica balsamina					
+Scientific_Name	Cajanus Cajan	wrong rank; too high	Cajanus cajan					
+Scientific_Name	Lantana Camara	wrong rank; too high	Lantana camara					
+Scientific_Name	Siegesbeckia orientalis	unmatched	Sigesbeckia orientalis					
+Scientific_Name	Cassia Leschenaultiana	wrong rank; too high	Chamaecrista nictitans					
+Scientific_Name	Chenopodium oachuense	unmatched	Chenopodium oahuense					
+Scientific_Name	Psidium Guajava	wrong rank; too high	Psidium guajava					
+Scientific_Name	Styphelia Tameiameiae	wrong rank; too high	Leptecophylla tameiameiae					
 Scientific_Name	Panicum texanum	unmatched	Urochloa texana					
 Scientific_Name	Panicum reptans	unmatched	Urochloa reptans					
 Scientific_Name	Zizyphus obtusifolia	unmatched						
