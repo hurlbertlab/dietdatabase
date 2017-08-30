@@ -109,12 +109,12 @@ Scientific_Name	Psidium Guajava	wrong rank; too high	Psidium guajava
 Scientific_Name	Styphelia Tameiameiae	wrong rank; too high	Leptecophylla tameiameiae					
 Scientific_Name	Panicum texanum	unmatched	Urochloa texana					
 Scientific_Name	Panicum reptans	unmatched	Urochloa reptans					
-Scientific_Name	Zizyphus obtusifolia	unmatched						
-Scientific_Name	Melanoplus femur-rubrum	unmatched						
-Scientific_Name	Pheuticus melanocephalus	unmatched						
-Scientific_Name	Mustela ermina	unmatched						
-Scientific_Name	Reithrodontymys megalotis	unmatched						
-Scientific_Name	Marmota flavaventris	unmatched						
+Scientific_Name	Zizyphus obtusifolia	unmatched	Ziziphus obtusifolia					
+Scientific_Name	Melanoplus femur-rubrum	unmatched	Melanoplus femurrubrum					
+Scientific_Name	Pheuticus melanocephalus	unmatched	Pheucticus melanocephalus					
+Scientific_Name	Mustela ermina	unmatched	Mustela erminea					
+Scientific_Name	Reithrodontymys megalotis	unmatched	Reithrodontomys megalotis					
+Scientific_Name	Marmota flavaventris	unmatched	Marmota flaviventris					
 Scientific_Name	Carex D	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
 Scientific_Name	Carex F	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
 Scientific_Name	Carex J	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
@@ -122,35 +122,35 @@ Scientific_Name	Carex K	unmatched		Genus = Carex & Family = Cyperaceae & Order =
 Scientific_Name	Carex I	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
 Scientific_Name	Carex E	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
 Scientific_Name	Avena fatua?	unmatched	Avena fatua					
-Scientific_Name	Inula Helenium	wrong rank; too high						
-Scientific_Name	Mercurialis perennis	unmatched						
-Scientific_Name	Pinus viginiana	unmatched						
-Scientific_Name	Entylia concisa	unmatched						
-Scientific_Name	Micrutalis calva	unmatched						
-Scientific_Name	Micrutalis parva	unmatched						
-Scientific_Name	Tetigonia hieroglyphica	unmatched						
+Scientific_Name	Inula Helenium	wrong rank; too high	Inula helenium					
+Scientific_Name	Mercurialis perennis	unmatched		keep as is				
+Scientific_Name	Pinus viginiana	unmatched	Pinus virginiana					
+Scientific_Name	Entylia concisa	unmatched	Entylia carinata					
+Scientific_Name	Micrutalis calva	unmatched		keep as is				
+Scientific_Name	Micrutalis parva	unmatched		keep as is				
+Scientific_Name	Tetigonia hieroglyphica	unmatched	Graphocephala hieroglyphica					
 Scientific_Name	Cicadula 6-punctata	unmatched						
 Scientific_Name	Tylopelta brevis	unmatched						
-Scientific_Name	Bembidium versicolor	unmatched						
+Scientific_Name	Bembidium versicolor	unmatched	Bembidion versicolor					
 Scientific_Name	Tachys tripunctata	unmatched						
 Scientific_Name	Agonoderus pallipes	unmatched						
 Scientific_Name	Hydrochus subcupreus?	unmatched	Hydrochus subcupreus					
-Scientific_Name	Cercyon melanocephalum	unmatched						
-Scientific_Name	Heterothops fasculus	unmatched						
+Scientific_Name	Cercyon melanocephalum	unmatched	Cercyon melanocephalus					
+Scientific_Name	Heterothops fasculus	unmatched	Heterothops fusculus					
 Scientific_Name	Xantholinus obsidianus	unmatched						
-Scientific_Name	Cilea silphoides	unmatched						
-Scientific_Name	Stilbus apicalis	unmatched						
-Scientific_Name	Typhaea fumata	unmatched						
+Scientific_Name	Cilea silphoides	unmatched		keep as is				
+Scientific_Name	Stilbus apicalis	unmatched		keep as is				
+Scientific_Name	Typhaea fumata	unmatched	Typhaea stercorea					
 Scientific_Name	Hister?americanus	unmatched	Hister americanus					
 Scientific_Name	Hister subrotundus	unmatched						
 Scientific_Name	Saprinus scissus	unmatched						
 Scientific_Name	Saprinus lubricus	wrong rank; too high						
 Scientific_Name	Saprinus sphaeriodes	unmatched						
-Scientific_Name	Cryptarcha strigata	unmatched						
+Scientific_Name	Cryptarcha strigata	unmatched	Cryptarcha strigatula					
 Scientific_Name	Melanopthalma	unmatched						
-Scientific_Name	Hyperoides choris	unmatched						
+Scientific_Name	Hyperoides choris	unmatched		keep as is				
 Scientific_Name	Drapetes geminatus	unmatched						
-Scientific_Name	Oxyomus poreatus	unmatched						
+Scientific_Name	Oxyomus poreatus	unmatched	Oxyomus sylvestris					
 Scientific_Name	Aphodius vittatus	unmatched						
 Scientific_Name	Aphodius punctatus	unmatched						
 Scientific_Name	Aphodius stercorosus	unmatched						
