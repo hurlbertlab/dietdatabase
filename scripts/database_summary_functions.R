@@ -125,11 +125,7 @@ speciesSummary = function(commonName, by = 'Order') {
     stage = dietsp$Prey_Stage
     stage[is.na(stage)] = ""
     stage[stage == 'adult'] = ""
-<<<<<<< HEAD
-    dietsp$Taxon = paste(dietsp[, taxonLevel], stage)
-=======
     dietsp$Taxon = paste(dietsp[, taxonLevel], stage) %>% trimws("both")
->>>>>>> 6c81f9e94463a4826a6a5c760f31a0033a6d144f
   } else {
     dietsp$Taxon = dietsp[, taxonLevel]
   }
