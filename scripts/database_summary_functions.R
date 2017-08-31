@@ -132,11 +132,7 @@ speciesSummary = function(commonName, by = 'Order') {
   
   analysesPerDietType = dietsp %>%
     select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
-<<<<<<< HEAD
-           Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type, Study_Type) %>%
-=======
            Bird_Sample_Size, Habitat_type, Location_Region, Location_Specific, Item_Sample_Size, Diet_Type, Study_Type) %>%
->>>>>>> 6c81f9e94463a4826a6a5c760f31a0033a6d144f
     distinct() %>%
     count(Diet_Type)
   
@@ -262,7 +258,6 @@ LeadingAndTrailingSpaceRemover = function(dietdatabase) {
 }
          
 
-<<<<<<< HEAD
 # Function for specifying Prey_Name_Status as 'unknown' if name does
 # not match GloBI's names in 'taxonUnmatched.tsv'
 # May want to be sure to download an updated version of 'taxonUnmatched.tsv'
@@ -288,16 +283,7 @@ updateNameStatus = function(diet, write = TRUE) {
   }
 }
                                
-# Make sure to grab the most recent eBird table in the directory
-taxfiles = file.info(list.files()[grep('eBird', list.files())])
-taxfiles$name = row.names(taxfiles)
-tax = read.table(taxfiles$name[taxfiles$mtime == max(taxfiles$mtime)], header = T,
-                 sep = ',', quote = '\"', stringsAsFactors = F)
-orders = unique(tax[, c('ORDER', 'FAMILY')])
-orders$Family = word(orders$FAMILY, 1)
-orders = filter(orders, FAMILY != "" & ORDER != "") %>%
-  select(ORDER, Family)
-=======
+
 # For dates with no clear Observation_Year_End, replace
 # Observation_Year_End with the publication year.
 # (rapply is to exclude any years in the article title)
@@ -310,4 +296,3 @@ fill_study_years = function(diet) {
 return(fixed)  
 }
 
->>>>>>> 6c81f9e94463a4826a6a5c760f31a0033a6d144f
