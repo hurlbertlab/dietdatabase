@@ -7,79 +7,122 @@ finishing up everything within Passeriformes before working on other Orders.
 Note that Families for which I know that data remain to be entered are highlighted with parenthetical notes. However, it should probably be confirmed that no References remain to be checked for the other Families.
 
 ### Accipitriformes  
---Accipitridae (still more species/refs to enter?)  
---Cathartidae (1 species to enter: California Condor?))  
+--Accipitridae   
+--Cathartidae    
 
 ### Ciconiiformes  
---Ciconiidae
+--Ciconiidae  
 
 ### Columbiformes  
---Columbidae
+--Columbidae (need to check/enter Passenger Pigeon, Eurasian Collared-Dove)  
 
-### Cuculiformes
+### Cuculiformes  
 --Cuculidae   
 
 ### Passeriformes  
---Aegithalidae  (need to enter: Bushtit)  
---Alaudidae  (need to enter: Horned Lark, Sky Lark)  
+--Aegithalidae  
+--Alaudidae  
 --Bombycillidae  
 --Calcariidae  
---Cardinalidae  
+--Cardinalidae (various tanager references to check/enter)  
 --Certhiidae  
---Corvidae  
+--Cinclidae    
+--Corvidae (various jay references to check/enter)  
 --Emberizide  
 --Fringillidae  
 --Hirundinidae  
---Icteridae  
+--Icteridae (check/enter Western Meadowlark, Yellow-headed Blackbird Twedt et al. 1991)  
 --Laniidae  
 --Mimidae  
 --Motacillidae  
 --Paridae  
---Parulidae  
+--Parulidae (need to enter Swainson's Warbler)  
 --Passeridae  
 --Polioptilidae  
 --Ptilogonatidae  
 --Regulidae  
---Remizidae  
+--Remizidae  (need to enter Verdin)  
 --Sittidae  
 --Sturnidae  
 --Sylviidae  
---Thraupidae (needs to be updated to Cardinalidae)  
 --Timaliidae  
 --Troglodytidae  
---Turdidae  
+--Turdidae   
 --Tyrannidae  
 --Vireonidae  
 
 ### Piciformes  
---Picidae (some sources unavailable online)
+--Picidae  
+
+### Psittaciformes
+--Psittacidae (need to enter Carolina parakeet, other parrots)
 
 ### Strigiformes
---Strigidae (?)  
---Tytonidae (?)  
+--Strigidae    
+--Tytonidae
 
 ### Trogoniformes  
---Trogonidae (2 species to enter)  
+--Trogonidae  
+
+### Caprimulgiformes
+--Apodidae  
+--Caprimulgidae (need to check/enter Eastern Whip-poor-will)   
+--Trochilidae (13 to enter; most probably no data)   
+
+### Falconiformes  
+--Falconidae (many references to be checked, although we currently have data for 5/6 species)   
 
 ----------
 
-A secondary set of Orders to enter after the above are finished:
+A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
 
-### Caprimulgiformes
---Apodidae 
---Caprimulgidae (5 to enter)  
---Trochilidae (13 to enter; most probably no data)  
-
-### Falconiformes  
---Falconidae (4 to enter)  
+### Coraciiformes
+--Alcedinidae (need to check/enter kingfishers)  
 
 ### Galliformes  
 --Odontophoridae  
---Cracidae (1 to enter)  
---Phasianidae (16 to enter)  
+--Cracidae (done?)  
+--Phasianidae (13 to enter)  
 
 ### Gruiformes  
 --Aramidae (1 to enter)  
 --Gruidae (2 to enter)  
 --Rallidae (9 to enter)  
 
+### Pelecaniformes
+--Ardeidae  
+
+---------
+
+Eventually, enter shorebirds and seabirds:  
+
+### Charadriiformes
+--Scolopacidae  
+--Alcidae  
+--Charadriidae  
+--Haematopodidae  
+--Jacanidae  
+--Laridae  
+--Recurvirostridae  
+--Stercorariidae  
+
+### Pelecaniformes
+--Pelecanidae  
+--Threskiornithidae  
+
+### Phaethontiformes
+--Phaethontidae  
+
+### Podicipediformes
+--Podicipedidae  
+
+### Procellariiformes
+--Diomedeidae  
+--Procellariidae  
+--Hydrobatidae  
+
+### Suliformes
+--Anhingidae  
+--Fregatidae  
+--Phalacrocoracidae  
+--Sulidae  

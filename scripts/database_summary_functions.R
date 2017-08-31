@@ -11,6 +11,7 @@ dbSummary = function() {
                     fill=T, stringsAsFactors = F)
   refs = read.table('NA_avian_diet_refs.txt', header=T, sep = '\t', quote = '\"',
                     fill=T, stringsAsFactors = F)
+  orders = read.csv('birdtaxonomy/orders.csv', header = T, stringsAsFactors = F)
   species = unique(diet[, c('Common_Name', 'Family')])
   allspecies = unique(refs[, c('common_name', 'family')])
   numSpecies = nrow(species)
@@ -27,8 +28,8 @@ dbSummary = function() {
   spCountByFamily2 = spCountByFamily2[spCountByFamily2$Family != "", ]
   spCountByFamily3 = spCountByFamily2 %>% 
     inner_join(orders, by = 'Family') %>%
-    select(ORDER, Family, SpeciesWithData, WithoutData) %>%
-    arrange(ORDER)
+    select(Order, Family, SpeciesWithData, WithoutData) %>%
+    arrange(Order)
   spCountByFamily3$SpeciesWithData[is.na(spCountByFamily3$SpeciesWithData)] = 0
   return(list(numRecords=numRecords,
               numSpecies=numSpecies, 
@@ -60,9 +61,50 @@ speciesSummary = function(commonName, by = 'Order') {
   numStudies = length(unique(dietsp$Source))
   Studies = unique(dietsp$Source)
   numRecords = nrow(dietsp)
-  recordsPerYear = data.frame(count(dietsp, Observation_Year_Begin))
+  recordsPerYear = data.frame(count(dietsp, Observation_Year_End))
   recordsPerRegion = data.frame(count(dietsp, Location_Region))
   recordsPerType = data.frame(count(dietsp, Diet_Type))
+  
+  # Report the number of records for which prey are identified to the different 
+  # taxonomic levels, which will be important for interpreting summary occurrence data
+  king_n = nrow(dietsp[!is.na(dietsp$Prey_Kingdom) & dietsp$Prey_Kingdom != "" &
+                         !(!is.na(dietsp$Prey_Phylum) & dietsp$Prey_Phylum != "") &
+                         !(!is.na(dietsp$Prey_Class) & dietsp$Prey_Class != "") &
+                         !(!is.na(dietsp$Prey_Order) & dietsp$Prey_Order != "") &
+                         !(!is.na(dietsp$Prey_Suborder) & dietsp$Prey_Suborder != "") &
+                         !(!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "") &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  phyl_n = nrow(dietsp[!is.na(dietsp$Prey_Phylum) & dietsp$Prey_Phylum != "" &
+                         !(!is.na(dietsp$Prey_Class) & dietsp$Prey_Class != "") &
+                         !(!is.na(dietsp$Prey_Order) & dietsp$Prey_Order != "") &
+                         !(!is.na(dietsp$Prey_Suborder) & dietsp$Prey_Suborder != "") &
+                         !(!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "") &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  clas_n = nrow(dietsp[!is.na(dietsp$Prey_Class) & dietsp$Prey_Class != "" &
+                         !(!is.na(dietsp$Prey_Order) & dietsp$Prey_Order != "") &
+                         !(!is.na(dietsp$Prey_Suborder) & dietsp$Prey_Suborder != "") &
+                         !(!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "") &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  orde_n = nrow(dietsp[!is.na(dietsp$Prey_Order) & dietsp$Prey_Order != "" &
+                         !(!is.na(dietsp$Prey_Suborder) & dietsp$Prey_Suborder != "") &
+                         !(!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "") &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  fami_n = nrow(dietsp[!is.na(dietsp$Prey_Family) & dietsp$Prey_Family != "" &
+                         !(!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "") &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  genu_n = nrow(dietsp[!is.na(dietsp$Prey_Genus) & dietsp$Prey_Genus != "" &
+                         !(!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != ""), ])
+  spec_n = nrow(dietsp[!is.na(dietsp$Prey_Scientific_Name) & dietsp$Prey_Scientific_Name != "", ])
+  
+  recordsPerPreyIDLevel = data.frame(level = c('Kingdom', 'Phylum', 'Class', 'Order', 'Family', 'Genus', 'Species'),
+                                     n = c(king_n, phyl_n, clas_n, orde_n, fami_n, genu_n, spec_n))
+  
+  
+  
   
   taxonLevel = paste('Prey_', by, sep = '')
   
@@ -76,26 +118,35 @@ speciesSummary = function(commonName, by = 'Order') {
     if(x[level] == "" | is.na(x[level])) { paste("Unid.", x[max(which(x != "")[which(x != "") < level], na.rm = T)])} 
     else { x[level] })
   
+   
   # Prey_Stage should only matter for distinguishing things at the Order level and 
   # below (e.g. distinguishing between Lepidoptera larvae and adults).
   if (by %in% c('Order', 'Family', 'Genus', 'Scientific_Name')) {
     stage = dietsp$Prey_Stage
     stage[is.na(stage)] = ""
     stage[stage == 'adult'] = ""
+<<<<<<< HEAD
     dietsp$Taxon = paste(dietsp[, taxonLevel], stage)
+=======
+    dietsp$Taxon = paste(dietsp[, taxonLevel], stage) %>% trimws("both")
+>>>>>>> 6c81f9e94463a4826a6a5c760f31a0033a6d144f
   } else {
     dietsp$Taxon = dietsp[, taxonLevel]
   }
   
   analysesPerDietType = dietsp %>%
     select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+<<<<<<< HEAD
            Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type, Study_Type) %>%
+=======
+           Bird_Sample_Size, Habitat_type, Location_Region, Location_Specific, Item_Sample_Size, Diet_Type, Study_Type) %>%
+>>>>>>> 6c81f9e94463a4826a6a5c760f31a0033a6d144f
     distinct() %>%
     count(Diet_Type)
   
   # Equal-weighted mean fraction of diet (all studies weighted equally despite
   #  variation in sample size)
-  preySummary = dietsp %>% 
+  preySummary_nonOccurrence = dietsp %>% filter(Diet_Type != "Occurrence") %>%
 
     group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
              Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
@@ -108,11 +159,31 @@ speciesSummary = function(commonName, by = 'Order') {
     select(Diet_Type, Taxon, Frac_Diet) %>%
     arrange(Diet_Type, desc(Frac_Diet))
   
-  return(list(numStudies = numStudies,
+  # Fraction Occurrence values don't sum to 1, so all we can do is say that at
+  # a given taxonomic level, at least X% of samples included that prey type
+  # based on the maximum % occurrence of prey within that taxonomic group.
+  # We then average occurrence values across studies/analyses.
+  preySummary_Occurrence = dietsp %>% filter(Diet_Type == "Occurrence") %>%
+    
+    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+             Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
+    
+    summarize(Max_Diet = max(Fraction_Diet, na.rm = T)) %>%
+    group_by(Diet_Type, Taxon) %>%
+    summarize(Sum_Diet2 = sum(Max_Diet, na.rm = T)) %>%
+    left_join(analysesPerDietType, by = c('Diet_Type' = 'Diet_Type')) %>%
+    mutate(Frac_Diet = round(Sum_Diet2/n, 4)) %>%
+    select(Diet_Type, Taxon, Frac_Diet) %>%
+    arrange(Diet_Type, desc(Frac_Diet))
+  
+  preySummary = rbind(preySummary_nonOccurrence, preySummary_Occurrence)
+  
+    return(list(numStudies = numStudies,
               Studies = Studies,
               numRecords = numRecords,
               recordsPerYear = recordsPerYear,
               recordsPerRegion = recordsPerRegion,
+              recordsPerPreyIDLevel = recordsPerPreyIDLevel,
               recordsPerType = recordsPerType,
               analysesPerDietType = data.frame(analysesPerDietType),
               preySummary = data.frame(preySummary)))
@@ -195,6 +266,7 @@ LeadingAndTrailingSpaceRemover = function(dietdatabase) {
 }
          
 
+<<<<<<< HEAD
 # Function for specifying Prey_Name_Status as 'unknown' if name does
 # not match GloBI's names in 'taxonUnmatched.tsv'
 # May want to be sure to download an updated version of 'taxonUnmatched.tsv'
@@ -229,3 +301,17 @@ orders = unique(tax[, c('ORDER', 'FAMILY')])
 orders$Family = word(orders$FAMILY, 1)
 orders = filter(orders, FAMILY != "" & ORDER != "") %>%
   select(ORDER, Family)
+=======
+# For dates with no clear Observation_Year_End, replace
+# Observation_Year_End with the publication year.
+# (rapply is to exclude any years in the article title)
+
+fill_study_years = function(diet) {
+  fixed = diet %>% mutate(pubyear = str_match_all(Source, "[0-9][0-9][0-9][0-9]") %>%
+                           rapply(function(x) head(x, 1)) %>% as.numeric()) %>%
+    mutate(Observation_Year_End = ifelse(is.na(Observation_Year_End), pubyear, Observation_Year_End)) %>%
+    select(Common_Name:Source)
+return(fixed)  
+}
+
+>>>>>>> 6c81f9e94463a4826a6a5c760f31a0033a6d144f
