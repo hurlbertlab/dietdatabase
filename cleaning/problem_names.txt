@@ -53,8 +53,8 @@ Scientific_Name	Lepomis  gibbosus	unmatched	Lepomis gibbosus
 Scientific_Name	Marmosa elegans	unmatched	Thylamys elegans					
 Scientific_Name	Pantherophis obsoletus	unmatched	Elaphe obsoleta					
 Scientific_Name	Plestiodon brevirostris	unmatched	Eumeces brevirostris					
-Scientific_Name	Gallus gallus domesticus	unmatched						
-Scientific_Name	Anas platyrhynchos domesticus	unmatched						
+Scientific_Name	Gallus gallus domesticus	unmatched		keep as is				
+Scientific_Name	Anas platyrhynchos domesticus	unmatched		keep as is				
 Scientific_Name	Tyrannus verticalus	unmatched	Tyrannus verticalis					
 Scientific_Name	Aspidoscelis tigris	unmatched	Cnemidophorus tigris					
 Scientific_Name	Oreothlypis celata	unmatched	Leiothlypis celata					
@@ -69,7 +69,7 @@ Scientific_Name	"Aphodius fimetarius, eleutus"	unmatched	Aphodius fimetarius
 Scientific_Name	Helobia punctipennis	unmatched						
 Scientific_Name	Scatophaga furcata	unmatched	Scathophaga furcata					
 Scientific_Name	Cercyon fulvipennis	unmatched	Cercyon limbatus					
-Scientific_Name	Microbregma emarginatum granicolle	wrong rank; too high						
+Scientific_Name	Microbregma emarginatum granicolle	wrong rank; too high		keep as is				
 Scientific_Name	Serropalpus barbatus	unmatched						
 Scientific_Name	Sapromyza luteola	unmatched						
 Scientific_Name	Dichrochira glabricula	unmatched	Pteromicra glabricula					
@@ -79,7 +79,7 @@ Scientific_Name	Kali tragus	unmatched	Salsola tragus
 Scientific_Name	Ischaemum rugosum; Oryza latifolia; Rottboellia cochinchinensis	unmatched						
 Scientific_Name	Pennisetum glaucum	unmatched	Cenchrus americanus					
 Scientific_Name	Echinochloa crus-gall	wrong rank; too high	Echinochloa crus-galli					
-Scientific_Name	Lepomis	wrong rank; too low						
+Scientific_Name	Lepomis	wrong rank; too low		Genus = Lepomis				
 Scientific_Name	Rhamnus purshianus	unmatched	Rhamnus purshiana					
 Scientific_Name	Prunus domesticus	unmatched	Prunus domestica					
 Scientific_Name	Quercus agrifolia garryana	unmatched	Quercus garryana					
@@ -89,8 +89,8 @@ Scientific_Name	Quercus agrifolia emoryii	unmatched	Quercus emoryi
 Scientific_Name	Quercus agrifolia hypoleuca	unmatched	Quercus hypoleucoides					
 Scientific_Name	Cornus nuttalli	wrong rank; too high	Cornus nuttallii					
 Scientific_Name	Veronica texana	unmatched	Vernonia texana					
-Scientific_Name	Brassicaceae sinapis	unmatched						
-Scientific_Name	Gallium	unmatched						
+Scientific_Name	Brassicaceae sinapis	unmatched		Genus = Sinapis				
+Scientific_Name	Gallium	unmatched		Genus = Galium				
 Scientific_Name	Phytolaca americana	unmatched	Phytolacca americana					
 Scientific_Name	Abutilon molle	unmatched	Abutilon grandifolium					
 Scientific_Name	Syzygium Cumini	wrong rank; too high	Syzygium cumini					
@@ -147,52 +147,52 @@ Scientific_Name	Saprinus scissus	unmatched
 Scientific_Name	Saprinus lubricus	wrong rank; too high						
 Scientific_Name	Saprinus sphaeriodes	unmatched						
 Scientific_Name	Cryptarcha strigata	unmatched	Cryptarcha strigatula					
-Scientific_Name	Melanopthalma	unmatched						
+Scientific_Name	Melanopthalma	unmatched		Genus = Melanophthalma				
 Scientific_Name	Hyperoides choris	unmatched		keep as is				
-Scientific_Name	Drapetes geminatus	unmatched						
+Scientific_Name	Drapetes geminatus	unmatched	Drapetes exstriatus					
 Scientific_Name	Oxyomus poreatus	unmatched	Oxyomus sylvestris					
-Scientific_Name	Aphodius vittatus	unmatched						
+Scientific_Name	Aphodius vittatus	unmatched	Planolinus tenellus					
 Scientific_Name	Aphodius punctatus	unmatched						
 Scientific_Name	Aphodius stercorosus	unmatched						
-Scientific_Name	Metachroma aeneicolle	unmatched						
+Scientific_Name	Metachroma aeneicolle	unmatched	Metachroma longicolle					
 Scientific_Name	Crepidodera helxines	unmatched						
 Scientific_Name	Thecesternus humeralis?	unmatched	Thecesternus humeralis					
-Scientific_Name	Sitona flavescens	unmatched						
+Scientific_Name	Sitona flavescens	unmatched	Sitona lepidus					
 Scientific_Name	Apion metallicum	unmatched						
-Scientific_Name	Phytonomus posticus	unmatched						
+Scientific_Name	Phytonomus posticus	unmatched	Hypera postica					
 Scientific_Name	Conotrachelus nenuphar?	unmatched	Conotrachelus nenuphar					
-Scientific_Name	Cryptorhynchus bisignatus	unmatched						
+Scientific_Name	Cryptorhynchus bisignatus	unmatched	Eubulus bisignatus					
 Scientific_Name	Hypocoeliodes wickhami?	unmatched	Hypocoeliodes wickhami					
 Scientific_Name	Coeliodes acephalus	unmatched						
 Scientific_Name	Limnobaris blandita	unmatched						
-Scientific_Name	Rhinoncus longulus	unmatched						
+Scientific_Name	Rhinoncus longulus	unmatched	Campylirhynchus longulus					
 Scientific_Name	Centrinus picumnus	unmatched						
-Scientific_Name	Calandra oryza	unmatched						
-Scientific_Name	Pityophthorus minutissimus	wrong rank; too high						
-Scientific_Name	Tomicus calligraphicus	unmatched						
+Scientific_Name	Calandra oryza	unmatched	Sitophilus oryzae					
+Scientific_Name	Pityophthorus minutissimus	wrong rank; too high	Pseudopityophthorus minutissimus					
+Scientific_Name	Tomicus calligraphicus	unmatched	Ips calligraphus					
 Scientific_Name	Brachytarsus plumbeus	unmatched						
 Scientific_Name	Stictocephala festiva	unmatched						
 Scientific_Name	Agallia 4-punctata	unmatched						
-Scientific_Name	Nezara hilaris	unmatched						
+Scientific_Name	Nezara hilaris	unmatched	Acrosternum hilare					
 Scientific_Name	Elaphrus ruscarius?	unmatched	Elaphrus ruscarius					
 Scientific_Name	Poecilus lucublandus?	unmatched	Poecilus lucublandus					
 Scientific_Name	Poecilus scitulus?	unmatched	Poecilus scitulus					
-Scientific_Name	Anisodactylus baltimorensis	unmatched						
-Scientific_Name	Tropisternus limbalis	unmatched						
-Scientific_Name	Philhydrus hamiltoni	unmatched						
+Scientific_Name	Anisodactylus baltimorensis	unmatched	Anisodactylus sanctaecrucis					
+Scientific_Name	Tropisternus limbalis	unmatched	Tropisternus lateralis limbalis					
+Scientific_Name	Philhydrus hamiltoni	unmatched	Enochrus hamiltoni					
 Scientific_Name	Philonthus varians	unmatched						
 Scientific_Name	Philonthus lomatus	unmatched						
 Scientific_Name	Tachyporus californicus	unmatched						
-Scientific_Name	ColeoColeomegilla maculata	unmatched						
-Scientific_Name	Hippodamia ambigua	unmatched						
-Scientific_Name	Hippodamia 15-maculata	unmatched						
-Scientific_Name	Hippodamia 13-punctata	unmatched						
-Scientific_Name	Cycloneda californica	unmatched						
+Scientific_Name	ColeoColeomegilla maculata	unmatched	Coleomegilla maculata					
+Scientific_Name	Hippodamia ambigua	unmatched	Hippodamia quinquesignata ambigua					
+Scientific_Name	Hippodamia 15-maculata	unmatched	Hippodamia quinquesignata ambigua					
+Scientific_Name	Hippodamia 13-punctata	unmatched	Hippodamia quinquesignata ambigua					
+Scientific_Name	Cycloneda californica	unmatched	Coccinella californica					
 Scientific_Name	Scymnus?collaris	unmatched	Scymnus collaris					
 Scientific_Name	Scymnus partibus	unmatched						
-Scientific_Name	Dermestes mannerheimii	unmatched						
+Scientific_Name	Dermestes mannerheimii	unmatched	Dermestes talpinus					
 Scientific_Name	Hister?sellatus	unmatched	Hister sellatus					
-Scientific_Name	Hister interruptus	unmatched						
+Scientific_Name	Hister interruptus	unmatched	Saprinus perinterruptus					
 Scientific_Name	Hister americanus	unmatched						
 Scientific_Name	Pachylophus aeneipunctatus	unmatched						
 Scientific_Name	Melanophthalmus gibbosus	unmatched						
@@ -201,16 +201,16 @@ Scientific_Name	Otophorus vittatus	unmatched
 Scientific_Name	Typophorus nigritus?	unmatched	Typophorus nigritus					
 Scientific_Name	Typophorus sellatus	unmatched						
 Scientific_Name	Plagiodera prasinella	unmatched						
-Scientific_Name	Gastrophysa viridula	unmatched						
+Scientific_Name	Gastrophysa viridula	unmatched		keep as is				
 Scientific_Name	Lina scripta	unmatched						
-Scientific_Name	Diabrotica 12-punctata	unmatched						
+Scientific_Name	Diabrotica 12-punctata	unmatched	Diabrotica undecimpunctata howardi					
 Scientific_Name	Diabrotica soror	unmatched						
-Scientific_Name	Epitrix parvula	unmatched						
+Scientific_Name	Epitrix parvula	unmatched	Epitrix hirtipennis					
 Scientific_Name	Psylliodes punctulata	unmatched						
 Scientific_Name	Apion vespertinum	unmatched						
 Scientific_Name	Apion cavifrons	unmatched						
-Scientific_Name	Sphenophorus placidus	unmatched						
-Scientific_Name	Tomicus pini	unmatched						
+Scientific_Name	Sphenophorus placidus	unmatched	Sphenophorus venatus					
+Scientific_Name	Tomicus pini	unmatched	Tomicus piniperda					
 Scientific_Name	Brachytarsus variegatus	unmatched						
 Scientific_Name	Apis mellifera?	unmatched	Apis mellifera					
 Scientific_Name	Oncometopia orbona	unmatched						
