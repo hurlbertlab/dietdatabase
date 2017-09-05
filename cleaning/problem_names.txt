@@ -53,8 +53,8 @@ Scientific_Name	Lepomis  gibbosus	unmatched	Lepomis gibbosus
 Scientific_Name	Marmosa elegans	unmatched	Thylamys elegans					
 Scientific_Name	Pantherophis obsoletus	unmatched	Elaphe obsoleta					
 Scientific_Name	Plestiodon brevirostris	unmatched	Eumeces brevirostris					
-Scientific_Name	Gallus gallus domesticus	unmatched		keep as is				
-Scientific_Name	Anas platyrhynchos domesticus	unmatched		keep as is				
+Scientific_Name	Gallus gallus domesticus	unmatched	Gallus gallus	Subspecies = domesticus				
+Scientific_Name	Anas platyrhynchos domesticus	unmatched	Anas platyrhynchos	Subspecies = domesticus				
 Scientific_Name	Tyrannus verticalus	unmatched	Tyrannus verticalis					
 Scientific_Name	Aspidoscelis tigris	unmatched	Cnemidophorus tigris					
 Scientific_Name	Oreothlypis celata	unmatched	Leiothlypis celata					
@@ -66,17 +66,17 @@ Scientific_Name	Ambrosia artemsiifolia	unmatched	Ambrosia artemisiifolia
 Scientific_Name	Bistorta vivpara	unmatched	Bistorta vivipara					
 Scientific_Name	Termopsis augusticollis	unmatched	Zootermopsis angusticollis					
 Scientific_Name	"Aphodius fimetarius, eleutus"	unmatched	Aphodius fimetarius					
-Scientific_Name	Helobia punctipennis	unmatched						
+Scientific_Name	Helobia punctipennis	unmatched	Symplecta punctipennis					
 Scientific_Name	Scatophaga furcata	unmatched	Scathophaga furcata					
 Scientific_Name	Cercyon fulvipennis	unmatched	Cercyon limbatus					
-Scientific_Name	Microbregma emarginatum granicolle	wrong rank; too high		keep as is				
-Scientific_Name	Serropalpus barbatus	unmatched						
-Scientific_Name	Sapromyza luteola	unmatched						
+Scientific_Name	Microbregma emarginatum granicolle	wrong rank; too high	Microbregma emarginatum	Subspecies = granicolle				
+Scientific_Name	Serropalpus barbatus	unmatched		Genus = Serropalpus & Family = Melandryidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Sapromyza luteola	unmatched		Genus = Sapromyza & Family = Lauxaniidae & Order = Diptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Dichrochira glabricula	unmatched	Pteromicra glabricula					
 Scientific_Name	Aphodius distinctus	unmatched	Chilothorax distinctus					
 Scientific_Name	Tegenaria derhami	unmatched	Tegenaria domestica					
 Scientific_Name	Kali tragus	unmatched	Salsola tragus					
-Scientific_Name	Ischaemum rugosum; Oryza latifolia; Rottboellia cochinchinensis	unmatched						
+Scientific_Name	Ischaemum rugosum; Oryza latifolia; Rottboellia cochinchinensis	unmatched		Family = Poaceae				
 Scientific_Name	Pennisetum glaucum	unmatched	Cenchrus americanus					
 Scientific_Name	Echinochloa crus-gall	wrong rank; too high	Echinochloa crus-galli					
 Scientific_Name	Lepomis	wrong rank; too low		Genus = Lepomis				
@@ -115,120 +115,120 @@ Scientific_Name	Pheuticus melanocephalus	unmatched	Pheucticus melanocephalus
 Scientific_Name	Mustela ermina	unmatched	Mustela erminea					
 Scientific_Name	Reithrodontymys megalotis	unmatched	Reithrodontomys megalotis					
 Scientific_Name	Marmota flavaventris	unmatched	Marmota flaviventris					
-Scientific_Name	Carex D	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
-Scientific_Name	Carex F	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
-Scientific_Name	Carex J	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
-Scientific_Name	Carex K	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
-Scientific_Name	Carex I	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
-Scientific_Name	Carex E	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plante & Unidentified = yes				
+Scientific_Name	Carex D	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Unidentified = yes				
+Scientific_Name	Carex F	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Unidentified = yes				
+Scientific_Name	Carex J	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Unidentified = yes				
+Scientific_Name	Carex K	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Unidentified = yes				
+Scientific_Name	Carex I	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Unidentified = yes				
+Scientific_Name	Carex E	unmatched		Genus = Carex & Family = Cyperaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Unidentified = yes				
 Scientific_Name	Avena fatua?	unmatched	Avena fatua					
 Scientific_Name	Inula Helenium	wrong rank; too high	Inula helenium					
-Scientific_Name	Mercurialis perennis	unmatched		keep as is				
+Scientific_Name	Mercurialis perennis	unmatched		Genus = Mercurialis & Family = Euphorbiaceae & Order = Malpighiales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Unidentified = yes				
 Scientific_Name	Pinus viginiana	unmatched	Pinus virginiana					
 Scientific_Name	Entylia concisa	unmatched	Entylia carinata					
-Scientific_Name	Micrutalis calva	unmatched		keep as is				
-Scientific_Name	Micrutalis parva	unmatched		keep as is				
+Scientific_Name	Micrutalis calva	unmatched		Genus = Micrutalis & Family = Membracidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Micrutalis parva	unmatched		Genus = Micrutalis & Family = Membracidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Tetigonia hieroglyphica	unmatched	Graphocephala hieroglyphica					
-Scientific_Name	Cicadula 6-punctata	unmatched						
-Scientific_Name	Tylopelta brevis	unmatched						
+Scientific_Name	Cicadula 6-punctata	unmatched		Genus = Cicadula & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Tylopelta brevis	unmatched		Genus = Tylopelta & Family = Membracidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Bembidium versicolor	unmatched	Bembidion versicolor					
-Scientific_Name	Tachys tripunctata	unmatched						
-Scientific_Name	Agonoderus pallipes	unmatched						
+Scientific_Name	Tachys tripunctata	unmatched		Genus = Tachys & Family = Carabidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Agonoderus pallipes	unmatched		Genus = Agonoderus & Family = Carabidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Hydrochus subcupreus?	unmatched	Hydrochus subcupreus					
 Scientific_Name	Cercyon melanocephalum	unmatched	Cercyon melanocephalus					
 Scientific_Name	Heterothops fasculus	unmatched	Heterothops fusculus					
-Scientific_Name	Xantholinus obsidianus	unmatched						
-Scientific_Name	Cilea silphoides	unmatched		keep as is				
-Scientific_Name	Stilbus apicalis	unmatched		keep as is				
+Scientific_Name	Xantholinus obsidianus	unmatched		Genus = Xantholinus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Cilea silphoides	unmatched		Genus = Cilea & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Stilbus apicalis	unmatched		Genus = Stilbus & Family = Phalacridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Typhaea fumata	unmatched	Typhaea stercorea					
 Scientific_Name	Hister?americanus	unmatched	Hister americanus					
-Scientific_Name	Hister subrotundus	unmatched						
-Scientific_Name	Saprinus scissus	unmatched						
-Scientific_Name	Saprinus lubricus	wrong rank; too high						
-Scientific_Name	Saprinus sphaeriodes	unmatched						
+Scientific_Name	Hister subrotundus	unmatched		Genus = Hister & Family = Histeridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Saprinus scissus	unmatched		Genus = Saprinus & Family = Histeridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Saprinus lubricus	wrong rank; too high		Genus = Saprinus & Family = Histeridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Saprinus sphaeriodes	unmatched		Genus = Saprinus & Family = Histeridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Cryptarcha strigata	unmatched	Cryptarcha strigatula					
 Scientific_Name	Melanopthalma	unmatched		Genus = Melanophthalma				
-Scientific_Name	Hyperoides choris	unmatched		keep as is				
+Scientific_Name	Hyperoides choris	unmatched		Genus = Hyperoides & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Drapetes geminatus	unmatched	Drapetes exstriatus					
 Scientific_Name	Oxyomus poreatus	unmatched	Oxyomus sylvestris					
 Scientific_Name	Aphodius vittatus	unmatched	Planolinus tenellus					
-Scientific_Name	Aphodius punctatus	unmatched						
-Scientific_Name	Aphodius stercorosus	unmatched						
+Scientific_Name	Aphodius punctatus	unmatched		Genus = Aphodius & Family = Scarabaeidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Aphodius stercorosus	unmatched		Genus = Aphodius & Family = Scarabaeidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Metachroma aeneicolle	unmatched	Metachroma longicolle					
-Scientific_Name	Crepidodera helxines	unmatched						
+Scientific_Name	Crepidodera helxines	unmatched		Genus = Crepidodera & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Thecesternus humeralis?	unmatched	Thecesternus humeralis					
 Scientific_Name	Sitona flavescens	unmatched	Sitona lepidus					
-Scientific_Name	Apion metallicum	unmatched						
+Scientific_Name	Apion metallicum	unmatched		Genus = Apion & Family = Brentidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Phytonomus posticus	unmatched	Hypera postica					
 Scientific_Name	Conotrachelus nenuphar?	unmatched	Conotrachelus nenuphar					
 Scientific_Name	Cryptorhynchus bisignatus	unmatched	Eubulus bisignatus					
 Scientific_Name	Hypocoeliodes wickhami?	unmatched	Hypocoeliodes wickhami					
-Scientific_Name	Coeliodes acephalus	unmatched						
-Scientific_Name	Limnobaris blandita	unmatched						
+Scientific_Name	Coeliodes acephalus	unmatched	Acanthoscelidius acephalus					
+Scientific_Name	Limnobaris blandita	unmatched		Genus = Limnobaris & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Rhinoncus longulus	unmatched	Campylirhynchus longulus					
-Scientific_Name	Centrinus picumnus	unmatched						
+Scientific_Name	Centrinus picumnus	unmatched		Genus = Centrinus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Calandra oryza	unmatched	Sitophilus oryzae					
 Scientific_Name	Pityophthorus minutissimus	wrong rank; too high	Pseudopityophthorus minutissimus					
 Scientific_Name	Tomicus calligraphicus	unmatched	Ips calligraphus					
-Scientific_Name	Brachytarsus plumbeus	unmatched						
-Scientific_Name	Stictocephala festiva	unmatched						
-Scientific_Name	Agallia 4-punctata	unmatched						
+Scientific_Name	Brachytarsus plumbeus	unmatched		Genus = Brachytarsus & Family = Anthribidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Stictocephala festiva	unmatched		Genus = Stictocephala & Family = Membracidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Agallia 4-punctata	unmatched	Agallia quadripunctata					
 Scientific_Name	Nezara hilaris	unmatched	Acrosternum hilare					
 Scientific_Name	Elaphrus ruscarius?	unmatched	Elaphrus ruscarius					
 Scientific_Name	Poecilus lucublandus?	unmatched	Poecilus lucublandus					
 Scientific_Name	Poecilus scitulus?	unmatched	Poecilus scitulus					
 Scientific_Name	Anisodactylus baltimorensis	unmatched	Anisodactylus sanctaecrucis					
-Scientific_Name	Tropisternus limbalis	unmatched	Tropisternus lateralis limbalis					
+Scientific_Name	Tropisternus limbalis	unmatched	Tropisternus lateralis	Subspecies = limbalis				
 Scientific_Name	Philhydrus hamiltoni	unmatched	Enochrus hamiltoni					
-Scientific_Name	Philonthus varians	unmatched						
-Scientific_Name	Philonthus lomatus	unmatched						
-Scientific_Name	Tachyporus californicus	unmatched						
+Scientific_Name	Philonthus varians	unmatched		Genus = Philonthus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Philonthus lomatus	unmatched		Genus = Philonthus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Tachyporus californicus	unmatched		Genus = Tachyporus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	ColeoColeomegilla maculata	unmatched	Coleomegilla maculata					
-Scientific_Name	Hippodamia ambigua	unmatched	Hippodamia quinquesignata ambigua					
-Scientific_Name	Hippodamia 15-maculata	unmatched	Hippodamia quinquesignata ambigua					
-Scientific_Name	Hippodamia 13-punctata	unmatched	Hippodamia quinquesignata ambigua					
+Scientific_Name	Hippodamia ambigua	unmatched	Hippodamia quinquesignata	Subspecies = ambigua				
+Scientific_Name	Hippodamia 15-maculata	unmatched	Hippodamia quinquesignata	Subspecies = ambigua				
+Scientific_Name	Hippodamia 13-punctata	unmatched	Hippodamia quinquesignata	Subspecies = ambigua				
 Scientific_Name	Cycloneda californica	unmatched	Coccinella californica					
 Scientific_Name	Scymnus?collaris	unmatched	Scymnus collaris					
-Scientific_Name	Scymnus partibus	unmatched						
+Scientific_Name	Scymnus partibus	unmatched		Genus = Scymnus & Family = Coccinellidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Dermestes mannerheimii	unmatched	Dermestes talpinus					
 Scientific_Name	Hister?sellatus	unmatched	Hister sellatus					
 Scientific_Name	Hister interruptus	unmatched	Saprinus perinterruptus					
-Scientific_Name	Hister americanus	unmatched						
-Scientific_Name	Pachylophus aeneipunctatus	unmatched						
-Scientific_Name	Melanophthalmus gibbosus	unmatched						
-Scientific_Name	Dryops striata	unmatched						
-Scientific_Name	Otophorus vittatus	unmatched						
+Scientific_Name	Hister americanus	unmatched	Atholus americanus					
+Scientific_Name	Pachylophus aeneipunctatus	unmatched		Genus = Pachylophus & Family = Chloropidae & Order = Diptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Melanophthalmus gibbosus	unmatched		Genus = Melanophthalmus & Family = Latridiidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Dryops striata	unmatched		Genus = Dryops & Family = Dryopidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Otophorus vittatus	unmatched	Phaeaphodius rectus					
 Scientific_Name	Typophorus nigritus?	unmatched	Typophorus nigritus					
-Scientific_Name	Typophorus sellatus	unmatched						
-Scientific_Name	Plagiodera prasinella	unmatched						
-Scientific_Name	Gastrophysa viridula	unmatched		keep as is				
-Scientific_Name	Lina scripta	unmatched						
-Scientific_Name	Diabrotica 12-punctata	unmatched	Diabrotica undecimpunctata howardi					
-Scientific_Name	Diabrotica soror	unmatched						
+Scientific_Name	Typophorus sellatus	unmatched		Genus = Typophorus & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Plagiodera prasinella	unmatched		Genus = Plagiodera & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Gastrophysa viridula	unmatched		Genus = Gastrophysa & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Lina scripta	unmatched	Chrysomela scripta					
+Scientific_Name	Diabrotica 12-punctata	unmatched	Diabrotica undecimpunctata	Subspecies = howardi				
+Scientific_Name	Diabrotica soror	unmatched		Genus = Diabrotica & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Epitrix parvula	unmatched	Epitrix hirtipennis					
-Scientific_Name	Psylliodes punctulata	unmatched						
-Scientific_Name	Apion vespertinum	unmatched						
-Scientific_Name	Apion cavifrons	unmatched						
+Scientific_Name	Psylliodes punctulata	unmatched		Genus = Psylliodes & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Apion vespertinum	unmatched		Genus = Apion & Family = Brentidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Apion cavifrons	unmatched		Genus = Apion & Family = Brentidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Sphenophorus placidus	unmatched	Sphenophorus venatus					
 Scientific_Name	Tomicus pini	unmatched	Tomicus piniperda					
-Scientific_Name	Brachytarsus variegatus	unmatched						
+Scientific_Name	Brachytarsus variegatus	unmatched		Genus = Brachytarsus & Family = Anthribidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Apis mellifera?	unmatched	Apis mellifera					
-Scientific_Name	Oncometopia orbona	unmatched						
-Scientific_Name	Olophrum obtectum	unmatched						
-Scientific_Name	Saprinus rotundatus	unmatched						
-Scientific_Name	Aphodius inquinatus	unmatched						
-Scientific_Name	Cerotoma caminea	unmatched						
-Scientific_Name	Galerucella sagittaria	unmatched						
-Scientific_Name	Crepidodera velutinus	unmatched						
-Scientific_Name	Rhipiphorus dimidiatus	unmatched						
-Scientific_Name	Orchestes vittata	unmatched						
-Scientific_Name	Tomicus calligraphus	unmatched						
-Scientific_Name	Tomicus cacographus	unmatched						
-Scientific_Name	Solubea pugnax	unmatched						
-Scientific_Name	Podisus subspinosus	unmatched						
+Scientific_Name	Oncometopia orbona	unmatched		Genus = Oncometopia & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Olophrum obtectum	unmatched		Genus = Olophrum & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Saprinus rotundatus	unmatched		Genus = Saprinus & Family = Histeridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Aphodius inquinatus	unmatched	Calamosternus granarius					
+Scientific_Name	Cerotoma caminea	unmatched		Genus = Cerotoma & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Galerucella sagittaria	unmatched	Galerucella sagittariae	Genus = Galerucella & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Crepidodera velutinus	unmatched		Genus = Crepidodera & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Rhipiphorus dimidiatus	unmatched		Genus = Rhipiphorus & Family = Rhipiphoridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Orchestes vittata	unmatched		Genus = Orchestes & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Tomicus calligraphus	unmatched		Genus = Tomicus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Tomicus cacographus	unmatched		Genus = Tomicus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Solubea pugnax	unmatched	Oebalus pugnax					
+Scientific_Name	Podisus subspinosus	unmatched		Genus = Podisus & Family = Pentatomidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Rhantus bistriatus?	unmatched	Rhantus bistriatus					
-Scientific_Name	Creophilus villosus	unmatched						
-Scientific_Name	Cercyon ocellatus	unmatched						
+Scientific_Name	Creophilus villosus	unmatched	Creophilus maxillosus					
+Scientific_Name	Cercyon ocellatus	unmatched		Genus = Cercyon & Family = Hydrophilidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Tenebroides viridescens	unmatched						
 Scientific_Name	Typophorus vitallis	unmatched						
 Scientific_Name	Xyleborus impressus	unmatched						
