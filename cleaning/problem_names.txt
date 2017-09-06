@@ -229,49 +229,49 @@ Scientific_Name	Podisus subspinosus	unmatched		Genus = Podisus & Family = Pentat
 Scientific_Name	Rhantus bistriatus?	unmatched	Rhantus bistriatus					
 Scientific_Name	Creophilus villosus	unmatched	Creophilus maxillosus					
 Scientific_Name	Cercyon ocellatus	unmatched		Genus = Cercyon & Family = Hydrophilidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
-Scientific_Name	Tenebroides viridescens	unmatched						
-Scientific_Name	Typophorus vitallis	unmatched						
-Scientific_Name	Xyleborus impressus	unmatched						
-Scientific_Name	Chramesus icoriae	unmatched						
-Scientific_Name	Tiphia inornata	unmatched						
-Scientific_Name	Ichneumon irritator	unmatched						
+Scientific_Name	Tenebroides viridescens	unmatched		Genus = Tenebroides & Family = Trogossitidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Typophorus vitallis	unmatched		Genus = Typophorus & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Xyleborus impressus	unmatched		Genus = Xyleborus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Chramesus icoriae	unmatched	Chramesus hicoriae					
+Scientific_Name	Tiphia inornata	unmatched		Genus = Tiphia & Family = Tiphiidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Ichneumon irritator	unmatched	Dolichomitus irritator	Genus = Dolichomitus & Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Juniperus virginiana?	unmatched	Juniperus virginiana					
-Scientific_Name	Platynus variolatus	unmatched						
+Scientific_Name	Platynus variolatus	unmatched		Genus = Platynus & Family = Carabidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Casnonia pennsylvanica	unmatched						
 Scientific_Name	Cnemidotus 12-punctatus	unmatched						
 Scientific_Name	Hister?	unmatched						
-Scientific_Name	Saprinus pennsylvanicus	unmatched						
+Scientific_Name	Saprinus pennsylvanicus	unmatched	Saprinus pensylvanicus					
 Scientific_Name	Omosita colon?	unmatched	Omosita colon					
-Scientific_Name	Drasterius elegans	unmatched						
-Scientific_Name	Haltica foliacea	unmatched						
-Scientific_Name	Phyllotreta sinuata	unmatched						
-Scientific_Name	Apion porcatus	unmatched						
-Scientific_Name	Idiocerus duzei	unmatched						
-Scientific_Name	Bradycellus ruprestis	unmatched						
+Scientific_Name	Drasterius elegans	unmatched		Genus = Drasterius & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Haltica foliacea	unmatched	Altica foliaceae					
+Scientific_Name	Phyllotreta sinuata	unmatched		Genus = Phyllotreta & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Apion porcatus	unmatched	Apion porcatum	Genus = Apion & Family = Brentidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Idiocerus duzei	unmatched		Genus = Idiocerus & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Bradycellus ruprestis	unmatched	Bradycellus rupestris					
 Scientific_Name	Aleochara	wrong rank; too low						
-Scientific_Name	Heliothis obsoleta	unmatched						
+Scientific_Name	Heliothis obsoleta	unmatched	Helicoverpa armigera	Genus = Helicoverpa & Family = Noctuidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Polygonum glabrum	unmatched	Persicaria glabra					
 Scientific_Name	Lumbricus	wrong rank; too low						
-Scientific_Name	Plestiodon inexpectatus	unmatched						
-Scientific_Name	Sphaerobius quadristriatus	unmatched						
-Scientific_Name	Oncometopia lateralis	unmatched						
-Scientific_Name	Helochara communis	unmatched						
-Scientific_Name	Draeculacephala mollipes	unmatched						
-Scientific_Name	Xerophloea viridis	unmatched						
-Scientific_Name	Tachys incurvus	unmatched						
-Scientific_Name	Enochrus nebulosus	unmatched						
-Scientific_Name	Oxytelus fuscipennis	unmatched						
-Scientific_Name	Lacon rectangularis	unmatched						
-Scientific_Name	Monocrepidius vespertinus	unmatched						
-Scientific_Name	Aphodius fossor	unmatched						
-Scientific_Name	Ataenius figurator	unmatched						
-Scientific_Name	Phaedon prasinella	unmatched						
-Scientific_Name	Systena taeniata	unmatched						
-Scientific_Name	phyxelis rigidus	wrong rank; too high						
-Scientific_Name	Sitona californicus	unmatched						
-Scientific_Name	Maemactes cribratus	unmatched						
-Scientific_Name	Chelonus fissus	unmatched						
-Scientific_Name	Collops quadrimaculatus	unmatched						
+Scientific_Name	Plestiodon inexpectatus	unmatched	Eumeces inexpectatus					
+Scientific_Name	Sphaerobius quadristriatus	unmatched	Slaterobius insignis					
+Scientific_Name	Oncometopia lateralis	unmatched	Cuerna sayi	Genus = Cuerna & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Helochara communis	unmatched		Genus = Helochara & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Draeculacephala mollipes	unmatched		Genus = Draeculacephala & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Xerophloea viridis	unmatched		Genus = Xerophloea & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Tachys incurvus	unmatched		Genus = Tachys & Family = Carabidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Enochrus nebulosus	unmatched		Genus = Enochrus & Family = Hydrophilidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Oxytelus fuscipennis	unmatched	Oxytelus laqueatus					
+Scientific_Name	Lacon rectangularis	unmatched		Genus = Lacon & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Monocrepidius vespertinus	unmatched	Conoderus vespertinus					
+Scientific_Name	Aphodius fossor	unmatched	Teuchestes fossor					
+Scientific_Name	Ataenius figurator	unmatched	Ataeniopsis figurator					
+Scientific_Name	Phaedon prasinella	unmatched	Phaedon prasinellus					
+Scientific_Name	Systena taeniata	unmatched	Systena bitaeniata					
+Scientific_Name	phyxelis rigidus	wrong rank; too high	Phyxelis rigidus					
+Scientific_Name	Sitona californicus	unmatched	Sitona californius					
+Scientific_Name	Maemactes cribratus	unmatched		Genus = Maemactes & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Chelonus fissus	unmatched		Genus = Chelonus & Family = Braconidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Collops quadrimaculatus	unmatched		Genus = Collops & Family = Melyridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Graphops beryllinus	unmatched						
 Scientific_Name	Iva axillaris?	unmatched	Iva axillaris					
 Scientific_Name	Lolium perenne?	unmatched	Lolium perenne					
