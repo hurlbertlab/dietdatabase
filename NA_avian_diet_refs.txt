@@ -2579,19 +2579,19 @@ Dickcissel	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Basili, G. D.
 Dickcissel	Cardinalidae	2002	Feeding	Main Foods Taken	"Basili, G. D. and S. A. Temple. 1998. Dickcissels and crop damage in Venezuela: defining the problem with ecological models. Ecol. Applic. 9:732-739."	y	n		
 Dickcissel	Cardinalidae	2002	Food Selection And Storage		"Kobal, S. N., N. F. Payne, and D. R. Ludwig. 1998. Nestling food habits of 7 grassland bird species and insect abundance in grassland habitats in northern Illinois. Trans. Ill. Acad. Sci. 91:69-75."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Feeding	Main Foods Taken	"Cruden, R. W. and S. M. Hermann-Parker. 1977. Defense of feeding sites by orioles and Hepatic Tanagers in Mexico. Auk 94:594-596."	y	n		
-Hepatic Tanager	Cardinalidae	2002	Feeding	Main Foods Taken	"Marshall, Jr., J. T. 1957. Birds of pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna no. 32."	y	y		
+Hepatic Tanager	Cardinalidae	2002	Feeding	Main Foods Taken	"Marshall, Jr., J. T. 1957. Birds of pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna no. 32."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Isler, M. L. and P. R. Isler. 1999. The tanagers: natural history, distribution, and identification. Smithson. Inst. Press, Washington, D.C."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Feeding	Main Foods Taken	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."	n		Book. Not in UNC library	
 Hepatic Tanager	Cardinalidae	2002	Feeding	Main Foods Taken	"Miller, A. H. and E. McMillan. 1964. Hepatic Tanager vagrant to coastal section of California. Condor 66:308."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Wetmore, A. 1921. Further notes on birds observed near Williams, Arizona. Condor 23:60-67."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Howell, T. R. 1972. Birds of the lowland pine savanna of northeastern Nicaragua. Condor 74:316-340."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Bohlen, H. D. 1989. The birds of Illinois. Indiana Univ. Press, Bloomington."	n		Available in Library Service Center	
-Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Fish Game and Bur. Biol. Surv. Washington, D.C."	n		Unavailable	
-Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Johnson, N. K. 1965. The breeding avifaunas of the Sheep and Spring ranges in southern Nevada. Condor 67:93-124."	y	y		
+Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Fish Game and Bur. Biol. Surv. Washington, D.C."	n	n	Unavailable	
+Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Johnson, N. K. 1965. The breeding avifaunas of the Sheep and Spring ranges in southern Nevada. Condor 67:93-124."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Dobbs, R. C. and P. R. Martin. 1998. Migrant bird participation at an army ant swarm in montane Jalisco, Mexico. Wilson Bull. 110:293-295."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Ffrench, R. 1991. A guide to the birds of Trinidad and Tobago. Cornell Univ. Press, Ithaca, NY."	y	n	Available in Science Library Annex	
 Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	y	n	Available in Science Library Annex	
-Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Russell, S. M. 1964. A distributional study of the birds of British Honduras. Ornithol. Monogr. no. 1."	y	y		
+Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Russell, S. M. 1964. A distributional study of the birds of British Honduras. Ornithol. Monogr. no. 1."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Henshaw, H. W. 1875. Report on the ornithological collections made in portions of Nevada, Utah, California, Colorado, New Mexico, and Arizona during the years 1871, 1872, 1873, and 1874. Wheeler's Rep. Exploratory Survey West of the 100th meridian, Washington, D.C."				
 Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Bradley, H. L. 1948. A life history study of the Indigo Bunting. Jack-Pine Warbler 26:103-113."	y	n		
 Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Mcatee, W. L. 1926. The relation of birds to woodlots in New York state. Roosevelt Wild Life Bull. 4. 154."	y	n		
