@@ -258,6 +258,32 @@ LeadingAndTrailingSpaceRemover = function(dietdatabase) {
 }
          
 
+# Function for specifying Prey_Name_Status as 'unknown' if name does
+# not match GloBI's names in 'taxonUnmatched.tsv'
+# May want to be sure to download an updated version of 'taxonUnmatched.tsv'
+# from http://www.globalbioticinteractions.org/references.html
+updateNameStatus = function(diet, write = TRUE) {
+  require(dplyr)
+  names = read.table('cleaning/taxonUnmatched.tsv', sep = '\t',
+                          quote = '\"', fill = T, header = T) %>%
+    filter(grepl('Allen Hurlbert. Avian Diet Database', source))
+ 
+  badNames = unmatched$unmatched.taxon.name
+
+  diet$Prey_Name_Status[dd$Prey_Kingdom %in% badNames |
+                        dd$Prey_Phylum %in% badNames |
+                        dd$Prey_Class %in% badNames |
+                        dd$Prey_Order %in% badNames |
+                        dd$Prey_Suborder %in% badNames |
+                        dd$Prey_Family %in% badNames |
+                        dd$Prey_Genus %in% badNames |
+                        dd$Prey_Scientific_Name %in% badNames] = 'unknown'
+  if(write) {
+    write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
+  }
+}
+                               
+
 # For dates with no clear Observation_Year_End, replace
 # Observation_Year_End with the publication year.
 # (rapply is to exclude any years in the article title)
