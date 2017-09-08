@@ -211,9 +211,9 @@ outlierCheck = function(diet) {
     
     mon_end = outlier(diet$Observation_Month_End, 0, 12),
     
-    year_beg = outlier(diet$Observation_Year_Begin, 1800, 2017),
+    year_beg = outlier(diet$Observation_Year_Begin, 1800, as.numeric(substr(Sys.Date(), 1, 4))),
     
-    year_end = outlier(diet$Observation_Year_End, 0, 2017),
+    year_end = outlier(diet$Observation_Year_End, 0, as.numeric(substr(Sys.Date(), 1, 4))),
     
     frac_diet = outlier(diet$Fraction_Diet, 0, 1),
     
