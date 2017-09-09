@@ -9,6 +9,102 @@ library(maps)
 source('scripts/database_summary_functions.R')
 source('cleaning/prey_name_cleaning.R')
 
+# Error checking
+# --function returns row numbers of any records outside specified range
+# --or if no outliers present, then "OK"
+outlier = function(field, min, max) {
+  if (class(field) != "numeric") {
+    field = suppressWarnings(as.numeric(field))
+  }
+  out = which(!is.na(field) & (field < min | field > max))
+  if (length(out) == 0) { out = 'OK'}
+  return(out)
+}
+
+
+outlierCheck = function(diet) {
+  out = list(
+    long = outlier(diet$Longitude_dd, -180, 180),
+    
+    lat = outlier(diet$Latitude_dd, -180, 180),
+    
+    alt_min = outlier(diet$Altitude_min_m, -100, 10000),
+    
+    alt_mean = outlier(diet$Altitude_mean_m, -100, 10000),
+    
+    alt_max = outlier(diet$Altitude_max_m, -100, 10000),
+    
+    mon_beg = outlier(diet$Observation_Month_Begin, 0, 12),
+    
+    mon_end = outlier(diet$Observation_Month_End, 0, 12),
+    
+    year_beg = outlier(diet$Observation_Year_Begin, 1800, 2017),
+    
+    year_end = outlier(diet$Observation_Year_End, 0, 2017),
+    
+    frac_diet = outlier(diet$Fraction_Diet, 0, 1),
+    
+    item_sampsize = outlier(diet$Item_Sample_Size, 0, 27000), # max recorded is 26958
+    
+    bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 1300),
+    
+    sites = outlier(diet$Sites, 0, 100)
+    
+  )
+  
+  return(out)
+}
+
+# Function for capitalizing the first letter of each word (e.g. common names)
+simpleCap <- function(x) {
+  s <- strsplit(x, " ")[[1]]
+  paste(toupper(substring(s, 1,1)), substring(s, 2), sep="", collapse=" ")
+}
+
+# Function to remove unintended leading or trailing spaces from text fields
+
+LeadingAndTrailingSpaceRemover = function(dietdatabase) {
+  characterFields = which(sapply(dietdatabase, class) == "character")
+  
+  for (i in characterFields) {
+    for (j in 1:nrow(dietdatabase)) {
+      val = dietdatabase[j, i]
+      #leading and trailing spaces
+      if (substring(val, 1, 1) == " " & substring(val, nchar(val), nchar(val)) == " ") {
+        dietdatabase[j, i] = substring(val, 2, nchar(val) - 1)
+        #leading spaces
+      } else if (substring(val, 1, 1) == " ") {
+        dietdatabase[j, i] = substring(val, 2, nchar(val))
+        #trailing spaces
+      } else if (substring(val, nchar(val), nchar(val)) == " ") {
+        dietdatabase[j, i] = substring(val, 1, nchar(val) - 1)
+      }
+    }
+  }
+  return(dietdatabase)
+}
+
+
+
+# Bird name cleaning which must be named eBird_Taxonomy_v20XX.csv where xx is year
+bird_name_clean = function(diet) {
+  
+  # Load most recent taxonomy file 
+  filename = list.files('birdtaxonomy', pattern = 'eBird_Taxonomy_v20[0-9][0-9].csv')
+  
+  tax = read.table(paste('birdtaxonomy/', filename, sep = ''), header = T,
+                   sep = ',', quote = '\"', stringsAsFactors = F)
+  tax$Family = word(tax$FAMILY, 1)
+
+  db_spp = select(diet, Common_Name, Scientific_Name, Family) %>% unique()
+  
+  # Find common names or scientific names that are unmatched with the eBird checklist
+  unmatched = anti_join(db_spp, tax, by = c("Common_Name" = "PRIMARY_COM_NAME", 
+                                             "Scientific_Name" = "SCI_NAME",
+                                             "Family" = "Family"))
+  return(unmatched)
+}
+
 
 # Checking that diet values sum to 1 for non-occurrence data
 # (for each analysis, which is the unique combination of Source, Common_Name, Year, Month, etc.)
@@ -41,7 +137,10 @@ checksum = function(diet, accuracy = 0.05) {
 
 qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
   
-  # Error checking -- numeric fields
+
+  probbirdnames = bird_name_clean(diet)
+  
+    # Error checking -- numeric fields
   outliers = outlierCheck(diet)
 
   # Error checking -- text fields
@@ -165,7 +264,8 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
   
   fraction_sum_check = checksum(diet, accuracy = fracsum_accuracy)
   
-  output = list(outliers = outliers, 
+  output = list(birdnames = probbirdnames,
+                outliers = outliers, 
                 season = season, 
                 habitat = habitat, 
                 taxonomy = taxonomy, 
