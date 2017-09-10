@@ -5,6 +5,13 @@ backed up, and many people can access it and add records simultaneously from dif
 
 This means that you will need to learn some basic Git commands for working with it. 
 
+### Getting a ssh key
+It may be useful to get a ssh key which helps Git know that you and the machine you are working on are both valid. This
+is something you only need to do once (per machine that you work on), probably when you first get set up. Follow the
+instructions [here](ssh_instructions.md).
+
+
+### pull, add, commit, push
 From your local machine, open Git (e.g. using Git Bash from a Windows machine), and 'pull' down the most up-to-date
 version of the database after making sure you're in the right directory housing the repository.
 
