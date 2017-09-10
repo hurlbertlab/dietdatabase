@@ -107,7 +107,7 @@ $Problem_bird_names
     Common_Name    Scientific_Name      Family
 1 Swamp Sparrow Melospiza georgina Emberizidae
 ```
-The `$birdnames` section highlights any species that either 1) have a typo or invalid name for either the common name, scientific
+The `$Problem_bird_names` section highlights any species that either 1) have a typo or invalid name for either the common name, scientific
 name, or family name, or 2) have an error in the family assignment or scientific name assignment to the given common name. In this
 case, a quick search of the eBird checklist reveals the scientific name should be 'Melospiza georgiana'.
 
@@ -117,7 +117,8 @@ $Taxonomy
 1 eBird Clements Checklist v2015 1
 ```
 Non-name based text fields are checked against accepted values. If no problems are detected then the field is "OK". Otherwise,
-a table of unaccepted names (or possible typos) and their frequency are provided. In this case
+a table of unaccepted names (or possible typos) and their frequency are provided. In this case this is an out of date taxonomy
+and should be verified or corrected if necessary.
 
 ```
 $Longitude_dd
@@ -243,8 +244,17 @@ In the second study listed, you can see that the Sum_Diet is 1.021. This may ref
 entered (so compare values to the original paper), but it is so small it could also just reflect the accumulation of rounding
 errors. *I recommend setting `fracsum_accuracy = 0.03` as the default to minimize these types of false positives.
 
-
 ## Cleaning taxonomic names of prey
 This is a big task, so we've got a separate page on it [here](https://github.com/hurlbertlab/dietdatabase/blob/master/cleaning/name_cleaning_instructions.md). 
 
+## Incorporating cleaned database records into main database
+One all typos, outliers, unaccepted values, and invalid taxonomic names have been corrected for the study you have entered, 
+you may now incorporate these records into the main Avian Diet Database. The easiest way to do this is to
+1) make sure you have the latest version of all files by typing `git pull origin master` in Git,
+2) open your cleaned file (e.g. 'AvianDietDatabase_Beaver_and_Baldwin_1975.txt'),
+3) copy everything EXCEPT the header row,
+4) open the main database file ('AvianDietDatabase.txt'),
+5) paste the new cleaned records at the bottom and save the file,
+6) commit this change in commit like `git commit -am "adding cleaned records from Beaver & Baldwin 1975"
+7) push these changes to the master repo: `git push origin master`
 
