@@ -135,12 +135,20 @@ checksum = function(diet, accuracy = 0.05) {
 }
 
 
-qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
+qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   
 
   probbirdnames = bird_name_clean(diet)
   
-    # Error checking -- numeric fields
+  taxonomy = count(diet, Taxonomy) %>% 
+    filter(!Taxonomy %in% c('eBird Clements Checklist v2016', 'eBird Clements Checklist v2017')) %>%
+    data.frame()
+  if (nrow(taxonomy) == 0) {
+    taxonomy = "OK"
+  }
+  
+  
+  # Error checking -- numeric fields
   outliers = outlierCheck(diet)
 
   # Error checking -- text fields
@@ -149,8 +157,8 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
     arrange(desc(n)) %>%
     data.frame()
   if (nrow(season) == 0) {
-    season = "Observation_Season field OK"
-  }
+    season = "OK"
+  } 
 
       
   habitat = strsplit(diet$Habitat_type, ";") %>%
@@ -162,9 +170,9 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
                               'forest', 'grassland', 'mangrove forest', 'multiple', 'shrubland', 
                               'urban', 'wetland', 'woodland'))
   if (nrow(habitat) == 0) {
-    habitat = "Habitat_type field OK"
+    habitat = "OK"
   } else {
-    names(habitat)[1] = 'Habitat_type'
+    names(habitat) = c('Habitat_type', 'n')
   }
   
 
@@ -175,9 +183,9 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
     data.frame() %>%
     filter(!tolower(.) %in% c('adult', 'egg', 'juvenile', 'larva', 'nymph', 'pupa', 'teneral'))
   if (nrow(stage) == 0) {
-    stage = "Prey_Stage field OK"
+    stage = "OK"
   } else {
-    names(stage)[1] = 'Prey_Stage'
+    names(stage) = c('Prey_Stage', 'n')
   }
   
   
@@ -190,9 +198,9 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
                               'gall', 'oogonium', 'pollen', 'root', 'sap', 'seed',
                               'spore', 'statoblasts', 'vegetation'))
   if (nrow(part) == 0) {
-    part = "Prey_Part field OK"
+    part = "OK"
   } else {
-    names(part)[1] = 'Prey_Part'
+    names(part) = c('Prey_Part', 'n')
   }
 
   
@@ -201,7 +209,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
     arrange(desc(n)) %>%
     data.frame()
   if (nrow(diettype) == 0) {
-    diettype = "Diet_Type field OK"
+    diettype = "OK"
   }
     
 
@@ -214,21 +222,13 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
                               'esophagus contents', 'fecal contents', 'nest debris', 
                               'pellet contents', 'prey remains', 'stomach contents'))
   if (nrow(studytype) == 0) {
-    studytype = "Study_Type field OK"
+    studytype = "OK"
   } else {
-    names(studytype)[1] = 'Study_Type'
+    names(studytype) = c('Study_Type', 'n')
   }
   
   
   
-  taxonomy = count(diet, Taxonomy) %>% 
-    filter(!Taxonomy %in% c('eBird Clements Checklist v2016', 'eBird Clements Checklist v2017')) %>%
-    data.frame()
-  if (nrow(taxonomy) == 0) {
-    taxonomy = "Taxonomy field OK"
-  }
-  
-
   countries = map('world', plot = F)$names %>%
     strsplit(":") %>% 
     lapply(`[[`, 1) %>%
@@ -253,29 +253,41 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .05) {
                      'Northern Territory', 'Fennoscandia', 'Siberia', 'Svalbard', 
                      'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles'))
   if (nrow(region) == 0) {
-    region = "Location_Region field OK"
+    region = "OK"
   } else {
-    names(region)[1] = 'Location_Region'
+    names(region) = c('Location_Region', 'n')
   }
   
   
-  location = count(diet, Location_Specific) %>% arrange(desc(n)) %>% data.frame()
+  locations = count(diet, Location_Specific) %>% arrange(desc(n)) %>% data.frame()
   
   
   fraction_sum_check = checksum(diet, accuracy = fracsum_accuracy)
   
-  output = list(birdnames = probbirdnames,
-                outliers = outliers, 
-                season = season, 
-                habitat = habitat, 
-                taxonomy = taxonomy, 
-                stage = stage, 
-                part = part, 
-                diettype = diettype,
-                studytype = studytype, 
-                region = region, 
-                location = location, 
-                fraction_sum_check = fraction_sum_check)
+  output = list(Problem_bird_names = probbirdnames,
+                Taxonomy = taxonomy, 
+                Longitude_dd = outliers$long,
+                Latitude_dd = outliers$lat,
+                Altitude_min_m = outliers$alt_min,
+                Altitude_mean_m = outliers$alt_mean,
+                Altitude_max_m = outliers$alt_max,
+                Location_Region = region, 
+                Location_Specific = locations, 
+                Observation_Season = season, 
+                Habitat_type = habitat, 
+                Observation_Month_Begin = outliers$mon_beg,
+                Observation_Year_Begin = outliers$year_beg,
+                Observation_Month_End = outliers$mon_end,
+                Observation_Year_End = outliers$year_end,
+                Prey_Stage = stage, 
+                Prey_Part = part, 
+                Fraction_Diet = outliers$frac_diet,
+                Diet_Type = diettype,
+                Item_Sample_Size = outliers$item_sampsize,
+                Bird_Sample_Size = outliers$bird_sampsize,
+                Sites = outliers$sites,
+                Study_Type = studytype, 
+                Fraction_sum_check = fraction_sum_check)
   
   return(output)
 }
