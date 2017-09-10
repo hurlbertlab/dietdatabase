@@ -255,6 +255,6 @@ you may now incorporate these records into the main Avian Diet Database. The eas
 3) copy everything EXCEPT the header row,
 4) open the main database file ('AvianDietDatabase.txt'),
 5) paste the new cleaned records at the bottom and save the file,
-6) commit this change in commit like `git commit -am "adding cleaned records from Beaver & Baldwin 1975"
+6) commit this change in commit like `git commit -am "adding cleaned records from Beaver & Baldwin 1975"`
 7) push these changes to the master repo: `git push origin master`
 
