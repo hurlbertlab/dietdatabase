@@ -6,9 +6,12 @@ library(tidyr)
 
 #################
 
-dbSummary = function() {
-  diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
-                    fill=T, stringsAsFactors = F)
+dbSummary = function(diet = NULL) {
+  
+  if (is.null(diet)) {
+    diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                      fill=T, stringsAsFactors = F)
+  }
   refs = read.table('NA_avian_diet_refs.txt', header=T, sep = '\t', quote = '\"',
                     fill=T, stringsAsFactors = F)
   orders = read.csv('birdtaxonomy/orders.csv', header = T, stringsAsFactors = F)
