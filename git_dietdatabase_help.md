@@ -13,15 +13,20 @@ $ cd /c/git/dietdatabase
 $ git pull origin master
 ```
 
-You can now open the database file ('AvianDietDatabase.txt') in Excel or Open Office and begin entering data. More details
-on this below. When you are finished with data entry for the day, be sure to Save As a tab-delimited .txt file (with the same name,
-in the same folder).
+Once you've encountered a study with quantitative diet data to enter, you want to open the file 'AvianDietDatabase_template.txt' in Excel and re-save it, replacing the word 'template' with the study author and year, e.g. 'AvianDietDatabase_Beaver_and_Baldwin_1975.txt'. Now you need to tell Git that this is a file you want to keep track of. We do
+this using `git add` like this:
+
+```
+$ git add AvianDietDatabase_Beaver_and_Baldwin_1975.txt
+```
+
+You can now begin entering data as described on the [main page](README.md). When you are finished with data entry for the day, be sure to Save As a tab-delimited .txt file (with the same name, in the same folder).
 
 Now you need to stage your committed changes, add a descriptive message of what you've added, and 'push' the new version
 to the master repository.
 
 ```
-$ git commit -am "added 3 diet studies for red-eyed vireo and 2 for white-eyed vireo"
+$ git commit -am "added 3 diet records for red-eyed vireo and 2 for white-eyed vireo"
 $ git push origin master
 ```
 
