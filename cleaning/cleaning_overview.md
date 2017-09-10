@@ -7,29 +7,61 @@ In R or RStudio, open a session and set your working directory to wherever the d
 on the machine you are working on, source the cleaning functions, and read in the file to be cleaned (e.g. 
 AvianDietDatabase_Beaver_and_Baldwin_1975.txt). 
 
-In the example below we will read in a test file, 
-'qa_qc_test_db.txt', that we know has several specific errors:
-
-Row #	Problem
-1	Location_Region is 'Rode Island', a typo which does not match currently accepted names
-2	Habitat_type is 'scrubland', which does not match currently accepted names (should be 'shrubland')
-3	Longitude is not within (-180, 180)
-4	Prey_Stage is 'juvie', which does not match currently accepted names (should be 'juvenile')
-5	Location_Specific is 'Multipe', a typo of 'Multiple'
-7	Prey_Part is 'fruity', which does not match currently accepted names (should be 'fruit')
-8	Scientific_Name, 'Melospiza georgina', does not match any names in the most recent eBird Clements checklist
-9	Fraction_Diet is greater than 1
-10	Fraction_Diet is greater than 1
-10	Taxonomy is different from the most recent bird taxonomy, eBird Clements Checklist v2016
-
-
 ```
 setwd('C:/Git/dietdatabase')                  # replace with the path to your local repository
 source('cleaning/database_error_checking.R')
 dietdb = read.table('cleaning/qa_qc_test_db.txt', header = T, sep = '\t', quote = '\"', stringsAsFactors = F)
 ```
 
-There should now be an object in your working environment called `dietdb` which is the database to be cleaned.
+In the example above we read in a test file, 'qa_qc_test_db.txt', that we know has several specific errors:
+
+<table>
+  <tr>
+    <td><b>Row #</b></td>
+    <td><b>Problem</b></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Location_Region is 'Rode Island', a typo which does not match currently accepted names</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Habitat_type is 'scrubland', which does not match currently accepted names (should be 'shrubland')</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Longitude is not within (-180, 180)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Prey_Stage is 'juvie', which does not match currently accepted names (should be 'juvenile')</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Location_Specific is 'Multipe', a typo of 'Multiple'</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Prey_Part is 'fruity', which does not match currently accepted names (should be 'fruit')</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Scientific_Name, 'Melospiza georgina', does not match any names in the most recent eBird Clements checklist</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Fraction_Diet is greater than 1</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Fraction_Diet is greater than 1</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Taxonomy is different from the most recent bird taxonomy, eBird Clements Checklist v2016</td>
+  </tr>
+</table>
+
 
 ## Overall database summary
 To get a sense of the total number of records, species covered, etc of the database sample you are cleaning, use the 
