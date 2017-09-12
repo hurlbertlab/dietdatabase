@@ -12,7 +12,13 @@ but this should be rare.
 
 4. Make sure you understand which bird species is being studied. Many species
 names (both common names and scientific names) have changed over time, so older
-studies in particular may be using one that is out of date. Paste the scientific
+studies in particular may be using one that is out of date. Check whether the 
+common and scientific names of your bird are listed in the [most recent eBird
+taxonomy checklist](birdtaxonomy/eBird_Taxonomy_V2016.csv) in the `birdtaxonomy` 
+folder (try using Ctrl-F or Cmd-F to search for a name). If both names are present
+in the eBird checklist then you can enter them as is into the database file.
+
+If the name is not in the eBird taxonomy checklist, try pasting the scientific
 name into the search bar at http://avibase.bsc-eoc.org. If a "Search results"
 page comes up, click on the first link for which "Status" is blank and for
 which there is no additional subspecies name listed. This should bring you to an
@@ -26,11 +32,13 @@ edition (currently the 7th) of the American Ornithologists' Union taxonomy.
     *Dendroica townsendi*. Note that this search goes straight to the taxon page. 
     The taxon grid is quite straightforward, and shows that there is a single 
     species concept which has changed names over time from *Dendroica townsendi* to 
-    *Setophaga townsendi*. It's the latter name that should be used in the database
+    *Setophaga townsendi*. Re-check the eBird Taxonomy checklist for this name, and
+    you'll find it's present--that's the name that should be used in the database
     even if the study the data are coming from called it the former.
  
     *Empidonax difficilis*. This one is more complicated, with many more species 
-    concepts listed. Many of these are different subspecies which we can ignore 
+    concepts listed on [Avibase](http://avibase.bsc-eoc.org/species.jsp?avibaseid=44A2028364A252A6&sec=taxontable&version=aou). 
+    Many of these are different subspecies which we can ignore 
     (e.g., the bottom two rows, and 3 of the middle rows). Otherwise, what this
     taxon grid shows is that up through the 6th edition (1983), there was a single
     species concept referred to as *Empidonax difficilis* with the common name 
@@ -43,7 +51,7 @@ edition (currently the 7th) of the American Ornithologists' Union taxonomy.
     If you came across a study reporting diet info for *Empidonax difficilis*, 
     which species is it referring to? If it's an older study, it could be referring
     to either one. One way to figure this out is by checking the geographic ranges
-    of the two split species. Click on the "eBird" link across the top of this page
+    of the two split species. Click on the "eBird" link across the top of the Avibase page
     to see where "Pacific-slope Flycatcher" (i.e. the concept that *Empidonax
     difficilis* currently refers to) occurs. Take a look, and then in the "Related 
     taxa" dropdown menu, select "*Empidonax occidentalis*" to see where "Cordilleran
@@ -94,14 +102,7 @@ the study quantified diet. This will determine what you specify as the "Diet_Typ
     nearest 0.001**. If a value is reported as "<0.01", then **DO NOT ENTER the "<" sign**
     but instead, enter one half of the upper limit reported (in this example, 0.005).
 
-7. Typically, you will be inserting your rows of data into the middle of the 
-diet database in the section for the relevant Family. If you are working in
-Excel, simply select the row above which you would like to insert the new data,
-and then highlight downward as many rows as you will be inserting. Right click
-"Insert" and you should have the appropriate number of blank rows in which to
-enter or paste your new data.
-
-8. When entering information on the prey, try to fill in all of the higher taxonomic level 
+7. When entering information on the prey, try to fill in all of the higher taxonomic level 
 information above the taxonomic level reported. For example, if the prey category reported is the Order "Coleoptera" 
 (i.e. beetles), then you would also fill in "Animalia", "Arthropoda", and "Insecta" for the 
 Prey_Kingdom, Prey_Phylum, and Prey_Class fields. You can verify this information by pasting
@@ -114,15 +115,19 @@ using Ctrl-F as it may be a ways down in the report):
 
 Coleoptera Linnaeus, 1758 [ exact canonical match, Score: 0.75 ]  
 ITIS  
-Animalia (Kingdom) >> Bilateria (Subkingdom) >> Protostomia (Infrakingdom) >> Ecdysozoa (Superphylum) >> Arthropoda (Phylum) >> Hexapoda (Subphylum) >> Insecta (Class) >> Pterygota (Subclass) >> Neoptera (Infraclass) >> Holometabola (Superorder) >> Coleoptera (Order)
+Animalia (Kingdom) >> Bilateria (Subkingdom) >> Protostomia (Infrakingdom) >> Ecdysozoa (Superphylum) >> Arthropoda (Phylum) >> Hexapoda (Subphylum) >> Insecta (Class) >> Pterygota (Subclass) >> Neoptera (Infraclass) >> Holometabola (Superorder) >> Coleoptera (Order) 
 
 This provides many intermediate levels of the taxonomic hierarchy, and for our purposes we are just focusing on 
 Kingdom, Phylum, Class, Order, Suborder (if listed), Family, Genus, or full Scientific Name.
 
+8. In some cases, the prey name as given in the paper will not match any currently accepted 
+ITIS name. Sometimes you may find an indication that the name has been changed, and you
+can see if that changed name is recognized by ITIS. If so, go ahead and enter the valid ITIS
+name in the database. If you cannot find a valid name, simply enter the name as reported.
 
 ---
 
-Try entering data from the two studies listed below. Open the training_dietdatabase.txt
+Try entering data from the two studies listed below. Open the AvianDietDatabase_template.txt
 template in Excel and then Save into the same folder using a new file name where you add 
 your initials to the end (e.g. 'training_dietdatabase_AHH.txt').
 
