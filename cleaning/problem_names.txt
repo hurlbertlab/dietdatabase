@@ -346,63 +346,63 @@ Scientific_Name	Aphodius alternatus	unmatched	Liothorax alternatus
 Scientific_Name	Bolboceras farctus	unmatched		Genus = Odonteus & Family = Bolboceratidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Odontaeus filicornis	unmatched	Odonteus filicornis					
 Scientific_Name	Lachnosterna tristis	unmatched	Phyllophaga tristis					
-Scientific_Name	Chlamys plicata	unmatched						
-Scientific_Name	Pachybrachys hepatica	unmatched						
-Scientific_Name	Typophorus canellus	unmatched						
-Scientific_Name	Graphops nebulosus	unmatched						
-Scientific_Name	Leptinotarsa 10-lineata	unmatched						
-Scientific_Name	Calligrapha similis	unmatched						
-Scientific_Name	Plagiodera viridis	unmatched						
-Scientific_Name	Galerucella americana	unmatched						
-Scientific_Name	Diabrotica vittata	unmatched						
-Scientific_Name	Oedionychis interjectionis	unmatched						
-Scientific_Name	Disonycha crenicollis	unmatched						
-Scientific_Name	Haltica fuscoaenea	unmatched						
-Scientific_Name	Haltica tombacina	unmatched						
-Scientific_Name	Cassida bivittata	unmatched						
-Scientific_Name	Epitragus canaliculatus	unmatched						
-Scientific_Name	Blapstinus abbreviatus	unmatched						
-Scientific_Name	Blapstinus pratensis	unmatched						
-Scientific_Name	Notoxus hepaticus	unmatched						
-Scientific_Name	Amnesia sordida	unmatched						
-Scientific_Name	Mylacus soccatus	unmatched						
-Scientific_Name	Geoderces melanothrix	unmatched						
-Scientific_Name	Sitones lineellus	unmatched						
-Scientific_Name	Sitones californicus	unmatched						
-Scientific_Name	Sitones flavescens	unmatched						
-Scientific_Name	Sitones hispidulus	unmatched						
-Scientific_Name	Sitones binellus	unmatched						
-Scientific_Name	Phytonomus punctatus	unmatched						
-Scientific_Name	Phytonomus nigrirostris	unmatched						
-Scientific_Name	Cleonus 4-lineatus	unmatched						
-Scientific_Name	Tyloderma angustatum	unmatched						
-Scientific_Name	Bibio albipennis	unmatched						
-Scientific_Name	Mamestra subjuncta	unmatched						
-Scientific_Name	Heliophila unipuncta	unmatched						
-Scientific_Name	Carpocapsa pomonella	unmatched						
-Scientific_Name	Tibicen septendecim	unmatched						
-Scientific_Name	Draeculacephala reticulata	unmatched						
-Scientific_Name	Corizus nigristernum	unmatched						
-Scientific_Name	Tettigidea lateralis polymorpha	unmatched						
-Scientific_Name	Helix mobileana	unmatched						
-Scientific_Name	Melampus bidentata	unmatched						
-Scientific_Name	Sabal serrulata	unmatched						
-Scientific_Name	Juniperus monospermum	unmatched						
-Scientific_Name	Myrica carolinensis	unmatched						
-Scientific_Name	Benzoin benzoin	unmatched						
+Scientific_Name	Chlamys plicata	unmatched		Genus = Neochlamisus & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Pachybrachys hepatica	unmatched	Pachybrachis hepaticus					
+Scientific_Name	Typophorus canellus	unmatched	Paria aterrima					
+Scientific_Name	Graphops nebulosus	unmatched	Graphops nebulosa					
+Scientific_Name	Leptinotarsa 10-lineata	unmatched	Leptinotarsa decemlineata					
+Scientific_Name	Calligrapha similis	unmatched		Genus = Calligrapha & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Plagiodera viridis	unmatched		Genus = Plagiodera & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Galerucella americana	unmatched		Genus = Galerucella & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Diabrotica vittata	unmatched		Genus = Diabrotica & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Oedionychis interjectionis	unmatched	Kuschelina laeta					
+Scientific_Name	Disonycha crenicollis	unmatched		Genus = Disonycha & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Haltica fuscoaenea	unmatched	Altica fuscoaenea					
+Scientific_Name	Haltica tombacina	unmatched	Altica tombacina					
+Scientific_Name	Cassida bivittata	unmatched		Genus = Cassida & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Epitragus canaliculatus	unmatched		Genus = Bothrotes & Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Blapstinus abbreviatus	unmatched		Genus = Blapstinus & Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Blapstinus pratensis	unmatched		Genus = Blapstinus & Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Notoxus hepaticus	unmatched		Genus = Notoxus & Family = Anthicidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Amnesia sordida	unmatched	Lepesoma sordida					
+Scientific_Name	Mylacus soccatus	unmatched	Omias saccatus					
+Scientific_Name	Geoderces melanothrix	unmatched	Geoderces horni					
+Scientific_Name	Sitones lineellus	unmatched	Sitona lineellus					
+Scientific_Name	Sitones californicus	unmatched	Sitona californius					
+Scientific_Name	Sitones flavescens	unmatched	Sitona lepidus					
+Scientific_Name	Sitones hispidulus	unmatched	Sitona hispidulus					
+Scientific_Name	Sitones binellus	unmatched		Genus = Sitona & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Phytonomus punctatus	unmatched	Hypera punctata					
+Scientific_Name	Phytonomus nigrirostris	unmatched	Hypera nigrirostris					
+Scientific_Name	Cleonus 4-lineatus	unmatched	Cleonidius quadrilineatus					
+Scientific_Name	Tyloderma angustatum	unmatched	Tyloderma angustulum					
+Scientific_Name	Bibio albipennis	unmatched	Bibio nigritus					
+Scientific_Name	Mamestra subjuncta	unmatched	Lacanobia subjuncta					
+Scientific_Name	Heliophila unipuncta	unmatched	Mythimna unipuncta					
+Scientific_Name	Carpocapsa pomonella	unmatched		Genus = Cydia & Family = Tortricidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Tibicen septendecim	unmatched	Magicicada septendecim					
+Scientific_Name	Draeculacephala reticulata	unmatched		Genus = Draeculacephala & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Corizus nigristernum	unmatched	Arhyssus nigristernum					
+Scientific_Name	Tettigidea lateralis polymorpha	unmatched	Tettigidea lateralis					
+Scientific_Name	Helix mobileana	unmatched		Genus = Helix & Family = Helicidae & Order = Stylommatophora & Class = Gastropoda & Phylum = Mollusca & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Melampus bidentata	unmatched	Melampus bidentatus					
+Scientific_Name	Sabal serrulata	unmatched	Serenoa repens					
+Scientific_Name	Juniperus monospermum	unmatched	Juniperus monosperma					
+Scientific_Name	Myrica carolinensis	unmatched	Morella caroliniensis					
+Scientific_Name	Benzoin benzoin	unmatched	Lindera benzoin					
 Scientific_Name	Pyrus americana	unmatched	Sorbus americana					
-Scientific_Name	Crataegus oxycantha	unmatched						
-Scientific_Name	Prunus pennsylvanica	unmatched						
-Scientific_Name	Melia azederach	unmatched						
-Scientific_Name	Evonymus americana	unmatched						
-Scientific_Name	Celastrus scandenus	unmatched						
-Scientific_Name	Berchemia volubilis	unmatched						
-Scientific_Name	Vitis labrusea	unmatched						
-Scientific_Name	Cornus alterniflora	unmatched						
-Scientific_Name	Diospyros viginiana	unmatched						
-Scientific_Name	Ribes satirum	unmatched						
-Scientific_Name	prunus pennsylvanicus	unmatched						
-Scientific_Name	Cicindela graminea	unmatched						
+Scientific_Name	Crataegus oxycantha	unmatched	Crataegus monogyna					
+Scientific_Name	Prunus pennsylvanica	unmatched	Prunus pensylvanica					
+Scientific_Name	Melia azederach	unmatched	Melia azedarach					
+Scientific_Name	Evonymus americana	unmatched	Euonymus americanus					
+Scientific_Name	Celastrus scandenus	unmatched	Celastrus scandens					
+Scientific_Name	Berchemia volubilis	unmatched	Berchemia scandens					
+Scientific_Name	Vitis labrusea	unmatched	Vitis labrusca					
+Scientific_Name	Cornus alterniflora	unmatched	Cornus alternifolia					
+Scientific_Name	Diospyros viginiana	unmatched	Diospyros virginiana					
+Scientific_Name	Ribes satirum	unmatched	Ribes rubrum					
+Scientific_Name	prunus pennsylvanicus	unmatched	Prunus pensylvanica					
+Scientific_Name	Cicindela graminea	unmatched	Cicindela purpurea					
 Scientific_Name	Dyschirius aeneus	unmatched						
 Scientific_Name	Bembidium maculatum	unmatched						
 Scientific_Name	Amara elongata	unmatched						
