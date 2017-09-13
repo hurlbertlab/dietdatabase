@@ -403,39 +403,39 @@ Scientific_Name	Diospyros viginiana	unmatched	Diospyros virginiana
 Scientific_Name	Ribes satirum	unmatched	Ribes rubrum					
 Scientific_Name	prunus pennsylvanicus	unmatched	Prunus pensylvanica					
 Scientific_Name	Cicindela graminea	unmatched	Cicindela purpurea					
-Scientific_Name	Dyschirius aeneus	unmatched						
-Scientific_Name	Bembidium maculatum	unmatched						
-Scientific_Name	Amara elongata	unmatched						
-Scientific_Name	Amara basilaris	unmatched						
-Scientific_Name	Platynus punctiformis	unmatched						
-Scientific_Name	Harpalus viridiaenus	unmatched						
-Scientific_Name	Harpalus pennylvanicus	unmatched						
+Scientific_Name	Dyschirius aeneus	unmatched	Dyschirius aeneolus					
+Scientific_Name	Bembidium maculatum	unmatched		Genus = Bembidion & Family = Carabidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Amara elongata	unmatched	Amara hyperborea					
+Scientific_Name	Amara basilaris	unmatched	Amara basillaris					
+Scientific_Name	Platynus punctiformis	unmatched	Agonum punctiforme					
+Scientific_Name	Harpalus viridiaenus	unmatched	Harpalus affinis					
+Scientific_Name	Harpalus pennylvanicus	unmatched	Harpalus pensylvanicus					
 Scientific_Name	Anisodactylus?rusticus	unmatched	Anisodactylus rusticus					
-Scientific_Name	Scaphisoma punctulata	unmatched						
-Scientific_Name	Anatis 15-punctulata	unmatched						
-Scientific_Name	Saprinus fraternus	unmatched						
-Scientific_Name	Corymbites cylidriformis	unmatched						
-Scientific_Name	Limonius griseus	unmatched						
-Scientific_Name	Aphodius granarius	unmatched						
-Scientific_Name	Geotrupes splendidus	unmatched						
-Scientific_Name	Anomala varians	unmatched						
-Scientific_Name	Ligyrus gibbosus	unmatched						
-Scientific_Name	Tetraopes tetraophthlamus	unmatched						
-Scientific_Name	Colaspis brunnea flavida	unmatched						
-Scientific_Name	Haltica chalybea	unmatched						
-Scientific_Name	Spermophagus robiniae	unmatched						
-Scientific_Name	Tribolium ferrugineum	unmatched						
-Scientific_Name	Crymodes discicollis	unmatched						
-Scientific_Name	Tanymecus lancaena	unmatched						
-Scientific_Name	Macrops vitticollis	unmatched						
-Scientific_Name	Balaninus caryatrypes	unmatched						
-Scientific_Name	Balaninus nasicus	unmatched						
-Scientific_Name	Rhodobaenus 13-punctatus	unmatched						
-Scientific_Name	Gonia capitata	unmatched						
-Scientific_Name	Hyperchiria io	unmatched						
-Scientific_Name	Spilosoma virginiea	unmatched						
-Scientific_Name	Nephelodes violans	unmatched						
-Scientific_Name	Cydnus communis	unmatched						
+Scientific_Name	Scaphisoma punctulata	unmatched		Genus = Scaphisoma & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Anatis 15-punctulata	unmatched		Genus = Anatis & Family = Coccinellidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Saprinus fraternus	unmatched	Saprinus fraterculus					
+Scientific_Name	Corymbites cylidriformis	unmatched		Genus = Ctenicera & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Limonius griseus	unmatched		Genus = Limonius & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia 				
+Scientific_Name	Aphodius granarius	unmatched	Calamosternus granarius					
+Scientific_Name	Geotrupes splendidus	unmatched	Geotrupes blackburnii					
+Scientific_Name	Anomala varians	unmatched	Anomala undulata					
+Scientific_Name	Ligyrus gibbosus	unmatched	Tomarus gibbosus					
+Scientific_Name	Tetraopes tetraophthlamus	unmatched	Tetraopes tetrophthalmus					
+Scientific_Name	Colaspis brunnea flavida	unmatched	Colaspis brunnea					
+Scientific_Name	Haltica chalybea	unmatched	Altica chalybea					
+Scientific_Name	Spermophagus robiniae	unmatched	Amblycerus robiniae					
+Scientific_Name	Tribolium ferrugineum	unmatched	Tribolium castaneum					
+Scientific_Name	Crymodes discicollis	unmatched	Lecontia discicollis					
+Scientific_Name	Tanymecus lancaena	unmatched	Tanymecus lacaena					
+Scientific_Name	Macrops vitticollis	unmatched	Listronotus vitticollis					
+Scientific_Name	Balaninus caryatrypes	unmatched	Curculio proboscideus					
+Scientific_Name	Balaninus nasicus	unmatched	Curculio nasicus					
+Scientific_Name	Rhodobaenus 13-punctatus	unmatched	Rhodobaenus tredecimpunctatus					
+Scientific_Name	Gonia capitata	unmatched		Genus = Gonia & Family = Tachinidae & Order = Diptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia 				
+Scientific_Name	Hyperchiria io	unmatched		Genus = Hyperchiria & Family = Saturniidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia 				
+Scientific_Name	Spilosoma virginiea	unmatched	Spilosoma virginica					
+Scientific_Name	Nephelodes violans	unmatched	Nephelodes minians					
+Scientific_Name	Cydnus communis	unmatched		Genus = Cydnus & Family = Cydnidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia 				
 Scientific_Name	Apateticus maculiventris	unmatched						
 Scientific_Name	Corixa burmeisteri	unmatched						
 Scientific_Name	Hippiscus tuberculatus	unmatched						
