@@ -436,36 +436,36 @@ Scientific_Name	Hyperchiria io	unmatched		Genus = Hyperchiria & Family = Saturni
 Scientific_Name	Spilosoma virginiea	unmatched	Spilosoma virginica					
 Scientific_Name	Nephelodes violans	unmatched	Nephelodes minians					
 Scientific_Name	Cydnus communis	unmatched		Genus = Cydnus & Family = Cydnidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia 				
-Scientific_Name	Apateticus maculiventris	unmatched						
-Scientific_Name	Corixa burmeisteri	unmatched						
-Scientific_Name	Hippiscus tuberculatus	unmatched						
-Scientific_Name	Melanoplus fermus-rubrum	unmatched						
-Scientific_Name	Melanoplus atlanis	unmatched						
-Scientific_Name	Udeopsylla nigra	unmatched						
-Scientific_Name	Miogryllus saussurci	unmatched						
-Scientific_Name	Triticum vulgaris	unmatched						
-Scientific_Name	Smilax rotundiflora	unmatched						
-Scientific_Name	Evonymus americanus	unmatched						
+Scientific_Name	Apateticus maculiventris	unmatched	Podisus maculiventris					
+Scientific_Name	Corixa burmeisteri	unmatched		Genus = Corixa & Family = Corixidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia 				
+Scientific_Name	Hippiscus tuberculatus	unmatched	Pardalophora apiculata					
+Scientific_Name	Melanoplus fermus-rubrum	unmatched	Melanoplus femurrubrum					
+Scientific_Name	Melanoplus atlanis	unmatched	Melanoplus sanguinipes					
+Scientific_Name	Udeopsylla nigra	unmatched	Udeopsylla robusta					
+Scientific_Name	Miogryllus saussurci	unmatched	Miogryllus verticalis					
+Scientific_Name	Triticum vulgaris	unmatched	Triticum aestivum					
+Scientific_Name	Smilax rotundiflora	unmatched	Smilax rotundifolia					
+Scientific_Name	Evonymus americanus	unmatched	Euonymus americanus					
 Scientific_Name	Trichalophus alternatus?	unmatched	Trichalophus alternatus					
-Scientific_Name	Dichelonycha elongata	unmatched						
-Scientific_Name	Psyllobora taedata	unmatched						
-Scientific_Name	Monachus saponatus	unmatched						
-Scientific_Name	Glyptoscelis albidus	unmatched						
-Scientific_Name	Pachybrachys abdominalis	unmatched						
-Scientific_Name	Corymbites triundulatus	unmatched						
-Scientific_Name	Trirhabda tomentosa	unmatched						
-Scientific_Name	Chauliognathus marginatum	unmatched						
-Scientific_Name	Telephorus fraxini	unmatched						
-Scientific_Name	Telephorus flavipes	unmatched						
-Scientific_Name	Bruchus prosopis	unmatched						
-Scientific_Name	Dircaea liturata	unmatched						
-Scientific_Name	Pyrota schwarzii	unmatched						
-Scientific_Name	Coleocerus marmoratus	unmatched						
-Scientific_Name	Sitones fiavescens	unmatched						
-Scientific_Name	Disonycha melicollis	unmatched						
-Scientific_Name	Microrhopala dimidiata	unmatched						
-Scientific_Name	Dectes spinosus	unmatched						
-Scientific_Name	Brachys ovata	unmatched						
+Scientific_Name	Dichelonycha elongata	unmatched	Dichelonyx elongatula					
+Scientific_Name	Psyllobora taedata	unmatched	Psyllobora vigintimaculata					
+Scientific_Name	Monachus saponatus	unmatched	Lexiphanes saponatus					
+Scientific_Name	Glyptoscelis albidus	unmatched	Glyptoscelis albida					
+Scientific_Name	Pachybrachys abdominalis	unmatched	Pachybrachis abdominalis					
+Scientific_Name	Corymbites triundulatus	unmatched		Genus = Ctenicera & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Trirhabda tomentosa	unmatched	Trirhabda bacharidis					
+Scientific_Name	Chauliognathus marginatum	unmatched	Chauliognathus marginatus					
+Scientific_Name	Telephorus fraxini	unmatched		Genus = Cantharis & Family = Cantharidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Telephorus flavipes	unmatched		Genus = Cantharis & Family = Cantharidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Bruchus prosopis	unmatched	Algarobius prosopis					
+Scientific_Name	Dircaea liturata	unmatched		Genus = Dircaea & Family = Melandryidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Pyrota schwarzii	unmatched		Genus = Pyrota & Family = Meloidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Coleocerus marmoratus	unmatched	Colecerus marmoratus					
+Scientific_Name	Sitones fiavescens	unmatched	Sitona lepidus					
+Scientific_Name	Disonycha melicollis	unmatched		Genus = Disonycha & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Microrhopala dimidiata	unmatched	Pentispa melanura					
+Scientific_Name	Dectes spinosus	unmatched	Dectes sayi					
+Scientific_Name	Brachys ovata	unmatched	Brachys ovatus					
 Scientific_Name	Tettigonia atropunctata	unmatched						
 Scientific_Name	Juniperus virginana	unmatched						
 Scientific_Name	Saprinus obscurus	wrong rank; too high						
