@@ -466,38 +466,38 @@ Scientific_Name	Disonycha melicollis	unmatched		Genus = Disonycha & Family = Chr
 Scientific_Name	Microrhopala dimidiata	unmatched	Pentispa melanura					
 Scientific_Name	Dectes spinosus	unmatched	Dectes sayi					
 Scientific_Name	Brachys ovata	unmatched	Brachys ovatus					
-Scientific_Name	Tettigonia atropunctata	unmatched						
-Scientific_Name	Juniperus virginana	unmatched						
-Scientific_Name	Saprinus obscurus	wrong rank; too high						
-Scientific_Name	Notoxus alamedea	unmatched						
+Scientific_Name	Tettigonia atropunctata	unmatched		Genus = Graphocephala & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Juniperus virginana	unmatched	Juniperus virginiana					
+Scientific_Name	Saprinus obscurus	wrong rank; too high	Geomysaprinus obscurus					
+Scientific_Name	Notoxus alamedea	unmatched	Notoxus lustrellus					
 Scientific_Name	Aphodius ungulatus	unmatched						
-Scientific_Name	Philonthus pubes	unmatched						
-Scientific_Name	Amphicoma ursina	unmatched						
-Scientific_Name	Triaena longula	unmatched						
-Scientific_Name	Heterocerus tristis	unmatched						
-Scientific_Name	Blapstinus pulverulentus	unmatched						
-Scientific_Name	Sambucus glauea	unmatched						
-Scientific_Name	Cornus pubescens	unmatched						
-Scientific_Name	Choristoneura fumifera	wrong rank; too high						
-Scientific_Name	Cicindela purpurca	unmatched						
-Scientific_Name	Cicindela vulgaris	unmatched						
-Scientific_Name	Cicindela 12-guttata	unmatched						
-Scientific_Name	Pterostichus sayi	unmatched						
-Scientific_Name	Amara bipunctata	unmatched						
-Scientific_Name	Agonoderus lincola	unmatched						
-Scientific_Name	Harpalus pennsylvanicus	unmatched						
-Scientific_Name	Necrophorus guttata	unmatched						
-Scientific_Name	Staphylinus cinnamopterus	unmatched						
-Scientific_Name	Coccinella sanguinea var. munda	unmatched						
-Scientific_Name	Anatis ocellata	unmatched						
-Scientific_Name	Hister caenosus	unmatched						
-Scientific_Name	Saprinus assimilis	unmatched						
-Scientific_Name	Limonius auripilis	unmatched						
+Scientific_Name	Philonthus pubes	unmatched		Genus = Philonthus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Amphicoma ursina	unmatched	Lichnanthe ursina					
+Scientific_Name	Triaena longula	unmatched	Amara longula					
+Scientific_Name	Heterocerus tristis	unmatched	Lapsus tristis					
+Scientific_Name	Blapstinus pulverulentus	unmatched		Genus = Blapstinus & Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Sambucus glauea	unmatched	Sambucus nigra					
+Scientific_Name	Cornus pubescens	unmatched	Cornus sericea					
+Scientific_Name	Choristoneura fumifera	wrong rank; too high	Archips fumiferana					
+Scientific_Name	Cicindela purpurca	unmatched	Cicindela purpurea					
+Scientific_Name	Cicindela vulgaris	unmatched	Cicindela tranquebarica					
+Scientific_Name	Cicindela 12-guttata	unmatched	Cicindela duodecimguttata					
+Scientific_Name	Pterostichus sayi	unmatched	Pterostichus sayanus					
+Scientific_Name	Amara bipunctata	unmatched		Genus = Amara & Family = Carabidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Agonoderus lincola	unmatched	Stenolophus lineola					
+Scientific_Name	Harpalus pennsylvanicus	unmatched	Harpalus pensylvanicus					
+Scientific_Name	Necrophorus guttata	unmatched	Nicrophorus guttula					
+Scientific_Name	Staphylinus cinnamopterus	unmatched		Genus = Platydracus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Coccinella sanguinea var. munda	unmatched	Cycloneda sanguinea					
+Scientific_Name	Anatis ocellata	unmatched		Genus = Anatis & Family = Coccinellidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Hister caenosus	unmatched	Hister coenosus					
+Scientific_Name	Saprinus assimilis	unmatched	Euspilotus assimilis					
+Scientific_Name	Limonius auripilis	unmatched		Genus = Limonius & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
 Scientific_Name	Corymbites hicroglyphicus	unmatched						
-Scientific_Name	Phengodes fusiceps	unmatched						
-Scientific_Name	Telephorus carolinus	unmatched						
-Scientific_Name	Telephorus rotundicollis	unmatched						
-Scientific_Name	Amphicerus punctipennis	unmatched						
+Scientific_Name	Phengodes fusiceps	unmatched	Phengodes fusciceps					
+Scientific_Name	Telephorus carolinus	unmatched	Podabrus modestus					
+Scientific_Name	Telephorus rotundicollis	unmatched	Ancistronycha erichsonii					
+Scientific_Name	Amphicerus punctipennis	unmatched	Amphicerus cornutus					
 Scientific_Name	Canthon Iaevis	unmatched						
 Scientific_Name	Euphoria melancholica	unmatched						
 Scientific_Name	Cremastochilus knochii	unmatched						
