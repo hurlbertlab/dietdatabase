@@ -498,41 +498,41 @@ Scientific_Name	Phengodes fusiceps	unmatched	Phengodes fusciceps
 Scientific_Name	Telephorus carolinus	unmatched	Podabrus modestus					
 Scientific_Name	Telephorus rotundicollis	unmatched	Ancistronycha erichsonii					
 Scientific_Name	Amphicerus punctipennis	unmatched	Amphicerus cornutus					
-Scientific_Name	Canthon Iaevis	unmatched						
-Scientific_Name	Euphoria melancholica	unmatched						
-Scientific_Name	Cremastochilus knochii	unmatched						
-Scientific_Name	Cremastochilus castaneae	unmatched						
-Scientific_Name	Anthophilax malachiticus	unmatched						
-Scientific_Name	Typocerus zehratus	unmatched						
-Scientific_Name	Leptura cordifera	unmatched						
-Scientific_Name	Monohammus scutellatus	unmatched						
-Scientific_Name	Typophorus viridicyanca	unmatched						
-Scientific_Name	Chelymorpha argus	unmatched						
-Scientific_Name	Epitragus acutus	unmatched						
-Scientific_Name	Opatrinus aciculatus	unmatched						
-Scientific_Name	Nemognatha cribricollis	unmatched						
-Scientific_Name	Macrobasis unicolor	unmatched						
-Scientific_Name	Epicauta trichrus	unmatched						
-Scientific_Name	Rhodobaenus I3-punctatus	unmatched						
-Scientific_Name	Lachnosterna congrua	unmatched						
-Scientific_Name	Dichelonycha subvittata	unmatched						
-Scientific_Name	Lachnosterna fusca	unmatched						
-Scientific_Name	Aphodius rubeolus	unmatched						
-Scientific_Name	Chrysomela pulchra	unmatched						
-Scientific_Name	Chrysomela elegans	unmatched						
-Scientific_Name	Lina trilineata	wrong rank; too high						
-Scientific_Name	Tibicen cruentufera	unmatched						
-Scientific_Name	Podisus spinosis	unmatched						
-Scientific_Name	Euschistus fissilis	unmatched						
-Scientific_Name	Aphaenogaster fulca	unmatched						
-Scientific_Name	Solenopsis debilis	unmatched						
-Scientific_Name	Aphaenogaster tennesseense	unmatched						
-Scientific_Name	Vespa maculata	unmatched						
-Scientific_Name	Tiphia tarda	unmatched						
-Scientific_Name	Myzine 6-cincta	unmatched						
-Scientific_Name	Camponotus esuriens	unmatched						
-Scientific_Name	Formica fuscu	unmatched						
-Scientific_Name	Ichneumon laetus	unmatched						
+Scientific_Name	Canthon Iaevis	unmatched	Canthon imitator					
+Scientific_Name	Euphoria melancholica	unmatched		Genus = Euphoria & Family = Scarabaeidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Cremastochilus knochii	unmatched	Cremastocheilus knochii					
+Scientific_Name	Cremastochilus castaneae	unmatched	Cremastocheilus castaneae					
+Scientific_Name	Anthophilax malachiticus	unmatched	Anthophylax cyaneus					
+Scientific_Name	Typocerus zehratus	unmatched	Typocerus zebra					
+Scientific_Name	Leptura cordifera	unmatched	Judolia cordifera					
+Scientific_Name	Monohammus scutellatus	unmatched	Monochamus scutellatus					
+Scientific_Name	Typophorus viridicyanca	unmatched	Typophorus nigritus					
+Scientific_Name	Chelymorpha argus	unmatched	Chelymorpha cassidea					
+Scientific_Name	Epitragus acutus	unmatched		Genus = Bothrotes & Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Opatrinus aciculatus	unmatched	Ataenius opatrinus					
+Scientific_Name	Nemognatha cribricollis	unmatched	Zonitis cribricollis					
+Scientific_Name	Macrobasis unicolor	unmatched	Epicauta murina					
+Scientific_Name	Epicauta trichrus	unmatched	Epicauta atrata					
+Scientific_Name	Rhodobaenus I3-punctatus	unmatched	Rhodobaenus tredecimpunctatus					
+Scientific_Name	Lachnosterna congrua	unmatched	Phyllophaga congrua					
+Scientific_Name	Dichelonycha subvittata	unmatched	Dichelonyx subvittata					
+Scientific_Name	Lachnosterna fusca	unmatched	Phyllophaga fusca					
+Scientific_Name	Aphodius rubeolus	unmatched	Alloblackburneus rubeolus					
+Scientific_Name	Chrysomela pulchra	unmatched		Genus = Chrysomela & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Chrysomela elegans	unmatched		Genus = Chrysomela & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Lina trilineata	wrong rank; too high		Genus = Chrysomela & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Tibicen cruentufera	unmatched	Okanagana cruentifera					
+Scientific_Name	Podisus spinosis	unmatched	Podisus maculiventris					
+Scientific_Name	Euschistus fissilis	unmatched	Euschistus servus					
+Scientific_Name	Aphaenogaster fulca	unmatched	Aphaenogaster fulva					
+Scientific_Name	Solenopsis debilis	unmatched	Solenopsis molesta					
+Scientific_Name	Aphaenogaster tennesseense	unmatched	Aphaenogaster tennesseensis					
+Scientific_Name	Vespa maculata	unmatched	Dolichovespula maculata					
+Scientific_Name	Tiphia tarda	unmatched		Genus = Tiphia & Family = Tiphiidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Myzine 6-cincta	unmatched		Genus = Myzinum & Family = Thynnidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Camponotus esuriens	unmatched	Camponotus atriceps					
+Scientific_Name	Formica fuscu	unmatched	Formica fusca					
+Scientific_Name	Ichneumon laetus	unmatched		Genus = Ichneumon & Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
 Scientific_Name	Cryptus americanus	unmatched						
 Scientific_Name	Paniscus geminatus	unmatched						
 Scientific_Name	Coelioxys 8-dentata	unmatched						
