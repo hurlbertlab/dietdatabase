@@ -2589,8 +2589,8 @@ Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Bohlen, H. D. 1989. The
 Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Fish Game and Bur. Biol. Surv. Washington, D.C."	n	n	Unavailable	
 Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Johnson, N. K. 1965. The breeding avifaunas of the Sheep and Spring ranges in southern Nevada. Condor 67:93-124."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Dobbs, R. C. and P. R. Martin. 1998. Migrant bird participation at an army ant swarm in montane Jalisco, Mexico. Wilson Bull. 110:293-295."	y	n		
-Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Ffrench, R. 1991. A guide to the birds of Trinidad and Tobago. Cornell Univ. Press, Ithaca, NY."	y	n	Available in Science Library Annex	
-Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	y	n	Available in Science Library Annex	
+Hepatic Tanager	Cardinalidae	2002	Diet	Major Food Items	"Ffrench, R. 1991. A guide to the birds of Trinidad and Tobago. Cornell Univ. Press, Ithaca, NY."	y	n		
+Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Russell, S. M. 1964. A distributional study of the birds of British Honduras. Ornithol. Monogr. no. 1."	y	n		
 Hepatic Tanager	Cardinalidae	2002	Feeding	Food Capture And Consumption	"Henshaw, H. W. 1875. Report on the ornithological collections made in portions of Nevada, Utah, California, Colorado, New Mexico, and Arizona during the years 1871, 1872, 1873, and 1874. Wheeler's Rep. Exploratory Survey West of the 100th meridian, Washington, D.C."	y	n		
 Indigo Bunting	Cardinalidae	1-Oct-06	Diet	Major Food Items	"Bradley, H. L. 1948. A life history study of the Indigo Bunting. Jack-Pine Warbler 26:103-113."	y	n		
@@ -2675,13 +2675,13 @@ Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Munro, J
 Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Small, A. 1994. California birds: their status and distribution. Ibis Publ. Co. Vista, CA."	n		unavailable	
 Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Johnson, V. R. 1964. Three winter records in the central valley of California. Condor 66:517-518."	n		unavailable	
 Western Tanager	Cardinalidae	1999	Feeding	Food Capture And Consumption	"Bailey, A. M. and R. J. Niedrach. 1965. Birds of Colorado. Vol. 2. Denver Mus. Nat. Hist. Denver, CO."	n		Book unavailable in UNC library	
-Western Tanager	Cardinalidae	1999	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, part 1. U.S. Dep. Agric. Biol. Surv. Bull. 30."	y	y	data has not yet been entered	
+Western Tanager	Cardinalidae	1999	Diet	Major Food Items	"Beal, F. E. L. 1907. Birds of California in relation to the fruit industry, part 1. U.S. Dep. Agric. Biol. Surv. Bull. 30."	y	n		
 Western Tanager	Cardinalidae	1999	Diet	Major Food Items	"Mcatee, W. L. 1933. Bird allies of the farmer. Excerpt from hearing before the subcommittee of House Committee on Appropriations, etc. U.S. Dep. Agric. Biol. Surv. Bull. Washington, D.C."	n		unavailable	
 Western Tanager	Cardinalidae	1999	Diet	Major Food Items	"Isler, M. L. and P. R. Isler. 1987. The tanagers: natural history, distribution, and identification. Smithson. Inst. Press, Washington, D.C."	y	n		
 Western Tanager	Cardinalidae	1999	Diet	Major Food Items	"Bull, J. 1964. Birds of the New York area. Dover Publ. Inc., New York."	n		Book unavailable in UNC library	
-Western Tanager	Cardinalidae	1999	Food Selection And Storage		"Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet and habitat structure. Ecology 63:1918-1931."	y	y		
-Western Tanager	Cardinalidae	1999	Metabolism And Temperature Regulation		"Szaro, R. C. and R. P. Balda. 1979. Bird community dynamics in a ponderosa pine forest. Stud. Avian Biol. no. 3."		y		
-Western Tanager	Cardinalidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"	y			
+Western Tanager	Cardinalidae	1999	Food Selection And Storage		"Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet and habitat structure. Ecology 63:1918-1931."	y	y	entered	
+Western Tanager	Cardinalidae	1999	Metabolism And Temperature Regulation		"Szaro, R. C. and R. P. Balda. 1979. Bird community dynamics in a ponderosa pine forest. Stud. Avian Biol. no. 3."	y	n		
+Western Tanager	Cardinalidae	2003	Diet	Quantitative Analysis	"Carlisle, et al. 2012. Food Availability, Foraging Behavior, and Diet of Autumn Migrant Landbirds in the Boise Foothills of Southwestern Idaho. The Condor 114(3):449?461"	y	y	entered  	
 Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Mcilhenny, E. A. 1939. Feeding habits of Black Vulture. Auk 56:472-474."	y	y	entered	
 Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Baynard, O. E. 1914. The Black Vulture. Blue-bird 7:48-53."	n		unavailable	
 Black Vulture	Cathartidae	1999	Diet	Major Food Items	"Sprunt, Jr., A. 1946. Predation on living prey by the Black Vulture. Auk 63:260-261."	y	y	entered	
