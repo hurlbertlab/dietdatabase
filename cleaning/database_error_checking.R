@@ -320,7 +320,7 @@ clean_all_names = function(diet, ...) {
 
   clean_fam = clean_names('Family', clean_gen$diet, all = TRUE, problemNames = clean_gen$badnames)
   
-  clean_subo = clean_names('Suborder', clean_fam$diet, all = TRUE, problemnames = clean_fam$badnames)
+  clean_subo = clean_names('Suborder', clean_fam$diet, all = TRUE, problemNames = clean_fam$badnames)
   
   clean_ord = clean_names('Order', clean_subo$diet, all = TRUE, problemNames = clean_subo$badnames)
   
@@ -332,7 +332,7 @@ clean_all_names = function(diet, ...) {
   
   badkings = kings[!kings %in% c('Animalia', 'Plantae', 'Chromista', 'Fungi', 'Bacteria')]
   
-  probnames = rbind(clean_phy$badnames, data.frame(level = 'Kingdom',
+  badnames = rbind(clean_phy$badnames, data.frame(level = 'Kingdom',
                                                    name = badkings,
                                                    condition = 'unaccepted name'))
   output = list(cleandb = clean_phy$diet,

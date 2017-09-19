@@ -1,35 +1,153 @@
-## Instructions for taxonomic name cleaning
+# Instructions for taxonomic name cleaning and filling in Prey_Name_ITIS_ID
 
 Taxonomic names may have changed since the study reporting them was originally
 published. Errors may also creep into taxonomic names via typos during data
-entry. Taxonomic names are automatically checked against the main online
-taxonomic name databases through our partner Global Biotic Interactions.
+entry. 
 
-1) To see a list of names that currently do not match up with existing databases,
-go to http://globalbioticinteractions.org/references.html and download the list 
-of unmatched taxa taxonUnmatched.tsv.
+The `clean_all_names()` function goes through each taxonomic level of prey
+names and finds the ITIS ID number of names that match, and flags the names that
+do not match. Here's an example using a test file with some known name problems.
 
-2) This file has unmatched taxonomic names from a large variety of sources, but 
-if you open this file in Excel, you can sort by the 'source' column and focus
-in on the rows for "Allen Hurlbert. Avian Diet Database".
+```
+> testdb = read.table('cleaning/test_namereplace_db.txt', header=T, sep = '\t', quote = '\"',stringsAsFactors = F)
+> clean = clean_all_names(testdb)
 
-3) Names to be cleaned are in the "unmatched taxon name" column. To begin cleaning,
-first find and open the PDF of the study (given in the "study" column) this name 
+[1] "1 out of 1"
+
+Retrieving data for taxon 'Stellaria'
+
+       tsn                                  target                                      commonNames    nameUsage
+1   915378                   Alsophila mostellaria                                               NA     accepted
+2    44913                            Cristellaria                                               NA      invalid
+3    23670                Harrimanella stellariana                                               NA not accepted
+4   524470             Phlox bifida ssp. stellaria                                      cleft phlox     accepted
+5   538671             Phlox bifida var. stellaria                                               NA not accepted
+6   518969                         Phlox stellaria                                               NA not accepted
+7    20357                         Pseudostellaria                                               NA     accepted
+8    20358               Pseudostellaria jamesiana   sticky-starwort,sticky starwort,tuber starwort     accepted
+9   823597               Pseudostellaria oxyphylla                                  robust starwort     accepted
+10  823583                 Pseudostellaria sierrae                                               NA     accepted
+11   20163                               Stellaria                                         starwort     accepted
+12  989178                               Stellaria                                               NA      invalid
+...
+More than one TSN found for taxon 'Stellaria'!
+
+            Enter rownumber of taxon (other inputs will return 'NA'):
+
+1: 
+```
+Name cleaning will be an interactive process, as the computer will frequently need
+your input to know how to proceed. In this case, the first name it tries to look up
+is 'Stellaria', and it has found multiple potential matches (of which I'm only showing 
+the first 12). As it indicates, you must decide which of these entities is the one
+you want. Rows 11 and 12 are the only ones with just a simple genus name 'Stellaria',
+and Row 12 says that entity is invalid while the name in Row 11 is accepted. Thus we would
+type '11' and hit Enter, and R would move on to the next names to clean.
+
+```
+Input accepted, took taxon 'Stellaria'.
+
+[1] "1 out of 1"
+
+Retrieving data for taxon 'Acarina'
+
+[1] "1 out of 2"
+
+Retrieving data for taxon 'Rodentia'
+
+[1] "2 out of 2"
+
+Retrieving data for taxon 'Reptilia/Amphibia'
+
+[1] "1 out of 3"
+
+Retrieving data for taxon 'Streptophyta'
+
+[1] "2 out of 3"
+
+Retrieving data for taxon 'Foraminifera'
+
+     tsn                      target commonNames nameUsage
+1 879150       Edilemma foraminifera          NA     valid
+2   1651 Paraphysomonas foraminifera          NA  accepted
+
+More than one TSN found for taxon 'Foraminifera'!
+
+            Enter rownumber of taxon (other inputs will return 'NA'):
+
+1: 
+```
+The next several names R seems to know how to treat, until we get down to 
+Foraminifera. In this case, it lists two individual species names, 
+neither of which reflects the broad overall taxonomic group that are the
+[Foraminifera](https://en.wikipedia.org/wiki/Foraminifera). If there is
+no match (which will be the case with an old outdated name, as well), then
+simply hit enter.
+
+When the function has finished, we've created an object called clean, which has
+two elements, one called `cleandb` and one called `probnames`:
+```
+> names(clean)
+[1] "cleandb"   "probnames"
+
+> clean$cleandb
+
+   Prey_Kingdom     Prey_Phylum        Prey_Class     Prey_Order Prey_Suborder     Prey_Family Prey_Genus Prey_Scientific_Name Unidentified Prey_Name_ITIS_ID 
+1       Plantae    Tracheophyta     Magnoliopsida Caryophyllales            NA Caryophyllaceae  Stellaria                   NA                          20163 
+2       Plantae    Tracheophyta     Magnoliopsida Caryophyllales            NA Caryophyllaceae  Stellaria                   NA                          20163 
+3       Plantae    Streptophyta                                             NA                                              NA          yes        unverified 
+4       Plantae    Streptophyta                                             NA                                              NA          yes        unverified 
+5       Plantae    Streptophyta                                             NA                                              NA          yes        unverified 
+6          <NA>    Foraminifera              <NA>           <NA>            NA            <NA>       <NA>                   NA         <NA>        unverified 
+7          <NA>    Foraminifera              <NA>           <NA>            NA            <NA>       <NA>                   NA         <NA>        unverified 
+8          <NA> Bacillariophyta              <NA>           <NA>            NA            <NA>       <NA>                   NA         <NA>        unverified 
+9          <NA> Bacillariophyta              <NA>           <NA>            NA            <NA>       <NA>                   NA         <NA>        unverified 
+10     Animalia        Chordata          Rodentia                           NA                                              NA           no        unverified 
+11     Animalia        Chordata Reptilia/Amphibia                           NA                                              NA          yes        unverified 
+12     Animalia        Chordata          Rodentia                           NA                                              NA           no        unverified 
+13     Animalia        Chordata Reptilia/Amphibia                           NA                                              NA           no        unverified 
+14     Animalia      Arthropoda         Arachnida        Acarina            NA                                              NA                     unverified 
+15     Animalia      Arthropoda         Arachnida        Acarina            NA                                              NA                     unverified 
+16     Animalia      Arthropoda           Insecta        Acarina            NA                                              NA                     unverified 
+```
+The `cleandb` object is simply a version of the original database but with prey 
+taxonomic name info updated when it was obvious how to do so. Note that in the first
+two rows corresponding to the Genus 'Stellaria', Prey_Phylum was changed from 
+'Streptophyta' to 'Tracheophyta' according to ITIS taxonomy, and the ITIS ID
+was added.
+
+The `probnames` object is a list of names that did not match the ITIS database
+at the taxonomic level specified:
+```
+> clean$probnames
+    level              name            condition
+1   Order           Acarina  wrong rank; too low
+2   Class          Rodentia wrong rank; too high
+3   Class Reptilia/Amphibia            unmatched
+4  Phylum      Streptophyta  wrong rank; too low
+5  Phylum      Foraminifera            unmatched
+6  Phylum   Bacillariophyta  wrong rank; too low
+7 Kingdom              <NA>      unaccepted name
+```
+These are names that you will have to decide how to fix or treat, and in some cases
+the 'condition' column can help. 
+
+
+1) To begin cleaning, first find and open the PDF of the study (given in the "study" column) this name 
 appeared in. Most pdfs should be in the HurlbertLab folder > Databases > DietDatabase >
  Papers with data. If the paper is not in this folder, track it down online and 
 save a PDF here.
 
-4) Search the PDF for the unmatched name (use Ctrl-F). 
+2) Search the PDF for the unmatched name (use Ctrl-F). 
 
-5) If you find the unmatched name, pay attention to any contextual clues about 
+3) If you find the unmatched name, pay attention to any contextual clues about 
 what organism the name refers to. For example, the Beal (1912) source refers to a
 species called "Megilla maculata". This species is listed under Coleoptera.
 
 6) Now paste this name into the [Global Names Resolver](http://resolver.globalnames.org/).
 If we are lucky, it will link to the currently accepted taxonomic name for that entity.
 If so, make sure the higher classification matches up with whatever info you gleaned
-from the original source. The taxonUnmatched.tsv file may actually provide some
-possible suggestions to check under the "similar to taxon path" column.
+from the original source. 
 
 7) If the name you pasted in does not generate any results in the Global Names Resolver,
 then try Google. Again, you are looking for clues for what this name refers to. In the 
@@ -39,34 +157,34 @@ parasite of the Spotted Lady-Beetle (Megilla maculata)". Great! So, now try Goog
 certainly makes sense. Let's paste this new name in the [Global Names Resolver](http://resolver.globalnames.org/)
 just to be sure. Yes, looks good.
 
-8) Now we want to update the Avian Diet Database. With the Avian Diet Database open 
-in Excel, hit Ctrl-H for Find and Replace, and type in the old and new names respectively. 
-Then hit "Replace All".
+8) Now we want to provide a conversion table to tell R how to fix these names. Save
+the 'probnames' dataframe as a .txt file in the cleaning folder, e.g.:
+```
+write.table(clean$probnames, "cleaning/probnames_Beaver_and_Baldwin_1975.txt", sep = '\t', row.names = F)
+```
+You can now navigate to the cleaning folder on your machine and open up this file in Excel.
+Add two new columns on to the right hand side, one called 'replacewith', and one called 'notes'.
 
-9) Now we want to record the fact that we've changed the taxonomic name from what
-was originally reported in the study. Do this in the name_changes.txt where you'll
-record the old and new names in the 'source taxon name' and 'name changed to' fields,
-respectively. If the new name appears as a suggestion in the taxonUnmatched.tsv file
-and has a taxon id, then record this as well. The taxon id reflects a database source
-and a id number, e.g. "ITIS:193675". Finally, paste in the citation for the original
-study from the 'study' field of the taxonUnmatched.tsv file.
+For problem names which were the result of a typo or taxnomic name update, you can
+put the corrected or updated name in the 'replacewith' column.
 
-10) TYPOS! Typos are just as likely as changes in taxonomy to lead to bad names. 
-If the name was typed incorrectly when data were entered, then the name you search
-will not match with anything in the PDF. Try searching just the genus name, or just 
-the species name if this is the case. For example, if the unmatched name is "Apodius 
-vittatus", but this represents a typo during entry of "Aphodius vittatus". Then 
-searches of "Apodius vittatus" or "Apodius" will not match anything in the pdf, but 
-a search of "vittatus" would. At that point you would realize there had been a typo 
-during data entry, and that "Aphodius vittatus" is what should have been entered.
+If a taxonomic update also requires editing other fields as well, this can be done in the notes
+column. As long as the updated name is a valid ITIS name at the specificed taxonomic
+level, then usually no notes will be required.
 
-11) Now you want to make sure this is still a commonly accepted name using the Global
-Names Resolver. If it is, then you should go ahead and Find-and-Replace the typos in
-the Avian Diet Database. You're done with this name and on to the next. NO NEED TO
-ENTER THIS CORRECTION INTO THE name_changes.txt FILE SINCE IT DOES NOT REFLECT A
-TAXONOMIC NAME CHANGE, JUST A TYPO THAT NEVER SHOULD HAVE BEEN MADE IN THE FIRST PLACE.
+However, in the example above, 'Rodentia' is problematic because it is not a Class, 
+but rather an Order within Class Mammalia. Thus, we would write 'Mammalia' in the 'replacewith'
+column and in the 'notes' column we would type 'Order = Rodentia'.
 
-12) If the typo-corrected name HAS been replaced by a more modern taxonomic concept, 
-then go ahead and follow steps 7-9 to correct the name and record the change.
+In the case of 'Acarina', we find that not only is the name outdated (the currently 
+accepted name is ['Acari'](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=733321#null)),
+but it is not an Order, but rather a Subclass. Thus we would leave 'replacewith' blank
+because this taxonomic entity does not specify any particular order, and in the 'notes'
+field we might write 'Class = Arachnida & Phylum = Arthropoda & Kingdom = Animalia'.
+We can specify as many fields as we would like as long as each phrase of the form
+'(fieldname) = (value)' is separated by a '&'.
+
+
 
 As always, if you have any questions, don't hesitate to ask me!
+
