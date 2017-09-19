@@ -181,7 +181,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   
 
   if (sum(is.na(diet$Prey_Stage)) == nrow(diet)) {
-    habitat = "only NAs"
+    stage = "only NAs"
   } else {
     stage = strsplit(diet$Prey_Stage, ";") %>%
     unlist() %>%
@@ -197,7 +197,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   }
   
   if (sum(is.na(diet$Prey_Part)) == nrow(diet)) {
-    habitat = "only NAs"
+    part = "only NAs"
   } else {
     part = strsplit(diet$Prey_Part, ";") %>%
     unlist() %>%
@@ -225,7 +225,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     
 
   if (sum(is.na(diet$Study_Type)) == nrow(diet)) {
-    habitat = "only NAs"
+    studytype = "only NAs"
   } else {
     studytype = strsplit(diet$Study_Type, ";") %>%
     unlist() %>%
@@ -250,7 +250,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     unique()
 
   if (sum(is.na(diet$Location_Region)) == nrow(diet)) {
-    habitat = "only NAs"
+    region = "only NAs"
   } else {
     region = strsplit(diet$Location_Region, ";") %>%
     unlist() %>%
