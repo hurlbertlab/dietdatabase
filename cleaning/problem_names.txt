@@ -616,9 +616,9 @@ Scientific_Name	Ophion bilineatus	unmatched		Genus = Ophion & Family = Ichneumon
 Scientific_Name	Prosopis affinis	unmatched	Hylaeus affinis					
 Scientific_Name	Coccinella 9-notata var. nevadica	unmatched	Coccinella novemnotata					
 Scientific_Name	Hippodamia transverso-guttata	unmatched	Coccinella transversoguttata					
-Scientific_Name	Saprinus plenus	wrong rank; too high						
-Scientific_Name	Ptilinus basilis	unmatched						
-Scientific_Name	Onthophagus	wrong rank; too low						
+Scientific_Name	Saprinus plenus	wrong rank; too high	Xerosaprinus plenus					
+Scientific_Name	Ptilinus basilis	unmatched	Ptilinus basalis					
+Scientific_Name	Onthophagus	wrong rank; too low		Genus = Onthophagus				
 Scientific_Name	Coccinella 9-punctata	unmatched						
 Scientific_Name	Anatis 15 punctata	unmatched						
 Scientific_Name	Podabrus punctata	unmatched						
