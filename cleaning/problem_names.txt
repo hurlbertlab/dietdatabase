@@ -606,16 +606,16 @@ Scientific_Name	Mantispa brunnea	unmatched	Climaciella brunnea
 Scientific_Name	Syrbula acuticornius	unmatched	Syrbula montezuma					
 Scientific_Name	Anisodactylus semipunctatus	unmatched	Anisodactylus similis					
 Scientific_Name	Megapenthes turbulentus	unmatched		Genus = Megapenthes & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
-Scientific_Name	Canthon laevis	unmatched						
-Scientific_Name	Staphylinus luteipes	unmatched						
-Scientific_Name	Staphylinus nigrellus	unmatched						
-Scientific_Name	Hydaticus stagnalis	unmatched						
-Scientific_Name	Eurygaster alternatus	unmatched						
-Scientific_Name	Calocoris rapidus	unmatched						
-Scientific_Name	Ophion bilineatus	unmatched						
-Scientific_Name	Prosopis affinis	unmatched						
-Scientific_Name	Coccinella 9-notata var. nevadica	unmatched						
-Scientific_Name	Hippodamia transverso-guttata	unmatched						
+Scientific_Name	Canthon laevis	unmatched	Canthon imitator					
+Scientific_Name	Staphylinus luteipes	unmatched		Genus = Staphylinus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Staphylinus nigrellus	unmatched		Genus = Staphylinus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Hydaticus stagnalis	unmatched	Hydaticus continentalis					
+Scientific_Name	Eurygaster alternatus	unmatched	Eurygaster alternata					
+Scientific_Name	Calocoris rapidus	unmatched		Genus = Calocoris & Family = Miridae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Ophion bilineatus	unmatched		Genus = Ophion & Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Prosopis affinis	unmatched	Hylaeus affinis					
+Scientific_Name	Coccinella 9-notata var. nevadica	unmatched	Coccinella novemnotata					
+Scientific_Name	Hippodamia transverso-guttata	unmatched	Coccinella transversoguttata					
 Scientific_Name	Saprinus plenus	wrong rank; too high						
 Scientific_Name	Ptilinus basilis	unmatched						
 Scientific_Name	Onthophagus	wrong rank; too low						
