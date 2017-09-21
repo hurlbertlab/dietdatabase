@@ -619,49 +619,49 @@ Scientific_Name	Hippodamia transverso-guttata	unmatched	Coccinella transversogut
 Scientific_Name	Saprinus plenus	wrong rank; too high	Xerosaprinus plenus					
 Scientific_Name	Ptilinus basilis	unmatched	Ptilinus basalis					
 Scientific_Name	Onthophagus	wrong rank; too low		Genus = Onthophagus				
-Scientific_Name	Coccinella 9-punctata	unmatched						
-Scientific_Name	Anatis 15 punctata	unmatched						
-Scientific_Name	Podabrus punctata	unmatched						
-Scientific_Name	Coccinella abdominalis	unmatched						
-Scientific_Name	Madarus undulatus	unmatched						
-Scientific_Name	Balaninus uniformis	unmatched						
-Scientific_Name	Crepidodera cucumeris	unmatched						
-Scientific_Name	Galerucella decora	unmatched						
-Scientific_Name	Clisiocampa	unmatched						
+Scientific_Name	Coccinella 9-punctata	unmatched	Coccinella undecimpunctata					
+Scientific_Name	Anatis 15 punctata	unmatched		Genus = Anatis & Family = Coccinellidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Podabrus punctata	unmatched	Podabrus punctatus					
+Scientific_Name	Coccinella abdominalis	unmatched	Olla v-nigrum					
+Scientific_Name	Madarus undulatus	unmatched	Madarellus undulatus					
+Scientific_Name	Balaninus uniformis	unmatched	Curculio uniformis					
+Scientific_Name	Crepidodera cucumeris	unmatched	Epitrix cucumeris					
+Scientific_Name	Galerucella decora	unmatched	Tricholochmaea decora					
+Scientific_Name	Clisiocampa	unmatched		Genus = Malacosoma & Family = Lasiocampidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
 Scientific_Name	Oryza perennis	unmatched	Oryza rufipogon					
-Scientific_Name	Steinchisma laxum	unmatched						
-Scientific_Name	Eichhornia heterosperma	unmatched						
-Scientific_Name	Sagittaria planitiana	unmatched						
-Scientific_Name	Schoenoplectiella mucronata	unmatched						
-Scientific_Name	Musa x paradisiaca	wrong rank; too high						
-Scientific_Name	Apodasmia similis	unmatched						
-Scientific_Name	Melicope simplex	unmatched						
-Scientific_Name	Leucopogon fasciculatus	unmatched						
-Scientific_Name	Zeacumantus lutulentus	unmatched						
-Scientific_Name	Austrolittorina antipodum	unmatched						
-Scientific_Name	Paphies australis	unmatched						
-Scientific_Name	Austrovenus stutchburyi	unmatched						
-Scientific_Name	Halicarcinus varius	unmatched						
-Scientific_Name	Sporobolus schoenoides	unmatched						
-Scientific_Name	Panicum schinzii	unmatched						
-Scientific_Name	Alitta succinea	unmatched						
-Scientific_Name	Potamogeton schweinfurthii	unmatched						
-Scientific_Name	Persicaria hispida	unmatched						
-Scientific_Name	Aeschynomene ciliata	unmatched						
-Scientific_Name	Nymphaea nouchali	unmatched						
-Scientific_Name	Potamogeton malaianus	unmatched						
+Scientific_Name	Steinchisma laxum	unmatched	Steinchisma laxa					
+Scientific_Name	Eichhornia heterosperma	unmatched		Genus = Eichhornia & Family = Pontederiaceae & Order = Commelinales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
+Scientific_Name	Sagittaria planitiana	unmatched		Genus = Sagittaria & Family = Alismataceae & Order = Alismatales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
+Scientific_Name	Schoenoplectiella mucronata	unmatched	Schoenoplectus mucronatus					
+Scientific_Name	Musa x paradisiaca	wrong rank; too high	Musa X paradisiaca					
+Scientific_Name	Apodasmia similis	unmatched		keep as is				
+Scientific_Name	Melicope simplex	unmatched		keep as is				
+Scientific_Name	Leucopogon fasciculatus	unmatched		keep as is				
+Scientific_Name	Zeacumantus lutulentus	unmatched		keep as is				
+Scientific_Name	Austrolittorina antipodum	unmatched		keep as is				
+Scientific_Name	Paphies australis	unmatched		keep as is				
+Scientific_Name	Austrovenus stutchburyi	unmatched		keep as is				
+Scientific_Name	Halicarcinus varius	unmatched		keep as is				
+Scientific_Name	Sporobolus schoenoides	unmatched	Crypsis schoenoides					
+Scientific_Name	Panicum schinzii	unmatched	Panicum laevifolium					
+Scientific_Name	Alitta succinea	unmatched	Neanthes succinea					
+Scientific_Name	Potamogeton schweinfurthii	unmatched		Genus = Potamogeton & Family = Potamogetonaceae & Order = Alismatales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
+Scientific_Name	Persicaria hispida	unmatched		Genus = Persicaria & Family = Polygonaceae & Order = Caryophyllales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
+Scientific_Name	Aeschynomene ciliata	unmatched		Genus = Aeschynomene & Family = Fabaceae & Order = Fabales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
+Scientific_Name	Nymphaea nouchali	unmatched	Nymphaea lotus					
+Scientific_Name	Potamogeton malaianus	unmatched	Potamogeton nodosus					
 Scientific_Name	Vallisneria asiatica	unmatched	Vallisneria natans					
-Scientific_Name	Palaemon pugio	unmatched						
-Scientific_Name	Potamogeton coloratus	unmatched						
-Scientific_Name	Erythromma najas	unmatched						
-Scientific_Name	Limecola balthica	unmatched						
-Scientific_Name	Gevuina avellana	unmatched						
-Scientific_Name	Margyricarpus pinnatus	unmatched						
-Scientific_Name	Ficus andicola	unmatched						
-Scientific_Name	Palicourea angustifolia	unmatched						
-Scientific_Name	Lycianthes radiata	unmatched						
-Scientific_Name	Sporobolus alterniflorus	unmatched						
-Scientific_Name	Sporobolus pumilus	unmatched						
+Scientific_Name	Palaemon pugio	unmatched	Palaemonetes pugio					
+Scientific_Name	Potamogeton coloratus	unmatched		Genus = Potamogeton & Family = Potamogetonaceae & Order = Alismatales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
+Scientific_Name	Erythromma najas	unmatched		keep as is				
+Scientific_Name	Limecola balthica	unmatched	Macoma balthica					
+Scientific_Name	Gevuina avellana	unmatched		keep as is				
+Scientific_Name	Margyricarpus pinnatus	unmatched		keep as is				
+Scientific_Name	Ficus andicola	unmatched	Ficus americana					
+Scientific_Name	Palicourea angustifolia	unmatched		keep as is				
+Scientific_Name	Lycianthes radiata	unmatched		Genus = Lycianthes & Family = Solanaceae & Order = Solanales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
+Scientific_Name	Sporobolus alterniflorus	unmatched	Spartina alterniflora					
+Scientific_Name	Sporobolus pumilus	unmatched	Spartina patens					
 Scientific_Name	Pyropia columbina	unmatched						
 Scientific_Name	Mazzaella laminarioides	unmatched						
 Scientific_Name	Rostkovia magellanica	unmatched						
