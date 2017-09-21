@@ -133,7 +133,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Observation_Month_Begin</td>
-    <td>The month in which diet data were first collected, using numbers 1-12.</td>
+    <td>The month in which diet data were first collected, using numbers <b>1-12</b>.</td>
   </tr>
   <tr>
     <td>Observation_Year_Begin</td>
@@ -141,7 +141,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Observation_Month_End</td>
-    <td>The month in which diet data were last collected, using numbers 1-12.</td>
+    <td>The month in which diet data were last collected, using numbers <b>1-12</b>.</td>
   </tr>
   <tr>
     <td>Observation_Year_End</td>
