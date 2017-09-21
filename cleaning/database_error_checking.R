@@ -160,36 +160,46 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     season = "OK"
   } 
 
-      
-  habitat = strsplit(diet$Habitat_type, ";") %>%
-    unlist() %>%
-    trimws() %>%
-    table() %>%
-    data.frame() %>%
-    filter(!tolower(.) %in% c('agriculture', 'coniferous forest', 'deciduous forest', 'desert',
-                              'forest', 'grassland', 'mangrove forest', 'multiple', 'shrubland', 
-                              'urban', 'wetland', 'woodland'))
-  if (nrow(habitat) == 0) {
-    habitat = "OK"
+  
+  if (sum(is.na(diet$Habitat_type)) == nrow(diet)) {
+    habitat = "only NAs"
   } else {
-    names(habitat) = c('Habitat_type', 'n')
+    habitat = strsplit(diet$Habitat_type, ";") %>%
+      unlist() %>%
+      trimws() %>%
+      table() %>%
+      data.frame() %>%
+      filter(!tolower(.) %in% c('agriculture', 'coniferous forest', 'deciduous forest', 'desert',
+                                'forest', 'grassland', 'mangrove forest', 'multiple', 'shrubland', 
+                                'urban', 'wetland', 'woodland'))
+    if (nrow(habitat) == 0) {
+      habitat = "OK"
+    } else {
+      names(habitat) = c('Habitat_type', 'n')
+    }
   }
   
 
-  stage = strsplit(diet$Prey_Stage, ";") %>%
+  if (sum(is.na(diet$Prey_Stage)) == nrow(diet)) {
+    stage = "only NAs"
+  } else {
+    stage = strsplit(diet$Prey_Stage, ";") %>%
     unlist() %>%
     trimws() %>%
     table() %>%
     data.frame() %>%
     filter(!tolower(.) %in% c('adult', 'egg', 'juvenile', 'larva', 'nymph', 'pupa', 'teneral'))
-  if (nrow(stage) == 0) {
-    stage = "OK"
-  } else {
-    names(stage) = c('Prey_Stage', 'n')
+    if (nrow(stage) == 0) {
+      stage = "OK"
+    } else {
+      names(stage) = c('Prey_Stage', 'n')
+    }
   }
   
-  
-  part = strsplit(diet$Prey_Part, ";") %>%
+  if (sum(is.na(diet$Prey_Part)) == nrow(diet)) {
+    part = "only NAs"
+  } else {
+    part = strsplit(diet$Prey_Part, ";") %>%
     unlist() %>%
     trimws() %>%
     table() %>%
@@ -197,12 +207,13 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     filter(!tolower(.) %in% c('bark', 'bud', 'dung', 'egg', 'feces', 'flower', 'fruit',
                               'gall', 'oogonium', 'pollen', 'root', 'sap', 'seed',
                               'spore', 'statoblasts', 'vegetation'))
-  if (nrow(part) == 0) {
-    part = "OK"
-  } else {
-    names(part) = c('Prey_Part', 'n')
+    if (nrow(part) == 0) {
+      part = "OK"
+    } else {
+      names(part) = c('Prey_Part', 'n')
+    }
   }
-
+  
   
   diettype = count(diet, Diet_Type) %>% 
     filter(!Diet_Type %in% c('Wt_or_Vol', 'Items', 'Occurrence', 'Unspecified')) %>%
@@ -213,7 +224,10 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   }
     
 
-  studytype = strsplit(diet$Study_Type, ";") %>%
+  if (sum(is.na(diet$Study_Type)) == nrow(diet)) {
+    studytype = "only NAs"
+  } else {
+    studytype = strsplit(diet$Study_Type, ";") %>%
     unlist() %>%
     trimws() %>%
     table() %>%
@@ -221,13 +235,13 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     filter(!tolower(.) %in% c('behavioral observation', 'crop contents', 'emetic',
                               'esophagus contents', 'fecal contents', 'nest debris', 
                               'pellet contents', 'prey remains', 'stomach contents'))
-  if (nrow(studytype) == 0) {
-    studytype = "OK"
-  } else {
-    names(studytype) = c('Study_Type', 'n')
+    if (nrow(studytype) == 0) {
+      studytype = "OK"
+    } else {
+      names(studytype) = c('Study_Type', 'n')
+    }
   }
-  
-  
+    
   
   countries = map('world', plot = F)$names %>%
     strsplit(":") %>% 
@@ -235,7 +249,10 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     unlist() %>%
     unique()
 
-  region = strsplit(diet$Location_Region, ";") %>%
+  if (sum(is.na(diet$Location_Region)) == nrow(diet)) {
+    region = "only NAs"
+  } else {
+    region = strsplit(diet$Location_Region, ";") %>%
     unlist() %>%
     trimws() %>%
     table() %>%
@@ -252,10 +269,11 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
                      'Lake Michigan', 'Great Plains', 'New South Wales', 'Queensland', 'Victoria',
                      'Northern Territory', 'Fennoscandia', 'Siberia', 'Svalbard', 
                      'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles'))
-  if (nrow(region) == 0) {
-    region = "OK"
-  } else {
-    names(region) = c('Location_Region', 'n')
+    if (nrow(region) == 0) {
+      region = "OK"
+    } else {
+      names(region) = c('Location_Region', 'n')
+    }
   }
   
   

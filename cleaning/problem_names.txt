@@ -533,92 +533,92 @@ Scientific_Name	Myzine 6-cincta	unmatched		Genus = Myzinum & Family = Thynnidae 
 Scientific_Name	Camponotus esuriens	unmatched	Camponotus atriceps					
 Scientific_Name	Formica fuscu	unmatched	Formica fusca					
 Scientific_Name	Ichneumon laetus	unmatched		Genus = Ichneumon & Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
-Scientific_Name	Cryptus americanus	unmatched						
-Scientific_Name	Paniscus geminatus	unmatched						
-Scientific_Name	Coelioxys 8-dentata	unmatched						
-Scientific_Name	Vespa germanica	unmatched						
-Scientific_Name	Ophion bilineatum	unmatched						
-Scientific_Name	Nemobius vittatus	unmatched						
-Scientific_Name	Cornus alterifolia	unmatched						
-Scientific_Name	Cornus amonum	unmatched						
-Scientific_Name	Pyrus arbitufolia	unmatched						
-Scientific_Name	Sassafras varifolium	unmatched						
-Scientific_Name	Juniperus virginianus	unmatched						
-Scientific_Name	Rhamnus lanceolatus	unmatched						
-Scientific_Name	Chauliognathus americanus	unmatched						
-Scientific_Name	Laemosaccus plagiatus	unmatched						
-Scientific_Name	Anatis 15-punctata	unmatched						
-Scientific_Name	Psyllobora 20-maculata	unmatched						
-Scientific_Name	Platysoma lecontei	unmatched						
-Scientific_Name	Saprinus sphaeroides	unmatched						
-Scientific_Name	Diabrotica longicomis	unmatched						
-Scientific_Name	Odontota rubra	unmatched						
-Scientific_Name	Odontota nervosa	unmatched						
-Scientific_Name	Odontota quadrata	unmatched						
-Scientific_Name	Haplandrus femoratus	unmatched						
-Scientific_Name	Androchirus fuscipes	unmatched						
-Scientific_Name	Mordella serval	unmatched						
-Scientific_Name	Clerus 4-guttatus	unmatched						
-Scientific_Name	Onthophagus hectate	unmatched						
-Scientific_Name	Scaphidium 4-maculatum	unmatched						
-Scientific_Name	Coccinella sanguinea	unmatched						
-Scientific_Name	Cryptorynchus lapathi	unmatched						
-Scientific_Name	Piazurus oculatus	unmatched						
-Scientific_Name	Piazurus operculatus	unmatched						
-Scientific_Name	Dineutes emarginatus	unmatched						
-Scientific_Name	Aphodius bicolor	unmatched						
-Scientific_Name	Tomicus avulsus	unmatched						
-Scientific_Name	Tomicus grandicollis	unmatched						
-Scientific_Name	Calandra oryzae	unmatched						
-Scientific_Name	Leptura rubrica	wrong rank; too high						
-Scientific_Name	Sapromyza vulgaris.	unmatched						
-Scientific_Name	Lucilia caesar	unmatched						
-Scientific_Name	Euschistus spinosus	unmatched						
-Scientific_Name	Stictopelta trupunctata	unmatched						
-Scientific_Name	Corizus lateralis	unmatched						
-Scientific_Name	Chrysis coeruleans	unmatched						
-Scientific_Name	Aphaenogaster fulvum	unmatched						
-Scientific_Name	Tremex sericeus	unmatched						
-Scientific_Name	Coccoloba cujabensis	unmatched						
-Scientific_Name	Dendroctonus validus	unmatched						
-Scientific_Name	Melanophila fulvoguttat	unmatched						
-Scientific_Name	Elater behrensi	unmatched						
-Scientific_Name	Asemum maestum	unmatched						
-Scientific_Name	Hister ulkei	unmatched						
-Scientific_Name	Mylacus saccatus	unmatched						
-Scientific_Name	Collops argutus	unmatched						
-Scientific_Name	Leptura instabilis	unmatched						
-Scientific_Name	Ophryastes tubcrosus	unmatched						
-Scientific_Name	Phacepholis elegans	unmatched						
-Scientific_Name	Stenosphenus delosus	unmatched						
-Scientific_Name	Cyllene crinicornis	unmatched						
-Scientific_Name	Onthophagus pennsylveuicus	unmatched						
-Scientific_Name	Cicindela rectilatera	unmatched						
-Scientific_Name	Coccinella abdominalus	unmatched						
-Scientific_Name	Macrobasis albida	unmatched						
-Scientific_Name	Acmaeodera militarus	unmatched						
-Scientific_Name	Cyllene robiniae	wrong rank; too high						
-Scientific_Name	Aulacizes irrorata	unmatched						
-Scientific_Name	Thyanta eustator	unmatched						
-Scientific_Name	Euschistus sereus	unmatched						
-Scientific_Name	Alabama argilacca	unmatched						
-Scientific_Name	Mantispa brunnea	unmatched						
-Scientific_Name	Syrbula acuticornius	unmatched						
-Scientific_Name	Anisodactylus semipunctatus	unmatched						
-Scientific_Name	Megapenthes turbulentus	unmatched						
-Scientific_Name	Canthon laevis	unmatched						
-Scientific_Name	Staphylinus luteipes	unmatched						
-Scientific_Name	Staphylinus nigrellus	unmatched						
-Scientific_Name	Hydaticus stagnalis	unmatched						
-Scientific_Name	Eurygaster alternatus	unmatched						
-Scientific_Name	Calocoris rapidus	unmatched						
-Scientific_Name	Ophion bilineatus	unmatched						
-Scientific_Name	Prosopis affinis	unmatched						
-Scientific_Name	Coccinella 9-notata var. nevadica	unmatched						
-Scientific_Name	Hippodamia transverso-guttata	unmatched						
-Scientific_Name	Saprinus plenus	wrong rank; too high						
-Scientific_Name	Ptilinus basilis	unmatched						
-Scientific_Name	Onthophagus	wrong rank; too low						
+Scientific_Name	Cryptus americanus	unmatched		Genus = Cryptus & Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Paniscus geminatus	unmatched		Genus = Netelia & Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Coelioxys 8-dentata	unmatched	Coelioxys octodentata					
+Scientific_Name	Vespa germanica	unmatched	Paravespula germanica					
+Scientific_Name	Ophion bilineatum	unmatched		Genus = Ophion & Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Nemobius vittatus	unmatched	Eunemobius carolinus					
+Scientific_Name	Cornus alterifolia	unmatched	Cornus alternifolia					
+Scientific_Name	Cornus amonum	unmatched	Cornus amomum					
+Scientific_Name	Pyrus arbitufolia	unmatched	Aronia arbutifolia					
+Scientific_Name	Sassafras varifolium	unmatched	Sassafras albidum					
+Scientific_Name	Juniperus virginianus	unmatched	Juniperus virginiana					
+Scientific_Name	Rhamnus lanceolatus	unmatched	Rhamnus lanceolata					
+Scientific_Name	Chauliognathus americanus	unmatched	Chauliognathus pennsylvanicus					
+Scientific_Name	Laemosaccus plagiatus	unmatched	Laemosaccus nephele					
+Scientific_Name	Anatis 15-punctata	unmatched	Anatis labiculata					
+Scientific_Name	Psyllobora 20-maculata	unmatched	Psyllobora vigintimaculata					
+Scientific_Name	Platysoma lecontei	unmatched	Platysoma leconti					
+Scientific_Name	Saprinus sphaeroides	unmatched	Hypocaccus bigener					
+Scientific_Name	Diabrotica longicomis	unmatched	Diabrotica longicornis					
+Scientific_Name	Odontota rubra	unmatched		Genus = Odontota & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Odontota nervosa	unmatched		Genus = Odontota & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Odontota quadrata	unmatched		Genus = Odontota & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Haplandrus femoratus	unmatched	Vanonus wickhami					
+Scientific_Name	Androchirus fuscipes	unmatched		Genus = Androchirus & Family = Tenebrionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Mordella serval	unmatched	Mordellaria serval					
+Scientific_Name	Clerus 4-guttatus	unmatched	Enoclerus quadriguttatus					
+Scientific_Name	Onthophagus hectate	unmatched	Onthophagus hecate					
+Scientific_Name	Scaphidium 4-maculatum	unmatched	Scaphidium quadriguttatum					
+Scientific_Name	Coccinella sanguinea	unmatched	Cycloneda sanguinea					
+Scientific_Name	Cryptorynchus lapathi	unmatched	Cryptorhynchus lapathi					
+Scientific_Name	Piazurus oculatus	unmatched		Genus = Piazurus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Piazurus operculatus	unmatched		Genus = Piazurus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Dineutes emarginatus	unmatched	Dineutus emarginatus					
+Scientific_Name	Aphodius bicolor	unmatched	Pseudagolius bicolor					
+Scientific_Name	Tomicus avulsus	unmatched	Ips avulsus					
+Scientific_Name	Tomicus grandicollis	unmatched	Ips grandicollis					
+Scientific_Name	Calandra oryzae	unmatched	Sitophilus oryzae					
+Scientific_Name	Leptura rubrica	wrong rank; too high	Brachyleptura rubrica					
+Scientific_Name	Sapromyza vulgaris.	unmatched	Camptoprosopella vulgaris					
+Scientific_Name	Lucilia caesar	unmatched	Neomyia cornicina					
+Scientific_Name	Euschistus spinosus	unmatched		Genus = Euschistus & Family = Pentatomidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Stictopelta trupunctata	unmatched		Genus = Stictopelta & Family = Membracidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Corizus lateralis	unmatched		Genus = Corizus & Family = Rhopalidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Chrysis coeruleans	unmatched	Chrysis coerulans					
+Scientific_Name	Aphaenogaster fulvum	unmatched	Aphaenogaster fulva					
+Scientific_Name	Tremex sericeus	unmatched	Tremex columba					
+Scientific_Name	Coccoloba cujabensis	unmatched		Genus = Coccoloba & Family = Polygonaceae & Order = Caryophyllales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
+Scientific_Name	Dendroctonus validus	unmatched		Genus = Dendroctonus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Melanophila fulvoguttat	unmatched	Phaenops fulvoguttata					
+Scientific_Name	Elater behrensi	unmatched		Genus = Ampedus & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Asemum maestum	unmatched	Asemum striatum					
+Scientific_Name	Hister ulkei	unmatched		Genus = Hister & Family = Histeridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Mylacus saccatus	unmatched	Omias saccatus					
+Scientific_Name	Collops argutus	unmatched		Genus = Collops & Family = Melyridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Leptura instabilis	unmatched	Judolia instabilis					
+Scientific_Name	Ophryastes tubcrosus	unmatched	Ophryastes tuberosus					
+Scientific_Name	Phacepholis elegans	unmatched	Pantomorus elegans					
+Scientific_Name	Stenosphenus delosus	unmatched	Stenosphenus dolosus					
+Scientific_Name	Cyllene crinicornis	unmatched	Placosternus crinicornis					
+Scientific_Name	Onthophagus pennsylveuicus	unmatched	Onthophagus pennsylvanicus					
+Scientific_Name	Cicindela rectilatera	unmatched	Cicindela ocellata					
+Scientific_Name	Coccinella abdominalus	unmatched	Olla v-nigrum					
+Scientific_Name	Macrobasis albida	unmatched	Epicauta albida					
+Scientific_Name	Acmaeodera militarus	unmatched	Acmaeodera miliaris					
+Scientific_Name	Cyllene robiniae	wrong rank; too high	Megacyllene robiniae					
+Scientific_Name	Aulacizes irrorata	unmatched		Genus = Paraulacizes & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Thyanta eustator	unmatched	Thyanta custator					
+Scientific_Name	Euschistus sereus	unmatched	Euschistus servus					
+Scientific_Name	Alabama argilacca	unmatched	Alabama argillacea					
+Scientific_Name	Mantispa brunnea	unmatched	Climaciella brunnea					
+Scientific_Name	Syrbula acuticornius	unmatched	Syrbula montezuma					
+Scientific_Name	Anisodactylus semipunctatus	unmatched	Anisodactylus similis					
+Scientific_Name	Megapenthes turbulentus	unmatched		Genus = Megapenthes & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Canthon laevis	unmatched	Canthon imitator					
+Scientific_Name	Staphylinus luteipes	unmatched		Genus = Staphylinus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Staphylinus nigrellus	unmatched		Genus = Staphylinus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Hydaticus stagnalis	unmatched	Hydaticus continentalis					
+Scientific_Name	Eurygaster alternatus	unmatched	Eurygaster alternata					
+Scientific_Name	Calocoris rapidus	unmatched		Genus = Calocoris & Family = Miridae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
+Scientific_Name	Ophion bilineatus	unmatched		Genus = Ophion & Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Prosopis affinis	unmatched	Hylaeus affinis					
+Scientific_Name	Coccinella 9-notata var. nevadica	unmatched	Coccinella novemnotata					
+Scientific_Name	Hippodamia transverso-guttata	unmatched	Coccinella transversoguttata					
+Scientific_Name	Saprinus plenus	wrong rank; too high	Xerosaprinus plenus					
+Scientific_Name	Ptilinus basilis	unmatched	Ptilinus basalis					
+Scientific_Name	Onthophagus	wrong rank; too low		Genus = Onthophagus				
 Scientific_Name	Coccinella 9-punctata	unmatched						
 Scientific_Name	Anatis 15 punctata	unmatched						
 Scientific_Name	Podabrus punctata	unmatched						
