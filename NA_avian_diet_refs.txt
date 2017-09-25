@@ -3518,9 +3518,9 @@ Steller's Jay	Corvidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of
 Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry. U.S. Dep. Agric. Biol. Bull. 34:1-96."	y	y	Data already in the database	
 Western Scrub-Jay	Corvidae	2002	Feeding	Main Foods Taken	"Carmen, W. J. 1988. Behavioral ecology of the California Scrub Jay (Aphelocoma coerulescens californica): a non-cooperative breeder with close cooperative relatives. Phd Thesis. Univ. of California, Berkeley."	n		unavailable	
 Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Hoyt, J. B. B. 1990. Scrub jay resource utilization: foraging ecology in an urban park and an oak woodland. Master's Thesis. California State Univ. Fresno."	y	n		
-Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Yeaton, R. I. 1974. An ecological analysis of chaparral and pine forest bird communities on Santa Cruz Island and mainland California. Ecology 55:959-973."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Burt, D. B. 1996. Habitat-use patterns in cooperative and non-cooperative breeding birds: testing predictions with Western Scrub-Jays. Wilson Bull. 108:712-727."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Richardson, F. 1938. California Jay catches flies. Condor 40:264."				
+Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Yeaton, R. I. 1974. An ecological analysis of chaparral and pine forest bird communities on Santa Cruz Island and mainland California. Ecology 55:959-973."	y	n		
+Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Burt, D. B. 1996. Habitat-use patterns in cooperative and non-cooperative breeding birds: testing predictions with Western Scrub-Jays. Wilson Bull. 108:712-727."	y	n		
+Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Richardson, F. 1938. California Jay catches flies. Condor 40:264."	n		unavailable	
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Brown, J. L. 1963a. Social organization and behavior of the Mexican Jay. Condor 65:126-153."				
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Desante, D. 1982. Nests and nest predation in land birds. Point Reyes Bird Observ. Newsl. 59:1-5."				
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Eicholz, M. W. and W. D. Koenig. 1992. Gopher snake attraction to birds' nests. Southwest. Nat. 37:293-298."	y	n		
