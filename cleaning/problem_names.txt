@@ -470,7 +470,7 @@ Scientific_Name	Tettigonia atropunctata	unmatched		Genus = Graphocephala & Famil
 Scientific_Name	Juniperus virginana	unmatched	Juniperus virginiana					
 Scientific_Name	Saprinus obscurus	wrong rank; too high	Geomysaprinus obscurus					
 Scientific_Name	Notoxus alamedea	unmatched	Notoxus lustrellus					
-Scientific_Name	Aphodius ungulatus	unmatched						
+Scientific_Name	Aphodius ungulatus	unmatched		Genus = Aphodius & Family = Scarabaeidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
 Scientific_Name	Philonthus pubes	unmatched		Genus = Philonthus & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
 Scientific_Name	Amphicoma ursina	unmatched	Lichnanthe ursina					
 Scientific_Name	Triaena longula	unmatched	Amara longula					
@@ -493,7 +493,7 @@ Scientific_Name	Anatis ocellata	unmatched		Genus = Anatis & Family = Coccinellid
 Scientific_Name	Hister caenosus	unmatched	Hister coenosus					
 Scientific_Name	Saprinus assimilis	unmatched	Euspilotus assimilis					
 Scientific_Name	Limonius auripilis	unmatched		Genus = Limonius & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
-Scientific_Name	Corymbites hicroglyphicus	unmatched						
+Scientific_Name	Corymbites hicroglyphicus	unmatched		Genus = Ctenicera & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
 Scientific_Name	Phengodes fusiceps	unmatched	Phengodes fusciceps					
 Scientific_Name	Telephorus carolinus	unmatched	Podabrus modestus					
 Scientific_Name	Telephorus rotundicollis	unmatched	Ancistronycha erichsonii					
@@ -701,73 +701,73 @@ Scientific_Name	Discaria toumatou	unmatched		keep as is
 Scientific_Name	Corokia cotoneaster	unmatched		keep as is				
 Scientific_Name	Gaultheria depressa	unmatched		keep as is				
 Scientific_Name	Pratia angulata	unmatched		keep as is				
-Scientific_Name	Ranunculus fluitans	unmatched						
-Scientific_Name	Xanthocnemis zealandica	unmatched						
-Scientific_Name	Ips confusus 	unmatched						
-Scientific_Name	Orthotomicus latidens	unmatched						
-Scientific_Name	Ips emarginatus	unmatched						
-Scientific_Name	Melanophila californica	unmatched						
-Scientific_Name	Ips montanus	unmatched						
-Scientific_Name	Eurytoma conica	unmatched						
-Scientific_Name	Otiorhynchus nodosus	unmatched						
-Scientific_Name	Gallinula galeata	unmatched						
-Scientific_Name	Athous brightwelli	unmatched						
-Scientific_Name	Athous neacanthus	unmatched						
-Scientific_Name	Laphria prosticata	unmatched						
-Scientific_Name	Eutonia alleni	unmatched						
-Scientific_Name	Maccaffertium merirvulanum	unmatched						
-Scientific_Name	Euthyatira pudens	unmatched						
-Scientific_Name	Habrosyne scripta	unmatched						
-Scientific_Name	Acleris nigrolinea	unmatched						
-Scientific_Name	Phaecasiophora confixana	unmatched						
-Scientific_Name	Tipula bicolor	unmatched						
-Scientific_Name	Hemichroa militaris	unmatched						
-Scientific_Name	Semioscopis megamicrella	unmatched						
-Scientific_Name	Helotropha leucostigma	unmatched						
-Scientific_Name	Pseudexentera oregonana	unmatched						
-Scientific_Name	Amelanchier florida	invalid						
-Scientific_Name	Andropogon gerardi	invalid						
-Scientific_Name	Benzoin aestivale	invalid						
-Scientific_Name	Brachiaria platyphylla	invalid						
-Scientific_Name	Celtis ehrenbergiana	invalid						
-Scientific_Name	Celtis mississippiensis	invalid						
-Scientific_Name	Condalia obovata	invalid						
-Scientific_Name	Cornus paniculata	invalid						
-Scientific_Name	Diodia teres	invalid						
-Scientific_Name	Echinochloa crusgalli	invalid						
-Scientific_Name	Festuca pratensis	invalid						
-Scientific_Name	Lagurus curtatus	invalid						
-Scientific_Name	Myrica caroliniensis	invalid						
-Scientific_Name	Myrica cerifera	invalid						
-Scientific_Name	Panicum fasciculatum	invalid						
-Scientific_Name	Panicum wilcoxianum	invalid						
-Scientific_Name	Persicaria vivipara	invalid						
-Scientific_Name	Phoradendron flavescens	invalid						
-Scientific_Name	Phytolacca decandra	invalid						
-Scientific_Name	Polygonum hydropiperoides	invalid						
-Scientific_Name	Polygonum lapathifolium	invalid						
-Scientific_Name	Polygonum pensylvanicum	invalid						
-Scientific_Name	Psedera quinquefolia	invalid						
-Scientific_Name	Pyrus diversifolia	invalid						
-Scientific_Name	Pyrus malus	invalid						
-Scientific_Name	Rhus copallina	invalid						
-Scientific_Name	Rhus diversiloba	invalid						
-Scientific_Name	Rhus radicans	invalid						
-Scientific_Name	Rhus toxicodendron	invalid						
-Scientific_Name	Rhus trilobata	invalid						
-Scientific_Name	Rhus vernix	invalid						
-Scientific_Name	Rubus fruticosus	invalid						
-Scientific_Name	Sambucus canadensis	invalid						
-Scientific_Name	Sambucus glauca	invalid						
-Scientific_Name	Sambucus pubens	invalid						
-Scientific_Name	Sassafras variifolium	invalid						
-Scientific_Name	Scirpus cespitosus	invalid						
+Scientific_Name	Ranunculus fluitans	unmatched		keep as is				
+Scientific_Name	Xanthocnemis zealandica	unmatched		keep as is				
+Scientific_Name	Ips confusus 	unmatched		Genus = Ips & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Orthotomicus latidens	unmatched		Genus = Orthotomicus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Ips emarginatus	unmatched		Genus = Ips & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Melanophila californica	unmatched		Genus = Melanophila & Family = Buprestidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Ips montanus	unmatched		Genus = Ips & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Eurytoma conica	unmatched		Genus = Eurytoma & Family = Eurytomidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Otiorhynchus nodosus	unmatched		Genus = Otiorhynchus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Gallinula galeata	unmatched	Gallinula chloropus					
+Scientific_Name	Athous brightwelli	unmatched		Genus = Athous & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Athous neacanthus	unmatched		Genus = Athous & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Laphria prosticata	unmatched	Laphria posticata					
+Scientific_Name	Eutonia alleni	unmatched	Limnophila alleni					
+Scientific_Name	Maccaffertium merirvulanum	unmatched	Maccaffertium meririvulanum					
+Scientific_Name	Euthyatira pudens	unmatched		keep as is				
+Scientific_Name	Habrosyne scripta	unmatched		keep as is				
+Scientific_Name	Acleris nigrolinea	unmatched		keep as is				
+Scientific_Name	Phaecasiophora confixana	unmatched		keep as is				
+Scientific_Name	Tipula bicolor	unmatched		Genus = Tipula & Family = Tipulidae & Order = Diptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Hemichroa militaris	unmatched		Genus = Hemichroa & Family = Tenthredinidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Semioscopis megamicrella	unmatched		keep as is				
+Scientific_Name	Helotropha leucostigma	unmatched		Genus = Helotropha & Family = Noctuidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
+Scientific_Name	Pseudexentera oregonana	unmatched		keep as is				
+Scientific_Name	Amelanchier florida	invalid	Amelanchier alnifolia					
+Scientific_Name	Andropogon gerardi	invalid	Andropogon gerardii					
+Scientific_Name	Benzoin aestivale	invalid	Lindera benzoin					
+Scientific_Name	Brachiaria platyphylla	invalid	Urochloa platyphylla					
+Scientific_Name	Celtis ehrenbergiana	invalid	Celtis pallida					
+Scientific_Name	Celtis mississippiensis	invalid	Celtis laevigata					
+Scientific_Name	Condalia obovata	invalid	Condalia hookeri					
+Scientific_Name	Cornus paniculata	invalid	Cornus racemosa					
+Scientific_Name	Diodia teres	invalid	Diodella teres					
+Scientific_Name	Echinochloa crusgalli	invalid	Echinochloa crus-galli					
+Scientific_Name	Festuca pratensis	invalid	Schedonorus pratensis					
+Scientific_Name	Lagurus curtatus	invalid	Lemmiscus curtatus					
+Scientific_Name	Myrica caroliniensis	invalid	Morella caroliniensis					
+Scientific_Name	Myrica cerifera	invalid	Morella cerifera					
+Scientific_Name	Panicum fasciculatum	invalid	Urochloa fusca					
+Scientific_Name	Panicum wilcoxianum	invalid	Dichanthelium wilcoxianum					
+Scientific_Name	Persicaria vivipara	invalid	Bistorta vivipara					
+Scientific_Name	Phoradendron flavescens	invalid	Phoradendron serotinum					
+Scientific_Name	Phytolacca decandra	invalid	Phytolacca americana					
+Scientific_Name	Polygonum hydropiperoides	invalid	Persicaria hydropiperoides					
+Scientific_Name	Polygonum lapathifolium	invalid	Persicaria lapathifolia					
+Scientific_Name	Polygonum pensylvanicum	invalid	Persicaria pensylvanica					
+Scientific_Name	Psedera quinquefolia	invalid	Parthenocissus quinquefolia					
+Scientific_Name	Pyrus diversifolia	invalid	Malus fusca					
+Scientific_Name	Pyrus malus	invalid	Malus pumila					
+Scientific_Name	Rhus copallina	invalid	Rhus copallinum					
+Scientific_Name	Rhus diversiloba	invalid	Toxicodendron diversilobum					
+Scientific_Name	Rhus radicans	invalid	Toxicodendron radicans					
+Scientific_Name	Rhus toxicodendron	invalid	Toxicodendron pubescens					
+Scientific_Name	Rhus trilobata	invalid	Rhus aromatica					
+Scientific_Name	Rhus vernix	invalid	Toxicodendron vernix					
+Scientific_Name	Rubus fruticosus	invalid	Rubus plicatus					
+Scientific_Name	Sambucus canadensis	invalid	Sambucus nigra					
+Scientific_Name	Sambucus glauca	invalid	Sambucus nigra					
+Scientific_Name	Sambucus pubens	invalid	Sambucus racemosa					
+Scientific_Name	Sassafras variifolium	invalid	Sassafras albidum					
+Scientific_Name	Scirpus cespitosus	invalid	Trichophorum cespitosum					
 Scientific_Name	Setaria lutescens	invalid	Setaria pumila					
-Scientific_Name	Smilacina racemosa	invalid						
-Scientific_Name	Triticum vulgare	invalid						
-Scientific_Name	Vaccinium oxycoccus	invalid						
-Scientific_Name	Viola langsdorfii	invalid						
-Scientific_Name	Vitis cordifolia	invalid						
+Scientific_Name	Smilacina racemosa	invalid	Maianthemum racemosum					
+Scientific_Name	Triticum vulgare	invalid	Triticum aestivum					
+Scientific_Name	Vaccinium oxycoccus	invalid	Vaccinium oxycoccos					
+Scientific_Name	Viola langsdorfii	invalid	Viola langsdorffii					
+Scientific_Name	Vitis cordifolia	invalid	Vitis vulpina					
 Genus	Micropterus	unmatched	Micropterus	Family = Centrarchidae & Order = Perciformes & Class = Teleostei & Phylum = Chordata & Kingdom = Animalia & Prey_Name_Status = 168158				
 Genus	Anas platyrhynchos	wrong rank; too high	Anas	Scientific_Name = Anas platyrhynchos				
 Genus	Plagiodes	unmatched	Plagiodes	Family = Chrysomelidae & Suborder = Polyphaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = verified				
