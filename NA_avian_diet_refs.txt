@@ -3143,14 +3143,14 @@ American Crow	Corvidae	2002	Diet	Major Food Items	"Brunton, D. H. 1997. Impacts 
 American Crow	Corvidae	2002	Diet	Major Food Items	"Mcintyre, J. 1977. The Common Loon: pt. 2. Identification of potential predators on Common Loon nests. Loon 49:96-99."	y	n		
 American Crow	Corvidae	2002	Diet	Quantitative Analysis	"Reaume, T. 1987a. Selective feeding by the American Crow. Ont. Birds 5:71-72."	y	n		
 American Crow	Corvidae	2002	Diet	Major Food Items	"Marzluff, J. M. 1985. Behavior at a Pinyon Jay nest in response to predation. Condor 87:559-561."	y	n		
-American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Bayer, R. D. 1984. Notes on the feeding behavior of gulls and crows on clams and crabs at the Yaquina Estuary. West. Birds 15:35-36."	y	y	Entered data	
+American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Bayer, R. D. 1984. Notes on the feeding behavior of gulls and crows on clams and crabs at the Yaquina Estuary. West. Birds 15:35-36."	y	n		
 American Crow	Corvidae	2002	Diet	Quantitative Analysis	"Mcgowan, K. J. 2001a. Demographic and behavioral comparisons of suburban and rural American Crows (Corvus brachyrhynchos). in Avian ecology and conservation in an urbanizing world. (Marzluff, J. M., R. Bowman, and R. Donelly, Eds.) Kluwer Acad. Press, Boston, MA."	y	n		
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Cristol, D. A., P. V. Switzer, K. L. Johnson, and L. S. Walke. 1997. Crows do not use automobiles as nutcrackers: putting an anecdote to the test. Auk 114:296-298."	y	n		
 American Crow	Corvidae	2002	Diet	Major Food Items	"Wingate, D. B. 1975b. The Common Crow in Bermuda, Pt. 2. Monthly Bull. Bermuda Dep. Agric. Fish. 45:13-15."	y	n		
 American Crow	Corvidae	2002	Diet	Major Food Items	"Verbeek, N. A. M. 1973. The exploitation system of the Yellow-billed Magpie. Univ. of Calif. Publ. Zool. 99:1-58."	y	y		
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Heinrich, B. 1988. Winter foraging at carcasses by three sympatric corvids, with emphasis on recruitment by the raven, Corvus corax. Behav. Ecol. Sociobiol. 23:141-156."	y	n		
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Powell, R. W. 1972. Operant conditioning in the Common Crow (Corvus brachyrhynchos). Auk 89:738-742."	y	n		
-American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Knight, R. L. and D. P. Anderson. 1990. Effects of supplemental feeding on an avian scavenging guild. Wildl. Soc. Bull. 18:388-394."	y	n	Could not find the article	
+American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Knight, R. L. and D. P. Anderson. 1990. Effects of supplemental feeding on an avian scavenging guild. Wildl. Soc. Bull. 18:388-394."	y	n		
 American Crow	Corvidae	2002	Diet	Quantitative Analysis	"Imler, R. H. 1939. Comparison of the food of the White-necked Raven and crows in Oklahoma. Wilson Bull. 51:121-122."	y	y	Entered data	
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Cuccia, J. 1984. American Crow attacks European Starling in mid-air. Kingbird 34:32."	y	n		
 American Crow	Corvidae	2002	Feeding	Microhabitat For Foraging	"Maccarone, A. D. 1991. Seasonal use of foraging habitats by American Crows in central New Jersey. Bird Behav. 9:34-40."	y	n		
@@ -3190,7 +3190,7 @@ American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Boswall, J. H.
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Brothers, D. R. 1994. Bufo boreas (western toad). Predation. Herp. Rev. 25:117."	y	n		
 American Crow	Corvidae	2002	Food Selection And Storage		"Cristol, D. A. 2001. American Crows cache less preferred walnuts. Animal Behavior 62:331-336."	y	n		
 American Crow	Corvidae	2002	Feeding	Food Capture And Consumption	"Montevecchi, W. A. 1976. Egg size and the egg predatory behaviour of crows. Behaviour 57:307-320."	y	n		
-American Crow	Corvidae				"Kalmbach, E. R. 1918. The crow and its relation to man. U.S. Dep. Agric. Bulletin No. 621."	y	y	not entered yet	
+American Crow	Corvidae				"Kalmbach, E. R. 1918. The crow and its relation to man. U.S. Dep. Agric. Bulletin No. 621."	y	y	Entered data	
 Black-billed Magpie	Corvidae	1999	Diet		"Reebs, S. G. and D. A. Boag. 1987. Regurgitated pellets and late winter diet of Black-billed Magpies (Pica pica) in Central Alberta. Can. Field-Nat. 101:108-110."	y	y	"Entered data, suggests Kalmbach 1927"	
 Black-billed Magpie	Corvidae	1999	Diet		"Jones, R. E. and K. E. Hungerford. 1972. Evaluation of nesting cover as protection from Magpie predation. J. Wildl. Manage. 36:727-732."	y	n		
 Black-billed Magpie	Corvidae	1999	Feeding	Food Capture And Consumption	"Stirling, D. 1968. Notes on food and feeding habits of some wintering birds. Can. Field-Nat. 82:14-17."	y	n		
@@ -3248,7 +3248,7 @@ Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Yoerg, S. I. and A.
 Blue Jay	Corvidae	1999	Diet		"Johnson, K. W. and J. E. Johnson. 1976. An incident of Blue Jay predation on a Yellow-rumped Warbler. Wilson Bull. 88:509."	y	n		
 Blue Jay	Corvidae	1999	Diet		"Hoffmeister, D. F. and W. L. Downes, Jr. 1964. Blue Jays as predators of red bats. Southwest. Nat. 9:102."	y	n		
 Blue Jay	Corvidae	1999	Feeding	Food Capture And Consumption	"Kamil, A. C., R. L. Misthal, and D. W. Stephens. 1993. Failure of simple optimal foraging models to predict residence time when patch quality is uncertain. Behav. Ecol. 4:350-363."	y	n		
-California Jay	Corvidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	data has not yet been entered	
+California Jay	Corvidae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	Entered	
 Chihuahuan Raven	Corvidae	2002	Diet	Quantitative Analysis	"Imler, R. H. 1939. Comparison of the food of White-necked Ravens and crows in Oklahoma. Wilson Bull. 51:121-122."	y	y	Entered data	
 Chihuahuan Raven	Corvidae	2002	Metabolism And Temperature Regulation		"Hudson, D. M. and M. H. Bernstein. 1983. Gas exchange and energy cost of flight in the White-necked Raven, Corvus cryptoleucus. J. Exp. Biol. 103:121-130."	y	n		
 Chihuahuan Raven	Corvidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Boarman, W. I. and B. Heinrich. 1999. Common Raven (Corvus corax). in The birds of North America, no. 476. (Poole, A. and F. Gill, Eds.) The Birds of North America, Inc. Philadelphia, PA."	y	n		
@@ -3363,7 +3363,7 @@ Common Raven	Corvidae	1999	Nutrition And Energetics		"Heinrich, B. 1994b. Does t
 Common Raven	Corvidae	1999	Feeding	Food Capture And Consumption	"Harriman, A. E. and R. H. Berger. 1986. Olfactory acuity in the Common Raven (Corvus corax). Phys. Behav. 36:257-262."	y	n		
 Common Raven	Corvidae	1999	Food Selection And Storage	Food Storage	"Simmons, K. E. L. 1970. Further observations on food-hiding in the Corvidae. Br. Birds 63:175-177."	n		unavailable	
 Common Raven	Corvidae	1999	Diet	Impacts On Prey Populations	"Gaston, A. J., D. K. Cairns, R. D. Elliot, and D. G. Noble. 1985. A natural history of Digges Sound. Can. Wildl. Serv. Rep. no. 46."	y	n		
-Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Dorn, J. L. 1972. The Common Raven in Jackson Hole, Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	y	Entered data	
+Common Raven	Corvidae	1999	Feeding	Microhabitat For Foraging	"Dorn, J. L. 1972. The Common Raven in Jackson Hole, Wyoming. Master's Thesis. Univ. of Wyoming, Laramie."	y	y		
 Fish Crow	Corvidae	2001	Feeding	Main Foods Taken	"Barrows, W. B. 1888. The food of crows. U.S. Dep. Agric. Rep. 1888:498-535."	n		unavailable	
 Fish Crow	Corvidae	2001	Feeding	Food Capture And Consumption	"Wootton, J. T. 1995. Effects of birds on sea urchins and algae: a lower-intertidal trophic cascade. Ecoscience 2:321-328."	n		unavailable	
 Fish Crow	Corvidae	2001	Diet	Major Food Items	"Montevecchi, W. A. 1977. Predation in a salt marsh Laughing Gull colony. Auk 94:583-585."	y	n		
@@ -3521,8 +3521,8 @@ Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Hoyt, J. B. B
 Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Yeaton, R. I. 1974. An ecological analysis of chaparral and pine forest bird communities on Santa Cruz Island and mainland California. Ecology 55:959-973."	y	n		
 Western Scrub-Jay	Corvidae	2002	Feeding	Microhabitat For Foraging	"Burt, D. B. 1996. Habitat-use patterns in cooperative and non-cooperative breeding birds: testing predictions with Western Scrub-Jays. Wilson Bull. 108:712-727."	y	n		
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Richardson, F. 1938. California Jay catches flies. Condor 40:264."	n		unavailable	
-Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Brown, J. L. 1963a. Social organization and behavior of the Mexican Jay. Condor 65:126-153."				
-Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Desante, D. 1982. Nests and nest predation in land birds. Point Reyes Bird Observ. Newsl. 59:1-5."				
+Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Brown, J. L. 1963a. Social organization and behavior of the Mexican Jay. Condor 65:126-153."	y	n		
+Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Desante, D. 1982. Nests and nest predation in land birds. Point Reyes Bird Observ. Newsl. 59:1-5."	n		unavailable	
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Eicholz, M. W. and W. D. Koenig. 1992. Gopher snake attraction to birds' nests. Southwest. Nat. 37:293-298."	y	n		
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Michener, H. and J. R. Michener. 1945. California jays, their storage and recovery of food, and observations at one nest. Condor 47:206-210."	y	n		
 Western Scrub-Jay	Corvidae	2002	Feeding	Food Capture And Consumption	"Ehrlich, P. R. and J. F. McLaughlin. 1988. Scrub jay predation on starlings and swallows: attack and interspecific defense. Condor 90:503-505."	y	n		
