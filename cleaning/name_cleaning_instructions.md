@@ -89,7 +89,7 @@ gets saved to the same folder that the original file was read in from:
 "<originalFilename>_clean.txt" and "<originalFilename>_badnames.txt"
 ```
 > names(clean)
-[1] "cleandb"   "probnames"
+[1] "cleandb"   "badnames"
 
 > clean$cleandb
 
@@ -120,7 +120,7 @@ was added.
 The `badnames` object is a list of names that did not match the ITIS database
 at the taxonomic level specified:
 ```
-> clean$probnames
+> clean$badnames
     level              name            condition
 1   Order           Acarina  wrong rank; too low
 2   Class          Rodentia wrong rank; too high
