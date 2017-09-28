@@ -314,7 +314,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
 # Taxonomic name cleaning (designed espec)
 clean_all_names = function(filename, write = TRUE) {
   
-  diet = read.txt(filename, header= T, sep = '\t', quote = '\"')
+  diet = read.table(filename, header= T, sep = '\t', quote = '\"', stringsAsFactors = FALSE)
   
   clean_spp = clean_names('Scientific_Name', diet, all = TRUE)
   
@@ -334,15 +334,27 @@ clean_all_names = function(filename, write = TRUE) {
   
   badkings = kings[!kings %in% c('Animalia', 'Plantae', 'Chromista', 'Fungi', 'Bacteria')]
   
-  badnames = rbind(clean_phy$badnames, data.frame(level = 'Kingdom',
-                                                   name = badkings,
-                                                   condition = 'unaccepted name'))
+  # No bad names
+  if (nrow(clean_phy$badnames) == 0 & length(badkings) == 0) {
+    badnames = NULL
+  } else if (nrow(clean_phy$badnames) > 0 & length(badkings) == 0) {
+    badnames = clean_phy$badnames
+  } else if (nrow(clean_phy$badnames) == 0 & length(badkings) > 0) {
+    badking_df = data.frame(level = 'Kingdom',
+                            name = badkings,
+                            condition = 'unaccepted name')
+    badnames = badking_df
+  } else {
+    badnames = rbind(clean_phy$badnames, badking_df)
+  }
+    
   output = list(cleandb = clean_phy$diet,
-                probnames = badnames)  
+                badnames = badnames)  
   
   if (write) {
     filenameparts = unlist(strsplit(filename, '[.]'))
-    write.table(clean_phy$diet, paste(filenameparts[1], '_clean.txt', sep = ''), row.names = F)
+    write.table(clean_phy$diet, paste(filenameparts[1], '_clean.txt', sep = ''), sep = '\t', row.names = F)
+    write.table(badnames, paste(filenameparts[1], '_badnames.txt', sep = ''), sep = '\t', row.names = F)
   }
 
   return(output)
