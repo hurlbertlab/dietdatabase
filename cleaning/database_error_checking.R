@@ -345,6 +345,9 @@ clean_all_names = function(filename, write = TRUE) {
                             condition = 'unaccepted name')
     badnames = badking_df
   } else {
+    badking_df = data.frame(level = 'Kingdom',
+                            name = badkings,
+                            condition = 'unaccepted name')
     badnames = rbind(clean_phy$badnames, badking_df)
   }
     
