@@ -9,8 +9,7 @@ names and finds the ITIS ID number of names that match, and flags the names that
 do not match. Here's an example using a test file with some known name problems.
 
 ```
-> testdb = read.table('cleaning/test_namereplace_db.txt', header=T, sep = '\t', quote = '\"',stringsAsFactors = F)
-> clean = clean_all_names(testdb)
+> clean = clean_all_names('cleaning/test_namereplace_db.txt')
 
 [1] "1 out of 1"
 
@@ -85,10 +84,12 @@ no match (which will be the case with an old outdated name, as well), then
 simply hit enter.
 
 When the function has finished, we've created an object called clean, which has
-two elements, one called `cleandb` and one called `probnames`:
+two elements, one called `cleandb` and one called `badnames`. Each of these objects 
+gets saved to the same folder that the original file was read in from:
+"<originalFilename>_clean.txt" and "<originalFilename>_badnames.txt"
 ```
 > names(clean)
-[1] "cleandb"   "probnames"
+[1] "cleandb"   "badnames"
 
 > clean$cleandb
 
@@ -116,10 +117,10 @@ two rows corresponding to the Genus 'Stellaria', Prey_Phylum was changed from
 'Streptophyta' to 'Tracheophyta' according to ITIS taxonomy, and the ITIS ID
 was added.
 
-The `probnames` object is a list of names that did not match the ITIS database
+The `badnames` object is a list of names that did not match the ITIS database
 at the taxonomic level specified:
 ```
-> clean$probnames
+> clean$badnames
     level              name            condition
 1   Order           Acarina  wrong rank; too low
 2   Class          Rodentia wrong rank; too high
@@ -157,12 +158,8 @@ parasite of the Spotted Lady-Beetle (Megilla maculata)". Great! So, now try Goog
 certainly makes sense. Let's paste this new name in the [Global Names Resolver](http://resolver.globalnames.org/)
 just to be sure. Yes, looks good.
 
-8) Now we want to provide a conversion table to tell R how to fix these names. Save
-the 'probnames' dataframe as a .txt file in the cleaning folder, e.g.:
-```
-write.table(clean$probnames, "cleaning/probnames_Beaver_and_Baldwin_1975.txt", sep = '\t', row.names = F)
-```
-You can now navigate to the cleaning folder on your machine and open up this file in Excel.
+8) Now we want to provide a conversion table to tell R how to fix these names. Open the
+the 'badnames' file in the cleaning folder on your machine and open up this file in Excel.
 Add two new columns on to the right hand side, one called 'replacewith', and one called 'notes'.
 
 For problem names which were the result of a typo or taxnomic name update, you can

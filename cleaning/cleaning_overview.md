@@ -128,18 +128,18 @@ $Latitude_dd
 [1] "OK"
 
 $Altitude_min_m
-[1] "OK"
+[1] "All values NA"
 
 $Altitude_mean_m
-[1] "OK"
+[1] "All values NA"
 
 $Altitude_max_m
-[1] "OK"
+[1] "All values NA"
 
 ```
 Numeric fields in the database are checked for any values that are suspicious or invalid. If all is well, output is simply "OK" 
 for that field. Otherwise, the row number(s) of the flagged values are provided. In this case, row 3 has a problematic longitude value, 
-while the other Latitude and Altitude fields are ok.
+while the Latitude field is ok. The Altitude fields are all NA, but this is ok and nothing needs to be done for those.
 
 ```
 $Location_Region
@@ -172,7 +172,7 @@ $Habitat_type
 
 ```
 $Observation_Month_Begin
-[1] "OK"
+[1] "Field has non-numeric or non-integer values"
 
 $Observation_Year_Begin
 [1] "OK"
@@ -191,7 +191,7 @@ $Prey_Part
   Prey_Part n
 1    fruity 1
 ```
-Observation month and year fields are ok. 'juvie' is an unacceptable Prey_Stage name, and 'fruity' is an unacceptable
+Observation month and year fields are ok, except for Observation_Month_Begin which should be a value from 1 to 12, but apparently has some non-numeric values. Upon inspection, we can see that someone typed 'August' instead of using the number 8. 'juvie' is an unacceptable Prey_Stage name, and 'fruity' is an unacceptable
 Prey_Part name. Both values should be fixed or replaced as appropriate (e.g. 'juvenile', 'fruit').
 
 ```
