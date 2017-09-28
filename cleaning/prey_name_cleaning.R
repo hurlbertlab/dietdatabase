@@ -125,7 +125,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
       recs = which(!is.na(diet2[, taxonLevel]) & diet2[,taxonLevel] == n & lowerLevelCheck)
       
       # class is logical if taxonomic name does not match any existing names
-      if (class(hierarchy)[1] == 'logical') {
+      if (class(hierarchy)[1] == 'logical' | nrow(hierarchy) <= 1) {
         problemNames = rbind(problemNames, 
                              data.frame(level = preyTaxonLevel, 
                                         name = n,
