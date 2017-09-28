@@ -38,7 +38,9 @@ qa_qc = function(diet, write = FALSE, filename = NULL) {
 
 
 # Taxonomic name cleaning (designed espec)
-clean_all_names = function(diet, ...) {
+clean_all_names = function(filename, write = TRUE) {
+  
+  diet = read.txt(filename, header= T, sep = '\t', quote = '\"')
   
   clean_spp = clean_names('Scientific_Name', diet, all = TRUE)
   
@@ -63,6 +65,11 @@ clean_all_names = function(diet, ...) {
                                                    condition = 'unaccepted name'))
   output = list(cleandb = clean_phy$diet,
                 probnames = badnames)  
+  
+  if (write) {
+    filenameparts = unlist(strsplit(filename, '[.]'))
+    write.table(clean_phy$diet, paste(filenameparts[1], '_clean.txt', sep = ''), row.names = F)
+  }
 
   return(output)
 }
