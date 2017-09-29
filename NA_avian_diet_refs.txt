@@ -5205,7 +5205,7 @@ Western Meadowlark	Icteridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Bi
 Western Meadowlark	Icteridae	2008						https://birdsna.org/Species-Account/bna/species/wesmea/foodhabits	
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Microhabitat For Foraging	"Orians, G. H. 1980. Some adaptations of marsh nesting blackbirds. Princeton Univ. Press, Princeton, NJ."	y	n		
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."	n		Library Service Center	
-Yellow-headed Blackbird	Icteridae	1995	Diet	Major Food Items	"Twedt, D. J., W. J. Bleier, and G. M. Linz. 1991. Geographic and temporal variation in the diet of Yellow-headed Blackbirds. Condor 93:975-986."	y	y	need to enter	
+Yellow-headed Blackbird	Icteridae	1995	Diet	Major Food Items	"Twedt, D. J., W. J. Bleier, and G. M. Linz. 1991. Geographic and temporal variation in the diet of Yellow-headed Blackbirds. Condor 93:975-986."	y	y		
 Yellow-headed Blackbird	Icteridae	1995	Diet	Quantitative Analysis	"Knowlton, G. F. and P. E. Telford. 1947. Some insect food of the Yellow-headed Blackbird. Auk 64:459."	y	y		
 Yellow-headed Blackbird	Icteridae	1995	"Drinking, Pellet-Casting, And Defecation"		"Twedt, D. J. 1984. Pellet casting by Common Grackles. Wilson Bull. 96:470-471."	y	n		
 Northern Jacana	Jacanidae	1999	Diet		"Osborne, D. R. and G. R. Bourne. 1977. Breeding behavior and food habits of the Wattled Jacana. Condor 79:98-115."				
