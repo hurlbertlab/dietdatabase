@@ -5202,7 +5202,15 @@ Tricolored Blackbird	Icteridae	1999	Diet	Breeding Season	"Mailliard, J. 1914. No
 Tricolored Blackbird	Icteridae	1999	Diet	Nonbreeding Season	"Crase, F. T. and R. W. DeHaven. 1978. Food selection by five sympatric California blackbird species. Calif. Fish Game 64:255-267."	n		unavailable	
 Tricolored Blackbird	Icteridae	1999	Metabolism And Temperature Regulation		"Neff, J. A. 1937. Nesting distribution of the Tri-colored Red-wing. Condor 39:61-81."	y	n		
 Western Meadowlark	Icteridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	y	beal papers already entered	
-Western Meadowlark	Icteridae	2008						https://birdsna.org/Species-Account/bna/species/wesmea/foodhabits	
+Western Meadowlark	Icteridae	2008				y	n	"https://birdsna.org/Species-Account/bna/species/wesmea/foodhabits
+Table used in this utilized the original studies done by (Bryant 1914) and (Maher 1974). Both original papers were unavailable."	
+Western Meadowlark	Icteridae	1974			"Creighton, P. D. and D. K. Porter. 1974. Nest predation and interference by Western Meadowlarks. Auk no. 91:177-178. "	y		unavailable	format was not cooperative with pdf viewer
+Western Meadowlark	Icteridae	1914			"Bryant, H. C. 1914a. A determination of the economic status of the western meadowlark (Sturnella neglecta) in California. Univ. Calif. Publ. Zool. no. 11:377-510. "	y		unavailable	
+Western Meadowlark	Icteridae	1969			"Hubbard, J. P. and C. L. Hubbard. 1969. Meadowlarks feeding on road-kills. Wilson Bull. no. 81:107-108. "	y		unavailable	
+Western Meadowlark	Icteridae	1979			"Schrick, M. P. 1979. Tree Sparrows killed and eaten by meadowlarks. Bull. Okla. Ornithol. Soc. no. 12:33-34."	y	n		
+Western Meadowlark	Icteridae	1990			"Waters, L. S. 1990. Meadowlarks prey on Pine Siskins and American Goldfinches. Bull. Okla. Ornithol. Soc. no. 23:7-8. "	y	n		
+Western Meadowlark	Icteridae	1983			"Grzybowski, J. A. 1983b. Patterns of space use in grassland bird communities during winter. Wilson Bulletin no. 95 (4):591-602. "	y	n		
+Western Meadowlark	Icteridae	1954			"Schorger, A. W. 1954d. The wintering meadowlarks of Dane County. Wisconsin Auk no. 71 (1):87-88. "	y	n		
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Microhabitat For Foraging	"Orians, G. H. 1980. Some adaptations of marsh nesting blackbirds. Princeton Univ. Press, Princeton, NJ."	y	n		
 Yellow-headed Blackbird	Icteridae	1995	Feeding	Food Capture And Consumption	"Orians, G. H. 1985. Blackbirds of the Americas. Univ. of Washington Press, Seattle."	n		Library Service Center	
 Yellow-headed Blackbird	Icteridae	1995	Diet	Major Food Items	"Twedt, D. J., W. J. Bleier, and G. M. Linz. 1991. Geographic and temporal variation in the diet of Yellow-headed Blackbirds. Condor 93:975-986."	y	y		
