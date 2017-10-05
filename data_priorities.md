@@ -14,7 +14,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Ciconiidae  
 
 ### Columbiformes  
---Columbidae (need to check/enter Passenger Pigeon, Eurasian Collared-Dove)  
+--Columbidae (need to check/enter Passenger Pigeon, Eurasian Collared-Dove: PATRICK)  
 
 ### Cuculiformes  
 --Cuculidae   
