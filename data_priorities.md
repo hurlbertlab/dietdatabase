@@ -28,7 +28,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Certhiidae  
 --Cinclidae    
 --Corvidae   
---Emberizide
+--Emberizide  
 --Fringillidae  
 --Hirundinidae  
 --Icteridae (check/enter Western Meadowlark, Yellow-headed Blackbird Twedt et al. 1991: ANNABEL)  
@@ -41,7 +41,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Polioptilidae  
 --Ptilogonatidae  
 --Regulidae  
---Remizidae  (need to enter Verdin)  
+--Remizidae  (need to enter Verdin: DAVID)  
 --Sittidae  
 --Sturnidae  
 --Sylviidae  
