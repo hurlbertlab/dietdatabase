@@ -24,10 +24,10 @@ Note that Families for which I know that data remain to be entered are highlight
 --Alaudidae  
 --Bombycillidae  
 --Calcariidae  
---Cardinalidae (various tanager references to check/enter: DAVID)  
+--Cardinalidae  
 --Certhiidae  
 --Cinclidae    
---Corvidae (various jay references to check/enter: DAVID)  
+--Corvidae   
 --Emberizide  
 --Fringillidae  
 --Hirundinidae  
@@ -41,7 +41,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Polioptilidae  
 --Ptilogonatidae  
 --Regulidae  
---Remizidae  (need to enter Verdin)  
+--Remizidae  (need to enter Verdin: DAVID)  
 --Sittidae  
 --Sturnidae  
 --Sylviidae  
