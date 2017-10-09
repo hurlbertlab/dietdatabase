@@ -14,7 +14,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Ciconiidae  
 
 ### Columbiformes  
---Columbidae (need to check/enter Passenger Pigeon, Eurasian Collared-Dove)  
+--Columbidae (need to check/enter Passenger Pigeon, Eurasian Collared-Dove: PATRICK)  
 
 ### Cuculiformes  
 --Cuculidae   
@@ -24,14 +24,14 @@ Note that Families for which I know that data remain to be entered are highlight
 --Alaudidae  
 --Bombycillidae  
 --Calcariidae  
---Cardinalidae  
+--Cardinalidae   
 --Certhiidae  
 --Cinclidae    
---Corvidae   
+--Corvidae 
 --Emberizide  
 --Fringillidae  
 --Hirundinidae  
---Icteridae (check/enter Western Meadowlark, Yellow-headed Blackbird Twedt et al. 1991: ANNABEL)  
+--Icteridae 
 --Laniidae  
 --Mimidae  
 --Motacillidae  
@@ -55,7 +55,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Picidae  
 
 ### Psittaciformes
---Psittacidae (need to enter Carolina parakeet, other parrots)
+--Psittacidae (need to enter Carolina parakeet, other parrots: ANNABEL)
 
 ### Strigiformes
 --Strigidae    
