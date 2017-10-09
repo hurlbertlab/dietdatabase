@@ -197,7 +197,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Prey_Stage</td>
-    <td>The lifestage of the identified prey item (e.g., adult, larvae, egg). In general, you only need to worry about this column if the information is explicitly provided in the data source. <b>BUT NOTE: Always specify 'adult' or 'larvae' for the Prey_Order "Lepidoptera" if you can figure it out.</b></td>
+    <td>The lifestage of the identified prey item (e.g., adult, larva, egg). In general, you only need to worry about this column if the information is explicitly provided in the data source. <b>BUT NOTE: Always specify 'adult' or 'larva' for the Prey_Order "Lepidoptera" if you can figure it out.</b></td>
   </tr>
   <tr>
     <td>Prey_Part</td>
