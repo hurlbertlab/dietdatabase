@@ -3010,32 +3010,32 @@ Inca Dove	Columbidae	1-Dec-04	Nutrition And Energetics		"Macmillen, R. E. and C.
 Inca Dove	Columbidae	1-Dec-04	Metabolism And Temperature Regulation		"Macmillen, R. E. and C. H. Trost. 1967a. Thermoregulation and water loss in the Inca Dove. Comp. Biochem. Physiol. 20:263-273."	y	n		
 Inca Dove	Columbidae	1-Dec-04	Metabolism And Temperature Regulation		"Lasiewski, R. C. and R. S. Seymour. 1972. Thermoregulatory responses to heat stress in four species of birds weighing approximately 40 grams. Physiol. Zool. 45:106-118."	y	n		
 Inca Dove	Columbidae	1-Dec-04	Diet	Quantitative Analysis	"Dickey, D. R. and A. J. van Rossem. 1938. The birds of El Salvador. Field Mus. Nat. Hist., Zool. Ser. 23:1-609."	y	n		
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Shufeldt, R. W. 1915. Anatomical and other notes on the Passenger Pigeon (Ectopistes migratorius) lately living in the Cincinnati zoological gardens. Auk 32:29-42."				
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Knapp, H. 1879. Statements about the wild pigeons. Forest and Stream 12:146."				
-Passenger Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Cottam, C. and P. Knappen. 1939. Food of some uncommon birds. Auk 56:138-169."				
-Passenger Pigeon	Columbidae	2002	Food Selection And Storage		"Mershon, W. B. 1907. The Passenger Pigeon. Outing Publ. Co. New York."				
-Passenger Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Goodwin, D. 1983. Pigeons and doves of the world. 3rd ed. Br. Mus. (Nat. Hist.) London."				
-Passenger Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Linkletter, W. A. 1920. The Passenger Pigeon. Rod and Gun in Canada 22:755-756."				
-Passenger Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"	Defecation	"Zeisberger, D. 1910. History of North American Indians. Ohio Arch. Hist. Publ. 19:66."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Wilson, E. S. 1934. Personal recollections of the Passenger Pigeon. Auk 51:159-168."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Kalm, P. 1911. A description of the wild pigeons which visit the southern English colonies in North America, during certain years, in incredible multitudes. Auk 28:53-66."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Wheaton, J. M. 1874. The food of birds as related to agriculture. 29th annual report Ohio State Board Agric. Columbus, OH."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Dury, C. 1910. The Passenger Pigeon. J. Cincinnati Soc. Nat. Hist. 21:52-56."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Macoun, J. and J. M. Macoun. 1909. Catalogue of Canadian birds. Geol. Surv. Branch, Dep. Mines, Ottawa."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Bendire, C. 1892. Passenger Pigeon. Pages 132-138 in Life histories of North American birds: with special ref-erence to their breeding habits and eggs. (Bendire, C., Ed.) U.S. Natl. Mus. Spec. Bull. 1."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Peabody, W. B. O. 1841. A report on the birds of Massachusetts made to the legislature in the session of 1838-9. J. Boston Soc. Nat. Hist. 3:194."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Pokagon, S. 1895. The wild pigeon of North America. Chautauquan 22:202-206."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Roberts, T. S. 1932. Passenger Pigeon (Ectopistes migratorius). Pages 576-578 in The birds of Minnesota. Vol. 1. Univ. of Minnesota Press, Minneapolis."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Knapp, H. 1874. The wild pigeon. Am. Sportsman 4:387."				
-Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Mitchell, M. H. 1935. The Passenger Pigeon in Ontario. Contrib. no. 7. R. Mus. of Zool., Univ. of Toronto Press, Toronto."				
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Wheaton, J. M. 1882. Report on the birds of Ohio. Rep. Geol. Surv. Ohio no. 4."				
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Hibbard, J. J. 1918. Memories of the Passenger Pigeon. Bird Lore 20:351."				
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Bryant, C. A. 1913. The Passenger Pigeon. Forest and Stream 81:512."				
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Audubon, J. J. 1831. Ornithological biography. Vol. 1. Adam Black, Edinburgh."				
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Wilson, A. 1812. American ornithology. Vol. 5. Bradsford and Inskeep, Philadelphia."				
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"French, J. C. 1919. The Passenger Pigeon in Pennsylvania. Altoona Tribune Co. Altoona, PA."				
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Schorger, A. W. 1955. The Passenger Pigeon: its natural history and extinction. Univ. of Wisconsin Press, Madison."				
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Sterling, E. 1876. Passenger Pigeons and rice. Rod and gun. Am. Sportsman 7:296."				
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Shufeldt, R. W. 1915. Anatomical and other notes on the Passenger Pigeon (Ectopistes migratorius) lately living in the Cincinnati zoological gardens. Auk 32:29-42."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Knapp, H. 1879. Statements about the wild pigeons. Forest and Stream 12:146."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Cottam, C. and P. Knappen. 1939. Food of some uncommon birds. Auk 56:138-169."	y	y	will enter	
+Passenger Pigeon	Columbidae	2002	Food Selection And Storage		"Mershon, W. B. 1907. The Passenger Pigeon. Outing Publ. Co. New York."	y	n		
+Passenger Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Goodwin, D. 1983. Pigeons and doves of the world. 3rd ed. Br. Mus. (Nat. Hist.) London."	n		available in Science Library Annex	
+Passenger Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Linkletter, W. A. 1920. The Passenger Pigeon. Rod and Gun in Canada 22:755-756."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"	Defecation	"Zeisberger, D. 1910. History of North American Indians. Ohio Arch. Hist. Publ. 19:66."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Wilson, E. S. 1934. Personal recollections of the Passenger Pigeon. Auk 51:159-168."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Kalm, P. 1911. A description of the wild pigeons which visit the southern English colonies in North America, during certain years, in incredible multitudes. Auk 28:53-66."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Wheaton, J. M. 1874. The food of birds as related to agriculture. 29th annual report Ohio State Board Agric. Columbus, OH."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Dury, C. 1910. The Passenger Pigeon. J. Cincinnati Soc. Nat. Hist. 21:52-56."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Macoun, J. and J. M. Macoun. 1909. Catalogue of Canadian birds. Geol. Surv. Branch, Dep. Mines, Ottawa."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Bendire, C. 1892. Passenger Pigeon. Pages 132-138 in Life histories of North American birds: with special ref-erence to their breeding habits and eggs. (Bendire, C., Ed.) U.S. Natl. Mus. Spec. Bull. 1."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Peabody, W. B. O. 1841. A report on the birds of Massachusetts made to the legislature in the session of 1838-9. J. Boston Soc. Nat. Hist. 3:194."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Pokagon, S. 1895. The wild pigeon of North America. Chautauquan 22:202-206."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Roberts, T. S. 1932. Passenger Pigeon (Ectopistes migratorius). Pages 576-578 in The birds of Minnesota. Vol. 1. Univ. of Minnesota Press, Minneapolis."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Knapp, H. 1874. The wild pigeon. Am. Sportsman 4:387."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Mitchell, M. H. 1935. The Passenger Pigeon in Ontario. Contrib. no. 7. R. Mus. of Zool., Univ. of Toronto Press, Toronto."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Wheaton, J. M. 1882. Report on the birds of Ohio. Rep. Geol. Surv. Ohio no. 4."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Hibbard, J. J. 1918. Memories of the Passenger Pigeon. Bird Lore 20:351."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Bryant, C. A. 1913. The Passenger Pigeon. Forest and Stream 81:512."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Audubon, J. J. 1831. Ornithological biography. Vol. 1. Adam Black, Edinburgh."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Wilson, A. 1812. American ornithology. Vol. 5. Bradsford and Inskeep, Philadelphia."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"French, J. C. 1919. The Passenger Pigeon in Pennsylvania. Altoona Tribune Co. Altoona, PA."	y	n		
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Schorger, A. W. 1955. The Passenger Pigeon: its natural history and extinction. Univ. of Wisconsin Press, Madison."	n		available in Science Library Annex	
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Sterling, E. 1876. Passenger Pigeons and rice. Rod and gun. Am. Sportsman 7:296."	n			
 Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Bucher, E. H. 1992. The causes of the extinction of the Passenger Pigeon. Pages 1-35 in Current ornithology. Vol. 9 (Power, D. M., Ed.) Plenum Press, New York."				
 Passenger Pigeon	Columbidae	2002	Diet	Major Food Items	"Forbush, E. H. 1913. The last Passenger Pigeon. Bird Lore 15:99-103."				
 Passenger Pigeon	Columbidae	2002	Diet	Major Food Items	"Whitman, C. O. 1919. The behavior of pigeons. Vol. 3. Posthumous works of Charles Otis Whitman (H. A. Carr, ed.). Carnegie Inst. of Washington, Washington, D.C."				
