@@ -275,7 +275,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
                      'Newfoundland', 'Nunavut', 'Chesapeake Bay', 'Lake Ontario', 'Lake Erie',
                      'Lake Michigan', 'Great Plains', 'New South Wales', 'Queensland', 'Victoria',
                      'Northern Territory', 'Fennoscandia', 'Siberia', 'Svalbard', 
-                     'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles'))
+                     'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles', 'Washington D.C.'))
     if (nrow(region) == 0) {
       region = "OK"
     } else {
