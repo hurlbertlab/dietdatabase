@@ -66,8 +66,8 @@ Note that Families for which I know that data remain to be entered are highlight
 
 ### Caprimulgiformes
 --Apodidae  
---Caprimulgidae (need to check/enter Eastern Whip-poor-will - ANNABEL)   
---Trochilidae (13 to enter; most probably no data)   
+--Caprimulgidae   
+--Trochilidae (13 to enter; most probably no data - ANNABEL)   
 
 ### Falconiformes  
 --Falconidae (many references to be checked, although we currently have data for 5/6 species)   
