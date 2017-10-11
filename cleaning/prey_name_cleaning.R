@@ -125,7 +125,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
       recs = which(!is.na(diet2[, taxonLevel]) & diet2[,taxonLevel] == n & lowerLevelCheck)
       
       # class is logical if taxonomic name does not match any existing names
-      if (is.null(nrow(hierarchy[[1]]))) {
+      if (is.null(nrow(hierarchy))) {
         problemNames = rbind(problemNames, 
                              data.frame(level = preyTaxonLevel, 
                                         name = n,
@@ -133,7 +133,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
         
         diet2$Prey_Name_ITIS_ID[recs] = 'unverified'
         
-      } else if (nrow(hierarchy[[1]]) == 1) {
+      } else if (nrow(hierarchy) == 1) {
         problemNames = rbind(problemNames, 
                              data.frame(level = preyTaxonLevel, 
                                         name = n,
