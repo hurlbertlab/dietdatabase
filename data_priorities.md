@@ -36,12 +36,12 @@ Note that Families for which I know that data remain to be entered are highlight
 --Mimidae  
 --Motacillidae  
 --Paridae  
---Parulidae (need to enter Swainson's Warbler)  
---Passeridae  
+--Parulidae  
+--Passeridae  (Kambalch 1940 Economic Status of Crows DAVID) 
 --Polioptilidae  
 --Ptilogonatidae  
 --Regulidae  
---Remizidae  (need to enter Verdin: DAVID)  
+--Remizidae    
 --Sittidae  
 --Sturnidae  
 --Sylviidae  
