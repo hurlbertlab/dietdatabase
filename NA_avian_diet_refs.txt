@@ -2998,7 +2998,7 @@ Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Terbo
 Common Ground-Dove	Columbidae	2002	Feeding	Food Capture And Consumption	"Perez-Rivera, R. A. 1987. Aspectos de la alimentacion de la Rolita de Puerto Rico (Columbia passerina portoricensis). Science-Ciencia 14:27-30."	y	n		
 Common Ground-Dove	Columbidae	2002	Metabolism And Temperature Regulation		"Faaborg, J. 1977. Metabolic rates, resources, and the occurrence of nonpasserines in terrestrial avian communities. Am. Nat. 111:903-916."	y	n		
 Common Ground-Dove	Columbidae	2002	Nutrition And Energetics		"Oniki, Y. 1978. Weights, digestive tracts and gonadal conditions of some Amazonian birds. Rev. Brasil. Biol. 38:679-681."	y	n		
-Eurasian Collared-Dove	Columbidae	2012						https://birdsna.org/Species-Account/bna/species/eucdov/foodhabits	
+Eurasian Collared-Dove	Columbidae	2012				y	n	https://birdsna.org/Species-Account/bna/species/eucdov/foodhabits	
 Inca Dove	Columbidae	1-Dec-04	Feeding	Food Capture And Consumption	"Johnston, R. F. 1960. Behavior of the Inca Dove. Condor 62:7-24."	y	n		
 Inca Dove	Columbidae	1-Dec-04	Feeding	Food Capture And Consumption	"Valone, T. J. 1991. Bayesian and prescient assessment: foraging with pre-harvest information. Animal Behavior 41:569-577."	y	n		
 Inca Dove	Columbidae	1-Dec-04	Feeding	Food Capture And Consumption	"Quay, W. B. 1982. Seasonal calling, foraging, and flocking of Inca Doves at Galveston, Texas. Condor 84:321-326."	y	n		
@@ -3012,7 +3012,7 @@ Inca Dove	Columbidae	1-Dec-04	Metabolism And Temperature Regulation		"Lasiewski,
 Inca Dove	Columbidae	1-Dec-04	Diet	Quantitative Analysis	"Dickey, D. R. and A. J. van Rossem. 1938. The birds of El Salvador. Field Mus. Nat. Hist., Zool. Ser. 23:1-609."	y	n		
 Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Shufeldt, R. W. 1915. Anatomical and other notes on the Passenger Pigeon (Ectopistes migratorius) lately living in the Cincinnati zoological gardens. Auk 32:29-42."	y	n		
 Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Knapp, H. 1879. Statements about the wild pigeons. Forest and Stream 12:146."	n		unavailable	
-Passenger Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Cottam, C. and P. Knappen. 1939. Food of some uncommon birds. Auk 56:138-169."	y	y	will enter	
+Passenger Pigeon	Columbidae	2002	Diet	Quantitative Analysis	"Cottam, C. and P. Knappen. 1939. Food of some uncommon birds. Auk 56:138-169."	y	y	entered data	
 Passenger Pigeon	Columbidae	2002	Food Selection And Storage		"Mershon, W. B. 1907. The Passenger Pigeon. Outing Publ. Co. New York."	y	n		
 Passenger Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Goodwin, D. 1983. Pigeons and doves of the world. 3rd ed. Br. Mus. (Nat. Hist.) London."	n		available in Science Library Annex	
 Passenger Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"	Drinking	"Linkletter, W. A. 1920. The Passenger Pigeon. Rod and Gun in Canada 22:755-756."	n		unavailable	
@@ -3035,10 +3035,10 @@ Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Audubon, 
 Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Wilson, A. 1812. American ornithology. Vol. 5. Bradsford and Inskeep, Philadelphia."	y	n		
 Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"French, J. C. 1919. The Passenger Pigeon in Pennsylvania. Altoona Tribune Co. Altoona, PA."	y	n		
 Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Schorger, A. W. 1955. The Passenger Pigeon: its natural history and extinction. Univ. of Wisconsin Press, Madison."	n		available in Science Library Annex	
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Sterling, E. 1876. Passenger Pigeons and rice. Rod and gun. Am. Sportsman 7:296."	n			
-Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Bucher, E. H. 1992. The causes of the extinction of the Passenger Pigeon. Pages 1-35 in Current ornithology. Vol. 9 (Power, D. M., Ed.) Plenum Press, New York."				
-Passenger Pigeon	Columbidae	2002	Diet	Major Food Items	"Forbush, E. H. 1913. The last Passenger Pigeon. Bird Lore 15:99-103."				
-Passenger Pigeon	Columbidae	2002	Diet	Major Food Items	"Whitman, C. O. 1919. The behavior of pigeons. Vol. 3. Posthumous works of Charles Otis Whitman (H. A. Carr, ed.). Carnegie Inst. of Washington, Washington, D.C."				
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Sterling, E. 1876. Passenger Pigeons and rice. Rod and gun. Am. Sportsman 7:296."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	Feeding	Food Capture And Consumption	"Bucher, E. H. 1992. The causes of the extinction of the Passenger Pigeon. Pages 1-35 in Current ornithology. Vol. 9 (Power, D. M., Ed.) Plenum Press, New York."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	Diet	Major Food Items	"Forbush, E. H. 1913. The last Passenger Pigeon. Bird Lore 15:99-103."	n		unavailable	
+Passenger Pigeon	Columbidae	2002	Diet	Major Food Items	"Whitman, C. O. 1919. The behavior of pigeons. Vol. 3. Posthumous works of Charles Otis Whitman (H. A. Carr, ed.). Carnegie Inst. of Washington, Washington, D.C."	n		unavailable	
 Red-billed Pigeon	Columbidae	2002	Feeding	Main Foods Taken	"Goodwin, D. 1983. Pigeon and doves of the world. 3rd ed. Cornell Univ. Press, Ithaca, NY."	y	n		
 Red-billed Pigeon	Columbidae	2002	Feeding	Microhabitat For Foraging	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	y	n		
 Red-billed Pigeon	Columbidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Stager, K. E. 1957. The avifauna of the Tres Marias Islands, Mexico. Auk 74:413-432."	y	n		
