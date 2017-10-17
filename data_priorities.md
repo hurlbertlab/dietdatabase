@@ -37,7 +37,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Motacillidae        
 --Paridae  
 --Parulidae  
---Passeridae  (Kambalch 1940 Economic Status of Crows DAVID)           
+--Passeridae            
 --Polioptilidae  
 --Ptilogonatidae  
 --Regulidae  
@@ -70,7 +70,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Trochilidae (13 to enter; most probably no data - ANNABEL)   
 
 ### Falconiformes  
---Falconidae (many references to be checked, although we currently have data for 5/6 species)   
+--Falconidae (many references to be checked, although we currently have data for 5/6 species --DAVID)   
 
 ----------
 
