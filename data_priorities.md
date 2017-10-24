@@ -67,20 +67,20 @@ Note that Families for which I know that data remain to be entered are highlight
 ### Caprimulgiformes
 --Apodidae  
 --Caprimulgidae   
---Trochilidae (13 to enter; most probably no data - ANNABEL)   
+--Trochilidae  
 
 ### Falconiformes  
 --Falconidae (many references to be checked, although we currently have data for 5/6 species --DAVID)   
 
+### Coraciiformes
+--Alcedinidae
+
 ----------
 
 A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
-
-### Coraciiformes
---Alcedinidae (need to check/enter kingfishers)  
-
+ 
 ### Galliformes  
---Odontophoridae  
+--Odontophoridae : ANNABEL  
 --Cracidae (done?)  
 --Phasianidae (13 to enter)  
 
