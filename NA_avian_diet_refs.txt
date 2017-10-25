@@ -5853,7 +5853,7 @@ California Quail	Odontophoridae	1999	Nutrition And Energetics		"Fletcher, R. A. 
 California Quail	Odontophoridae	1999	Metabolism And Temperature Regulation		"Snapp, B. D., H. C. Heller, and S. M. Gospe. 1977. Hypothalamic thermosensitivity in California Quail (Lophortyx californicus). J. Comp. Physiol. 117:345-357."	y	n		
 California Quail	Odontophoridae	1999	Metabolism And Temperature Regulation		"Bartholomew, G. A. and W. R. Dawson. 1958. Body temperatures in California and Gambel's quail. Auk 75:150-156."	y	n		
 California Quail	Odontophoridae	1999	Nutrition And Energetics		"Delehanty, D. J. 1997. Mountain Quail reproduction and restoration in the Great Basin. Phd Thesis. Univ. of Nevada, Reno."	y	n		
-California Quail	Odontophoridae	1999	Feeding	Main Foods Taken	"Schwartz, C. W. and E. R. Schwartz. 1950. The California Quail in Hawaii. Auk 67:1-38."	y	y	data needs to be entered	
+California Quail	Odontophoridae	1999	Feeding	Main Foods Taken	"Schwartz, C. W. and E. R. Schwartz. 1950. The California Quail in Hawaii. Auk 67:1-38."	y	y	data needs to be entered - holding off for now	
 California Quail	Odontophoridae	1999	Metabolism And Temperature Regulation		"Goldstein, D. L. 1984. The thermal environment and its constraint on activity of desert Quail in summer. Auk 10:542-550."	y	n		
 California Quail	Odontophoridae	1999	Feeding	Main Foods Taken	"Crawford, J. A. 1993. California Quail in Western Oregon: a review. Pages 148-154 in Quail III: National Quail Symposium. (Church, K. E. and T. V. Dailey, Eds.) Kans. Dept. Wilderness and Parks, Pratt."	y	y	data needs to be entered	
 California Quail	Odontophoridae	1999	Feeding	Main Foods Taken	"Leopold, A. S. 1977. The California Quail. Univ. of California Press, Berkeley."	y	n		
