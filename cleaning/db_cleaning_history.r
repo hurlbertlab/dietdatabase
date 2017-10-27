@@ -757,9 +757,20 @@ write.table(badnames, 'cleaning/problem_names.txt', sep = '\t', row.names = F)
 # records have ITIS taxon id.
 
 
-# Manually fill in ITIS taxon id's for kingdoms where lower taxon levels are not provided
-diet7$Prey_Name_Status[diet7$Prey_Phylum
-                         ]
+# 27 October 2017; Allen Hurlbert
+# Patrick Winner identified replacement names for all names that had not matched ITIS.
+# The below function replaced these and wrote to a new file, AvianDietDatabase_fixed.txt
+# which was used to overwite AvianDietDatabase.txt
+fix_prob_names('cleaning/problem_names.txt', 'AvianDietDatabase.txt')
+
+
+
+
+
+
+
+
+
 
 # 
 #----------------------------------------------------------------------
