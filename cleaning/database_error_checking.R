@@ -7,7 +7,6 @@ library(maps)
 
 
 source('scripts/database_summary_functions.R')
-source('cleaning/prey_name_cleaning.R')
 
 # Error checking
 # --function returns row numbers of any records outside specified range
@@ -620,6 +619,15 @@ fix_prob_names = function(probnames_filename, dietdb_filename, write = T) {
   
   probnames = left_join(probnames, taxlevels)
   
+  probnames$notes = gsub("Kingdom", "Prey_Kingdom", probnames$notes)
+  probnames$notes = gsub("Phylum", "Prey_Phylum", probnames$notes)
+  probnames$notes = gsub("Class", "Prey_Class", probnames$notes)
+  probnames$notes = gsub("Order", "Prey_Order", probnames$notes)
+  probnames$notes = gsub("Suborder", "Prey_Suborder", probnames$notes)
+  probnames$notes = gsub("Family", "Prey_Family", probnames$notes)
+  probnames$notes = gsub("Genus", "Prey_Genus", probnames$notes)
+  probnames$notes = gsub("Scientific_Name", "Prey_Scientific_Name", probnames$notes)
+  
   diet = read.table(dietdb_filename, header = T, sep = '\t', quote = '\"', stringsAsFactors = F)
   
   for (i in 1:nrow(probnames)) {
@@ -649,13 +657,13 @@ fix_prob_names = function(probnames_filename, dietdb_filename, write = T) {
         split = unlist(strsplit(probnames$notes[i], " & "))
         for (j in split) {
           note = unlist(strsplit(j, " = "))
-          diet[recs, paste('Prey_', note[1], sep = '')] = note[2]
+          diet[recs, note[1]] = note[2]
           print(paste("Assigned", note[2], "to Prey", note[1]))
         }
       } else {
         note = unlist(strsplit(probnames$notes[i], " = "))
         
-        diet[recs, paste('Prey_', note[1], sep = '')] = note[2]
+        diet[recs, note[1]] = note[2]
         print(paste("Assigned", note[2], "to Prey", note[1]))
       }
       rm(note)
