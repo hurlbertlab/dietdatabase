@@ -352,7 +352,9 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
   }
   
   if (all == FALSE) {
-    diet2 = diet[diet$Prey_Name_ITIS_ID == 'unverified' | is.na(diet$Prey_Name_ITIS_ID), ]
+    diet2 = diet[diet$Prey_Name_ITIS_ID == 'unverified' | 
+                   diet$Prey_Name_ITIS_ID == '' | 
+                   is.na(diet$Prey_Name_ITIS_ID), ]
   } else {
     diet2 = diet
   }
@@ -544,24 +546,29 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
 # scientific name up through kingdom using clean_names().
 # Output includes a cleaned diet database file and a list of problem
 # names and their taxonomic levels that did not match in ITIS.
+# 
+# Most important additional argument to specify is all = TRUE if you
+# want to clean all names, even those that already have ITIS IDs.
+# Default is all = FALSE which will be much faster, and will only examine
+# names where Prey_Name_ITIS_ID is 'unverified' or blank or NA.
 
-clean_all_names = function(filename, write = TRUE) {
+clean_all_names = function(filename, write = TRUE, ...) {
   
   diet = read.table(filename, header= T, sep = '\t', quote = '\"', stringsAsFactors = FALSE)
   
-  clean_spp = clean_names('Scientific_Name', diet, all = TRUE)
+  clean_spp = clean_names('Scientific_Name', diet, ...)
   
-  clean_gen = clean_names('Genus', clean_spp$diet, all = TRUE, problemNames = clean_spp$badnames)
+  clean_gen = clean_names('Genus', clean_spp$diet, problemNames = clean_spp$badnames, ...)
 
-  clean_fam = clean_names('Family', clean_gen$diet, all = TRUE, problemNames = clean_gen$badnames)
+  clean_fam = clean_names('Family', clean_gen$diet, problemNames = clean_gen$badnames, ...)
   
-  clean_subo = clean_names('Suborder', clean_fam$diet, all = TRUE, problemNames = clean_fam$badnames)
+  clean_subo = clean_names('Suborder', clean_fam$diet, problemNames = clean_fam$badnames, ...)
   
-  clean_ord = clean_names('Order', clean_subo$diet, all = TRUE, problemNames = clean_subo$badnames)
+  clean_ord = clean_names('Order', clean_subo$diet, problemNames = clean_subo$badnames, ...)
   
-  clean_cla = clean_names('Class', clean_ord$diet, all = TRUE, problemNames = clean_ord$badnames)
+  clean_cla = clean_names('Class', clean_ord$diet, problemNames = clean_ord$badnames, ...)
   
-  clean_phy = clean_names('Phylum', clean_cla$diet, all = TRUE, problemNames = clean_cla$badnames)
+  clean_phy = clean_names('Phylum', clean_cla$diet, problemNames = clean_cla$badnames, ...)
   
   kings = unique(diet$Prey_Kingdom)
   
