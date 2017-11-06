@@ -4171,14 +4171,14 @@ Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Mcelroy, H
 Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Brooks, A. 1933. Some notes on the birds of Brownsville, Texas. Auk 50:59-63."	y	n		
 Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Lasley, G. W., C. Sexton, M. Lockwood, W. Sekula, and C. Shackleford. 1997. Texas region. Am. Birds 51:82-87."	y	n		
 Aplomado Falcon	Falconidae	2000	Nutrition And Energetics		"Walsberg, G. E. 1972. Avian ecological energetics. Pages 161-220 in Avian biology. Vol. 7 (Farner, D. S., J. R. King, and K. C. Parkes, Eds.) Academic Press, New York."	n			
-Aplomado Falcon	Falconidae	2000	Feeding	Main Foods Taken	"Hector, D. P. 1985. The diet of the Aplomado Falcon (Falco femoralis) in eastern Mexico. Condor 87:336-342."	y	y	Filling it out now	
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Humphrey, P. S., D. S. Bridge, P. W. Reynolds, and R. T. Peterson. 1970. Birds of Isla Grande (Tierra del Fuego). Univ. of Kans. Mus. Nat. Hist. Lawrence."				
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Hector, D. P. 1980. The habitat, diet, and foraging behavior of the Aplomado Falcon, Falco femoralis (Temminck). Master's Thesis. Oklahoma State Univ., Stillwater."				
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Loetscher, Jr., F. W. 1941. Ornithology of the Mexican state of Veracruz: with an annotated list of the birds. Ph.D. thesis. Cornell Univ. Ithaca, NY."				
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Mader, W. J. 1981. Notes on nesting raptors in the Llanos of Venezuela. Condor 83:48-51."				
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Ellis, D. H. 1992. Talon grappling by Aplomado Falcons and by Golden Eagles. J. Raptor Res. 26:41-42."				
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Baird, S. F., T. M. Brewer, and R. Ridgway. 1905. A history of North American birds: Land birds. Vol. 3. Little, Brown and Co., Boston."				
-Aplomado Falcon	Falconidae	2000	Diet	Size Of Prey	"Leopold, A. S. 1972. Wildlife of Mexico. Univ. of California Press, Berkeley."				
+Aplomado Falcon	Falconidae	2000	Feeding	Main Foods Taken	"Hector, D. P. 1985. The diet of the Aplomado Falcon (Falco femoralis) in eastern Mexico. Condor 87:336-342."	y	y		
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Humphrey, P. S., D. S. Bridge, P. W. Reynolds, and R. T. Peterson. 1970. Birds of Isla Grande (Tierra del Fuego). Univ. of Kans. Mus. Nat. Hist. Lawrence."	n			
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Hector, D. P. 1980. The habitat, diet, and foraging behavior of the Aplomado Falcon, Falco femoralis (Temminck). Master's Thesis. Oklahoma State Univ., Stillwater."	y	n	The data is already entered into the database via another paper the same author wrote basedon this paper	
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Loetscher, Jr., F. W. 1941. Ornithology of the Mexican state of Veracruz: with an annotated list of the birds. Ph.D. thesis. Cornell Univ. Ithaca, NY."	y	n		
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Mader, W. J. 1981. Notes on nesting raptors in the Llanos of Venezuela. Condor 83:48-51."	y	n		
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Ellis, D. H. 1992. Talon grappling by Aplomado Falcons and by Golden Eagles. J. Raptor Res. 26:41-42."	n			
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Baird, S. F., T. M. Brewer, and R. Ridgway. 1905. A history of North American birds: Land birds. Vol. 3. Little, Brown and Co., Boston."	n			
+Aplomado Falcon	Falconidae	2000	Diet	Size Of Prey	"Leopold, A. S. 1972. Wildlife of Mexico. Univ. of California Press, Berkeley."	n			
 Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Jimenez, J. E. 1993. Notes on the diet of the Aplomado Falcon (Falco femoralis) in northcentral Chile. J. Raptor Res. 27:161-163."				
 Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Strecker, J. K. 1930. Field notes on western Texas birds. Contrib. Baylor Univ. Mus. 22:1-14."				
 Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Bailey, F. M. 1928. The birds of New Mexico. New Mexico Dep. Game Fish, Santa Fe."				
@@ -5872,12 +5872,12 @@ California Quail	Odontophoridae	1999	Feeding	Microhabitat For Foraging	"Shuford,
 California Quail	Odontophoridae	1999	Metabolism And Temperature Regulation		"Mcnabb, F. M. A. 1969a. A comparative study of water balance in three species of quail I. Water turnover in the absence of temperature stress. Comp. Biochem. Physiol. 28:1045-1058."	y	n		
 California Quail	Odontophoridae	1999	Nutrition And Energetics		"Goldstein, D. L. and K. A. Nagy. 1985. Resource utilization by desert quail: time and energy, food and water. Ecology 66:378-387."	y	n	diet data available for Gamble's Quail (referenced in that section)	
 California Quail	Odontophoridae	1999	Diet	Quantitative Analysis	"Duncan, D. A. 1968. Food of California Quail on burned and unburned central California foothill rangeland. Calif. Fish Game 54:123-127."	n		unavailable	
-California Quail	Odontophoridae	1999	Nutrition And Energetics		"Anthony, R. G. 1970b. Food habits of California Quail in southeastern Washington during the breeding season. J. Wildl. Manage. 34:950-953."	y	y	data needs to be entered	
+California Quail	Odontophoridae	1999	Nutrition And Energetics		"Anthony, R. G. 1970b. Food habits of California Quail in southeastern Washington during the breeding season. J. Wildl. Manage. 34:950-953."	y	y		
 California Quail	Odontophoridae	1999	Nutrition And Energetics		"Leopold, A. S., M. Erwin, and B. Browning. 1976. Phytoestrogens: adverse effects on reproduction in California Quail. Science 191:98-100."	n		need access	
 California Quail	Odontophoridae	1999	Metabolism And Temperature Regulation		"Brush, A. J. 1965. Energetics, temperature regulation and circulation in resting, active and defeathered California Quail, Lophortyx californicus. Comp. Biochem. Physiol. 15:399-421."	y	n		
 California Quail	Odontophoridae	1910	Diet	Major Food Items	"Beal, F. E. L. 1910. Birds of California in relation to fruit industry, Pt. 2. U.S. Dept. Agricult. Biol. Surv. Bull. 34:1-96."	y	n		
 Gambel's Quail	Odontophoridae	1998	"Drinking, Pellet-Casting, And Defecation"		"Vorhies, C. T. 1928. Do southwestern quail require water? Am. Nat. 62:446-452."	y	n		
-Gambel's Quail	Odontophoridae	1998	Diet		"Campbell, H. 1957. Fall foods of Gambel's Quail (Lophortyx gambelii) in New Mexico. Southwest. Nat. 2:122-128."	y	y	data needs to be entered	
+Gambel's Quail	Odontophoridae	1998	Diet		"Campbell, H. 1957. Fall foods of Gambel's Quail (Lophortyx gambelii) in New Mexico. Southwest. Nat. 2:122-128."	y	y		
 Gambel's Quail	Odontophoridae	1998	"Drinking, Pellet-Casting, And Defecation"		"Gullion, G. W. 1958. The proximity effect of water distribution on desert small game populations. Proc. West. Assoc. State Game and Fish Comm. 38:187-189."	n		unavailable	
 Gambel's Quail	Odontophoridae	1998	Feeding	Main Foods Taken	"Hungerford, C. R. 1962. Adaptations shown in selection of food by Gambel's quail. Condor 64(3):213-219."	y	y	data needs to be entered	
 Gambel's Quail	Odontophoridae	1998	"Drinking, Pellet-Casting, And Defecation"		"Lowe, Jr., C. H. 1955. Gambel Quail and water supply in Tiburon Island, Sonora, Mexico. Condor 57:244."	y	n		
