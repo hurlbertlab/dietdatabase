@@ -396,7 +396,6 @@ Osprey	Accipitridae	2002	Metabolism And Temperature Regulation	Metabolism	"Wasse
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Van Daele, L. J. and H. A. Van Daele. 1982. Factors affecting the productivity of Ospreys nesting in west-central Idaho. Condor 84:292-299."	y	y	entered	
 Osprey	Accipitridae	2002	Diet	Major Food Items	"King, M. M. 1988. Osprey preys on tiger salamander. J. Raptor Res. 22:121."	y	y		
 Osprey	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	entered	
-Prairie Falcon	Falconidae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above	there should be many more references; check Birds of North America
 Red-shouldered hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	entered	
 Red-shouldered hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above	
 Red-shouldered hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982	n		unavailable	
@@ -4111,6 +4110,7 @@ Yellow-eyed Junco	Emberizidae	1999	Metabolism And Temperature Regulation		"Weath
 Yellow-eyed Junco	Emberizidae	1999	Metabolism And Temperature Regulation		"Sullivan, K. A. and W. W. Weathers. 1992. Brood size and thermal environment influence field metabolism of nestling Yellow-eyed Juncos. Auk 109:112-118."	y	n		
 Yellow-eyed Junco	Emberizidae	1999	Metabolism And Temperature Regulation		"Wijnandts, H. 1984. Ecological energetics of the Long-eared Owl (Asio otus). Ardea 72:1-92."	y	n		
 Yellow-eyed Junco	Emberizidae	1999	Metabolism And Temperature Regulation		"Klaassen, M., C. Beth, D. Masman, and G. Slagsvold. 1989. Growth and energetics of Arctic Tern chicks (Sterna paradisaea). Auk 106:240-248."	y	n		
+Prairie Falcon	Falconidae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above	there should be many more references; check Birds of North America
 American Kestrel	Falconidae	1995	Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	y	Already entered in the database	
 American Kestrel	Falconidae	2002	"Nutrition, Energetics, And Metabolism"		"Lacombe, D., D. M. Bird, and K. A. Hibbard. 1994. Influence of reduced food availability on growth of captive American Kestrels. Can. J. Zool. 72:2084-2089."	y	n		
 American Kestrel	Falconidae	2002	"Nutrition, Energetics, And Metabolism"		"Daniels, K. and G. E. Duke. 1980. Factors influencing respiratory rates in four species of raptors. Comp. Biochem. Physiol. 66A:703-706."	y	n		
@@ -4179,11 +4179,11 @@ Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Mader, W. 
 Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Ellis, D. H. 1992. Talon grappling by Aplomado Falcons and by Golden Eagles. J. Raptor Res. 26:41-42."	n			
 Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Baird, S. F., T. M. Brewer, and R. Ridgway. 1905. A history of North American birds: Land birds. Vol. 3. Little, Brown and Co., Boston."	n			
 Aplomado Falcon	Falconidae	2000	Diet	Size Of Prey	"Leopold, A. S. 1972. Wildlife of Mexico. Univ. of California Press, Berkeley."	n			
-Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Jimenez, J. E. 1993. Notes on the diet of the Aplomado Falcon (Falco femoralis) in northcentral Chile. J. Raptor Res. 27:161-163."				
-Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Strecker, J. K. 1930. Field notes on western Texas birds. Contrib. Baylor Univ. Mus. 22:1-14."				
-Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Bailey, F. M. 1928. The birds of New Mexico. New Mexico Dep. Game Fish, Santa Fe."				
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Perez, C. 1995. Movements, habitat use, and survival of released Aplomado Falcons at Laguna Atascosa National Wildlife Refuge, TX. Master's Thesis. New Mexico State Univ. Las Cruces."				
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Clark, W. S., P. H. Bloom, and L. W. Oliphant. 1989. Aplomado Falcon steals prey from Little Blue Heron. J. Field Ornithol. 60:380-381."				
+Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Jimenez, J. E. 1993. Notes on the diet of the Aplomado Falcon (Falco femoralis) in northcentral Chile. J. Raptor Res. 27:161-163."	y	y		
+Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Strecker, J. K. 1930. Field notes on western Texas birds. Contrib. Baylor Univ. Mus. 22:1-14."	n			
+Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Bailey, F. M. 1928. The birds of New Mexico. New Mexico Dep. Game Fish, Santa Fe."	y	n		
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Perez, C. 1995. Movements, habitat use, and survival of released Aplomado Falcons at Laguna Atascosa National Wildlife Refuge, TX. Master's Thesis. New Mexico State Univ. Las Cruces."	y	n		
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Clark, W. S., P. H. Bloom, and L. W. Oliphant. 1989. Aplomado Falcon steals prey from Little Blue Heron. J. Field Ornithol. 60:380-381."	y	n		
 Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Montoya, A. B., P. J. Zwank, and M. Cardenas. 1997. Breeding biology of Aplomado Falcons in desert grasslands of Chihuahua, Mexico. J. Field Ornithol. 68:135-143."				
 Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Bendire, C. E. 1892. Life histories of North American birds. Proc. U.S. Natl. Mus. 1:551-558."				
 Aplomado Falcon	Falconidae	2000	Food Selection And Storage		"Friedmann, H. 1950. Birds of North and Middle America. Pt. 11. Bull. U.S. Natl. Mus. no. 50."				
