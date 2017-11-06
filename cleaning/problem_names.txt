@@ -325,7 +325,7 @@ Scientific_Name	Hister harrisi	unmatched	Margarinotus harrisii
 Scientific_Name	Hister immunis	unmatched	Margarinotus immunis					
 Scientific_Name	Hister 16-striatus	unmatched	Atholus sedecimstriatus					
 Scientific_Name	Hister 17-striatus	unmatched	Atholus sedecimstriatus					
-Scientific_Name	Ips fasciatus	unmatched		keep as is				
+Scientific_Name	Ips fasciatus	unmatched	Ips fasciatus	keep as is				
 Scientific_Name	Cytilus sericeus	unmatched		Genus = Cytilus & Family = Byrrhidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Byrrhus murinus	unmatched		Genus = Byrrhus & Family = Byrrhidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
 Scientific_Name	Monocrepidius auritus	unmatched		Genus = Conoderus & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no				
@@ -634,14 +634,14 @@ Scientific_Name	Eichhornia heterosperma	unmatched		Genus = Eichhornia & Family =
 Scientific_Name	Sagittaria planitiana	unmatched		Genus = Sagittaria & Family = Alismataceae & Order = Alismatales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
 Scientific_Name	Schoenoplectiella mucronata	unmatched	Schoenoplectus mucronatus					
 Scientific_Name	Musa x paradisiaca	wrong rank; too high	Musa X paradisiaca					
-Scientific_Name	Apodasmia similis	unmatched		keep as is				
+Scientific_Name	Apodasmia similis	unmatched	Apodasmia similis	keep as is				
 Scientific_Name	Melicope simplex	unmatched		Genus = Melicope & Family = Rutaceae & Order = Sapindales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
-Scientific_Name	Leucopogon fasciculatus	unmatched		keep as is				
-Scientific_Name	Zeacumantus lutulentus	unmatched		keep as is				
-Scientific_Name	Austrolittorina antipodum	unmatched		keep as is				
-Scientific_Name	Paphies australis	unmatched		keep as is				
-Scientific_Name	Austrovenus stutchburyi	unmatched		keep as is				
-Scientific_Name	Halicarcinus varius	unmatched		keep as is				
+Scientific_Name	Leucopogon fasciculatus	unmatched	Leucopogon fasciculatus	keep as is				
+Scientific_Name	Zeacumantus lutulentus	unmatched	Zeacumantus lutulentus	keep as is				
+Scientific_Name	Austrolittorina antipodum	unmatched	Austrolittorina antipodum	keep as is				
+Scientific_Name	Paphies australis	unmatched	Paphies australis	keep as is				
+Scientific_Name	Austrovenus stutchburyi	unmatched	Austrovenus stutchburyi	keep as is				
+Scientific_Name	Halicarcinus varius	unmatched	Halicarcinus varius	keep as is				
 Scientific_Name	Sporobolus schoenoides	unmatched	Crypsis schoenoides					
 Scientific_Name	Panicum schinzii	unmatched	Panicum laevifolium					
 Scientific_Name	Alitta succinea	unmatched	Neanthes succinea					
@@ -653,56 +653,56 @@ Scientific_Name	Potamogeton malaianus	unmatched	Potamogeton nodosus
 Scientific_Name	Vallisneria asiatica	unmatched	Vallisneria natans					
 Scientific_Name	Palaemon pugio	unmatched	Palaemonetes pugio					
 Scientific_Name	Potamogeton coloratus	unmatched		Genus = Potamogeton & Family = Potamogetonaceae & Order = Alismatales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
-Scientific_Name	Erythromma najas	unmatched		keep as is				
+Scientific_Name	Erythromma najas	unmatched	Erythromma najas	keep as is				
 Scientific_Name	Limecola balthica	unmatched	Macoma balthica					
-Scientific_Name	Gevuina avellana	unmatched		keep as is				
-Scientific_Name	Margyricarpus pinnatus	unmatched		keep as is				
+Scientific_Name	Gevuina avellana	unmatched	Gevuina avellana	keep as is				
+Scientific_Name	Margyricarpus pinnatus	unmatched	Margyricarpus pinnatus	keep as is				
 Scientific_Name	Ficus andicola	unmatched	Ficus americana					
 Scientific_Name	Palicourea angustifolia	unmatched		Genus = Palicourea & Family = Rubiaceae & Order = Gentianales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
 Scientific_Name	Lycianthes radiata	unmatched		Genus = Lycianthes & Family = Solanaceae & Order = Solanales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
 Scientific_Name	Sporobolus alterniflorus	unmatched	Spartina alterniflora					
 Scientific_Name	Sporobolus pumilus	unmatched	Spartina patens					
-Scientific_Name	Pyropia columbina	unmatched		keep as is				
-Scientific_Name	Mazzaella laminarioides	unmatched		keep as is				
-Scientific_Name	Rostkovia magellanica	unmatched		keep as is				
+Scientific_Name	Pyropia columbina	unmatched	Pyropia columbina	keep as is				
+Scientific_Name	Mazzaella laminarioides	unmatched	Mazzaella laminarioides	keep as is				
+Scientific_Name	Rostkovia magellanica	unmatched	Rostkovia magellanica	keep as is				
 Scientific_Name	Gunnera magellanica	unmatched		Genus = Gunnera & Family = Gunneraceae & Order = Gunnerales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
 Scientific_Name	Chaerophyllum daucoides	unmatched		Genus = Chaerophyllum & Family = Apiaceae & Order = Apiales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
 Scientific_Name	Helosciadium nodiflorum	unmatched	Apium nodiflorum					
 Scientific_Name	Physella anatina	unmatched		Genus = Physella & Family = Physidae & Order = Basommatophora & Class = Gastropoda & Phylum = Mollusca & Kingdom = Animalia				
 Scientific_Name	Sesamum triphyllum	unmatched		Genus = Sesamum & Family = Pedaliaceae & Order = Lamiales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae				
 Scientific_Name	Allorchestes malleola	unmatched		Genus = Allorchestes & Family = Hyalellidae & Order = Amphipoda & Class = Malacostraca & Phylum = Arthropoda & Kingdom = Animalia				
-Scientific_Name	Coloburiscus humeralis	unmatched		keep as is				
-Scientific_Name	Daucus glochidiatus	unmatched		keep as is				
-Scientific_Name	Dodonaea bursariifolia	unmatched		keep as is				
-Scientific_Name	Cassytha melantha	unmatched		keep as is				
-Scientific_Name	Leukoma staminea	unmatched		keep as is				
+Scientific_Name	Coloburiscus humeralis	unmatched	Coloburiscus humeralis	keep as is				
+Scientific_Name	Daucus glochidiatus	unmatched	Daucus glochidiatus	keep as is				
+Scientific_Name	Dodonaea bursariifolia	unmatched	Dodonaea bursariifolia	keep as is				
+Scientific_Name	Cassytha melantha	unmatched	Cassytha melantha	keep as is				
+Scientific_Name	Leukoma staminea	unmatched	Leukoma staminea	keep as is				
 Scientific_Name	Squalius cephalus	unmatched	Leuciscus cephalus					
-Scientific_Name	Sacciolepis africana	unmatched		keep as is				
-Scientific_Name	Persicaria limbata	unmatched		keep as is				
+Scientific_Name	Sacciolepis africana	unmatched	Sacciolepis africana	keep as is				
+Scientific_Name	Persicaria limbata	unmatched	Persicaria limbata	keep as is				
 Scientific_Name	Hibiscus asper	unmatched	Hibiscus cannabinus					
-Scientific_Name	Stereospermum kunthianum	unmatched		keep as is				
-Scientific_Name	Achatocarpus praecox	unmatched		keep as is				
-Scientific_Name	Jodina rhombifolia	unmatched		keep as is				
-Scientific_Name	Cynophalla retusa	unmatched		keep as is				
-Scientific_Name	Podocarpus parlatorei	unmatched		keep as is				
-Scientific_Name	Ilex argentina	unmatched		keep as is				
+Scientific_Name	Stereospermum kunthianum	unmatched	Stereospermum kunthianum	keep as is				
+Scientific_Name	Achatocarpus praecox	unmatched	Achatocarpus praecox	keep as is				
+Scientific_Name	Jodina rhombifolia	unmatched	Jodina rhombifolia	keep as is				
+Scientific_Name	Cynophalla retusa	unmatched	Cynophalla retusa	keep as is				
+Scientific_Name	Podocarpus parlatorei	unmatched	Podocarpus parlatorei	keep as is				
+Scientific_Name	Ilex argentina	unmatched	Ilex argentina	keep as is				
 Scientific_Name	Viburnum seemanii	unmatched	Viburnum lantana					
-Scientific_Name	Urochloa xantholeuca	unmatched		keep as is				
-Scientific_Name	Heliotropium ovalifolium	unmatched		keep as is				
-Scientific_Name	Aeschynomene fluitans	unmatched		keep as is				
-Scientific_Name	Aeschynomene nilotica	unmatched		keep as is				
+Scientific_Name	Urochloa xantholeuca	unmatched	Urochloa xantholeuca	keep as is				
+Scientific_Name	Heliotropium ovalifolium	unmatched	Heliotropium ovalifolium	keep as is				
+Scientific_Name	Aeschynomene fluitans	unmatched	Aeschynomene fluitans	keep as is				
+Scientific_Name	Aeschynomene nilotica	unmatched	Aeschynomene nilotica	keep as is				
 Scientific_Name	Alitta virens	unmatched	Neanthes virens					
 Scientific_Name	Peringia ulvae	unmatched	Hydrobia ulvae					
-Scientific_Name	Breutelia affinis	unmatched		keep as is				
-Scientific_Name	Anisotome aromatica	unmatched		keep as is				
+Scientific_Name	Breutelia affinis	unmatched	Breutelia affinis	keep as is				
+Scientific_Name	Anisotome aromatica	unmatched	Anisotome aromatica	keep as is				
 Scientific_Name	Nertera depressa	unmatched	Nertera granadensis					
-Scientific_Name	Gunnera dentata	unmatched		keep as is				
-Scientific_Name	Discaria toumatou	unmatched		keep as is				
-Scientific_Name	Corokia cotoneaster	unmatched		keep as is				
-Scientific_Name	Gaultheria depressa	unmatched		keep as is				
-Scientific_Name	Pratia angulata	unmatched		keep as is				
-Scientific_Name	Ranunculus fluitans	unmatched		keep as is				
-Scientific_Name	Xanthocnemis zealandica	unmatched		keep as is				
+Scientific_Name	Gunnera dentata	unmatched	Gunnera dentata	keep as is				
+Scientific_Name	Discaria toumatou	unmatched	Discaria toumatou	keep as is				
+Scientific_Name	Corokia cotoneaster	unmatched	Corokia cotoneaster	keep as is				
+Scientific_Name	Gaultheria depressa	unmatched	Gaultheria depressa	keep as is				
+Scientific_Name	Pratia angulata	unmatched	Pratia angulata	keep as is				
+Scientific_Name	Ranunculus fluitans	unmatched	Ranunculus fluitans	keep as is				
+Scientific_Name	Xanthocnemis zealandica	unmatched	Xanthocnemis zealandica	keep as is				
 Scientific_Name	Ips confusus 	unmatched		Genus = Ips & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
 Scientific_Name	Orthotomicus latidens	unmatched		Genus = Orthotomicus & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
 Scientific_Name	Ips emarginatus	unmatched		Genus = Ips & Family = Curculionidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
@@ -716,15 +716,15 @@ Scientific_Name	Athous neacanthus	unmatched		Genus = Athous & Family = Elaterida
 Scientific_Name	Laphria prosticata	unmatched	Laphria posticata					
 Scientific_Name	Eutonia alleni	unmatched	Limnophila alleni					
 Scientific_Name	Maccaffertium merirvulanum	unmatched	Maccaffertium meririvulanum					
-Scientific_Name	Euthyatira pudens	unmatched		keep as is				
-Scientific_Name	Habrosyne scripta	unmatched		keep as is				
-Scientific_Name	Acleris nigrolinea	unmatched		keep as is				
-Scientific_Name	Phaecasiophora confixana	unmatched		keep as is				
+Scientific_Name	Euthyatira pudens	unmatched	Euthyatira pudens	keep as is				
+Scientific_Name	Habrosyne scripta	unmatched	Habrosyne scripta	keep as is				
+Scientific_Name	Acleris nigrolinea	unmatched	Acleris nigrolinea	keep as is				
+Scientific_Name	Phaecasiophora confixana	unmatched	Phaecasiophora confixana	keep as is				
 Scientific_Name	Tipula bicolor	unmatched		Genus = Tipula & Family = Tipulidae & Order = Diptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
 Scientific_Name	Hemichroa militaris	unmatched		Genus = Hemichroa & Family = Tenthredinidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
-Scientific_Name	Semioscopis megamicrella	unmatched		keep as is				
+Scientific_Name	Semioscopis megamicrella	unmatched	Semioscopis megamicrella	keep as is				
 Scientific_Name	Helotropha leucostigma	unmatched		Genus = Helotropha & Family = Noctuidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia				
-Scientific_Name	Pseudexentera oregonana	unmatched		keep as is				
+Scientific_Name	Pseudexentera oregonana	unmatched	Pseudexentera oregonana	keep as is				
 Scientific_Name	Amelanchier florida	invalid	Amelanchier alnifolia					
 Scientific_Name	Andropogon gerardi	invalid	Andropogon gerardii					
 Scientific_Name	Benzoin aestivale	invalid	Lindera benzoin					
@@ -835,7 +835,7 @@ Genus	Thyreocoris	unmatched	Thyreocoris	Family = Thyreocoridae & Suborder = Hete
 Genus	Stictocephala	wrong rank; too high	Stictocephala	Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda				
 Genus	Monocrepidius	unmatched	Conoderus					
 Genus	Melanophthalma	unmatched	Melanophthalma	Family = Latridiidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda				
-Genus	Lepidosina	unmatched		keep as is				
+Genus	Lepidosina	unmatched	Lepidosina	keep as is				
 Genus	Mesochorus	wrong rank; too high	Mesochorus	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda				
 Genus	Campoplex	unmatched	Campoplex	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda				
 Genus	Lissonota	wrong rank; too low	Lissonota	Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda				
@@ -1038,7 +1038,7 @@ Order	Arachnida	wrong rank; too low	Araneae
 Order	Cyperaceae	wrong rank; too high						
 Class	Actinopterygii	wrong rank; too low						
 Class	Rodentia	wrong rank; too high	Mammalia	Order = Rodentia				
-Class	Reptilia/Amphibia	unmatched		keep as is				
+Class	Reptilia/Amphibia	unmatched	Reptilia/Amphibia	keep as is				
 Class	Crustacea	wrong rank; too low	Arthropoda	Common_Name = crustacean				
 Class	Pseudoscorpionida	wrong rank; too low	Pseudoscorpiones					
 Class	Arthropoda	wrong rank; too low		Phylum = Arthropoda				
