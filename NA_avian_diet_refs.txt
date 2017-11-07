@@ -4184,14 +4184,14 @@ Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Strecker, J. K. 1930. Fi
 Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Bailey, F. M. 1928. The birds of New Mexico. New Mexico Dep. Game Fish, Santa Fe."	y	n		
 Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Perez, C. 1995. Movements, habitat use, and survival of released Aplomado Falcons at Laguna Atascosa National Wildlife Refuge, TX. Master's Thesis. New Mexico State Univ. Las Cruces."	y	n		
 Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Clark, W. S., P. H. Bloom, and L. W. Oliphant. 1989. Aplomado Falcon steals prey from Little Blue Heron. J. Field Ornithol. 60:380-381."	y	n		
-Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Montoya, A. B., P. J. Zwank, and M. Cardenas. 1997. Breeding biology of Aplomado Falcons in desert grasslands of Chihuahua, Mexico. J. Field Ornithol. 68:135-143."				
-Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Bendire, C. E. 1892. Life histories of North American birds. Proc. U.S. Natl. Mus. 1:551-558."				
-Aplomado Falcon	Falconidae	2000	Food Selection And Storage		"Friedmann, H. 1950. Birds of North and Middle America. Pt. 11. Bull. U.S. Natl. Mus. no. 50."				
-Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Ligon, J. S. 1961. New Mexico birds and where to find them. Univ. of New Mexico Press, Albuquerque."				
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Cherrie, G. K. 1916. A contribution to the ornithology of the Orinoco Region. Mus. Brooklyn Inst. Arts Sci., Sci. Bull. 2:133-374."				
-Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Hector, D. P. 1986a. Cooperative hunting and its relationship to foraging success and prey size in an avian predator. Ethology 73:247-257."				
-Aplomado Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Bendire. 1887. Proc. U.S. Nat. Mus. 11 551-558				
-Aplomado Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Brooks. 1933. Auk. 17 31-34				
+Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Montoya, A. B., P. J. Zwank, and M. Cardenas. 1997. Breeding biology of Aplomado Falcons in desert grasslands of Chihuahua, Mexico. J. Field Ornithol. 68:135-143."	y	y		
+Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Bendire, C. E. 1892. Life histories of North American birds. Proc. U.S. Natl. Mus. 1:551-558."	n			
+Aplomado Falcon	Falconidae	2000	Food Selection And Storage		"Friedmann, H. 1950. Birds of North and Middle America. Pt. 11. Bull. U.S. Natl. Mus. no. 50."	y	n		
+Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Ligon, J. S. 1961. New Mexico birds and where to find them. Univ. of New Mexico Press, Albuquerque."	y	n		
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Cherrie, G. K. 1916. A contribution to the ornithology of the Orinoco Region. Mus. Brooklyn Inst. Arts Sci., Sci. Bull. 2:133-374."	n			
+Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Hector, D. P. 1986a. Cooperative hunting and its relationship to foraging success and prey size in an avian predator. Ethology 73:247-257."	y	n		
+Aplomado Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Bendire. 1887. Proc. U.S. Nat. Mus. 11 551-558	n			
+Aplomado Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Brooks. 1933. Auk. 17 31-34	n			
 Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Roseneau. 1972. Summer Dist. , Numbers and Food Habits of Gyrfalcon on Sweard Pen., Alaska Univ of Alaska, Fairbanks, M.S. thesis."				
 Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Kenyon. 1961. Auk 78 305-326.				
 Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			White and Springer. 1965. Auk 82 104-105				
