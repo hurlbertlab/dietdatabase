@@ -202,7 +202,7 @@ of these fields, and how data should be entered. Further instructions about how 
   <tr>
     <td>Prey_Part</td>
     <td>The part of the prey species represented in the diet if only a part was (likely) consumed. Especially for plant-based
-    diet items, e.g., seed, fruit, etc.</td>
+    diet items, e.g., 'bark', 'bud', 'dung', 'egg', 'feces', 'flower', 'fruit','gall', 'oogonium', 'pollen', 'root', 'sap', 'seed','spore', 'statoblasts', 'vegetation'.</td>
   </tr>
   <tr>
     <td>Prey_Common_Name</td>
