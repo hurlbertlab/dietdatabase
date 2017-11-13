@@ -123,7 +123,7 @@ checksum = function(diet, accuracy = 0.05) {
     filter(Diet_Type != "Occurrence") %>%
     
     group_by(Source, Common_Name, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
-             Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type, Study_Type) %>%
+             Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type, Study_Type, Sites) %>%
     
     summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
     
