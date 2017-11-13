@@ -552,6 +552,10 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
 # Default is all = FALSE which will be much faster, and will only examine
 # names where Prey_Name_ITIS_ID is 'unverified' or blank or NA.
 
+# BUG: need to specify argument 'all = TRUE' when running clean_all_names,
+#      which gets passed to clean_names()
+#      Not sure why this isn't working properly when 'all = FALSE' at the moment.
+
 clean_all_names = function(filename, write = TRUE, ...) {
   
   diet = read.table(filename, header= T, sep = '\t', quote = '\"', stringsAsFactors = FALSE)
