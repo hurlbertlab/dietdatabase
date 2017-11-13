@@ -1,3 +1,0 @@
-"level"	"name"	"condition"
-"Scientific_Name"	"Caprimulgus longirvostris"	"unmatched"
-"Family"	"Castniidae"	"unmatched"
