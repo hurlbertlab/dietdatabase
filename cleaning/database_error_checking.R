@@ -123,7 +123,7 @@ checksum = function(diet, accuracy = 0.05) {
     filter(Diet_Type != "Occurrence") %>%
     
     group_by(Source, Common_Name, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
-             Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type, Study_Type) %>%
+             Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Diet_Type, Study_Type, Sites) %>%
     
     summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
     
@@ -551,6 +551,10 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
 # want to clean all names, even those that already have ITIS IDs.
 # Default is all = FALSE which will be much faster, and will only examine
 # names where Prey_Name_ITIS_ID is 'unverified' or blank or NA.
+
+# BUG: need to specify argument 'all = TRUE' when running clean_all_names,
+#      which gets passed to clean_names()
+#      Not sure why this isn't working properly when 'all = FALSE' at the moment.
 
 clean_all_names = function(filename, write = TRUE, ...) {
   
