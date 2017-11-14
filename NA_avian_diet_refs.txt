@@ -4190,19 +4190,19 @@ Aplomado Falcon	Falconidae	2000	Food Selection And Storage		"Friedmann, H. 1950.
 Aplomado Falcon	Falconidae	2000	Diet	Major Foods Items	"Ligon, J. S. 1961. New Mexico birds and where to find them. Univ. of New Mexico Press, Albuquerque."	y	n		
 Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Cherrie, G. K. 1916. A contribution to the ornithology of the Orinoco Region. Mus. Brooklyn Inst. Arts Sci., Sci. Bull. 2:133-374."	n			
 Aplomado Falcon	Falconidae	2000	Feeding	Food Capture And Consumption	"Hector, D. P. 1986a. Cooperative hunting and its relationship to foraging success and prey size in an avian predator. Ethology 73:247-257."	y	n		
-Aplomado Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Bendire. 1887. Proc. U.S. Nat. Mus. 11 551-558	n			
-Aplomado Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Brooks. 1933. Auk. 17 31-34	n			
-Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Roseneau. 1972. Summer Dist. Numbers and Food Habits of Gyrfalcon on Sweard Pen., Alaska Univ of Alaska, Fairbanks, M.S. thesis."	n			
-Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Kenyon. 1961. Auk 78 305-326.	n			
-Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			White and Springer. 1965. Auk 82 104-105	n			
-Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Muir and Bird. 1984. Wilson Bull. 96 464-467.				
-Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Burnham and Mattox. 1984. Meddel. Om Groland, Bioscience 14 1-25."				
-Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Suetens and Goenendal. 1976. Gerfaut 66 44-62				
-Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Gudmundsson. 1970. Proc. XV Intl. Ornith. Cong. 649.				
-Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Wynne-Edwards. 1981. Ibis 123 250-251				
+Aplomado Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Bendire. 1887. Proc. U.S. Nat. Mus. 11 551-558	y	n		
+Aplomado Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Brooks. 1933. Auk. 17 31-34	y	n	"All the handbooks of palmer prey diet were too broad and general to be of any use. For instance, one entry listed 80% of prey diet as insects, but did not specify how that 80 % was divvied up between the different orders of insects"	
+Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Roseneau. 1972. Summer Dist. Numbers and Food Habits of Gyrfalcon on Sweard Pen., Alaska Univ of Alaska, Fairbanks, M.S. thesis."	y	n		
+Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Kenyon. 1961. Auk 78 305-326.	y	n		
+Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			White and Springer. 1965. Auk 82 104-105	y	n		
+Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Muir and Bird. 1984. Wilson Bull. 96 464-467.	y	n		
+Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Burnham and Mattox. 1984. Meddel. Om Groland, Bioscience 14 1-25."	y	n		
+Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Suetens and Goenendal. 1976. Gerfaut 66 44-62	y	n		
+Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Gudmundsson. 1970. Proc. XV Intl. Ornith. Cong. 649.	y	n		
+Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Wynne-Edwards. 1981. Ibis 123 250-251	y	n		
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Dekker, D. 1988. Peregrine Falcon and Merlin predation on small shorebirds and passerines in Alberta. Can. J. Zool. 66:925-928."	y	n		
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Cresswell, W. 1994. Song as a pursuit-deterrent signal, and its occurrence relative to other anti-predation behaviours of skylark (Alauda arvensis) on attack by Merlins (Falco columbarius). Behavioural Ecology and Sociobiology 34:217-223."	y	n		
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Warkentin, I. G. and L. W. Oliphant. 1990. Habitat use and foraging behaviour of urban Merlins (Falco columbarius) in winter. J. Zool., Lond. 221:539-563."				
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Warkentin, I. G. and L. W. Oliphant. 1990. Habitat use and foraging behaviour of urban Merlins (Falco columbarius) in winter. J. Zool., Lond. 221:539-563."	y	y		
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Sodhi, N. S., I. G. Warkentin, and L. W. Oliphant. 1991a. Hunting techniques and success rates of urban Merlins (Falco columbarius). J. Raptor Res. 25:127-131."				
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Rudebeck, R. 1951. The choice of prey and modes of hunting of predatory birds with special reference to their selective effect. Oikos 3:200-231."				
 Merlin	Falconidae	1-Feb-05	Food Selection And Storage		"Petty, S. J., I. J. Patterson, D. I. K. Anderson, B. Little, and M. Davison. 1995. Numbers, breeding performance, and diet of the sparrowhawk Accipiter nisus and merlin Falco columbarius in relation to cone crops and seed-eating finches. Forest Ecology and Management 79:133-146."				
