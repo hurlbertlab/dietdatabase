@@ -417,7 +417,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
     }
     
     # This error code won't get propagated through clean_all_names at the moment
-    return(list(diet = diet2, badnames = problemNames, error = 1))
+    return(list(diet = diet, badnames = problemNames, error = 1))
     
   } else {
     taxonLevel = paste('Prey_', preyTaxonLevel, sep = '')
@@ -438,14 +438,14 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
       # Identify all records with the specified name where all lower taxonomic
       # levels are blank or NA
       if (level < 7) {
-        lowerLevelCheck = rowSums(is.na(diet2[, (level+1):8 + 18]) | diet2[, (level+1):8 + 18] == "") == (8 - level)
+        lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level)
       } else if (level == 7) {
-        lowerLevelCheck = is.na(diet2[, (level+1):8 + 18]) | diet2[, (level+1):8 + 18] == ""
+        lowerLevelCheck = is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == ""
       } else if (level == 8) {
         lowerLevelCheck = TRUE
       }
       
-      recs = which(!is.na(diet2[, taxonLevel]) & diet2[,taxonLevel] == n & lowerLevelCheck)
+      recs = which(!is.na(diet[, taxonLevel]) & diet[,taxonLevel] == n & lowerLevelCheck)
       
       # class is logical if taxonomic name does not match any existing names
       if (is.null(nrow(hierarchy))) {
@@ -454,7 +454,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                         name = n,
                                         condition = 'unmatched'))
         
-        diet2$Prey_Name_ITIS_ID[recs] = 'unverified'
+        diet$Prey_Name_ITIS_ID[recs] = 'unverified'
         
       } else if (nrow(hierarchy) == 1) {
         problemNames = rbind(problemNames, 
@@ -462,7 +462,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                         name = n,
                                         condition = 'unmatched'))
         
-        diet2$Prey_Name_ITIS_ID[recs] = 'unverified'
+        diet$Prey_Name_ITIS_ID[recs] = 'unverified'
         
       } else {
         
@@ -483,7 +483,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                           name = n,
                                           condition = 'wrong rank; too low'))
           
-          diet2$Prey_Name_ITIS_ID[recs] = 'unverified'
+          diet$Prey_Name_ITIS_ID[recs] = 'unverified'
           
         } else if (focalrank %in% hierarchy$rank & 
                    hierarchy$name[hierarchy$rank == focalrank] != n) {
@@ -492,14 +492,14 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                           name = n,
                                           condition = 'wrong rank; too high'))
           
-          diet2$Prey_Name_ITIS_ID[recs] = 'unverified'
+          diet$Prey_Name_ITIS_ID[recs] = 'unverified'
           
           # Otherwise, grab 
         } else {
           
           itis_id = hierarchy$id[hierarchy$rank == focalrank & hierarchy$name == n]
           
-          diet2$Prey_Name_ITIS_ID[recs] = itis_id
+          diet$Prey_Name_ITIS_ID[recs] = itis_id
           
           for (l in higherLevels) {
             if (l == 2 & hierarchy$name[1] == 'Plantae') {
@@ -513,7 +513,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
               # For names at the specified level that are not NA, assign to the
               # specified HIGHER taxonomic level the name from ITIS ('hierarchy')
               
-              diet2[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
+              diet[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
               
             } # end if rank
             
@@ -526,7 +526,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
       namecount = namecount + 1
       
       if (write) {
-        write.table(diet2, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
+        write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
         write.table(problemNames, 'unmatched_ITIS_names.txt', sep = '\t', row.names = F)
       }
       
@@ -534,7 +534,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
     
   } # end else
   
-  return(list(diet = diet2, badnames = problemNames))
+  return(list(diet = diet, badnames = problemNames))
   
 }
 
