@@ -4200,6 +4200,7 @@ Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Burn
 Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Suetens and Goenendal. 1976. Gerfaut 66 44-62	y	n		
 Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Gudmundsson. 1970. Proc. XV Intl. Ornith. Cong. 649.	y	n		
 Gyrfalcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Wynne-Edwards. 1981. Ibis 123 250-251	y	n		
+Gyrfalcon	Falconidae	2006	Diet	Food Capture And Consumption	"Nyström, J., Dalén, L., Hellström, P., Ekenstedt, J., Angleby H., & Angerbjörn, A. 2006. Effect of Local Prey Availability on Gyrfalcon Diet: DNA Analysis on Ptarmigan Remains at Nest Sites. Journal of Zoology 269:57-67"	y	y		
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Dekker, D. 1988. Peregrine Falcon and Merlin predation on small shorebirds and passerines in Alberta. Can. J. Zool. 66:925-928."	y	n		
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Cresswell, W. 1994. Song as a pursuit-deterrent signal, and its occurrence relative to other anti-predation behaviours of skylark (Alauda arvensis) on attack by Merlins (Falco columbarius). Behavioural Ecology and Sociobiology 34:217-223."	y	n		
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Warkentin, I. G. and L. W. Oliphant. 1990. Habitat use and foraging behaviour of urban Merlins (Falco columbarius) in winter. J. Zool., Lond. 221:539-563."	y	y		
@@ -4321,6 +4322,7 @@ Peregrine Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds	
 Peregrine Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Ladd and Schempf. 1982. Proc. Symp. And Workshop Raptor Mgmt. and biol. in W. Alaska and W. Canada USDI Fish and Wildl Serv., Alaska Regional Office (Anchorage)"				
 Peregrine Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Uttendorfer. 1952. Neue Ergebnisse uber die Ernahrung der Greifvogel und Eulen Berlin.				
 Peregrine Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Merriam, C. H. 1877. Trans. Conn. Acad. Arts and Sci. 41-150."				
+Peregrine Falcon	Falconidae	1991	Diet	Food Capture And Consumption	"Bradley, Mark and Oliphant, Lynn W. 1991. The Diet of Peregrine Falcons in Rankin Inlet, Northwest Territories: An Unusually High Proportion of Mammalian Prey. Condor 93:193-197."				
 Prairie Falcon	Falconidae	1998	Diet	Quantitative Analysis	"Maclaren, P. A., S. H. Anderson, and D. E. Runde. 1988. Food habits and nest characteristics of breeding raptors in southwestern Wyoming. Great Basin Nat. 48:548-553."	y	y		
 Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"White, C. M. 1962. Prairie Falcon displays Accipitrine and Circinine hunting methods. Condor 64:439-440."				
 Prairie Falcon	Falconidae	1998	Nutrition And Energetics		"Collopy, M. W. 1978. The bioenergetic requirements for growth and maintenance of raptors common to the Snake River Birds of Prey Natural Area. Final Contract Report ("	y	y		
