@@ -4208,20 +4208,20 @@ Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Sodhi, N. S., I
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Rudebeck, R. 1951. The choice of prey and modes of hunting of predatory birds with special reference to their selective effect. Oikos 3:200-231."	y	n		
 Merlin	Falconidae	1-Feb-05	Food Selection And Storage		"Petty, S. J., I. J. Patterson, D. I. K. Anderson, B. Little, and M. Davison. 1995. Numbers, breeding performance, and diet of the sparrowhawk Accipiter nisus and merlin Falco columbarius in relation to cone crops and seed-eating finches. Forest Ecology and Management 79:133-146."	y	n	Good prey diet but it is from Britain. Not a priority unless Merlin data are sparse. 	
 Merlin	Falconidae	1-Feb-05	Food Selection And Storage		"Oliphant, L. W. and W. J. P. Thompson. 1976. Food caching behavior in Richardson's Merlin. Can. Field-Nat. 90:364."	n			
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Sodhi, N. S. 1991a. Foraging ecology of urban-breeding Merlins (Falco columbarius). Ph.D. diss. Univ. Saskatchewan, Saskatoon."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Kermott, L. H. 1981. Merlins as nest predators. Raptor Res. 15:94-95."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Cresswell, W. 1996. Surprise as a winter hunting strategy in Sparrowhawks Accipiter nisus, Peregrines Falco peregrinus and Merlins F. columbarius. Ibis 138:684-692."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Fox, G. A. 1964. Notes on the western race of the Pigeon Hawk. Blue Jay 22:140-147."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Smith, A. R. 1978. The Merlins of Edmonton. Alberta Nat. 8:188-191."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"James, P. C. and A. R. Smith. 1987. Food habits of urban-nesting Merlins Falco columbarius, in Edmonton and Fort Saskatchewan, Alberta. Can. Field-Nat. 101:592-594."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Allen, R. P. and R. T. Peterson. 1936. The hawk migrations at Cape May Point, New Jersey. Auk 53:393-404."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Buchanan, J. B., C. T. Schick, L. A. Brennan, and S. G. Herman. 1988. Merlin predation on wintering Dunlins: hunting success and Dunlin escape tactics. Wilson Bull. 100:108-118."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Hilty, S. L. 2003. Birds of Venezuela. C. Helm, London."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Oliphant, L. W. 1974. Merlins-the Saskatoon falcons. Blue Jay 32:140-147."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Hodson, K. A. 1976. Some aspects of the nesting ecology of Richardson's Merlin (Falco columbarius richardsonii) on the Canadian prairies. Master's Thesis. Univ. British Columbia, Vancouver."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Knapton, R. W. and C. A. Sanderson. 1985. Food and feeding behaviour of Subarctic-nesting Merlins, Falco columbarius, at Churchill, Manitoba. Can. Field-Nat. 99:375-377."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Bengston, S. A. 1975. Hunting methods and prey of an Icelandic population of Merlins (Falco columbarius). Fauna och Flora 70:8-12."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Cade, T. 1982. The falcons of the World. Cornell Univ. Press, Ithaca, NY."				
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Sodhi, N. S. 1991a. Foraging ecology of urban-breeding Merlins (Falco columbarius). Ph.D. diss. Univ. Saskatchewan, Saskatoon."	y	y		
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Kermott, L. H. 1981. Merlins as nest predators. Raptor Res. 15:94-95."	y	n		
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Cresswell, W. 1996. Surprise as a winter hunting strategy in Sparrowhawks Accipiter nisus, Peregrines Falco peregrinus and Merlins F. columbarius. Ibis 138:684-692."	y	n		
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Fox, G. A. 1964. Notes on the western race of the Pigeon Hawk. Blue Jay 22:140-147."	y		Good prey diet but it is from Britain. Not a priority unless Merlin data are sparse. 	
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Smith, A. R. 1978. The Merlins of Edmonton. Alberta Nat. 8:188-191."	y	y		
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"James, P. C. and A. R. Smith. 1987. Food habits of urban-nesting Merlins Falco columbarius, in Edmonton and Fort Saskatchewan, Alberta. Can. Field-Nat. 101:592-594."	n			
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Allen, R. P. and R. T. Peterson. 1936. The hawk migrations at Cape May Point, New Jersey. Auk 53:393-404."	y	n		
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Buchanan, J. B., C. T. Schick, L. A. Brennan, and S. G. Herman. 1988. Merlin predation on wintering Dunlins: hunting success and Dunlin escape tactics. Wilson Bull. 100:108-118."	y	n		
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Hilty, S. L. 2003. Birds of Venezuela. C. Helm, London."	n			
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Oliphant, L. W. 1974. Merlins-the Saskatoon falcons. Blue Jay 32:140-147."	y	n		
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Hodson, K. A. 1976. Some aspects of the nesting ecology of Richardson's Merlin (Falco columbarius richardsonii) on the Canadian prairies. Master's Thesis. Univ. British Columbia, Vancouver."	n			
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Knapton, R. W. and C. A. Sanderson. 1985. Food and feeding behaviour of Subarctic-nesting Merlins, Falco columbarius, at Churchill, Manitoba. Can. Field-Nat. 99:375-377."	n			
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Bengston, S. A. 1975. Hunting methods and prey of an Icelandic population of Merlins (Falco columbarius). Fauna och Flora 70:8-12."	n			
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Cade, T. 1982. The falcons of the World. Cornell Univ. Press, Ithaca, NY."	n			
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Page, G. W. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:73-83."				
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Dekker, D. 1998. Over-ocean flocking by Dunlins, Calidris alpine, and the effect of raptor predation at Boundary Bay, British Columbia. Canadian Field-Naturalist 112:694-697."				
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Craighead, J. and F. Craighead. 1940. Nesting Pigeon Hawks. Wilson Bull. 52:241-248."				
