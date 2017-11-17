@@ -127,7 +127,9 @@ of these fields, and how data should be entered. Further instructions about how 
         +desert  
         +wetland  
         +agriculture  
-        +urban.   
+        +urban
+	+tundra  
+	+mudflats  
         E.g. "deciduous forest; woodland"
         </td>
   </tr>
