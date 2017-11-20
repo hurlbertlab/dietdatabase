@@ -4222,8 +4222,8 @@ Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Hodson, K. A. 1976. Some aspec
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Knapton, R. W. and C. A. Sanderson. 1985. Food and feeding behaviour of Subarctic-nesting Merlins, Falco columbarius, at Churchill, Manitoba. Can. Field-Nat. 99:375-377."	n			
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Bengston, S. A. 1975. Hunting methods and prey of an Icelandic population of Merlins (Falco columbarius). Fauna och Flora 70:8-12."	n			
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Cade, T. 1982. The falcons of the World. Cornell Univ. Press, Ithaca, NY."	n			
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Page, G. W. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:73-83."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Dekker, D. 1998. Over-ocean flocking by Dunlins, Calidris alpine, and the effect of raptor predation at Boundary Bay, British Columbia. Canadian Field-Naturalist 112:694-697."				
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Page, G. W. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:73-83."	y	y		
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Dekker, D. 1998. Over-ocean flocking by Dunlins, Calidris alpine, and the effect of raptor predation at Boundary Bay, British Columbia. Canadian Field-Naturalist 112:694-697."	y	n		
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Craighead, J. and F. Craighead. 1940. Nesting Pigeon Hawks. Wilson Bull. 52:241-248."				
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Haug, E. 1985. Merlin feeding on road-kills. Raptor Res. 19:103."				
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Rodriguez-Duran, A. and A. R. Lewis. 1985. Seasonal predation by Merlins on Sooty Mustached Bats in western Puerto Rico. Biotropica 17:71-74."				
