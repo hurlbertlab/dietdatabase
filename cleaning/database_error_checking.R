@@ -177,7 +177,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
       data.frame() %>%
       filter(!tolower(.) %in% c('agriculture', 'coniferous forest', 'deciduous forest', 'desert',
                                 'forest', 'grassland', 'mangrove forest', 'multiple', 'shrubland', 
-                                'urban', 'wetland', 'woodland'))
+                                'urban', 'wetland', 'woodland', 'tundra', 'mudflat'))
     if (nrow(habitat) == 0) {
       habitat = "OK"
     } else {
@@ -212,7 +212,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     data.frame() %>%
     filter(!tolower(.) %in% c('bark', 'bud', 'dung', 'egg', 'feces', 'flower', 'fruit',
                               'gall', 'oogonium', 'pollen', 'root', 'sap', 'seed',
-                              'spore', 'statoblasts', 'vegetation'))
+                              'spore', 'statoblasts', 'vegetation', 'bulb', 'tuber'))
     if (nrow(part) == 0) {
       part = "OK"
     } else {
