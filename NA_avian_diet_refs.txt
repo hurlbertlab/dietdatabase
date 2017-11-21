@@ -4224,39 +4224,39 @@ Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Bengston, S. A.
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Cade, T. 1982. The falcons of the World. Cornell Univ. Press, Ithaca, NY."	n			
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Page, G. W. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:73-83."	y	y		
 Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Dekker, D. 1998. Over-ocean flocking by Dunlins, Calidris alpine, and the effect of raptor predation at Boundary Bay, British Columbia. Canadian Field-Naturalist 112:694-697."	y	n		
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Craighead, J. and F. Craighead. 1940. Nesting Pigeon Hawks. Wilson Bull. 52:241-248."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Haug, E. 1985. Merlin feeding on road-kills. Raptor Res. 19:103."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Rodriguez-Duran, A. and A. R. Lewis. 1985. Seasonal predation by Merlins on Sooty Mustached Bats in western Puerto Rico. Biotropica 17:71-74."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Sodhi, N. S. 1993a. Proximate determinants of foraging effort in breeding male Merlins. Wilson Bull. 105:68-76."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Servheen, C. 1985. Notes on wintering Merlins in western Montana. Raptor Res. 19:97-99."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Sodhi, N. S. 1992. Central place foraging and prey preparation by a specialist predator, the Merlin. J. Field Ornithol. 63:71-76."				
-Merlin	Falconidae	1-Feb-05	Food Selection And Storage		"Baker, R. R. and C. J. Bibby. 1987. Merlin Falco columbarius predation and theories of the evolution of bird coloration. Ibis 129:259-263."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Wiklund, C. G. 2001. Food as a mechanism of density-dependent regulation of breeding numbers in the Merlin, Falco columbarius. Ecology 82:860-867."				
-Merlin	Falconidae	1-Feb-05	Food Selection And Storage		"Pitcher, E., P. Widener, and S. J. Martin. 1979. Winter food caching by the Merlin (Falco columbarius richardsonii). Raptor Res. 13:39-40."				
-Merlin	Falconidae	1-Feb-05	Food Selection And Storage		"Warkentin, I. G. and L. W. Oliphant. 1985. Observations of winter food caching by the Richardson's Merlin. Raptor Res. 19:100-101."				
-Merlin	Falconidae	1-Feb-05	Nutrition And Energetics		"Warkentin, I. G. and N. H. West. 1990. Ecological energetics of wintering Merlins (Falco columbarius). Physiol. Zool. 63:308-333."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Bibby, C. J. 1987. Food habits of breeding Merlins Falco columbarius in Wales. Bird Study 34:64-70."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Jenkins, M. A. 1972. Opportunistic hunting tactics of the Merlin. Bird Banding 8:40-41."				
-Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Palmer, R. S. 1988. Handbook of North American birds. Vol. 5. Yale Univ. Press, New Haven, CT."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Oliphant, L. W. and S. McTaggart. 1977. Prey utilized by urban Merlins. Can. Field-Nat. 91:190-192."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Sodhi, N. S. and L. W. Oliphant. 1993. Prey use and selection by urban-breeding Merlins. Auk 110(4):727-735."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Newton, I., E. R. Meek, and B. Little. 1984. Breeding season foods of Merlins Falco columbarius in Northumbria. Bird Study 31:49-56."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Becker, D. M. and C. H. Sieg. 1985. Breeding chronology and reproductive success of Richardson's Merlins in southeastern Montana. Raptor Res. 19:52-55."				
-Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Hodson, K. A. 1978. Prey utilized by Merlin nesting in shortgrass prairies on southern Alberta. Can. Field-Nat. 92:76-77."				
-Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Lowery. 1938. Auk 55 280				
-Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Murdoch. 1877. Bull. Nuttall. Ornith. Club 2 79.				
-Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Taverner. 1926. Birds of W. Canada Ottowa				
-Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Warren. 1890. Report of Birds of Pa, 2d ed. Harrisburg, Pa."				
-Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Craig and Renn. 1977. Condor. 79 392				
-Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Evans. 1982. USDI Fish ans Wildl. Serv., Spec. Sci. Rept.- Wildlife no. 238"				
-Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Pearson. 1933. Bird-Lore 35 73-74				
-Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			A. and H. Ferguson. 1922. Auk 39 488-496				
-Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Gerow. 1943. Murrelet 24 11.				
-Peregrine Falcon	Falconidae	2002	Feeding	Microhabitat For Foraging	"Dekker, D. 1995. Prey capture by Peregrine Falcons wintering on southern Vancouver Island, British Columbia. J. Raptor Res. 29:26-29."				
-Peregrine Falcon	Falconidae	2002	Feeding	Main Foods Taken	"Sherrod, S. K. 1978. Diets of North American Falconiformes. Raptor Res. 12:49-121."				
-Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Cochran, W. W. 1975. Following a migrating Peregrine from Wisconsin to Mexico. Hawk Chalk 14(2):28-37."				
-Peregrine Falcon	Falconidae	2002	Feeding	Microhabitat For Foraging	"Dekker, D. 1999. Bolt from the blue. Hancock House Publ., Ltd. Surrey, BC."				
-Peregrine Falcon	Falconidae	2002	Feeding	Microhabitat For Foraging	"Rosenfield, R. N., J. W. Schneider, J. M. Papp, and W. S. Seegar. 1995. Prey of Peregrine Falcons breeding in west Greenland. Condor 97:763-770."				
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Craighead, J. and F. Craighead. 1940. Nesting Pigeon Hawks. Wilson Bull. 52:241-248."	y	n		
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Haug, E. 1985. Merlin feeding on road-kills. Raptor Res. 19:103."	n			
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Rodriguez-Duran, A. and A. R. Lewis. 1985. Seasonal predation by Merlins on Sooty Mustached Bats in western Puerto Rico. Biotropica 17:71-74."	n			
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Sodhi, N. S. 1993a. Proximate determinants of foraging effort in breeding male Merlins. Wilson Bull. 105:68-76."	y	n		
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Servheen, C. 1985. Notes on wintering Merlins in western Montana. Raptor Res. 19:97-99."	y	n		
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Sodhi, N. S. 1992. Central place foraging and prey preparation by a specialist predator, the Merlin. J. Field Ornithol. 63:71-76."	y	n		
+Merlin	Falconidae	1-Feb-05	Food Selection And Storage		"Baker, R. R. and C. J. Bibby. 1987. Merlin Falco columbarius predation and theories of the evolution of bird coloration. Ibis 129:259-263."	y	n		
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Wiklund, C. G. 2001. Food as a mechanism of density-dependent regulation of breeding numbers in the Merlin, Falco columbarius. Ecology 82:860-867."	y	n		
+Merlin	Falconidae	1-Feb-05	Food Selection And Storage		"Pitcher, E., P. Widener, and S. J. Martin. 1979. Winter food caching by the Merlin (Falco columbarius richardsonii). Raptor Res. 13:39-40."	y	n		
+Merlin	Falconidae	1-Feb-05	Food Selection And Storage		"Warkentin, I. G. and L. W. Oliphant. 1985. Observations of winter food caching by the Richardson's Merlin. Raptor Res. 19:100-101."	n			
+Merlin	Falconidae	1-Feb-05	Nutrition And Energetics		"Warkentin, I. G. and N. H. West. 1990. Ecological energetics of wintering Merlins (Falco columbarius). Physiol. Zool. 63:308-333."	y	n		
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Bibby, C. J. 1987. Food habits of breeding Merlins Falco columbarius in Wales. Bird Study 34:64-70."	n		Not an American study	
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Jenkins, M. A. 1972. Opportunistic hunting tactics of the Merlin. Bird Banding 8:40-41."	y	n		
+Merlin	Falconidae	1-Feb-05	Feeding	Food Capture And Consumption	"Palmer, R. S. 1988. Handbook of North American birds. Vol. 5. Yale Univ. Press, New Haven, CT."	y	n		
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Oliphant, L. W. and S. McTaggart. 1977. Prey utilized by urban Merlins. Can. Field-Nat. 91:190-192."	n			
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Sodhi, N. S. and L. W. Oliphant. 1993. Prey use and selection by urban-breeding Merlins. Auk 110(4):727-735."	y	n		
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Newton, I., E. R. Meek, and B. Little. 1984. Breeding season foods of Merlins Falco columbarius in Northumbria. Bird Study 31:49-56."	y	y	Good prey diet but it is from Britain. Not a priority unless Merlin data are sparse. 	
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Becker, D. M. and C. H. Sieg. 1985. Breeding chronology and reproductive success of Richardson's Merlins in southeastern Montana. Raptor Res. 19:52-55."	y	n		
+Merlin	Falconidae	1-Feb-05	Diet	Major Food Items	"Hodson, K. A. 1978. Prey utilized by Merlin nesting in shortgrass prairies on southern Alberta. Can. Field-Nat. 92:76-77."	n			
+Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Lowery. 1938. Auk 55 280	n			
+Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Murdoch. 1877. Bull. Nuttall. Ornith. Club 2 79.	n			
+Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Taverner. 1926. Birds of W. Canada Ottowa	n			
+Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Warren. 1890. Report of Birds of Pa, 2d ed. Harrisburg, Pa."	n			
+Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Craig and Renn. 1977. Condor. 79 392	n			
+Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			"Evans. 1982. USDI Fish ans Wildl. Serv., Spec. Sci. Rept.- Wildlife no. 238"	n			
+Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Pearson. 1933. Bird-Lore 35 73-74	n			
+Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			A. and H. Ferguson. 1922. Auk 39 488-496	n			
+Merlin	Falconidae	from Palmer. 1988. Handbook of North American Birds			Gerow. 1943. Murrelet 24 11.	n			
+Peregrine Falcon	Falconidae	2002	Feeding	Microhabitat For Foraging	"Dekker, D. 1995. Prey capture by Peregrine Falcons wintering on southern Vancouver Island, British Columbia. J. Raptor Res. 29:26-29."	y	n		
+Peregrine Falcon	Falconidae	2002	Feeding	Main Foods Taken	"Sherrod, S. K. 1978. Diets of North American Falconiformes. Raptor Res. 12:49-121."	n			
+Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Cochran, W. W. 1975. Following a migrating Peregrine from Wisconsin to Mexico. Hawk Chalk 14(2):28-37."	y	n		
+Peregrine Falcon	Falconidae	2002	Feeding	Microhabitat For Foraging	"Dekker, D. 1999. Bolt from the blue. Hancock House Publ., Ltd. Surrey, BC."	n			
+Peregrine Falcon	Falconidae	2002	Feeding	Microhabitat For Foraging	"Rosenfield, R. N., J. W. Schneider, J. M. Papp, and W. S. Seegar. 1995. Prey of Peregrine Falcons breeding in west Greenland. Condor 97:763-770."	y		good prey diet from it is for South Africa	
 Peregrine Falcon	Falconidae	2002	Feeding	Microhabitat For Foraging	"Stager, K. E. 1941. A group of bat-eating Duck Hawks. Condor 43:137-139."				
 Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Palmer, R. S. 1988. Diurnal raptors. Pages 324-380 in Handbook of North American birds. Vol. 5, pt. 2. Yale Univ. Press, New Haven, CT."				
 Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Dekker, D. 1987. Peregrine Falcon predation on ducks in Alberta and British Columbia. J. Wildl. Manage. 51:156-159."				
