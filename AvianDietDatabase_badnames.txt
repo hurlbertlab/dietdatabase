@@ -71,15 +71,15 @@ Scientific_Name	Tetrorchidium rubrivenium	unmatched		keep as is
 Scientific_Name	Inga oerstediana	unmatched		keep as is
 Scientific_Name	Guettarda crispiflora	unmatched		keep as is
 Scientific_Name	Cecropia angustifolia	unmatched		keep as is
-Family	Cypinidae	unmatched		
-Family	Rhipiphoridae	unmatched		
-Family	Thynnidae	unmatched		
-Family	Micronectidae	unmatched		
-Family	Nesameletidae	unmatched		
-Suborder	Castniidae	unmatched		
-Class	Arthropoda	wrong rank; too low		
-Phylum	Streptophyta	wrong rank; too low		
+Family	Cypinidae	unmatched	Cyprinidae	
+Family	Rhipiphoridae	unmatched	Ripiphoridae	
+Family	Thynnidae	unmatched		keep as is
+Family	Micronectidae	unmatched		keep as is
+Family	Nesameletidae	unmatched		keep as is
+Suborder	Castniidae	unmatched		keep as is
+Class	Arthropoda	wrong rank; too low		Phylum = Arthropoda
+Phylum	Streptophyta	wrong rank; too low		keep as is
 Kingdom		unaccepted name		
-Kingdom	Animalia 	unaccepted name		
-Kingdom	Protozoa	unaccepted name		
+Kingdom	Animalia 	unaccepted name	Animalia	
+Kingdom	Protozoa	unaccepted name		keep as is
 Kingdom	NA	unaccepted name		
