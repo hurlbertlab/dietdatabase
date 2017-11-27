@@ -1,5 +1,4 @@
 level	name	condition	replacewith	notes
-Scientific_Name	Asterias dorsatus	unmatched	Protoreaster nodosus	
 Scientific_Name	Corydalis cornuta	unmatched		keep as is
 Scientific_Name	Symplecta hybrida	unmatched		keep as is
 Scientific_Name	Entylia carinata	unmatched		keep as is
@@ -71,15 +70,11 @@ Scientific_Name	Tetrorchidium rubrivenium	unmatched		keep as is
 Scientific_Name	Inga oerstediana	unmatched		keep as is
 Scientific_Name	Guettarda crispiflora	unmatched		keep as is
 Scientific_Name	Cecropia angustifolia	unmatched		keep as is
-Family	Cypinidae	unmatched	Cyprinidae	
-Family	Rhipiphoridae	unmatched	Ripiphoridae	
 Family	Thynnidae	unmatched		keep as is
 Family	Micronectidae	unmatched		keep as is
 Family	Nesameletidae	unmatched		keep as is
 Suborder	Castniidae	unmatched		keep as is
-Class	Arthropoda	wrong rank; too low		Phylum = Arthropoda
 Phylum	Streptophyta	wrong rank; too low		keep as is
 Kingdom		unaccepted name		
-Kingdom	Animalia 	unaccepted name	Animalia	
 Kingdom	Protozoa	unaccepted name		keep as is
 Kingdom	NA	unaccepted name		
