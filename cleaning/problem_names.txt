@@ -238,8 +238,8 @@ Scientific_Name	Ichneumon irritator	unmatched	Dolichomitus irritator	Genus = Dol
 Scientific_Name	Juniperus virginiana?	unmatched	Juniperus virginiana	
 Scientific_Name	Platynus variolatus	unmatched	Agonum limbatum	
 Scientific_Name	Casnonia pennsylvanica	unmatched		Family = Carabidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
-Scientific_Name	Cnemidotus 12-punctatus	unmatched	Cnemidotus 12-punctatus	"Genus = \\"" & Family = Haliplidae & Suborder = Adephaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted"""
-Scientific_Name	Hister?	unmatched	Hister?	Genus = Hister & Family = Histeridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
+Scientific_Name	Cnemidotus 12-punctatus	unmatched		"Genus = """" & Family = Haliplidae & Suborder = Adephaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted"""
+Scientific_Name	Hister?	unmatched		Genus = Hister & Family = Histeridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
 Scientific_Name	Saprinus pennsylvanicus	unmatched	Saprinus pensylvanicus	
 Scientific_Name	Omosita colon?	unmatched	Omosita colon	
 Scientific_Name	Drasterius elegans	unmatched	Drasterius elegans	Genus = Drasterius & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
@@ -248,10 +248,10 @@ Scientific_Name	Phyllotreta sinuata	unmatched	Phyllotreta sinuata	Genus = Phyllo
 Scientific_Name	Apion porcatus	unmatched	Apion porcatus	Genus = Apion & Family = Brentidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Idiocerus duzei	unmatched	Idiocerus duzei	Genus = Idiocerus & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Bradycellus ruprestis	unmatched	Bradycellus rupestris	
-Scientific_Name	Aleochara	wrong rank; too low	Aleochara	Genus = Aleochara & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
+Scientific_Name	Aleochara	wrong rank; too low		Genus = Aleochara & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
 Scientific_Name	Heliothis obsoleta	unmatched	Helicoverpa armigera	Genus = Helicoverpa & Family = Noctuidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no
 Scientific_Name	Polygonum glabrum	unmatched	Persicaria glabra	
-Scientific_Name	Lumbricus	wrong rank; too low	Lumbricus	Genus = Lumbricus & Family = Lumbricidae & Order = Haplotaxida & Class = Clitellata & Phylum = Annelida & Kingdom = Animalia & Prey_Name_Status = accepted
+Scientific_Name	Lumbricus	wrong rank; too low		Genus = Lumbricus & Family = Lumbricidae & Order = Haplotaxida & Class = Clitellata & Phylum = Annelida & Kingdom = Animalia & Prey_Name_Status = accepted
 Scientific_Name	Plestiodon inexpectatus	unmatched	Eumeces inexpectatus	
 Scientific_Name	Sphaerobius quadristriatus	unmatched	Slaterobius insignis	
 Scientific_Name	Oncometopia lateralis	unmatched	Cuerna sayi	Genus = Cuerna & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no
@@ -328,12 +328,12 @@ Scientific_Name	Hister 17-striatus	unmatched	Atholus sedecimstriatus
 Scientific_Name	Ips fasciatus	unmatched	Ips fasciatus	keep as is
 Scientific_Name	Cytilus sericeus	unmatched	Cytilus sericeus	Genus = Cytilus & Family = Byrrhidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Byrrhus murinus	unmatched	Byrrhus murinus	Genus = Byrrhus & Family = Byrrhidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
-Scientific_Name	Monocrepidius auritus	unmatched	Monocrepidius auritus	Genus = Conoderus & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
-Scientific_Name	Monocrepidius bellus	unmatched	Monocrepidius bellus	Genus = Conoderus & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
+Scientific_Name	Monocrepidius auritus	unmatched		Genus = Conoderus & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
+Scientific_Name	Monocrepidius bellus	unmatched		Genus = Conoderus & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Drasterius livens	unmatched	Drasterius livens	Genus = Drasterius & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Dalopius marginatus	unmatched	Dalopius marginatus	Genus = Dalopius & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Melanotus cribricollis	unmatched	Melanotus cribricollis	Genus = Melanotus & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
-Scientific_Name	Corymbites cylidricollis	unmatched	Corymbites cylidricollis	Genus = Ctenicera & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
+Scientific_Name	Corymbites cylidricollis	unmatched		Genus = Ctenicera & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Telephorus bilineatus	unmatched	Atalantycha bilineata	
 Scientific_Name	Copris minuta	unmatched	Copris minutus	
 Scientific_Name	Aphodius fimentarius	unmatched	Aphodius fimetarius	
@@ -343,10 +343,10 @@ Scientific_Name	Aphodius pardalis	unmatched	Pardalosus pardalis
 Scientific_Name	Aphodius anthracinus	unmatched	Agoliinus anthracus	
 Scientific_Name	Aphodius robustus	unmatched	Ataenius robustus	
 Scientific_Name	Aphodius alternatus	unmatched	Liothorax alternatus	
-Scientific_Name	Bolboceras farctus	unmatched	Bolboceras farctus	Genus = Odonteus & Family = Bolboceratidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
+Scientific_Name	Bolboceras farctus	unmatched		Genus = Odonteus & Family = Bolboceratidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Odontaeus filicornis	unmatched	Odonteus filicornis	
 Scientific_Name	Lachnosterna tristis	unmatched	Phyllophaga tristis	
-Scientific_Name	Chlamys plicata	unmatched	Chlamys plicata	Genus = Neochlamisus & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
+Scientific_Name	Chlamys plicata	unmatched		Genus = Neochlamisus & Family = Chrysomelidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Pachybrachys hepatica	unmatched	Pachybrachis hepaticus	
 Scientific_Name	Typophorus canellus	unmatched	Paria aterrima	
 Scientific_Name	Graphops nebulosus	unmatched	Graphops nebulosa	
