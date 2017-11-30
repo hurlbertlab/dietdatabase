@@ -3599,7 +3599,7 @@ Plain Chachalaca	Cracidae	2000	Diet	Major Food Items/Quantitative Analysis	"Cott
 Plain Chachalaca	Cracidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Bent, A. C. 1932. Life histories of North American gallinaceous birds. U.S. Natl. Mus. Bull. 162."	n		unavailable	
 Plain Chachalaca	Cracidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Balda, W. E. 1989. Evaluation of success of Plain Chachalaca (Ortalis vetula) transplants in south Texas. Master's Thesis. New Mexico State Univ. Las Cruces."	n		unavailable	
 Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 1. Univ. of Texas Press, Austin."	n		unavailable	
-Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Marion, W. R. 1976b. Plain Chachalaca food habits in south Texas. Auk 93:376-379."	y	y	data needs to be entered	
+Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Marion, W. R. 1976b. Plain Chachalaca food habits in south Texas. Auk 93:376-379."	y	y	entered	
 Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Marion, W. R. 1975. Cacklers along the Rio Grande. Tex. Parks Wildl. 33(12):16-18."	n		unavailable	
 Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Kenner, J. M. and M. E. Tewes. 1994. Seed preferences of nongame birds in the Rio Grande Valley. Proc. Ann. Conf. Southeast. Assoc. Fish Wildl. Agencies 48:302-309."	n		unavailable	
 Plain Chachalaca	Cracidae	2000	Feeding	Main Foods Taken	"Leopold, A. S. 1959. Wildlife of Mexico: the game birds and mammals. Univ. of California Press, Berkeley."	y	n		
