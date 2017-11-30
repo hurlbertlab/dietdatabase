@@ -81,8 +81,8 @@ A secondary set of Orders to enter after the above are finished. When they have 
  
 ### Galliformes  
 --Odontophoridae  
---Cracidae (done?)- ANNABEL 
---Phasianidae (13 to enter)  
+--Cracidae
+--Phasianidae (13 to enter)- ANNABEL
 
 ### Gruiformes  
 --Aramidae (1 to enter)  
