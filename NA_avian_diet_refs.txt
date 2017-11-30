@@ -5926,7 +5926,7 @@ Northern Bobwhite	Odontophoridae	1999	Feeding	Main Foods Taken	"Brennan, L. A. a
 Northern Bobwhite	Odontophoridae	1999	Feeding	Main Foods Taken	"Larimer, E. J. 1960. Winter foods of the bobwhite in southern Illinois. Ill. Nat. Hist. Surv. Biol. Notes 42."	y	y		
 Northern Bobwhite	Odontophoridae	1999	Nutrition And Energetics		"Roby, D. D. 1991. A comparison of two noninvasive techniques to measure total body lipid in live birds. Auk 108:509-518."	y	n		
 Northern Bobwhite	Odontophoridae	1999	Nutrition And Energetics		"Nestler, R. B., W. W. Bailey, and H. E. McClure. 1942. Protein requirements of bobwhite chicks for survival, growth, and efficiency of feed utilization. J. Wildl. Manage. 6:185-193."	y	n		
-Northern Bobwhite	Odontophoridae	1999	Feeding	Main Foods Taken	"Eubanks, T. R. and R. W. Dimmick. 1974. Dietary patterns of bobwhite quail on Ames Plantation. Univ. Tenn. Agric. Exp. Sta. Bull. 534."	y	y	data needs to be entered	
+Northern Bobwhite	Odontophoridae	1999	Feeding	Main Foods Taken	"Eubanks, T. R. and R. W. Dimmick. 1974. Dietary patterns of bobwhite quail on Ames Plantation. Univ. Tenn. Agric. Exp. Sta. Bull. 534."	y	y		
 Northern Bobwhite	Odontophoridae	1999	Food Selection And Storage		"Mastrota, F. N. and J. A. Mench. 1994. Avoidance of dyed food by the Northern Bobwhite. Appl. Anim. Behav. Sci. 42:109-119."	y	n		
 Northern Bobwhite	Odontophoridae	1999	Nutrition And Energetics		"Nestler, R. B. 1949. Nutrition of bobwhite quail. J. Wildl. Manage. 13:342-358."	y	n		
 Northern Bobwhite	Odontophoridae	1999	Feeding	Main Foods Taken	"Roseberry, J. L. and W. D. Klimstra. 1984. Population ecology of the bobwhite. Southern Illinois Univ. Press, Carbondale."	n		unavailable	
