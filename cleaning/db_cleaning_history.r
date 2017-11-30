@@ -765,12 +765,28 @@ fix_prob_names('cleaning/problem_names.txt', 'AvianDietDatabase.txt')
 
 
 
+# 29 November 2017; Allen Hurlbert and Patrick Winner
+
+probnames = read.table('cleaning/problem_names.txt', header=T, sep = '\t', stringsAsFactors = F)
+probnames$notes2 = probnames$notes
+probnames$notes2[probnames$replacewith == "" & grepl("Genus", probnames$notes) & 
+                   grepl("Phylum", probnames$notes)] = 
+  paste(probnames$notes[probnames$replacewith == "" & grepl("Genus", probnames$notes) & 
+                          grepl("Phylum", probnames$notes)], "& Prey_Name_Status = accepted")
+
+probnames$notes = probnames$notes2
+
+probnames$replacewith[probnames$replacewith == "" & grepl("Genus", probnames$notes) & 
+                   grepl("Phylum", probnames$notes)] = 
+  probnames$name[probnames$replacewith == "" & grepl("Genus", probnames$notes) & 
+                   grepl("Phylum", probnames$notes)]
 
 
+  
+# Manual edits:
 
-
-
-
+write.table(probnames[, c('level', 'name', 'condition', 'replacewith', 'notes')], 
+            'cleaning/problem_names.txt', sep = '\t', row.names = F)
 
 # 
 #----------------------------------------------------------------------
