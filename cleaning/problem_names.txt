@@ -239,7 +239,7 @@ Scientific_Name	Juniperus virginiana?	unmatched	Juniperus virginiana
 Scientific_Name	Platynus variolatus	unmatched	Agonum limbatum	
 Scientific_Name	Casnonia pennsylvanica	unmatched		"Genus = """" & Family = Carabidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia"
 Scientific_Name	Cnemidotus 12-punctatus	unmatched		"Genus = """" & Family = Haliplidae & Suborder = Adephaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted"""
-Scientific_Name	Hister?	unmatched		Genus = Hister & Family = Histeridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
+Scientific_Name	Hister?	unmatched		Genus = Hister
 Scientific_Name	Saprinus pennsylvanicus	unmatched	Saprinus pensylvanicus	
 Scientific_Name	Omosita colon?	unmatched	Omosita colon	
 Scientific_Name	Drasterius elegans	unmatched	Drasterius elegans	Genus = Drasterius & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
@@ -248,10 +248,10 @@ Scientific_Name	Phyllotreta sinuata	unmatched	Phyllotreta sinuata	Genus = Phyllo
 Scientific_Name	Apion porcatus	unmatched	Apion porcatus	Genus = Apion & Family = Brentidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Idiocerus duzei	unmatched	Idiocerus duzei	Genus = Idiocerus & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no & Prey_Name_Status = accepted
 Scientific_Name	Bradycellus ruprestis	unmatched	Bradycellus rupestris	
-Scientific_Name	Aleochara	wrong rank; too low		Genus = Aleochara & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
+Scientific_Name	Aleochara	wrong rank; too low		Genus = Aleochara
 Scientific_Name	Heliothis obsoleta	unmatched	Helicoverpa armigera	Genus = Helicoverpa & Family = Noctuidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no
 Scientific_Name	Polygonum glabrum	unmatched	Persicaria glabra	
-Scientific_Name	Lumbricus	wrong rank; too low		Genus = Lumbricus & Family = Lumbricidae & Order = Haplotaxida & Class = Clitellata & Phylum = Annelida & Kingdom = Animalia & Prey_Name_Status = accepted
+Scientific_Name	Lumbricus	wrong rank; too low		Genus = Lumbricus
 Scientific_Name	Plestiodon inexpectatus	unmatched	Eumeces inexpectatus	
 Scientific_Name	Sphaerobius quadristriatus	unmatched	Slaterobius insignis	
 Scientific_Name	Oncometopia lateralis	unmatched	Cuerna sayi	Genus = Cuerna & Family = Cicadellidae & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Unidentified = no
@@ -414,7 +414,7 @@ Scientific_Name	Anisodactylus?rusticus	unmatched	Anisodactylus rusticus
 Scientific_Name	Scaphisoma punctulata	unmatched	Scaphisoma punctulata	Genus = Scaphisoma & Family = Staphylinidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
 Scientific_Name	Anatis 15-punctulata	unmatched	Anatis 15-punctulata	Genus = Anatis & Family = Coccinellidae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
 Scientific_Name	Saprinus fraternus	unmatched	Saprinus fraterculus	
-Scientific_Name	Corymbites cylidriformis	unmatched	Corymbites cylidriformis	Genus = Ctenicera & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
+Scientific_Name	Corymbites cylidriformis	unmatched		Genus = Ctenicera & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
 Scientific_Name	Limonius griseus	unmatched	Limonius griseus	Genus = Limonius & Family = Elateridae & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia  & Prey_Name_Status = accepted
 Scientific_Name	Aphodius granarius	unmatched	Calamosternus granarius	
 Scientific_Name	Geotrupes splendidus	unmatched	Geotrupes blackburnii	
@@ -529,7 +529,7 @@ Scientific_Name	Solenopsis debilis	unmatched	Solenopsis molesta
 Scientific_Name	Aphaenogaster tennesseense	unmatched	Aphaenogaster tennesseensis	
 Scientific_Name	Vespa maculata	unmatched	Dolichovespula maculata	
 Scientific_Name	Tiphia tarda	unmatched	Tiphia tarda	Genus = Tiphia & Family = Tiphiidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
-Scientific_Name	Myzine 6-cincta	unmatched	Myzine 6-cincta	Genus = Myzinum & Family = Thynnidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
+Scientific_Name	Myzine 6-cincta	unmatched		Genus = Myzinum & Family = Thynnidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
 Scientific_Name	Camponotus esuriens	unmatched	Camponotus atriceps	
 Scientific_Name	Formica fuscu	unmatched	Formica fusca	
 Scientific_Name	Ichneumon laetus	unmatched	Ichneumon laetus	Genus = Ichneumon & Family = Ichneumonidae & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia & Prey_Name_Status = accepted
@@ -634,7 +634,7 @@ Scientific_Name	Eichhornia heterosperma	unmatched	Eichhornia heterosperma	Genus 
 Scientific_Name	Sagittaria planitiana	unmatched	Sagittaria planitiana	Genus = Sagittaria & Family = Alismataceae & Order = Alismatales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Prey_Name_Status = accepted
 Scientific_Name	Schoenoplectiella mucronata	unmatched	Schoenoplectus mucronatus	
 Scientific_Name	Musa x paradisiaca	wrong rank; too high	Musa X paradisiaca	
-Scientific_Name	Apodasmia similis	unmatched	Apodasmia similis	Genus = Apoddasmia & Family = Restionaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Prey_Name_Status = accepted
+Scientific_Name	Apodasmia similis	unmatched	Apodasmia similis	Genus = Apodasmia & Family = Restionaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Prey_Name_Status = accepted
 Scientific_Name	Melicope simplex	unmatched	Melicope simplex	Genus = Melicope & Family = Rutaceae & Order = Sapindales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Prey_Name_Status = accepted
 Scientific_Name	Leucopogon fasciculatus	unmatched	Leucopogon fasciculatus	Genus = Leucopogon & Family = Ericaceae & Order = Ericales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae & Prey_Name_Status = accepted
 Scientific_Name	Zeacumantus lutulentus	unmatched	Zeacumantus lutulentus	Genus = Zeacumantus & Family = Batillariidae & Order = Decapoda & Class = Gastropoda & Phylum = Mollusca & Kingdom = Animalia & Prey_Name_Status = accepted
