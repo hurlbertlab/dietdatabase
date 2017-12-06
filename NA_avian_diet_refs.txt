@@ -6938,8 +6938,8 @@ Blue Grouse	Phasianidae	1-Nov-05	Feeding	Grit	"Zwickel, F. C. and J. F. Bendell.
 Blue Grouse	Phasianidae	1-Nov-05	Feeding	Microhabitat For Foraging	"Zwickel, F. C. 1973. Dispersion of female Blue Grouse during the brood season. Condor 75:114-119."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Feeding	Grit	"Beer, J. R. and W. Tidyman. 1942. The substitution of hard seeds for grit. J. Wildl. Manage. 6:70-82."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Feeding	Microhabitat For Foraging	"Marshall, W. H. 1946. Cover preferences, seasonal movements and food habits of Richardson's Grouse and Ruffed Grouse in southern Idaho. Wilson Bull. 58:42-52."	y	n		
-Blue Grouse	Phasianidae	1-Nov-05	Feeding	Grit	"King, R. D. and J. F. Bendell. 1982. Foods selected by Blue Grouse (Dendragapus obscurus fuliginosus). Can. J. Zool. 60:3268-3281."	y	y	data needs to be entered	
-Blue Grouse	Phasianidae	1-Nov-05	Feeding	Food Capture And Consumption	"Beer, J. R. 1943. Food habits of the Blue Grouse. J. Wildl. Manage. 7:32-44."	y	y	data needs to be entered	
+Blue Grouse	Phasianidae	1-Nov-05	Feeding	Grit	"King, R. D. and J. F. Bendell. 1982. Foods selected by Blue Grouse (Dendragapus obscurus fuliginosus). Can. J. Zool. 60:3268-3281."	y	n		
+Blue Grouse	Phasianidae	1-Nov-05	Feeding	Food Capture And Consumption	"Beer, J. R. 1943. Food habits of the Blue Grouse. J. Wildl. Manage. 7:32-44."	y	y		
 Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Hoffmann, R. S. 1961. The quality of the winter food of Blue Grouse. J. Wildl. Manage. 25:209-210."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Feeding	Microhabitat For Foraging	"Mussehl, T. W. 1963a. Blue Grouse brood cover selection and land use implications. J. Wildl. Manage. 27:547-556."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Zwickel, F. C. and J. F. Bendell. 1986. Variations in the winter diet of Blue Grouse. J. World Pheas. Assoc. Jour. XI 1985-86:44-52."	n		unavailable	
