@@ -6952,16 +6952,17 @@ Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Hoffmann, R. S. 1956. Ob
 Blue Grouse	Phasianidae	1-Nov-05	Food Selection		"Pekins, P. J., F. G. Lindzey, and J. A. Gessaman. 1991. Physical characteristics of Blue Grouse winter use-trees and roost sites. Great Basin Nat. 51:244-248."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Feeding	Microhabitat For Foraging	"Armleder, H. M. 1980. Habitat use and movements of hens and broods in relation to the demography of Blue Grouse. Master's Thesis. Univ. Toronto, Ontario, Canada."	n		unavailable	
 Blue Grouse	Phasianidae	1-Nov-05	Feeding	Microhabitat For Foraging	"Wing, L., J. Beer, and W. Tidyman. 1944. Brood habits and growth of Blue Grouse. Auk 61:426-440."	y	n		
-Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Cade, B. S. and R. W. Hoffman. 1990. Winter use of Douglas-fir forests by Blue Grouse in Colorado. J. Wildl. Manage. 54:471-479."				
-Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Hines, J. E. 1987. Winter habitat relationships of Blue Grouse on Hardwicke Island, British Columbia. J. Wildl. Manage. 51:426-435."				
-Blue Grouse	Phasianidae	1-Nov-05	Feeding	Microhabitat For Foraging	"Bendell, J. F. and P. W. Elliott. 1967. Behaviour and the regulation of numbers in Blue Grouse. Can. Wildl. Serv. Rep. Series, No. 4."				
-Blue Grouse	Phasianidae	1-Nov-05	Drinking And Defecation	Defecation	"Zwickel, F. C. 1992. Blue Grouse. in The Birds of North America, No. 15. (Poole, A., P. Stettenheim, and F. Gill, Eds.) Philadelphia: The Academy of Natural Sciences; Washington, DC: The American Ornithologists' Union."				
-Blue Grouse	Phasianidae	1-Nov-05	Metabolism And Temperature Regulation		"Pekins, P. J., J. A. Gessaman, and F. G. Lindzey. 1992. Winter energy requirements of Blue Grouse. Can. J. Zool. 70:22-24."				
-Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Pekins, P. J., F. C. Lindzey, J. A. Roberson, G. McDaniel, and R. Berger. 1989. Winter habitats and foods of Blue Grouse in the Sheeprock Mountains, Utah. Great Basin Nat. 49:229-232."				
-Blue Grouse	Phasianidae	1-Nov-05	Food Selection		"Remington, T. E. 1990. Food selection and nutritional ecology of Blue Grouse during winter. Ph.D. thesis. Univ. Wisconsin, Madison."				
-Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Pekins, P. J. 1988. Winter ecological energetics of Blue Grouse. Ph.D. thesis. Utah State Univ., Logan."				
-Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Remington, T. E. 1989. Why do grouse have ceca? A test of the fiber digestion theory. J. Exper. Zool. Suppl. 3:87-94."				
-Blue Grouse	Phasianidae	1-Nov-05	Drinking And Defecation	Drinking	"Bendell, J. F. and P. W. Elliott. 1966. Habitat selection in Blue Grouse. Condor 68:431-446."				
+Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Cade, B. S. and R. W. Hoffman. 1990. Winter use of Douglas-fir forests by Blue Grouse in Colorado. J. Wildl. Manage. 54:471-479."	y	n		
+Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Hines, J. E. 1987. Winter habitat relationships of Blue Grouse on Hardwicke Island, British Columbia. J. Wildl. Manage. 51:426-435."	y	n		
+Blue Grouse	Phasianidae	1-Nov-05	Feeding	Microhabitat For Foraging	"Bendell, J. F. and P. W. Elliott. 1967. Behaviour and the regulation of numbers in Blue Grouse. Can. Wildl. Serv. Rep. Series, No. 4."	y	n		
+Blue Grouse	Phasianidae	1-Nov-05	Drinking And Defecation	Defecation	"Zwickel, F. C. 1992. Blue Grouse. in The Birds of North America, No. 15. (Poole, A., P. Stettenheim, and F. Gill, Eds.) Philadelphia: The Academy of Natural Sciences; Washington, DC: The American Ornithologists' Union."	n		unavailable	
+Blue Grouse	Phasianidae	1-Nov-05	Metabolism And Temperature Regulation		"Pekins, P. J., J. A. Gessaman, and F. G. Lindzey. 1992. Winter energy requirements of Blue Grouse. Can. J. Zool. 70:22-24."	y	n		
+Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Pekins, P. J., F. C. Lindzey, J. A. Roberson, G. McDaniel, and R. Berger. 1989. Winter habitats and foods of Blue Grouse in the Sheeprock Mountains, Utah. Great Basin Nat. 49:229-232."	y	n		
+Blue Grouse	Phasianidae	1-Nov-05	Food Selection		"Remington, T. E. 1990. Food selection and nutritional ecology of Blue Grouse during winter. Ph.D. thesis. Univ. Wisconsin, Madison."	n		unavailable	
+Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Pekins, P. J. 1988. Winter ecological energetics of Blue Grouse. Ph.D. thesis. Utah State Univ., Logan."	y	n		
+Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Remington, T. E. 1989. Why do grouse have ceca? A test of the fiber digestion theory. J. Exper. Zool. Suppl. 3:87-94."	y	n		
+Blue Grouse	Phasianidae	1-Nov-05	Drinking And Defecation	Drinking	"Bendell, J. F. and P. W. Elliott. 1966. Habitat selection in Blue Grouse. Condor 68:431-446."	y	n		
+Blue Grouse	Phasianidae	8-Jun-05	Diet	Major Food Items	"Crawford, John A. “FALL DIET OF BLUE GROUSE IN OREGON.” The Great Basin Naturalist, vol. 46, no. 1, 31 Jan. 1986, pp. 123–127. JSTOR, JSTOR"	y	y	data needs to be entered	
 Chukar	Phasianidae	1996	Diet		"La Rivers, I. 1967. A new species of Margarodes from Nevada (Margarodes chukar). Biol. Soc. Nev. Occas. Pap. no. 14."				
 Chukar	Phasianidae	1996	Diet		"Galbreath, D. S. and R. Moreland. 1953. The Chukar Partridge in Washington. Wash. State Game Dept. Biol. Bull. no. 11."				
 Chukar	Phasianidae	1996	Diet		"Sandfort, W. W. 1954. Evaluation of Chukar Partridge range in Colorado. Proc. 34th Conf. West. Assoc. State Game and Fish Comm."				
