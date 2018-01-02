@@ -195,7 +195,12 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Prey_Name_ITIS_ID</td>
-    <td>The Integrated Taxonomic Information Service (ITIS) taxon ID associated with the prey item. This field will be populated by an R script automatically. Names with no match will be listed as 'unverified'.</td>
+    <td>The Integrated Taxonomic Information Service (ITIS) taxon ID associated with the prey item. This field should be left blank and will be populated by an R script automatically.</td>
+  </tr>
+  <tr>
+    <td>Prey_Name_Status</td>
+    <td>Taxonomic status of the prey name. "Verified" indicates the name matched a valid ITIS ID. "Unverified" means the name did not match a valid ITIS ID and needs to be investigated further.
+    "Accepted" means the name did not match a valid ITIS ID, but investigation revealed that it reflects an accepted taxonomic entity not in ITIS.</td>
   </tr>
   <tr>
     <td>Prey_Stage</td>
