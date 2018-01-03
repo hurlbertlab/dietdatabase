@@ -333,8 +333,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
 # all: if TRUE, will clean all names at specified level; if FALSE, will only examine
 #      and clean records for which Prey_Name_ITIS_ID is != 'verified'
 
-clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, 
-                       write = FALSE, all = FALSE) {
+clean_names = function(preyTaxonLevel, diet, problemNames = NULL, all = TRUE) {
   require(taxize)
   require(stringr)
   
@@ -346,14 +345,9 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
     return(NULL)
   }
   
-  if (is.null(diet)) {
-    diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
-                      fill=T, stringsAsFactors = F) 
-  }
-  
   if (all == FALSE) {
-    diet2 = diet[diet$Prey_Name_ITIS_ID == 'unverified' | 
-                   diet$Prey_Name_ITIS_ID == '' | 
+    diet2 = diet[diet$Prey_Name_Status == 'unverified' | 
+                   diet$Prey_Name_Status == '' | 
                    is.na(diet$Prey_Name_ITIS_ID), ]
   } else {
     diet2 = diet
@@ -454,7 +448,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                         name = n,
                                         condition = 'unmatched'))
         
-        diet$Prey_Name_ITIS_ID[recs] = 'unverified'
+        diet$Prey_Name_Status[recs] = 'unverified'
         
       } else if (nrow(hierarchy) == 1) {
         problemNames = rbind(problemNames, 
@@ -462,7 +456,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                         name = n,
                                         condition = 'unmatched'))
         
-        diet$Prey_Name_ITIS_ID[recs] = 'unverified'
+        diet$Prey_Name_Status[recs] = 'unverified'
         
       } else {
         
@@ -483,7 +477,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                           name = n,
                                           condition = 'wrong rank; too low'))
           
-          diet$Prey_Name_ITIS_ID[recs] = 'unverified'
+          diet$Prey_Name_Status[recs] = 'unverified'
           
         } else if (focalrank %in% hierarchy$rank & 
                    hierarchy$name[hierarchy$rank == focalrank] != n) {
@@ -492,7 +486,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                           name = n,
                                           condition = 'wrong rank; too high'))
           
-          diet$Prey_Name_ITIS_ID[recs] = 'unverified'
+          diet$Prey_Name_Status[recs] = 'unverified'
           
           # Otherwise, grab 
         } else {
@@ -500,6 +494,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
           itis_id = hierarchy$id[hierarchy$rank == focalrank & hierarchy$name == n]
           
           diet$Prey_Name_ITIS_ID[recs] = itis_id
+          diet$Prey_Name_Status[recs] = 'verified'
           
           for (l in higherLevels) {
             if (l == 2 & hierarchy$name[1] == 'Plantae') {
@@ -524,11 +519,6 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
       } # end else (taxize name match)
       
       namecount = namecount + 1
-      
-      if (write) {
-        write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
-        write.table(problemNames, 'unmatched_ITIS_names.txt', sep = '\t', row.names = F)
-      }
       
     } # end for n
     
