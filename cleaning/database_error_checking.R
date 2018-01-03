@@ -564,9 +564,50 @@ clean_all_names = function(filename, write = TRUE, ...) {
   
   clean_phy = clean_names('Phylum', clean_cla$diet, problemNames = clean_cla$badnames, ...)
   
+  diet2 = clean_phy$diet
+  
   kings = unique(diet$Prey_Kingdom)
   
-  badkings = kings[!kings %in% c('Animalia', 'Plantae', 'Chromista', 'Fungi', 'Bacteria')]
+  goodkings = c('Animalia', 'Plantae', 'Chromista', 'Fungi', 
+                'Bacteria', 'Non-biological', 'Unknown')
+  
+  badkings = kings[!kings %in% goodkings]
+  
+  king_ids = c(202423, 202422, 630578, 555705, 50)
+  
+  for (k in 1:5) {
+    
+    diet2$Prey_Name_ITIS_ID[diet2$Prey_Kingdom == goodkings[k] & 
+                             (diet2$Prey_Phylum == '' | is.na(diet2$Prey_Phylum)) &
+                             (diet2$Prey_Class == '' | is.na(diet2$Prey_Class)) & 
+                             (diet2$Prey_Order == '' | is.na(diet2$Prey_Order)) & 
+                             (diet2$Prey_Suborder == '' | is.na(diet2$Prey_Suborder)) &
+                             (diet2$Prey_Family == '' | is.na(diet2$Prey_Family)) & 
+                             (diet2$Prey_Genus == '' | is.na(diet2$Prey_Genus)) &
+                             (diet2$Prey_Scientific_Name == '' | is.na(diet2$Prey_Scientific_Name))] = king_ids[k]
+    diet2$Prey_Name_Status[diet2$Prey_Kingdom == goodkings[k] & 
+                            (diet2$Prey_Phylum == '' | is.na(diet2$Prey_Phylum)) &
+                            (diet2$Prey_Class == '' | is.na(diet2$Prey_Class)) & 
+                            (diet2$Prey_Order == '' | is.na(diet2$Prey_Order)) & 
+                            (diet2$Prey_Suborder == '' | is.na(diet2$Prey_Suborder)) &
+                            (diet2$Prey_Family == '' | is.na(diet2$Prey_Family)) & 
+                            (diet2$Prey_Genus == '' | is.na(diet2$Prey_Genus)) &
+                            (diet2$Prey_Scientific_Name == '' | is.na(diet2$Prey_Scientific_Name))] = 'verified'
+    
+  }
+  
+  for (k in 6:7) {
+    
+    diet2$Prey_Name_Status[diet2$Prey_Kingdom == goodkings[k] & 
+                            (diet2$Prey_Phylum == '' | is.na(diet2$Prey_Phylum)) &
+                            (diet2$Prey_Class == '' | is.na(diet2$Prey_Class)) & 
+                            (diet2$Prey_Order == '' | is.na(diet2$Prey_Order)) & 
+                            (diet2$Prey_Suborder == '' | is.na(diet2$Prey_Suborder)) &
+                            (diet2$Prey_Family == '' | is.na(diet2$Prey_Family)) & 
+                            (diet2$Prey_Genus == '' | is.na(diet2$Prey_Genus)) &
+                            (diet2$Prey_Scientific_Name == '' | is.na(diet2$Prey_Scientific_Name))] = 'accepted'
+    
+  }
   
   # No bad names
   if (nrow(clean_phy$badnames) == 0 & length(badkings) == 0) {
@@ -585,12 +626,12 @@ clean_all_names = function(filename, write = TRUE, ...) {
     badnames = rbind(clean_phy$badnames, badking_df)
   }
     
-  output = list(cleandb = clean_phy$diet,
+  output = list(cleandb = diet2,
                 badnames = badnames)  
   
   if (write) {
     filenameparts = unlist(strsplit(filename, '[.]'))
-    write.table(clean_phy$diet, paste(filenameparts[1], '_clean.txt', sep = ''), sep = '\t', row.names = F)
+    write.table(diet2, paste(filenameparts[1], '_clean.txt', sep = ''), sep = '\t', row.names = F)
     write.table(badnames, paste(filenameparts[1], '_badnames.txt', sep = ''), sep = '\t', row.names = F)
   }
 
