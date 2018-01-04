@@ -333,8 +333,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
 # all: if TRUE, will clean all names at specified level; if FALSE, will only examine
 #      and clean records for which Prey_Name_ITIS_ID is != 'verified'
 
-clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL, 
-                       write = FALSE, all = FALSE) {
+clean_names = function(preyTaxonLevel, diet, problemNames = NULL, all = TRUE) {
   require(taxize)
   require(stringr)
   
@@ -346,14 +345,9 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
     return(NULL)
   }
   
-  if (is.null(diet)) {
-    diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
-                      fill=T, stringsAsFactors = F) 
-  }
-  
   if (all == FALSE) {
-    diet2 = diet[diet$Prey_Name_ITIS_ID == 'unverified' | 
-                   diet$Prey_Name_ITIS_ID == '' | 
+    diet2 = diet[diet$Prey_Name_Status == 'unverified' | 
+                   diet$Prey_Name_Status == '' | 
                    is.na(diet$Prey_Name_ITIS_ID), ]
   } else {
     diet2 = diet
@@ -454,7 +448,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                         name = n,
                                         condition = 'unmatched'))
         
-        diet$Prey_Name_ITIS_ID[recs] = 'unverified'
+        diet$Prey_Name_Status[recs] = 'unverified'
         
       } else if (nrow(hierarchy) == 1) {
         problemNames = rbind(problemNames, 
@@ -462,7 +456,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                         name = n,
                                         condition = 'unmatched'))
         
-        diet$Prey_Name_ITIS_ID[recs] = 'unverified'
+        diet$Prey_Name_Status[recs] = 'unverified'
         
       } else {
         
@@ -483,7 +477,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                           name = n,
                                           condition = 'wrong rank; too low'))
           
-          diet$Prey_Name_ITIS_ID[recs] = 'unverified'
+          diet$Prey_Name_Status[recs] = 'unverified'
           
         } else if (focalrank %in% hierarchy$rank & 
                    hierarchy$name[hierarchy$rank == focalrank] != n) {
@@ -492,7 +486,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
                                           name = n,
                                           condition = 'wrong rank; too high'))
           
-          diet$Prey_Name_ITIS_ID[recs] = 'unverified'
+          diet$Prey_Name_Status[recs] = 'unverified'
           
           # Otherwise, grab 
         } else {
@@ -500,6 +494,7 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
           itis_id = hierarchy$id[hierarchy$rank == focalrank & hierarchy$name == n]
           
           diet$Prey_Name_ITIS_ID[recs] = itis_id
+          diet$Prey_Name_Status[recs] = 'verified'
           
           for (l in higherLevels) {
             if (l == 2 & hierarchy$name[1] == 'Plantae') {
@@ -524,11 +519,6 @@ clean_names = function(preyTaxonLevel, diet = NULL, problemNames = NULL,
       } # end else (taxize name match)
       
       namecount = namecount + 1
-      
-      if (write) {
-        write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
-        write.table(problemNames, 'unmatched_ITIS_names.txt', sep = '\t', row.names = F)
-      }
       
     } # end for n
     
@@ -574,9 +564,50 @@ clean_all_names = function(filename, write = TRUE, ...) {
   
   clean_phy = clean_names('Phylum', clean_cla$diet, problemNames = clean_cla$badnames, ...)
   
+  diet2 = clean_phy$diet
+  
   kings = unique(diet$Prey_Kingdom)
   
-  badkings = kings[!kings %in% c('Animalia', 'Plantae', 'Chromista', 'Fungi', 'Bacteria')]
+  goodkings = c('Animalia', 'Plantae', 'Chromista', 'Fungi', 
+                'Bacteria', 'Non-biological', 'Unknown')
+  
+  badkings = kings[!kings %in% goodkings]
+  
+  king_ids = c(202423, 202422, 630578, 555705, 50)
+  
+  for (k in 1:5) {
+    
+    diet2$Prey_Name_ITIS_ID[diet2$Prey_Kingdom == goodkings[k] & 
+                             (diet2$Prey_Phylum == '' | is.na(diet2$Prey_Phylum)) &
+                             (diet2$Prey_Class == '' | is.na(diet2$Prey_Class)) & 
+                             (diet2$Prey_Order == '' | is.na(diet2$Prey_Order)) & 
+                             (diet2$Prey_Suborder == '' | is.na(diet2$Prey_Suborder)) &
+                             (diet2$Prey_Family == '' | is.na(diet2$Prey_Family)) & 
+                             (diet2$Prey_Genus == '' | is.na(diet2$Prey_Genus)) &
+                             (diet2$Prey_Scientific_Name == '' | is.na(diet2$Prey_Scientific_Name))] = king_ids[k]
+    diet2$Prey_Name_Status[diet2$Prey_Kingdom == goodkings[k] & 
+                            (diet2$Prey_Phylum == '' | is.na(diet2$Prey_Phylum)) &
+                            (diet2$Prey_Class == '' | is.na(diet2$Prey_Class)) & 
+                            (diet2$Prey_Order == '' | is.na(diet2$Prey_Order)) & 
+                            (diet2$Prey_Suborder == '' | is.na(diet2$Prey_Suborder)) &
+                            (diet2$Prey_Family == '' | is.na(diet2$Prey_Family)) & 
+                            (diet2$Prey_Genus == '' | is.na(diet2$Prey_Genus)) &
+                            (diet2$Prey_Scientific_Name == '' | is.na(diet2$Prey_Scientific_Name))] = 'verified'
+    
+  }
+  
+  for (k in 6:7) {
+    
+    diet2$Prey_Name_Status[diet2$Prey_Kingdom == goodkings[k] & 
+                            (diet2$Prey_Phylum == '' | is.na(diet2$Prey_Phylum)) &
+                            (diet2$Prey_Class == '' | is.na(diet2$Prey_Class)) & 
+                            (diet2$Prey_Order == '' | is.na(diet2$Prey_Order)) & 
+                            (diet2$Prey_Suborder == '' | is.na(diet2$Prey_Suborder)) &
+                            (diet2$Prey_Family == '' | is.na(diet2$Prey_Family)) & 
+                            (diet2$Prey_Genus == '' | is.na(diet2$Prey_Genus)) &
+                            (diet2$Prey_Scientific_Name == '' | is.na(diet2$Prey_Scientific_Name))] = 'accepted'
+    
+  }
   
   # No bad names
   if (nrow(clean_phy$badnames) == 0 & length(badkings) == 0) {
@@ -595,12 +626,12 @@ clean_all_names = function(filename, write = TRUE, ...) {
     badnames = rbind(clean_phy$badnames, badking_df)
   }
     
-  output = list(cleandb = clean_phy$diet,
+  output = list(cleandb = diet2,
                 badnames = badnames)  
   
   if (write) {
     filenameparts = unlist(strsplit(filename, '[.]'))
-    write.table(clean_phy$diet, paste(filenameparts[1], '_clean.txt', sep = ''), sep = '\t', row.names = F)
+    write.table(diet2, paste(filenameparts[1], '_clean.txt', sep = ''), sep = '\t', row.names = F)
     write.table(badnames, paste(filenameparts[1], '_badnames.txt', sep = ''), sep = '\t', row.names = F)
   }
 
