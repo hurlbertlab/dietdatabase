@@ -3,3 +3,8 @@ install:
   - chmod +x check-dataset.sh
 
 script: ./check-dataset.sh ${TRAVIS_REPO_SLUG}
+
++notifications:
++  email:
++    - jhpoelen+avian@gmail.com
++    - hurlbert@bio.unc.edu
