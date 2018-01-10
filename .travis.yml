@@ -4,7 +4,7 @@ install:
 
 script: ./check-dataset.sh ${TRAVIS_REPO_SLUG}
 
-+notifications:
-+  email:
-+    - jhpoelen+avian@gmail.com
-+    - hurlbert@bio.unc.edu
+notifications:
+  email:
+    - jhpoelen+avian@gmail.com
+    - hurlbert@bio.unc.edu
