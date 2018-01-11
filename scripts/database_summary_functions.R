@@ -50,7 +50,7 @@ speciesSummary = function(commonName, by = 'Order') {
   diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
                     fill=T, stringsAsFactors = F)
   
-  if (!commonName %in% diet$Common_Name) {
+  if (!tolower(commonName) %in% tolower(diet$Common_Name)) {
     warning("No species with that name in the Diet Database.")
     return(NULL)
   }
@@ -60,13 +60,14 @@ speciesSummary = function(commonName, by = 'Order') {
     return(NULL)
   }
   
-  dietsp = subset(diet, Common_Name == commonName)
+  dietsp = subset(diet, tolower(Common_Name) == tolower(commonName))
   numStudies = length(unique(dietsp$Source))
   Studies = unique(dietsp$Source)
   numRecords = nrow(dietsp)
   recordsPerYear = data.frame(count(dietsp, Observation_Year_End))
   recordsPerRegion = data.frame(count(dietsp, Location_Region))
   recordsPerType = data.frame(count(dietsp, Diet_Type))
+  recordsPerSeason = data.frame(count(dietsp, Observation_Season))
   
   # Report the number of records for which prey are identified to the different 
   # taxonomic levels, which will be important for interpreting summary occurrence data
@@ -177,6 +178,7 @@ speciesSummary = function(commonName, by = 'Order') {
               Studies = Studies,
               numRecords = numRecords,
               recordsPerYear = recordsPerYear,
+              recordsPerSeason = recordsPerSeason,
               recordsPerRegion = recordsPerRegion,
               recordsPerPreyIDLevel = recordsPerPreyIDLevel,
               recordsPerType = recordsPerType,
