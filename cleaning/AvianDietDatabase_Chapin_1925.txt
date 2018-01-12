@@ -85,3 +85,115 @@ Bell's Vireo	Vireo bellii	NA	Vireonidae	eBird Clements Checklist v2018	NA	NA	NA	
 Bell's Vireo	Vireo bellii	NA	Vireonidae	eBird Clements Checklist v2018	NA	NA	NA	NA	NA	North America	NA	NA	5	1924	8	1924	NA	Animalia	Arthropoda	Insecta						yes			NA	NA	NA	0.1877	Wt_or_Vol	NA	52	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Bell's Vireo	Vireo bellii	NA	Vireonidae	eBird Clements Checklist v2018	NA	NA	NA	NA	NA	North America	NA	NA	5	1924	8	1924	NA	Animalia	Arthropoda	Arachnida	Araneae					no			NA	NA	NA	0.0271	Wt_or_Vol	NA	52	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Bell's Vireo	Vireo bellii	NA	Vireonidae	eBird Clements Checklist v2018	NA	NA	NA	NA	NA	North America	NA	NA	5	1924	8	1924	NA	Animalia								yes			NA	NA	NA	0.0028	Wt_or_Vol	NA	52	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA					NA	Animalia	Mollusca	Gastropoda						yes			NA	NA	snail	2	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+																		Animalia	Arthropoda	Arachnida	Opiliones					yes			NA	NA	harvestmen	10								
+																		Animalia	Arthropoda	Arachnida	Araneae					yes			NA	NA	spider	129								
+																		Animalia	Arthropoda	Arachnida	Araneae		Araneidae			yes			NA	NA	orb weaver	11								
+																		Animalia	Arthropoda	Arachnida	Araneae		Tetragnathidae	Tetragnatha	Tetragnatha elongata	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Arachnida	Araneae		Tetragnathidae	Tetragnatha	Tetragnatha straminea	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Tetragnathidae	Tetragnatha		yes			NA	NA	NA	2								
+																		Animalia	Arthropoda	Arachnida	Araneae		Araneidae	Araneus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Clubionidae	Clubiona		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Lycosidae			yes			NA	NA	NA	2								
+																		Animalia	Arthropoda	Arachnida	Araneae		Lycosidae	Sosippus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae			yes			NA	NA	NA	32								
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae	Phidippus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae	Hentzia	Hentzia palmarum	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae	Lyssomanes	Lyssomanes viridis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Mesostigmata		Parasitidae			no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta						yes			adult	NA	NA	2								
+																		Animalia	Arthropoda	Insecta						yes			egg	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Odonata					yes			NA	NA	NA	11								
+																		Animalia	Arthropoda	Insecta	Odonata	Zygoptera				yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Odonata	Zygoptera	Coenagrionidae	Argia	Argia bipunctulata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Ephemeroptera		Ephemeridae			yes			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Phasmatodea		Phasmatidae			yes			adult	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Phasmatodea		Phasmatidae			yes			egg	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Phasmatodea		Diapheromeridae	Diapheromera	Diapheromera femorata	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Acrididae			yes			NA	NA	NA	26								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Acrididae	Melanoplus		no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Tettigoniidae			yes			adult	NA	NA	14								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Tettigoniidae			yes			egg	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Gryllidae			yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Gryllidae	Oecanthus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Blattodea		Blattidae			no			egg	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Plecoptera		Perlidae			no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera					no			adult	NA	NA	129								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae			no			NA	NA	NA	63								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena	Brochymena quadripustulata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena		yes			NA	NA	NA	7								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Euschistus		no			NA	NA	NA	5								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Cosmopepla		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Thyanta	Thyanta custator	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Chinavia	Chinavia hilaris	no			NA	NA	NA	24								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Chinavia		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Banasa		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Elasmucha	Elasmucha lateralis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Perillus	Perillus bioculatus	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Podisus	Podisus maculiventris	no			NA	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Podisus		yes			NA	NA	NA	58								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Coreidae	Leptoglossus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Coreidae	Anasa	Anasa armigera	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Alydidae	Alydus	Alydus pilosulus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Lygaeidae	Ischnorrhynchus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Rhyparochromidae	Ligyrocoris		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Phymata	Phymata fasciata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae			yes			NA	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Zelus	Zelus exsanguis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Zelus		yes			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Sinea	Sinea diadema	no			NA	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Sinea		yes			NA	NA	NA	17								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Nabidae	Nabis		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadidae	Neotibicen		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadidae	Cicada		no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cercopidae			no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Aphrophoridae	Aphrophora	Aphrophora quadrinotata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae			yes			NA	NA	NA	27								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Ceresa		no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Cyrtolobus		no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Entylia	Entylia sinuata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Platycotis		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae			no			NA	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Coccidae			yes			NA	NA	NA	51								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Coccidae	Eulecanium		no			NA	NA	NA	5								
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			adult	NA	NA	35								
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			pupa	NA	NA	16								
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			larva	NA	NA	371								
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			egg	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Papilionidae	Papilio	Papilio troilus	no			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Nymphalidae	Chorippe 	Chorippe celtis	no			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Hesperiidae			no			adult	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Sphingidae			no			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Noctuidae			yes			larva	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Noctuidae	Acronicta		yes			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Noctuidae	Acronicta	Acronicta afflicta	no			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Noctuidae	Neuronia		no			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Notodontidae			yes			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Notodontidae	Notodonta		no			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Notodontidae	Heterocampa		no			larva	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Notodontidae	Fentonia		no			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Lasiocampidae	Malacosoma		no			egg	NA	NA	5								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Geometridae			no			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera					yes			NA	NA	NA	49								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae			yes			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae	Pterostichus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae	Platynus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae	Lebia	Lebia viridis	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae	Callida	Callida viridipennis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Staphylinidae			yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Phalacridae	Phalacrus	Phalacrus politus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae			yes			NA	NA	NA	7								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Anisosticta	Anisosticta strigata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coleomegilla	Coleomegilla maculata	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hippodamia	Hippodamia parenthesis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hippodamia	Hippodamia tredecimpunctata	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Cycloneda	Cycloneda munda	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coccinella	Coccinella novemnotata	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coccinella	Coccinella transversoguttata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coccinella	Coccinella trifasciata	no			NA	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Adalia	Adalia annectans	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Adalia	Adalia bipunctata	no			NA	NA	NA	25								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Adalia	Adalia frigida	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Harmonia	Harmonia picta	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Neomysia	Neomysia pullata	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Anatis	Anatis quindecimpunctata	no			NA	NA	NA	21								
