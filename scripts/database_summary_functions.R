@@ -45,7 +45,7 @@ dbSummary = function(diet = NULL) {
 # For a particular bird species, summarize diet database info at a specified taxonomic level
 
 # Argument "by" may specify the prey's 'Kingdom', 'Phylum', 'Class', 'Order', 'Family',
-#   'Genus', or 'Scientific_Name' ('Species' will not work)
+#   'Genus', or 'Species')
 speciesSummary = function(commonName, by = 'Order') {
   diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
                     fill=T, stringsAsFactors = F)
@@ -54,6 +54,9 @@ speciesSummary = function(commonName, by = 'Order') {
     warning("No species with that name in the Diet Database.")
     return(NULL)
   }
+  
+  if (by == 'Species') { by = 'Scientific_Name' }
+  
   if (!by %in% c('Kingdom', 'Phylum', 'Class', 'Order', 'Suborder', 
                  'Family', 'Genus', 'Scientific_Name')) {
     warning("Please specify one of the following taxonomic levels to aggregate prey data:\n   Kingdom, Phylum, Class, Order, Suborder, Family, Genus, or Scientific_Name")
