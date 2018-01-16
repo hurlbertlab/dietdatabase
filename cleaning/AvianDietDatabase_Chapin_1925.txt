@@ -197,3 +197,45 @@ Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	N
 																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Harmonia	Harmonia picta	no			NA	NA	NA	2								
 																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Neomysia	Neomysia pullata	no			NA	NA	NA	3								
 																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Anatis	Anatis quindecimpunctata	no			NA	NA	NA	21								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Chilocorus	Chilocorus bivulnerus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Axion	Axion tripustulatum	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Brachiacantha	Brachiacantha ursina	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hyperaspis	Hyperaspis signata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Scymnus	Scymnus collaris	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Histeridae			yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Histeridae	Hister	Hister perplexus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae			yes			NA	NA	NA	68								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Ampedus	Ampedus nigricollis	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Elater		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Drasterius		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Agriotes	Agriotes ferrugineipennis	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Agriotes	Agriotes oblongicollis	no			NA	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Melanotus	Melanotus americanus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Melanotus	Melanotus communis	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Melanotus		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Limonius	Limonius basilaris	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Limonius	Limonius crotchii	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Limonius	Limonius quercinus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Limonius		yes			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Athous	Athous brightwelli	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Neopristilophus	Neopristilophus aethiops	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Pseudanostirus	Pseudanostirus hieroglyphicus	no			NA	NA	NA	5								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Liotrichus	Liotrichus spinosus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Corymbitodes	Corymbitodes tarsalis	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Corymbitodes		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Dicerca		no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Spectralia	Spectralia gracilipes	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Melanophila	Melanophila drummondi	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Anthaxia	Anthaxia quercata	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Chrysobothris	Chrysobothris femorata	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Acmaeodera	Acmaeodera tubulus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Agrilus	Agrilus politus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Agrilus		yes			NA	NA	NA	21								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Brachys	Brachys aerosus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Brachys		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cantharidae	Chauliognathus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Placopterus	Placopterus thoracicus	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Phyllobaenus	Phyllobaenus pallipennis	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Phyllobaenus	Phyllobaenus unifasciata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Phyllobaenus	Phyllobaenus verticalis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Phyllobaenus	Phyllobaenus dislocatus	no			NA	NA	NA	1								
