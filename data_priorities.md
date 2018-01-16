@@ -14,7 +14,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Ciconiidae  
 
 ### Columbiformes  
---Columbidae (need to check/enter Passenger Pigeon, Eurasian Collared-Dove: PATRICK)  
+--Columbidae (need to enter Eurasian Collared-Dove: PATRICK)  
 
 ### Cuculiformes  
 --Cuculidae   
@@ -49,7 +49,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Troglodytidae  
 --Turdidae   
 --Tyrannidae  
---Vireonidae  
+--Vireonidae  (**** more refs to check ****)
 
 ### Piciformes  
 --Picidae  
@@ -58,7 +58,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Psittacidae
 
 ### Strigiformes
---Strigidae    
+--Strigidae   (**** more refs to check ****)   
 --Tytonidae
 
 ### Trogoniformes  
@@ -70,7 +70,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Trochilidae  
 
 ### Falconiformes  
---Falconidae (many references to be checked, although we currently have data for 5/6 species --DAVID)   
+--Falconidae (DAVID)   
 
 ### Coraciiformes
 --Alcedinidae
@@ -82,7 +82,7 @@ A secondary set of Orders to enter after the above are finished. When they have 
 ### Galliformes  
 --Odontophoridae  
 --Cracidae
---Phasianidae (13 to enter)- ANNABEL
+--Phasianidae (**** lots to check ****)- ANNABEL
 
 ### Gruiformes  
 --Aramidae (1 to enter)  
