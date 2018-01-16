@@ -13,7 +13,7 @@ Contributors to the Avian Diet Database
 * Lexie Peeler, 2015  (Corvidae)  
 * Rachel Quindlen, 2015-2016 (Cardinalidae, Hirundinidae, Parulidae, Tyrannidae, Vireonidae, Beal compendia)  
 * Annabel Richards, 2017-2018 (Odontophoridae, Phasianidae)
-* David Ryu, 2017-2018 (Falconidae, misc)
+* Dong Ryu, 2017-2018 (Falconidae, misc)
 * Miguel Sandoval, 2014-2015  (Emberizidae)  
 * Caitlin Seyfried, 2015  (Accipitridae)  
 * Savannah Swinea, 2016 (Columbidae, Apodidae, Ciconiidae, Icteridae, Cuculidae)
