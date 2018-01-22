@@ -380,28 +380,52 @@ Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	N
 																					Hymenoptera		Tenthredinidae			yes			adult	NA	NA									
 																					Hymenoptera		Tenthredinidae	Dolerus		no			NA	NA	NA									
 																					Hymenoptera		Argidae	Arge	Arge fuscipes	no			NA	NA	NA									
-																							Xiphydriidae	Xiphydria		no			NA	NA	NA									
-																							Siricidae	Tremex	Tremex columba	no			NA	NA	NA									
-																							Trigonalidae			no			NA	NA	NA									
-																							Ichneumonidae			yes			NA	NA	NA									
-																							Ichneumonidae	Paniscus	Paniscus geminatus	no			NA	NA	NA									
-																							Ichneumonidae	Paranomalon		no			NA	NA	NA									
-																							Ichneumonidae	Enicospilus	Enicospilus purgatus	no			NA	NA	NA									
-																							Ichneumonidae	Ophion	Ophion bilineatus	no			NA	NA	NA									
-																							Ichneumonidae	Ophion		yes			NA	NA	NA									
-																							Ichneumonidae	Glypta		no			NA	NA	NA									
-																							Ichneumonidae	Scambus		no			NA	NA	NA									
-																							Ichneumonidae	Dolichomitus	Dolichomitus irritator	no			NA	NA	NA									
-																							Ichneumonidae	Phygadeuon		no			NA	NA	NA									
-																							Ichneumonidae	Plesignathus		no			NA	NA	NA									
-																							Ichneumonidae	Hemiteles		no			NA	NA	NA									
-																							Ichneumonidae	Pterocormus		no			NA	NA	NA									
-																							Ichneumonidae	Melanichneumon		no			NA	NA	NA									
-																							Ichneumonidae	Cratichneumon		no			NA	NA	NA									
-																							Ichneumonidae	Cratichneumon		yes			NA	NA	NA									
-																							Chalcididae			yes			NA	NA	NA									
-																							Formicidae	Aphaenogaster	Aphaenogaster fulva	no			NA	NA	NA									
-																							Formicidae	Myrmica	Myrmica punctiventris	no			NA	NA	NA									
-																							Formicidae	Myrmica	Myrmica rubra	no			NA	NA	NA									
-																							Formicidae	Camponotus	Camponotus pennsylvanicus	no			NA	NA	NA									
-																							Formicidae	Camponotus		yes			NA	NA	NA									
+																					Hymenoptera		Xiphydriidae	Xiphydria		no			NA	NA	NA									
+																					Hymenoptera		Siricidae	Tremex	Tremex columba	no			NA	NA	NA									
+																					Hymenoptera		Trigonalidae			no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae			yes			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Paniscus	Paniscus geminatus	no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Paranomalon		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Enicospilus	Enicospilus purgatus	no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Ophion	Ophion bilineatus	no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Ophion		yes			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Glypta		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Scambus		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Dolichomitus	Dolichomitus irritator	no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Phygadeuon		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Plesignathus		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Hemiteles		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Pterocormus		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Melanichneumon		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Cratichneumon		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Cratichneumon		yes			NA	NA	NA									
+																					Hymenoptera		Chalcididae			yes			NA	NA	NA									
+																					Hymenoptera		Formicidae	Aphaenogaster	Aphaenogaster fulva	no			NA	NA	NA									
+																					Hymenoptera		Formicidae	Myrmica	Myrmica punctiventris	no			NA	NA	NA									
+																					Hymenoptera		Formicidae	Myrmica	Myrmica rubra	no			NA	NA	NA									
+																					Hymenoptera		Formicidae	Camponotus	Camponotus pennsylvanicus	no			NA	NA	NA									
+																					Hymenoptera		Formicidae	Camponotus		yes			NA	NA	NA									
+																							Formicidae	Lasius	Lasius alienus	no														
+																							Formicidae	Lasius		yes														
+																							Formicidae	Formica	Formica subsericea	no														
+																							Formicidae	Formica		yes														
+																							Bethylidae	Isobrachium		no														
+																							Tiphiidae	Tiphia	Tiphia inornata	no														
+																							Tiphiidae	Tiphia		yes														
+																							Vespidae	Odynerus		no														
+																							Vespidae	Dolichovespula	Dolichovespula arenaria	no														
+																							Crabronidae	Ectemnius	Ectemnius continuus	no														
+																							Crabronidae	Crabro		yes														
+																							Crabronidae	Aphilanthops	Aphilanthops frigidus	no														
+																							Crabronidae	Diodontus		no														
+																							Halictidae	Halictus	Halictus rubicundus	no														
+																							Halictidae	Halictus		yes														
+																							Halictidae	Augochlora	Augochlora pura	no														
+																							Halictidae	Augochlora		yes														
+																							Halictidae	Lasioglossum	Lasioglossum pectorale	no														
+																							Halictidae	Lasioglossum	Lasioglossum coeruleum	no														
+																							Halictidae	Lasioglossum	Lasioglossum pilosum	no														
+																							Andrenidae	Andrena	Andrena bisalicis	no														
+																							Andrenidae	Andrena	Andrena miserabilis	no														
+																							Andrenidae	Andrena		yes														
+																							Apidae	Apis	Apis mellifera	no														
