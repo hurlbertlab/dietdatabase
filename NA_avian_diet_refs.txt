@@ -6962,7 +6962,7 @@ Blue Grouse	Phasianidae	1-Nov-05	Food Selection		"Remington, T. E. 1990. Food se
 Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Pekins, P. J. 1988. Winter ecological energetics of Blue Grouse. Ph.D. thesis. Utah State Univ., Logan."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Remington, T. E. 1989. Why do grouse have ceca? A test of the fiber digestion theory. J. Exper. Zool. Suppl. 3:87-94."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Drinking And Defecation	Drinking	"Bendell, J. F. and P. W. Elliott. 1966. Habitat selection in Blue Grouse. Condor 68:431-446."	y	n		
-Blue Grouse	Phasianidae	8-Jun-05	Diet	Major Food Items	"Crawford, John A. “FALL DIET OF BLUE GROUSE IN OREGON.” The Great Basin Naturalist, vol. 46, no. 1, 31 Jan. 1986, pp. 123–127. JSTOR, JSTOR"	y	y	data needs to be entered	
+Blue Grouse	Phasianidae	8-Jun-05	Diet	Major Food Items	"Crawford, John A. “FALL DIET OF BLUE GROUSE IN OREGON.” The Great Basin Naturalist, vol. 46, no. 1, 31 Jan. 1986, pp. 123–127. JSTOR, JSTOR"	y	y	"usable data entered into Avian Diet Database but was unable to download PDF for ""Papers with data"" folder"	
 Chukar	Phasianidae	1996	Diet		"La Rivers, I. 1967. A new species of Margarodes from Nevada (Margarodes chukar). Biol. Soc. Nev. Occas. Pap. no. 14."				
 Chukar	Phasianidae	1996	Diet		"Galbreath, D. S. and R. Moreland. 1953. The Chukar Partridge in Washington. Wash. State Game Dept. Biol. Bull. no. 11."				
 Chukar	Phasianidae	1996	Diet		"Sandfort, W. W. 1954. Evaluation of Chukar Partridge range in Colorado. Proc. 34th Conf. West. Assoc. State Game and Fish Comm."				
