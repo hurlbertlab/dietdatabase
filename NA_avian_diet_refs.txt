@@ -4299,19 +4299,19 @@ Peregrine Falcon	Falconidae	2002	Diet	Quantitative Analysis	"Cade, T. J. 1951. F
 Peregrine Falcon	Falconidae	2002	Diet	Quantitative Analysis	"Hunter, R. E., J. A. Crawford, and R. E. Ambrose. 1988. Prey selection by Peregrine Falcons during the nestling stage. J. Wildl. Manage. 52:730-736."	y	y		
 Peregrine Falcon	Falconidae	2002	Diet	Main Foods Taken	"Holland, D. C. 1989. An instance of carrion-feeding by the Peregrine Falcon (Falco peregrinus). J. Raptor Res. 23:184."	n			
 Peregrine Falcon	Falconidae	2002	Diet	Main Foods Taken	"Hunt, W. G., D. E. Driscoll, E. W. Bianchi, and R. E. Jackman. 1992. Ecology of Bald Eagles in Arizona. Report to U.S. Bureau Reclaim, Contract 6-CS0-30-04470. BioSystems Analysis Inc. Santa Cruz, CA."	y	n		
-Peregrine Falcon	Falconidae	2002	Diet	Main Foods Taken	"Cade, T. J., C. M. White, and J. R. Haugh. 1968. Peregrines and pesticides in Alaska. Condor 70:170-178."				
-Peregrine Falcon	Falconidae	2002	Nutrition And Energetics		"Barton, N. W. H. and D. C. Houston. 1993. A comparison of digestive efficiency in birds of prey. Ibis 135:363-371."				
-Peregrine Falcon	Falconidae	2002	Nutrition And Energetics		"Dierenfeld, E. S., C. E. Sandfort, and W. C. Satterfield. 1989. Influence of diet on plasma vitamin E in captive Peregrine Falcons. J. Wildl. Manage. 531:60-164."				
-Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Goslow, Jr., G. E. 1971. The attack and strike of some North American raptors. Auk 88:815-827."				
-Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Hagen, Y. 1952. Roufuglene og Viltplelien. Gyldendal Norsk Forlag, Oslo, Norway."				
-Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Bird, D. M. and Y. Aubry. 1982. Reproductive and hunting behavior in Peregrine Falcons Falco peregrinus, in southern Quebec. Can. Field-Nat. 96:167-171."				
-Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"White, C. M. and R. W. Nelson. 1991. Hunting ranges and strategies in a tundra breeding Peregrine and Gyrfalcon observed from a helicopter. J. Raptor Res. 25:49-62."				
-Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Enderson, J. H. and G. R. Craig. 1997. Wide ranging by nesting Peregrine Falcons (Falco peregrinus) determined by radiotelemetry. J. Raptor Res. 31:333-338."				
-Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Treleaven, R. B. 1980. High and low intensity hunting in raptors. Z. Tierpsychol. 54:339-345."				
-Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Buchanan, J. B. 1996. A comparison of behavior and success rates of Merlins and Peregrine Falcons when hunting Dunlins in two coastal habitats. J. Raptor Res. 30:93-98."				
-Peregrine Falcon	Falconidae	2002	Diet	Main Foods Taken	"Stabins, H. C. 1995. Peregrine Falcon predation on an Aleutian Canada Goose. J. Raptor Res. 29:36."				
-Peregrine Falcon	Falconidae	2002	Diet	Main Foods Taken	"Brown, B. T. 1991. Abundance, distribution, and ecology of nesting Peregrine Falcons in Grand Canyon National Park, Arizona. contract no. CX8210-7-0009. Unpubl. Fin. Rep. from SWCA, Inc. Environ. Consultants to Grand Canyon National Park."				
-Peregrine Falcon	Falconidae	2002	Diet	Quantitative Analysis	"Henderson, J. 1927. The practical value of birds. Macmillan Co. New York."				
+Peregrine Falcon	Falconidae	2002	Diet	Main Foods Taken	"Cade, T. J., C. M. White, and J. R. Haugh. 1968. Peregrines and pesticides in Alaska. Condor 70:170-178."	y	y		
+Peregrine Falcon	Falconidae	2002	Nutrition And Energetics		"Barton, N. W. H. and D. C. Houston. 1993. A comparison of digestive efficiency in birds of prey. Ibis 135:363-371."	y	n		
+Peregrine Falcon	Falconidae	2002	Nutrition And Energetics		"Dierenfeld, E. S., C. E. Sandfort, and W. C. Satterfield. 1989. Influence of diet on plasma vitamin E in captive Peregrine Falcons. J. Wildl. Manage. 531:60-164."	y	n		
+Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Goslow, Jr., G. E. 1971. The attack and strike of some North American raptors. Auk 88:815-827."	y	n		
+Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Hagen, Y. 1952. Roufuglene og Viltplelien. Gyldendal Norsk Forlag, Oslo, Norway."	n		The dataset is in Norway and we have enough datasets in NA	
+Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Bird, D. M. and Y. Aubry. 1982. Reproductive and hunting behavior in Peregrine Falcons Falco peregrinus, in southern Quebec. Can. Field-Nat. 96:167-171."	n			
+Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"White, C. M. and R. W. Nelson. 1991. Hunting ranges and strategies in a tundra breeding Peregrine and Gyrfalcon observed from a helicopter. J. Raptor Res. 25:49-62."	y	n		
+Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Enderson, J. H. and G. R. Craig. 1997. Wide ranging by nesting Peregrine Falcons (Falco peregrinus) determined by radiotelemetry. J. Raptor Res. 31:333-338."	y	n		
+Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Treleaven, R. B. 1980. High and low intensity hunting in raptors. Z. Tierpsychol. 54:339-345."	y	n		
+Peregrine Falcon	Falconidae	2002	Feeding	Food Capture And Consumption	"Buchanan, J. B. 1996. A comparison of behavior and success rates of Merlins and Peregrine Falcons when hunting Dunlins in two coastal habitats. J. Raptor Res. 30:93-98."	y	n		
+Peregrine Falcon	Falconidae	2002	Diet	Main Foods Taken	"Stabins, H. C. 1995. Peregrine Falcon predation on an Aleutian Canada Goose. J. Raptor Res. 29:36."	y	n		
+Peregrine Falcon	Falconidae	2002	Diet	Main Foods Taken	"Brown, B. T. 1991. Abundance, distribution, and ecology of nesting Peregrine Falcons in Grand Canyon National Park, Arizona. contract no. CX8210-7-0009. Unpubl. Fin. Rep. from SWCA, Inc. Environ. Consultants to Grand Canyon National Park."	y	n	Data has prey encounters but not prey diet	
+Peregrine Falcon	Falconidae	2002	Diet	Quantitative Analysis	"Henderson, J. 1927. The practical value of birds. Macmillan Co. New York."	n			
 Peregrine Falcon	Falconidae	2002	Diet	Quantitative Analysis	"Snyder, N. F. R. and J. W. Wiley. 1976. Sexual size dimorphism in hawks and owls of North America. Ornithol. Monogr. no. 20."				
 Peregrine Falcon	Falconidae	2002	Metabolism And Temperature Regulation		"Mosher, J. A. and C. M. White. 1978. Falcon temperature regulation. Auk 95:80-84."				
 Peregrine Falcon	Falconidae	2002	"Drinking, Pellet-Casting, And Defecation"		"Albuquerque, J. L. B. 1982. Observations on the use of rangle by the Peregrine Falcon (Falco peregrinus tundrius) wintering in southern Brazil. Raptor Res. 16:91-9."				
@@ -6945,7 +6945,7 @@ Blue Grouse	Phasianidae	1-Nov-05	Feeding	Microhabitat For Foraging	"Mussehl, T. 
 Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Zwickel, F. C. and J. F. Bendell. 1986. Variations in the winter diet of Blue Grouse. J. World Pheas. Assoc. Jour. XI 1985-86:44-52."	n		unavailable	
 Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"King, D. G. 1971. The ecology and population dynamics of Blue Grouse in the sub-alpine. Master's Thesis. Univ. British Columbia, Vancouver."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Feeding	Microhabitat For Foraging	"Wing, L. 1947. Seasonal movements of the Blue Grouse. No. Amer. Wildl. Conf., Trans. 12:504-509."	n		unavailable	
-Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Juveniles	"Stiven, A. E. 1961. Food energy available for and required by the Blue Grouse chick. Ecology 42:547-553."	y	y		
+Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Juveniles	"Stiven, A. E. 1961. Food energy available for and required by the Blue Grouse chick. Ecology 42:547-553."	y	y	data needs to be entered	
 Blue Grouse	Phasianidae	1-Nov-05	Drinking And Defecation	Defecation	"Zwickel, F. C. 1967b. Early behavior in young Blue Grouse. Murrelet 48:2-7."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Boag, D. A. and J. W. Kiceniuk. 1968. Protein and caloric content of lodgepole pine needles. Forestry Chron. 44:3-4."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Hoffmann, R. S. 1956. Observations on a Sooty Grouse population at Sage Hen Creek, California. Condor 58:321-333."	y	n		
@@ -6962,19 +6962,19 @@ Blue Grouse	Phasianidae	1-Nov-05	Food Selection		"Remington, T. E. 1990. Food se
 Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Pekins, P. J. 1988. Winter ecological energetics of Blue Grouse. Ph.D. thesis. Utah State Univ., Logan."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Nutrition And Energetics	Adults	"Remington, T. E. 1989. Why do grouse have ceca? A test of the fiber digestion theory. J. Exper. Zool. Suppl. 3:87-94."	y	n		
 Blue Grouse	Phasianidae	1-Nov-05	Drinking And Defecation	Drinking	"Bendell, J. F. and P. W. Elliott. 1966. Habitat selection in Blue Grouse. Condor 68:431-446."	y	n		
-Blue Grouse	Phasianidae	8-Jun-05	Diet	Major Food Items	"Crawford, John A. “FALL DIET OF BLUE GROUSE IN OREGON.” The Great Basin Naturalist, vol. 46, no. 1, 31 Jan. 1986, pp. 123–127. JSTOR, JSTOR"	y	y	"usable data entered into Avian Diet Database but was unable to download PDF for ""Papers with data"" folder"	
-Chukar	Phasianidae	1996	Diet		"La Rivers, I. 1967. A new species of Margarodes from Nevada (Margarodes chukar). Biol. Soc. Nev. Occas. Pap. no. 14."	n		unavailable	
-Chukar	Phasianidae	1996	Diet		"Galbreath, D. S. and R. Moreland. 1953. The Chukar Partridge in Washington. Wash. State Game Dept. Biol. Bull. no. 11."	n		unavailable	
-Chukar	Phasianidae	1996	Diet		"Sandfort, W. W. 1954. Evaluation of Chukar Partridge range in Colorado. Proc. 34th Conf. West. Assoc. State Game and Fish Comm."	n		unavailable	
-Chukar	Phasianidae	1996	Diet		"Weaver, H. and W. L. Haskell. 1967. Some fall foods of Nevada Chukar Partridge. J. Wildl. Manage. 31:582-584."	y	y	data needs to be entered	
-Chukar	Phasianidae	1996	Diet		"Harper, H. T., B. H. Harry, and W. D. Bailey. 1958. The Chukar Partridge in California. Calif. Fish and Game 44:5-50."	n		unavailable	
-Chukar	Phasianidae	1996	Diet		"Zembal, R. L. 1977. The feeding habits of the Chukar Partridge, Alectoris chukar, in the Argus and Coso mountains of California. Master's Thesis. California State Univ. Long Beach."	n		unavailable	
-Chukar	Phasianidae	1996	Diet		"Christensen, G. C. 1952a. An ecological study of the Chukar Partridge in western Nevada. Master's Thesis. Univ. of Nevada, Reno."	n		unavailable	
-Chukar	Phasianidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Christensen, G. C. 1970. The Chukar Partridge. Its introductions, life history and management. Nev. Fish and Game Dept. Biol. Bull. no. 4."	y	y	data needs to be entered	
-Chukar	Phasianidae	1996	Diet		"Oakleaf, R. J. and J. H. Robertson. 1971. Fall food items utilized by Chukars in Kashmir, India. J. Wildl. Manage. 35:395-397."	y	y	data needs to be entered	
-Chukar	Phasianidae	1996	Diet		"Alcorn, J. R. and F. Richardson. 1951. The Chukar Partridge in Nevada. J. Wildl. Manage. 15:265-275."	y	y	data needs to be entered	
-Chukar	Phasianidae	1996	Nutrition And Energetics		"Kam, M., A. A. Degen, and K. A. Nagy. 1987. Seasonal energy, water, and food consumption of Negev Chukars and Sand partridges. Ecology 68:1029-1037."	y	n		
-Chukar	Phasianidae	1996	Diet		"Cole, F. R., L. L. Loope, A. C. Medeiros, J. A. Rakes, and C. S. Wood. 1995. Conservation implications of introduced game birds in high-elevational Hawaiian shrubland. Conserv. Biol. 9:306-313."	y	y	data needs to be entered	
+Blue Grouse	Phasianidae	8-Jun-05	Diet	Major Food Items	"Crawford, John A. “FALL DIET OF BLUE GROUSE IN OREGON.” The Great Basin Naturalist, vol. 46, no. 1, 31 Jan. 1986, pp. 123–127. JSTOR, JSTOR"	y	y	data needs to be entered	
+Chukar	Phasianidae	1996	Diet		"La Rivers, I. 1967. A new species of Margarodes from Nevada (Margarodes chukar). Biol. Soc. Nev. Occas. Pap. no. 14."				
+Chukar	Phasianidae	1996	Diet		"Galbreath, D. S. and R. Moreland. 1953. The Chukar Partridge in Washington. Wash. State Game Dept. Biol. Bull. no. 11."				
+Chukar	Phasianidae	1996	Diet		"Sandfort, W. W. 1954. Evaluation of Chukar Partridge range in Colorado. Proc. 34th Conf. West. Assoc. State Game and Fish Comm."				
+Chukar	Phasianidae	1996	Diet		"Weaver, H. and W. L. Haskell. 1967. Some fall foods of Nevada Chukar Partridge. J. Wildl. Manage. 31:582-584."				
+Chukar	Phasianidae	1996	Diet		"Harper, H. T., B. H. Harry, and W. D. Bailey. 1958. The Chukar Partridge in California. Calif. Fish and Game 44:5-50."				
+Chukar	Phasianidae	1996	Diet		"Zembal, R. L. 1977. The feeding habits of the Chukar Partridge, Alectoris chukar, in the Argus and Coso mountains of California. Master's Thesis. California State Univ. Long Beach."				
+Chukar	Phasianidae	1996	Diet		"Christensen, G. C. 1952a. An ecological study of the Chukar Partridge in western Nevada. Master's Thesis. Univ. of Nevada, Reno."				
+Chukar	Phasianidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Christensen, G. C. 1970. The Chukar Partridge. Its introductions, life history and management. Nev. Fish and Game Dept. Biol. Bull. no. 4."				
+Chukar	Phasianidae	1996	Diet		"Oakleaf, R. J. and J. H. Robertson. 1971. Fall food items utilized by Chukars in Kashmir, India. J. Wildl. Manage. 35:395-397."				
+Chukar	Phasianidae	1996	Diet		"Alcorn, J. R. and F. Richardson. 1951. The Chukar Partridge in Nevada. J. Wildl. Manage. 15:265-275."				
+Chukar	Phasianidae	1996	Nutrition And Energetics		"Kam, M., A. A. Degen, and K. A. Nagy. 1987. Seasonal energy, water, and food consumption of Negev Chukars and Sand partridges. Ecology 68:1029-1037."				
+Chukar	Phasianidae	1996	Diet		"Cole, F. R., L. L. Loope, A. C. Medeiros, J. A. Rakes, and C. S. Wood. 1995. Conservation implications of introduced game birds in high-elevational Hawaiian shrubland. Conserv. Biol. 9:306-313."				
 Common Peafowl	Phasianidae	1998	Diet	Major Food Items	"Fisher, H. 1951. The avifauna of Niihau Island, Hawaiian archipelago. Condor 53:31-42."				
 Common Peafowl	Phasianidae	1998	Diet	Major Food Items	"Johnsingh, A. J. T. and S. Murali. 1978. The ecology and behaviour of the Indian Peafowl (Pavo cristatus ) Linn. of Injar. J. Bombay Nat. Hist. Soc. 75(suppl.):1069-1079."				
 Common Peafowl	Phasianidae	1998	Feeding	Main Foods Taken	"Ali, S. and S. D. Ripley. 1969. Handbook of the birds of India and Pakistan. Vol. 2. Oxford Univ. Press, Bombay."				
