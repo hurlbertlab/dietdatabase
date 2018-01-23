@@ -239,100 +239,193 @@ Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	N
 																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Phyllobaenus	Phyllobaenus unifasciata	no			NA	NA	NA	1								
 																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Phyllobaenus	Phyllobaenus verticalis	no			NA	NA	NA	1								
 																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Phyllobaenus	Phyllobaenus dislocatus	no			NA	NA	NA	1								
-																							Lucanidae	Platycerus	Platycerus quercus	no			NA	NA	NA	1								
-																							Scarabaeidae			yes			NA	NA	NA	21								
-																							Scarabaeidae	Ataenius	Ataenius cognatus	no			NA	NA	NA	1								
-																							Scarabaeidae	Aphodius	Aphodius fimetarius	no			NA	NA	NA	1								
-																							Scarabaeidae	Aphodius	Aphodius granarius	no			NA	NA	NA	1								
-																							Scarabaeidae	Hoplia	Hoplia trifasciata	no			NA	NA	NA	4								
-																							Scarabaeidae	Hoplia		yes			NA	NA	NA	1								
-																							Scarabaeidae	Dichelonyx	Dichelonyx elongata	no			NA	NA	NA	10								
-																							Scarabaeidae	Dichelonyx	Dichelonyx fuscula	no			NA	NA	NA	1								
-																							Scarabaeidae	Dichelonyx		yes			NA	NA	NA	25								
-																							Scarabaeidae	Serica		yes			NA	NA	NA	1								
-																							Scarabaeidae	Anomala	Anomala binotata	no			NA	NA	NA	2								
-																							Scarabaeidae	Anomala	Anomala lucicola	no			NA	NA	NA	2								
-																							Scarabaeidae	Anomala		yes			NA	NA	NA	8								
-																							Scarabaeidae	Gnorimella	Gnorimella maculosa	no			NA	NA	NA	1								
-																							Cerambycidae			yes			NA	NA	NA	22								
-																							Cerambycidae	Phymatodes	Phymatodes amoenus	no			NA	NA	NA	1								
-																							Cerambycidae	Physocnemum	Physocnemum brevilineum	no			NA	NA	NA	1								
-																							Cerambycidae	Elaphidion		yes			NA	NA	NA	1								
-																							Cerambycidae	Xylotrechus		yes			NA	NA	NA	1								
-																							Cerambycidae	Neoclytus		yes			NA	NA	NA	1								
-																							Cerambycidae	Clytus	Clytus ruricola	no			NA	NA	NA	1								
-																							Cerambycidae	Cyrtophorus	Cyrtophorus verrucosus	no			NA	NA	NA	1								
-																							Cerambycidae	Euderces	Euderces pini	no			NA	NA	NA	1								
-																							Cerambycidae	Leptorhabdium	Leptorhabdium pictum	no			NA	NA	NA	1								
-																							Cerambycidae	Gaurotes	Gaurotes cyanipennis	no			NA	NA	NA	1								
-																							Cerambycidae	Strophiona	Strophiona nitens	no			NA	NA	NA	2								
-																							Cerambycidae	Pidonia	Pidonia scripta	no			NA	NA	NA	1								
-																							Cerambycidae	Pidonia	Pidonia ruficollis	no			NA	NA	NA	1								
-																							Cerambycidae	Pidonia	Pidonia vagans	no			NA	NA	NA	1								
-																							Cerambycidae	Strangalepta	Strangalepta abbreviata	no			NA	NA	NA	1								
-																							Cerambycidae	Leptostylus	Leptostylus transversus	no			NA	NA	NA	1								
-																							Cerambycidae	Leiopus		yes			NA	NA	NA	1								
-																							Cerambycidae	Hyperplatys	Hyperplatys maculata	no			NA	NA	NA	4								
-																							Cerambycidae	Ecyrus	Ecyrus dasycerus	no			NA	NA	NA	1								
-																							Cerambycidae	Saperda	Saperda lateralis	no			NA	NA	NA	1								
-																							Cerambycidae	Saperda	Saperda tridentata	no			NA	NA	NA	2								
-																							Cerambycidae	Saperda		yes			NA	NA	NA	2								
-																							Cerambycidae	Mecas	Mecas confusa	no			NA	NA	NA	1								
-																							Chrysomelidae			yes			adult	NA	NA	30								
-																							Chrysomelidae	Donacia		yes			NA	NA	NA	1								
-																							Orsodacnidae	Orsodacne	Orsodacne atra	no			NA	NA	NA	3								
-																							Chrysomelidae	Syneta	Syneta ferruginea	no			NA	NA	NA	22								
-																							Chrysomelidae	Saxinis	Saxinis omogera	no			NA	NA	NA	2								
-																							Chrysomelidae	Cryptocephalus	Cryptocephalus guttulatus	no			NA	NA	NA	1								
-																							Chrysomelidae	Cryptocephalus	Cryptocephalus mutabilis	no			NA	NA	NA	1								
-																							Chrysomelidae	Cryptocephalus	Cryptocephalus notatus	no			NA	NA	NA	1								
-																							Chrysomelidae	Cryptocephalus		yes			NA	NA	NA	1								
-																							Chrysomelidae	Pachybrachis	Pachybrachis abdominalis	no			NA	NA	NA	1								
-																							Chrysomelidae	Pachybrachis		yes			NA	NA	NA	3								
-																							Chrysomelidae	Myochrous	Myochrous denticollis	no			NA	NA	NA	1								
-																							Chrysomelidae	Glyptoscelis	Glyptoscelis pubescens	no			NA	NA	NA	2								
-																							Chrysomelidae	Glyptoscelis		yes			NA	NA	NA	3								
-																							Chrysomelidae	Typophorus	Typophorus canellus	no			NA	NA	NA	10								
-																							Chrysomelidae	Tymnes		yes			NA	NA	NA	2								
-																							Chrysomelidae	Xanthonia	Xanthonia decemnotata	no			NA	NA	NA	8								
-																							Chrysomelidae	Colaspis	Colaspis brunnea	no			NA	NA	NA	1								
-																							Chrysomelidae	Colaspis		yes			NA	NA	NA	1								
-																							Chrysomelidae	Brachypnoea	Brachypnoea puncticollis	no			NA	NA	NA	4								
-																							Chrysomelidae	Brachypnoea	Brachypnoea tristis	no			NA	NA	NA	4								
-																							Chrysomelidae	Chrysodina	Chrysodina globosa	no			NA	NA	NA	1								
-																							Chrysomelidae	Lina	Lina lapponica	no			NA	NA	NA	1								
-																							Chrysomelidae	Lina	Lina scripta	no			NA	NA	NA	1								
-																							Chrysomelidae	Cerotoma	Cerotoma trifurcata	no			NA	NA	NA	1								
-																							Chrysomelidae	Diabrotica	Diabrotica duodecimpunctata	no			NA	NA	NA	8								
-																							Chrysomelidae	Diabrotica	Diabrotica vittata	no			NA	NA	NA	6								
-																							Chrysomelidae	Diabrotica		yes			NA	NA	NA	1								
-																							Chrysomelidae	Disonycha	Disonycha triangularis	no			NA	NA	NA	1								
-																							Chrysomelidae	Phyllotreta		yes			NA	NA	NA	1								
-																							Chrysomelidae	Altica	Altica chalybea	no			NA	NA	NA	2								
-																							Chrysomelidae	Altica	Altica ignita	no			NA	NA	NA	1								
-																							Chrysomelidae	Altica		yes			NA	NA	NA	6								
-																							Chrysomelidae	Crepidodera	Crepidodera helxines	no			NA	NA	NA	6								
-																							Chrysomelidae	Dibolia	Dibolia borealis	no			NA	NA	NA	1								
-																							Chrysomelidae	Odontota	Odontota dorsalis	no			NA	NA	NA	3								
-																							Chrysomelidae	Baliosus	Baliosus nervosus	no			NA	NA	NA	3								
-																							Chrysomelidae	Stenispa	Stenispa metallica	no			NA	NA	NA	1								
-																							Curculionidae	Amblycerus	Amblycerus hoffmanseggi	no			NA	NA	NA	1								
-																							Chrysomelidae	Algarobius	Algarobius bottimeri	no			NA	NA	NA	1								
-																							Tenebrionidae	Hypophloeus		no			NA	NA	NA	1								
-																							Tenebrionidae	Helops	Helops micans	no			NA	NA	NA	2								
-																							Tenebrionidae	Isomira	Isomira sericea	no			NA	NA	NA	3								
-																							Tenebrionidae	Isomira		yes			NA	NA	NA	2								
-																							Melandryidae			yes			NA	NA	NA	2								
-																							Synchroidae	Synchroa	Synchroa punctata	no			NA	NA	NA	1								
-																							Tetratomidae	Eustrophus		yes			NA	NA	NA	1								
-																							Mycteridae	Mycterus	Mycterus scaber	no			NA	NA	NA	1								
-																							Stenotrachelidae	Cephaloon	Cephaloon lepturides	no			NA	NA	NA	1								
-																							Mordellidae	Hoshihananomia	Hoshihananomia octopunctata	no			NA	NA	NA	1								
-																							Mordellidae	Mordella		yes			NA	NA	NA	2								
-																							Anthicidae	Stereopalpus		yes			NA	NA	NA	1								
-																						Polyphaga				yes			NA	NA	NA	75								
-																							Anthribidae	Ischnocerus		no			NA	NA	NA	1								
-																							Curculionidae			yes			NA	NA	NA	17								
-																							Attelabidae	Rhinomacer		no			NA	NA	NA	1								
-																							Rhynchitidae	Eugnamptus	Eugnamptus collaris	no			NA	NA	NA	2								
-																							Rhynchitidae	Eugnamptus		yes			NA	NA	NA	1								
+																					Coleoptera		Lucanidae	Platycerus	Platycerus quercus	no			NA	NA	NA	1								
+																					Coleoptera		Scarabaeidae			yes			NA	NA	NA	21								
+																					Coleoptera		Scarabaeidae	Ataenius	Ataenius cognatus	no			NA	NA	NA	1								
+																					Coleoptera		Scarabaeidae	Aphodius	Aphodius fimetarius	no			NA	NA	NA	1								
+																					Coleoptera		Scarabaeidae	Aphodius	Aphodius granarius	no			NA	NA	NA	1								
+																					Coleoptera		Scarabaeidae	Hoplia	Hoplia trifasciata	no			NA	NA	NA	4								
+																					Coleoptera		Scarabaeidae	Hoplia		yes			NA	NA	NA	1								
+																					Coleoptera		Scarabaeidae	Dichelonyx	Dichelonyx elongata	no			NA	NA	NA	10								
+																					Coleoptera		Scarabaeidae	Dichelonyx	Dichelonyx fuscula	no			NA	NA	NA	1								
+																					Coleoptera		Scarabaeidae	Dichelonyx		yes			NA	NA	NA	25								
+																					Coleoptera		Scarabaeidae	Serica		yes			NA	NA	NA	1								
+																					Coleoptera		Scarabaeidae	Anomala	Anomala binotata	no			NA	NA	NA	2								
+																					Coleoptera		Scarabaeidae	Anomala	Anomala lucicola	no			NA	NA	NA	2								
+																					Coleoptera		Scarabaeidae	Anomala		yes			NA	NA	NA	8								
+																					Coleoptera		Scarabaeidae	Gnorimella	Gnorimella maculosa	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae			yes			NA	NA	NA	22								
+																					Coleoptera		Cerambycidae	Phymatodes	Phymatodes amoenus	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Physocnemum	Physocnemum brevilineum	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Elaphidion		yes			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Xylotrechus		yes			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Neoclytus		yes			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Clytus	Clytus ruricola	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Cyrtophorus	Cyrtophorus verrucosus	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Euderces	Euderces pini	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Leptorhabdium	Leptorhabdium pictum	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Gaurotes	Gaurotes cyanipennis	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Strophiona	Strophiona nitens	no			NA	NA	NA	2								
+																					Coleoptera		Cerambycidae	Pidonia	Pidonia scripta	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Pidonia	Pidonia ruficollis	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Pidonia	Pidonia vagans	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Strangalepta	Strangalepta abbreviata	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Leptostylus	Leptostylus transversus	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Leiopus		yes			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Hyperplatys	Hyperplatys maculata	no			NA	NA	NA	4								
+																					Coleoptera		Cerambycidae	Ecyrus	Ecyrus dasycerus	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Saperda	Saperda lateralis	no			NA	NA	NA	1								
+																					Coleoptera		Cerambycidae	Saperda	Saperda tridentata	no			NA	NA	NA	2								
+																					Coleoptera		Cerambycidae	Saperda		yes			NA	NA	NA	2								
+																					Coleoptera		Cerambycidae	Mecas	Mecas confusa	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae			yes			adult	NA	NA	30								
+																					Coleoptera		Chrysomelidae	Donacia		yes			NA	NA	NA	1								
+																					Coleoptera		Orsodacnidae	Orsodacne	Orsodacne atra	no			NA	NA	NA	3								
+																					Coleoptera		Chrysomelidae	Syneta	Syneta ferruginea	no			NA	NA	NA	22								
+																					Coleoptera		Chrysomelidae	Saxinis	Saxinis omogera	no			NA	NA	NA	2								
+																					Coleoptera		Chrysomelidae	Cryptocephalus	Cryptocephalus guttulatus	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Cryptocephalus	Cryptocephalus mutabilis	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Cryptocephalus	Cryptocephalus notatus	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Cryptocephalus		yes			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Pachybrachis	Pachybrachis abdominalis	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Pachybrachis		yes			NA	NA	NA	3								
+																					Coleoptera		Chrysomelidae	Myochrous	Myochrous denticollis	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Glyptoscelis	Glyptoscelis pubescens	no			NA	NA	NA	2								
+																					Coleoptera		Chrysomelidae	Glyptoscelis		yes			NA	NA	NA	3								
+																					Coleoptera		Chrysomelidae	Typophorus	Typophorus canellus	no			NA	NA	NA	10								
+																					Coleoptera		Chrysomelidae	Tymnes		yes			NA	NA	NA	2								
+																					Coleoptera		Chrysomelidae	Xanthonia	Xanthonia decemnotata	no			NA	NA	NA	8								
+																					Coleoptera		Chrysomelidae	Colaspis	Colaspis brunnea	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Colaspis		yes			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Brachypnoea	Brachypnoea puncticollis	no			NA	NA	NA	4								
+																					Coleoptera		Chrysomelidae	Brachypnoea	Brachypnoea tristis	no			NA	NA	NA	4								
+																					Coleoptera		Chrysomelidae	Chrysodina	Chrysodina globosa	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Lina	Lina lapponica	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Lina	Lina scripta	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Cerotoma	Cerotoma trifurcata	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Diabrotica	Diabrotica duodecimpunctata	no			NA	NA	NA	8								
+																					Coleoptera		Chrysomelidae	Diabrotica	Diabrotica vittata	no			NA	NA	NA	6								
+																					Coleoptera		Chrysomelidae	Diabrotica		yes			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Disonycha	Disonycha triangularis	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Phyllotreta		yes			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Altica	Altica chalybea	no			NA	NA	NA	2								
+																					Coleoptera		Chrysomelidae	Altica	Altica ignita	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Altica		yes			NA	NA	NA	6								
+																					Coleoptera		Chrysomelidae	Crepidodera	Crepidodera helxines	no			NA	NA	NA	6								
+																					Coleoptera		Chrysomelidae	Dibolia	Dibolia borealis	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Odontota	Odontota dorsalis	no			NA	NA	NA	3								
+																					Coleoptera		Chrysomelidae	Baliosus	Baliosus nervosus	no			NA	NA	NA	3								
+																					Coleoptera		Chrysomelidae	Stenispa	Stenispa metallica	no			NA	NA	NA	1								
+																					Coleoptera		Curculionidae	Amblycerus	Amblycerus hoffmanseggi	no			NA	NA	NA	1								
+																					Coleoptera		Chrysomelidae	Algarobius	Algarobius bottimeri	no			NA	NA	NA	1								
+																					Coleoptera		Tenebrionidae	Hypophloeus		no			NA	NA	NA	1								
+																					Coleoptera		Tenebrionidae	Helops	Helops micans	no			NA	NA	NA	2								
+																					Coleoptera		Tenebrionidae	Isomira	Isomira sericea	no			NA	NA	NA	3								
+																					Coleoptera		Tenebrionidae	Isomira		yes			NA	NA	NA	2								
+																					Coleoptera		Melandryidae			yes			NA	NA	NA	2								
+																					Coleoptera		Synchroidae	Synchroa	Synchroa punctata	no			NA	NA	NA	1								
+																					Coleoptera		Tetratomidae	Eustrophus		yes			NA	NA	NA	1								
+																					Coleoptera		Mycteridae	Mycterus	Mycterus scaber	no			NA	NA	NA	1								
+																					Coleoptera		Stenotrachelidae	Cephaloon	Cephaloon lepturides	no			NA	NA	NA	1								
+																					Coleoptera		Mordellidae	Hoshihananomia	Hoshihananomia octopunctata	no			NA	NA	NA	1								
+																					Coleoptera		Mordellidae	Mordella		yes			NA	NA	NA	2								
+																					Coleoptera		Anthicidae	Stereopalpus		yes			NA	NA	NA	1								
+																					Coleoptera	Polyphaga				yes			NA	NA	NA	75								
+																					Coleoptera		Anthribidae	Ischnocerus		no			NA	NA	NA	1								
+																					Coleoptera		Curculionidae			yes			NA	NA	NA	17								
+																					Coleoptera		Attelabidae	Rhinomacer		no			NA	NA	NA	1								
+																					Coleoptera		Rhynchitidae	Eugnamptus	Eugnamptus collaris	no			NA	NA	NA	2								
+																					Coleoptera		Rhynchitidae	Eugnamptus		yes			NA	NA	NA	1								
+																					Coleoptera		Brentidae	Ithycerus	Ithycerus noveboracensis	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Phyxelis	Phyxelis rigidus	no			NA	NA	NA									
+																					Coleoptera		Curculionidae			no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Geoderces		no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Tanymecus	Tanymecus confertus	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Pandeleteius	Pandeleteius hilaris	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Aphrastus	Aphrastus taeniatus	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Polydrusus		no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Sitona	Sitona hispidulus	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Donus	Donus zoilus	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Hypera	Hypera nigrirostris	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Dorytomus		no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Magdalis	Magdalis armicollis	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Balaninus	Balaninus caryatrypes	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Balaninus		yes			NA	NA	NA									
+																					Coleoptera		Curculionidae	Prionomerus	Prionomerus calceatus	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Gelus		no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Cylindrocopturus	Cylindrocopturus quercus	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Conotrachelus	Conotrachelus albicinctus	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Conotrachelus	Conotrachelus elegans	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Conotrachelus	Conotrachelus nenuphar	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Rhyncolus	Rhyncolus oregonensis	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Scolytus	Scolytus quadrispinosus	no			NA	NA	NA									
+																					Coleoptera		Curculionidae	Ips	Ips pini	no			NA	NA	NA									
+																					Megaloptera		Corydalidae	Chauliodes	Chauliodes pectinicornis	no			NA	NA	NA									
+																					Raphidioptera		Raphidiidae	Raphidia		no			NA	NA	NA									
+																					Neuroptera					yes			adult	NA	NA									
+																					Neuroptera					yes			egg	NA	NA									
+																					Neuroptera		Chrysopidae	Chrysopa		no			NA	NA	NA									
+																					Diptera					yes			adult	NA	NA									
+																					Diptera					yes			pupa	NA	NA									
+																					Diptera		Tipulidae			yes			adult	NA	NA									
+																					Diptera		Tipulidae			yes			egg	NA	NA									
+																					Diptera		Chironomidae			no			NA	NA	NA									
+																					Diptera		Bibionidae	Bibio		no			NA	NA	NA									
+																					Diptera		Stratiomyidae	Odontomyia		no			NA	NA	NA									
+																					Diptera		Asilidae			yes			NA	NA	NA									
+																					Diptera		Syrphidae			no			NA	NA	NA									
+																					Diptera		Muscidae			no			NA	NA	NA									
+																					Diptera		Tachinidae			no			NA	NA	NA									
+																					Hymenoptera					yes			adult	NA	NA									
+																					Hymenoptera		Tenthredinidae			yes			adult	NA	NA									
+																					Hymenoptera		Tenthredinidae	Dolerus		no			NA	NA	NA									
+																					Hymenoptera		Argidae	Arge	Arge fuscipes	no			NA	NA	NA									
+																					Hymenoptera		Xiphydriidae	Xiphydria		no			NA	NA	NA									
+																					Hymenoptera		Siricidae	Tremex	Tremex columba	no			NA	NA	NA									
+																					Hymenoptera		Trigonalidae			no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae			yes			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Paniscus	Paniscus geminatus	no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Paranomalon		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Enicospilus	Enicospilus purgatus	no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Ophion	Ophion bilineatus	no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Ophion		yes			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Glypta		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Scambus		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Dolichomitus	Dolichomitus irritator	no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Phygadeuon		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Plesignathus		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Hemiteles		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Pterocormus		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Melanichneumon		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Cratichneumon		no			NA	NA	NA									
+																					Hymenoptera		Ichneumonidae	Cratichneumon		yes			NA	NA	NA									
+																					Hymenoptera		Chalcididae			yes			NA	NA	NA									
+																					Hymenoptera		Formicidae	Aphaenogaster	Aphaenogaster fulva	no			NA	NA	NA									
+																					Hymenoptera		Formicidae	Myrmica	Myrmica punctiventris	no			NA	NA	NA									
+																					Hymenoptera		Formicidae	Myrmica	Myrmica rubra	no			NA	NA	NA									
+																					Hymenoptera		Formicidae	Camponotus	Camponotus pennsylvanicus	no			NA	NA	NA									
+																					Hymenoptera		Formicidae	Camponotus		yes			NA	NA	NA									
+																							Formicidae	Lasius	Lasius alienus	no														
+																							Formicidae	Lasius		yes														
+																							Formicidae	Formica	Formica subsericea	no														
+																							Formicidae	Formica		yes														
+																							Bethylidae	Isobrachium		no														
+																							Tiphiidae	Tiphia	Tiphia inornata	no														
+																							Tiphiidae	Tiphia		yes														
+																							Vespidae	Odynerus		no														
+																							Vespidae	Dolichovespula	Dolichovespula arenaria	no														
+																							Crabronidae	Ectemnius	Ectemnius continuus	no														
+																							Crabronidae	Crabro		yes														
+																							Crabronidae	Aphilanthops	Aphilanthops frigidus	no														
+																							Crabronidae	Diodontus		no														
+																							Halictidae	Halictus	Halictus rubicundus	no														
+																							Halictidae	Halictus		yes														
+																							Halictidae	Augochlora	Augochlora pura	no														
+																							Halictidae	Augochlora		yes														
+																							Halictidae	Lasioglossum	Lasioglossum pectorale	no														
+																							Halictidae	Lasioglossum	Lasioglossum coeruleum	no														
+																							Halictidae	Lasioglossum	Lasioglossum pilosum	no														
+																							Andrenidae	Andrena	Andrena bisalicis	no														
+																							Andrenidae	Andrena	Andrena miserabilis	no														
+																							Andrenidae	Andrena		yes														
+																							Apidae	Apis	Apis mellifera	no														
