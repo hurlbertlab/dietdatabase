@@ -6966,7 +6966,7 @@ Blue Grouse	Phasianidae	8-Jun-05	Diet	Major Food Items	"Crawford, John A. “FALL 
 Chukar	Phasianidae	1996	Diet		"La Rivers, I. 1967. A new species of Margarodes from Nevada (Margarodes chukar). Biol. Soc. Nev. Occas. Pap. no. 14."	n		unavailable	
 Chukar	Phasianidae	1996	Diet		"Galbreath, D. S. and R. Moreland. 1953. The Chukar Partridge in Washington. Wash. State Game Dept. Biol. Bull. no. 11."	n		unavailable	
 Chukar	Phasianidae	1996	Diet		"Sandfort, W. W. 1954. Evaluation of Chukar Partridge range in Colorado. Proc. 34th Conf. West. Assoc. State Game and Fish Comm."	n		unavailable	
-Chukar	Phasianidae	1996	Diet		"Weaver, H. and W. L. Haskell. 1967. Some fall foods of Nevada Chukar Partridge. J. Wildl. Manage. 31:582-584."	y	y	data needs to be entered	
+Chukar	Phasianidae	1996	Diet		"Weaver, H. and W. L. Haskell. 1967. Some fall foods of Nevada Chukar Partridge. J. Wildl. Manage. 31:582-584."	y	y		
 Chukar	Phasianidae	1996	Diet		"Harper, H. T., B. H. Harry, and W. D. Bailey. 1958. The Chukar Partridge in California. Calif. Fish and Game 44:5-50."	n		unavailable	
 Chukar	Phasianidae	1996	Diet		"Zembal, R. L. 1977. The feeding habits of the Chukar Partridge, Alectoris chukar, in the Argus and Coso mountains of California. Master's Thesis. California State Univ. Long Beach."	n		unavailable	
 Chukar	Phasianidae	1996	Diet		"Christensen, G. C. 1952a. An ecological study of the Chukar Partridge in western Nevada. Master's Thesis. Univ. of Nevada, Reno."	n		unavailable	
