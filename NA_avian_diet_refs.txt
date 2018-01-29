@@ -4346,8 +4346,8 @@ Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Dunstan, T.
 Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Phipps, K. B. 1979. Hunting methods, habitat use and activity patterns of Prairie Falcons in the Snake River Birds of Prey Natural Area, Idaho. Master's Thesis. Western Illinois Univ. Macomb."	y	n		
 Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Fowler, F. H. 1931. Studies of food and growth of the Prairie Falcon. Condor 33:193-201."	y	y		
 Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Boyce, Jr., D. A. 1985. Prairie Falcon prey in the Mojave Desert, California. Raptor Res. 19:128-134."	y	y		
-Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Tyler, J. G. 1923. Observations of the habits of the Prairie Falcon. Condor 25:90-97."				
-Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Haak, B. A. 1982. Foraging ecology of Prairie Falcons in northern California. Master's Thesis. Oregon State Univ. Corvallis."	checked	usable_data		
+Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Tyler, J. G. 1923. Observations of the habits of the Prairie Falcon. Condor 25:90-97."	n			
+Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Haak, B. A. 1982. Foraging ecology of Prairie Falcons in northern California. Master's Thesis. Oregon State Univ. Corvallis."	y	y		
 Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Squires, J. R., S. H. Anderson, and R. Oakleaf. 1989. Food habits of nesting Prairie Falcons in Campbell County, Wyoming. J. Raptor Res. 23:157-161."	checked	usable_data		
 Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Kaiser, T. J. 1986. Behavior and energetics of Prairie Falcons (Falco mexicanus) breeding in the western Mojave Desert. Phd Thesis. Univ. of California, Los Angeles."	checked	usable_data		
 Prairie Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Ogden and Hornocker. 1977. Journal of Wildlife Management 41 1-11				
