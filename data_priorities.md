@@ -58,7 +58,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Psittacidae
 
 ### Strigiformes
---Strigidae   (**** more refs to check ****)   
+--Strigidae   (**** more refs to check **** DAVID)   
 --Tytonidae
 
 ### Trogoniformes  
@@ -70,7 +70,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Trochilidae  
 
 ### Falconiformes  
---Falconidae (DAVID)   
+--Falconidae (FINISHED)
 
 ### Coraciiformes
 --Alcedinidae
