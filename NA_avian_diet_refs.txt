@@ -4348,11 +4348,11 @@ Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Fowler, F. H. 1931. Studie
 Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Boyce, Jr., D. A. 1985. Prairie Falcon prey in the Mojave Desert, California. Raptor Res. 19:128-134."	y	y		
 Prairie Falcon	Falconidae	1998	Diet	Major Food Items	"Tyler, J. G. 1923. Observations of the habits of the Prairie Falcon. Condor 25:90-97."	n			
 Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Haak, B. A. 1982. Foraging ecology of Prairie Falcons in northern California. Master's Thesis. Oregon State Univ. Corvallis."	y	y		
-Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Squires, J. R., S. H. Anderson, and R. Oakleaf. 1989. Food habits of nesting Prairie Falcons in Campbell County, Wyoming. J. Raptor Res. 23:157-161."	checked	usable_data		
-Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Kaiser, T. J. 1986. Behavior and energetics of Prairie Falcons (Falco mexicanus) breeding in the western Mojave Desert. Phd Thesis. Univ. of California, Los Angeles."	checked	usable_data		
-Prairie Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Ogden and Hornocker. 1977. Journal of Wildlife Management 41 1-11				
-Prairie Falcon	Falconidae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above	there should be many more references; check Birds of North America
-Prairie Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"V.T. Ogden. 1973. Nesting Density and Reproduct. Success of Prairie Falcon in Sw. Idaho, U of Idaho, Moscow, M.S. Thesis"				
+Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Squires, J. R., S. H. Anderson, and R. Oakleaf. 1989. Food habits of nesting Prairie Falcons in Campbell County, Wyoming. J. Raptor Res. 23:157-161."	y	y		
+Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Kaiser, T. J. 1986. Behavior and energetics of Prairie Falcons (Falco mexicanus) breeding in the western Mojave Desert. Phd Thesis. Univ. of California, Los Angeles."	n			
+Prairie Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Ogden and Hornocker. 1977. Journal of Wildlife Management 41 1-11	n			
+Prairie Falcon	Falconidae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above	
+Prairie Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"V.T. Ogden. 1973. Nesting Density and Reproduct. Success of Prairie Falcon in Sw. Idaho, U of Idaho, Moscow, M.S. Thesis"	n			
 Great Frigatebird	Fregatidae	2002	Diet	Food Availability	"Schreiber, R. W. and E. A. Schreiber. 1984. Central Pacific seabirds and the El Ni????o Southern Oscillation: 1982 to 1983 perspectives. Science 225:713-716."				
 Great Frigatebird	Fregatidae	2002	Metabolism And Temperature Regulation	Metabolism	"Birt-Friesen, V. L., W. A. Montevecchi, D. K. Cairns, and S. A. Macko. 1989. Activity specific metabolic rates of free living Northern Gannets and other seabirds. Ecology 70:357-367."				
 Great Frigatebird	Fregatidae	2002	Feeding	Food Capture And Consumption	"Nelson, J. B. 1968. Galapagos, islands of birds. William Morrow and Co. New York."				
