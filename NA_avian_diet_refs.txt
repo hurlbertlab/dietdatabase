@@ -6971,7 +6971,7 @@ Chukar	Phasianidae	1996	Diet		"Harper, H. T., B. H. Harry, and W. D. Bailey. 195
 Chukar	Phasianidae	1996	Diet		"Zembal, R. L. 1977. The feeding habits of the Chukar Partridge, Alectoris chukar, in the Argus and Coso mountains of California. Master's Thesis. California State Univ. Long Beach."	n			
 Chukar	Phasianidae	1996	Diet		"Christensen, G. C. 1952a. An ecological study of the Chukar Partridge in western Nevada. Master's Thesis. Univ. of Nevada, Reno."	n			
 Chukar	Phasianidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Christensen, G. C. 1970. The Chukar Partridge. Its introductions, life history and management. Nev. Fish and Game Dept. Biol. Bull. no. 4."	y	y		
-Chukar	Phasianidae	1996	Diet		"Oakleaf, R. J. and J. H. Robertson. 1971. Fall food items utilized by Chukars in Kashmir, India. J. Wildl. Manage. 35:395-397."	y	y	data needs to be entered	
+Chukar	Phasianidae	1996	Diet		"Oakleaf, R. J. and J. H. Robertson. 1971. Fall food items utilized by Chukars in Kashmir, India. J. Wildl. Manage. 35:395-397."	y	y		
 Chukar	Phasianidae	1996	Diet		"Alcorn, J. R. and F. Richardson. 1951. The Chukar Partridge in Nevada. J. Wildl. Manage. 15:265-275."	y	y	data needs to be entered	
 Chukar	Phasianidae	1996	Nutrition And Energetics		"Kam, M., A. A. Degen, and K. A. Nagy. 1987. Seasonal energy, water, and food consumption of Negev Chukars and Sand partridges. Ecology 68:1029-1037."	y	n		
 Chukar	Phasianidae	1996	Diet		"Cole, F. R., L. L. Loope, A. C. Medeiros, J. A. Rakes, and C. S. Wood. 1995. Conservation implications of introduced game birds in high-elevational Hawaiian shrubland. Conserv. Biol. 9:306-313."	y	y	data needs to be entered 	
