@@ -119,7 +119,7 @@ Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	N
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Blattodea		Blattidae			no			egg	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Plecoptera		Perlidae			no			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera					no			adult	NA	NA	0.19754977	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
-Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae			no			NA	NA	NA	0.096477795	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae			yes			NA	NA	NA	0.096477795	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena	Brochymena quadripustulata	no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena		yes			NA	NA	NA	0.010719755	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Euschistus		no			NA	NA	NA	0.007656968	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
@@ -153,7 +153,7 @@ Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	N
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Cyrtolobus		no			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Entylia	Entylia sinuata	no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Platycotis		no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
-Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae			yes			NA	NA	NA	0.009188361	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae			yes			NA	NA	Jassinae	0.009188361	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Coccidae			yes			NA	NA	NA	0.078101072	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Coccidae	Eulecanium		no			NA	NA	NA	0.007656968	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Lepidoptera					yes			adult	NA	NA	0.053598775	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
@@ -293,7 +293,7 @@ Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	N
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Glyptoscelis	Glyptoscelis pubescens	no			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Glyptoscelis		yes			NA	NA	NA	0.004594181	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Typophorus	Typophorus canellus	no			NA	NA	NA	0.015313936	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
-Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Tymnes		yes			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Tymnes		no			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Xanthonia	Xanthonia decemnotata	no			NA	NA	NA	0.012251149	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Colaspis	Colaspis brunnea	no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Colaspis		yes			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
@@ -581,3 +581,162 @@ Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v
 Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Tenthredinidae	Nematus		yes			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Tenthredinidae	Nematus	Nematus ventralis	no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Braconidae	Apanteles		no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Braconidae	Aphidius		no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Campoplex		no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Paranomalon		no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Ophion	Ophion bilineatus	no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Ophion		yes			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae			no			NA	NA	Ctenopelmatinae	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Formicidae			yes			NA	NA	NA	0.047619048	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Formicidae	Aphaenogaster		no			NA	NA	NA	0.023809524	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Formicidae	Myrmica		no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Formicidae	Camponotus	Camponotus pennsylvanicus	no			NA	NA	NA	0.047619048	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Formicidae	Camponotus		yes			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Formicidae	Formica	Formica pallidefulva	no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Formicidae	Formica	Formica subsericea	no			NA	NA	NA	0.023809524	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Formicidae	Formica		yes			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hymenoptera		Tiphiidae	Tiphia		no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Plantae								yes			NA	bud	NA	0.023809524	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Plantae								yes			NA	fruit	NA	0.023809524	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Plantae	Tracheophyta	Magnoliopsida	Fagales		Myricaceae	Myrica	Myrica caroliniensis	no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Plantae	Tracheophyta	Magnoliopsida	Rosales		Rosaceae	Rosa		no			NA	NA	NA	0.023809524	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Plantae	Tracheophyta	Magnoliopsida	Vitales		Vitaceae			no			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Plantae	Tracheophyta	Magnoliopsida	Cornales		Cornaceae	Cornus	Cornus racemosa	no			NA	NA	NA	0.035714286	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Philadelphia Vireo	Vireo philadelphicus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Plantae	Tracheophyta	Magnoliopsida	Cornales		Cornaceae	Cornus		yes			NA	NA	NA	0.011904762	Occurrence	NA	84	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Mollusca	Gastropoda						yes			NA	NA	snail	1	Occurrence	NA	356	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+																		Animalia	Mollusca	Gastropoda	Stylommatophora		Helicodiscidae	Helicodiscus	Helicodiscus lineatus	no			NA	NA	NA	1								
+																		Animalia	Mollusca	Gastropoda	Stylommatophora		Valloniidae	Vallonia		no			NA	NA	NA	1								
+																		Animalia	Mollusca	Gastropoda	Heterostropha		Acteonidae	Pupa		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Pseudoscorpiones		Cheliferidae	Chelifer		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae					yes			NA	NA	NA	66								
+																		Animalia	Arthropoda	Arachnida	Araneae		Tetragnathidae	Tetragnatha	Tetragnatha elongata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Araneidae	Araneus		no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Arachnida	Araneae		Thomisidae			no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Clubionidae	Clubiona		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Lycosidae			no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae			no			NA	NA	NA	17								
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae	Synemosyna	Synemosyna formica	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae	Phidippus		no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae	Dendryphantes		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae	Pellenes		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta						yes			egg	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Odonata					yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Acrididae			yes			NA	NA	NA	9								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Acrididae	Melanoplus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Tetrigidae			no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Tettigoniidae			no			adult	NA	NA	9								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Tettigoniidae			no			egg	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Gryllidae			yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Orthoptera		Gryllidae	Oecanthus		no			NA	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Plecoptera		Perlidae			no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera					yes			adult	NA	NA	74								
+																		Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Thyreocoridae	Corimelaena		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae			yes			NA	NA	NA	17								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Mormidea	Mormidea lugens	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Euschistus	Euschistus tristigmus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Euschistus		yes			NA	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Thyanta	Thyanta custator	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Thyanta		yes			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Chinavia	Chinavia hilaris	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Dendrocoris	Dendrocoris contaminatus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Elasmucha	Elasmucha lateralis	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Podisus		no			NA	NA	NA	18								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Coreidae			yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Rhopalidae	Boisea	Boisea trivittata	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Lygaeidae			yes			NA	NA	NA	5								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Lygaeidae	Ischnorrhynchus		no			NA	NA	NA	7								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Phymata		no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Zelus		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Acholla		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Sinea		no			NA	NA	NA	5								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Miridae			yes			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Miridae	Lygus	Lygus pratensis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cercopidae			no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Aphrophoridae	Aphrophora	Aphrophora parallela	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae			yes			NA	NA	NA	44								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Stictocephala	Stictocephala bisonia	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Acutalis		no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Cyrtolobus		no			NA	NA	NA	9								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae	Idiocerus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae	Gyponana		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae			yes			NA	NA	Jassinae	31								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae	Thamnotettix		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Psyllidae			no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Hemiptera		Coccidae			yes			NA	NA	NA	18								
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			adult	NA	NA	28								
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			pupa	NA	NA	19								
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			larva	NA	NA	222								
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			egg	NA	NA	7								
+																		Animalia	Arthropoda	Insecta	Lepidoptera		Tineidae			no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera					yes			NA	NA	NA	12								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae			yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae	Lebia	Lebia ornata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae	Lebia		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Staphylinidae			no			NA	NA	Paederini	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae			yes			NA	NA	NA	19								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coleomegilla	Coleomegilla maculata	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hippodamia	Hippodamia quinquesignata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hippodamia	Hippodamia convergens	no			NA	NA	NA	7								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hippodamia	Hippodamia parenthesis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hippodamia	Hippodamia tredecimpunctata	no			NA	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hippodamia		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Cycloneda	Cycloneda munda	no			NA	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Olla	Olla v-nigrum	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coccinella	Coccinella californica	no			NA	NA	NA	41								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coccinella	Coccinella novemnotata	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coccinella	Coccinella transversoguttata	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coccinella	Coccinella trifasciata	no			NA	NA	NA	8								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Adalia	Adalia bipunctata	no			NA	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Adalia	Adalia frigida	no			NA	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Harmonia	Harmonia picta	no			NA	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Neomysia	Neomysia pullata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Anatis	Anatis quindecimpunctata	no			NA	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Psyllobora	Psyllobora vigintimaculata	no			NA	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Axion	Axion tripustulatum	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hyperaspis	Hyperaspis signata	no			NA	NA	NA	4								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Scymnus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Histeridae			yes			larva	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae			yes			NA	NA	NA	19								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Limonius		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae			yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Chrysobothris	Chrysobothris femorata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Chrysobothris		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Agrilus		yes			NA	NA	NA	15								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Melyridae	Malachius	Malachius capillicornis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Melyridae	Attalus		no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Neorthopleura	Neorthopleura texana	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Lucanidae	Platycerus	Platycerus quercus	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae			yes			NA	NA	NA	7								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Aphodius	Aphodius fimetarius	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Aphodius	Aphodius granarius	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Hoplia	Hoplia trifasciata	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Dichelonyx	Dichelonyx albicollis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Dichelonyx	Dichelonyx backii	no			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Dichelonyx		yes			NA	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Anomala	Anomala binotata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae			yes			NA	NA	NA	8								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Molorchus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Clytus		yes			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Grammoptera	Grammoptera militaris	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Strangalepta	Strangalepta abbreviata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leptura		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Psenocerus	Psenocerus supernotatus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leptostylus		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leiopus		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Hyperplatys	Hyperplatys maculata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Hyperplatys		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Spalacopsis	Spalacopsis filum	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae			yes			adult	NA	NA	25								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Orsodacnidae	Orsodacne	Orsodacne atra	no			NA	NA	NA	6								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Megalopodidae	Zeugophora	Zeugophora scutellaris	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Syneta	Syneta carinata	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Syneta	Syneta ferruginea	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Syneta		yes			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Cryptocephalus		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Pachybrachis	Pachybrachis abdominalis	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Pachybrachis	Pachybrachis atomarius	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Pachybrachis	Pachybrachis viduatus	no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Pachybrachis		yes			NA	NA	NA	3								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Typophorus	Typophorus canellus	no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Tymnes		no			NA	NA	NA	1								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Xanthonia	Xanthonia decemnotata	no			NA	NA	NA	5								
