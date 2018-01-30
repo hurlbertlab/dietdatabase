@@ -6974,7 +6974,7 @@ Chukar	Phasianidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Christensen
 Chukar	Phasianidae	1996	Diet		"Oakleaf, R. J. and J. H. Robertson. 1971. Fall food items utilized by Chukars in Kashmir, India. J. Wildl. Manage. 35:395-397."	y	n	usable data for chukar but not north american	
 Chukar	Phasianidae	1996	Diet		"Alcorn, J. R. and F. Richardson. 1951. The Chukar Partridge in Nevada. J. Wildl. Manage. 15:265-275."	y	y		
 Chukar	Phasianidae	1996	Nutrition And Energetics		"Kam, M., A. A. Degen, and K. A. Nagy. 1987. Seasonal energy, water, and food consumption of Negev Chukars and Sand partridges. Ecology 68:1029-1037."	y	n		
-Chukar	Phasianidae	1996	Diet		"Cole, F. R., L. L. Loope, A. C. Medeiros, J. A. Rakes, and C. S. Wood. 1995. Conservation implications of introduced game birds in high-elevational Hawaiian shrubland. Conserv. Biol. 9:306-313."	y	y	data needs to be entered 	
+Chukar	Phasianidae	1996	Diet		"Cole, F. R., L. L. Loope, A. C. Medeiros, J. A. Rakes, and C. S. Wood. 1995. Conservation implications of introduced game birds in high-elevational Hawaiian shrubland. Conserv. Biol. 9:306-313."	y	y		
 Common Peafowl	Phasianidae	1998	Diet	Major Food Items	"Fisher, H. 1951. The avifauna of Niihau Island, Hawaiian archipelago. Condor 53:31-42."				
 Common Peafowl	Phasianidae	1998	Diet	Major Food Items	"Johnsingh, A. J. T. and S. Murali. 1978. The ecology and behaviour of the Indian Peafowl (Pavo cristatus ) Linn. of Injar. J. Bombay Nat. Hist. Soc. 75(suppl.):1069-1079."				
 Common Peafowl	Phasianidae	1998	Feeding	Main Foods Taken	"Ali, S. and S. D. Ripley. 1969. Handbook of the birds of India and Pakistan. Vol. 2. Oxford Univ. Press, Bombay."				
