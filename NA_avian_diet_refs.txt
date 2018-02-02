@@ -7032,7 +7032,7 @@ Gray Partridge	Phasianidae	1993	Drinking And Defecation		"Anonymous. 1986. No. 4
 Gray Partridge	Phasianidae	1993	Drinking And Defecation		"Yocom, C. F. 1943. The Hungarian Partridge (Perdix perdix Linn) in the Palouse Region, Washington. Ecol. Monogr. 13:167-201."	y	y		
 Gray Partridge	Phasianidae	1993	Drinking And Defecation		"Yeatter, R. E. 1934. The Hungarian Partridge in the Great Lakes region. Univ. Mich. School For. Cons. Bull. Ann Arbor."	n		unavailable	
 Gray Partridge	Phasianidae	1993	Nutrition And Energetics		"Hohtola, E., R. Hissa, R. Imppola, J. P????nni, and S. Saarela. 1991. Fasaanin ja peltopyyn l????mp????talous. Suom. Riista 37:18-26."	n		unavailable	
-Gray Partridge	Phasianidae	1993	Diet	Major Food Items	"Hupp, J. W., J. T. Ratti, and L. M. Smith. 1988. Gray Partridge foraging ecology in eastern South Dakota. Great Basin Nat. 48:202-205."	y	y	data needs to be entered	
+Gray Partridge	Phasianidae	1993	Diet	Major Food Items	"Hupp, J. W., J. T. Ratti, and L. M. Smith. 1988. Gray Partridge foraging ecology in eastern South Dakota. Great Basin Nat. 48:202-205."	y	y		
 Gray Partridge	Phasianidae	1993	Nutrition And Energetics		"Latham, R. M. 1947. Differential ability of male and female game birds to withstand starvation and climatic extremes. J. Wildl. Manage. 11:139-149."	y	n		
 Gray Partridge	Phasianidae	1993	Nutrition And Energetics		"Hawkins, A. S. 1937. Winter feeding at Faville Grove, 1935-1937. J. Wildl. Manage. 1:62-69."	y	n		
 Gray Partridge	Phasianidae	1993	Feeding	Food Capture And Consumption	"Beani, L. and F. Dess???? Fulgheri. 1986. Gregarious behaviour in a group of captive Grey Partridge (Perdix perdix). Bol. Zool. 53:69-72."	y	n		
