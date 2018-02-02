@@ -7032,7 +7032,7 @@ Gray Partridge	Phasianidae	1993	Drinking And Defecation		"Anonymous. 1986. No. 4
 Gray Partridge	Phasianidae	1993	Drinking And Defecation		"Yocom, C. F. 1943. The Hungarian Partridge (Perdix perdix Linn) in the Palouse Region, Washington. Ecol. Monogr. 13:167-201."	y	y		
 Gray Partridge	Phasianidae	1993	Drinking And Defecation		"Yeatter, R. E. 1934. The Hungarian Partridge in the Great Lakes region. Univ. Mich. School For. Cons. Bull. Ann Arbor."	n		unavailable	
 Gray Partridge	Phasianidae	1993	Nutrition And Energetics		"Hohtola, E., R. Hissa, R. Imppola, J. P????nni, and S. Saarela. 1991. Fasaanin ja peltopyyn l????mp????talous. Suom. Riista 37:18-26."	n		unavailable	
-Gray Partridge	Phasianidae	1993	Diet	Major Food Items	"Hupp, J. W., J. T. Ratti, and L. M. Smith. 1988. Gray Partridge foraging ecology in eastern South Dakota. Great Basin Nat. 48:202-205."	y	y	data needs to be entered	
+Gray Partridge	Phasianidae	1993	Diet	Major Food Items	"Hupp, J. W., J. T. Ratti, and L. M. Smith. 1988. Gray Partridge foraging ecology in eastern South Dakota. Great Basin Nat. 48:202-205."	y	y		
 Gray Partridge	Phasianidae	1993	Nutrition And Energetics		"Latham, R. M. 1947. Differential ability of male and female game birds to withstand starvation and climatic extremes. J. Wildl. Manage. 11:139-149."	y	n		
 Gray Partridge	Phasianidae	1993	Nutrition And Energetics		"Hawkins, A. S. 1937. Winter feeding at Faville Grove, 1935-1937. J. Wildl. Manage. 1:62-69."	y	n		
 Gray Partridge	Phasianidae	1993	Feeding	Food Capture And Consumption	"Beani, L. and F. Dess???? Fulgheri. 1986. Gregarious behaviour in a group of captive Grey Partridge (Perdix perdix). Bol. Zool. 53:69-72."	y	n		
@@ -7046,7 +7046,7 @@ Gray Partridge	Phasianidae	1993	Nutrition And Energetics		"Reitz, F. 1983. Besio
 Gray Partridge	Phasianidae	1993	Diet	Major Food Items	"Melinchuk, R. 1981. Food habits of Gray Partridge (Perdix perdix) during fall and winter in Saskatchewan. Sask. Dep. Tour. Renew. Resour. Wildl. Tech. Rep. 81-9."	n		unavailable	
 Gray Partridge	Phasianidae	1993	Diet	Major Food Items	"Kobriger, G. D. 1980b. Food habits of the Hungarian Partridge in North Dakota. Pittman-Robertson Proj. W-67-R. Fed. Aid Wildl. Rest. Dickinson, ND."	n		unavailable	
 Gray Partridge	Phasianidae	1993	Nutrition And Energetics		"Delane, T. M. and J. S. Hayward. 1975. Acclimatization to temperature in pheasants (Phasianus colchicus) and partridge (Perdix perdix). Comp. Biochem. Physiol. 51(a):531-536."	y	n		
-Gray Partridge	Phasianidae	1993	Feeding	Food Capture And Consumption	"Weigand, J. P. 1980. Ecology of the Hungarian Partridge in north-central Montana. Wildl. Monogr. 74:1-106."	y	y	data needs to be entered	
+Gray Partridge	Phasianidae	1993	Feeding	Food Capture And Consumption	"Weigand, J. P. 1980. Ecology of the Hungarian Partridge in north-central Montana. Wildl. Monogr. 74:1-106."	y	y		
 Gray Partridge	Phasianidae	1993	Nutrition And Energetics		"Potts, G. R. 1986. The partridge: pesticides, predation, and conservation. Collin, London."	n		unavailable	
 Greater Sage-Grouse	Phasianidae	1999	Diet	Winter	"Welch, B. L., J. C. Pederson, and R. L. Rodriguez. 1988. Selection of big sagebrush by Sage Grouse. Great Basin Nat. 48:274-279."				
 Greater Sage-Grouse	Phasianidae	1999	Metabolism And Temperature Regulation		"Griner, L. A. 1939. A study of the Sage Grouse (Centrocercus urophasianus), with special reference to life history, habitat requirements, and numbers and distribution. Master's Thesis. Utah State Agric. Coll., Logan."				
