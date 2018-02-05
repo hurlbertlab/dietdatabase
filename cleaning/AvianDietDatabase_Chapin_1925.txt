@@ -118,7 +118,7 @@ Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	N
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Orthoptera		Gryllidae	Oecanthus		no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Blattodea		Blattidae			no			egg	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Plecoptera		Perlidae			no			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
-Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera					no			adult	NA	NA	0.19754977	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera					yes			adult	NA	NA	0.19754977	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae			yes			NA	NA	NA	0.096477795	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena	Brochymena quadripustulata	no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena		yes			NA	NA	NA	0.010719755	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
@@ -279,7 +279,7 @@ Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	N
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Saperda		yes			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Mecas	Mecas confusa	no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae			yes			adult	NA	NA	0.045941807	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
-Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Donacia		yes			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Donacia		no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Orsodacnidae	Orsodacne	Orsodacne atra	no			NA	NA	NA	0.004594181	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Syneta	Syneta ferruginea	no			NA	NA	NA	0.033690658	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Saxinis	Saxinis omogera	no			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
@@ -1001,3 +1001,157 @@ Blue-headed Vireo	Vireo solitarius	NA	Vireonidae	eBird Clements Checklist v2019	
 																		Animalia	Mollusca	Gastropoda	Stylommatophora		Zonitidae	Zonitoides	Zonitoides arboreus	no			NA	NA	NA									
 																		Animalia	Mollusca	Gastropoda	Stylommatophora		Pleurodiscidae	Pyramidula	Pyramidula alternata	no			NA	NA	NA									
 																		Animalia	Mollusca	Gastropoda	Stylommatophora		Polygyridae	Polygyra	Polygyra jejuna	no			NA	NA	NA									
+																		Animalia	Arthropoda	Arachnida	Opiliones					yes			NA	NA	harvestmen									
+																		Animalia	Arthropoda	Arachnida	Araneae					yes			NA	NA	spider									
+																		Animalia	Arthropoda	Arachnida	Araneae		Tetragnathidae	Tetragnatha		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Arachnida	Araneae		Araneidae	Araneus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Arachnida	Araneae		Thomisidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Arachnida	Araneae		Lycosidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Arachnida	Araneae		Salticidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta						yes			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Odonata					yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Odonata	Zygoptera				yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Odonata	Zygoptera	Coenagrionidae	Argia		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Plecoptera					no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Orthoptera		Acrididae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Orthoptera		Acrididae			no			NA	NA	Acridinae									
+																		Animalia	Arthropoda	Insecta	Orthoptera		Tettigoniidae			yes			egg	NA	NA									
+																		Animalia	Arthropoda	Insecta	Orthoptera		Tettigoniidae	Neoconocephalus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Orthoptera		Gryllidae	Nemobius		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Mantodea		Mantidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Psocoptera		Psocidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera					yes			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Scutelleridae	Eurygaster	Eurygaster alternata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena	Brochymena arborea	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena	Brochymena cariosa	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena	Brochymena quadripustulata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Brochymena		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Euschistus	Euschistus tristigmus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Euschistus		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Chinavia	Chinavia hilaris	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Chinavia		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Banasa		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Elasmucha	Elasmucha lateralis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Podisus	Podisus maculiventris	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Podisus	Podisus placidus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Pentatomidae	Podisus		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Alydidae	Alydus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Lygaeidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Lygaeidae	Neacoryphus	Neacoryphus bicrucis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Lygaeidae	Belonchilus	Belonchilus numenius	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Lygaeidae	Ischnorrhynchus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Phymata		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae			yes			egg	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Reduviidae	Sinea		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadidae	Cicada		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadidae	Platypedia	Platypedia putnami	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Aphrophoridae	Aphrophora		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Cyrtolobus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Membracidae	Platycotis	Platycotis minax	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae	Paraulacizes	Paraulacizes irrorata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae	Paraulacizes		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae	Graphocephala	Graphocephala coccinea	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae	Gyponana		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae			yes			NA	NA	Jassinae									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Cicadellidae	Phlepsius		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Delphacidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Coccidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Coccidae	Eulecanium	Eulecanium caryae	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hemiptera		Coccidae	Parthenolecanium	Parthenolecanium pruinosum	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			pupa	NA	NA									
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			larva	NA	NA									
+																		Animalia	Arthropoda	Insecta	Lepidoptera					yes			egg	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera					yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae	Lebia		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Carabidae	Harpalus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Phalacridae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hippodamia	Hippodamia convergens	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hippodamia		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Cycloneda	Cycloneda munda	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coccinella	Coccinella californica	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Coccinella	Coccinella trifasciata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Adalia	Adalia bipunctata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Adalia	Adalia frigida	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Harmonia	Harmonia quatuordecimguttata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Neomysia	Neomysia pullata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Anatis	Anatis quindecimpunctata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Psyllobora	Psyllobora vigintimaculata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Axion	Axion tripustulatum	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Hyperaspis	Hyperaspis signata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Trogossitidae	Tenebroides		no			larva	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Ampedus	Ampedus nigricollis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Elater		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Drasterius		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Limonius	Limonius griseus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Limonius		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Pseudanostirus	Pseudanostirus hamatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Pseudanostirus	Pseudanostirus hieroglyphicus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Pseudanostirus	Pseudanostirus propolus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Pseudanostirus	Pseudanostirus resplendens	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Elateridae	Pseudanostirus	Pseudanostirus triundulatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Melanophila		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Chrysobothris	Chrysobothris chrysoela	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Chrysobothris		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Agrilus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Ptinidae	Ptilinus	Ptilinus ruficornis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Bostrichidae	Amphicerus	Amphicerus bicaudatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Aphodius	Aphodius fimetarius	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Aphodius	Aphodius granarius	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Calamosternus	Calamosternus granarius	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Aphodius		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Hoplia		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Dichelonyx	Dichelonyx backii	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Dichelonyx		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Anomala	Anomala oblivia	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Trichiotinus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Valgus	Valgus seticollis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Molorchus	Molorchus bimaculatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Molorchus		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Clytus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Euderces		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leptorhabdium	Leptorhabdium pictum	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Metacmaeops	Metacmaeops vittata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Anthophylax	Anthophylax viridis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Anthophylax		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Typocerus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leptura		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Psenocerus	Psenocerus supernotatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leptostylus	Leptostylus transversus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leptostylus		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leiopus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Urgleptes	Urgleptes querci	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Urgleptes	Urgleptes signatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Hyperplatys		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae			yes			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Donacia		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Syneta	Syneta ferruginea	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Syneta		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Neochlamisus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Pachybrachis		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Glyptoscelis	Glyptoscelis pubescens	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Glyptoscelis		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Xanthonia	Xanthonia decemnotata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Colaspis	Colaspis brunnea	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Gastrophysa		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Lina		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Crepidodera	Crepidodera helxines	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Bruchus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Metaclisa	Metaclisa atra	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Blapstinus	Blapstinus metallicus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Helops	Helops micans	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Helops		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Melandryidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga				yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Attelabidae	Rhinomacer		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae			yes			NA	NA	Otiorhynchini									
