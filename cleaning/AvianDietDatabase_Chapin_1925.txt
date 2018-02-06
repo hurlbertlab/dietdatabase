@@ -1155,3 +1155,49 @@ Blue-headed Vireo	Vireo solitarius	NA	Vireonidae	eBird Clements Checklist v2016	
 Blue-headed Vireo	Vireo solitarius	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga				yes			NA	NA	NA	23	Occurrence	NA	329	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Blue-headed Vireo	Vireo solitarius	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Attelabidae	Rhinomacer		no			NA	NA	NA	1	Occurrence	NA	329	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Blue-headed Vireo	Vireo solitarius	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae			yes			NA	NA	Otiorhynchini	8	Occurrence	NA	329	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae	Pachyrhinus	Pachyrhinus elegans	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae	Sitona		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae	Magdalis		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae	Balaninus		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae	Conotrachelus	Conotrachelus anaglypticus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae	Conotrachelus	Conotrachelus nenuphar	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae	Conotrachelus		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae	Ips	Ips pini	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Curculionidae	Dendroctonus	Dendroctonus valens	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Megaloptera		Sialidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Megaloptera		Corydalidae	Chauliodes	Chauliodes pectinicornis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Neuroptera		Myrmeleontidae	Myrmeleon		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera					yes			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera					yes			pupa	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Tipulidae			no			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Psychodidae			no			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Chironomidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Bibionidae	Bibio		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Asilidae	Asilus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Syrphidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Syrphidae	Temnostoma	Temnostoma excentrica	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Chloropidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Muscidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Diptera		Calliphoridae	Pollenia	Pollenia rudis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera					yes			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera					yes			pupa	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Xyelidae	Macroxyela		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Pamphiliidae	Pamphilus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Tenthredinidae			yes			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Tenthredinidae	Dolerus	Dolerus unicolor	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Tenthredinidae	Dolerus		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Xiphydriidae	Xiphydria		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Siricidae	Sirex		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Siricidae	Tremex	Tremex columba	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Orussidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Braconidae	Earinus	Earinus limitaris	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Ophion	Ophion bilineatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Ophion		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae			no			NA	NA	Tryphoninae									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae			no			NA	NA	Exochinae									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Glypta		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae			no			NA	NA	Ichneumoninae									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Itoplectis	Itoplectis conquisitor	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Dolichomitus	Dolichomitus irritator	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Hymenoptera		Ichneumonidae	Amblyteles		no			NA	NA	NA									
