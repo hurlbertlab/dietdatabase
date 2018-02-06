@@ -9929,9 +9929,9 @@ Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Bayldon, J. 
 Long-eared Owl	Strigidae	1994	Food Selection And Storage		"Marti, C. D., K. Steenhof, M. N. Kochert, and J. S. Marks. 1993. Community trophic structure: the roles of diet, body size, and activity time in vertebrate predators. Oikos 67:6-18."	y	y		
 Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Canova, L. 1989. Influence of snow cover on prey selection by Long-eared Owls Asio otus. Ethol. Ecol. and Evol. 1:367-372."	y	n	prey diet from northern Italy	
 Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Ticehurst, C. B. 1939. On the food and feeding-habits of the Long-eared Owl (Asio otus otus). Ibis 1939:512-520."	y	y		
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Marks, J. S. 1984a. Feeding ecology of breeding Long-eared Owls in southwestern Idaho. Can. J. Zool. 62:1528-1533."				
-Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Marti, C. D. 1974. Feeding ecology of four sympatric owls. Condor 76:45-61."				
-Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Graham, R. N. 1934. The silent flight of owls. J. Royal Aero. Soc. 38:837-843."				
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Marks, J. S. 1984a. Feeding ecology of breeding Long-eared Owls in southwestern Idaho. Can. J. Zool. 62:1528-1533."	y	y		
+Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Marti, C. D. 1974. Feeding ecology of four sympatric owls. Condor 76:45-61."	y	y		
+Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Graham, R. N. 1934. The silent flight of owls. J. Royal Aero. Soc. 38:837-843."	n			
 Long-eared Owl	Strigidae	1994	Feeding	Main Foods Taken	"Marti, C. D. 1976. A review of prey selection by the Long-eared Owl. Condor 78:331-336."				
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Hartley, P. H. T. 1947. The food of the Long-eared Owl in Iraq. Ibis 89:566-569."				
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Nilsson, I. N. 1981. Seasonal changes in food of the Long-eared Owl in southern Sweden. Ornis Scand. 12:216-223."				
