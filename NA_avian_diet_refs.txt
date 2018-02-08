@@ -7053,7 +7053,7 @@ Greater Sage-Grouse	Phasianidae	1999	Metabolism And Temperature Regulation		"Gri
 Greater Sage-Grouse	Phasianidae	1999	Diet	Winter	"Remington, T. E. and C. E. Braun. 1985. Sage Grouse food selection in winter, North Park, Colorado. J. Wildl. Manage. 49:1055-1061."	y	n		
 Greater Sage-Grouse	Phasianidae	1999	Diet	Winter	"Patterson, R. L. 1952. The Sage Grouse in Wyoming. Sage Books, Inc. Denver, CO."	n		unavailable	
 Greater Sage-Grouse	Phasianidae	1999	Diet	Winter	"Batterson, W. M. and W. B. Morse. 1948. Oregon Sage Grouse. Oregon Game Comm., Portland. Oregon Fauna Serv. 1."	n		unavailable	
-Greater Sage-Grouse	Phasianidae	1999	Diet	Winter	"Wallestad, R. O., J. G. Peterson, and R. L. Eng. 1975. Foods of adult Sage Grouse in central Montana. J. Wildl. Manage. 39:628-630."	y	y	data needs to be entered	
+Greater Sage-Grouse	Phasianidae	1999	Diet	Winter	"Wallestad, R. O., J. G. Peterson, and R. L. Eng. 1975. Foods of adult Sage Grouse in central Montana. J. Wildl. Manage. 39:628-630."	y	y		
 Greater Sage-Grouse	Phasianidae	1999	Metabolism And Temperature Regulation		"Beck, T. D. I. and C. E. Braun. 1978. Weights of Colorado Sage Grouse. Condor. 80:241-243."	y	n		
 Greater Sage-Grouse	Phasianidae	1999	Metabolism And Temperature Regulation		"Ihli, M., P. Sherbenou, and C. W. Welch. 1973. Wintering Sage Grouse in the Upper Big Lost River. Idaho Acad. Sci. 1973:7380."	n		unavailable	
 Greater Sage-Grouse	Phasianidae	1999	Diet	Winter	"Barber, T. A. 1968. Function of the cecal microflora in Sage Grouse nutrition. Master's Thesis. Colorado State Univ., Fort Collins."	n		unavailable	
