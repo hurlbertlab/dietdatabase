@@ -322,7 +322,7 @@ Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2016	NA	N
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Helops	Helops micans	no			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Isomira	Isomira sericea	no			NA	NA	NA	0.004594181	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Isomira		yes			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
-Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Melandryidae			yes			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Melandryidae			no			NA	NA	NA	0.003062787	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Synchroidae	Synchroa	Synchroa punctata	no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Tetratomidae	Eustrophus		yes			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Red-eyed Vireo	Vireo olivaceus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Mycteridae	Mycterus	Mycterus scaber	no			NA	NA	NA	0.001531394	Occurrence	NA	653	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
@@ -749,7 +749,7 @@ Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	N
 Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Lina		yes			NA	NA	NA	0.002808989	Occurrence	NA	356	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Galerucella		no			NA	NA	NA	0.005617978	Occurrence	NA	356	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Diabrotica	Diabrotica duodecimpunctata	no			NA	NA	NA	0.002808989	Occurrence	NA	356	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
-Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Miridae			no			NA	NA	Halticini	0.002808989	Occurrence	NA	356	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
+Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae			no			NA	NA	Alticini	0.002808989	Occurrence	NA	356	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Capraita	Capraita subvittata	no			NA	NA	NA	0.002808989	Occurrence	NA	356	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Disonycha	Disonycha pensylvanica	no			NA	NA	NA	0.002808989	Occurrence	NA	356	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
 Warbling Vireo	Vireo gilvus	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	NA	NA	NA	North America	NA	NA	1	1924	12	1924	NA	Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Altica	Altica ignita	no			NA	NA	NA	0.002808989	Occurrence	NA	356	NA	stomach contents		PW	"Chapin, E. A. 1925. Food habits of vireos: a family of insectivorous birds. U.S. Department of Agriculture Bulletin 1355."
@@ -1355,3 +1355,55 @@ White-eyed Vireo	Vireo griseus	NA	Vireonidae	eBird Clements Checklist v2016	NA	N
 																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leptostylus	Leptostylus transversus	no			NA	NA	NA	1								
 																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Sternidius	Sternidius alpha	no			NA	NA	NA	1								
 																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Leiopus		no			NA	NA	NA	2								
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Hyperplatys	Hyperplatys maculata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Hyperplatys		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae			yes			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Donacia	Donacia caerulea	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Orsodacnidae	Orsodacne	Orsodacne atra	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Syneta	Syneta ferruginea	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Neochlamisus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Bassareus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Cryptocephalus	Cryptocephalus guttulatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Cryptocephalus	Cryptocephalus mutabilis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Cryptocephalus		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Pachybrachis		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Myochrous	Myochrous denticollis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Glyptoscelis	Glyptoscelis pubescens	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Glyptoscelis		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Typophorus	Typophorus canellus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Tymnes	Tymnes tricolor	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Tymnes		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Xanthonia	Xanthonia decemnotata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Colaspis	Colaspis brunnea	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Colaspis	Colaspis favosa	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Brachypnoea	Brachypnoea tristis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Chrysodina	Chrysodina globosa	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Diabrotica	Diabrotica duodecimpunctata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae			no			NA	NA	Alticini									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Capraita	Capraita sexmaculata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Capraita	Capraita suturalis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Capraita		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Altica	Altica chalybea	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Altica	Altica ignita	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Altica		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Crepidodera	Crepidodera helxines	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Systena		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Baliosus	Baliosus nervosus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Helops	Helops micans	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Hymenorus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Isomira	Isomira sericea	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Isomira	Isomira texana	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae	Isomira		yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Melandryidae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Oedemeridae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Anthicidae	Macratria	Macratria confusa	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Anthicidae	Notoxus	Notoxus monodon	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Pyrochroidae	Dendroides		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Meloidae	Lytta		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga				yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Anthribidae	Toxonotus	Toxonotus cornutus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Anthribidae	Araecerus	Araecerus fasciculatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Attelabidae	Auletes		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Rhynchitidae	Eugnamptus	Eugnamptus collaris	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Attelabidae	Merhynchites	Merhynchites bicolor	no			NA	NA	NA									
