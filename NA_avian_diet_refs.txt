@@ -9932,9 +9932,9 @@ Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Ticehurst, C
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Marks, J. S. 1984a. Feeding ecology of breeding Long-eared Owls in southwestern Idaho. Can. J. Zool. 62:1528-1533."	y	y		
 Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Marti, C. D. 1974. Feeding ecology of four sympatric owls. Condor 76:45-61."	y	y		
 Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Graham, R. N. 1934. The silent flight of owls. J. Royal Aero. Soc. 38:837-843."	n			
-Long-eared Owl	Strigidae	1994	Feeding	Main Foods Taken	"Marti, C. D. 1976. A review of prey selection by the Long-eared Owl. Condor 78:331-336."				
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Hartley, P. H. T. 1947. The food of the Long-eared Owl in Iraq. Ibis 89:566-569."				
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Nilsson, I. N. 1981. Seasonal changes in food of the Long-eared Owl in southern Sweden. Ornis Scand. 12:216-223."				
+Long-eared Owl	Strigidae	1994	Feeding	Main Foods Taken	"Marti, C. D. 1976. A review of prey selection by the Long-eared Owl. Condor 78:331-336."	y	y		
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Hartley, P. H. T. 1947. The food of the Long-eared Owl in Iraq. Ibis 89:566-569."	n		prey diet in Iraq	
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Nilsson, I. N. 1981. Seasonal changes in food of the Long-eared Owl in southern Sweden. Ornis Scand. 12:216-223."	n		prey diet in Sweden	
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Maser, C. E., E. W. Hammer, and S. H. Anderson. 1970. Comparative food habits of three owl species in central Oregon. Murrelet 51:29-33."				
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Stophlet, J. J. 1959. Nesting concentration of Long-eared Owls in Cochise County, Arizona. Wilson Bull. 71:97-99."				
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Thurow, T. L. and C. M. White. 1984. Nesting success and prey selection of Long-eared Owls along a juniper/sagebrush ecotone in southcentral Idaho. Murrelet 65:10-14."				
