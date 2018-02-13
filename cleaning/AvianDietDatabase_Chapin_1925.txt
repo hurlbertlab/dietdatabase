@@ -1557,3 +1557,17 @@ Hutton's Vireo	Vireo huttoni	NA	Vireonidae	eBird Clements Checklist v2016	NA	NA	
 																		Animalia	Arthropoda	Insecta	Coleoptera		Coccinellidae	Scymnus		no			NA	NA	NA									
 																		Animalia	Arthropoda	Insecta	Coleoptera		Zopheridae	Lasconotus	Lasconotus complex	no			NA	NA	NA									
 																		Animalia	Arthropoda	Insecta	Coleoptera		Histeridae			no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Buprestidae	Agrilus		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cleridae	Cymatodera	Cymatodera ovipennis	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Scarabaeidae	Phyllophaga		no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae			yes			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Grammoptera	Grammoptera militaris	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Ipochus	Ipochus fasciatus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Cerambycidae	Lophopogonius	Lophopogonius crinitus	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae			yes			adult	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Orsodacnidae	Orsodacne	Orsodacne atra	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Monoxia	Monoxia consputa	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Chrysomelidae	Diabrotica	Diabrotica duodecimpunctata	no			NA	NA	NA									
+																		Animalia	Arthropoda	Insecta	Coleoptera		Tenebrionidae			yes			NA	NA	NA									
