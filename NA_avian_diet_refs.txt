@@ -3015,8 +3015,9 @@ Eurasian Collared-Dove	Columbidae	2012	Feeding	Food Capture And Consumption	"Bar
 Eurasian Collared-Dove	Columbidae	2012	Diet	Major Food Items	"Drennen, D. J. 1997. Nesting of Eurasian Collared-Doves (Streptopelia decaocto) in Barbour County, Alabama. Ala. Birdlife no. 43:1-7."	y	n					
 Eurasian Collared-Dove	Columbidae	2012	Diet	Major Food Items	"Steele, G. W. 1998. Are Collared-Doves in your hometown? South Georgia Online: Rural Living."	n		unavailable				
 Eurasian Collared-Dove	Columbidae	2012	Diet	Major Food Items	"Rana, B. D. 1975. Breeding biology of the Indian Ring Dove in the Rajasthan Desert. Auk no. 92:322-332."	y	n					
-												
-												
+Eurasian Collared-Dove	Columbidae	2012	Diet	Major Food Items	"Saini, H. K. 1993. Maggots in the diet of the Collared-Dove. Bull. Br. Ornithol. Club no. 113:263-264"	y	n	data too nonspecific. (e.g. 92.1% of food items were maggots)				
+Eurasian Collared-Dove	Columbidae	2012	Diet	Major Food Items	"Radford, A. P. 1998. Collared-Doves feeding from fresh rabbit carcass. Br. Birds no. 91:200."	n		unavailable				
+Eurasian Collared-Dove	Columbidae	2012	"Drinking, Pellet-Casting, And Defecation"		"Hofstetter, F. B. 1954. Untersuchungen an einer population der Türkentaube. J. Ornithol. no. 95:345-410."	y	n	not translated				
 Inca Dove	Columbidae	1-Dec-04	Feeding	Food Capture And Consumption	"Johnston, R. F. 1960. Behavior of the Inca Dove. Condor 62:7-24."	y	n					
 Inca Dove	Columbidae	1-Dec-04	Feeding	Food Capture And Consumption	"Valone, T. J. 1991. Bayesian and prescient assessment: foraging with pre-harvest information. Animal Behavior 41:569-577."	y	n					
 Inca Dove	Columbidae	1-Dec-04	Feeding	Food Capture And Consumption	"Quay, W. B. 1982. Seasonal calling, foraging, and flocking of Inca Doves at Galveston, Texas. Condor 84:321-326."	y	n					
