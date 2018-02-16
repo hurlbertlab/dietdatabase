@@ -9944,9 +9944,9 @@ Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Graham, R. N
 Long-eared Owl	Strigidae	1994	Feeding	Main Foods Taken	"Marti, C. D. 1976. A review of prey selection by the Long-eared Owl. Condor 78:331-336."	y	y					
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Hartley, P. H. T. 1947. The food of the Long-eared Owl in Iraq. Ibis 89:566-569."	n		prey diet in Iraq				
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Nilsson, I. N. 1981. Seasonal changes in food of the Long-eared Owl in southern Sweden. Ornis Scand. 12:216-223."	n		prey diet in Sweden				
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Maser, C. E., E. W. Hammer, and S. H. Anderson. 1970. Comparative food habits of three owl species in central Oregon. Murrelet 51:29-33."							
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Stophlet, J. J. 1959. Nesting concentration of Long-eared Owls in Cochise County, Arizona. Wilson Bull. 71:97-99."							
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Thurow, T. L. and C. M. White. 1984. Nesting success and prey selection of Long-eared Owls along a juniper/sagebrush ecotone in southcentral Idaho. Murrelet 65:10-14."							
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Maser, C. E., E. W. Hammer, and S. H. Anderson. 1970. Comparative food habits of three owl species in central Oregon. Murrelet 51:29-33."	y	y					
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Stophlet, J. J. 1959. Nesting concentration of Long-eared Owls in Cochise County, Arizona. Wilson Bull. 71:97-99."	y	n					
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Thurow, T. L. and C. M. White. 1984. Nesting success and prey selection of Long-eared Owls along a juniper/sagebrush ecotone in southcentral Idaho. Murrelet 65:10-14."	y	y					
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Craig, T. H., E. H. Craig, and L. R. Powers. 1985. Food habits of Long-eared Owls (Asio otus) at a communal roost site during the nesting season. Auk 102:193-195."							
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Errington, P. L. 1932. Food habits of southern Wisconsin raptors: Part 1. Owls. Condor 34:176-186."							
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Wilson, K. A. 1938. Owl studies at Ann Arbor, Michigan. Auk 55:187-197."							
