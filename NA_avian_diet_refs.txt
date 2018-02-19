@@ -9948,8 +9948,8 @@ Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Maser, C. E., E. W. Hammer,
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Stophlet, J. J. 1959. Nesting concentration of Long-eared Owls in Cochise County, Arizona. Wilson Bull. 71:97-99."	y	n					
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Thurow, T. L. and C. M. White. 1984. Nesting success and prey selection of Long-eared Owls along a juniper/sagebrush ecotone in southcentral Idaho. Murrelet 65:10-14."	y	y					
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Craig, T. H., E. H. Craig, and L. R. Powers. 1985. Food habits of Long-eared Owls (Asio otus) at a communal roost site during the nesting season. Auk 102:193-195."	y	y					
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Errington, P. L. 1932. Food habits of southern Wisconsin raptors: Part 1. Owls. Condor 34:176-186."							
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Wilson, K. A. 1938. Owl studies at Ann Arbor, Michigan. Auk 55:187-197."							
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Errington, P. L. 1932. Food habits of southern Wisconsin raptors: Part 1. Owls. Condor 34:176-186."	y	n	Prey diet exist but inconclusive				
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Wilson, K. A. 1938. Owl studies at Ann Arbor, Michigan. Auk 55:187-197."	y	n					
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Randle, W. and R. Austing. 1952. Ecological notes on Long-eared and Saw-whet owls in southwestern Ohio. Ecology 33:422-426."							
 Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Holt, D. W. and S. M. Leasure. 1993. Short-eared Owl (Asio flammeus). in The birds of North America, No. 62. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA; Am. Ornithol. Union, Washington, DC."							
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Choate, J. R. 1971. Notes on geographic distribution and habitats of mammals eaten by owls in southern New England. Trans. Kans. Acad. Sci. 74:212-216."							
