@@ -7086,7 +7086,7 @@ Greater Sage-Grouse	Phasianidae	1999	Metabolism And Temperature Regulation		"Bac
 Greater Sage-Grouse	Phasianidae	1999	Diet	Breeding	"Johnson, G. D. and M. S. Boyce. 1990. Feeding trials with insects in the diet of Sage Grouse chicks. J. Wildl. Manage. 54:89-91."	y	n					
 Greater Sage-Grouse	Phasianidae	1999	Feeding	Main Foods Taken	"Bendire, C. E. 1892. Life histories of North American birds. U.S. Natl. Mus. Spec. Bull. 1, Vol. 1."	n		unavailable				
 Greater Sage-Grouse	Phasianidae	1999	Nutrition And Energetics		"Vehrencamp, S. L., J. W. Bradbury, and R. M. Gibson. 1989. The energetic cost of display in male Sage Grouse. Anim. Behav. 38:885-896."	y	n					
-Greater Sage-Grouse	Phasianidae	1999	Diet	Breeding	"Barnett, J. F. and J. A. Crawford. 1994. Pre-laying nutrition of Sage Grouse hens in Oregon. J. Range Manage. 47:114-118."	y	y	data needs to be entered				
+Greater Sage-Grouse	Phasianidae	1999	Diet	Breeding	"Barnett, J. F. and J. A. Crawford. 1994. Pre-laying nutrition of Sage Grouse hens in Oregon. J. Range Manage. 47:114-118."	y	y					
 Greater Sage-Grouse	Phasianidae	1999	Diet	Winter	"Bean, R. W. 1941. Life history studies of the Sage Grouse (Centrocercus urophasianus) in Clark County, Idaho. B.S. thesis. Utah State Agric. Coll., Logan."	n		unavailable				
 Greater Sage-Grouse	Phasianidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Wallestad, R. O. 1975a. Life history and habitat requirements of Sage Grouse in central Montana. Montana Dep. Fish, Game, and Parks, Helena."	n		unavailable				
 Greater Sage-Grouse	Phasianidae	1999	Diet	Breeding	"Knowlton, G. F. and H. F. Thornley. 1942. Insect food of the Sage Grouse. J. Econ. Entomol. 35:107-108."	n		unavailable				
