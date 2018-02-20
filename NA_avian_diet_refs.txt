@@ -9950,14 +9950,14 @@ Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Thurow, T. L. and C. M. Whi
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Craig, T. H., E. H. Craig, and L. R. Powers. 1985. Food habits of Long-eared Owls (Asio otus) at a communal roost site during the nesting season. Auk 102:193-195."	y	y					
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Errington, P. L. 1932. Food habits of southern Wisconsin raptors: Part 1. Owls. Condor 34:176-186."	y	n	Prey diet exist but inconclusive				
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Wilson, K. A. 1938. Owl studies at Ann Arbor, Michigan. Auk 55:187-197."	y	n					
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Randle, W. and R. Austing. 1952. Ecological notes on Long-eared and Saw-whet owls in southwestern Ohio. Ecology 33:422-426."							
-Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Holt, D. W. and S. M. Leasure. 1993. Short-eared Owl (Asio flammeus). in The birds of North America, No. 62. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA; Am. Ornithol. Union, Washington, DC."							
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Choate, J. R. 1971. Notes on geographic distribution and habitats of mammals eaten by owls in southern New England. Trans. Kans. Acad. Sci. 74:212-216."							
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Stelter, L. S. and J. G. Nagy. 1979. Raptor food habits in the oil shale region of northwestern Colorado. Colo. Field Ornithol. J. 13:7-12."							
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Hooper, T. D. and M. Nyhof. 1986. Food habits of the Long-eared Owl in south-central British Columbia. Murrelet 67:28-30."							
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Sutton, G. M. 1926. Long-eared Owl capturing Ruffed Grouse. Auk 43:236-237."							
-Long-eared Owl	Strigidae	1994	"Drinking, Pellet-Casting, And Defecation"		"Delong, T. R. 1982. Effect of ambient conditions on nocturnal nest behavior in Long-eared Owls. Master's Thesis. Brigham Young Univ. Provo, UT."							
-Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Cahn, A. R. and J. T. Kemp. 1930. On the food of certain owls in east-central Illinois. Auk 47:323-328."							
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Randle, W. and R. Austing. 1952. Ecological notes on Long-eared and Saw-whet owls in southwestern Ohio. Ecology 33:422-426."	y	y					
+Long-eared Owl	Strigidae	1994	Feeding	Food Capture And Consumption	"Holt, D. W. and S. M. Leasure. 1993. Short-eared Owl (Asio flammeus). in The birds of North America, No. 62. (Poole, A. and F. Gill, Eds.) Acad. Nat. Sci., Philadelphia, PA; Am. Ornithol. Union, Washington, DC."	n						
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Choate, J. R. 1971. Notes on geographic distribution and habitats of mammals eaten by owls in southern New England. Trans. Kans. Acad. Sci. 74:212-216."	y	n					
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Stelter, L. S. and J. G. Nagy. 1979. Raptor food habits in the oil shale region of northwestern Colorado. Colo. Field Ornithol. J. 13:7-12."	n						
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Hooper, T. D. and M. Nyhof. 1986. Food habits of the Long-eared Owl in south-central British Columbia. Murrelet 67:28-30."	n		prey diet in British Columbia				
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Sutton, G. M. 1926. Long-eared Owl capturing Ruffed Grouse. Auk 43:236-237."	y	n					
+Long-eared Owl	Strigidae	1994	"Drinking, Pellet-Casting, And Defecation"		"Delong, T. R. 1982. Effect of ambient conditions on nocturnal nest behavior in Long-eared Owls. Master's Thesis. Brigham Young Univ. Provo, UT."	n						
+Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Cahn, A. R. and J. T. Kemp. 1930. On the food of certain owls in east-central Illinois. Auk 47:323-328."	y	y	Information too inconclusive and how the researchers obtained some of the prey diet data is also inconclusive				
 Long-eared Owl	Strigidae	1994	Diet	Major Food Items	"Korpim????ki, E. 1992. Diet composition, prey choice, and breeding success of Long-eared Owls: effects of multiannual fluctuations in food abundance. Can. J. Zool. 70:2373-2381."							
 Long-eared Owl	Strigidae	1994	Diet	Quantitative Analysis	"Glue, D. E. 1972. Bird prey taken by British owls. Bird Study 19:91-95."							
 Long-eared Owl	Strigidae	1994	Food Selection And Storage		"Craighead, J. J. and F. C. Craighead, Jr. 1956. Hawks, owls and wildlife. Stackpole Co. Harrisburg, PA."							
