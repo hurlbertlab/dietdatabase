@@ -348,7 +348,7 @@ clean_names = function(preyTaxonLevel, diet, problemNames = NULL, all = TRUE) {
   if (all == FALSE) {
     diet2 = diet[diet$Prey_Name_Status == 'unverified' | 
                    diet$Prey_Name_Status == '' | 
-                   is.na(diet$Prey_Name_ITIS_ID), ]
+                   is.na(diet$Prey_Name_Status), ]
   } else {
     diet2 = diet
   }
