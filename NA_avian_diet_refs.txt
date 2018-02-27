@@ -7092,7 +7092,7 @@ Greater Sage-Grouse	Phasianidae	1999	Diet	Breeding	"Knowlton, G. F. and H. F. Th
 Greater Sage-Grouse	Phasianidae	1999	Feeding	Food Capture And Consumption	"Gill, R. B. and F. A. Glover. 1965. Daily and seasonal movements of Sage Grouse. Tech. Pap. 3. Colorado Coop. Wildl. Res. Unit, Fort Collins."	n		unavailable	
 Greater Sage-Grouse	Phasianidae	1999	Feeding	Food Capture And Consumption	"Girard, G. L. 1937. Life history, habits and food of the Sage Grouse, Centrocercus urophasianus Bonaparte. Univ. Wyoming, Laramie. Publ. 3."	n		unavailable	
 Greater Sage-Grouse	Phasianidae	1999	Diet	Breeding	"Trueblood, R. W. 1954. The effect of grass reseeding in sagebrush lands on Sage Grouse populations. Master's Thesis. Utah State Agric. Coll., Logan."	y	y		
-Greater Sage-Grouse	Phasianidae	1999	Diet	Breeding	"Klebenow, D. A. and G. M. Gray. 1968. Food habits of juvenile Sage Grouse. J. Range Manage. 21:80-83."	y	y	data needs to be entered	
+Greater Sage-Grouse	Phasianidae	1999	Diet	Breeding	"Klebenow, D. A. and G. M. Gray. 1968. Food habits of juvenile Sage Grouse. J. Range Manage. 21:80-83."	y	y		
 Greater Sage-Grouse	Phasianidae	1999	Food Selection And Storage		"Beck, T. D. I. 1977. Sage Grouse flock characteristics and habitat selection in winter. J. Wildl. Manage. 41:18-26."	y	n		
 Greater Sage-Grouse	Phasianidae	1999	Food Selection And Storage		"Dalke, P. D., D. B. Pyrah, D. C. Stanton, J. E. Crawford, and E. F. Schlatterer. 1963. Ecology, productivity, and management of Sage Grouse in Idaho. J. Wildl. Manage. 27:811-841."	y	n		
 Greater Sage-Grouse	Phasianidae	1999	Feeding	Microhabitat For Foraging	"Hupp, J. W. and C. E. Braun. 1989b. Topographic distribution of Sage Grouse foraging in winter. J. Wildl. Manage. 53:823-829."	y	n		
