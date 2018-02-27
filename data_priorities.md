@@ -14,7 +14,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Ciconiidae  
 
 ### Columbiformes  
---Columbidae (need to enter Eurasian Collared-Dove: PATRICK)  
+--Columbidae
 
 ### Cuculiformes  
 --Cuculidae   
@@ -85,7 +85,7 @@ A secondary set of Orders to enter after the above are finished. When they have 
 --Phasianidae (**** lots to check ****)- ANNABEL
 
 ### Gruiformes  
---Aramidae (1 to enter)  
+--Aramidae (1 to enter) PATRICK  
 --Gruidae (2 to enter)  
 --Rallidae (9 to enter)  
 
