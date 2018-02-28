@@ -2150,16 +2150,16 @@ White-throated Swift	Apodidae	2000	Metabolism And Temperature Regulation		"Barth
 White-throated Swift	Apodidae	2000	Metabolism And Temperature Regulation		"Hanna, W. C. 1917. Further notes on the White-throated Swifts of Slover Mountain. Condor 19:3-8."	y	n		
 White-throated Swift	Apodidae	2000	Metabolism And Temperature Regulation		"De Sante, D. and M. Perrone. 1968. Regional reports: winter season, middle Pacific region. Audubon Field Notes 22:474."	n	n		
 White-throated Swift	Apodidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Small, A. 1994. California birds: their status and distribution. Ibis Publ. Co. Vista, CA."	n	n		
-Limpkin	Aramidae	2002	Diet	Major Food Items	"Bryan, D. C. 1981. Territoriality and pair bonding in the Limpkin (Aramus guarauna). Master's Thesis. Florida State Univ. Tallahassee."				
-Limpkin	Aramidae	2002	Feeding	Microhabitat For Foraging	"Ingalls, E. A. 1972. Aspects of the ethology of Limpkins (Aramus guarauna). Master's Thesis. Univ. of South Florida, Tampa."				
-Limpkin	Aramidae	2002	Feeding	Food Capture And Consumption	"Harper, F. 1936. The distribution of the Limpkin and its staple food. Oriole 1:21-23."				
-Limpkin	Aramidae	2002	Diet	Major Food Items	"Bryant, H. 1859. Birds of east Florida. Proc. Boston Soc. Nat. Hist. 7:5-21."				
-Limpkin	Aramidae	2002	Feeding	Microhabitat For Foraging	"Stevenson, H. M. and B. H. Anderson. 1994. The birdlife of Florida. Univ. Press of Fla. Gainesville."				
-Limpkin	Aramidae	2002	Food Selection And Storage		"Baird, S. F., T. M. Brewer, and R. Ridgway. 1884. The water birds of North America. Little, Brown, and Co. Boston."				
-Limpkin	Aramidae	2002	Food Selection And Storage		"Harper, F. 1941. Further notes on the food of the Limpkin. Nautilus 55:3-4."				
-Limpkin	Aramidae	2002	Feeding	Food Capture And Consumption	"Snyder, N. F. R. and H. A. Snyder. 1969. A comparative study of mollusc predation of Limpkins, Everglades Kites, and Boat-tailed Grackles. Living Bird 8:177-223."				
-Limpkin	Aramidae	2002	Food Selection And Storage		"Stevenson, H. M. 1962. Florida region. Audubon Field Notes 16:401."				
-Limpkin	Aramidae	2002	Diet	Major Food Items	"Cottam, C. 1936. Food of the Limpkin. Wilson Bull. 48:11-13."				
+Limpkin	Aramidae	2002	Diet	Major Food Items	"Bryan, D. C. 1981. Territoriality and pair bonding in the Limpkin (Aramus guarauna). Master's Thesis. Florida State Univ. Tallahassee."	n		unavailable	
+Limpkin	Aramidae	2002	Feeding	Microhabitat For Foraging	"Ingalls, E. A. 1972. Aspects of the ethology of Limpkins (Aramus guarauna). Master's Thesis. Univ. of South Florida, Tampa."	n		unavailable	
+Limpkin	Aramidae	2002	Feeding	Food Capture And Consumption	"Harper, F. 1936. The distribution of the Limpkin and its staple food. Oriole 1:21-23."	n		unavailable	
+Limpkin	Aramidae	2002	Diet	Major Food Items	"Bryant, H. 1859. Birds of east Florida. Proc. Boston Soc. Nat. Hist. 7:5-21."	n		unavailable	
+Limpkin	Aramidae	2002	Feeding	Microhabitat For Foraging	"Stevenson, H. M. and B. H. Anderson. 1994. The birdlife of Florida. Univ. Press of Fla. Gainesville."	y	n		
+Limpkin	Aramidae	2002	Food Selection And Storage		"Baird, S. F., T. M. Brewer, and R. Ridgway. 1884. The water birds of North America. Little, Brown, and Co. Boston."	y	n		
+Limpkin	Aramidae	2002	Food Selection And Storage		"Harper, F. 1941. Further notes on the food of the Limpkin. Nautilus 55:3-4."	n		unavailable	
+Limpkin	Aramidae	2002	Feeding	Food Capture And Consumption	"Snyder, N. F. R. and H. A. Snyder. 1969. A comparative study of mollusc predation of Limpkins, Everglades Kites, and Boat-tailed Grackles. Living Bird 8:177-223."	n		unavailable	
+Limpkin	Aramidae	2002	Food Selection And Storage		"Stevenson, H. M. 1962. Florida region. Audubon Field Notes 16:401."	n		unavailable	
+Limpkin	Aramidae	2002	Diet	Major Food Items	"Cottam, C. 1936. Food of the Limpkin. Wilson Bull. 48:11-13."	y	y	not entered yet; has Wt_or_Vol/Occurrence data	
 Cattle Egret	Ardeidae	1-May-06	Diet	Major Food Items	"Dusi, J. L. and R. T. Dusi. 1968. Ecological factors contributing to nesting failure in a heron colony. Wilson Bull. 80:458-466."				
 Cattle Egret	Ardeidae	1-May-06	Diet	Major Food Items	"Petney, T. N. and O. B. Kok. 1993. Birds as predators of ticks (Ixodoidea) in South Africa. Exp. Appl. Acarol. 17:393-403."				
 Cattle Egret	Ardeidae	1-May-06	Feeding	Microhabitat For Foraging	"Melville, D. S. 1989. Cattle Egrets and Chinese Pond Herons feeding in trees. Hong Kong Bird Rep. 1989:140-144."				
