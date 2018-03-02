@@ -2159,7 +2159,7 @@ Limpkin	Aramidae	2002	Food Selection And Storage		"Baird, S. F., T. M. Brewer, a
 Limpkin	Aramidae	2002	Food Selection And Storage		"Harper, F. 1941. Further notes on the food of the Limpkin. Nautilus 55:3-4."	n		unavailable	
 Limpkin	Aramidae	2002	Feeding	Food Capture And Consumption	"Snyder, N. F. R. and H. A. Snyder. 1969. A comparative study of mollusc predation of Limpkins, Everglades Kites, and Boat-tailed Grackles. Living Bird 8:177-223."	n		unavailable	
 Limpkin	Aramidae	2002	Food Selection And Storage		"Stevenson, H. M. 1962. Florida region. Audubon Field Notes 16:401."	n		unavailable	
-Limpkin	Aramidae	2002	Diet	Major Food Items	"Cottam, C. 1936. Food of the Limpkin. Wilson Bull. 48:11-13."	y	y	not entered yet; has Wt_or_Vol/Occurrence data	
+Limpkin	Aramidae	2002	Diet	Major Food Items	"Cottam, C. 1936. Food of the Limpkin. Wilson Bull. 48:11-13."	y	y	entered	
 Cattle Egret	Ardeidae	1-May-06	Diet	Major Food Items	"Dusi, J. L. and R. T. Dusi. 1968. Ecological factors contributing to nesting failure in a heron colony. Wilson Bull. 80:458-466."				
 Cattle Egret	Ardeidae	1-May-06	Diet	Major Food Items	"Petney, T. N. and O. B. Kok. 1993. Birds as predators of ticks (Ixodoidea) in South Africa. Exp. Appl. Acarol. 17:393-403."				
 Cattle Egret	Ardeidae	1-May-06	Feeding	Microhabitat For Foraging	"Melville, D. S. 1989. Cattle Egrets and Chinese Pond Herons feeding in trees. Hong Kong Bird Rep. 1989:140-144."				
