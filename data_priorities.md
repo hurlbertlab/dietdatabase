@@ -81,12 +81,12 @@ A secondary set of Orders to enter after the above are finished. When they have 
  
 ### Galliformes  
 --Odontophoridae  
---Cracidae
+--Cracidae     
 --Phasianidae (**** lots to check ****)- ANNABEL
 
 ### Gruiformes  
---Aramidae (1 to enter) PATRICK  
---Gruidae (2 to enter)  
+--Aramidae (1 to enter)   
+--Gruidae (2 to enter) PATRICK    
 --Rallidae (9 to enter)  
 
 ### Pelecaniformes
