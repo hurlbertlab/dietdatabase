@@ -10004,22 +10004,22 @@ Northern Hawk Owl	Strigidae	1998	Feeding	Microhabitat For Foraging	"Lane, P. A. 
 Northern Hawk Owl	Strigidae	1998	Feeding	Microhabitat For Foraging	"Nero, R. W. 1995. Notes on a wintering Northern Hawk Owl in Manitoba. Blue Jay 53:205-214."	n			
 Northern Hawk Owl	Strigidae	1998	Feeding	Microhabitat For Foraging	"Nybo, J. O. and G. A. Sonerud. 1990. Seasonal changes in diet of Hawk Owls Surnia ulula: importance of snow cover. Ornis Fenn. 67:45-51."	y	n	Prey diet exist but is inconclusive	
 Northern Hawk Owl	Strigidae	1998	Feeding	Microhabitat For Foraging	"Kertell, K. 1986. Reproductive biology of Northern Hawk-owls in Denali National Park, Alaska. J. Raptor Res. 20:91-101."	y	y		
-Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Mikkola, H. 1983. Owls of Europe. Buteo Books, Vermillion, SD."				
-Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Johnson, M. 1981. Summer Hawk-owl record. The Loon 53:53-54."				
-Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Kiliaan, H. P. L. 1989. A Hawk-owl Spruce Grouse encounter in the Northwest Territories. Blue Jay 47:213-214."				
-Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Torres, J. De La. 1990. Owls: Their life and behavior. Crown Publ. NY."				
-Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Smith, D. A. 1970. Observations on nesting Hawk Owls at the Mer Bleue, near Ottawa, Canada. Can. Field-Nat. 84:377-383."				
-Northern Hawk Owl	Strigidae	1998	Food Selection And Storage		"Ritchie, R. J. 1980. Food caching behavior of nesting wild Hawk-owls. J. Raptor Res. 14:59-60."				
-Northern Hawk Owl	Strigidae	1998	Diet	Quantitative Analysis	"Conrads, D. J. 1993. Diet of a Northern Hawk Owl in Iowa. Iowa Bird Life 63:54."				
-Northern Hawk Owl	Strigidae	1998	Diet	Quantitative Analysis	"Marti, C. D. 1987. Raptor food habits studies. Pages 67-79 in Raptor management techniques manual. (Pendleton, B. A. Giron, B. A. Millsap, K. W. Cline, and D. M. Bird, Eds.) Nat. Wildl. Fed. Washington, D.C."	y			
-Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"James, P. C. 1994. Northern Hawk Owl irruptions in Saskatchewan: 1990-91 and 1991-92. Blue Jay 52:25-28."				
-Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Collister, D. M. 1995. Prey caching by non-breeding Northern Hawk Owls in Alberta. Blue Jay 53:203-204."				
-Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Dement'Ev, G. P. and N. A. Gladkov. 1966. Birds of the Soviet Union. Vol. 1. Israel Program for Scientific Translations, Jerusalem."				
-Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Cramp, S. 1985. Handbook of the birds of Europe, the Middle East and North Africa. Vol. 4. Oxford Univ. Press, Oxford."				
-Northern Hawk Owl	Strigidae	1998	Food Selection And Storage		"Collins, C. T. 1976. Food-caching behavior in owls. J. Raptor Res. 10:74-76."				
-Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Jones, E. T. 1987. Observations of the Northern Hawk Owl in Alberta. Pages 149-151 in Biology and Conservation of Northern Forest Owls: Symposium Proceedings, February 3-7, Winnipeg, MB. (Nero, R. W., R. J. Clark, R. J. Knapton, and H. Hamre, Eds.) U.S. For. Serv. Gen. Tech. Rep. RM-142. U.S.D.A. Forest Service, Rocky Mountain Forest and Range Experiment Station. Fort Collins, CO."				
-Northern Hawk Owl	Strigidae	1998	Food Selection And Storage		"Sonerud, G. A., J. O. Nybo, P. E. Fjeld, and C. Knoff. 1987. A case of bigamy in the Hawk Owl Surnia ulula: spacing of nests and allocation of male effort. Ornis Fenn. 64:144-148."				
-Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Mikkola, H. 1972. Hawk Owls and their prey in northern Europe. B. Birds 65:453-460."				
+Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Mikkola, H. 1983. Owls of Europe. Buteo Books, Vermillion, SD."	n			
+Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Johnson, M. 1981. Summer Hawk-owl record. The Loon 53:53-54."	n			
+Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Kiliaan, H. P. L. 1989. A Hawk-owl Spruce Grouse encounter in the Northwest Territories. Blue Jay 47:213-214."	n			
+Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Torres, J. De La. 1990. Owls: Their life and behavior. Crown Publ. NY."	n			
+Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Smith, D. A. 1970. Observations on nesting Hawk Owls at the Mer Bleue, near Ottawa, Canada. Can. Field-Nat. 84:377-383."	n			
+Northern Hawk Owl	Strigidae	1998	Food Selection And Storage		"Ritchie, R. J. 1980. Food caching behavior of nesting wild Hawk-owls. J. Raptor Res. 14:59-60."	y	n		
+Northern Hawk Owl	Strigidae	1998	Diet	Quantitative Analysis	"Conrads, D. J. 1993. Diet of a Northern Hawk Owl in Iowa. Iowa Bird Life 63:54."	n			
+Northern Hawk Owl	Strigidae	1998	Diet	Quantitative Analysis	"Marti, C. D. 1987. Raptor food habits studies. Pages 67-79 in Raptor management techniques manual. (Pendleton, B. A. Giron, B. A. Millsap, K. W. Cline, and D. M. Bird, Eds.) Nat. Wildl. Fed. Washington, D.C."	y	n		
+Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"James, P. C. 1994. Northern Hawk Owl irruptions in Saskatchewan: 1990-91 and 1991-92. Blue Jay 52:25-28."	y	n		
+Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Collister, D. M. 1995. Prey caching by non-breeding Northern Hawk Owls in Alberta. Blue Jay 53:203-204."	n			
+Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Dement'Ev, G. P. and N. A. Gladkov. 1966. Birds of the Soviet Union. Vol. 1. Israel Program for Scientific Translations, Jerusalem."	n		Prey diet in Soviet Union	
+Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Cramp, S. 1985. Handbook of the birds of Europe, the Middle East and North Africa. Vol. 4. Oxford Univ. Press, Oxford."	n		Prey diet in everywhere but North America	
+Northern Hawk Owl	Strigidae	1998	Food Selection And Storage		"Collins, C. T. 1976. Food-caching behavior in owls. J. Raptor Res. 10:74-76."	y	n	Prey diet fed to the owls	
+Northern Hawk Owl	Strigidae	1998	Feeding	Food Capture And Consumption	"Jones, E. T. 1987. Observations of the Northern Hawk Owl in Alberta. Pages 149-151 in Biology and Conservation of Northern Forest Owls: Symposium Proceedings, February 3-7, Winnipeg, MB. (Nero, R. W., R. J. Clark, R. J. Knapton, and H. Hamre, Eds.) U.S. For. Serv. Gen. Tech. Rep. RM-142. U.S.D.A. Forest Service, Rocky Mountain Forest and Range Experiment Station. Fort Collins, CO."	n			
+Northern Hawk Owl	Strigidae	1998	Food Selection And Storage		"Sonerud, G. A., J. O. Nybo, P. E. Fjeld, and C. Knoff. 1987. A case of bigamy in the Hawk Owl Surnia ulula: spacing of nests and allocation of male effort. Ornis Fenn. 64:144-148."	y	n		
+Northern Hawk Owl	Strigidae	1998	Diet	Other Documented Prey	"Mikkola, H. 1972. Hawk Owls and their prey in northern Europe. B. Birds 65:453-460."	n		Prey diet in Northern Europe	
 Northern Hawk Owl	Strigidae	1998	Feeding	Microhabitat For Foraging	"Rohner, C., J. N. M. Smith, J. Stroman, and M. Joyce. 1995. Northern Hawk-owls in the Nearctic boreal forest: Prey selection and population consequences of multiple prey cycles. Condor 97:208-220."				
 Northern Hawk Owl	Strigidae	1998	Metabolism And Temperature Regulation		"Collins, C. T. 1991. Diurnal body temperature cycle in the Northern Hawk Owl Surnia ulula. J. Raptor Res. 25:92-93."				
 Northern Hawk Owl	Strigidae	1998	Metabolism And Temperature Regulation		"Johnson, W. D. and C. T. Collins. 1975. Notes on the metabolism of the Cuckoo Owlet and Hawk Owl. Bull. South. Calif. Acad. Sci. 74:44-45."				
