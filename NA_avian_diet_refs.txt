@@ -10029,9 +10029,9 @@ Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Cramp, S
 Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Smith, C. F. 1935. Observations on a captive Pygmy Owl. Condor 37:210-211."	n			
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Balgooyen, T. G. 1969. Pygmy Owl attacks California Quail. Auk 86:358."	y	n		
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Bull, E. L., J. E. Hohmann, and M. G. Henjum. 1987. Northern Pygmy-Owl nests in northeastern Oregon. J. Raptor Res. 21:77-78."	n			
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Holt, D. W. and L. A. Leroux. 1996. Diets of Northern Pygmy-Owls and Northern Saw-whet Owls in west-central Montana. Wilson Bull. 108:123-128."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Aiken, C. E. H. and E. R. Warren. 1914. The birds of El Paso county, Colorado. Col. Coll. Sci. Ser. 12:455-603."				
-Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Bent, A. C. 1938. Life histories of North American birds of prey, Pt. 2. U.S. Nat. Mus. Bull. no. 170."				
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Holt, D. W. and L. A. Leroux. 1996. Diets of Northern Pygmy-Owls and Northern Saw-whet Owls in west-central Montana. Wilson Bull. 108:123-128."	y	y		
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Aiken, C. E. H. and E. R. Warren. 1914. The birds of El Paso county, Colorado. Col. Coll. Sci. Ser. 12:455-603."	y	n		
+Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Bent, A. C. 1938. Life histories of North American birds of prey, Pt. 2. U.S. Nat. Mus. Bull. no. 170."	y	y		
 Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Hayward, G. D. and E. O. Garton. 1988. Resource partitioning among forest owls in the River of No Return Wilderness, Idaho. Oecologia 75:253-265."				
 Northern Pygmy-Owl	Strigidae	2000	Food Selection And Storage		"Solheim, R. 1984. Caching behavior, prey choice and surplus killing by Pygmy Owls (Glaucidium passerinum) during winter, a functional response of a generalist predator. Ann. Zool. Fenn. 21:301-308."				
 Northern Pygmy-Owl	Strigidae	2000	Nutrition And Energetics		"Ligon, J. D. 1969. Some aspects of temperature relations in small owls. Auk 86:458-472."				
