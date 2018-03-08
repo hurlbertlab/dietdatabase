@@ -180,17 +180,21 @@ speciesSummary = function(commonName, by = 'Order') {
     spread(Diet_Type, value = Frac_Diet)
   
   # Get Frac_Diet output columns in standardized order
-  cols = data.frame(col = c('Items', 'Wt_or_Vol', 'Unspecified', 'Occurrence'), order = 1:4) %>%
-    left_join(data.frame(col = names(preySummary)[2:ncol(preySummary)], x = rep('x', ncol(preySummary)-1)), by = 'col') %>%
-    filter(x == 'x') %>%
-    arrange(order) %>% 
-    select(col) %>%
-    as.vector(col)
+  allCols = data.frame(col = c('Items', 'Wt_or_Vol', 'Unspecified', 'Occurrence'), order = 1:4)
+  allCols$col = as.character(allCols$col)
   
-  select(Taxon, Items, Wt_or_Vol, Unspecified, Occurrence) %>%
-    arrange(desc(Items), desc(Wt_or_Vol), desc(Unspecified), desc(Occurrence))
+  cols = data.frame(col = names(preySummary)[2:ncol(preySummary)])
+  cols$col = as.character(cols$col)
   
-    return(list(numStudies = numStudies,
+  colOrdered = cols %>%
+    left_join(allCols, by = 'col') %>%
+    arrange(order) %>%
+    select(col)
+  
+  preySummary2 = preySummary[, c('Taxon', colOrdered[,1])]
+  preySummary2 = preySummary2[order(preySummary2[[2]], decreasing = TRUE), ]
+  
+  return(list(numStudies = numStudies,
               Studies = Studies,
               numRecords = numRecords,
               recordsPerSeason = recordsPerSeason,
@@ -198,7 +202,7 @@ speciesSummary = function(commonName, by = 'Order') {
               recordsPerPreyIDLevel = recordsPerPreyIDLevel,
               recordsPerType = recordsPerType,
               analysesPerDietType = data.frame(analysesPerDietType),
-              preySummary = data.frame(preySummary)))
+              preySummary = data.frame(preySummary2)))
 }
 
 
