@@ -175,7 +175,10 @@ speciesSummary = function(commonName, by = 'Order') {
     select(Diet_Type, Taxon, Frac_Diet) %>%
     arrange(Diet_Type, desc(Frac_Diet))
   
-  preySummary = rbind(preySummary_nonOccurrence, preySummary_Occurrence)
+  preySummary = rbind(preySummary_nonOccurrence, preySummary_Occurrence) %>%
+    spread(Diet_Type, value = Frac_Diet) %>%
+    select(Taxon, Items, Wt_or_Vol, Unspecified, Occurrence) %>%
+    arrange(desc(Items), desc(Wt_or_Vol), desc(Unspecified), desc(Occurrence))
   
     return(list(numStudies = numStudies,
               Studies = Studies,
