@@ -67,8 +67,9 @@ speciesSummary = function(commonName, by = 'Order') {
   numStudies = length(unique(dietsp$Source))
   Studies = unique(dietsp$Source)
   numRecords = nrow(dietsp)
-  recordsPerYear = data.frame(count(dietsp, Observation_Year_End))
-  recordsPerRegion = data.frame(count(dietsp, Location_Region))
+  recordsPerYearRegion = data.frame(count(dietsp, Observation_Year_End, Location_Region)) %>%
+    rename(Year = Observation_Year_End) %>%
+    spread(Year, value = n)
   recordsPerType = data.frame(count(dietsp, Diet_Type))
   recordsPerSeason = data.frame(count(dietsp, Observation_Season))
   
@@ -176,16 +177,24 @@ speciesSummary = function(commonName, by = 'Order') {
     arrange(Diet_Type, desc(Frac_Diet))
   
   preySummary = rbind(preySummary_nonOccurrence, preySummary_Occurrence) %>%
-    spread(Diet_Type, value = Frac_Diet) %>%
-    select(Taxon, Items, Wt_or_Vol, Unspecified, Occurrence) %>%
+    spread(Diet_Type, value = Frac_Diet)
+  
+  # Get Frac_Diet output columns in standardized order
+  cols = data.frame(col = c('Items', 'Wt_or_Vol', 'Unspecified', 'Occurrence'), order = 1:4) %>%
+    left_join(data.frame(col = names(preySummary)[2:ncol(preySummary)], x = rep('x', ncol(preySummary)-1)), by = 'col') %>%
+    filter(x == 'x') %>%
+    arrange(order) %>% 
+    select(col) %>%
+    as.vector(col)
+  
+  select(Taxon, Items, Wt_or_Vol, Unspecified, Occurrence) %>%
     arrange(desc(Items), desc(Wt_or_Vol), desc(Unspecified), desc(Occurrence))
   
     return(list(numStudies = numStudies,
               Studies = Studies,
               numRecords = numRecords,
-              recordsPerYear = recordsPerYear,
               recordsPerSeason = recordsPerSeason,
-              recordsPerRegion = recordsPerRegion,
+              recordsPerYearRegion = recordsPerYearRegion,
               recordsPerPreyIDLevel = recordsPerPreyIDLevel,
               recordsPerType = recordsPerType,
               analysesPerDietType = data.frame(analysesPerDietType),
