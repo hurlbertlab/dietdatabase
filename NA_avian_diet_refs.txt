@@ -10032,14 +10032,14 @@ Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Bull, E. L., J. E. Hohm
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Holt, D. W. and L. A. Leroux. 1996. Diets of Northern Pygmy-Owls and Northern Saw-whet Owls in west-central Montana. Wilson Bull. 108:123-128."	y	y		
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Aiken, C. E. H. and E. R. Warren. 1914. The birds of El Paso county, Colorado. Col. Coll. Sci. Ser. 12:455-603."	y	n		
 Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Bent, A. C. 1938. Life histories of North American birds of prey, Pt. 2. U.S. Nat. Mus. Bull. no. 170."	y	y		
-Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Hayward, G. D. and E. O. Garton. 1988. Resource partitioning among forest owls in the River of No Return Wilderness, Idaho. Oecologia 75:253-265."				
-Northern Pygmy-Owl	Strigidae	2000	Food Selection And Storage		"Solheim, R. 1984. Caching behavior, prey choice and surplus killing by Pygmy Owls (Glaucidium passerinum) during winter, a functional response of a generalist predator. Ann. Zool. Fenn. 21:301-308."				
-Northern Pygmy-Owl	Strigidae	2000	Nutrition And Energetics		"Ligon, J. D. 1969. Some aspects of temperature relations in small owls. Auk 86:458-472."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Voous, K. H. 1988. Owls of the northern hemisphere. MIT Press, Cambridge, MA."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Proudfoot, G. A. 1997. Food habits of nesting Ferruginous Pygmy-Owls in southern Texas. Wilson Bull. 109:741-748."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Johnsgard, P. J. 1988. North American owls: Their biology and natural history. Smithson. Inst. Press, Washington, D.C."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Kellomaki, E. 1977. Food of the Pygmy Owl (Glaucidium passerinum) in the breeding season. Ornis Fenn. 54:1-29."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Holman, F. C. 1926. Nesting of the California Pygmy Owl in Yosemite. Condor 28:92-93."				
+Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Hayward, G. D. and E. O. Garton. 1988. Resource partitioning among forest owls in the River of No Return Wilderness, Idaho. Oecologia 75:253-265."	y	y		
+Northern Pygmy-Owl	Strigidae	2000	Food Selection And Storage		"Solheim, R. 1984. Caching behavior, prey choice and surplus killing by Pygmy Owls (Glaucidium passerinum) during winter, a functional response of a generalist predator. Ann. Zool. Fenn. 21:301-308."	y		"Food caches, not diet"	
+Northern Pygmy-Owl	Strigidae	2000	Nutrition And Energetics		"Ligon, J. D. 1969. Some aspects of temperature relations in small owls. Auk 86:458-472."	y	n		
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Voous, K. H. 1988. Owls of the northern hemisphere. MIT Press, Cambridge, MA."	y	n		
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Proudfoot, G. A. 1997. Food habits of nesting Ferruginous Pygmy-Owls in southern Texas. Wilson Bull. 109:741-748."	y	y	Already entered in the database	
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Johnsgard, P. J. 1988. North American owls: Their biology and natural history. Smithson. Inst. Press, Washington, D.C."	y	n		
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Kellomaki, E. 1977. Food of the Pygmy Owl (Glaucidium passerinum) in the breeding season. Ornis Fenn. 54:1-29."	n	n	Prey diet in Finland	
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Holman, F. C. 1926. Nesting of the California Pygmy Owl in Yosemite. Condor 28:92-93."	n			
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Earhart, C. M. and N. K. Johnson. 1970. Size dimorphism and food habits of North American owls. Condor 72:251-264."				
 Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Fisher, A. K. 1893. The hawks and owls of the United States in their relation to agriculture. USDA, Div. Ornithol. and Mammal., Bull. no. 3."				
 Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Pierce, W. M. 1921. California Pygmy Owl from Cucamonga Canyon, southern California. Condor 23:96."				

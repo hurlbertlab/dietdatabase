@@ -1,0 +1,84 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Unidentified	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1984	7	1984	summer	Plantae	Tracheophyta	Magnoliopsida	Asterales	NA	Asteraceae	Erigeron	NA	no			NA	vegetation;flower	daisy	0.1009	Wt_or_Vol	NA	9	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1984	7	1984	summer	Plantae	Tracheophyta	Magnoliopsida	Asterales	NA	Asteraceae	Thelesperma	NA	no			NA	vegetation;flower	greenthread	0.0561	Wt_or_Vol	NA	9	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1984	7	1984	summer	Plantae	Tracheophyta	Magnoliopsida	Poales	NA	Poaceae	NA	NA	yes			NA	vegetation;flower	grasses	0.0076	Wt_or_Vol	NA	9	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1984	7	1984	summer	Plantae	Tracheophyta	Magnoliopsida	Asterales	NA	NA	NA	NA	yes			NA	vegetation;flower	NA	0.0501	Wt_or_Vol	NA	9	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1984	7	1984	summer	Plantae	Tracheophyta	Magnoliopsida	Fagales	NA	Fagaceae	NA	Quercus havardii	no			NA	seed	Havard's oak	0.5986	Wt_or_Vol	NA	9	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1984	7	1984	summer	Animalia	Arthropoda	Insecta	Hemiptera	Auchenorrhyncha	Membracidae	NA	NA	no			NA	NA	treehoppers	0.1712	Wt_or_Vol	NA	9	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1984	7	1984	summer	Animalia	Arthropoda	Insecta	Orthoptera	Caelifera	Acrididae	NA	NA	no			NA	NA	grasshoppers	0.0135	Wt_or_Vol	NA	9	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1984	7	1984	summer	Animalia	Arthropoda	Insecta	NA	NA	NA	NA	NA	yes			NA	NA	insects	0.002	Wt_or_Vol	NA	9	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	Asterales	NA	Asteraceae	Thelesperma	NA	no			NA	vegetation;flower	greenthread	0.0219	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	Boraginales	NA	Boraginaceae	NA	Cryptantha cinerea	no			NA	vegetation;flower	James' cryptantha	0.0118	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	Fagales	NA	Fagaceae	NA	Quercus havardii	no			NA	vegetation;flower	Havard's oak	0.0654	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	Fabales	NA	Fabaceae	NA	Dalea foliosa	no			NA	vegetation;flower	leafy prairie clover	0.0033	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	Commelinales	NA	Commelinaceae	NA	Commelina erecta	no			NA	vegetation;flower	erect dayflower	0.0886	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	Poales	NA	Poaceae	NA	NA	yes			NA	vegetation;flower	grasses	0.0325	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	Asterales	NA	NA	NA	NA	yes			NA	vegetation;flower	NA	0.026	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	NA	NA	NA	NA	NA	yes			NA	fruit	NA	0.0713	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	Malpighiales	NA	Linaceae	NA	Linum rigidum	no			NA	seed	orange flax	0.0002	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	NA	NA	NA	NA	NA	yes			NA	seed	NA	0.0022	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	Tracheophyta	Magnoliopsida	Fagales	NA	Fagaceae	NA	Quercus havardii	no			NA	seed	Havard's oak	0.3583	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Plantae	NA	NA	NA	NA	NA	NA	NA	yes			NA	NA	NA	0.0011	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Animalia	Arthropoda	Insecta	Hemiptera	Auchenorrhyncha	Membracidae	NA	NA	no			NA	NA	treehoppers	0.1467	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Animalia	Arthropoda	Insecta	Orthoptera	Caelifera	Acrididae	NA	NA	no			NA	NA	grasshoppers	0.1515	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Pentatomidae	NA	NA	no			NA	NA	stink bugs	0.0044	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	NA	Phasianidae	eBird Clements Checklist v2017	NA	NA	NA	NA	NA	Texas;New Mexico	West Texas;Eastern New Mexico	grassland;desert	5	1985	7	1985	summer	Animalia	Arthropoda	Insecta	NA	NA	NA	NA	NA	yes			NA	NA	insects	0.0149	Wt_or_Vol	NA	12	NA	stomach contents		AR	"Olawsky, C. D. 1987. Effects of shinnery oak control with tebuthiuron on Lesser Prairie-Chicken populations. Master's Thesis. Texas Tech. Univ., Lubbock."
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+																																								
+Greater Prarie Chicken										Oklahoma	Osage County	grassland																						NA	NA	2		a total of 990 greater prairie chickn droppings were analyzed		
