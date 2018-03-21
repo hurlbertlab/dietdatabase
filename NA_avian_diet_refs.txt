@@ -4784,6 +4784,10 @@ Sandhill Crane	Gruidae	1992	Diet		"Iverson, G. C., T. C. Tacha, and P. A. Vohs. 
 Sandhill Crane	Gruidae	1992	Diet		"Mullins, W. H. and E. G. Bizeau. 1978. Summer foods of Sandhill Cranes in Idaho. Auk 95:175-178."	y	y	entered	
 Sandhill Crane	Gruidae	1992	Nutrition And Energetics		"Krapu, G. L., G. C. Iverson, K. J. Reineke, and C. M. Boise. 1985. Fat deposition and usage by arctic nesting Sandhill Cranes during spring. Auk 102:362-368."	y	n		
 Sandhill Crane	Gruidae	1992	Nutrition And Energetics		"Tacha, T. C., C. Jorgenson, and P. S. Taylor. 1985a. Harvest, migration, and condition of Sandhill Cranes in Saskatchewan. J. Wildl. Manage. 49:476-480."	y	n		
+Sandhill Crane	Gruidae	1992	Diet		"Ballard, B. M., & Thompson, J. E. 2000. Winter diets of Sandhill Cranes from central and coastal Texas. The Wilson Bulletin, 112(2), 263-268."	y	y	not entered yet	
+Sandhill Crane	Gruidae	1992	Diet		"Guthery, F. S. 1975. Food habits of Sandhill Cranes in southern Texas. The Journal of Wildlife Management, 39(1), 221-223."	y	y	not entered yet	
+Sandhill Crane	Gruidae	1992	Diet		"Hunt, H. E., & Slack, R. D. 1989. Winter diets of whooping and sandhill cranes in south Texas. The Journal of wildlife management, 1150-1154."	y	y	not entered yet	
+Sandhill Crane	Gruidae	1992	Diet		"Davis, C. A., & Vohs, P. A. 1993. Role of macroinvertebrates in spring diet and habitat use of sandhill cranes."	y	y	not entered yet	
 Whooping Crane	Gruidae	1995	Feeding	Main Foods Taken	"Allen, R. P. 1956. A report on the Whooping Cranes' northern breeding grounds. Resour. Rept. 3. Natl. Audubon Soc. Suppl. New York."				
 Whooping Crane	Gruidae	1995	Feeding	Main Foods Taken	"Novakowski, N. S. 1966. Whooping Crane population dynamics on the nesting grounds, Wood Buffalo National Park, Northwest Territories, Canada. Can. Wildl. Serv. Res. Rep. Ser. 1, Ottawa."				
 Whooping Crane	Gruidae	1995	Feeding	Main Foods Taken	"Bishop, M. A. and D. R. Blankinship. 1982. Dynamics of subadult flocks of Whooping Cranes at Aransas National Wildlife Refuge, Texas, 1978-1981. Pages 180-189 in Proc. 1981 internatl. crane workshop. (Lewis, J. C., Ed.) Natl. Audubon Soc. Tavernier, FL."				
