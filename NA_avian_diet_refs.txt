@@ -10088,7 +10088,7 @@ Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Kumlien, L. 1899. Habi
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Abs, M., E. Curio, P. Kramer, and J. Niethammer. 1965. Zur Ernahrungsweise der Eulen auf Galapagos. J. Ornithol. 106:49-57."	n		"Prey diet in the galapagos island, off the coast of South America"	
 Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Cobb, S. 1960. A note on the size of the avian olfactory bulbs. Epilepsia 1:394-402."	y	y		
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Craighead, J. J. and F. C. Craighead. 1956. Hawks, owls and wildlife. Stackpole Co. Harrisburg, PA."	n			
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Colvin, A. B. and S. R. Spaulding. 1983. Winter foraging behavior of Short-eared Owls in Ohio. Am. Midl. Nat. 110:124-128."				
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Colvin, A. B. and S. R. Spaulding. 1983. Winter foraging behavior of Short-eared Owls in Ohio. Am. Midl. Nat. 110:124-128."	y	y		
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Holt, D. W. 1993a. Breeding season diet of Short-eared Owls from Massachusetts. Wilson Bull. 105:490-496."				
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Holt, D. W. 1993b. Trophic niche of nearctic Short-eared Owls. Wilson Bull. 105:497-503."				
 Short-eared Owl	Strigidae	1-Jun-06	"Drinking, Pellet-Casting, And Defecation"		"Clark, R. J. 1972. Pellets of the Short-eared Owl and Marsh Hawk compared. J. Wildl. Manage. 36:962-964."				
