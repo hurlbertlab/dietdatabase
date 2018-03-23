@@ -10065,29 +10065,29 @@ Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Sater, D. M. 1993. The 
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Brock, E. M. 1958. Some prey of the Pygmy Owl. Condor 60:338."	y	y		
 Short-eared Owl	Strigidae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	n		
 Short-eared Owl	Strigidae		Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	n		
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Walley, W. J. 1982. Weasel skull in Short-eared Owl pellet. Can. Field-Nat. 96:85."				
-Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Marr, T. G. and D. W. McWhirter. 1982. Differential hunting success in a group of Short-eared Owls. Wilson Bull. 94:82-83."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Snetsinger, T. J. 2005. Breeding ecology of the puaiohi (Myadestes palmeri). Wilson Bull. 117(1):72-84."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Johnston, R. F. 1956. Predation by Short-eared Owls on salicornia salt marsh. Wilson Bull. 68:91-102."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Fisler, G. F. 1960. Changes in food habits of Short-eared Owls feeding in a salt marsh. Condor 62:486-487."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Holt, D. W. 1990. Blond color morph of Meadow Voles, Microtus pennsylvanicus from Massachusetts. Can. Field-Nat. 104:596-597."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Wiebe, K. L. 1991. Food habits of breeding Short-eared Owls in southwestern British Columbia. J. Rap. Res. 25:143-145."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Tomkins, I. R. 1936. Notes on the winter food of the Short-eared Owl. Wilson Bull. 48:77-79."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Harris, M. P. 1969. The biology of Storm-Petrels in Galapagos islands. Proc. Calif. Acad. Sci. 37:95-166."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Grant, P. R., N. M. Smith, I. J. Abbott, and L. K. Abbott. 1975. Finch numbers, owl predation and plant dispersal on Isla Daphne Major, Galapagos. Oecologia 19:239-257."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Groot, R. S. De. 1983. Origin, status and ecology of the owls in Galapagos. Ardea 71:167-182."				
-Short-eared Owl	Strigidae	1-Jun-06	"Drinking, Pellet-Casting, And Defecation"		"Chitty, D. 1938. A laboratory study of pellet formation in the Short-eared Owl (Asio flammeus). Proc. Zool. Soc. Lond. 108:267-287."				
-Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Holt, D. W. 1994. Effects of Short-eared Owls on Common Tern Colony Desertion, Reproduction, and Mortality. Colonial Waterbirds 17(1):1-6."				
-Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Kuroda, N. 1967. A note on the asymmetric ears of Asio flammeus. J. Yamashina Inst. Ornithol. 5:106-109."				
-Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Feduccia, A. and C. E. Ferree. 1978. Morphology of the boney stapes (columella) in owls: evolutionary implications. Proc. Biol. Soc. Wash. 91:431-438."				
-Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Voous, K. H. 1988. Owls of the northern hemisphere. \. M.I.T. Press, Cambridge, MA."				
-Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Martin, G. 1990. Birds by night. T. and A. D. Poyser, London."				
-Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Rice, W. R. 1982. Acoustical location of prey by the Marsh Hawk: adaptation to concealed prey. Auk 99:403-413."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Page, G. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:73-83."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Kumlien, L. 1899. Habits of young Short-eared Owls. Osprey 3:69-70."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Abs, M., E. Curio, P. Kramer, and J. Niethammer. 1965. Zur Ernahrungsweise der Eulen auf Galapagos. J. Ornithol. 106:49-57."				
-Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Cobb, S. 1960. A note on the size of the avian olfactory bulbs. Epilepsia 1:394-402."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Craighead, J. J. and F. C. Craighead. 1956. Hawks, owls and wildlife. Stackpole Co. Harrisburg, PA."				
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Walley, W. J. 1982. Weasel skull in Short-eared Owl pellet. Can. Field-Nat. 96:85."	n			
+Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Marr, T. G. and D. W. McWhirter. 1982. Differential hunting success in a group of Short-eared Owls. Wilson Bull. 94:82-83."	y	n		
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Snetsinger, T. J. 2005. Breeding ecology of the puaiohi (Myadestes palmeri). Wilson Bull. 117(1):72-84."	y	n		
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Johnston, R. F. 1956. Predation by Short-eared Owls on salicornia salt marsh. Wilson Bull. 68:91-102."	y	y		
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Fisler, G. F. 1960. Changes in food habits of Short-eared Owls feeding in a salt marsh. Condor 62:486-487."	n			
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Holt, D. W. 1990. Blond color morph of Meadow Voles, Microtus pennsylvanicus from Massachusetts. Can. Field-Nat. 104:596-597."	n			
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Wiebe, K. L. 1991. Food habits of breeding Short-eared Owls in southwestern British Columbia. J. Rap. Res. 25:143-145."	y		prey diet in British Columbia	
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Tomkins, I. R. 1936. Notes on the winter food of the Short-eared Owl. Wilson Bull. 48:77-79."	n			
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Harris, M. P. 1969. The biology of Storm-Petrels in Galapagos islands. Proc. Calif. Acad. Sci. 37:95-166."	n			
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Grant, P. R., N. M. Smith, I. J. Abbott, and L. K. Abbott. 1975. Finch numbers, owl predation and plant dispersal on Isla Daphne Major, Galapagos. Oecologia 19:239-257."	y		"Prey diet in the galapagos island, off the coast of South America"	
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Groot, R. S. De. 1983. Origin, status and ecology of the owls in Galapagos. Ardea 71:167-182."	n		"Prey diet in the galapagos island, off the coast of South America"	
+Short-eared Owl	Strigidae	1-Jun-06	"Drinking, Pellet-Casting, And Defecation"		"Chitty, D. 1938. A laboratory study of pellet formation in the Short-eared Owl (Asio flammeus). Proc. Zool. Soc. Lond. 108:267-287."	y	n		
+Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Holt, D. W. 1994. Effects of Short-eared Owls on Common Tern Colony Desertion, Reproduction, and Mortality. Colonial Waterbirds 17(1):1-6."	y	n		
+Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Kuroda, N. 1967. A note on the asymmetric ears of Asio flammeus. J. Yamashina Inst. Ornithol. 5:106-109."	n			
+Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Feduccia, A. and C. E. Ferree. 1978. Morphology of the boney stapes (columella) in owls: evolutionary implications. Proc. Biol. Soc. Wash. 91:431-438."	n			
+Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Voous, K. H. 1988. Owls of the northern hemisphere. M.I.T. Press, Cambridge, MA."	n			
+Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Martin, G. 1990. Birds by night. T. and A. D. Poyser, London."	n		Prey diet in London	
+Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Rice, W. R. 1982. Acoustical location of prey by the Marsh Hawk: adaptation to concealed prey. Auk 99:403-413."	y	n		
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Page, G. and D. F. Whitacre. 1975. Raptor predation on wintering shorebirds. Condor 77:73-83."	y	y	Already entered in the database	
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Kumlien, L. 1899. Habits of young Short-eared Owls. Osprey 3:69-70."	n			
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Abs, M., E. Curio, P. Kramer, and J. Niethammer. 1965. Zur Ernahrungsweise der Eulen auf Galapagos. J. Ornithol. 106:49-57."	n		"Prey diet in the galapagos island, off the coast of South America"	
+Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Cobb, S. 1960. A note on the size of the avian olfactory bulbs. Epilepsia 1:394-402."	y	y		
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Craighead, J. J. and F. C. Craighead. 1956. Hawks, owls and wildlife. Stackpole Co. Harrisburg, PA."	n			
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Colvin, A. B. and S. R. Spaulding. 1983. Winter foraging behavior of Short-eared Owls in Ohio. Am. Midl. Nat. 110:124-128."				
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Holt, D. W. 1993a. Breeding season diet of Short-eared Owls from Massachusetts. Wilson Bull. 105:490-496."				
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Holt, D. W. 1993b. Trophic niche of nearctic Short-eared Owls. Wilson Bull. 105:497-503."				
