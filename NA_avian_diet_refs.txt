@@ -10045,26 +10045,26 @@ Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Proudfoot, G. A. 1997. 
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Johnsgard, P. J. 1988. North American owls: Their biology and natural history. Smithson. Inst. Press, Washington, D.C."	y	n		
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Kellomaki, E. 1977. Food of the Pygmy Owl (Glaucidium passerinum) in the breeding season. Ornis Fenn. 54:1-29."	n	n	Prey diet in Finland	
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Holman, F. C. 1926. Nesting of the California Pygmy Owl in Yosemite. Condor 28:92-93."	n			
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Earhart, C. M. and N. K. Johnson. 1970. Size dimorphism and food habits of North American owls. Condor 72:251-264."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Fisher, A. K. 1893. The hawks and owls of the United States in their relation to agriculture. USDA, Div. Ornithol. and Mammal., Bull. no. 3."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Pierce, W. M. 1921. California Pygmy Owl from Cucamonga Canyon, southern California. Condor 23:96."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Clabaugh, E. D. 1933. Food of the Pygmy Owl and Goshawk. Condor 35:80."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Kimball, H. H. 1925. Pygmy Owl killing a quail. Condor 27:209-210."				
-Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Bendire, C. E. 1875. Notes on seventy-nine species of birds observed in the neighborhood of Camp Harney, Oregon. Proc. Boston Soc. Nat. Hist. 18:153-168."				
-Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Merrill, J. C. 1888. Notes on the birds of Fort Klamath, Oregon. Auk 5:139-146."				
-Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Michael, C. W. 1927. Pygmy Owl: The little demon. Condor 29:161-162."				
-Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Rashid, S. 1999. Northern Pygmy Owls in Rocky Mountain National Park. Colo. Field. Ornithol. 33:94-101."				
-Northern Pygmy-Owl	Strigidae	2000	Metabolism And Temperature Regulation	Body Temperature	"Schmidt-Nielsen, K. 1990. Animal physiology: adaptation and environment. Cambridge Univ. Press, England."				
-Northern Pygmy-Owl	Strigidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Monroe, B. L. 1968. A distributional survey of the birds of Honduras. Am. Ornithol. Union, Washington, D.C."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Mikkola, H. 1983. Owls of Europe. Buteo Books, Vermillion, SD."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Richardson, C. H. 1906. Cannibalism in owls. Condor 8:57."				
-Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Holt, D. W. and W. D. Norton. 1986. Observations of nesting Northern Pygmy-Owls. J. Raptor Res. 20:39-41."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Walker, A. 1924. Notes on some Oregon birds. Condor 26:181."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Norton, W. D. and D. W. Holt. 1982. Simultaneous nesting of Northern Pygmy-Owls and Northern Saw-whet Owls in the same snag. Murrelet 63:94."				
-Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Sater, D. M. 1993. The biology of the Northern Pygmy-Owl (G. gnoma): A review and discussion of the available information and suggestions for the future. Senior thesis. Reed College, Portland, OR."				
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Earhart, C. M. and N. K. Johnson. 1970. Size dimorphism and food habits of North American owls. Condor 72:251-264."	n		prey diet exists but researcher didn't do prey diet. Combined from other studies. 	
+Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Fisher, A. K. 1893. The hawks and owls of the United States in their relation to agriculture. USDA, Div. Ornithol. and Mammal., Bull. no. 3."	y	n		
+Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Pierce, W. M. 1921. California Pygmy Owl from Cucamonga Canyon, southern California. Condor 23:96."	n			
+Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Clabaugh, E. D. 1933. Food of the Pygmy Owl and Goshawk. Condor 35:80."	n			
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Kimball, H. H. 1925. Pygmy Owl killing a quail. Condor 27:209-210."	n			
+Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Bendire, C. E. 1875. Notes on seventy-nine species of birds observed in the neighborhood of Camp Harney, Oregon. Proc. Boston Soc. Nat. Hist. 18:153-168."	n			
+Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Merrill, J. C. 1888. Notes on the birds of Fort Klamath, Oregon. Auk 5:139-146."	y	n		
+Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Michael, C. W. 1927. Pygmy Owl: The little demon. Condor 29:161-162."	n			
+Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Rashid, S. 1999. Northern Pygmy Owls in Rocky Mountain National Park. Colo. Field. Ornithol. 33:94-101."	n			
+Northern Pygmy-Owl	Strigidae	2000	Metabolism And Temperature Regulation	Body Temperature	"Schmidt-Nielsen, K. 1990. Animal physiology: adaptation and environment. Cambridge Univ. Press, England."	n			
+Northern Pygmy-Owl	Strigidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Monroe, B. L. 1968. A distributional survey of the birds of Honduras. Am. Ornithol. Union, Washington, D.C."	n		prey diet in Honduras	
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Mikkola, H. 1983. Owls of Europe. Buteo Books, Vermillion, SD."	n		Prey diet in Europe	
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Richardson, C. H. 1906. Cannibalism in owls. Condor 8:57."	n			
+Northern Pygmy-Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Holt, D. W. and W. D. Norton. 1986. Observations of nesting Northern Pygmy-Owls. J. Raptor Res. 20:39-41."	n			
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Walker, A. 1924. Notes on some Oregon birds. Condor 26:181."	n			
+Northern Pygmy-Owl	Strigidae	2000	Diet	Quantitative Analysis	"Norton, W. D. and D. W. Holt. 1982. Simultaneous nesting of Northern Pygmy-Owls and Northern Saw-whet Owls in the same snag. Murrelet 63:94."	y	n		
+Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Sater, D. M. 1993. The biology of the Northern Pygmy-Owl (G. gnoma): A review and discussion of the available information and suggestions for the future. Senior thesis. Reed College, Portland, OR."	n			
 Northern Pygmy-Owl	Strigidae	2000	Diet	Major Food Items	"Brock, E. M. 1958. Some prey of the Pygmy Owl. Condor 60:338."	y	y		
-Short-eared Owl	Strigidae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."				
-Short-eared Owl	Strigidae		Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."				
+Short-eared Owl	Strigidae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	n		
+Short-eared Owl	Strigidae		Feeding	Food Capture And Consumption	"Smith, D. G. and J. R. Murphy. 1973. Breeding ecology of raptors in the eastern Great Basin of Utah. Brigham Young Univ. Sci. Bull., Biol. Ser. 13:1-76."	y	n		
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Walley, W. J. 1982. Weasel skull in Short-eared Owl pellet. Can. Field-Nat. 96:85."				
 Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Marr, T. G. and D. W. McWhirter. 1982. Differential hunting success in a group of Short-eared Owls. Wilson Bull. 94:82-83."				
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Snetsinger, T. J. 2005. Breeding ecology of the puaiohi (Myadestes palmeri). Wilson Bull. 117(1):72-84."				
