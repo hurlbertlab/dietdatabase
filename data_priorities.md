@@ -70,7 +70,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Trochilidae  
 
 ### Falconiformes  
---Falconidae (FINISHED)
+--Falconidae 
 
 ### Coraciiformes
 --Alcedinidae
@@ -85,12 +85,10 @@ A secondary set of Orders to enter after the above are finished. When they have 
 --Phasianidae (**** lots to check ****)- ANNABEL
 
 ### Gruiformes  
---Aramidae 
+--Aramidae  
 --Gruidae (2 to enter) PATRICK    
 --Rallidae (9 to enter)  
 
-### Pelecaniformes
---Ardeidae  
 
 ---------
 
@@ -107,6 +105,7 @@ Eventually, enter shorebirds and seabirds:
 --Stercorariidae  
 
 ### Pelecaniformes
+--Ardeidae  
 --Pelecanidae  
 --Threskiornithidae  
 
