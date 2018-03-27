@@ -31,11 +31,12 @@ dbSummary = function(diet = NULL) {
   spCountByFamily2$Family = as.character(spCountByFamily2$Family)
   spCountByFamily2$WithoutData[is.na(spCountByFamily2$WithoutData)] = 0
   spCountByFamily2 = spCountByFamily2[spCountByFamily2$Family != "", ]
+  spCountByFamily2$SpeciesWithData[is.na(spCountByFamily2$SpeciesWithData)] = 0
   spCountByFamily3 = spCountByFamily2 %>% 
     inner_join(orders, by = 'Family') %>%
-    select(Order, Family, SpeciesWithData, WithoutData) %>%
+    mutate(PercentComplete = round(100*SpeciesWithData/(SpeciesWithData + WithoutData))) %>%
+    select(Order, Family, SpeciesWithData, PercentComplete) %>%
     arrange(Order)
-  spCountByFamily3$SpeciesWithData[is.na(spCountByFamily3$SpeciesWithData)] = 0
   return(list(numRecords=numRecords,
               numSpecies=numSpecies, 
               numStudies=numStudies, 
