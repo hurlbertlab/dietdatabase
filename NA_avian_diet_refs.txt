@@ -7141,8 +7141,8 @@ Ring-necked Pheasant	Phasianidae	2001	Feeding	Main Foods Taken	"Rasmussen, D. I.
 Ring-necked Pheasant	Phasianidae	2001	Feeding	Main Foods Taken	"Green, W. E. 1938. The food and cover relationships in the winter survival of the Ring-necked Pheasant, Phasianus colchicus torquatus Gmelin, in northern Iowa. Iowa State College J. Sci. 12:285-314."	n		unavailable	
 Ring-necked Pheasant	Phasianidae	2001	Feeding	Microhabitat For Foraging	"Trautman, C. G. 1982. History, ecology, and management of the Ring-necked Pheasant in South Dakota. Bull. no. 7. S.D. Dep. Game, Fish, Parks."	n		unavailable	
 Ring-necked Pheasant	Phasianidae	2001	Feeding	Main Foods Taken	"Swenk, M. H. 1930. The food habits of the Ring-necked Pheasant in central Nebraska. Res. Bull. 50. Nebr. Agric. Exp. Stn."	y	y		
-Ring-necked Pheasant	Phasianidae	2001	Feeding	Food Capture And Consumption	"Cramp, S. and K. E. L. Simmons. 1980. The birds of the Western Palearctic. Vol. II: hawks to bustards. Oxford Univ. Press, Oxford, UK."				
-Ring-necked Pheasant	Phasianidae	2001	Diet	Major Food Items	"Gigstead, G. 1937. Habits of Wisconsin pheasants. Wilson Bull. 49:28-34."				
+Ring-necked Pheasant	Phasianidae	2001	Feeding	Food Capture And Consumption	"Cramp, S. and K. E. L. Simmons. 1980. The birds of the Western Palearctic. Vol. II: hawks to bustards. Oxford Univ. Press, Oxford, UK."	n		unavailable	
+Ring-necked Pheasant	Phasianidae	2001	Diet	Major Food Items	"Gigstead, G. 1937. Habits of Wisconsin pheasants. Wilson Bull. 49:28-34."	y	y		
 Ring-necked Pheasant	Phasianidae	2001	Diet	Major Food Items	"Stromborg, K. L. 1979. Pheasant food habits in spring and consumption of seed treatment pesticides. J. Wildl. Manage. 43:185-189."				
 Ring-necked Pheasant	Phasianidae	2001	Food Selection And Storage		"Bennett, Jr., R. S. and H. H. Prince. 1981. Influence of agricultural pesticides on food preference and consumption by Ring-necked Pheasants. J. Wildl. Manage. 45:74-82."				
 Ring-necked Pheasant	Phasianidae	2001	Nutrition And Energetics		"Kirkpatrick, C. M. 1944. Body weights and organ measurements in relation to age and season in Ring-necked Pheasants. Anat. Record 89:175-194."				
