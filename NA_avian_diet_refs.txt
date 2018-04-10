@@ -10105,14 +10105,14 @@ Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Clark, 
 Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Erkinaro, E. 1973. Structure of the diel activity in the Tengmalm's Owl (Aegolius funereus) and the Short-eared Owl (Asio flammeus), and its seasonal changes. Aquilo Ser Zool. 14:59-67."	n		unavailable	
 Short-eared Owl	Strigidae	1-Jun-06	"Drinking, Pellet-Casting, And Defecation"		"Duke, G. E., O. A. Evanson, and A. Jegers. 1976. Meal to pellet intervals in 14 species of captive raptors. Comp. Biochem. Physiol. 53:1-6."	y	n		
 Short-eared Owl	Strigidae	1-Jun-06	"Drinking, Pellet-Casting, And Defecation"		"Holt, D. W., L. J. Lyon, and R. Hale. 1987. Techniques for differentiating the pellets of Short-eared Owls and Northern Harriers. Condor 89:929-931."	y	n		
-Short-eared Owl	Strigidae	1-Jun-06	Food Selection And Storage		"Young, L. S., J. G. Crenshaw, and L. L. Crenshaw. 1988. Food caching by a Short-eared Owl. Murrelet 69:39."				
-Short-eared Owl	Strigidae	1-Jun-06	Food Selection And Storage		"Ingram, C. 1962. Cannibalism by nestling Short-eared Owls. Auk 79:715."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Mikkola, H. 1983. Owls of Europe. Buteo Books, Vermillion, SD."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Rau, J. R., M. C. Villagra, M. L. Mora, D. R. Martinez, and M. S. Tilleria. 1992. Food habits of the Short-eared Owl (Asio flammeus) in southern South America. J. Rap. Res. 26:35-36."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Fulk, G. W. 1976. Owl predation and rodent mortality. Mammalia 40:423-427."				
-Short-eared Owl	Strigidae	1-Jun-06	Diet	Quantitative Analysis	"Blem, C. R., L. B. Blem, J. M. Felix, and D. W. Holt. 1993. Estimation of body mass of voles from crania in Short-eared Owl pellets. Am. Midl. Nat. 129:282-287."				
-Short-eared Owl	Strigidae	1-Jun-06	Nutrition And Energetics		"Graber, R. R. 1962. Food and oxygen consumption in three species of owls (Strigidae). Condor 64:473-487."				
-Short-eared Owl	Strigidae	1-Jun-06	Nutrition And Energetics		"Mikkola, H. 1982. Ecological relationships in European owls. Univ. Kuopio Press, Kupio, Finland."				
+Short-eared Owl	Strigidae	1-Jun-06	Food Selection And Storage		"Young, L. S., J. G. Crenshaw, and L. L. Crenshaw. 1988. Food caching by a Short-eared Owl. Murrelet 69:39."	y	n		
+Short-eared Owl	Strigidae	1-Jun-06	Food Selection And Storage		"Ingram, C. 1962. Cannibalism by nestling Short-eared Owls. Auk 79:715."	y	n		
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Mikkola, H. 1983. Owls of Europe. Buteo Books, Vermillion, SD."	n		unavailable; also probably in Europe	
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Rau, J. R., M. C. Villagra, M. L. Mora, D. R. Martinez, and M. S. Tilleria. 1992. Food habits of the Short-eared Owl (Asio flammeus) in southern South America. J. Rap. Res. 26:35-36."	n		unavailable	
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Fulk, G. W. 1976. Owl predation and rodent mortality. Mammalia 40:423-427."	n		unavailable	
+Short-eared Owl	Strigidae	1-Jun-06	Diet	Quantitative Analysis	"Blem, C. R., L. B. Blem, J. M. Felix, and D. W. Holt. 1993. Estimation of body mass of voles from crania in Short-eared Owl pellets. Am. Midl. Nat. 129:282-287."	y	n		
+Short-eared Owl	Strigidae	1-Jun-06	Nutrition And Energetics		"Graber, R. R. 1962. Food and oxygen consumption in three species of owls (Strigidae). Condor 64:473-487."	y	y	Already entered in the database	
+Short-eared Owl	Strigidae	1-Jun-06	Nutrition And Energetics		"Mikkola, H. 1982. Ecological relationships in European owls. Univ. Kuopio Press, Kupio, Finland."	n		unavailable; also probably in Europe	
 Snowy Owl	Strigidae	1992	Feeding	Microhabitat For Foraging	"Watson, A. 1957. The behaviour, breeding, and food-ecology of the Snowy Owl Nyctea scandiaca. Ibis 99:419-462."				
 Snowy Owl	Strigidae	1992	Food Selection And Storage		"Parmelee, D. F. 1972. Canada's incredible arctic owls. Beaver summer:30-41."				
 Snowy Owl	Strigidae	1992	Nutrition And Energetics		"Beamer, L. H. 1937. Observations on the food habits of the Snowy Owl. Can. Field Nat. 51:59-60."				
