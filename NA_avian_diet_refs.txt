@@ -10101,7 +10101,7 @@ Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	
 Short-eared Owl	Strigidae	1-Jun-06	Feeding	Adaptations Which May Aid In Hunting	"Gallego, A., M. Baron, and M. Gayoso. 1975. Organization of the outer plexiform layer of the diurnal and nocturnal bird retinae. Vision Res. 15:1027-1028."	y	n		
 Short-eared Owl	Strigidae	1-Jun-06	Feeding	Main Foods Taken	"Village, A. 1987. Numbers, territory-size, and turnover of Short-eared Owls (Asio flammeus) in relation to vole abundance. Ornis Scand. 18:198-204."	y	n		
 Short-eared Owl	Strigidae	1-Jun-06	Feeding	Main Foods Taken	"Korpimaki, E. and K. Norrdahl. 1991. Numerical and functional responses of Kestrels, Short-eared Owls, and Long-eared Owls to vole densities. Ecology 72:814-826."	y	n		
-Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Clark, R. J. 1975. A field study of the Short-eared Owl (Asio flammeus) Pontoppidan in North America. Wildl. Monogr. 47:1-67."	y	y	not entered yet; paper also references many other possible papers	
+Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Clark, R. J. 1975. A field study of the Short-eared Owl (Asio flammeus) Pontoppidan in North America. Wildl. Monogr. 47:1-67."	y	y	"not entered yet; paper also references many other possible papers…within the big table given, up to Terres and Jameson 1943 entered"	
 Short-eared Owl	Strigidae	1-Jun-06	Feeding	Food Capture And Consumption	"Erkinaro, E. 1973. Structure of the diel activity in the Tengmalm's Owl (Aegolius funereus) and the Short-eared Owl (Asio flammeus), and its seasonal changes. Aquilo Ser Zool. 14:59-67."	n		unavailable	
 Short-eared Owl	Strigidae	1-Jun-06	"Drinking, Pellet-Casting, And Defecation"		"Duke, G. E., O. A. Evanson, and A. Jegers. 1976. Meal to pellet intervals in 14 species of captive raptors. Comp. Biochem. Physiol. 53:1-6."	y	n		
 Short-eared Owl	Strigidae	1-Jun-06	"Drinking, Pellet-Casting, And Defecation"		"Holt, D. W., L. J. Lyon, and R. Hale. 1987. Techniques for differentiating the pellets of Short-eared Owls and Northern Harriers. Condor 89:929-931."	y	n		
@@ -10113,18 +10113,18 @@ Short-eared Owl	Strigidae	1-Jun-06	Diet	Major Food Items	"Fulk, G. W. 1976. Owl 
 Short-eared Owl	Strigidae	1-Jun-06	Diet	Quantitative Analysis	"Blem, C. R., L. B. Blem, J. M. Felix, and D. W. Holt. 1993. Estimation of body mass of voles from crania in Short-eared Owl pellets. Am. Midl. Nat. 129:282-287."	y	n		
 Short-eared Owl	Strigidae	1-Jun-06	Nutrition And Energetics		"Graber, R. R. 1962. Food and oxygen consumption in three species of owls (Strigidae). Condor 64:473-487."	y	y	Already entered in the database	
 Short-eared Owl	Strigidae	1-Jun-06	Nutrition And Energetics		"Mikkola, H. 1982. Ecological relationships in European owls. Univ. Kuopio Press, Kupio, Finland."	n		unavailable; also probably in Europe	
-Snowy Owl	Strigidae	1992	Feeding	Microhabitat For Foraging	"Watson, A. 1957. The behaviour, breeding, and food-ecology of the Snowy Owl Nyctea scandiaca. Ibis 99:419-462."				
-Snowy Owl	Strigidae	1992	Food Selection And Storage		"Parmelee, D. F. 1972. Canada's incredible arctic owls. Beaver summer:30-41."				
-Snowy Owl	Strigidae	1992	Nutrition And Energetics		"Beamer, L. H. 1937. Observations on the food habits of the Snowy Owl. Can. Field Nat. 51:59-60."				
-Snowy Owl	Strigidae	1992	Feeding	Food Capture And Consumption	"Audubon, J. J. 1840. The birds of America. Vol. I. J. J. Audubon, Philadelphia. Reprint by Dover Publ., Inc., New York."				
-Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Gabrielson, I. N. and F. C. Lincoln. 1959. Birds of Alaska. Stackpole Co., Harrisburg, PA, and Wildl. Manage. Inst. Washington, DC."				
-Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Sutton, G. M. and D. F. Parmelee. 1956. Breeding of the Snowy Owl in southeastern Baffin Island. Condor 58:273-282."				
-Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Murie, O. J. 1929. Nesting of the Snowy Owl. Condor 31:3-12."				
-Snowy Owl	Strigidae	1992	Feeding	Food Capture And Consumption	"Manniche, A. L. V. 1910. The terrestrial mammals and birds of east Greenland; biological observations. Medd. Gr????nland 45:1-200."				
-Snowy Owl	Strigidae	1992	Nutrition And Energetics		"Thompson, D. Q. 1955. The 1953 lemming emigration at Point Barrow, Alaska. Arctic 8:37-45."				
-Snowy Owl	Strigidae	1992	Nutrition And Energetics		"Gessaman, J. A. 1972. Bioenergetics of the Snowy Owl (Nyctea scandiaca). Arctic and Alpine Res. 4:223-238."				
+Snowy Owl	Strigidae	1992	Feeding	Microhabitat For Foraging	"Watson, A. 1957. The behaviour, breeding, and food-ecology of the Snowy Owl Nyctea scandiaca. Ibis 99:419-462."	y	y	entered	
+Snowy Owl	Strigidae	1992	Food Selection And Storage		"Parmelee, D. F. 1972. Canada's incredible arctic owls. Beaver summer:30-41."	n		unavailable	
+Snowy Owl	Strigidae	1992	Nutrition And Energetics		"Beamer, L. H. 1937. Observations on the food habits of the Snowy Owl. Can. Field Nat. 51:59-60."	n		unavailable	
+Snowy Owl	Strigidae	1992	Feeding	Food Capture And Consumption	"Audubon, J. J. 1840. The birds of America. Vol. I. J. J. Audubon, Philadelphia. Reprint by Dover Publ., Inc., New York."	n		unavailable	
+Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Gabrielson, I. N. and F. C. Lincoln. 1959. Birds of Alaska. Stackpole Co., Harrisburg, PA, and Wildl. Manage. Inst. Washington, DC."	n		unavailable	
+Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Sutton, G. M. and D. F. Parmelee. 1956. Breeding of the Snowy Owl in southeastern Baffin Island. Condor 58:273-282."	y	n		
+Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Murie, O. J. 1929. Nesting of the Snowy Owl. Condor 31:3-12."	y	n		
+Snowy Owl	Strigidae	1992	Feeding	Food Capture And Consumption	"Manniche, A. L. V. 1910. The terrestrial mammals and birds of east Greenland; biological observations. Medd. Gr????nland 45:1-200."	n		unavailable	
+Snowy Owl	Strigidae	1992	Nutrition And Energetics		"Thompson, D. Q. 1955. The 1953 lemming emigration at Point Barrow, Alaska. Arctic 8:37-45."	y	n		
+Snowy Owl	Strigidae	1992	Nutrition And Energetics		"Gessaman, J. A. 1972. Bioenergetics of the Snowy Owl (Nyctea scandiaca). Arctic and Alpine Res. 4:223-238."	y	n		
 Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Williams, P. L. and L. G. Frank. 1979. Diet of the Snowy Owl in the absence of small mammals. Condor 81:213-214."				
-Snowy Owl	Strigidae	1992	Diet	Quantitative Analysis	"Campbell, R. W. and M. D. MacColl. 1978. Winter foods of Snowy Owls in southwestern British Columbia. J. Wildl. Manage. 42:190-192."				
+Snowy Owl	Strigidae	1992	Diet	Quantitative Analysis	"Campbell, R. W. and M. D. MacColl. 1978. Winter foods of Snowy Owls in southwestern British Columbia. J. Wildl. Manage. 42:190-192."	y	y	not entered yet	
 Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Dufresne, F. 1922. The Snowy Owl-destroyer of game. Bull. Amer. Game Prot. Assoc. 11:11-12."				
 Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Robinson, M. and C. D. Becker. 1986. Snowy Owls on Fetlar. Brit. Birds 78:228-242."				
 Snowy Owl	Strigidae	1992	Feeding	Microhabitat For Foraging	"Boxall, P. C. and M. R. Lein. 1982a. Feeding ecology of Snowy Owls (Nyctea scandiaca) wintering in S. Alberta. Arctic 35:282-290."				
