@@ -10124,15 +10124,15 @@ Snowy Owl	Strigidae	1992	Feeding	Food Capture And Consumption	"Manniche, A. L. V
 Snowy Owl	Strigidae	1992	Nutrition And Energetics		"Thompson, D. Q. 1955. The 1953 lemming emigration at Point Barrow, Alaska. Arctic 8:37-45."	y	n		
 Snowy Owl	Strigidae	1992	Nutrition And Energetics		"Gessaman, J. A. 1972. Bioenergetics of the Snowy Owl (Nyctea scandiaca). Arctic and Alpine Res. 4:223-238."	y	n		
 Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Williams, P. L. and L. G. Frank. 1979. Diet of the Snowy Owl in the absence of small mammals. Condor 81:213-214."				
-Snowy Owl	Strigidae	1992	Diet	Quantitative Analysis	"Campbell, R. W. and M. D. MacColl. 1978. Winter foods of Snowy Owls in southwestern British Columbia. J. Wildl. Manage. 42:190-192."	y	y	not entered yet	
+Snowy Owl	Strigidae	1992	Diet	Quantitative Analysis	"Campbell, R. W. and M. D. MacColl. 1978. Winter foods of Snowy Owls in southwestern British Columbia. J. Wildl. Manage. 42:190-192."	y	y	entered	
 Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Dufresne, F. 1922. The Snowy Owl-destroyer of game. Bull. Amer. Game Prot. Assoc. 11:11-12."				
 Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Robinson, M. and C. D. Becker. 1986. Snowy Owls on Fetlar. Brit. Birds 78:228-242."				
 Snowy Owl	Strigidae	1992	Feeding	Microhabitat For Foraging	"Boxall, P. C. and M. R. Lein. 1982a. Feeding ecology of Snowy Owls (Nyctea scandiaca) wintering in S. Alberta. Arctic 35:282-290."				
 Snowy Owl	Strigidae	1992	Diet	Quantitative Analysis	"Mendall, H. L. 1944. Food of hawks and owls in Maine. J. Wildl. Manage. 8:198-208."				
 Snowy Owl	Strigidae	1992	Feeding	Microhabitat For Foraging	"Parmelee, D. F., H. A. Stephens, and R. H. Schmidt. 1967. The birds of southeastern Victoria Island and adjacent small islands. Natl. Mus. Canada Bull. 222:1-229."				
-Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Duncan, R. B. and R. Sidner. 1990. Bats in Spotted Owl pellets in southern Arizona. Great Basin Nat. 50:197-200."				
-Spotted Owl	Strigidae	1995	Diet	Major Food Items	"U.S. Dept. Interior. 1995. Recovery plan for the Mexican Spotted Owl: draft. U.S. Fish Wildl. Serv. Albuquerque, NM."				
-Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Ganey, J. L. 1992. Food habits of Mexican Spotted Owls in Arizona. Wilson Bull. 104:321-326."				
+Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Duncan, R. B. and R. Sidner. 1990. Bats in Spotted Owl pellets in southern Arizona. Great Basin Nat. 50:197-200."	y	n		
+Spotted Owl	Strigidae	1995	Diet	Major Food Items	"U.S. Dept. Interior. 1995. Recovery plan for the Mexican Spotted Owl: draft. U.S. Fish Wildl. Serv. Albuquerque, NM."	y	n		
+Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Ganey, J. L. 1992. Food habits of Mexican Spotted Owls in Arizona. Wilson Bull. 104:321-326."	y	y	entered	
 Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Zabel, C. J., K. McKelvey, and Jr. J. P. Ward. 1995. Influence of primary prey on home range size and habitat use patterns of Spotted Owls (Strix occidentalis). Can. J. Zool. 73:433-439."				
 Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Verner, J., R. J. Gutierrez, and G. I. Gould. 1992a. The California Spotted Owl: general biology and ecological relations. Pages 55-78 in The California Spotted Owl: a technical assessment of its current status. (Verner, J., K. S. McKelvey, B. R. Noon, R. J. Gutierrez, G. I. Gould, Jr., and T. W. Beck, Eds.) Gen. Tech. Rep. PSW-GTR-133, U.S. Forest Serv. Albany, CA."				
 Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Kertell, K. 1977. The Spotted Owl at Zion National Park, Utah. West. Birds 8:131-146."				
