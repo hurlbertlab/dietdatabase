@@ -10129,7 +10129,7 @@ Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Dufresne, F. 1922. The Snowy Owl
 Snowy Owl	Strigidae	1992	Diet	Major Food Items	"Robinson, M. and C. D. Becker. 1986. Snowy Owls on Fetlar. Brit. Birds 78:228-242."	y	n		
 Snowy Owl	Strigidae	1992	Feeding	Microhabitat For Foraging	"Boxall, P. C. and M. R. Lein. 1982a. Feeding ecology of Snowy Owls (Nyctea scandiaca) wintering in S. Alberta. Arctic 35:282-290."	y	y	entered	
 Snowy Owl	Strigidae	1992	Diet	Quantitative Analysis	"Mendall, H. L. 1944. Food of hawks and owls in Maine. J. Wildl. Manage. 8:198-208."				
-Snowy Owl	Strigidae	1992	Feeding	Microhabitat For Foraging	"Parmelee, D. F., H. A. Stephens, and R. H. Schmidt. 1967. The birds of southeastern Victoria Island and adjacent small islands. Natl. Mus. Canada Bull. 222:1-229."				
+Snowy Owl	Strigidae	1992	Feeding	Microhabitat For Foraging	"Parmelee, D. F., H. A. Stephens, and R. H. Schmidt. 1967. The birds of southeastern Victoria Island and adjacent small islands. Natl. Mus. Canada Bull. 222:1-229."	y	n		
 Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Duncan, R. B. and R. Sidner. 1990. Bats in Spotted Owl pellets in southern Arizona. Great Basin Nat. 50:197-200."	y	n		
 Spotted Owl	Strigidae	1995	Diet	Major Food Items	"U.S. Dept. Interior. 1995. Recovery plan for the Mexican Spotted Owl: draft. U.S. Fish Wildl. Serv. Albuquerque, NM."	y	n		
 Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Ganey, J. L. 1992. Food habits of Mexican Spotted Owls in Arizona. Wilson Bull. 104:321-326."	y	y	entered	
@@ -10165,10 +10165,10 @@ Spotted Owl	Strigidae	1995	Diet	Major Food Items	"Barrows, C. W. 1987. Diet shif
 Spotted Owl	Strigidae	1995	Metabolism And Temperature Regulation		"Stephenson, J. 1992. A curve of thermogenesis for the Spotted Owl. Senior thesis. Humboldt State Univ. Arcata, CA."				
 Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Ward, Jr., J. P. 1990. Spotted Owl reproduction, diet and prey abundance in northwest California. Master's Thesis. Humboldt State Univ. Arcata, CA."				
 Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Sisco, C. L. 1990. Seasonal home range and habitat ecology of Spotted Owls in northwestern California. Master's Thesis. Humboldt State Univ. Arcata, CA."				
-Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Carey, A. B., S. P. Horton, and J. A. Reid. 1989. Optimal sampling for studies of Spotted Owl habitat and home range. For. Serv. Res. Paper PNW-RP-416. U.S. For. Serv. Portland, OR."				
-Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Laymon, S. D. 1988. The ecology of the Spotted Owl in the central Sierra Nevada, California. Phd Thesis. Univ. of Calif. Berkeley."				
-Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Call, D. R. 1990. Home-range and habitat use by California Spotted Owls in the central Sierra Nevada. Master's Thesis. Humboldt State Univ. Arcata, CA."				
-Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Call, D. R., R. J. Gutierrez, and J. Verner. 1992. Foraging habitat and home-range characteristics of California Spotted Owls in the Sierra Nevada. Condor 94:880-888."				
+Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Carey, A. B., S. P. Horton, and J. A. Reid. 1989. Optimal sampling for studies of Spotted Owl habitat and home range. For. Serv. Res. Paper PNW-RP-416. U.S. For. Serv. Portland, OR."	y	n		
+Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Laymon, S. D. 1988. The ecology of the Spotted Owl in the central Sierra Nevada, California. Phd Thesis. Univ. of Calif. Berkeley."	y	n		
+Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Call, D. R. 1990. Home-range and habitat use by California Spotted Owls in the central Sierra Nevada. Master's Thesis. Humboldt State Univ. Arcata, CA."	n		unavailable	
+Spotted Owl	Strigidae	1995	Feeding	Microhabitat For Foraging	"Call, D. R., R. J. Gutierrez, and J. Verner. 1992. Foraging habitat and home-range characteristics of California Spotted Owls in the Sierra Nevada. Condor 94:880-888."	y	n		
 Western Screech-Owl	Strigidae	2001	Feeding	Main Foods Taken	"Ross, A. 1969. Ecological aspects of the food habits of insectivorous screech-owls. Proc. West. Found. Vertebr. Zool. 1:301-344."	n		unavailable	
 Western Screech-Owl	Strigidae	2001	Feeding	Microhabitat For Foraging	"Marshall, J. T. 1957. Birds of the pine-oak woodland in southern Arizona and adjacent Mexico. Pac. Coast Avifauna 32:1-125."	n		unavailable	
 Western Screech-Owl	Strigidae	2001	Feeding	Food Capture And Consumption	"Hayward, G. D. and E. O. Garton. 1988. Resource partitioning among forest owls in the River of No Return Wilderness, Idaho. Oecologia 75:253-265."	y	y	Already entered in the database	
