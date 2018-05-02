@@ -1,0 +1,592 @@
+Common_Name	Scientific_Name	Observation_Season	Fraction_Diet_Plant	Bird_Sample_Size
+Brant	Branta bernicla	Winter	1	60
+Brant	Branta bernicla	Spring	0.93	33
+Brant	Branta bernicla	Summer	0.94	9
+Mallard	Anas platyrhynchos	Winter	0.91	1666
+Mallard	Anas platyrhynchos	Spring	0.82	26
+Mallard	Anas platyrhynchos	Fall	0.93	123
+American Black Duck	Anas rubripes	Winter	0.71	276
+American Black Duck	Anas rubripes	Spring	0.82	13
+American Black Duck	Anas rubripes	Summer	0.58	10
+American Black Duck	Anas rubripes	Fall	0.86	124
+Gadwall	Anas strepera	Winter	0.98	288
+Gadwall	Anas strepera	Spring	0.8	5
+Gadwall	Anas strepera	Summer	0.95	1
+Gadwall	Anas strepera	Fall	0.97	83
+American Wigeon	Anas americana	Winter	0.9	166
+American Wigeon	Anas americana	Spring	0.94	22
+American Wigeon	Anas americana	Summer	0.5	2
+American Wigeon	Anas americana	Fall	1	79
+Northern Pintail	Anas acuta	Winter	0.9	517
+Northern Pintail	Anas acuta	Spring	0.35	1
+Northern Pintail	Anas acuta	Summer	0.86	16
+Northern Pintail	Anas acuta	Fall	0.95	253
+Green-winged Teal	Anas crecca	Winter	0.91	304
+Green-winged Teal	Anas crecca	Spring	0.86	30
+Green-winged Teal	Anas crecca	Summer	1	4
+Green-winged Teal	Anas crecca	Fall	0.86	260
+Blue-winged Teal	Anas discors	Winter	0.81	56
+Blue-winged Teal	Anas discors	Spring	0.54	47
+Blue-winged Teal	Anas discors	Summer	0.7	16
+Blue-winged Teal	Anas discors	Fall	0.7	177
+Cinnamon Teal	Anas cyanoptera	Winter	0.98	2
+Cinnamon Teal	Anas cyanoptera	Spring	0.68	7
+Cinnamon Teal	Anas cyanoptera	Summer	0.78	19
+Cinnamon Teal	Anas cyanoptera	Fall	0.89	31
+Northern Shoveler	Anas clypeata	Winter	0.72	55
+Northern Shoveler	Anas clypeata	Spring	0.76	8
+Northern Shoveler	Anas clypeata	Summer	0.1	1
+Northern Shoveler	Anas clypeata	Fall	0.7	38
+Wood Duck	Aix sponsa	Winter	0.97	177
+Wood Duck	Aix sponsa	Spring	0.73	20
+Wood Duck	Aix sponsa	Summer	0.84	13
+Wood Duck	Aix sponsa	Fall	0.93	222
+Redhead	Aythya americana	Winter	0.89	131
+Redhead	Aythya americana	Spring	0.94	27
+Redhead	Aythya americana	Summer	0.79	19
+Redhead	Aythya americana	Fall	0.93	78
+Ring-necked Duck	Aythya collaris	Winter	0.94	172
+Ring-necked Duck	Aythya collaris	Spring	0.72	22
+Ring-necked Duck	Aythya collaris	Summer	0.53	9
+Ring-necked Duck	Aythya collaris	Fall	0.75	32
+Canvasback	Aythya valisineria	Winter	0.76	158
+Canvasback	Aythya valisineria	Spring	0.88	21
+Canvasback	Aythya valisineria	Summer	0.63	9
+Canvasback	Aythya valisineria	Fall	0.97	56
+Greater Scaup	Aythya marila	Winter	0.58	106
+Greater Scaup	Aythya marila	Spring	0.35	29
+Greater Scaup	Aythya marila	Summer	0	1
+Greater Scaup	Aythya marila	Fall	0.78	35
+Lesser Scaup	Aythya affinis	Winter	0.67	210
+Lesser Scaup	Aythya affinis	Spring	0.53	79
+Lesser Scaup	Aythya affinis	Summer	0.48	37
+Lesser Scaup	Aythya affinis	Fall	0.78	81
+Common Goldeneye	Bucephala clangula	Winter	0.23	186
+Common Goldeneye	Bucephala clangula	Spring	0.11	11
+Common Goldeneye	Bucephala clangula	Summer	0.34	34
+Common Goldeneye	Bucephala clangula	Fall	0.23	10
+Barrow's Goldeneye	Bucephala islandica	Winter	0.2	27
+Barrow's Goldeneye	Bucephala islandica	Spring	0.22	8
+Barrow's Goldeneye	Bucephala islandica	Summer	0.1	10
+Barrow's Goldeneye	Bucephala islandica	Fall	0.08	15
+Bufflehead	Bucephala albeola	Winter	0.25	153
+Bufflehead	Bucephala albeola	Spring	0.19	27
+Bufflehead	Bucephala albeola	Summer	0.13	19
+Bufflehead	Bucephala albeola	Fall	0.24	30
+White-winged Scoter	Melanitta fusca	Winter	0.04	128
+White-winged Scoter	Melanitta fusca	Spring	0.07	37
+White-winged Scoter	Melanitta fusca	Summer	0.02	11
+White-winged Scoter	Melanitta fusca	Fall	0.16	36
+Surf Scoter	Melanitta perspicillata	Winter	0.04	56
+Surf Scoter	Melanitta perspicillata	Spring	0	7
+Surf Scoter	Melanitta perspicillata	Summer	0.03	6
+Surf Scoter	Melanitta perspicillata	Fall	0.23	44
+Black Scoter	Melanitta americana	Winter	0.03	51
+Black Scoter	Melanitta americana	Spring	0	16
+Black Scoter	Melanitta americana	Summer	0	4
+Black Scoter	Melanitta americana	Fall	0.21	20
+Ruddy Duck	Oxyura jamaicensis	Winter	0.79	60
+Ruddy Duck	Oxyura jamaicensis	Spring	0.67	21
+Ruddy Duck	Oxyura jamaicensis	Summer	0.59	25
+Ruddy Duck	Oxyura jamaicensis	Fall	0.73	51
+American Coot	Fulica americana	Winter	0.98	411
+American Coot	Fulica americana	Spring	0.84	82
+American Coot	Fulica americana	Summer	0.56	36
+American Coot	Fulica americana	Fall	0.97	247
+Herring Gull	Larus argentatus	Winter	0.09	51
+Herring Gull	Larus argentatus	Spring	0	13
+Herring Gull	Larus argentatus	Summer	0.2	34
+Herring Gull	Larus argentatus	Fall	0.03	30
+Limpkin	Aramus guarauna	Winter	0.1	15
+Limpkin	Aramus guarauna	Spring	0.07	22
+Limpkin	Aramus guarauna	Summer	0.01	15
+Limpkin	Aramus guarauna	Fall	0.11	49
+Clapper Rail	Rallus crepitans	Winter	0.11	50
+Clapper Rail	Rallus crepitans	Spring	0.01	28
+Clapper Rail	Rallus crepitans	Summer	0	68
+Clapper Rail	Rallus crepitans	Fall	0.03	114
+Virginia Rail	Rallus limicola	Winter	0.21	4
+Virginia Rail	Rallus limicola	Spring	0.12	23
+Virginia Rail	Rallus limicola	Summer	0.03	20
+Virginia Rail	Rallus limicola	Fall	0.32	69
+Sora	Porzana carolina	Winter	0.68	15
+Sora	Porzana carolina	Spring	0.4	73
+Sora	Porzana carolina	Summer	0.4	36
+Sora	Porzana carolina	Fall	0.69	208
+Wilson's Snipe	Gallinago delicata	Winter	0.17	232
+Wilson's Snipe	Gallinago delicata	Spring	0.22	97
+Wilson's Snipe	Gallinago delicata	Summer	0.05	16
+Wilson's Snipe	Gallinago delicata	Fall	0.19	435
+Red Knot	Calidris canutus	Spring	0	59
+Red Knot	Calidris canutus	Summer	0.06	87
+Red Knot	Calidris canutus	Fall	0.24	67
+Short-billed Dowitcher	Limnodromus griseus	Winter	0.01	13
+Short-billed Dowitcher	Limnodromus griseus	Spring	0.1	34
+Short-billed Dowitcher	Limnodromus griseus	Summer	0.2	124
+Short-billed Dowitcher	Limnodromus griseus	Fall	0.03	3
+Semipalmated Sandpiper	Calidris pusilla	Spring	0.02	30
+Semipalmated Sandpiper	Calidris pusilla	Summer	0.02	193
+Semipalmated Sandpiper	Calidris pusilla	Fall	0.08	177
+American Avocet	Recurvirostra americana	Winter	0.45	2
+American Avocet	Recurvirostra americana	Spring	0.35	16
+American Avocet	Recurvirostra americana	Summer	0.32	37
+American Avocet	Recurvirostra americana	Fall	0.32	12
+Dusky Grouse	Dendragapus obscurus	Winter	1	21
+Dusky Grouse	Dendragapus obscurus	Spring	1	4
+Dusky Grouse	Dendragapus obscurus	Summer	0.9	68
+Dusky Grouse	Dendragapus obscurus	Fall	0.96	65
+Ruffed Grouse	Bonasa umbellus	Winter	1	1243
+Ruffed Grouse	Bonasa umbellus	Spring	0.98	162
+Ruffed Grouse	Bonasa umbellus	Summer	0.93	166
+Ruffed Grouse	Bonasa umbellus	Fall	0.98	757
+Greater Prairie-Chicken	Tympanuchus cupido	Winter	0.97	23
+Greater Prairie-Chicken	Tympanuchus cupido	Spring	0.99	11
+Greater Prairie-Chicken	Tympanuchus cupido	Summer	0.7	24
+Greater Prairie-Chicken	Tympanuchus cupido	Fall	0.78	42
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	Winter	0.93	8
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	Spring	0.81	7
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	Summer	0.33	6
+Lesser Prairie-Chicken	Tympanuchus pallidicinctus	Fall	0.83	13
+Sharp-tailed Grouse	Tympanuchus phasianellus	Winter	1	102
+Sharp-tailed Grouse	Tympanuchus phasianellus	Spring	0.98	17
+Sharp-tailed Grouse	Tympanuchus phasianellus	Summer	0.97	9
+Sharp-tailed Grouse	Tympanuchus phasianellus	Fall	0.78	48
+Greater Sage-Grouse	Centrocercus urophasianus	Winter	0.92	38
+Greater Sage-Grouse	Centrocercus urophasianus	Spring	0.98	39
+Greater Sage-Grouse	Centrocercus urophasianus	Summer	0.91	106
+Greater Sage-Grouse	Centrocercus urophasianus	Fall	0.98	29
+Gray Partridge	Perdix perdix	Winter	1	34
+Gray Partridge	Perdix perdix	Spring	0.96	8
+Gray Partridge	Perdix perdix	Summer	0.89	6
+Gray Partridge	Perdix perdix	Fall	0.98	27
+Northern Bobwhite	Colinus virginianus	Winter	0.97	2315
+Northern Bobwhite	Colinus virginianus	Spring	0.83	54
+Northern Bobwhite	Colinus virginianus	Summer	0.73	82
+Northern Bobwhite	Colinus virginianus	Fall	0.82	109
+Scaled Quail	Callipepla squamata	Winter	0.93	164
+Scaled Quail	Callipepla squamata	Spring	0.68	10
+Scaled Quail	Callipepla squamata	Summer	0.67	28
+Scaled Quail	Callipepla squamata	Fall	0.8	56
+California Quail	Callipepla californica	Winter	0.99	354
+California Quail	Callipepla californica	Spring	0.95	30
+California Quail	Callipepla californica	Summer	0.95	179
+California Quail	Callipepla californica	Fall	0.99	239
+Gambel's Quail	Callipepla gambelii	Winter	0.98	324
+Gambel's Quail	Callipepla gambelii	Spring	0.87	28
+Gambel's Quail	Callipepla gambelii	Summer	0.88	41
+Gambel's Quail	Callipepla gambelii	Fall	0.93	48
+Mountain Quail	Oreortyx pictus	Winter	0.99	25
+Mountain Quail	Oreortyx pictus	Spring	0.88	2
+Mountain Quail	Oreortyx pictus	Summer	0.96	14
+Mountain Quail	Oreortyx pictus	Fall	0.99	7
+Montezuma Quail	Cyrtonyx montezumae	Winter	0.71	27
+Montezuma Quail	Cyrtonyx montezumae	Summer	0.97	5
+Ring-necked Pheasant	Phasianus colchicus	Winter	0.99	358
+Ring-necked Pheasant	Phasianus colchicus	Spring	0.93	27
+Ring-necked Pheasant	Phasianus colchicus	Summer	0.84	40
+Ring-necked Pheasant	Phasianus colchicus	Fall	0.84	99
+Wild Turkey	Meleagris gallopavo	Winter	0.86	620
+Wild Turkey	Meleagris gallopavo	Spring	0.86	76
+Wild Turkey	Meleagris gallopavo	Summer	0.87	2
+Wild Turkey	Meleagris gallopavo	Fall	0.98	14
+American Woodcock	Scolopax minor	Winter	0.09	36
+American Woodcock	Scolopax minor	Spring	0.13	17
+American Woodcock	Scolopax minor	Summer	0.02	31
+American Woodcock	Scolopax minor	Fall	0.06	164
+Northern Flicker	Colaptes auratus	Winter	0.63	175
+Northern Flicker	Colaptes auratus	Spring	0.08	151
+Northern Flicker	Colaptes auratus	Summer	0.23	181
+Northern Flicker	Colaptes auratus	Fall	0.55	198
+Pileated Woodpecker	Dryocopus pileatus	Winter	0.38	52
+Pileated Woodpecker	Dryocopus pileatus	Spring	0.06	15
+Pileated Woodpecker	Dryocopus pileatus	Summer	0.18	19
+Pileated Woodpecker	Dryocopus pileatus	Fall	0.49	30
+Red-bellied Woodpecker	Melanerpes carolinus	Winter	0.82	192
+Red-bellied Woodpecker	Melanerpes carolinus	Spring	0.44	27
+Red-bellied Woodpecker	Melanerpes carolinus	Summer	0.6	17
+Red-bellied Woodpecker	Melanerpes carolinus	Fall	0.83	35
+Red-headed Woodpecker	Melanerpes erythrocephalus	Winter	0.91	53
+Red-headed Woodpecker	Melanerpes erythrocephalus	Spring	0.34	117
+Red-headed Woodpecker	Melanerpes erythrocephalus	Summer	0.37	205
+Red-headed Woodpecker	Melanerpes erythrocephalus	Fall	0.72	68
+Lewis's Woodpecker	Melanerpes lewis	Winter	0.7	8
+Lewis's Woodpecker	Melanerpes lewis	Spring	0.42	1
+Lewis's Woodpecker	Melanerpes lewis	Summer	0.66	30
+Lewis's Woodpecker	Melanerpes lewis	Fall	0.64	20
+Yellow-bellied Sapsucker	Sphyrapicus varius	Winter	0.68	124
+Yellow-bellied Sapsucker	Sphyrapicus varius	Spring	0.58	87
+Yellow-bellied Sapsucker	Sphyrapicus varius	Summer	0.13	54
+Yellow-bellied Sapsucker	Sphyrapicus varius	Fall	0.56	82
+Hairy Woodpecker	Picoides villosus	Winter	0.26	178
+Hairy Woodpecker	Picoides villosus	Spring	0.2	40
+Hairy Woodpecker	Picoides villosus	Summer	0.18	108
+Hairy Woodpecker	Picoides villosus	Fall	0.24	79
+Downy Woodpecker	Picoides pubescens	Winter	0.29	411
+Downy Woodpecker	Picoides pubescens	Spring	0.19	104
+Downy Woodpecker	Picoides pubescens	Summer	0.14	175
+Downy Woodpecker	Picoides pubescens	Fall	0.29	138
+Eastern Kingbird	Tyrannus tyrannus	Spring	0.02	156
+Eastern Kingbird	Tyrannus tyrannus	Summer	0.18	497
+Eastern Kingbird	Tyrannus tyrannus	Fall	0.36	48
+Great Crested Flycatcher	Myiarchus crinitus	Spring	0.005	154
+Great Crested Flycatcher	Myiarchus crinitus	Summer	0.07	92
+Great Crested Flycatcher	Myiarchus crinitus	Fall	0.15	19
+Eastern Phoebe	Sayornis phoebe	Winter	0.21	120
+Eastern Phoebe	Sayornis phoebe	Spring	0.03	89
+Eastern Phoebe	Sayornis phoebe	Summer	0.05	78
+Eastern Phoebe	Sayornis phoebe	Fall	0.08	68
+Horned Lark	Eremophila alpestris	Winter	0.94	570
+Horned Lark	Eremophila alpestris	Spring	0.66	105
+Horned Lark	Eremophila alpestris	Summer	0.69	292
+Horned Lark	Eremophila alpestris	Fall	0.91	116
+Blue Jay	Cyanocitta cristata	Winter	0.91	163
+Blue Jay	Cyanocitta cristata	Spring	0.68	88
+Blue Jay	Cyanocitta cristata	Summer	0.54	187
+Blue Jay	Cyanocitta cristata	Fall	0.77	188
+Steller's Jay	Cyanocitta stelleri	Winter	0.88	10
+Steller's Jay	Cyanocitta stelleri	Spring	0.74	2
+Steller's Jay	Cyanocitta stelleri	Summer	0.57	45
+Steller's Jay	Cyanocitta stelleri	Fall	0.71	37
+Florida Scrub-Jay	Aphelocoma coerulescens	Winter	0.85	30
+Florida Scrub-Jay	Aphelocoma coerulescens	Spring	0.61	41
+Florida Scrub-Jay	Aphelocoma coerulescens	Summer	0.67	156
+Florida Scrub-Jay	Aphelocoma coerulescens	Fall	0.78	99
+Black-billed Magpie	Pica hudsonia	Winter	0.56	92
+Black-billed Magpie	Pica hudsonia	Spring	0.14	62
+Black-billed Magpie	Pica hudsonia	Summer	0.37	109
+Black-billed Magpie	Pica hudsonia	Fall	0.32	51
+Chihuahuan Raven	Corvus cryptoleucus	Winter	0.59	236
+Chihuahuan Raven	Corvus cryptoleucus	Spring	0.38	177
+Chihuahuan Raven	Corvus cryptoleucus	Summer	0.36	67
+Chihuahuan Raven	Corvus cryptoleucus	Fall	0.56	159
+American Crow	Corvus brachyrhynchos	Winter	0.85	457
+American Crow	Corvus brachyrhynchos	Spring	0.54	286
+American Crow	Corvus brachyrhynchos	Summer	0.55	345
+American Crow	Corvus brachyrhynchos	Fall	0.8	252
+Fish Crow	Corvus ossifragus	Winter	0.7	40
+Fish Crow	Corvus ossifragus	Spring	0.62	36
+Fish Crow	Corvus ossifragus	Summer	0.28	8
+Fish Crow	Corvus ossifragus	Fall	0.8	5
+Black-capped Chickadee	Poecile atricapillus	Winter	0.53	346
+Black-capped Chickadee	Poecile atricapillus	Spring	0.1	62
+Black-capped Chickadee	Poecile atricapillus	Summer	0.09	148
+Black-capped Chickadee	Poecile atricapillus	Fall	0.17	76
+Carolina Chickadee	Poecile carolinensis	Winter	0.55	88
+Carolina Chickadee	Poecile carolinensis	Spring	0.25	57
+Carolina Chickadee	Poecile carolinensis	Summer	0.11	47
+Carolina Chickadee	Poecile carolinensis	Fall	0.17	18
+Chestnut-backed Chickadee	Poecile rufescens	Winter	0.4	24
+Chestnut-backed Chickadee	Poecile rufescens	Spring	0	2
+Chestnut-backed Chickadee	Poecile rufescens	Summer	0.03	22
+Chestnut-backed Chickadee	Poecile rufescens	Fall	0.33	27
+Tufted Titmouse	Baeolophus bicolor	Winter	0.78	163
+Tufted Titmouse	Baeolophus bicolor	Spring	0.11	115
+Tufted Titmouse	Baeolophus bicolor	Summer	0.18	42
+Tufted Titmouse	Baeolophus bicolor	Fall	0.39	35
+Oak Titmouse	Baeolophus inornatus	Winter	0.84	39
+Oak Titmouse	Baeolophus inornatus	Spring	0.24	7
+Oak Titmouse	Baeolophus inornatus	Summer	0.31	28
+Oak Titmouse	Baeolophus inornatus	Fall	0.68	20
+White-breasted Nuthatch	Sitta carolinensis	Winter	0.68	45
+White-breasted Nuthatch	Sitta carolinensis	Spring	0.48	5
+White-breasted Nuthatch	Sitta carolinensis	Summer	0	16
+White-breasted Nuthatch	Sitta carolinensis	Fall	0.29	14
+Wrentit	Chamaea fasciata	Winter	0.61	48
+Wrentit	Chamaea fasciata	Spring	0.06	13
+Wrentit	Chamaea fasciata	Summer	0.45	42
+Wrentit	Chamaea fasciata	Fall	0.76	62
+Carolina Wren	Thryothorus ludovicianus	Winter	0.11	200
+Carolina Wren	Thryothorus ludovicianus	Spring	0.02	99
+Carolina Wren	Thryothorus ludovicianus	Summer	0.01	65
+Carolina Wren	Thryothorus ludovicianus	Fall	0.03	42
+Northern Mockingbird	Mimus polyglottos	Winter	0.59	181
+Northern Mockingbird	Mimus polyglottos	Spring	0.17	84
+Northern Mockingbird	Mimus polyglottos	Summer	0.35	167
+Northern Mockingbird	Mimus polyglottos	Fall	0.67	65
+Gray Catbird	Dumetella carolinensis	Winter	0.76	20
+Gray Catbird	Dumetella carolinensis	Spring	0.2	205
+Gray Catbird	Dumetella carolinensis	Summer	0.6	405
+Gray Catbird	Dumetella carolinensis	Fall	0.81	70
+Brown Thrasher	Toxostoma rufum	Winter	0.78	134
+Brown Thrasher	Toxostoma rufum	Spring	0.28	163
+Brown Thrasher	Toxostoma rufum	Summer	0.46	249
+Brown Thrasher	Toxostoma rufum	Fall	0.71	82
+Curve-billed Thrasher	Toxostoma curvirostre	Winter	0.95	1
+Curve-billed Thrasher	Toxostoma curvirostre	Spring	0.44	8
+Curve-billed Thrasher	Toxostoma curvirostre	Summer	0.29	15
+Curve-billed Thrasher	Toxostoma curvirostre	Fall	0.63	2
+California Thrasher	Toxostoma redivivum	Winter	0.61	27
+California Thrasher	Toxostoma redivivum	Spring	0.03	7
+California Thrasher	Toxostoma redivivum	Summer	0.55	39
+California Thrasher	Toxostoma redivivum	Fall	0.66	25
+American Robin	Turdus migratorius	Winter	0.64	442
+American Robin	Turdus migratorius	Spring	0.21	316
+American Robin	Turdus migratorius	Summer	0.6	514
+American Robin	Turdus migratorius	Fall	0.81	151
+Varied Thrush	Ixoreus naevius	Winter	0.84	45
+Varied Thrush	Ixoreus naevius	Spring	0.41	11
+Varied Thrush	Ixoreus naevius	Summer	0.9	1
+Varied Thrush	Ixoreus naevius	Fall	0.9	3
+Wood Thrush	Hylocichla mustelina	Spring	0.05	64
+Wood Thrush	Hylocichla mustelina	Summer	0.35	85
+Wood Thrush	Hylocichla mustelina	Fall	0.77	27
+Hermit Thrush	Catharus guttatus	Winter	0.6	180
+Hermit Thrush	Catharus guttatus	Spring	0.07	171
+Hermit Thrush	Catharus guttatus	Summer	0.15	49
+Hermit Thrush	Catharus guttatus	Fall	0.47	184
+Swainson's Thrush	Catharus ustulatus	Winter	0.4	7
+Swainson's Thrush	Catharus ustulatus	Spring	0.08	174
+Swainson's Thrush	Catharus ustulatus	Summer	0.46	139
+Swainson's Thrush	Catharus ustulatus	Fall	0.64	129
+Gray-cheeked Thrush	Catharus minimus	Spring	0.02	77
+Gray-cheeked Thrush	Catharus minimus	Summer	0.18	10
+Gray-cheeked Thrush	Catharus minimus	Fall	0.66	57
+Veery	Catharus fuscescens	Spring	0.05	107
+Veery	Catharus fuscescens	Summer	0.37	61
+Veery	Catharus fuscescens	Fall	0.67	12
+Eastern Bluebird	Sialia sialis	Winter	0.39	381
+Eastern Bluebird	Sialia sialis	Spring	0.07	149
+Eastern Bluebird	Sialia sialis	Summer	0.17	207
+Eastern Bluebird	Sialia sialis	Fall	0.38	133
+Western Bluebird	Sialia mexicana	Winter	0.26	56
+Western Bluebird	Sialia mexicana	Spring	0	20
+Western Bluebird	Sialia mexicana	Summer	0.04	65
+Western Bluebird	Sialia mexicana	Fall	0.21	64
+Townsend's Solitaire	Myadestes townsendi	Winter	0.79	15
+Townsend's Solitaire	Myadestes townsendi	Spring	0.58	2
+Townsend's Solitaire	Myadestes townsendi	Summer	0.49	16
+Townsend's Solitaire	Myadestes townsendi	Fall	0.62	8
+Ruby-crowned Kinglet	Regulus calendula	Winter	0.12	196
+Ruby-crowned Kinglet	Regulus calendula	Spring	0	10
+Ruby-crowned Kinglet	Regulus calendula	Fall	0.12	98
+American Pipit	Anthus rubescens	Winter	0.31	168
+American Pipit	Anthus rubescens	Spring	0.005	19
+American Pipit	Anthus rubescens	Summer	0.01	26
+American Pipit	Anthus rubescens	Fall	0.16	72
+Cedar Waxwing	Bombycilla cedrorum	Winter	0.97	37
+Cedar Waxwing	Bombycilla cedrorum	Spring	0.74	72
+Cedar Waxwing	Bombycilla cedrorum	Summer	0.8	83
+Cedar Waxwing	Bombycilla cedrorum	Fall	0.9	44
+Phainopepla	Phainopepla nitens	Winter	1	1
+Phainopepla	Phainopepla nitens	Spring	0.94	4
+Phainopepla	Phainopepla nitens	Summer	0.88	31
+Phainopepla	Phainopepla nitens	Fall	1	6
+European Starling	Sturnus vulgaris	Winter	0.68	644
+European Starling	Sturnus vulgaris	Spring	0.07	249
+European Starling	Sturnus vulgaris	Summer	0.41	857
+European Starling	Sturnus vulgaris	Fall	0.39	407
+White-eyed Vireo	Vireo griseus	Winter	0.09	39
+White-eyed Vireo	Vireo griseus	Spring	0.12	104
+White-eyed Vireo	Vireo griseus	Summer	0.1	56
+White-eyed Vireo	Vireo griseus	Fall	0.32	22
+Red-eyed Vireo	Vireo olivaceus	Spring	0.01	204
+Red-eyed Vireo	Vireo olivaceus	Summer	0.11	247
+Red-eyed Vireo	Vireo olivaceus	Fall	0.24	118
+Philadelphia Vireo	Vireo philadelphicus	Spring	0.03	33
+Philadelphia Vireo	Vireo philadelphicus	Summer	0.02	28
+Philadelphia Vireo	Vireo philadelphicus	Fall	0.18	18
+Warbling Vireo	Vireo gilvus	Spring	0.005	159
+Warbling Vireo	Vireo gilvus	Summer	0.08	143
+Warbling Vireo	Vireo gilvus	Fall	0.09	45
+House Sparrow	Passer domesticus	Winter	0.99	1324
+House Sparrow	Passer domesticus	Spring	0.21	964
+House Sparrow	Passer domesticus	Summer	0.94	1967
+House Sparrow	Passer domesticus	Fall	0.98	593
+Bobolink	Dolichonyx oryzivorus	Spring	0.12	72
+Bobolink	Dolichonyx oryzivorus	Summer	0.37	186
+Bobolink	Dolichonyx oryzivorus	Fall	0.78	72
+Eastern Meadowlark	Sturnella magna	Winter	0.51	737
+Eastern Meadowlark	Sturnella magna	Spring	0.16	110
+Eastern Meadowlark	Sturnella magna	Summer	0.04	132
+Eastern Meadowlark	Sturnella magna	Fall	0.06	121
+Western Meadowlark	Sturnella neglecta	Winter	0.55	240
+Western Meadowlark	Sturnella neglecta	Spring	0.19	34
+Western Meadowlark	Sturnella neglecta	Summer	0.04	57
+Western Meadowlark	Sturnella neglecta	Fall	0.39	79
+Yellow-headed Blackbird	Xanthocephalus xanthocephalus	Spring	0.7	50
+Yellow-headed Blackbird	Xanthocephalus xanthocephalus	Summer	0.6	143
+Yellow-headed Blackbird	Xanthocephalus xanthocephalus	Fall	0.84	35
+Red-winged Blackbird	Agelaius phoeniceus	Winter	0.95	820
+Red-winged Blackbird	Agelaius phoeniceus	Spring	0.6	404
+Red-winged Blackbird	Agelaius phoeniceus	Summer	0.5	725
+Red-winged Blackbird	Agelaius phoeniceus	Fall	0.91	457
+Orchard Oriole	Icterus spurius	Spring	0.05	164
+Orchard Oriole	Icterus spurius	Summer	0.08	177
+Orchard Oriole	Icterus spurius	Fall	0.01	35
+Baltimore Oriole	Icterus galbula	Spring	0.08	75
+Baltimore Oriole	Icterus galbula	Summer	0.2	125
+Bullock's Oriole	Icterus bullockii	Spring	0.08	47
+Bullock's Oriole	Icterus bullockii	Summer	0.19	213
+Bullock's Oriole	Icterus bullockii	Fall	0.02	40
+Rusty Blackbird	Euphagus carolinus	Winter	0.6	42
+Rusty Blackbird	Euphagus carolinus	Spring	0.31	56
+Rusty Blackbird	Euphagus carolinus	Summer	0.04	4
+Rusty Blackbird	Euphagus carolinus	Fall	0.36	30
+Brewer's Blackbird	Euphagus cyanocephalus	Winter	0.78	150
+Brewer's Blackbird	Euphagus cyanocephalus	Spring	0.3	131
+Brewer's Blackbird	Euphagus cyanocephalus	Summer	0.18	453
+Brewer's Blackbird	Euphagus cyanocephalus	Fall	0.68	174
+Boat-tailed Grackle	Quiscalus major	Winter	0.63	214
+Boat-tailed Grackle	Quiscalus major	Spring	0.37	85
+Boat-tailed Grackle	Quiscalus major	Summer	0.36	72
+Boat-tailed Grackle	Quiscalus major	Fall	0.65	46
+Common Grackle	Quiscalus quiscula	Winter	0.84	80
+Common Grackle	Quiscalus quiscula	Spring	0.52	637
+Common Grackle	Quiscalus quiscula	Summer	0.45	1405
+Common Grackle	Quiscalus quiscula	Fall	0.82	192
+Brown-headed Cowbird	Molothrus ater	Winter	0.94	63
+Brown-headed Cowbird	Molothrus ater	Spring	0.65	182
+Brown-headed Cowbird	Molothrus ater	Summer	0.48	188
+Brown-headed Cowbird	Molothrus ater	Fall	0.84	158
+Scarlet Tanager	Piranga olivacea	Spring	0.04	186
+Scarlet Tanager	Piranga olivacea	Summer	0.07	83
+Scarlet Tanager	Piranga olivacea	Fall	0.15	64
+Northern Cardinal	Cardinalis cardinalis	Winter	0.88	249
+Northern Cardinal	Cardinalis cardinalis	Spring	0.39	150
+Northern Cardinal	Cardinalis cardinalis	Summer	0.59	110
+Northern Cardinal	Cardinalis cardinalis	Fall	0.75	34
+Pyrrhuloxia	Cardinalis sinuatus	Summer	0.75	57
+Pyrrhuloxia	Cardinalis sinuatus	Fall	0.73	15
+Rose-breasted Grosbeak	Pheucticus ludovicianus	Spring	0.41	82
+Rose-breasted Grosbeak	Pheucticus ludovicianus	Summer	0.41	58
+Rose-breasted Grosbeak	Pheucticus ludovicianus	Fall	0.76	11
+Black-headed Grosbeak	Pheucticus melanocephalus	Spring	0.27	85
+Black-headed Grosbeak	Pheucticus melanocephalus	Summer	0.41	122
+Black-headed Grosbeak	Pheucticus melanocephalus	Fall	0.87	5
+Blue Grosbeak	Passerina caerulea	Spring	0.34	15
+Blue Grosbeak	Passerina caerulea	Summer	0.43	17
+Blue Grosbeak	Passerina caerulea	Fall	0.83	2
+Evening Grosbeak	Coccothraustes vespertinus	Winter	1	97
+Evening Grosbeak	Coccothraustes vespertinus	Spring	0.97	25
+Evening Grosbeak	Coccothraustes vespertinus	Summer	0.21	5
+Evening Grosbeak	Coccothraustes vespertinus	Fall	0.78	17
+Pine Grosbeak	Pinicola enucleator	Winter	1	361
+Pine Grosbeak	Pinicola enucleator	Summer	0.85	25
+Pine Grosbeak	Pinicola enucleator	Fall	0.97	28
+Lazuli Bunting	Passerina amoena	Spring	0.64	16
+Lazuli Bunting	Passerina amoena	Summer	0.53	30
+Painted Bunting	Passerina ciris	Summer	0.86	NA
+Dickcissel	Spiza americana	Spring	0.38	5
+Dickcissel	Spiza americana	Summer	0.2	180
+House Finch	Haemorhous mexicanus	Winter	0.99	388
+House Finch	Haemorhous mexicanus	Spring	0.92	138
+House Finch	Haemorhous mexicanus	Summer	0.96	406
+House Finch	Haemorhous mexicanus	Fall	1	231
+Common Redpoll	Acanthis flammea	Winter	0.99	513
+Common Redpoll	Acanthis flammea	Spring	1	15
+Common Redpoll	Acanthis flammea	Fall	1	22
+Pine Siskin	Spinus pinus	Winter	0.9	142
+Pine Siskin	Spinus pinus	Spring	0.86	86
+Pine Siskin	Spinus pinus	Summer	0.19	19
+Pine Siskin	Spinus pinus	Fall	0.57	57
+American Goldfinch	Spinus tristis	Winter	0.97	40
+American Goldfinch	Spinus tristis	Spring	0.51	41
+American Goldfinch	Spinus tristis	Summer	0.96	33
+American Goldfinch	Spinus tristis	Fall	0.99	9
+Lesser Goldfinch	Spinus psaltria	Winter	1	124
+Lesser Goldfinch	Spinus psaltria	Spring	1	38
+Lesser Goldfinch	Spinus psaltria	Summer	0.91	168
+Lesser Goldfinch	Spinus psaltria	Fall	0.99	129
+Red Crossbill	Loxia curvirostra	Winter	0.99	195
+Red Crossbill	Loxia curvirostra	Spring	0.98	27
+Red Crossbill	Loxia curvirostra	Summer	0.82	30
+Red Crossbill	Loxia curvirostra	Fall	1	3
+White-winged Crossbill	Loxia leucoptera	Winter	0.97	34
+White-winged Crossbill	Loxia leucoptera	Summer	0.75	7
+White-winged Crossbill	Loxia leucoptera	Fall	1	18
+Eastern Towhee	Pipilo erythrophthalmus	Winter	0.85	143
+Eastern Towhee	Pipilo erythrophthalmus	Spring	0.53	216
+Eastern Towhee	Pipilo erythrophthalmus	Summer	0.43	197
+Eastern Towhee	Pipilo erythrophthalmus	Fall	0.79	92
+Spotted Towhee	Pipilo maculatus	Winter	0.91	31
+Spotted Towhee	Pipilo maculatus	Spring	0.49	14
+Spotted Towhee	Pipilo maculatus	Summer	0.62	52
+Spotted Towhee	Pipilo maculatus	Fall	0.92	53
+California Towhee	Melozone crissalis	Winter	0.92	65
+California Towhee	Melozone crissalis	Spring	0.62	34
+California Towhee	Melozone crissalis	Summer	0.81	163
+California Towhee	Melozone crissalis	Fall	0.96	112
+Lark Bunting	Calamospiza melanocorys	Summer	0.24	34
+Lark Bunting	Calamospiza melanocorys	Fall	0.55	19
+Savannah Sparrow	Passerculus sandwichensis princeps	Winter	0.92	118
+Savannah Sparrow	Passerculus sandwichensis princeps	Spring	0.63	66
+Savannah Sparrow	Passerculus sandwichensis princeps	Summer	0.26	39
+Savannah Sparrow	Passerculus sandwichensis princeps	Fall	0.84	76
+Grasshopper Sparrow	Ammodramus savannarum	Spring	0.4	26
+Grasshopper Sparrow	Ammodramus savannarum	Summer	0.39	100
+Grasshopper Sparrow	Ammodramus savannarum	Fall	0.71	17
+Seaside Sparrow	Ammodramus maritimus	Spring	0.06	22
+Seaside Sparrow	Ammodramus maritimus	Summer	0	24
+Seaside Sparrow	Ammodramus maritimus	Fall	0.6	6
+Vesper Sparrow	Pooecetes gramineus	Winter	0.92	14
+Vesper Sparrow	Pooecetes gramineus	Spring	0.59	91
+Vesper Sparrow	Pooecetes gramineus	Summer	0.44	91
+Vesper Sparrow	Pooecetes gramineus	Fall	0.64	44
+Lark Sparrow	Chondestes grammacus	Winter	0.98	89
+Lark Sparrow	Chondestes grammacus	Spring	0.54	35
+Lark Sparrow	Chondestes grammacus	Summer	0.5	153
+Lark Sparrow	Chondestes grammacus	Fall	0.88	34
+Rufous-crowned Sparrow	Aimophila ruficeps	Summer	0.79	25
+Dark-eyed Junco	Junco hyemalis	Winter	0.76	48
+Dark-eyed Junco	Junco hyemalis	Spring	0.4	27
+Dark-eyed Junco	Junco hyemalis	Summer	0.93	35
+Dark-eyed Junco	Junco hyemalis	Fall	0.92	138
+Dark-eyed Junco	Junco hyemalis	Winter	0.74	7
+Dark-eyed Junco	Junco hyemalis	Spring	0.52	22
+Dark-eyed Junco	Junco hyemalis	Summer	0.95	93
+Dark-eyed Junco	Junco hyemalis	Fall	0.91	143
+American Tree Sparrow	Spizelloides arborea	Winter	0.99	483
+American Tree Sparrow	Spizelloides arborea	Spring	0.89	28
+American Tree Sparrow	Spizelloides arborea	Fall	0.98	10
+Chipping Sparrow	Spizella passerina	Winter	0.98	10
+Chipping Sparrow	Spizella passerina	Spring	0.34	119
+Chipping Sparrow	Spizella passerina	Summer	0.41	217
+Chipping Sparrow	Spizella passerina	Fall	0.8	67
+Brewer's Sparrow	Spizella breweri	Winter	0.9	2
+Brewer's Sparrow	Spizella breweri	Spring	0.01	15
+Brewer's Sparrow	Spizella breweri	Summer	0.16	42
+Brewer's Sparrow	Spizella breweri	Fall	0.53	17
+Field Sparrow	Spizella pusilla	Winter	0.9	27
+Field Sparrow	Spizella pusilla	Spring	0.54	59
+Field Sparrow	Spizella pusilla	Summer	0.49	50
+Field Sparrow	Spizella pusilla	Fall	0.82	39
+Harris's Sparrow	Zonotrichia querula	Winter	0.94	75
+Harris's Sparrow	Zonotrichia querula	Spring	0.8	21
+Harris's Sparrow	Zonotrichia querula	Fall	0.99	5
+White-crowned Sparrow	Zonotrichia leucophrys	Winter	0.99	22
+White-crowned Sparrow	Zonotrichia leucophrys	Spring	0.75	80
+White-crowned Sparrow	Zonotrichia leucophrys	Summer	0.64	15
+White-crowned Sparrow	Zonotrichia leucophrys	Fall	0.96	303
+Golden-crowned Sparrow	Zonotrichia atricapilla	Winter	0.99	98
+Golden-crowned Sparrow	Zonotrichia atricapilla	Spring	0.99	99
+Golden-crowned Sparrow	Zonotrichia atricapilla	Fall	0.97	55
+White-throated Sparrow	Zonotrichia albicollis	Winter	0.93	73
+White-throated Sparrow	Zonotrichia albicollis	Spring	0.52	80
+White-throated Sparrow	Zonotrichia albicollis	Summer	0.53	9
+White-throated Sparrow	Zonotrichia albicollis	Fall	0.86	78
+Fox Sparrow	Passerella iliaca	Winter	0.77	107
+Fox Sparrow	Passerella iliaca	Spring	0.52	46
+Fox Sparrow	Passerella iliaca	Fall	0.93	19
+Lincoln's Sparrow	Melospiza lincolnii	Winter	0.83	9
+Lincoln's Sparrow	Melospiza lincolnii	Spring	0.31	19
+Lincoln's Sparrow	Melospiza lincolnii	Fall	0.93	20
+Swamp Sparrow	Melospiza georgiana	Winter	0.45	20
+Swamp Sparrow	Melospiza georgiana	Spring	0.12	11
+Swamp Sparrow	Melospiza georgiana	Summer	0.84	29
+Swamp Sparrow	Melospiza georgiana	Fall	0.97	3
+Song Sparrow	Melospiza melodia	Winter	0.86	199
+Song Sparrow	Melospiza melodia	Spring	0.54	91
+Song Sparrow	Melospiza melodia	Summer	0.6	182
+Song Sparrow	Melospiza melodia	Fall	0.92	215
+Lapland Longspur	Calcarius lapponicus	Winter	1	512
+Lapland Longspur	Calcarius lapponicus	Spring	0.93	71
+Lapland Longspur	Calcarius lapponicus	Fall	0.94	17
+Chestnut-collared Longspur	Calcarius ornatus	Winter	1	7
+Chestnut-collared Longspur	Calcarius ornatus	Spring	0.87	14
+Chestnut-collared Longspur	Calcarius ornatus	Summer	0.28	12
+Chestnut-collared Longspur	Calcarius ornatus	Fall	0.83	14
+Snow Bunting	Plectrophenax nivalis	Winter	1	408
+Snow Bunting	Plectrophenax nivalis	Spring	0.97	109
+Snow Bunting	Plectrophenax nivalis	Summer	1	6
+Snow Bunting	Plectrophenax nivalis	Fall	0.85	22
+	 			
