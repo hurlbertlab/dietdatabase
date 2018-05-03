@@ -270,7 +270,7 @@ dietSummary = function(commonName,
   }
   
   dietsp = filter(dietsub, Diet_Type %in% dietType, 
-                  Observation_Season %in% season, 
+                  tolower(Observation_Season) %in% season, 
                   Location_Region %in% region)
 
   
