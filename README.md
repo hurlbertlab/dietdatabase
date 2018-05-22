@@ -173,7 +173,7 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>Prey_Suborder</td>
     <td>Suborder to which the prey item belongs. This field will most frequently be used when older studies report prey orders 
     "Homoptera", "Hemiptera", and "Heteroptera", which now all fall under the Order Hemiptera. Thus, a report of "Homoptera" should
-    be classified as Order Hemiptera, Suborder Homoptera. An older (pre-2000s) report of "Hemiptera" should be classified as Order
+    be classified as Order Hemiptera, and then possibly Suborder Auchenorrhyncha (if obviously referring to leafhoppers and cicadas) 	     or Suborder Sternorrhyncha (if obviously referring only to aphids, scales, or psyllids). An older (pre-2000s) report of "Hemiptera" should be classified as Order
     Hemiptera, Suborder Heteroptera.</td>
   </tr>
   <tr>
