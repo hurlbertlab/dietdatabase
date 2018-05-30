@@ -6936,7 +6936,7 @@ Black Francolin	Phasianidae	1999	Diet		"Faruqi, S. A., G. Bump, P. C. Nanda, and
 Black Francolin	Phasianidae	1999	Feeding	Main Foods Taken	"Husain, M. A. and H. R. Bhalla. 1937. Some birds of Lyallpur and their food. J. Bombay Nat. Hist. Soc. 39:831-842."				
 Black Francolin	Phasianidae	1999	Feeding	Food Capture And Consumption	"Johnsgard, P. A. 1988. The quails, partridges, and francolins of the world. Oxford Univ. Press, New York."				
 Black Francolin	Phasianidae	1999	Feeding	Main Foods Taken	"Bump, G. and J. W. Bump. 1964. A study and review of the Black Francolin and the Gray Francolin. Spec. Sci. Rep. - Wildl. no. 81. Bur. Sport Fish. Wildl. Washington, D.C."				
-Black Francolin	Phasianidae	1999	Diet		"Lum, T. M. 1986. The Black Francolin: an effective mouser? 'Elepaio 46:155."				
+Black Francolin	Phasianidae	1999	Diet		"Lum, T. M. 1986. The Black Francolin: an effective mouser? 'Elepaio 46:155."	n			
 Black Francolin	Phasianidae	1999	Feeding	Main Foods Taken	"Soman, P. W. 1962. The Grey Partridge [Francolinus pondicerianus (Gmelin)] eating snake. J. Bombay Nat. Hist. Soc. 59:653-654."				
 Black Francolin	Phasianidae	1999	Diet		"Alcorn, A. A. and A. R. Jonez. 1964. Charleston District, Headquarters Las Vegas: General Research - Exotic bird introductions. Proj. no. W-28-R-7. Unpubl. mimeo. Nevada Fish and Game Comm."				
 Black Francolin	Phasianidae	1999	Feeding	Main Foods Taken	"Urban, E. K., C. H. Fry, and S. Keith. 1986. The birds of Africa. Vol. II. Academic Press, New York."				
