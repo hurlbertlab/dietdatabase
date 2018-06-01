@@ -6946,8 +6946,8 @@ Black Francolin	Phasianidae	1999	Diet		"Alcorn, A. A. and A. R. Jonez. 1964. Cha
 Black Francolin	Phasianidae	1999	Feeding	Main Foods Taken	"Urban, E. K., C. H. Fry, and S. Keith. 1986. The birds of Africa. Vol. II. Academic Press, New York."				
 Black Francolin	Phasianidae	1999	Diet		"Ali, S. and S. D. Ripley. 1969. Handbook of the birds of India and Pakistan. Vol. II. Oxford Univ. Press, New York."				
 Black Francolin	Phasianidae	1999	Diet		"Christensen, G. C. 1963. Exotic game bird introductions into Nevada. Nevada Federal Aid Proj. W-33-R. Nevada Fish and Game Comm. Biol. Bull. no. 3."				
-Black Francolin	Phasianidae	1999	Feeding	Main Foods Taken	"Telfer, T. C. 1986. Final Report: ecological study of the Erckel's Francolin on Kauai. Pittman-Robertson Proj. no. W-17-R, Study no. R-V-A, 1980-1985. Hawaii DLNR, Div. For. and Wildl."	N			
-Black Francolin	Phasianidae	1999	Diet		"Telfer, T. C. 1973. Statewide Pittman-Robertson Program: introduction of exotic game birds on the island of Kauai (S.I.). Pittman-Robertson Job Progr. Rep. W-15-2: IX-C-13. Unpubl. mimeo. Hawaii Div. of Fish and Game."	N			
+Black Francolin	Phasianidae	1999	Feeding	Main Foods Taken	"Telfer, T. C. 1986. Final Report: ecological study of the Erckel's Francolin on Kauai. Pittman-Robertson Proj. no. W-17-R, Study no. R-V-A, 1980-1985. Hawaii DLNR, Div. For. and Wildl."				
+Black Francolin	Phasianidae	1999	Diet		"Telfer, T. C. 1973. Statewide Pittman-Robertson Program: introduction of exotic game birds on the island of Kauai (S.I.). Pittman-Robertson Job Progr. Rep. W-15-2: IX-C-13. Unpubl. mimeo. Hawaii Div. of Fish and Game."				
 Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"Stewart, R. E. 1944. Food habits of the Blue Grouse. Condor 46:112-120."	n		unavailable	
 Blue Grouse	Phasianidae	1-Nov-05	Diet	Major Food Items	"King, D. G. 1973. Feeding habits of Blue Grouse in the subalpine. Syesis 6:121-125."	n		unavailable	
 Blue Grouse	Phasianidae	1-Nov-05	Feeding	Grit	"Zwickel, F. C. and J. F. Bendell. 2004. Blue Grouse: their biology and natural history. NRC Research Press, Ottawa, ON."	y		book; must be purchased	
