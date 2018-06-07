@@ -7259,7 +7259,7 @@ Spruce Grouse	Phasianidae	1992	Diet		"Bryant, J. and P. Kuropat. 1980. Selection
 Spruce Grouse	Phasianidae	1992	Diet		"Jonkel, C. J. and K. R. Greer. 1963. Fall food habits of Spruce Grouse in northwest Montana. J. Wildl. Manage. 27:593-596."				
 Spruce Grouse	Phasianidae	1992	Nutrition And Energetics		"Pendergast, B. A. 1969. Nutrition of spruce grouse in the Swan Hills, Alberta. Master's Thesis. Univ. Alberta, Edmonton."				
 Spruce Grouse	Phasianidae	1992	Diet		"Gurchinoff, S. and W. L. Robinson. 1972. Chemical characteristics of jack pine needles selected by feeding Spruce Grouse. J. Wildl. Manage. 36:80-87."				
-White-tailed Ptarmigan	Phasianidae	1993	Feeding	Main Foods Taken	"Weeden, R. B. 1967. Seasonal and geographic variation in the foods of adult White-tailed Ptarmigan. Condor 69:303-309."				
+White-tailed Ptarmigan	Phasianidae	1993	Feeding	Main Foods Taken	"Weeden, R. B. 1967. Seasonal and geographic variation in the foods of adult White-tailed Ptarmigan. Condor 69:303-309."	y	y		
 White-tailed Ptarmigan	Phasianidae	1993	Feeding	Main Foods Taken	"Braun, C. E. and G. E. Rogers. 1971. The White-tailed Ptarmigan in Colorado. Colo. Div. Game, Fish, and Parks Tech. Publ. No. 27."				
 White-tailed Ptarmigan	Phasianidae	1993	Feeding	Main Foods Taken	"May, T. A. and C. E. Braun. 1972. Seasonal food of adult White-tailed Ptarmigan in Colorado. J. Wildl. Manage. 36:1180-1186."				
 White-tailed Ptarmigan	Phasianidae	1993	Feeding	Main Foods Taken	"Beer, J. R. 1948. Notes on the food habits of some western grouse. Murrelet 29:18-20."				
