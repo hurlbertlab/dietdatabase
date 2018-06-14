@@ -1,5 +1,5 @@
 common_name	family	revised	section	subsection	citation	checked	usable_data	notes	taxonomy_notes
-Bald Eagle	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Macdonald, P. R. N. and P. J. Austin-Smith. 1989. Bald Eagle, Haliaeetus leucocephalus, nest distribution in Cape Breton Island, Nova Scotia. Can. Field-Nat. 103:293-296."	n	test		
+Bald Eagle	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Macdonald, P. R. N. and P. J. Austin-Smith. 1989. Bald Eagle, Haliaeetus leucocephalus, nest distribution in Cape Breton Island, Nova Scotia. Can. Field-Nat. 103:293-296."	n			
 Bald Eagle	Accipitridae	2000	Feeding	Microhabitat For Foraging	"Canton, E. L., B. R. McClelland, D. A. Patterson, and R. E. Yates. 1992. Characteristics of foraging perches used by breeding Bald Eagles in Montana. Wilson Bull. 104:136-142."	y	n		
 Bald Eagle	Accipitridae	2000	Diet	Major Food Items And Quantitative Analyses	"Retfalvi, L. 1970. Food of nesting Bald Eagles on San Juan Islan, Washington. Condor 72:358-361."	y	Y		
 Bald Eagle	Accipitridae	2000	Diet	Major Food Items And Quantitative Analyses	"Brooks, A. C. 1922. Notes on the habits and abundance of Bald Eagles in British Columbia. Auk 39:556-559."	y	n	"data sparse and nonspecific; tried to enter data, but the study was too ambiguous"	
