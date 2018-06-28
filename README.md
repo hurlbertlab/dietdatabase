@@ -36,7 +36,7 @@ Go to [Web of Science](http://apps.webofknowledge.com) and in the Topic search b
 replacing [common name] with the actual common name of the species you are searching.
 
 Click on +Add Another Field, and select Year Published. Search all years since the last revised date for that species as listed in the 
-'NA_avian_diet_refs' table.  
+'NA_avian_diet_refs' table.    
 
 Look up the papers in the search results, and be sure to add any that contain useful data to the NA_avian_diet_refs.txt table.
 
