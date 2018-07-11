@@ -9765,6 +9765,19 @@ Barred Owl	Strigidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Isley, D.
 Barred Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Takats, D. L. 1996. Foraging observations of a Barred Owl in the Foothills Model Forest. Alberta Nat. 26:29-30."	n			
 Barred Owl	Strigidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Applegate, R. D. 1975. Co-roosting of Barred Owls and Common Grackles. Bird-Banding 46:169-170."	y	n		
 Barred Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Smith, D. G., A. Devine, and D. Devine. 1983. Observations of fishing by a Barred Owl. J. Field Ornithol. 54:88-89."	y	y		
+Barred Owl	Strigidae	1940	Diet		"Blakemore, L. A. ""Barred Owl food habits in Glenwood Park, Minneapolis, Minnesota."" Flicker 12 (1940): 21-23."				
+Barred Owl	Strigidae	1984	Diet		"Devereux JG, Mosher JA (1984) Breeding ecology of barred owls in the central Appalachians. J Raptor Res 18:49–58"				
+Barred Owl	Strigidae	1893	Diet		"Fisher, Albert Kenrick. The hawks and owls of the United States in their relation to agriculture. No. 3. US Department of Agriculture, Division of Ornithology and Mammalogy, 1893."				
+Barred Owl	Strigidae	1938	Diet		"Wilson, Kenneth A. ""Owl studies at Ann Arbor, Michigan."" The Auk 55.2 (1938): 187-197."				
+Barred Owl	Strigidae	1987	Diet		"Bosakowski, Thomas, R. Speiser, and John Benzinger. ""Distribution, density, and habitat relationships of the Barred Owl in northern New Jersey."" Biology and Conservation of Northern Owls. Gen. Tech. Re, RM-142. US Department of Agriculture, Forest Service, Rocky Mountain Forest and Range Experiment Station, Fort Collins (1987): 135-143."				
+Barred Owl	Strigidae	1978	Diet		"Dexter, Ralph W. Mammals utilized as food by owls in reference to the local fauna of northeastern Ohio. Cleveland Museum of Natural History, 1978."				
+Barred Owl	Strigidae	1985	Diet		"Elody, B. I., and N. F. Sloan. ""Movements and habitat use of Barred Owls in the Huron Mountains of Marquette County, Michigan, as determined by radiotelemetry."" Jack-Pine Warbler 63.1 (1985): 3-8."				
+Barred Owl	Strigidae	1937	Diet		"Errington, Paul L., and M. A. L. C. O. M. McDONALD. ""Conclusions as to the food habits of the barred owl in Iowa."" Iowa Bird Life 7 (1937): 47-49."				
+Barred Owl	Strigidae	1976	Diet		"Imhof, Thomas A. Alabama birds. University of Alabama Press, 1976."				
+Barred Owl	Strigidae	1995	Diet		"Mazur, Kurt M., Shanna D. Frith, and Paul C. James. ""Barred owl home range and habitat selection in the boreal forest of central Saskatchewan."" The Auk (1998): 746-754."				
+Barred Owl	Strigidae	1980	Diet		"Leder, John E., and Melvin L. Walters. ""Nesting observations for the barred owl in western Washington."" The Murrelet 61.3 (1980): 110-112."				
+Barred Owl	Strigidae								
+									
 Boreal Owl	Strigidae	1993	Food Selection And Storage		"Schwerdtfeger, O. 1988. Analysis of the stored prey in the nest-holes of the Tengmalm's Owl (Aegolius funereus). Vogelwelt 109:176-181."	y	n		
 Boreal Owl	Strigidae	1993	Food Selection And Storage		"Korpimaki, E. 1987a. Prey caching of breeding Tengmalm's owls Aegolius funereus as a buffer against temporary food shortage. Ibis 129:499-510."	n			
 Boreal Owl	Strigidae	1993	Feeding	Foraging Pattern	"Hayward, G. D. 1987. Betalights: An aid in the nocturnal study of owl foraging habitat and behavior. J. Raptor Res. 21:98-102."	n			
