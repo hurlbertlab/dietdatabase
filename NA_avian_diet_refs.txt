@@ -9776,8 +9776,9 @@ Barred Owl	Strigidae	1937	Diet		"Errington, Paul L., and M. A. L. C. O. M. McDON
 Barred Owl	Strigidae	1976	Diet		"Imhof, Thomas A. Alabama birds. University of Alabama Press, 1976."				
 Barred Owl	Strigidae	1995	Diet		"Mazur, Kurt M., Shanna D. Frith, and Paul C. James. ""Barred owl home range and habitat selection in the boreal forest of central Saskatchewan."" The Auk (1998): 746-754."				
 Barred Owl	Strigidae	1980	Diet		"Leder, John E., and Melvin L. Walters. ""Nesting observations for the barred owl in western Washington."" The Murrelet 61.3 (1980): 110-112."				
-Barred Owl	Strigidae								
-									
+Barred Owl	Strigidae	1974	Diet		"Lowery, George Hines. ""Mammals of Louisiana and its adjacent waters."" (1974)."				
+Barred Owl	Strigidae	1997	Diet		"Mazur, Kurt M., Paul C. James, and Shanna D. Frith. ""Barred Owl (Strix varia) nest site characteristics in the boreal forest of Saskatchewan, Canada."" In: Duncan, James R.; Johnson, David H.; Nicholls, Thomas H., eds. Biology and conservation of owls of the Northern Hemisphere: 2nd International symposium. Gen. Tech. Rep. NC-190. St. Paul, MN: US Dept. of Agriculture, Forest Service, North Central Forest Experiment Station. 267-271.. Vol. 190. 1997."				
+Barred Owl	Strigidae	1938	Diet		"Oberholser, Harry Church. The bird life of Louisiana. No. 28. Department of Conservation, State of Louisiana, 1938."				
 Boreal Owl	Strigidae	1993	Food Selection And Storage		"Schwerdtfeger, O. 1988. Analysis of the stored prey in the nest-holes of the Tengmalm's Owl (Aegolius funereus). Vogelwelt 109:176-181."	y	n		
 Boreal Owl	Strigidae	1993	Food Selection And Storage		"Korpimaki, E. 1987a. Prey caching of breeding Tengmalm's owls Aegolius funereus as a buffer against temporary food shortage. Ibis 129:499-510."	n			
 Boreal Owl	Strigidae	1993	Feeding	Foraging Pattern	"Hayward, G. D. 1987. Betalights: An aid in the nocturnal study of owl foraging habitat and behavior. J. Raptor Res. 21:98-102."	n			
