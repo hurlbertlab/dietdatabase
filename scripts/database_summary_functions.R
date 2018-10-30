@@ -356,6 +356,103 @@ dietSummary = function(commonName,
 
 
 
+# For a particular prey item (and associated taxonomic level), summarize diet database info 
+# based on avian predators, with option to specify Diet_Type, season, region, and year range
+
+whatEatsThis = function(preyName,
+                        preyLevel, 
+                        larvaOnly = FALSE,
+                        dietType = NULL,
+                        season = NULL,
+                        region = NULL,
+                        yearRange = c(1700, 2100)) {
+  
+  if (!exists("diet")) {
+    diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                      fill=T, stringsAsFactors = F)    
+  }
+  
+  # Checking for valid arguments
+  
+  if (preyLevel == 'Species') { preyLevel = 'Scientific_Name' }
+  
+  if (!preyLevel %in% c('Kingdom', 'Phylum', 'Class', 'Order', 'Suborder', 
+                 'Family', 'Genus', 'Scientific_Name')) {
+    warning("Please specify one of the following taxonomic levels for describing prey:\n   Kingdom, Phylum, Class, Order, Suborder, Family, Genus, or Scientific_Name")
+    return(NULL)
+  }
+  
+  taxonLevel = paste('Prey_', preyLevel, sep = '')
+  
+  if (!tolower(preyName) %in% tolower(diet[, taxonLevel])) {
+    warning(paste("No prey taxa named", preyName, "at the level of", preyLevel, "were found in the Diet Database."))
+    return(NULL)
+  }
+  
+  if (is.null(dietType)) {
+    dietType = c('Items', 'Wt_or_Vol', 'Unspecified', 'Occurrence')
+  } else {
+    if (!dietType %in% c('Items', 'Wt_or_Vol', 'Unspecified', 'Occurrence')) {
+      warning("dietType argument must be one or more of the following: 'Items', 'Wt_or_Vol', 'Unspecified', or 'Occurrence'.")
+      return(NULL)
+    }
+  }
+  
+  if (is.null(season)) {
+    season = unique(diet$Observation_Season)
+  } else {
+    season = tolower(season)
+    if (sum(sapply(season, function(x) x %in% c('spring', 'summer', 'fall', 'winter', 'any'))) != length(season)) {
+      warning("season argument must be one or more of the following: 'spring', 'summer', 'fall', 'winter', or 'any'.")
+      return(NULL)
+    }
+    if ('any' %in% season) {
+      season = unique(diet$Observation_Season)
+    }
+  }
+  
+  if (is.null(region)) {
+    region = unique(diet$Location_Region)
+  }
+  
+    
+  # Note this is strict, and will not include records which list 'larva' in addition to other stages
+  # (e.g. ('pupa; larva' or 'adult; larva'))
+  if (larvaOnly) {
+    diet2 = filter(diet, Prey_Stage == 'larva')
+  } else {
+    diet2 = diet
+  }
+    
+  dietsub = diet2 %>% 
+    filter(get(taxonLevel) == preyName,
+           Observation_Year_End >= min(yearRange),
+           Observation_Year_End <= max(yearRange),
+           Diet_Type %in% dietType, 
+           tolower(Observation_Season) %in% season, 
+           Location_Region %in% region) %>%
+    arrange(Diet_Type, desc(Fraction_Diet)) %>%
+    select(Common_Name, Family, Location_Region, Observation_Year_End, Observation_Season, Diet_Type, Fraction_Diet) %>%
+    mutate(PreyName = preyName, PreyLevel = preyLevel, LarvaOnly = larvaOnly)
+    
+  if (nrow(dietsub) == 0) {
+    warning("No records for the specified combination of prey, prey stage, diet type, season, region, and years.")
+    return(NULL)
+  }
+
+  output = list(items = filter(dietsub, Diet_Type == 'Items'),
+                wt_or_vol = filter(dietsub, Diet_Type == 'Wt_or_Vol'),
+                occurrence = filter(dietsub, Diet_Type == 'Occurrence'),
+                unspecified = filter(dietsub, Diet_Type == 'Unspecified'))
+  
+  return(output)
+}
+  
+
+
+
+
+
 # For dates with no clear Observation_Year_End, replace
 # Observation_Year_End with the publication year.
 # (rapply is to exclude any years in the article title)
