@@ -222,8 +222,11 @@ dietSummary = function(commonName,
                        region = NULL,
                        yearRange = c(1700, 2100)) {
   
-  diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
-                    fill=T, stringsAsFactors = F)
+  if (!exists("diet")) {
+    diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                      fill=T, stringsAsFactors = F)    
+  }
+
   
   # Checking for valid arguments
   
@@ -270,7 +273,7 @@ dietSummary = function(commonName,
   }
   
   dietsp = filter(dietsub, Diet_Type %in% dietType, 
-                  Observation_Season %in% season, 
+                  tolower(Observation_Season) %in% season, 
                   Location_Region %in% region)
 
   
