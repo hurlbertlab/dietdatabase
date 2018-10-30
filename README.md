@@ -2,7 +2,7 @@ Avian Diet Database
 ===================
 
 This repository is the temporary home for the Avian Diet Database being built
-by the Hurlbert Lab at the University of North Carolina.  
+by the Hurlbert Lab at the University of North Carolina.    
 
 The goal is to organize all available information (from published studies, gray literature, etc) on the diets 
 of North American birds in its rawest form possible with the idea that this may be a resource for a broad 
@@ -36,7 +36,7 @@ Go to [Web of Science](http://apps.webofknowledge.com) and in the Topic search b
 replacing [common name] with the actual common name of the species you are searching.
 
 Click on +Add Another Field, and select Year Published. Search all years since the last revised date for that species as listed in the 
-'NA_avian_diet_refs' table.  
+'NA_avian_diet_refs' table.    
 
 Look up the papers in the search results, and be sure to add any that contain useful data to the NA_avian_diet_refs.txt table.
 
@@ -173,7 +173,7 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>Prey_Suborder</td>
     <td>Suborder to which the prey item belongs. This field will most frequently be used when older studies report prey orders 
     "Homoptera", "Hemiptera", and "Heteroptera", which now all fall under the Order Hemiptera. Thus, a report of "Homoptera" should
-    be classified as Order Hemiptera, and then possibly Suborder Auchenorrhyncha (if obviously referring to leafhoppers and cicadas) 	     or Suborder Sternorrhyncha (if obviously referring only to aphids, scales, or psyllids). An older (pre-2000s) report of "Hemiptera" should be classified as Order
+    be classified as Order Hemiptera, Suborder Homoptera. An older (pre-2000s) report of "Hemiptera" should be classified as Order
     Hemiptera, Suborder Heteroptera.</td>
   </tr>
   <tr>
