@@ -14,7 +14,7 @@
 library(dplyr)
 library(stringr)
 
-birdtax = read.table('eBird_Taxonomy_v2016_NorthAmerica.txt', header=T, sep = '\t', 
+birdtax = read.csv('birdtaxonomy/eBird_Taxonomy_v2016_NorthAmerica.csv', header=T, 
                      quote = '', fill = T, stringsAsFactors = FALSE)
 
 exclude = c("Introduced", "Extinct", "Extirpated", "Rare/Accidental")
@@ -23,17 +23,18 @@ btax = filter(birdtax, !grepl(paste(exclude, collapse = "|"), Status))
 
 # Add a few species that are introduced but long enough ago to be considered part of the avifauna
 add = filter(birdtax, CommonName %in% c("Rock Pigeon", "House Sparrow", "Alder/Willow Flycatcher (Traill's Flycatcher)",
-                                        "Mute Swan", "Ring-necked Pheasant"))
+                                        "Mute Swan", "Ring-necked Pheasant", "European Starling"))
 
 tax = rbind(btax, add)
 
-# Merge in Family and Order names from overall eBird 2016 checklist
-ebird = read.table('eBird_Taxonomy_v2016.csv', header = T,
+# Merge in Family and Order names from overall eBird 2018 checklist
+# available here: http://www.birds.cornell.edu/clementschecklist/download/
+ebird = read.table('birdtaxonomy/eBird_Taxonomy_v2018_14Aug2018.csv', header = T,
                  sep = ',', quote = '\"', stringsAsFactors = F)
 
 spplist = left_join(tax, ebird, by = c("CommonName" = "PRIMARY_COM_NAME")) %>%
   mutate(Family = word(FAMILY, 1), list = 1) %>% 
-  select(CommonName, SciName, Family, ORDER, list)
+  select(CommonName, SciName, Family, ORDER1, list)
 
 # Now compare to species in the Diet Database
 diet = read.table('AvianDietDatabase.txt', header=T, sep = '\t', quote = '', fill = T, stringsAsFactors = FALSE)
@@ -46,7 +47,7 @@ spplist2$list[is.na(spplist2$list)] = 0
 spplist2$dietdb[is.na(spplist2$dietdb)] = 0
 
 
-famtotals = spplist2 %>% group_by(ORDER, Family) %>% 
+famtotals = spplist2 %>% group_by(ORDER1, Family) %>% 
   summarize(TotalSp = sum(list), WithData = sum(dietdb)) %>%
   mutate(WithoutData = TotalSp - WithData) %>%
   data.frame()
