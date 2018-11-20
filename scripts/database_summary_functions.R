@@ -518,6 +518,7 @@ reclassifyPrey = function(diet = NULL, by = 'Order') {
   names(reclassified)[names(reclassified) == "get(TaxonLevelAbove, envir = as.environment(dietsp))"] = TaxonLevelAbove
   names(reclassified)[names(reclassified) == "get(taxonLevel, envir = as.environment(dietsp))"] = taxonLevel
   
+  reclassified = as.data.frame(reclassified)
   return(reclassified)
 }
 
