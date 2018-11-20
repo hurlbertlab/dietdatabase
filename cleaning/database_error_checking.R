@@ -157,6 +157,13 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   # Error checking -- numeric fields
   outliers = outlierCheck(diet)
 
+  # Error checking -- erroneous "auto-fill" values of altitude
+  alt_min_diff = diet$Altitude_min_m[2:nrow(diet)] - diet$Altitude_min_m[1:(nrow(diet) - 1)]
+  alt_meann_diff = diet$Altitude_mean_m[2:nrow(diet)] - diet$Altitude_mean_m[1:(nrow(diet) - 1)]
+  alt_max_diff = diet$Altitude_max_m[2:nrow(diet)] - diet$Altitude_max_m[1:(nrow(diet) - 1)]
+  
+  ###### not finished flagging consecutive differences of 1, etc
+  
   # Error checking -- text fields
   season = count(diet, Observation_Season) %>% 
     filter(!tolower(Observation_Season) %in% c('multiple', 'summer', 'spring', 'fall', 'winter', NA)) %>%
