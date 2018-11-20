@@ -450,6 +450,74 @@ whatEatsThis = function(preyName,
   
 
 
+# Re classify diet database to a different taxonomic level (of prey).
+# Only returns results for Diet_Type 'Items', 'Wt_or_Vol', or 'Unspecified' since
+# 'Occurrence' cannot be summed hierarchically.
+
+reclassifyPrey = function(diet = NULL, by = 'Order') {
+  if (is.null(diet)) {
+    diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                      fill=T, stringsAsFactors = F)    
+  }
+  
+  if (by == 'Species') { by = 'Scientific_Name' }
+  
+  if (!by %in% c('Kingdom', 'Phylum', 'Class', 'Order', 'Suborder', 
+                 'Family', 'Genus', 'Scientific_Name')) {
+    warning("Please specify one of the following taxonomic levels to aggregate prey data:\n   Kingdom, Phylum, Class, Order, Suborder, Family, Genus, or Scientific_Name")
+    return(NULL)
+  }
+  
+  dietsp = filter(diet, Diet_Type != 'Occurrence')
+  
+  if (nrow(dietsp) == 0) {
+    warning("No available records with a DietType of 'Items', 'Wt_or_Vol', or 'Unspecified' to reclassify.")
+    return(NULL)
+  }
+  
+  taxonLevel = paste('Prey_', by, sep = '')
+  
+  # If prey not identified down to taxon level specified, replace "" with
+  # "Unidentified XXX" where XXX is the lowest level specified (e.g. Unidentified Animalia)
+  dietprey = dietsp[, c('Prey_Kingdom', 'Prey_Phylum', 'Prey_Class',
+                        'Prey_Order', 'Prey_Suborder', 'Prey_Family',
+                        'Prey_Genus', 'Prey_Scientific_Name')]
+  level = which(names(dietprey) == taxonLevel)
+  dietsp[, taxonLevel] = apply(dietprey, 1, function(x)
+    if(x[level] == "" | is.na(x[level])) { paste("Unid.", x[max(which(x != "")[which(x != "") < level], na.rm = T)])} 
+    else { x[level] })
+  
+  # Prey_Stage should only matter for distinguishing things at the Order level and 
+  # below (e.g. distinguishing between Lepidoptera larvae and adults).
+  if (by %in% c('Order', 'Family', 'Genus', 'Scientific_Name')) {
+    stage = dietsp$Prey_Stage
+    stage[is.na(stage)] = ""
+    stage[stage == 'adult'] = ""
+    dietsp$Taxon = paste(dietsp[, taxonLevel], stage) %>% trimws("both")
+  } else {
+    dietsp$Taxon = dietsp[, taxonLevel]
+  }
+
+  TaxonLevelAbove = names(dietprey)[level - 1]
+    
+  # Summarizing by new taxonomic level
+  reclassified = dietsp %>% 
+    group_by(Common_Name, Scientific_Name, Subspecies, Family, Taxonomy, Longitude_dd, Latitude_dd,
+             Altitude_min_m, Altitude_mean_m, Altitude_max_m, Location_Region, Location_Specific, 
+             Habitat_type, Observation_Month_Begin, Observation_Year_Begin, Observation_Month_End,
+             Observation_Year_End, Observation_Season, Prey_Kingdom, get(TaxonLevelAbove, envir = as.environment(dietsp)), 
+             Taxon, Diet_Type, Item_Sample_Size, Bird_Sample_Size, Sites, Study_Type, Source) %>%
+    summarize(Frac_Diet = sum(Fraction_Diet, na.rm = T)) %>%
+    select(Common_Name, Scientific_Name, Subspecies, Family, Taxonomy, Longitude_dd, Latitude_dd,
+           Altitude_min_m, Altitude_mean_m, Altitude_max_m, Location_Region, Location_Specific, 
+           Habitat_type, Observation_Month_Begin, Observation_Year_Begin, Observation_Month_End,
+           Observation_Year_End, Observation_Season, Prey_Kingdom,  "get(TaxonLevelAbove, envir = as.environment(dietsp))", 
+           Taxon, Frac_Diet, Diet_Type, Item_Sample_Size, Bird_Sample_Size, Sites, Study_Type, Source)
+  names(reclassified)[names(reclassified) == "get(TaxonLevelAbove, envir = as.environment(dietsp))"] = TaxonLevelAbove
+  
+  return(reclassified)
+}
+
 
 
 
