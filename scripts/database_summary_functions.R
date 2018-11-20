@@ -506,14 +506,17 @@ reclassifyPrey = function(diet = NULL, by = 'Order') {
              Altitude_min_m, Altitude_mean_m, Altitude_max_m, Location_Region, Location_Specific, 
              Habitat_type, Observation_Month_Begin, Observation_Year_Begin, Observation_Month_End,
              Observation_Year_End, Observation_Season, Prey_Kingdom, get(TaxonLevelAbove, envir = as.environment(dietsp)), 
-             Taxon, Diet_Type, Item_Sample_Size, Bird_Sample_Size, Sites, Study_Type, Source) %>%
+             get(taxonLevel, envir = as.environment(dietsp)), Diet_Type, Item_Sample_Size, Bird_Sample_Size, 
+             Sites, Study_Type, Source) %>%
     summarize(Frac_Diet = sum(Fraction_Diet, na.rm = T)) %>%
     select(Common_Name, Scientific_Name, Subspecies, Family, Taxonomy, Longitude_dd, Latitude_dd,
            Altitude_min_m, Altitude_mean_m, Altitude_max_m, Location_Region, Location_Specific, 
            Habitat_type, Observation_Month_Begin, Observation_Year_Begin, Observation_Month_End,
            Observation_Year_End, Observation_Season, Prey_Kingdom,  "get(TaxonLevelAbove, envir = as.environment(dietsp))", 
-           Taxon, Frac_Diet, Diet_Type, Item_Sample_Size, Bird_Sample_Size, Sites, Study_Type, Source)
+           "get(taxonLevel, envir = as.environment(dietsp))", Frac_Diet, Diet_Type, Item_Sample_Size, 
+           Bird_Sample_Size, Sites, Study_Type, Source)
   names(reclassified)[names(reclassified) == "get(TaxonLevelAbove, envir = as.environment(dietsp))"] = TaxonLevelAbove
+  names(reclassified)[names(reclassified) == "get(taxonLevel, envir = as.environment(dietsp))"] = taxonLevel
   
   return(reclassified)
 }
