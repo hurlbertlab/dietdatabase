@@ -141,6 +141,30 @@ checksum = function(diet, accuracy = 0.05) {
 }
 
 
+series1Length = function(x) {
+  if (diff[x] != 1) {
+    len = 0
+  } else {
+    len = rle(diff[x:length(diff)])
+  }
+}
+
+# Returns the first row number of every consecutive series of 3 more values
+# (a run of at least 2 consecutive differences of 1)
+# that increment by one (indicating an accidental Autofill in Excel, since
+# the values in these fields should typically be constant within a given study)
+checkAutofilledRows  = function(dbField) {
+  diff = dbField[2:length(dbField)] - dbField[1:(length(dbField) - 1)]
+  runs = rle(diff)
+  indices = cumsum(runs$lengths)[which(runs$values == 1 & runs$lengths >= 2)] - 
+    (runs$lengths[which(runs$values == 1 & runs$lengths >= 2)] - 1)
+
+  if (length(indices) == 0) indices = NA
+  
+  return(indices)
+}
+
+
 qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   
 
@@ -157,10 +181,22 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   # Error checking -- numeric fields
   outliers = outlierCheck(diet)
 
-  # Error checking -- erroneous "auto-fill" values of altitude
-  alt_min_diff = diet$Altitude_min_m[2:nrow(diet)] - diet$Altitude_min_m[1:(nrow(diet) - 1)]
-  alt_meann_diff = diet$Altitude_mean_m[2:nrow(diet)] - diet$Altitude_mean_m[1:(nrow(diet) - 1)]
-  alt_max_diff = diet$Altitude_max_m[2:nrow(diet)] - diet$Altitude_max_m[1:(nrow(diet) - 1)]
+  # Error checking -- erroneous "auto-fill" values
+  checkAutofill = list()
+  checkAutofill$Altitude_min = checkAutofilledRows(diet$Altitude_min_m)
+  checkAutofill$Altitude_mean = checkAutofilledRows(diet$Altitude_mean_m)
+  checkAutofill$Altitude_max = checkAutofilledRows(diet$Altitude_max_m)
+  checkAutofill$Year_Begin = checkAutofilledRows(diet$Observation_Year_Begin)
+  checkAutofill$Year_End = checkAutofilledRows(diet$Observation_Year_End)
+  checkAutofill$Month_Begin = checkAutofilledRows(diet$Observation_Month_Begin)
+  checkAutofill$Month_End = checkAutofilledRows(diet$Observation_Month_End)
+  checkAutofill$Item_Sample_Size = checkAutofilledRows(diet$Item_Sample_Size)
+  checkAutofill$Bird_Sample_Size = checkAutofilledRows(diet$Bird_Sample_Size)
+  checkAutofill$Sites = checkAutofilledRows(diet$Sites)
+  
+  checkAutofill = checkAutofill[!is.na(checkAutofill)]
+  
+
   
   ###### not finished flagging consecutive differences of 1, etc
   
@@ -317,6 +353,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
                 Item_Sample_Size = outliers$item_sampsize,
                 Bird_Sample_Size = outliers$bird_sampsize,
                 Sites = outliers$sites,
+                checkAutofilledValues = checkAutofill,
                 Study_Type = studytype, 
                 Fraction_sum_check = fraction_sum_check)
   
