@@ -50,9 +50,9 @@ outlierCheck = function(diet) {
     
     frac_diet = outlier(diet$Fraction_Diet, 0, 1),
     
-    item_sampsize = outlier(diet$Item_Sample_Size, 0, 27000), # max recorded is 26958
+    item_sampsize = outlier(diet$Item_Sample_Size, 0, 64000), # max recorded is 63767
     
-    bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 1300),
+    bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 4900), # max recorded is 4848
     
     sites = outlier(diet$Sites, 0, 100)
     
@@ -141,23 +141,16 @@ checksum = function(diet, accuracy = 0.05) {
 }
 
 
-series1Length = function(x) {
-  if (diff[x] != 1) {
-    len = 0
-  } else {
-    len = rle(diff[x:length(diff)])
-  }
-}
 
-# Returns the first row number of every consecutive series of 3 more values
-# (a run of at least 2 consecutive differences of 1)
+# Returns the first row number of every consecutive series of 4 more values
+# (a run of at least 3 consecutive differences of 1)
 # that increment by one (indicating an accidental Autofill in Excel, since
 # the values in these fields should typically be constant within a given study)
 checkAutofilledRows  = function(dbField) {
   diff = dbField[2:length(dbField)] - dbField[1:(length(dbField) - 1)]
   runs = rle(diff)
-  indices = cumsum(runs$lengths)[which(runs$values == 1 & runs$lengths >= 2)] - 
-    (runs$lengths[which(runs$values == 1 & runs$lengths >= 2)] - 1)
+  indices = cumsum(runs$lengths)[which(runs$values == 1 & runs$lengths >= 3)] - 
+    (runs$lengths[which(runs$values == 1 & runs$lengths >= 3)] - 1)
 
   if (length(indices) == 0) indices = NA
   
@@ -196,12 +189,12 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   
   checkAutofill = checkAutofill[!is.na(checkAutofill)]
   
+  if (length(checkAutofill) == 0) checkAutofill = 'OK'
+  
 
-  
-  ###### not finished flagging consecutive differences of 1, etc
-  
   # Error checking -- text fields
   season = count(diet, Observation_Season) %>% 
+    # List of acceptable values
     filter(!tolower(Observation_Season) %in% c('multiple', 'summer', 'spring', 'fall', 'winter', NA)) %>%
     arrange(desc(n)) %>%
     data.frame()
@@ -218,6 +211,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
       trimws() %>%
       table() %>%
       data.frame() %>%
+      # List of acceptable values here
       filter(!tolower(.) %in% c('agriculture', 'coniferous forest', 'deciduous forest', 'desert',
                                 'forest', 'grassland', 'mangrove forest', 'multiple', 'shrubland', 
                                 'urban', 'wetland', 'woodland', 'tundra', 'mudflat'))
@@ -237,6 +231,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     trimws() %>%
     table() %>%
     data.frame() %>%
+    # List of acceptable values here
     filter(!tolower(.) %in% c('adult', 'egg', 'juvenile', 'larva', 'nymph', 'pupa', 'teneral'))
     if (nrow(stage) == 0) {
       stage = "OK"
@@ -253,6 +248,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     trimws() %>%
     table() %>%
     data.frame() %>%
+    # List of acceptable values here
     filter(!tolower(.) %in% c('bark', 'bud', 'dung', 'egg', 'feces', 'flower', 'fruit',
                               'gall', 'oogonium', 'pollen', 'root', 'sap', 'seed',
                               'spore', 'statoblasts', 'vegetation', 'bulb', 'tuber'))
@@ -307,6 +303,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     table() %>%
     data.frame() %>%
     arrange(desc(Freq)) %>%
+      #Add region names below that are acceptable
     filter(!. %in% c(state.name, countries, 'North America', 'United States', 
                      'New England', 'Western United States', 'Southeastern United States',
                      'Eastern United States', 'Northeastern United States',
@@ -317,7 +314,8 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
                      'Newfoundland', 'Nunavut', 'Chesapeake Bay', 'Lake Ontario', 'Lake Erie',
                      'Lake Michigan', 'Great Plains', 'New South Wales', 'Queensland', 'Victoria',
                      'Northern Territory', 'Fennoscandia', 'Siberia', 'Svalbard', 
-                     'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles', 'Washington D.C.'))
+                     'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles', 'Washington D.C.',
+                     'England', 'Scotland', 'Northern Ireland'))
     if (nrow(region) == 0) {
       region = "OK"
     } else {
