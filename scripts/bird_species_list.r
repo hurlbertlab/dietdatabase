@@ -61,7 +61,7 @@ famtotals = spplist2 %>% group_by(ORDER1, Family) %>%
 DBnamesNotInChecklist = spplist2 %>%
   filter(dietdb == 1, list == 0, !CommonName %in% c('Turkey/Black Vulture', "Alder/Willow Flycatcher (Traill's Flycatcher)",
                                                     'Eskimo Curlew', 'Passenger Pigeon', 'Carolina Parakeet', 'Chukar',
-                                                    'Gray Partridge'))
+                                                    'Gray Partridge', 'Yellow-billed/Black-billed Cuckoo'))
 
 ChecklistNamesNotInDB = spplist2 %>%
   filter(dietdb == 0, list == 1)

@@ -788,6 +788,47 @@ probnames$replacewith[probnames$replacewith == "" & grepl("Genus", probnames$not
 write.table(probnames[, c('level', 'name', 'condition', 'replacewith', 'notes')], 
             'cleaning/problem_names.txt', sep = '\t', row.names = F)
 
+
+
+#Date: 12 December 2018; By: Allen Hurlbert
+
+# Update bird names to 2018 eBird Clements Checklist
+diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                  fill=T, stringsAsFactors = F)
+diet$Scientific_Name[diet$Common_Name == 'Northern Harrier'] = 'Circus hudsonius'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas penelope'] = 'Mareca penelope'
+diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus caudacutus'] = 'Ammospiza caudacuta'
+diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus maritimus'] = 'Ammospiza maritima'
+diet$Scientific_Name[diet$Scientific_Name == 'Carduelis cannabina'] = 'Linaria cannabina'
+diet$Scientific_Name[diet$Scientific_Name == 'Lanius excubitor'] = 'Lanius borealis'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides pubescens'] = 'Dryobates pubescens'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides villosus'] = 'Dryobates villosus'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides nuttallii'] = 'Dryobates nuttallii'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides borealis'] = 'Dryobates borealis'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas americana'] = 'Mareca americana'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas clypeata'] = 'Spatula clypeata'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas cyanoptera'] = 'Spatula cyanoptera'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas discors'] = 'Spatula discors'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas hottentota'] = 'Spatula hottentota'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas querquedula'] = 'Spatula querquedula'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas rhynchotis'] = 'Spatula rhynchotis'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas smithii'] = 'Spatula smithii'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas strepera'] = 'Mareca strepera'
+diet$Scientific_Name[diet$Scientific_Name == 'Chen caerulescens'] = 'Anser caerulescens'
+diet$Scientific_Name[diet$Scientific_Name == 'Chen rossii'] = 'Anser rossii'
+diet$Scientific_Name[diet$Scientific_Name == 'Melanitta fusca'] = 'Melanitta deglandi'
+diet$Scientific_Name[diet$Scientific_Name == 'Sarkidiornis melanotos'] = 'Sarkidiornis sylvicola'
+diet$Scientific_Name[diet$Scientific_Name == 'Tadorna radjah'] = 'Radjah radjah'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides albolarvatus'] = 'Dryobates albolarvatus'
+diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus bairdii'] = 'Centronyx bairdii'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides scalaris'] = 'Dryobates scalaris'
+diet$Scientific_Name[diet$Scientific_Name == 'Chen canagica'] = 'Anser canagicus'
+diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus leconteii'] = 'Ammospiza leconteii'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides scalaris'] = 'Dryobates scalaris'
+diet$Family[diet$Scientific_Name == 'Icteria virens'] = 'Icteriidae'
+
+diet$Family[diet$Family == 'Emberizidae'] = 'Passerellidae'
+
 # 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
