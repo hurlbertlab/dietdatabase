@@ -1,4 +1,0 @@
-"level"	"name"	"condition"
-"Genus"	"Trema"	"unmatched"
-"Genus"	"Fagara"	"unmatched"
-"Family"	"Pomatiidae"	"unmatched"
