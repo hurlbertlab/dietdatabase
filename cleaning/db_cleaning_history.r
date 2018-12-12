@@ -832,5 +832,5 @@ diet$Family[diet$Family == 'Emberizidae'] = 'Passerellidae'
 # 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
-write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
+write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F, quote = FALSE)
 # And don't forget to git commit and git push your changes
