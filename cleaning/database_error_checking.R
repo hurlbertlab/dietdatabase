@@ -329,6 +329,10 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   
   fraction_sum_check = checksum(diet, accuracy = fracsum_accuracy)
   
+  if (nrow(fraction_sum_check) == 0) {
+    fraction_sum_check = "OK"
+  }
+  
   output = list(Problem_bird_names = probbirdnames,
                 Taxonomy = taxonomy, 
                 Longitude_dd = outliers$long,
