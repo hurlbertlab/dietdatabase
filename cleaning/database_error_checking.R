@@ -96,9 +96,10 @@ LeadingAndTrailingSpaceRemover = function(dietdatabase) {
 bird_name_clean = function(diet) {
   
   # Load most recent taxonomy file 
-  filename = list.files('birdtaxonomy', pattern = 'eBird_Taxonomy_v20[0-9][0-9].csv')
+  filenames = list.files('birdtaxonomy', pattern = 'eBird_Taxonomy_v20[0-9][0-9].csv') %>%
+    sort(decreasing = TRUE)
   
-  tax = read.table(paste('birdtaxonomy/', filename, sep = ''), header = T,
+  tax = read.table(paste('birdtaxonomy/', filenames[1], sep = ''), header = T,
                    sep = ',', quote = '\"', stringsAsFactors = F)
   tax$Family = word(tax$FAMILY, 1)
 
@@ -108,6 +109,10 @@ bird_name_clean = function(diet) {
   unmatched = anti_join(db_spp, tax, by = c("Common_Name" = "PRIMARY_COM_NAME", 
                                              "Scientific_Name" = "SCI_NAME",
                                              "Family" = "Family"))
+  
+  if (nrow(unmatched) == 0){
+    unmatched = paste("All names matched the current eBird taxonomy (", filenames[1], ").", sep = '')
+  }
   return(unmatched)
 }
 
