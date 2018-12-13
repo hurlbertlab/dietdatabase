@@ -829,6 +829,16 @@ diet$Family[diet$Scientific_Name == 'Icteria virens'] = 'Icteriidae'
 
 diet$Family[diet$Family == 'Emberizidae'] = 'Passerellidae'
 
+
+# Separate out non-North American bird species into separate file
+source('scripts/bird_species_list.r')
+
+dietNA = diet[!diet$Common_Name %in% DBnamesNotInChecklist$CommonName, ]
+dietNonNA = diet[diet$Common_Name %in% DBnamesNotInChecklist$CommonName, ]
+
+write.table(dietNonNA, 'AvianDietDatabase_nonNorthAmerica.txt', sep = '\t', row.names = F, quote = FALSE)
+write.table(dietNA, 'AvianDietDatabase.txt', sep = '\t', row.names = F, quote = FALSE)
+
 # 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
