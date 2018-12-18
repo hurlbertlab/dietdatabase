@@ -4,6 +4,8 @@ Contributors to the Avian Diet Database
 * Michael Auriemma, 2014-2015  (Turdidae, Tyrranidae)  
 * Jesse Barnes, 2015-2016  (Picidae, Sittidae)  
 * Megan Blawas, 2017 (misc; error checking) 
+* Jericho Cook, 2018 (Vireonidae)  
+* Allison Duprey, 2018 (Barred Owl)  
 * Thomas Hennessey, 2016-2017 (Icteridae, Paridae, misc)  
 * Allen Hurlbert, 2012-present  
 * Jeremy Knowlton, 2012-2013  (Parulidae, Vireonidae)
