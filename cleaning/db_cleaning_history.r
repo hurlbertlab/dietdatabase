@@ -795,6 +795,9 @@ write.table(probnames[, c('level', 'name', 'condition', 'replacewith', 'notes')]
 # Update bird names to 2018 eBird Clements Checklist
 diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
                   fill=T, stringsAsFactors = F)
+diet$Common_Name[diet$Common_Name == "Le Conte's Sparrow"] = "LeConte's Sparrow"
+diet$Common_Name[diet$Common_Name == "Magnificent Hummingbird"] = "Rivoli's Hummingbird"
+diet$Scientific_Name[diet$Scientific_Name == 'Anas penelope'] = 'Mareca penelope'
 diet$Scientific_Name[diet$Common_Name == 'Northern Harrier'] = 'Circus hudsonius'
 diet$Scientific_Name[diet$Scientific_Name == 'Anas penelope'] = 'Mareca penelope'
 diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus caudacutus'] = 'Ammospiza caudacuta'

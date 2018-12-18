@@ -62,5 +62,8 @@ DBnamesNotInChecklist = spplist2 %>%
   filter(dietdb == 1, list == 0, 
          !CommonName %in% c('Turkey/Black Vulture', "Alder/Willow Flycatcher (Traill's Flycatcher)",
                             'Eskimo Curlew', 'Passenger Pigeon', 'Carolina Parakeet', 'Chukar',
-                            'Gray Partridge', 'Yellow-billed/Black-billed Cuckoo'))
+                            'Gray Partridge', 'Yellow-billed/Black-billed Cuckoo')) %>% 
+  left_join(ebird[, c('PRIMARY_COM_NAME', 'SCI_NAME')], by = c('CommonName' = 'PRIMARY_COM_NAME')) %>%
+  select(CommonName, SciName, SCI_NAME, Family, dietdb, list)
 
+# Checking for names that do not match btw latest eBird checklist and diet database
