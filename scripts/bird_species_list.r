@@ -66,4 +66,4 @@ DBnamesNotInChecklist = spplist2 %>%
   left_join(ebird[, c('PRIMARY_COM_NAME', 'SCI_NAME')], by = c('CommonName' = 'PRIMARY_COM_NAME')) %>%
   select(CommonName, SciName, SCI_NAME, Family, dietdb, list)
 
-# Checking for names that do not match btw latest eBird checklist and diet database
+

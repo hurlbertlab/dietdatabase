@@ -828,6 +828,7 @@ diet$Scientific_Name[diet$Scientific_Name == 'Picoides scalaris'] = 'Dryobates s
 diet$Scientific_Name[diet$Scientific_Name == 'Chen canagica'] = 'Anser canagicus'
 diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus leconteii'] = 'Ammospiza leconteii'
 diet$Scientific_Name[diet$Scientific_Name == 'Picoides scalaris'] = 'Dryobates scalaris'
+diet$Common_Name[diet$Scientific_Name == 'Aythya australis'] = 'Hardhead'
 diet$Family[diet$Scientific_Name == 'Icteria virens'] = 'Icteriidae'
 
 diet$Family[diet$Family == 'Emberizidae'] = 'Passerellidae'
