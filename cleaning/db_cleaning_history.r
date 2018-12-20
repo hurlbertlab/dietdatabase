@@ -852,16 +852,55 @@ diet$Location_Specific[diet$Location_Specific == 'St Paul Island'] = 'St. Paul I
 diet$Location_Specific[diet$Location_Specific == 'Tucson Metropolitan Area'] = 'Tucson'
 diet$Location_Specific[diet$Location_Specific == 'Tulare Basin, San Joaquin Valley'] = 'Tulare Lake Basin'
 diet$Location_Specific[diet$Location_Specific == 'Tucson Metropolitan Area'] = 'Tucson'
+diet$Location_Specific[diet$Location_Specific == 'Tuscon (rural)'] = 'Tucson'
+diet$Location_Specific[diet$Location_Specific == 'Yacamb? National Park'] = 'Yacambú National Park'
 
+# Special characters
+diet$Source[diet$Source == 'Nystr?m, J., Dal?n, L., Hellstr?m, P., Ekenstedt, J., Angleby H., & Angerbj?rn, A. 2006. Effect of Local Prey Availability on Gyrfalcon Diet: DNA Analysis on Ptarmigan Remains at Nest Sites. Journal of Zoology 269:57-64'] = 'Nyström, J., Dalén, L., Hellström, P., Ekenstedt, J., Angleby H., & Angerbjörn, A. 2006. Effect of Local Prey Availability on Gyrfalcon Diet: DNA Analysis on Ptarmigan Remains at Nest Sites. Journal of Zoology 269:57-64'
 
+diet$Source[diet$Source == 'Buitr?n-Jurado, G., and Sanz, V. 2016. Notes on the Diet of the Endemic Red-Eared Parakeet Pyrrhura hoematotis and other Venezuelan Montane Parrots. Ardeola 63: 357-367.'] = 'Buitrón-Jurado, G., and Sanz, V. 2016. Notes on the Diet of the Endemic Red-Eared Parakeet Pyrrhura hoematotis and other Venezuelan Montane Parrots. Ardeola 63: 357-367.'
 
+diet$Source[diet$Source == 'Paisley, R. Neal, and John F. Kubisiak. ?Food Habits of Wild Turkeys in Southwestern Wisconsin.? Research Management Findings , Wisconsin Department of Natural Resources, Mar. 1994'] = 'Paisley, R. Neal, and John F. Kubisiak. Food Habits of Wild Turkeys in Southwestern Wisconsin. Research Management Findings , Wisconsin Department of Natural Resources, Mar. 1994'
 
+diet$Source[diet$Source == 'Crawford, John A. ?FALL DIET OF BLUE GROUSE IN OREGON.? The Great Basin Naturalist, vol. 46, no. 1, 31 Jan. 1986, pp. 123?127. JSTOR, JSTOR'] = 'Crawford, John A. Fall diet of blue grouse in Oregon. The Great Basin Naturalist, 46: 123-127.'
 
+diet$Source[diet$Source == 'Hindmarch, S., & Elliott, J. E. (2015). Comparing the diet of Great Horned Owls (Bubo virginianus) in rural and urban areas of southwestern British Columbia.The Canadian Field-Naturalist,?128(4), 393-399.'] = 'Hindmarch, S., & Elliott, J. E. (2015). Comparing the diet of Great Horned Owls (Bubo virginianus) in rural and urban areas of southwestern British Columbia. The Canadian Field-Naturalist, 128: 393-399.'
+            
+diet$Source[diet$Source == 'Walkinshaw, L. H. 1949.?The sandhill cranes?(No. 29). Cranbrook Institute of Science.'] = 'Walkinshaw, L. H. 1949. The sandhill cranes (No. 29). Cranbrook Institute of Science.'           
 
+diet$Source[diet$Source == 'Reinecke, K. J., & Krapu, G. L. 1986. Feeding ecology of sandhill cranes during spring migration in Nebraska.?The Journal of wildlife management, 71-79.'] = 'Reinecke, K. J., & Krapu, G. L. 1986. Feeding ecology of sandhill cranes during spring migration in Nebraska. The Journal of wildlife management, 50: 71-79.'
 
+diet$Source[diet$Source == 'Mullins, W. H., and Bizeau, E. G. 1978. Summer foods of sandhill cranes in Idaho.?The Auk, 175-178.'] = 'Mullins, W. H., and Bizeau, E. G. 1978. Summer foods of sandhill cranes in Idaho. The Auk, 175-178.'
 
+diet$Source[diet$Source == 'Ballard, B. M., & Thompson, J. E. 2000. Winter diets of Sandhill Cranes from central and coastal Texas.?The Wilson Bulletin,?112(2), 263-268.'] = 'Ballard, B. M., & Thompson, J. E. 2000. Winter diets of Sandhill Cranes from central and coastal Texas. The Wilson Bulletin, 112: 263-268.'
 
+diet$Source[diet$Source == 'Guthery, F. S. 1975. Food habits of Sandhill Cranes in southern Texas.?The Journal of Wildlife Management,?39(1), 221-223.'] = 'Guthery, F. S. 1975. Food habits of Sandhill Cranes in southern Texas. The Journal of Wildlife Management, 39: 221-223.'
 
+diet$Source[diet$Source == 'Banfield, A. W. F. 1947. A study of the winter feeding habits of the Short-eared Owl (Asio flammeus) in the Toronto region.?Canadian Journal of Research,?25(2), 45-65.'] = 'Banfield, A. W. F. 1947. A study of the winter feeding habits of the Short-eared Owl (Asio flammeus) in the Toronto region. Canadian Journal of Research, 25: 45-65.'
+
+diet$Source[diet$Source == 'Stegeman, L. C. 1957. Winter food of the Short-eared Owl in central New York.?The American Midland Naturalist,?57(1), 120-124.'] = 'Stegeman, L. C. 1957. Winter food of the Short-eared Owl in central New York. The American Midland Naturalist, 57: 120-124.'
+
+diet$Source[diet$Source == 'Baumgartner, A. M., & Baumgartner, F. M. 1944. Hawks and owls in Oklahoma 1939-1942: food habits and population changes.?The Wilson Bulletin, 209-215.'] = 'Baumgartner, A. M., & Baumgartner, F. M. 1944. Hawks and owls in Oklahoma 1939-1942: food habits and population changes. The Wilson Bulletin, 56: 209-215.'
+
+diet$Source[diet$Source == 'Cahn, A. R., & Kemp, J. T. 1930. On the food of certain owls in east-central Illinois.?The Auk, 323-328.'] = 'Cahn, A. R., & Kemp, J. T. 1930. On the food of certain owls in east-central Illinois. The Auk, 47: 323-328.'
+
+diet$Source[diet$Source == 'Clark, R. J. 1975. A field study of the short-eared owl, Asio Flammeus (Pontoppidan), in North America.?Wildlife Monographs, (47), 3-67.'] = 'Clark, R. J. 1975. A field study of the short-eared owl, Asio Flammeus (Pontoppidan), in North America. Wildlife Monographs, 47: 3-67.'
+
+diet$Source[diet$Source == 'Fisler, G. F. 1960. Changes in food habits of Short-eared Owls feeding in a salt marsh.?Condor,?62(6), 486-487.'] = 'Fisler, G. F. 1960. Changes in food habits of Short-eared Owls feeding in a salt marsh. Condor, 62: 486-487.'
+
+diet$Source[diet$Source == 'Campbell, R. W., & MacColl, M. D. 1978. Winter foods of snowy owls in southwestern British Columbia.?The Journal of Wildlife Management,?42(1), 190-192.'] = 'Campbell, R. W., & MacColl, M. D. 1978. Winter foods of snowy owls in southwestern British Columbia. The Journal of Wildlife Management, 42: 190-192.'
+
+diet$Source[diet$Source == 'Ganey, J. L. 1992. Food habits of Mexican spotted owls in Arizona.?The Wilson Bulletin,?104(2), 321-326.'] = 'Ganey, J. L. 1992. Food habits of Mexican spotted owls in Arizona. The Wilson Bulletin, 104: 321-326.'
+
+diet$Source[diet$Source == 'Hendrickson, G. O., & Swan, C. 1938. Winter Notes on the Short?Eared Owl.?Ecology,?19(4), 584-588.'] = 'Hendrickson, G. O., & Swan, C. 1938. Winter Notes on the Short?Eared Owl. Ecology, 19: 584-588.'
+
+diet$Source[diet$Source == 'Kirkpatrick, C. M., & Conway, C. H. 1947. The winter foods of some Indiana owls.?American Midland Naturalist, 755-766.'] = 'Kirkpatrick, C. M., & Conway, C. H. 1947. The winter foods of some Indiana owls. American Midland Naturalist, 38: 755-766.'
+
+diet$Source[diet$Source == 'Long, C. A., & Wiley, M. L. 1961. Contents of pellets of the Short-eared Owl, Asio flammeus, in a prairie habitat in Missouri.?Transactions of the Kansas Academy of Science (1903-),?64(2), 153-154.'] = 'Long, C. A., & Wiley, M. L. 1961. Contents of pellets of the Short-eared Owl, Asio flammeus, in a prairie habitat in Missouri. Transactions of the Kansas Academy of Science (1903-), 64: 153-154.'
+
+diet$Source[diet$Source == 'Randall, P. E. 1939. Food of the short-eared owl during migration through Pennsylvania.?The Wilson Bulletin, 243-243.'] = 'Randall, P. E. 1939. Food of the short-eared owl during migration through Pennsylvania. The Wilson Bulletin, 51: 243.'
+
+diet$Source[diet$Source == 'Snyder, L. L. 1938. A predator-prey relationship between the short-eared owl and the meadow mouse.?The Wilson Bulletin,?50(2), 110-112.'] = 'Snyder, L. L. 1938. A predator-prey relationship between the short-eared owl and the meadow mouse. The Wilson Bulletin, 50: 110-112.'
 
 
 # Separate out non-North American bird species into separate file
