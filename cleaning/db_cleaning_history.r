@@ -834,14 +834,44 @@ diet$Family[diet$Scientific_Name == 'Icteria virens'] = 'Icteriidae'
 diet$Family[diet$Family == 'Emberizidae'] = 'Passerellidae'
 
 
+# Cleaning up and consolidating some Location_Specific names
+diet$Location_Specific[diet$Location_Specific == 'Bridgwater Bay, Somerset'] = 'Bridgwater Bay'
+diet$Location_Specific[diet$Location_Specific == 'Hanford site'] = 'Hanford'
+diet$Location_Specific[diet$Location_Specific == 'Hasting Reservation, Monetery county and Blomquist ranch'] = 'Hasting Reservation, Monterey County and Blomquist Ranch'
+diet$Location_Specific[diet$Location_Specific == 'Hasting Reservation, Monetery County and Blomquist Ranch'] = 'Hasting Reservation, Monterey County and Blomquist Ranch'
+diet$Location_Specific[diet$Location_Specific == 'Larimer and Weld Counties'] = 'Larimer County; Weld County'
+diet$Location_Specific[diet$Location_Specific == 'Manganuioteao'] = 'Manganuioteao River'
+diet$Location_Specific[grep('Multiple', diet$Location_Specific)] = 'Multiple'
+diet$Location_Specific[diet$Location_Specific == 'Rogue River Valley and Willamette Valley'] = 'Rogue River Valley, Willamette Valley'
+diet$Location_Specific[diet$Location_Specific == 'Rogue River Valley, Willamette Valley, Klamath County'] = 'Rogue River Valley, Willamette Valley'
+diet$Location_Specific[diet$Location_Specific == 'Rogue River Valley, Willamette Valley, Klamath County, Jackson County'] = 'Rogue River Valley, Willamette Valley'
+diet$Location_Specific[diet$Location_Specific == 'S?ndre Str?mfjord'] = 'West Greenland'
+diet$Location_Specific[diet$Location_Specific == 'SE Salton Sea'] = 'Salton Sea'
+diet$Location_Specific[diet$Location_Specific == 'US Dept of Energy Savannah River Site'] = 'Savannah River Site'
+diet$Location_Specific[diet$Location_Specific == 'St Paul Island'] = 'St. Paul Island'
+diet$Location_Specific[diet$Location_Specific == 'Tucson Metropolitan Area'] = 'Tucson'
+diet$Location_Specific[diet$Location_Specific == 'Tulare Basin, San Joaquin Valley'] = 'Tulare Lake Basin'
+diet$Location_Specific[diet$Location_Specific == 'Tucson Metropolitan Area'] = 'Tucson'
+
+
+
+
+
+
+
+
+
+
+
+
 # Separate out non-North American bird species into separate file
-source('scripts/bird_species_list.r')
+#source('scripts/bird_species_list.r')
 
-dietNA = diet[!diet$Common_Name %in% DBnamesNotInChecklist$CommonName, ]
-dietNonNA = diet[diet$Common_Name %in% DBnamesNotInChecklist$CommonName, ]
+#dietNA = diet[!diet$Common_Name %in% DBnamesNotInChecklist$CommonName, ]
+#dietNonNA = diet[diet$Common_Name %in% DBnamesNotInChecklist$CommonName, ]
 
-write.table(dietNonNA, 'AvianDietDatabase_nonNorthAmerica.txt', sep = '\t', row.names = F, quote = FALSE)
-write.table(dietNA, 'AvianDietDatabase.txt', sep = '\t', row.names = F, quote = FALSE)
+#write.table(dietNonNA, 'AvianDietDatabase_nonNorthAmerica.txt', sep = '\t', row.names = F, quote = FALSE)
+#write.table(dietNA, 'AvianDietDatabase.txt', sep = '\t', row.names = F, quote = FALSE)
 
 # 
 #----------------------------------------------------------------------
