@@ -902,6 +902,9 @@ diet$Source[diet$Source == 'Randall, P. E. 1939. Food of the short-eared owl dur
 
 diet$Source[diet$Source == 'Snyder, L. L. 1938. A predator-prey relationship between the short-eared owl and the meadow mouse.?The Wilson Bulletin,?50(2), 110-112.'] = 'Snyder, L. L. 1938. A predator-prey relationship between the short-eared owl and the meadow mouse. The Wilson Bulletin, 50: 110-112.'
 
+# Cleaning "Unidentified" field
+diet$Unidentified = tolower(diet$Unidentified)
+diet$Unidentified[diet$Unidentified == 'np'] = 'no'
 
 # Separate out non-North American bird species into separate file
 #source('scripts/bird_species_list.r')
