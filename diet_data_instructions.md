@@ -106,7 +106,7 @@ the study quantified diet. This will determine what you specify as the "Diet_Typ
 information above the taxonomic level reported. For example, if the prey category reported is the Order "Coleoptera" 
 (i.e. beetles), then you would also fill in "Animalia", "Arthropoda", and "Insecta" for the 
 Prey_Kingdom, Prey_Phylum, and Prey_Class fields. You can verify this information by pasting
-the prey name into the [Global Names Resolver](http://resolver.globalnames.biodinfo.org/) and 
+the prey name into the [Global Names Resolver](http://resolver.globalnames.org/) and 
 clicking on "Resolve Names". This will generate a report of the hierarchical classification
 of your name as reported by various entities. For consistency, we will typically rely on the 
 reported classification of ITIS (Integrated Taxonomic Information System), which in
