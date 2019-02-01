@@ -2,7 +2,7 @@ Avian Diet Database
 ===================
 
 This repository is the temporary home for the Avian Diet Database being built
-by the Hurlbert Lab at the University of North Carolina.  
+by the Hurlbert Lab at the University of North Carolina.    
 
 The goal is to organize all available information (from published studies, gray literature, etc) on the diets 
 of North American birds in its rawest form possible with the idea that this may be a resource for a broad 
@@ -10,124 +10,6 @@ range of ecological questions.
 
 These data are automatically incorporated into the Global Biotic Interactions (GloBI) database.
 See [http://www.globalbioticinteractions.org](http://www.globalbioticinteractions.org/index.html) for more details.
-
-## Data Entry and Versioning using Git
-
-The database is under version control using Git so that we can easily go back to previous states, it's automatically
-backed up, and many people can access it and add records simultaneously from different computers.
-
-This means that you will need to learn some basic Git commands for working with it. 
-
-From your local machine, open Git (e.g. using Git Bash from a Windows machine), and 'pull' down the most up-to-date
-version of the database after making sure you're in the right directory housing the repository.
-
-```
-$ cd /c/git/dietdatabase
-$ git pull origin master
-```
-
-You can now open the database file ('AvianDietDatabase.txt') in Excel or Open Office and begin entering data. More details
-on this below. When you are finished with data entry for the day, be sure to Save As a tab-delimited .txt file (with the same name,
-in the same folder).
-
-Now you need to stage your committed changes, add a descriptive message of what you've added, and 'push' the new version
-to the master repository.
-
-```
-$ git commit -am "added 3 diet studies for red-eyed vireo and 2 for white-eyed vireo"
-$ git push origin master
-```
-
-Enter your github userid and password if prompted. Now your up-to-date files are available for incorporation into GloBI and
-for others to add to!
-
-## Potential Problems
-Occasionally, when you try to push your latest changes, you will get an error like this:
-
-```
-error: failed to push some refs to 'https://github.com/hurlbertlab/dietdatabase.git'
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-```
-
-This comes up when two people both download the latest version of the database, and each
-person makes some changes (i.e., adds some data) independent of the other. The second
-person to try to push their changes doesn't have the changes made by the first, and so
-Git points out the potential problem.
-
-As the hint message suggests, try re-pulling the repository with a `$ git pull origin master`.
-(Note that you need to have closed the database file on your machine before pulling,
-or you will get a message that your file is "unlinked". In that case, just close the file
-and try again.) Usually, this will take care of the problem and you will see a message like this:
-
-```
-Auto-merging AvianDietDatabase.txt
-Merge made by the 'recursive' strategy.
-```
-
-In that case, Git figured out that you both were making changes to different parts of the 
-database, and incorporated both sets of changes to the most up to date version.
-
-However, if you were both editing the same part of the database (and this 
-includes a scenario where both people are simply adding different data to the 
-bottom of the file), you might see this message after you try to pull.
-
-```
-Auto-merging AvianDietDatabase.txt
-CONFLICT (content): Merge conflict in AvianDietDatabase.txt
-Automatic merge failed; fix conflicts and then commit the result.
-```
-
-In this case, Git couldn't figure out what to do, so you will have to resolve the problem
-manually. Open the file that has the merge conflict like you normally would. Git 
-has flagged the conflict within the region, so search (Ctrl-F) for the following
-text: "<<<<<<< HEAD" (without the quotes). Now let's say you just added a row of data
-for American Robin as the last line in the database, and someone else added a row of
-data for Red-winged Blackbird. Then you will see something like this:
-
-```
-<<<<<<< HEAD
-American Robin	(and whatever other data is in this line)
-========
-Red-winged Blackbird (and whatever other data is in THIS line)
->>>>>>>dca3kdjs33jdj3
-```
-
-Everything above the ======= line is one version, and everything below is the other
-version. In this case, you want both of the edits to be saved in the final version,
-so simply delete the entire lines starting with <<<<<<<, ========, and >>>>>>>.
-
-```
-American Robin	(and whatever other data)
-Red-winged Blackbird (and whatever other data)
-```
-
-Then save the file, commit the change with a short message, and push it as you 
-normally would. There should be no error messages!
-
-In the event that both of you actually edited the same line in the database, and
-one of the versions is out of date or incorrect, then you would simply delete
-the edits you did not want to keep in addition to the <<<<<<, =======, and >>>>>>> lines.
-
-```
-<<<<<<< HEAD
-American Robin	some wrong data on this line
-=======
-American Robin 	some correct data, or edits that you want to keep
->>>>>>>dca83kd9sfas933ks33
-```
-
-gets edited down to just
-
-```
-American Robin	some correct data, or edits that you want to keep
-```
-
-Save. Commit. Push.
-
 
 ## Finding Diet Data
 We are focusing our search for diet data in the published literature. References related to avian diets have been scraped
@@ -138,7 +20,8 @@ unavailable (couldn't access it online, not in the library) put a 'n'. For those
 contained diet data in the 'useable_data' column.
 
 _*NOTE*_: Place pdfs of all papers you find with usable data in the following folder on the HurlbertLab drive:
-*HurlbertLab > Databases > DietDatabase > Papers with data*. The file should be saved with the last name of the author(s) and the year. For example, "Beaver and Baldwin 1975.pdf" or "Hurlbert et al 2007.pdf".
+*HurlbertLab > Databases > DietDatabase > Papers with data*. The file should be saved with the last name of the author(s) and the year. 
+For example, "Beaver and Baldwin 1975.pdf" or "Hurlbert et al 2007.pdf".
 
 After you have examined all of the references listed in this table for a given species, you will perform a literature search
 to see if any additional papers have been published on the diet of this species since the Birds of North America species
@@ -153,14 +36,19 @@ Go to [Web of Science](http://apps.webofknowledge.com) and in the Topic search b
 replacing [common name] with the actual common name of the species you are searching.
 
 Click on +Add Another Field, and select Year Published. Search all years since the last revised date for that species as listed in the 
-'NA_avian_diet_refs' table.  
+'NA_avian_diet_refs' table.    
 
 Look up the papers in the search results, and be sure to add any that contain useful data to the NA_avian_diet_refs.txt table.
 
 ## Data Entry Details
+When you've found a study with quantitative diet data, open the file 'AvianDietDatabase_template.txt' in Excel and re-save it, replacing
+the word 'template' with the study author and year, e.g. 'AvianDietDatabase_Beaver_and_Baldwin_1975.txt'. Then proceed to enter as
+much of the information described below as you can ascertain from the study.
+
 To maximize the utility of the data, we need to record many types of information describing the what, when, where, and how 
 of its collection, and so our database has many fields. In the table below we explain what exactly is characterized in each
-of these fields, and how data should be entered. Further instructions about how to enter data in the database are provided [here](https://github.com/hurlbertlab/dietdatabase/blob/master/diet_data_instructions.md).
+of these fields, and how data should be entered. Further instructions about how to enter data in the database are provided 
+[here](https://github.com/hurlbertlab/dietdatabase/blob/master/diet_data_instructions.md).
 
 
 <table>
@@ -239,13 +127,15 @@ of these fields, and how data should be entered. Further instructions about how 
         +desert  
         +wetland  
         +agriculture  
-        +urban.   
+        +urban
+	+tundra  
+	+mudflats  
         E.g. "deciduous forest; woodland"
         </td>
   </tr>
   <tr>
     <td>Observation_Month_Begin</td>
-    <td>The month in which diet data were first collected, using numbers 1-12.</td>
+    <td>The month in which diet data were first collected, using numbers <b>1-12</b>.</td>
   </tr>
   <tr>
     <td>Observation_Year_Begin</td>
@@ -253,7 +143,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Observation_Month_End</td>
-    <td>The month in which diet data were last collected, using numbers 1-12.</td>
+    <td>The month in which diet data were last collected, using numbers <b>1-12</b>.</td>
   </tr>
   <tr>
     <td>Observation_Year_End</td>
@@ -305,16 +195,21 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Prey_Name_ITIS_ID</td>
-    <td>The Integrated Taxonomic Information Service (ITIS) taxon ID associated with the prey item. This field will be populated by an R script automatically. Names with no match will be listed as 'unverified'.</td>
+    <td>The Integrated Taxonomic Information Service (ITIS) taxon ID associated with the prey item. This field should be left blank and will be populated by an R script automatically.</td>
+  </tr>
+  <tr>
+    <td>Prey_Name_Status</td>
+    <td>Taxonomic status of the prey name. "Verified" indicates the name matched a valid ITIS ID. "Unverified" means the name did not match a valid ITIS ID and needs to be investigated further.
+    "Accepted" means the name did not match a valid ITIS ID, but investigation revealed that it reflects an accepted taxonomic entity not in ITIS.</td>
   </tr>
   <tr>
     <td>Prey_Stage</td>
-    <td>The lifestage of the identified prey item (e.g., adult, larvae, egg). In general, you only need to worry about this column if the information is explicitly provided in the data source. <b>BUT NOTE: Always specify 'adult' or 'larvae' for the Prey_Order "Lepidoptera" if you can figure it out.</b></td>
+    <td>The lifestage of the identified prey item (e.g., 'adult', 'egg', 'juvenile', 'larva', 'nymph', 'pupa', 'teneral'). In general, you only need to worry about this column if the information is explicitly provided in the data source. <b>BUT NOTE: Always specify 'adult' or 'larva' for the Prey_Order "Lepidoptera" if you can figure it out.</b></td>
   </tr>
   <tr>
     <td>Prey_Part</td>
     <td>The part of the prey species represented in the diet if only a part was (likely) consumed. Especially for plant-based
-    diet items, e.g., seed, fruit, etc.</td>
+    diet items, e.g., 'bark', 'bud', 'dung', 'egg', 'feces', 'flower', 'fruit','gall', 'oogonium', 'pollen', 'root', 'sap', 'seed','spore', 'statoblasts', 'vegetation'.</td>
   </tr>
   <tr>
     <td>Prey_Common_Name</td>
@@ -363,3 +258,110 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>The complete citation of the study from which the diet information comes.</td>
   </tr>
 </table>
+
+
+## Other tasks
+
+### Version control
+We use a version control system called Git to manage so that we can easily go back to previous states, it's automatically
+backed up, and many people can access it and add records simultaneously from different computers.
+
+See [this page](git_dietdatabase_help.md) for instructions on how to use Git to manage the Avian Diet Database.
+
+### Data cleaning
+See [this page](cleaning/cleaning_overview.md) for instructions on cleaning newly entered data.
+
+### Summarizing data
+Use the `dbSummary()` function to get summary statistics for the diet database as a whole.
+```
+> dbSummary()
+$numRecords
+[1] 29548
+
+$numSpecies
+[1] 432
+
+$numStudies
+[1] 539
+
+$recordsPerSpecies
+                                      Common_Name    n
+1                                  Abert's Towhee    5
+2                              Acadian Flycatcher   32
+3                                Acorn Woodpecker   70
+4                             African Pygmy-Goose   10
+5   Alder/Willow Flycatcher (Traill's Flycatcher)   88
+6                             American Black Duck   43
+7                                   American Crow  211
+8                              American Goldfinch   17
+...
+
+$speciesPerFamily
+               Order            Family SpeciesWithData WithoutData
+1    Accipitriformes      Accipitridae              25           5
+2    Accipitriformes       Cathartidae               3           1
+3    Accipitriformes       Pandionidae               1           0
+4       Anseriformes          Anatidae             100           4
+5       Anseriformes         Anhimidae               1           0
+6       Anseriformes     Anseranatidae               1           0
+7   Caprimulgiformes          Apodidae               2           2
+8   Caprimulgiformes     Caprimulgidae               4           4
+9   Caprimulgiformes       Trochilidae               3          11
+...
+```
+
+The `speciesSummary()` function will summarize all of the information available for a given bird species.
+```
+> speciesSummary("Black-throated Blue Warbler")
+$numStudies
+[1] 3
+
+$Studies
+[1] "King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."                                                                               
+[2] "Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationship among search tactics, diet, and habitat structure. Ecology 63:1918-1931." 
+[3] "Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet, and habitat structure. Ecology 63:1918-1931."
+
+$numRecords
+[1] 17
+
+$recordsPerYear
+  Observation_Year_Begin  n
+1                   1875  3
+2                   1974 10
+3                   1976  4
+
+$recordsPerRegion
+  Location_Region n
+1   New Hampshire 9
+2   United States 5
+3       Wisconsin 3
+
+$recordsPerType
+   Diet_Type  n
+1      Items 14
+2 Occurrence  3
+
+$analysesPerDietType
+   Diet_Type n
+1      Items 3
+2 Occurrence 1
+
+$preySummary
+    Diet_Type              Taxon  Frac_Diet
+1       Items Lepidoptera larvae 0.26900000
+2       Items        Coleoptera  0.16666667
+3       Items   coleoptera adult 0.16666667
+4       Items Lepidoptera Larvae 0.09200000
+5       Items Lepidoptera Larval 0.09200000
+6       Items  Lepidoptera adult 0.04600000
+7       Items           Diptera  0.04600000
+8       Items      Diptera adult 0.04000000
+9       Items         Homoptera  0.01733333
+10      Items    Homoptera adult 0.01733333
+11      Items       Hymenoptera  0.01733333
+12      Items  Hymenoptera adult 0.01733333
+13      Items           Araneae  0.01233333
+14 Occurrence        Coleoptera  0.83333333
+15 Occurrence       Hymenoptera  0.16666667
+16 Occurrence       Lepidoptera  0.16666667
+```

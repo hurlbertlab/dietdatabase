@@ -757,12 +757,166 @@ write.table(badnames, 'cleaning/problem_names.txt', sep = '\t', row.names = F)
 # records have ITIS taxon id.
 
 
-# Manually fill in ITIS taxon id's for kingdoms where lower taxon levels are not provided
-diet7$Prey_Name_Status[diet7$Prey_Phylum
-                         ]
+# 27 October 2017; Allen Hurlbert
+# Patrick Winner identified replacement names for all names that had not matched ITIS.
+# The below function replaced these and wrote to a new file, AvianDietDatabase_fixed.txt
+# which was used to overwite AvianDietDatabase.txt
+fix_prob_names('cleaning/problem_names.txt', 'AvianDietDatabase.txt')
+
+
+
+# 29 November 2017; Allen Hurlbert and Patrick Winner
+
+probnames = read.table('cleaning/problem_names.txt', header=T, sep = '\t', stringsAsFactors = F)
+probnames$notes2 = probnames$notes
+probnames$notes2[probnames$replacewith == "" & grepl("Genus", probnames$notes) & 
+                   grepl("Phylum", probnames$notes)] = 
+  paste(probnames$notes[probnames$replacewith == "" & grepl("Genus", probnames$notes) & 
+                          grepl("Phylum", probnames$notes)], "& Prey_Name_Status = accepted")
+
+probnames$notes = probnames$notes2
+
+probnames$replacewith[probnames$replacewith == "" & grepl("Genus", probnames$notes) & 
+                   grepl("Phylum", probnames$notes)] = 
+  probnames$name[probnames$replacewith == "" & grepl("Genus", probnames$notes) & 
+                   grepl("Phylum", probnames$notes)]
+
+
+  
+# Manual edits:
+
+write.table(probnames[, c('level', 'name', 'condition', 'replacewith', 'notes')], 
+            'cleaning/problem_names.txt', sep = '\t', row.names = F)
+
+
+
+#Date: 12 December 2018; By: Allen Hurlbert
+
+# Update bird names to 2018 eBird Clements Checklist
+diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = '\"',
+                  fill=T, stringsAsFactors = F)
+diet$Common_Name[diet$Common_Name == "Le Conte's Sparrow"] = "LeConte's Sparrow"
+diet$Common_Name[diet$Common_Name == "Magnificent Hummingbird"] = "Rivoli's Hummingbird"
+diet$Scientific_Name[diet$Scientific_Name == 'Anas penelope'] = 'Mareca penelope'
+diet$Scientific_Name[diet$Common_Name == 'Northern Harrier'] = 'Circus hudsonius'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas penelope'] = 'Mareca penelope'
+diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus caudacutus'] = 'Ammospiza caudacuta'
+diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus maritimus'] = 'Ammospiza maritima'
+diet$Scientific_Name[diet$Scientific_Name == 'Carduelis cannabina'] = 'Linaria cannabina'
+diet$Scientific_Name[diet$Scientific_Name == 'Lanius excubitor'] = 'Lanius borealis'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides pubescens'] = 'Dryobates pubescens'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides villosus'] = 'Dryobates villosus'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides nuttallii'] = 'Dryobates nuttallii'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides borealis'] = 'Dryobates borealis'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas americana'] = 'Mareca americana'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas clypeata'] = 'Spatula clypeata'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas cyanoptera'] = 'Spatula cyanoptera'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas discors'] = 'Spatula discors'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas hottentota'] = 'Spatula hottentota'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas querquedula'] = 'Spatula querquedula'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas rhynchotis'] = 'Spatula rhynchotis'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas smithii'] = 'Spatula smithii'
+diet$Scientific_Name[diet$Scientific_Name == 'Anas strepera'] = 'Mareca strepera'
+diet$Scientific_Name[diet$Scientific_Name == 'Chen caerulescens'] = 'Anser caerulescens'
+diet$Scientific_Name[diet$Scientific_Name == 'Chen rossii'] = 'Anser rossii'
+diet$Scientific_Name[diet$Scientific_Name == 'Melanitta fusca'] = 'Melanitta deglandi'
+diet$Scientific_Name[diet$Scientific_Name == 'Sarkidiornis melanotos'] = 'Sarkidiornis sylvicola'
+diet$Scientific_Name[diet$Scientific_Name == 'Tadorna radjah'] = 'Radjah radjah'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides albolarvatus'] = 'Dryobates albolarvatus'
+diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus bairdii'] = 'Centronyx bairdii'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides scalaris'] = 'Dryobates scalaris'
+diet$Scientific_Name[diet$Scientific_Name == 'Chen canagica'] = 'Anser canagicus'
+diet$Scientific_Name[diet$Scientific_Name == 'Ammodramus leconteii'] = 'Ammospiza leconteii'
+diet$Scientific_Name[diet$Scientific_Name == 'Picoides scalaris'] = 'Dryobates scalaris'
+diet$Common_Name[diet$Scientific_Name == 'Aythya australis'] = 'Hardhead'
+diet$Family[diet$Scientific_Name == 'Icteria virens'] = 'Icteriidae'
+
+diet$Family[diet$Family == 'Emberizidae'] = 'Passerellidae'
+
+
+# Cleaning up and consolidating some Location_Specific names
+diet$Location_Specific[diet$Location_Specific == 'Bridgwater Bay, Somerset'] = 'Bridgwater Bay'
+diet$Location_Specific[diet$Location_Specific == 'Hanford site'] = 'Hanford'
+diet$Location_Specific[diet$Location_Specific == 'Hasting Reservation, Monetery county and Blomquist ranch'] = 'Hasting Reservation, Monterey County and Blomquist Ranch'
+diet$Location_Specific[diet$Location_Specific == 'Hasting Reservation, Monetery County and Blomquist Ranch'] = 'Hasting Reservation, Monterey County and Blomquist Ranch'
+diet$Location_Specific[diet$Location_Specific == 'Larimer and Weld Counties'] = 'Larimer County; Weld County'
+diet$Location_Specific[diet$Location_Specific == 'Manganuioteao'] = 'Manganuioteao River'
+diet$Location_Specific[grep('Multiple', diet$Location_Specific)] = 'Multiple'
+diet$Location_Specific[diet$Location_Specific == 'Rogue River Valley and Willamette Valley'] = 'Rogue River Valley, Willamette Valley'
+diet$Location_Specific[diet$Location_Specific == 'Rogue River Valley, Willamette Valley, Klamath County'] = 'Rogue River Valley, Willamette Valley'
+diet$Location_Specific[diet$Location_Specific == 'Rogue River Valley, Willamette Valley, Klamath County, Jackson County'] = 'Rogue River Valley, Willamette Valley'
+diet$Location_Specific[diet$Location_Specific == 'S?ndre Str?mfjord'] = 'West Greenland'
+diet$Location_Specific[diet$Location_Specific == 'SE Salton Sea'] = 'Salton Sea'
+diet$Location_Specific[diet$Location_Specific == 'US Dept of Energy Savannah River Site'] = 'Savannah River Site'
+diet$Location_Specific[diet$Location_Specific == 'St Paul Island'] = 'St. Paul Island'
+diet$Location_Specific[diet$Location_Specific == 'Tucson Metropolitan Area'] = 'Tucson'
+diet$Location_Specific[diet$Location_Specific == 'Tulare Basin, San Joaquin Valley'] = 'Tulare Lake Basin'
+diet$Location_Specific[diet$Location_Specific == 'Tucson Metropolitan Area'] = 'Tucson'
+diet$Location_Specific[diet$Location_Specific == 'Tuscon (rural)'] = 'Tucson'
+diet$Location_Specific[diet$Location_Specific == 'Yacamb? National Park'] = 'Yacambú National Park'
+
+# Special characters
+diet$Source[diet$Source == 'Nystr?m, J., Dal?n, L., Hellstr?m, P., Ekenstedt, J., Angleby H., & Angerbj?rn, A. 2006. Effect of Local Prey Availability on Gyrfalcon Diet: DNA Analysis on Ptarmigan Remains at Nest Sites. Journal of Zoology 269:57-64'] = 'Nyström, J., Dalén, L., Hellström, P., Ekenstedt, J., Angleby H., & Angerbjörn, A. 2006. Effect of Local Prey Availability on Gyrfalcon Diet: DNA Analysis on Ptarmigan Remains at Nest Sites. Journal of Zoology 269:57-64'
+
+diet$Source[diet$Source == 'Buitr?n-Jurado, G., and Sanz, V. 2016. Notes on the Diet of the Endemic Red-Eared Parakeet Pyrrhura hoematotis and other Venezuelan Montane Parrots. Ardeola 63: 357-367.'] = 'Buitrón-Jurado, G., and Sanz, V. 2016. Notes on the Diet of the Endemic Red-Eared Parakeet Pyrrhura hoematotis and other Venezuelan Montane Parrots. Ardeola 63: 357-367.'
+
+diet$Source[diet$Source == 'Paisley, R. Neal, and John F. Kubisiak. ?Food Habits of Wild Turkeys in Southwestern Wisconsin.? Research Management Findings , Wisconsin Department of Natural Resources, Mar. 1994'] = 'Paisley, R. Neal, and John F. Kubisiak. Food Habits of Wild Turkeys in Southwestern Wisconsin. Research Management Findings , Wisconsin Department of Natural Resources, Mar. 1994'
+
+diet$Source[diet$Source == 'Crawford, John A. ?FALL DIET OF BLUE GROUSE IN OREGON.? The Great Basin Naturalist, vol. 46, no. 1, 31 Jan. 1986, pp. 123?127. JSTOR, JSTOR'] = 'Crawford, John A. Fall diet of blue grouse in Oregon. The Great Basin Naturalist, 46: 123-127.'
+
+diet$Source[diet$Source == 'Hindmarch, S., & Elliott, J. E. (2015). Comparing the diet of Great Horned Owls (Bubo virginianus) in rural and urban areas of southwestern British Columbia.The Canadian Field-Naturalist,?128(4), 393-399.'] = 'Hindmarch, S., & Elliott, J. E. (2015). Comparing the diet of Great Horned Owls (Bubo virginianus) in rural and urban areas of southwestern British Columbia. The Canadian Field-Naturalist, 128: 393-399.'
+            
+diet$Source[diet$Source == 'Walkinshaw, L. H. 1949.?The sandhill cranes?(No. 29). Cranbrook Institute of Science.'] = 'Walkinshaw, L. H. 1949. The sandhill cranes (No. 29). Cranbrook Institute of Science.'           
+
+diet$Source[diet$Source == 'Reinecke, K. J., & Krapu, G. L. 1986. Feeding ecology of sandhill cranes during spring migration in Nebraska.?The Journal of wildlife management, 71-79.'] = 'Reinecke, K. J., & Krapu, G. L. 1986. Feeding ecology of sandhill cranes during spring migration in Nebraska. The Journal of wildlife management, 50: 71-79.'
+
+diet$Source[diet$Source == 'Mullins, W. H., and Bizeau, E. G. 1978. Summer foods of sandhill cranes in Idaho.?The Auk, 175-178.'] = 'Mullins, W. H., and Bizeau, E. G. 1978. Summer foods of sandhill cranes in Idaho. The Auk, 175-178.'
+
+diet$Source[diet$Source == 'Ballard, B. M., & Thompson, J. E. 2000. Winter diets of Sandhill Cranes from central and coastal Texas.?The Wilson Bulletin,?112(2), 263-268.'] = 'Ballard, B. M., & Thompson, J. E. 2000. Winter diets of Sandhill Cranes from central and coastal Texas. The Wilson Bulletin, 112: 263-268.'
+
+diet$Source[diet$Source == 'Guthery, F. S. 1975. Food habits of Sandhill Cranes in southern Texas.?The Journal of Wildlife Management,?39(1), 221-223.'] = 'Guthery, F. S. 1975. Food habits of Sandhill Cranes in southern Texas. The Journal of Wildlife Management, 39: 221-223.'
+
+diet$Source[diet$Source == 'Banfield, A. W. F. 1947. A study of the winter feeding habits of the Short-eared Owl (Asio flammeus) in the Toronto region.?Canadian Journal of Research,?25(2), 45-65.'] = 'Banfield, A. W. F. 1947. A study of the winter feeding habits of the Short-eared Owl (Asio flammeus) in the Toronto region. Canadian Journal of Research, 25: 45-65.'
+
+diet$Source[diet$Source == 'Stegeman, L. C. 1957. Winter food of the Short-eared Owl in central New York.?The American Midland Naturalist,?57(1), 120-124.'] = 'Stegeman, L. C. 1957. Winter food of the Short-eared Owl in central New York. The American Midland Naturalist, 57: 120-124.'
+
+diet$Source[diet$Source == 'Baumgartner, A. M., & Baumgartner, F. M. 1944. Hawks and owls in Oklahoma 1939-1942: food habits and population changes.?The Wilson Bulletin, 209-215.'] = 'Baumgartner, A. M., & Baumgartner, F. M. 1944. Hawks and owls in Oklahoma 1939-1942: food habits and population changes. The Wilson Bulletin, 56: 209-215.'
+
+diet$Source[diet$Source == 'Cahn, A. R., & Kemp, J. T. 1930. On the food of certain owls in east-central Illinois.?The Auk, 323-328.'] = 'Cahn, A. R., & Kemp, J. T. 1930. On the food of certain owls in east-central Illinois. The Auk, 47: 323-328.'
+
+diet$Source[diet$Source == 'Clark, R. J. 1975. A field study of the short-eared owl, Asio Flammeus (Pontoppidan), in North America.?Wildlife Monographs, (47), 3-67.'] = 'Clark, R. J. 1975. A field study of the short-eared owl, Asio Flammeus (Pontoppidan), in North America. Wildlife Monographs, 47: 3-67.'
+
+diet$Source[diet$Source == 'Fisler, G. F. 1960. Changes in food habits of Short-eared Owls feeding in a salt marsh.?Condor,?62(6), 486-487.'] = 'Fisler, G. F. 1960. Changes in food habits of Short-eared Owls feeding in a salt marsh. Condor, 62: 486-487.'
+
+diet$Source[diet$Source == 'Campbell, R. W., & MacColl, M. D. 1978. Winter foods of snowy owls in southwestern British Columbia.?The Journal of Wildlife Management,?42(1), 190-192.'] = 'Campbell, R. W., & MacColl, M. D. 1978. Winter foods of snowy owls in southwestern British Columbia. The Journal of Wildlife Management, 42: 190-192.'
+
+diet$Source[diet$Source == 'Ganey, J. L. 1992. Food habits of Mexican spotted owls in Arizona.?The Wilson Bulletin,?104(2), 321-326.'] = 'Ganey, J. L. 1992. Food habits of Mexican spotted owls in Arizona. The Wilson Bulletin, 104: 321-326.'
+
+diet$Source[diet$Source == 'Hendrickson, G. O., & Swan, C. 1938. Winter Notes on the Short?Eared Owl.?Ecology,?19(4), 584-588.'] = 'Hendrickson, G. O., & Swan, C. 1938. Winter Notes on the Short?Eared Owl. Ecology, 19: 584-588.'
+
+diet$Source[diet$Source == 'Kirkpatrick, C. M., & Conway, C. H. 1947. The winter foods of some Indiana owls.?American Midland Naturalist, 755-766.'] = 'Kirkpatrick, C. M., & Conway, C. H. 1947. The winter foods of some Indiana owls. American Midland Naturalist, 38: 755-766.'
+
+diet$Source[diet$Source == 'Long, C. A., & Wiley, M. L. 1961. Contents of pellets of the Short-eared Owl, Asio flammeus, in a prairie habitat in Missouri.?Transactions of the Kansas Academy of Science (1903-),?64(2), 153-154.'] = 'Long, C. A., & Wiley, M. L. 1961. Contents of pellets of the Short-eared Owl, Asio flammeus, in a prairie habitat in Missouri. Transactions of the Kansas Academy of Science (1903-), 64: 153-154.'
+
+diet$Source[diet$Source == 'Randall, P. E. 1939. Food of the short-eared owl during migration through Pennsylvania.?The Wilson Bulletin, 243-243.'] = 'Randall, P. E. 1939. Food of the short-eared owl during migration through Pennsylvania. The Wilson Bulletin, 51: 243.'
+
+diet$Source[diet$Source == 'Snyder, L. L. 1938. A predator-prey relationship between the short-eared owl and the meadow mouse.?The Wilson Bulletin,?50(2), 110-112.'] = 'Snyder, L. L. 1938. A predator-prey relationship between the short-eared owl and the meadow mouse. The Wilson Bulletin, 50: 110-112.'
+
+# Cleaning "Unidentified" field
+diet$Unidentified = tolower(diet$Unidentified)
+diet$Unidentified[diet$Unidentified == 'np'] = 'no'
+
+# Separate out non-North American bird species into separate file
+#source('scripts/bird_species_list.r')
+
+#dietNA = diet[!diet$Common_Name %in% DBnamesNotInChecklist$CommonName, ]
+#dietNonNA = diet[diet$Common_Name %in% DBnamesNotInChecklist$CommonName, ]
+
+#write.table(dietNonNA, 'AvianDietDatabase_nonNorthAmerica.txt', sep = '\t', row.names = F, quote = FALSE)
+#write.table(dietNA, 'AvianDietDatabase.txt', sep = '\t', row.names = F, quote = FALSE)
 
 # 
 #----------------------------------------------------------------------
 # When done for the day, save your changes by writing the file:
-write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F)
+write.table(diet, 'AvianDietDatabase.txt', sep = '\t', row.names = F, quote = FALSE)
 # And don't forget to git commit and git push your changes

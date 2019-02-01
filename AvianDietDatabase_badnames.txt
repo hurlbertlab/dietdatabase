@@ -1,0 +1,79 @@
+level	name	condition	replacewith	notes
+Scientific_Name	Corydalis cornuta	unmatched		Genus = Corydalis & Family = Papveraceae & Order = Ranunculales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Symplecta hybrida	unmatched		Genus = Symplecta & Family = Limoniidae & Suborder = Nematocera & Order = Diptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Entylia carinata	unmatched		Genus = Entylia & Family = Membracidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Graphocephala hieroglyphica	unmatched		Genus = Graphocephala & Family = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Heterothops fusculus	unmatched		Genus = Heterothops & Family = Staphylinidae & Suborder = Polyphaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Drapetes exstriatus	unmatched		Genus = Drapetes & Family = Elateridae & Suborder = Polyphaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Oxyomus sylvestris	unmatched		Genus = Oxyomus & Family = Scarabaeidae & Suborder = Polyphaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Agallia quadripunctata	unmatched		Genus = Agallia & Family = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Scymnus collaris	unmatched		Genus = Scymnus & Family = Coccinellidae & Suborder = Polyphaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Tomicus piniperda	unmatched		Genus = Tomicus & Family = Curculionidae & Suborder = Polyphaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Dolichomitus irritator	unmatched		Genus = Dolichomitus & Family = Ichneumonidae & Suborder = Apocrita & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Helicoverpa armigera	unmatched		Genus = Helicoverpa & Family = Noctuidae & Order = Lepidoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Cuerna sayi	unmatched		Genus = Cuerna & Family = Cicadellidae & Suborder = Auchenorrhyncha & Order = Hemiptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Ips fasciatus	unmatched		Genus = Ips & Family = Curculionidae & Suborder = Polyphaga & Order = Coleoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Scientific_Name	Apodasmia similis	unmatched		Genus = Apodasmia & Family = Restionaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Leucopogon fasciculatus	unmatched		Genus = Leucopogon & Family = Ericaceae & Order = Ericales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Zeacumantus lutulentus	unmatched		Genus = Zeacumantus & Family = Batillariidae & Order = Neotaenioglossa & Class = Gastropoda & Phylum = Mollusca & Kingdom = Animalia
+Scientific_Name	Austrolittorina antipodum	unmatched		Genus = Austrolittorina & Family = Littorinidae & Order = Neotaenioglossa & Class = Gastropoda & Phylum = Mollusca & Kingdom = Animalia
+Scientific_Name	Paphies australis	unmatched		keep as is
+Scientific_Name	Austrovenus stutchburyi	unmatched		keep as is
+Scientific_Name	Halicarcinus varius	unmatched		keep as is
+Scientific_Name	Erythromma najas	unmatched		keep as is
+Scientific_Name	Gevuina avellana	unmatched		Genus = Gevuina & Family = Proteaceae & Order = Proteales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Margyricarpus pinnatus	unmatched		Genus = Margyricarpus & Family = Rosaceae & Order = Rosales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Pyropia columbina	unmatched		Genus = Pyropia & Family = Bangiaceae & Order = Bangiales & Class = Bangiophyceae & Phylum = Rhodophyta & Kingdom = Plantae
+Scientific_Name	Mazzaella laminarioides	unmatched		Genus = Mazzaella & Family = Gigartinaceae & Order = Gigartinales & Class = Florideophyceae & Phylum = Rhodophyta & Kingdom = Plantae
+Scientific_Name	Rostkovia magellanica	unmatched		Genus = Rostkovia & Family = Juncaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Coloburiscus humeralis	unmatched		keep as is
+Scientific_Name	Daucus glochidiatus	unmatched		Genus = Daucus & Family = Apiaceae & Order = Apiales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Dodonaea bursariifolia	unmatched		Genus = Dodonaea & Family = Sapindaceae & Order = Sapindales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Cassytha melantha	unmatched		Genus = Cassytha & Family = Lauraceae & Order = Laurales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Leukoma staminea	unmatched		keep as is
+Scientific_Name	Sacciolepis africana	unmatched		Genus = Sacciolepis & Family = Poaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Persicaria limbata	unmatched		Genus = Persicaria & Family = Polygonaceae & Order = Caryophyllales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Stereospermum kunthianum	unmatched		Genus = Stereospermum & Family = Bignoniaceae & Order = Lamiales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Achatocarpus praecox	unmatched		Genus = Achatocarpus & Family = Achatocarpaceae & Order = Caryophyllales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Jodina rhombifolia	unmatched		Genus = Jodina & Family = Santalaceae & Order = Santalales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Cynophalla retusa	unmatched		Genus = Cynophalla & Family = Capparaceae & Order = Brassicales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Podocarpus parlatorei	unmatched		Genus = Podocarpus & Family = Podocarpaceae & Order = Pinales & Class = Pinopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Ilex argentina	unmatched		Genus = Ilex & Family = Aquifoliaceae & Order = Aquifoliales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Urochloa xantholeuca	unmatched		Genus = Urochloa & Family = Poaceae & Order = Poales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Heliotropium ovalifolium	unmatched		Genus = Heliotropium & Family = Heliotropiaceae & Order = Boraginales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Aeschynomene fluitans	unmatched		Genus = Aeschynomene & Family = Fabaceae & Order = Fabales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Aeschynomene nilotica	unmatched		Genus = Aeschynomene & Family = Fabaceae & Order = Fabales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Breutelia affinis	unmatched		Genus = Breutelia & Family = Bartramiaceae & Order = Bartramiales & Class = Bryopsida & Phylum = Bryophyta & Kingdom = Plantae
+Scientific_Name	Anisotome aromatica	unmatched		Genus = Anisotome & Family = Apiaceae & Order = Apiales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Gunnera dentata	unmatched		Genus = Gunnera & Family = Gunneraceae & Order = Gunnerales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Discaria toumatou	unmatched		Genus = Discaria & Family = Rhamnaceae & Order = Rosales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Corokia cotoneaster	unmatched		Genus = Corokia & Family = Argophyllaceae & Order = Asterales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Gaultheria depressa	unmatched		Genus = Gaultheria & Family = Ericaceae & Order = Ericales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Pratia angulata	unmatched		Genus = Pratia & Family = Campanulaceae & Order = Asterales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Ranunculus fluitans	unmatched		Genus = Ranunculus & Family = Ranunculaceae & Order = Ranunculales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Xanthocnemis zealandica	unmatched		keep as is
+Scientific_Name	Euthyatira pudens	unmatched		keep as is
+Scientific_Name	Habrosyne scripta	unmatched		keep as is
+Scientific_Name	Acleris nigrolinea	unmatched		keep as is
+Scientific_Name	Phaecasiophora confixana	unmatched		keep as is
+Scientific_Name	Semioscopis megamicrella	unmatched		keep as is
+Scientific_Name	Pseudexentera oregonana	unmatched		keep as is
+Scientific_Name	Eriotheca gracilipes	unmatched		keep as is
+Scientific_Name	Brosimum gaudichaudii	unmatched		keep as is
+Scientific_Name	Vochysia haenkeana	unmatched		keep as is
+Scientific_Name	Annona coriacea	unmatched		keep as is
+Scientific_Name	Pterodon emarginatus	unmatched		keep as is
+Scientific_Name	Geonoma undata	unmatched		Genus = Geonoma & Family = Arecaceae & Order = Arecales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Alchornea triplinervia	unmatched		Genus = Alchornea & Family = Euphorbiaceae & Order = Malpighiales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Sapium stylare	unmatched		Genus = Sapium & Family = Euphorbiaceae & Order = Malpighiales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Tetrorchidium rubrivenium	unmatched		Genus = Tetrorchidium & Family = Euphorbiaceae & Order = Malpighiales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Inga oerstediana	unmatched		Genus = Inga & Family = Fabaceae & Order = Fabales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Guettarda crispiflora	unmatched		Genus = Guettarda & Family = Rubiaceae & Order = Gentianales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Scientific_Name	Cecropia angustifolia	unmatched		Genus = Cecropia & Family = Urticaceae & Order = Rosales & Class = Magnoliopsida & Phylum = Tracheophyta & Kingdom = Plantae
+Family	Thynnidae	unmatched		Suborder = Apocrita & Order = Hymenoptera & Class = Insecta & Phylum = Arthropoda & Kingdom = Animalia
+Family	Micronectidae	unmatched		keep as is
+Family	Nesameletidae	unmatched		keep as is
+Phylum	Streptophyta	wrong rank; too low	Tracheophyta	keep as is
+Kingdom		unaccepted name		
+Kingdom	Protozoa	unaccepted name		keep as is
+Kingdom	NA	unaccepted name		

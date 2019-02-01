@@ -14,7 +14,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Ciconiidae  
 
 ### Columbiformes  
---Columbidae (need to check/enter Passenger Pigeon, Eurasian Collared-Dove)  
+--Columbidae
 
 ### Cuculiformes  
 --Cuculidae   
@@ -24,24 +24,24 @@ Note that Families for which I know that data remain to be entered are highlight
 --Alaudidae  
 --Bombycillidae  
 --Calcariidae  
---Cardinalidae (various tanager references to check/enter)
+--Cardinalidae   
 --Certhiidae  
 --Cinclidae    
---Corvidae (various jay references to check/enter)  
---Emberizide  
---Fringillidae  
---Hirundinidae  
---Icteridae (check/enter Western Meadowlark, Yellow-headed Blackbird Twedt et al. 1991)
---Laniidae  
---Mimidae  
---Motacillidae  
+--Corvidae           
+--Emberizide             
+--Fringillidae          
+--Hirundinidae            
+--Icteridae           
+--Laniidae              
+--Mimidae         
+--Motacillidae        
 --Paridae  
---Parulidae (need to enter Swainson's Warbler)  
---Passeridae  
+--Parulidae  
+--Passeridae            
 --Polioptilidae  
 --Ptilogonatidae  
 --Regulidae  
---Remizidae  (need to enter Verdin)  
+--Remizidae    
 --Sittidae  
 --Sturnidae  
 --Sylviidae  
@@ -49,16 +49,16 @@ Note that Families for which I know that data remain to be entered are highlight
 --Troglodytidae  
 --Turdidae   
 --Tyrannidae  
---Vireonidae  
+--Vireonidae  (**** more refs to check ****) Jericho
 
 ### Piciformes  
 --Picidae  
 
 ### Psittaciformes
---Psittacidae (need to enter Carolina parakeet, other parrots)
+--Psittacidae
 
 ### Strigiformes
---Strigidae    
+--Strigidae   (**** more refs to check **** DAVID)   
 --Tytonidae
 
 ### Trogoniformes  
@@ -66,31 +66,29 @@ Note that Families for which I know that data remain to be entered are highlight
 
 ### Caprimulgiformes
 --Apodidae  
---Caprimulgidae (need to check/enter Eastern Whip-poor-will)   
---Trochilidae (13 to enter; most probably no data)   
+--Caprimulgidae   
+--Trochilidae  
 
 ### Falconiformes  
---Falconidae (many references to be checked, although we currently have data for 5/6 species)   
+--Falconidae 
+
+### Coraciiformes
+--Alcedinidae
 
 ----------
 
 A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
-
-### Coraciiformes
---Alcedinidae (need to check/enter kingfishers)  
-
+ 
 ### Galliformes  
 --Odontophoridae  
---Cracidae (done?)  
---Phasianidae (13 to enter)  
+--Cracidae     
+--Phasianidae (**** lots to check ****)- ANNABEL
 
 ### Gruiformes  
---Aramidae (1 to enter)  
---Gruidae (2 to enter)  
+--Aramidae  
+--Gruidae (2 to enter) PATRICK    
 --Rallidae (9 to enter)  
 
-### Pelecaniformes
---Ardeidae  
 
 ---------
 
@@ -107,6 +105,7 @@ Eventually, enter shorebirds and seabirds:
 --Stercorariidae  
 
 ### Pelecaniformes
+--Ardeidae  
 --Pelecanidae  
 --Threskiornithidae  
 
