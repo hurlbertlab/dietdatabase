@@ -6931,12 +6931,8 @@ Black Francolin	Phasianidae	1999	Diet		"Mian, A. and M. M. Wajid. 1994. Food of 
 Black Francolin	Phasianidae	1999	Feeding	Microhabitat For Foraging	"Del Hoyo, J., A. Elliott, and J. Sargatal. 1994. Handbook of the birds of the world, Vol. 2. New World Vultures to Guineafowl. Lynx Edicions, Barcelona."	n		unavailable	
 Black Francolin	Phasianidae	1999	Feeding	Microhabitat For Foraging	"Ali, S. 1964. The book of Indian birds. 7th ed. Leaders Press Private Ltd. Bombay."	n		unavailable	
 Black Francolin	Phasianidae	1999	Diet		"Palermo, R. J. and G. L. Doster. 1971. A comparison of the late winter foods and parasites of Bobwhite Quail and Black Francolin in southwestern Louisiana. Proc. of the 24th Annual Conf. Southeastern Assoc. of Game & Fish Commissioners, Sept. 27-30 1970 (Webb, J. W., Ed.) Atlanta, GA."	n		unavailable	
-Black Francolin	Phasianidae	1999	Feeding	Microhabitat For Foraging	"Dement'Ev, G. P. and N. A. Gladkov. 1967. Birds of the Soviet Union. Vol. IV. S. Monson, Jerusalem, Israel."	n			
-<<<<<<< HEAD									
+Black Francolin	Phasianidae	1999	Feeding	Microhabitat For Foraging	"Dement'Ev, G. P. and N. A. Gladkov. 1967. Birds of the Soviet Union. Vol. IV. S. Monson, Jerusalem, Israel."	n		unavailable	
 Black Francolin	Phasianidae	1999	Diet		"Faruqi, S. A., G. Bump, P. C. Nanda, and G. C. Christensen. 1960. A study of the seasonal foods of the Black Francolin [Francolinus francolinus (Linnaeus)], the Grey Francolin [F. pondicerianus (Gmelin)], and the Common Sandgrouse (Pterocles exustus Temminck) in India and Pakistan. J. Bombay Nat. Hist Soc. 57:354-361."				
-=======									
-Black Francolin	Phasianidae	1999	Diet		"Faruqi, S. A., G. Bump, P. C. Nanda, and G. C. Christensen. 1960. A study of the seasonal foods of the Black Francolin [Francolinus francolinus (Linnaeus)], the Grey Francolin [F. pondicerianus (Gmelin)], and the Common Sandgrouse (Pterocles exustus Temminck) in India and Pakistan. J. Bombay Nat. Hist Soc. 57:354-361."				
->>>>>>> b8e95ee9b2d0da90e645271ebbe1121f87aa868b									
 Black Francolin	Phasianidae	1999	Feeding	Main Foods Taken	"Husain, M. A. and H. R. Bhalla. 1937. Some birds of Lyallpur and their food. J. Bombay Nat. Hist. Soc. 39:831-842."				
 Black Francolin	Phasianidae	1999	Feeding	Food Capture And Consumption	"Johnsgard, P. A. 1988. The quails, partridges, and francolins of the world. Oxford Univ. Press, New York."				
 Black Francolin	Phasianidae	1999	Feeding	Main Foods Taken	"Bump, G. and J. W. Bump. 1964. A study and review of the Black Francolin and the Gray Francolin. Spec. Sci. Rep. - Wildl. no. 81. Bur. Sport Fish. Wildl. Washington, D.C."				
@@ -7314,11 +7310,19 @@ Willow Ptarmigan	Phasianidae	1998	Diet		"Schuppli, C. A. 1993. Factors that infl
 Willow Ptarmigan	Phasianidae	1998	Diet		"Martin, K. and D. Hik. 1992. Willow Ptarmigan chicks consume moss sporophyte capsules. J. Field Ornithol. 63:355-358."				
 Willow Ptarmigan	Phasianidae	1998	Diet		"Bergerud, A. T. and W. E. Mercer. 1972. Spring foods of Willow Ptarmigan Lagopus lagopus alleni in southeastern Newfoundland. Oikos 23:213-217."				
 Willow Ptarmigan	Phasianidae	1998	Food Selection And Storage		"Moss, R. 1972b. Food selection by Red Grouse (Lagopus lagopus scoticus (Lath.)) in relation to chemical composition. J. Anim. Ecol. 41:411-428."				
+<<<<<<< HEAD									
+Willow Ptarmigan	Phasianidae	1998	Food Selection And Storage		"Gardarsson, A. and R. Moss. 1970. Selection of food by Icelandic Ptarmigan in reaction to its availability and nutritive value. Pages 47-71 in Animal populations in relation to their food resources. (Watson, A., Ed.) Blackwell Scientific Publications, Oxford."	y	y		
+Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Andreev, A. V. 1991. Winter adaptations in the Willow Ptarmigan. Arctic 44:106-114."	y	n	Mentions measuring crop contents but provides no data 	
+Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Savory, C. J. 1978. Food consumption of Red Grouse in relation to the age and productivity of heather. J. Anim. Ecol. 47:269-282."	y	n		
+Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Gabrielson, G. W. and S. Unander. 1987. Energy costs during incubation in Svalbard and Willow Ptarmigan. Polar Res. 5:59-69."	y	n		
+Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"West, G. C. 1968. Bioenergetics of captive Willow Ptarmigan under natural conditions. Ecology 49:1035-1045."	y	n		
+=======									
 Willow Ptarmigan	Phasianidae	1998	Food Selection And Storage		"Gardarsson, A. and R. Moss. 1970. Selection of food by Icelandic Ptarmigan in reaction to its availability and nutritive value. Pages 47-71 in Animal populations in relation to their food resources. (Watson, A., Ed.) Blackwell Scientific Publications, Oxford."				
 Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Andreev, A. V. 1991. Winter adaptations in the Willow Ptarmigan. Arctic 44:106-114."				
 Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Savory, C. J. 1978. Food consumption of Red Grouse in relation to the age and productivity of heather. J. Anim. Ecol. 47:269-282."				
 Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Gabrielson, G. W. and S. Unander. 1987. Energy costs during incubation in Svalbard and Willow Ptarmigan. Polar Res. 5:59-69."				
 Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"West, G. C. 1968. Bioenergetics of captive Willow Ptarmigan under natural conditions. Ecology 49:1035-1045."				
+>>>>>>> 5e8ecbe66f912f7aa2e532c7fed9431dd75b317b									
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Mercer, J. B. and E. Simon. 1987. Appropriate and inappropriate hypothalmic cold thermosensitivity in Willow Ptarmigan. Acta Physiol. Scand. 131:73-80."	y	n		
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"West, G. C. 1972. Seasonal differences in resting metabolic rate of Alaskan ptarmigan. Comp. Biochem. Physiol. 42A:867-876."	y	n		
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Stokkan, K. A. 1992. Energetics and adaptations to cold in ptarmigan in winter. Ornis Scand. 23:366-370."	y	n		
