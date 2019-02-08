@@ -3,12 +3,11 @@
 There are various sources of error that may creep into the database, and we will need to employ several
 different strategies to catch and fix them.
 
-In R or RStudio, open a session and set your working directory to wherever the dietdatabase folder is
-on the machine you are working on, source the cleaning functions, and read in the file to be cleaned (e.g. 
+In R or RStudio, open the RProject file in the main repository, source the cleaning functions, and read in the file to be cleaned (e.g. 
 AvianDietDatabase_Beaver_and_Baldwin_1975.txt). 
 
 ```
-setwd('C:/Git/dietdatabase')                  # replace with the path to your local repository
+### You'll want to replace the 'qa_qc_test_db.txt' file with the data file you want to clean.
 source('cleaning/database_error_checking.R')
 dietdb = read.table('cleaning/qa_qc_test_db.txt', header = T, sep = '\t', quote = '\"', stringsAsFactors = F)
 ```
