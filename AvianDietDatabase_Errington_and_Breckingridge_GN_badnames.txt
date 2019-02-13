@@ -1,0 +1,5 @@
+"level"	"name"	"condition"
+"Scientific_Name"	"Microtus Schrank"	"unmatched"
+"Scientific_Name"	"Mus Linnaeus"	"unmatched"
+"Scientific_Name"	"Gallus domesticus"	"unmatched"
+"Scientific_Name"	"Gallinula"	"wrong rank; too low"
