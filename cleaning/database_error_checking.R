@@ -478,7 +478,7 @@ clean_names = function(preyTaxonLevel, diet, problemNames = NULL, all = TRUE) {
     namecount = 1
     for (n in uniqueNames) {
       print(paste(preyTaxonLevel, namecount, "out of", length(uniqueNames)))
-      hierarchy = classification(n, db = 'itis')[[1]]
+      hierarchy = classification(n, db = 'itis', accepted = TRUE)[[1]]
       
       # Identify all records with the specified name where all lower taxonomic
       # levels are blank or NA
