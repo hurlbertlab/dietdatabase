@@ -75,15 +75,18 @@ LeadingAndTrailingSpaceRemover = function(dietdatabase) {
   for (i in characterFields) {
     for (j in 1:nrow(dietdatabase)) {
       val = dietdatabase[j, i]
-      #leading and trailing spaces
-      if (substring(val, 1, 1) == " " & substring(val, nchar(val), nchar(val)) == " ") {
-        dietdatabase[j, i] = substring(val, 2, nchar(val) - 1)
-        #leading spaces
-      } else if (substring(val, 1, 1) == " ") {
-        dietdatabase[j, i] = substring(val, 2, nchar(val))
-        #trailing spaces
-      } else if (substring(val, nchar(val), nchar(val)) == " ") {
-        dietdatabase[j, i] = substring(val, 1, nchar(val) - 1)
+      
+      if (!is.na(val)) {
+        #leading and trailing spaces
+        if (substring(val, 1, 1) == " " & substring(val, nchar(val), nchar(val)) == " ") {
+          dietdatabase[j, i] = substring(val, 2, nchar(val) - 1)
+          #leading spaces
+        } else if (substring(val, 1, 1) == " ") {
+          dietdatabase[j, i] = substring(val, 2, nchar(val))
+          #trailing spaces
+        } else if (substring(val, nchar(val), nchar(val)) == " ") {
+          dietdatabase[j, i] = substring(val, 1, nchar(val) - 1)
+        }  
       }
     }
   }
@@ -198,14 +201,18 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   
 
   # Error checking -- text fields
-  season = count(diet, Observation_Season) %>% 
-    # List of acceptable values
-    filter(!tolower(Observation_Season) %in% c('multiple', 'summer', 'spring', 'fall', 'winter', NA)) %>%
-    arrange(desc(n)) %>%
-    data.frame()
+  season = strsplit(diet$Observation_Season, ";") %>%
+    unlist() %>%
+    trimws() %>%
+    table() %>%
+    data.frame() %>%
+    # List of acceptable values here
+    filter(!tolower(.) %in% c('multiple', 'summer', 'spring', 'fall', 'winter', NA))
   if (nrow(season) == 0) {
     season = "OK"
-  } 
+  } else {
+    names(season) = c('Observation_Season', 'n')
+  }
 
   
   if (sum(is.na(diet$Habitat_type)) == nrow(diet)) {
