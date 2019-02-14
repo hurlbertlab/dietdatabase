@@ -1,3 +1,0 @@
-"level"	"name"	"condition"
-"Scientific_Name"	"Gallus domesticus"	"unmatched"
-"Scientific_Name"	"Microtus Schrank"	"unmatched"
