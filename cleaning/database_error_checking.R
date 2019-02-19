@@ -50,9 +50,9 @@ outlierCheck = function(diet) {
     
     frac_diet = outlier(diet$Fraction_Diet, 0, 1),
     
-    item_sampsize = outlier(diet$Item_Sample_Size, 0, 27000), # max recorded is 26958
+    item_sampsize = outlier(diet$Item_Sample_Size, 0, 64000), # max recorded is 63767
     
-    bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 1300),
+    bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 4900), # max recorded is 4848
     
     sites = outlier(diet$Sites, 0, 100)
     
@@ -75,15 +75,18 @@ LeadingAndTrailingSpaceRemover = function(dietdatabase) {
   for (i in characterFields) {
     for (j in 1:nrow(dietdatabase)) {
       val = dietdatabase[j, i]
-      #leading and trailing spaces
-      if (substring(val, 1, 1) == " " & substring(val, nchar(val), nchar(val)) == " ") {
-        dietdatabase[j, i] = substring(val, 2, nchar(val) - 1)
-        #leading spaces
-      } else if (substring(val, 1, 1) == " ") {
-        dietdatabase[j, i] = substring(val, 2, nchar(val))
-        #trailing spaces
-      } else if (substring(val, nchar(val), nchar(val)) == " ") {
-        dietdatabase[j, i] = substring(val, 1, nchar(val) - 1)
+      
+      if (!is.na(val)) {
+        #leading and trailing spaces
+        if (substring(val, 1, 1) == " " & substring(val, nchar(val), nchar(val)) == " ") {
+          dietdatabase[j, i] = substring(val, 2, nchar(val) - 1)
+          #leading spaces
+        } else if (substring(val, 1, 1) == " ") {
+          dietdatabase[j, i] = substring(val, 2, nchar(val))
+          #trailing spaces
+        } else if (substring(val, nchar(val), nchar(val)) == " ") {
+          dietdatabase[j, i] = substring(val, 1, nchar(val) - 1)
+        }  
       }
     }
   }
@@ -96,9 +99,10 @@ LeadingAndTrailingSpaceRemover = function(dietdatabase) {
 bird_name_clean = function(diet) {
   
   # Load most recent taxonomy file 
-  filename = list.files('birdtaxonomy', pattern = 'eBird_Taxonomy_v20[0-9][0-9].csv')
+  filenames = list.files('birdtaxonomy', pattern = 'eBird_Taxonomy_v20[0-9][0-9].csv') %>%
+    sort(decreasing = TRUE)
   
-  tax = read.table(paste('birdtaxonomy/', filename, sep = ''), header = T,
+  tax = read.table(paste('birdtaxonomy/', filenames[1], sep = ''), header = T,
                    sep = ',', quote = '\"', stringsAsFactors = F)
   tax$Family = word(tax$FAMILY, 1)
 
@@ -108,6 +112,10 @@ bird_name_clean = function(diet) {
   unmatched = anti_join(db_spp, tax, by = c("Common_Name" = "PRIMARY_COM_NAME", 
                                              "Scientific_Name" = "SCI_NAME",
                                              "Family" = "Family"))
+  
+  if (nrow(unmatched) == 0){
+    unmatched = paste("All names matched the current eBird taxonomy (", filenames[1], ").", sep = '')
+  }
   return(unmatched)
 }
 
@@ -141,6 +149,23 @@ checksum = function(diet, accuracy = 0.05) {
 }
 
 
+
+# Returns the first row number of every consecutive series of 4 more values
+# (a run of at least 3 consecutive differences of 1)
+# that increment by one (indicating an accidental Autofill in Excel, since
+# the values in these fields should typically be constant within a given study)
+checkAutofilledRows  = function(dbField) {
+  diff = dbField[2:length(dbField)] - dbField[1:(length(dbField) - 1)]
+  runs = rle(diff)
+  indices = cumsum(runs$lengths)[which(runs$values == 1 & runs$lengths >= 3)] - 
+    (runs$lengths[which(runs$values == 1 & runs$lengths >= 3)] - 1)
+
+  if (length(indices) == 0) indices = NA
+  
+  return(indices)
+}
+
+
 qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   
 
@@ -157,14 +182,37 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   # Error checking -- numeric fields
   outliers = outlierCheck(diet)
 
+  # Error checking -- erroneous "auto-fill" values
+  checkAutofill = list()
+  checkAutofill$Altitude_min = checkAutofilledRows(diet$Altitude_min_m)
+  checkAutofill$Altitude_mean = checkAutofilledRows(diet$Altitude_mean_m)
+  checkAutofill$Altitude_max = checkAutofilledRows(diet$Altitude_max_m)
+  checkAutofill$Year_Begin = checkAutofilledRows(diet$Observation_Year_Begin)
+  checkAutofill$Year_End = checkAutofilledRows(diet$Observation_Year_End)
+  checkAutofill$Month_Begin = checkAutofilledRows(diet$Observation_Month_Begin)
+  checkAutofill$Month_End = checkAutofilledRows(diet$Observation_Month_End)
+  checkAutofill$Item_Sample_Size = checkAutofilledRows(diet$Item_Sample_Size)
+  checkAutofill$Bird_Sample_Size = checkAutofilledRows(diet$Bird_Sample_Size)
+  checkAutofill$Sites = checkAutofilledRows(diet$Sites)
+  
+  checkAutofill = checkAutofill[!is.na(checkAutofill)]
+  
+  if (length(checkAutofill) == 0) checkAutofill = 'OK'
+  
+
   # Error checking -- text fields
-  season = count(diet, Observation_Season) %>% 
-    filter(!tolower(Observation_Season) %in% c('multiple', 'summer', 'spring', 'fall', 'winter', NA)) %>%
-    arrange(desc(n)) %>%
-    data.frame()
+  season = strsplit(diet$Observation_Season, ";") %>%
+    unlist() %>%
+    trimws() %>%
+    table() %>%
+    data.frame() %>%
+    # List of acceptable values here
+    filter(!tolower(.) %in% c('multiple', 'summer', 'spring', 'fall', 'winter', NA))
   if (nrow(season) == 0) {
     season = "OK"
-  } 
+  } else {
+    names(season) = c('Observation_Season', 'n')
+  }
 
   
   if (sum(is.na(diet$Habitat_type)) == nrow(diet)) {
@@ -175,6 +223,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
       trimws() %>%
       table() %>%
       data.frame() %>%
+      # List of acceptable values here
       filter(!tolower(.) %in% c('agriculture', 'coniferous forest', 'deciduous forest', 'desert',
                                 'forest', 'grassland', 'mangrove forest', 'multiple', 'shrubland', 
                                 'urban', 'wetland', 'woodland', 'tundra', 'mudflat'))
@@ -194,6 +243,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     trimws() %>%
     table() %>%
     data.frame() %>%
+    # List of acceptable values here
     filter(!tolower(.) %in% c('adult', 'egg', 'juvenile', 'larva', 'nymph', 'pupa', 'teneral'))
     if (nrow(stage) == 0) {
       stage = "OK"
@@ -210,6 +260,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     trimws() %>%
     table() %>%
     data.frame() %>%
+    # List of acceptable values here
     filter(!tolower(.) %in% c('bark', 'bud', 'dung', 'egg', 'feces', 'flower', 'fruit',
                               'gall', 'oogonium', 'pollen', 'root', 'sap', 'seed',
                               'spore', 'statoblasts', 'vegetation', 'bulb', 'tuber'))
@@ -264,6 +315,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     table() %>%
     data.frame() %>%
     arrange(desc(Freq)) %>%
+      #Add region names below that are acceptable
     filter(!. %in% c(state.name, countries, 'North America', 'United States', 
                      'New England', 'Western United States', 'Southeastern United States',
                      'Eastern United States', 'Northeastern United States',
@@ -274,7 +326,8 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
                      'Newfoundland', 'Nunavut', 'Chesapeake Bay', 'Lake Ontario', 'Lake Erie',
                      'Lake Michigan', 'Great Plains', 'New South Wales', 'Queensland', 'Victoria',
                      'Northern Territory', 'Fennoscandia', 'Siberia', 'Svalbard', 
-                     'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles', 'Washington D.C.'))
+                     'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles', 'Washington D.C.',
+                     'England', 'Scotland', 'Northern Ireland'))
     if (nrow(region) == 0) {
       region = "OK"
     } else {
@@ -287,6 +340,10 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   
   
   fraction_sum_check = checksum(diet, accuracy = fracsum_accuracy)
+  
+  if (nrow(fraction_sum_check) == 0) {
+    fraction_sum_check = "OK"
+  }
   
   output = list(Problem_bird_names = probbirdnames,
                 Taxonomy = taxonomy, 
@@ -310,6 +367,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
                 Item_Sample_Size = outliers$item_sampsize,
                 Bird_Sample_Size = outliers$bird_sampsize,
                 Sites = outliers$sites,
+                checkAutofilledValues = checkAutofill,
                 Study_Type = studytype, 
                 Fraction_sum_check = fraction_sum_check)
   
@@ -427,7 +485,7 @@ clean_names = function(preyTaxonLevel, diet, problemNames = NULL, all = TRUE) {
     namecount = 1
     for (n in uniqueNames) {
       print(paste(preyTaxonLevel, namecount, "out of", length(uniqueNames)))
-      hierarchy = classification(n, db = 'itis')[[1]]
+      hierarchy = classification(n, db = 'itis', accepted = TRUE)[[1]]
       
       # Identify all records with the specified name where all lower taxonomic
       # levels are blank or NA

@@ -1,0 +1,1238 @@
+Order,CommonName,SciName,Status
+1,Black-bellied Whistling-Duck,Dendrocygna autumnalis,
+2,West Indian Whistling-Duck,Dendrocygna arborea,Introduced species Vulnerable
+3,Fulvous Whistling-Duck,Dendrocygna bicolor,
+4,Bar-headed Goose,Anser indicus,Rare/Accidental
+5,Emperor Goose,Anser canagicus,Near-threatened
+6,Snow Goose,Anser caerulescens,
+7,Ross's Goose,Anser rossii,
+8,Graylag Goose,Anser anser,Rare/Accidental
+9,Greater White-fronted Goose,Anser albifrons,
+10,Lesser White-fronted Goose,Anser erythropus,Rare/Accidental Vulnerable
+11,Taiga Bean-Goose,Anser fabalis,Rare/Accidental
+12,Tundra Bean-Goose,Anser serrirostris,Rare/Accidental
+13,Pink-footed Goose,Anser brachyrhynchus,Rare/Accidental
+14,Brant,Branta bernicla,
+15,Barnacle Goose,Branta leucopsis,
+16,Cackling Goose,Branta hutchinsii,Breeding endemic
+17,Canada Goose,Branta canadensis,
+18,Hawaiian Goose,Branta sandvicensis,Vulnerable
+19,Mute Swan,Cygnus olor,Introduced species
+20,Trumpeter Swan,Cygnus buccinator,
+21,Tundra Swan,Cygnus columbianus,
+22,Whooper Swan,Cygnus cygnus,
+23,Orinoco Goose,Oressochen jubatus,Introduced species Near-threatened
+24,Egyptian Goose,Alopochen aegyptiaca,Introduced species
+25,Ruddy Shelduck,Tadorna ferruginea,Rare/Accidental
+26,Common Shelduck,Tadorna tadorna,Rare/Accidental
+27,Muscovy Duck,Cairina moschata,
+28,Wood Duck,Aix sponsa,
+29,Baikal Teal,Sibirionetta formosa,
+30,Garganey,Spatula querquedula,
+31,Blue-winged Teal,Spatula discors,
+32,Cinnamon Teal,Spatula cyanoptera,
+33,Northern Shoveler,Spatula clypeata,
+34,Gadwall,Mareca strepera,
+35,Falcated Duck,Mareca falcata,Near-threatened
+36,Eurasian Wigeon,Mareca penelope,
+37,American Wigeon,Mareca americana,
+38,Laysan Duck,Anas laysanensis,Critically endangered
+39,Hawaiian Duck,Anas wyvilliana,Endangered
+40,Eastern Spot-billed Duck,Anas zonorhyncha,Rare/Accidental
+41,Mallard,Anas platyrhynchos,
+42,Mexican Duck,Anas diazi,
+43,American Black Duck,Anas rubripes,
+44,Mottled Duck,Anas fulvigula,
+45,White-cheeked Pintail,Anas bahamensis,
+46,Northern Pintail,Anas acuta,
+47,Green-winged Teal,Anas crecca,
+48,Canvasback,Aythya valisineria,
+49,Redhead,Aythya americana,
+50,Common Pochard,Aythya ferina,Vulnerable
+51,Ring-necked Duck,Aythya collaris,
+52,Tufted Duck,Aythya fuligula,
+53,Greater Scaup,Aythya marila,
+54,Lesser Scaup,Aythya affinis,
+55,Steller's Eider,Polysticta stelleri,Vulnerable
+56,Spectacled Eider,Somateria fischeri,
+57,King Eider,Somateria spectabilis,
+58,Common Eider,Somateria mollissima,Near-threatened
+59,Harlequin Duck,Histrionicus histrionicus,
+60,Labrador Duck,Camptorhynchus labradorius,Extinct
+61,Surf Scoter,Melanitta perspicillata,
+62,White-winged Scoter,Melanitta deglandi,
+63,Common Scoter,Melanitta nigra,Rare/Accidental
+64,Black Scoter,Melanitta americana,Near-threatened
+65,Long-tailed Duck,Clangula hyemalis,Vulnerable
+66,Bufflehead,Bucephala albeola,
+67,Common Goldeneye,Bucephala clangula,
+68,Barrow's Goldeneye,Bucephala islandica,
+69,Smew,Mergellus albellus,
+70,Hooded Merganser,Lophodytes cucullatus,
+71,Common Merganser,Mergus merganser,
+72,Red-breasted Merganser,Mergus serrator,
+73,Masked Duck,Nomonyx dominicus,
+74,Ruddy Duck,Oxyura jamaicensis,
+75,Plain Chachalaca,Ortalis vetula,
+76,Helmeted Guineafowl,Numida meleagris,Introduced species
+77,Mountain Quail,Oreortyx pictus,
+78,Northern Bobwhite,Colinus virginianus,Near-threatened
+79,Scaled Quail,Callipepla squamata,
+80,California Quail,Callipepla californica,
+81,Gambel's Quail,Callipepla gambelii,
+82,Montezuma Quail,Cyrtonyx montezumae,
+83,Indian Peafowl,Pavo cristatus,Introduced species
+84,Chukar,Alectoris chukar,Introduced species
+85,Himalayan Snowcock,Tetraogallus himalayensis,Introduced species
+86,Erckel's Francolin,Pternistis erckelii,Introduced species
+87,Black Francolin,Francolinus francolinus,Introduced species
+88,Gray Francolin,Francolinus pondicerianus,Introduced species
+89,Chinese Bamboo-Partridge,Bambusicola thoracicus,Introduced species (non established)
+90,Red Junglefowl,Gallus gallus,Introduced species
+91,Elliot's Pheasant,Syrmaticus ellioti,Introduced species Near-threatened
+92,Lady Amherst's Pheasant,Chrysolophus amherstiae,Introduced species
+93,Ring-necked Pheasant,Phasianus colchicus,Introduced species
+94,Silver Pheasant,Lophura nycthemera,Introduced species (non established)
+95,Kalij Pheasant,Lophura leucomelanos,Introduced species
+96,Gray Partridge,Perdix perdix,Introduced species
+97,Ruffed Grouse,Bonasa umbellus,
+98,Greater Sage-Grouse,Centrocercus urophasianus,Near-threatened
+99,Gunnison Sage-Grouse,Centrocercus minimus,Endangered
+100,Spruce Grouse,Falcipennis canadensis,
+101,Willow Ptarmigan,Lagopus lagopus,
+102,Rock Ptarmigan,Lagopus muta,
+103,White-tailed Ptarmigan,Lagopus leucura,
+104,Dusky Grouse,Dendragapus obscurus,
+105,Sooty Grouse,Dendragapus fuliginosus,
+106,Sharp-tailed Grouse,Tympanuchus phasianellus,
+107,Greater Prairie-Chicken,Tympanuchus cupido,Vulnerable
+108,Lesser Prairie-Chicken,Tympanuchus pallidicinctus,Vulnerable
+109,Wild Turkey,Meleagris gallopavo,
+110,Chilean Flamingo,Phoenicopterus chilensis,Introduced species Near-threatened
+111,American Flamingo,Phoenicopterus ruber,
+112,Least Grebe,Tachybaptus dominicus,
+113,Pied-billed Grebe,Podilymbus podiceps,
+114,Horned Grebe,Podiceps auritus,Vulnerable
+115,Red-necked Grebe,Podiceps grisegena,
+116,Eared Grebe,Podiceps nigricollis,
+117,Western Grebe,Aechmophorus occidentalis,
+118,Clark's Grebe,Aechmophorus clarkii,
+119,Rock Pigeon,Columba livia,Introduced species
+120,Scaly-naped Pigeon,Patagioenas squamosa,Rare/Accidental
+121,White-crowned Pigeon,Patagioenas leucocephala,Near-threatened
+122,Red-billed Pigeon,Patagioenas flavirostris,
+123,Band-tailed Pigeon,Patagioenas fasciata,
+124,Passenger Pigeon,Ectopistes migratorius,Extinct
+125,European Turtle-Dove,Streptopelia turtur,Rare/Accidental Vulnerable
+126,Oriental Turtle-Dove,Streptopelia orientalis,
+127,Eurasian Collared-Dove,Streptopelia decaocto,Introduced species
+128,African Collared-Dove,Streptopelia roseogrisea,Introduced species
+129,Spotted Dove,Streptopelia chinensis,Introduced species
+130,Laughing Dove,Streptopelia senegalensis,Introduced species
+131,Zebra Dove,Geopelia striata,
+132,Inca Dove,Columbina inca,
+133,Common Ground-Dove,Columbina passerina,
+134,Ruddy Ground-Dove,Columbina talpacoti,
+135,Ruddy Quail-Dove,Geotrygon montana,Rare/Accidental
+136,Key West Quail-Dove,Geotrygon chrysia,Rare/Accidental
+137,White-tipped Dove,Leptotila verreauxi,
+138,White-winged Dove,Zenaida asiatica,
+139,Zenaida Dove,Zenaida aurita,Rare/Accidental
+140,Mourning Dove,Zenaida macroura,
+141,Chestnut-bellied Sandgrouse,Pterocles exustus,Introduced species
+142,Smooth-billed Ani,Crotophaga ani,
+143,Groove-billed Ani,Crotophaga sulcirostris,
+144,Lesser Roadrunner,Geococcyx velox,
+145,Greater Roadrunner,Geococcyx californianus,
+146,Dark-billed Cuckoo,Coccyzus melacoryphus,Rare/Accidental
+147,Yellow-billed Cuckoo,Coccyzus americanus,
+148,Mangrove Cuckoo,Coccyzus minor,
+149,Black-billed Cuckoo,Coccyzus erythropthalmus,
+150,Common Cuckoo,Cuculus canorus,
+151,Oriental Cuckoo,Cuculus optatus,Rare/Accidental
+152,Lesser Nighthawk,Chordeiles acutipennis,
+153,Common Nighthawk,Chordeiles minor,
+154,Antillean Nighthawk,Chordeiles gundlachii,
+155,Common Pauraque,Nyctidromus albicollis,
+156,Common Poorwill,Phalaenoptilus nuttallii,
+157,Chuck-will's-widow,Antrostomus carolinensis,
+158,Buff-collared Nightjar,Antrostomus ridgwayi,
+159,Eastern Whip-poor-will,Antrostomus vociferus,
+160,Mexican Whip-poor-will,Antrostomus arizonae,
+161,Gray Nightjar,Caprimulgus jotaka,Rare/Accidental
+162,Black Swift,Cypseloides niger,
+163,White-collared Swift,Streptoprocne zonaris,Rare/Accidental
+164,Chimney Swift,Chaetura pelagica,Near-threatened
+165,Vaux's Swift,Chaetura vauxi,
+166,White-throated Needletail,Hirundapus caudacutus,
+167,Mariana Swiftlet,Aerodramus bartschi,Introduced species Endangered
+168,White-nest Swiftlet,Aerodramus fuciphagus,
+169,Common Swift,Apus apus,
+170,Pacific Swift,Apus pacificus,
+171,House Swift,Apus nipalensis,Rare/Accidental
+172,White-throated Swift,Aeronautes saxatalis,
+173,Antillean Palm-Swift,Tachornis phoenicobia,Rare/Accidental
+174,Mexican Violetear,Colibri thalassinus,
+175,Lesser Violetear,Colibri cyanotus,
+176,Green-breasted Mango,Anthracothorax prevostii,Rare/Accidental
+177,Rivoli's Hummingbird,Eugenes fulgens,
+178,Plain-capped Starthroat,Heliomaster constantii,
+179,Amethyst-throated Hummingbird,Lampornis amethystinus,Rare/Accidental
+180,Blue-throated Hummingbird,Lampornis clemenciae,
+181,Lucifer Hummingbird,Calothorax lucifer,
+182,Bahama Woodstar,Calliphlox evelynae,Rare/Accidental
+183,Ruby-throated Hummingbird,Archilochus colubris,
+184,Black-chinned Hummingbird,Archilochus alexandri,
+185,Anna's Hummingbird,Calypte anna,
+186,Costa's Hummingbird,Calypte costae,
+187,Bumblebee Hummingbird,Atthis heloisa,Rare/Accidental
+188,Broad-tailed Hummingbird,Selasphorus platycercus,
+189,Rufous Hummingbird,Selasphorus rufus,
+190,Allen's Hummingbird,Selasphorus sasin,
+191,Calliope Hummingbird,Selasphorus calliope,
+192,Broad-billed Hummingbird,Cynanthus latirostris,
+193,Berylline Hummingbird,Amazilia beryllina,
+194,Buff-bellied Hummingbird,Amazilia yucatanensis,
+195,Cinnamon Hummingbird,Amazilia rutila,Rare/Accidental
+196,Violet-crowned Hummingbird,Amazilia violiceps,
+197,White-eared Hummingbird,Hylocharis leucotis,
+198,Xantus's Hummingbird,Hylocharis xantusii,Rare/Accidental
+199,Ridgway's Rail,Rallus obsoletus,Near-threatened
+200,King Rail,Rallus elegans,Near-threatened
+201,Clapper Rail,Rallus crepitans,
+202,Virginia Rail,Rallus limicola,
+203,Corn Crake,Crex crex,Rare/Accidental
+204,Paint-billed Crake,Mustelirallus erythrops,Rare/Accidental
+205,Spotted Rail,Pardirallus maculatus,Rare/Accidental
+206,Rufous-necked Wood-Rail,Aramides axillaris,Rare/Accidental
+207,Sora,Porzana carolina,
+208,Eurasian Moorhen,Gallinula chloropus,Rare/Accidental
+209,Common Gallinule,Gallinula galeata,
+210,Eurasian Coot,Fulica atra,
+211,Hawaiian Coot,Fulica alai,Endemic Vulnerable
+212,American Coot,Fulica americana,
+213,Purple Gallinule,Porphyrio martinica,
+214,Azure Gallinule,Porphyrio flavirostris,Rare/Accidental
+215,Western Swamphen,Porphyrio porphyrio,Introduced species (non established)
+216,Gray-headed Swamphen,Porphyrio poliocephalus,Introduced species (non established)
+217,Laysan Rail,Zapornia palmeri,Endemic Extinct
+218,Hawaiian Rail,Zapornia sandwichensis,Endemic Extinct
+219,Yellow Rail,Coturnicops noveboracensis,
+220,Black Rail,Laterallus jamaicensis,
+221,Sungrebe,Heliornis fulica,Rare/Accidental
+222,Limpkin,Aramus guarauna,
+223,Gray Crowned-Crane,Balearica regulorum,Introduced species Endangered
+224,Sandhill Crane,Antigone canadensis,
+225,Sarus Crane,Antigone antigone,Introduced species Vulnerable
+226,Common Crane,Grus grus,
+227,Hooded Crane,Grus monacha,Rare/Accidental Vulnerable
+228,Whooping Crane,Grus americana,Endangered
+229,Double-striped Thick-knee,Burhinus bistriatus,Rare/Accidental
+230,Black-winged Stilt,Himantopus himantopus,Rare/Accidental
+231,Black-necked Stilt,Himantopus mexicanus,
+232,American Avocet,Recurvirostra americana,
+233,Eurasian Oystercatcher,Haematopus ostralegus,Rare/Accidental
+234,American Oystercatcher,Haematopus palliatus,
+235,Black Oystercatcher,Haematopus bachmani,
+236,Black-bellied Plover,Pluvialis squatarola,
+237,European Golden-Plover,Pluvialis apricaria,Rare/Accidental
+238,American Golden-Plover,Pluvialis dominica,
+239,Pacific Golden-Plover,Pluvialis fulva,
+240,Northern Lapwing,Vanellus vanellus,Rare/Accidental Near-threatened
+241,Sociable Lapwing,Vanellus gregarius,Rare/Accidental Critically endangered
+242,Lesser Sand-Plover,Charadrius mongolus,
+243,Greater Sand-Plover,Charadrius leschenaultii,Rare/Accidental
+244,Collared Plover,Charadrius collaris,Rare/Accidental
+245,Snowy Plover,Charadrius nivosus,Near-threatened
+246,Wilson's Plover,Charadrius wilsonia,
+247,Common Ringed Plover,Charadrius hiaticula,
+248,Semipalmated Plover,Charadrius semipalmatus,
+249,Piping Plover,Charadrius melodus,Near-threatened
+250,Little Ringed Plover,Charadrius dubius,
+251,Killdeer,Charadrius vociferus,
+252,Mountain Plover,Charadrius montanus,Near-threatened
+253,Eurasian Dotterel,Charadrius morinellus,
+254,Northern Jacana,Jacana spinosa,
+255,Upland Sandpiper,Bartramia longicauda,
+256,Bristle-thighed Curlew,Numenius tahitiensis,Vulnerable
+257,Whimbrel,Numenius phaeopus,
+258,Little Curlew,Numenius minutus,
+259,Eskimo Curlew,Numenius borealis,Rare/Accidental Critically endangered (possibly extinct)
+260,Long-billed Curlew,Numenius americanus,
+261,Far Eastern Curlew,Numenius madagascariensis,Endangered
+262,Slender-billed Curlew,Numenius tenuirostris,Rare/Accidental Critically endangered
+263,Eurasian Curlew,Numenius arquata,Rare/Accidental Near-threatened
+264,Bar-tailed Godwit,Limosa lapponica,Near-threatened
+265,Black-tailed Godwit,Limosa limosa,Near-threatened
+266,Hudsonian Godwit,Limosa haemastica,
+267,Marbled Godwit,Limosa fedoa,
+268,Ruddy Turnstone,Arenaria interpres,
+269,Black Turnstone,Arenaria melanocephala,
+270,Great Knot,Calidris tenuirostris,Endangered
+271,Red Knot,Calidris canutus,Near-threatened
+272,Surfbird,Calidris virgata,
+273,Ruff,Calidris pugnax,
+274,Broad-billed Sandpiper,Calidris falcinellus,Rare/Accidental
+275,Sharp-tailed Sandpiper,Calidris acuminata,
+276,Stilt Sandpiper,Calidris himantopus,
+277,Curlew Sandpiper,Calidris ferruginea,Near-threatened
+278,Temminck's Stint,Calidris temminckii,Rare/Accidental
+279,Long-toed Stint,Calidris subminuta,
+280,Spoon-billed Sandpiper,Calidris pygmea,Critically endangered
+281,Red-necked Stint,Calidris ruficollis,Near-threatened
+282,Sanderling,Calidris alba,
+283,Dunlin,Calidris alpina,
+284,Rock Sandpiper,Calidris ptilocnemis,
+285,Purple Sandpiper,Calidris maritima,
+286,Baird's Sandpiper,Calidris bairdii,
+287,Little Stint,Calidris minuta,
+288,Least Sandpiper,Calidris minutilla,
+289,White-rumped Sandpiper,Calidris fuscicollis,
+290,Buff-breasted Sandpiper,Calidris subruficollis,Near-threatened
+291,Pectoral Sandpiper,Calidris melanotos,
+292,Semipalmated Sandpiper,Calidris pusilla,Near-threatened
+293,Western Sandpiper,Calidris mauri,
+294,Short-billed Dowitcher,Limnodromus griseus,
+295,Long-billed Dowitcher,Limnodromus scolopaceus,
+296,Jack Snipe,Lymnocryptes minimus,
+297,Eurasian Woodcock,Scolopax rusticola,Rare/Accidental
+298,American Woodcock,Scolopax minor,
+299,Solitary Snipe,Gallinago solitaria,Rare/Accidental
+300,Common Snipe,Gallinago gallinago,
+301,Wilson's Snipe,Gallinago delicata,
+302,Pin-tailed Snipe,Gallinago stenura,
+303,Terek Sandpiper,Xenus cinereus,
+304,Wilson's Phalarope,Phalaropus tricolor,
+305,Red-necked Phalarope,Phalaropus lobatus,
+306,Red Phalarope,Phalaropus fulicarius,
+307,Common Sandpiper,Actitis hypoleucos,
+308,Spotted Sandpiper,Actitis macularius,
+309,Green Sandpiper,Tringa ochropus,
+310,Solitary Sandpiper,Tringa solitaria,
+311,Gray-tailed Tattler,Tringa brevipes,Rare/Accidental Near-threatened
+312,Wandering Tattler,Tringa incana,
+313,Spotted Redshank,Tringa erythropus,
+314,Greater Yellowlegs,Tringa melanoleuca,
+315,Common Greenshank,Tringa nebularia,
+316,Willet,Tringa semipalmata,
+317,Lesser Yellowlegs,Tringa flavipes,
+318,Marsh Sandpiper,Tringa stagnatilis,
+319,Wood Sandpiper,Tringa glareola,
+320,Common Redshank,Tringa totanus,Rare/Accidental
+321,Oriental Pratincole,Glareola maldivarum,
+322,Great Skua,Stercorarius skua,
+323,South Polar Skua,Stercorarius maccormicki,
+324,Pomarine Jaeger,Stercorarius pomarinus,
+325,Parasitic Jaeger,Stercorarius parasiticus,
+326,Long-tailed Jaeger,Stercorarius longicaudus,
+327,Dovekie,Alle alle,
+328,Common Murre,Uria aalge,
+329,Thick-billed Murre,Uria lomvia,
+330,Razorbill,Alca torda,Near-threatened
+331,Great Auk,Pinguinus impennis,Extinct
+332,Black Guillemot,Cepphus grylle,
+333,Pigeon Guillemot,Cepphus columba,
+334,Long-billed Murrelet,Brachyramphus perdix,Rare/Accidental Near-threatened
+335,Marbled Murrelet,Brachyramphus marmoratus,Endangered
+336,Kittlitz's Murrelet,Brachyramphus brevirostris,Near-threatened
+337,Scripps's Murrelet,Synthliboramphus scrippsi,Vulnerable
+338,Guadalupe Murrelet,Synthliboramphus hypoleucus,Rare/Accidental Endangered
+339,Craveri's Murrelet,Synthliboramphus craveri,Vulnerable
+340,Ancient Murrelet,Synthliboramphus antiquus,
+341,Cassin's Auklet,Ptychoramphus aleuticus,Near-threatened
+342,Parakeet Auklet,Aethia psittacula,
+343,Least Auklet,Aethia pusilla,
+344,Whiskered Auklet,Aethia pygmaea,
+345,Crested Auklet,Aethia cristatella,
+346,Rhinoceros Auklet,Cerorhinca monocerata,
+347,Atlantic Puffin,Fratercula arctica,Vulnerable
+348,Horned Puffin,Fratercula corniculata,
+349,Tufted Puffin,Fratercula cirrhata,
+350,Swallow-tailed Gull,Creagrus furcatus,Rare/Accidental
+351,Black-legged Kittiwake,Rissa tridactyla,Vulnerable
+352,Red-legged Kittiwake,Rissa brevirostris,Vulnerable
+353,Ivory Gull,Pagophila eburnea,Near-threatened
+354,Sabine's Gull,Xema sabini,
+355,Bonaparte's Gull,Chroicocephalus philadelphia,
+356,Black-headed Gull,Chroicocephalus ridibundus,
+357,Little Gull,Hydrocoloeus minutus,
+358,Ross's Gull,Rhodostethia rosea,
+359,Laughing Gull,Leucophaeus atricilla,
+360,Franklin's Gull,Leucophaeus pipixcan,
+361,Belcher's Gull,Larus belcheri,Rare/Accidental
+362,Black-tailed Gull,Larus crassirostris,
+363,Heermann's Gull,Larus heermanni,Near-threatened
+364,Mew Gull,Larus canus,
+365,Ring-billed Gull,Larus delawarensis,
+366,Western Gull,Larus occidentalis,
+367,Yellow-footed Gull,Larus livens,
+368,California Gull,Larus californicus,
+369,Herring Gull,Larus argentatus,
+370,Yellow-legged Gull,Larus michahellis,Rare/Accidental
+371,Iceland Gull,Larus glaucoides,
+372,Lesser Black-backed Gull,Larus fuscus,
+373,Slaty-backed Gull,Larus schistisagus,
+374,Glaucous-winged Gull,Larus glaucescens,
+375,Glaucous Gull,Larus hyperboreus,
+376,Great Black-backed Gull,Larus marinus,
+377,Kelp Gull,Larus dominicanus,Rare/Accidental
+378,Brown Noddy,Anous stolidus,
+379,Black Noddy,Anous minutus,
+380,Blue-gray Noddy,Anous ceruleus,
+381,White Tern,Gygis alba,
+382,Sooty Tern,Onychoprion fuscatus,
+383,Gray-backed Tern,Onychoprion lunatus,
+384,Bridled Tern,Onychoprion anaethetus,
+385,Aleutian Tern,Onychoprion aleuticus,Vulnerable
+386,Little Tern,Sternula albifrons,Rare/Accidental
+387,Least Tern,Sternula antillarum,
+388,Large-billed Tern,Phaetusa simplex,Rare/Accidental
+389,Gull-billed Tern,Gelochelidon nilotica,
+390,Caspian Tern,Hydroprogne caspia,
+391,Black Tern,Chlidonias niger,
+392,White-winged Tern,Chlidonias leucopterus,
+393,Whiskered Tern,Chlidonias hybrida,Rare/Accidental
+394,Roseate Tern,Sterna dougallii,
+395,Common Tern,Sterna hirundo,
+396,Arctic Tern,Sterna paradisaea,
+397,Forster's Tern,Sterna forsteri,
+398,Royal Tern,Thalasseus maximus,
+399,Great Crested Tern,Thalasseus bergii,
+400,Sandwich Tern,Thalasseus sandvicensis,
+401,Elegant Tern,Thalasseus elegans,Near-threatened
+402,Black Skimmer,Rynchops niger,
+403,White-tailed Tropicbird,Phaethon lepturus,
+404,Red-billed Tropicbird,Phaethon aethereus,
+405,Red-tailed Tropicbird,Phaethon rubricauda,
+406,Red-throated Loon,Gavia stellata,
+407,Arctic Loon,Gavia arctica,
+408,Pacific Loon,Gavia pacifica,
+409,Common Loon,Gavia immer,
+410,Yellow-billed Loon,Gavia adamsii,Near-threatened
+411,Yellow-nosed Albatross,Thalassarche chlororhynchos,Rare/Accidental
+412,White-capped Albatross,Thalassarche cauta,Rare/Accidental
+413,Salvin's Albatross,Thalassarche salvini,Rare/Accidental Vulnerable
+414,Chatham Albatross,Thalassarche eremita,Rare/Accidental Vulnerable
+415,Black-browed Albatross,Thalassarche melanophris,Rare/Accidental
+416,Light-mantled Albatross,Phoebetria palpebrata,Rare/Accidental Near-threatened
+417,Wandering Albatross,Diomedea exulans,Rare/Accidental
+418,Laysan Albatross,Phoebastria immutabilis,Near-threatened
+419,Black-footed Albatross,Phoebastria nigripes,Near-threatened
+420,Short-tailed Albatross,Phoebastria albatrus,Vulnerable
+421,Wilson's Storm-Petrel,Oceanites oceanicus,
+422,White-faced Storm-Petrel,Pelagodroma marina,
+423,European Storm-Petrel,Hydrobates pelagicus,Rare/Accidental
+424,Fork-tailed Storm-Petrel,Oceanodroma furcata,
+425,Ringed Storm-Petrel,Oceanodroma hornbyi,Rare/Accidental Data deficient
+426,Leach's Storm-Petrel,Oceanodroma leucorhoa,
+427,Townsend's Storm-Petrel,Oceanodroma socorroensis,
+428,Ainley's Storm-Petrel,Oceanodroma cheimomnestes,
+429,Swinhoe's Storm-Petrel,Oceanodroma monorhis,Rare/Accidental Near-threatened
+430,Ashy Storm-Petrel,Oceanodroma homochroa,Endangered
+431,Band-rumped Storm-Petrel,Oceanodroma castro,
+432,Wedge-rumped Storm-Petrel,Oceanodroma tethys,Rare/Accidental
+433,Black Storm-Petrel,Oceanodroma melania,
+434,Tristram's Storm-Petrel,Oceanodroma tristrami,Near-threatened
+435,Least Storm-Petrel,Oceanodroma microsoma,
+436,Southern Giant-Petrel,Macronectes giganteus,
+437,Northern Fulmar,Fulmarus glacialis,
+438,Gray-faced Petrel,Pterodroma gouldi,Rare/Accidental
+439,Kermadec Petrel,Pterodroma neglecta,
+440,Trindade Petrel,Pterodroma arminjoniana,Vulnerable
+441,Herald Petrel,Pterodroma heraldica,Rare/Accidental
+442,Murphy's Petrel,Pterodroma ultima,Near-threatened
+443,Providence Petrel,Pterodroma solandri,Rare/Accidental Vulnerable
+444,Zino's Petrel,Pterodroma madeira,Rare/Accidental Endangered
+445,Fea's Petrel,Pterodroma feae,Rare/Accidental
+446,Mottled Petrel,Pterodroma inexpectata,Near-threatened
+447,Bermuda Petrel,Pterodroma cahow,Rare/Accidental Endangered
+448,Black-capped Petrel,Pterodroma hasitata,
+449,Juan Fernandez Petrel,Pterodroma externa,Vulnerable
+450,Hawaiian Petrel,Pterodroma sandwichensis,Vulnerable
+451,White-necked Petrel,Pterodroma cervicalis,
+452,Bonin Petrel,Pterodroma hypoleuca,
+453,Black-winged Petrel,Pterodroma nigripennis,
+454,Cook's Petrel,Pterodroma cookii,Vulnerable
+455,Stejneger's Petrel,Pterodroma longirostris,Vulnerable
+456,Phoenix Petrel,Pterodroma alba,Endangered
+457,Bulwer's Petrel,Bulweria bulwerii,
+458,Jouanin's Petrel,Bulweria fallax,Near-threatened
+459,Tahiti Petrel,Pseudobulweria rostrata,Rare/Accidental Near-threatened
+460,Parkinson's Petrel,Procellaria parkinsoni,Vulnerable
+461,Streaked Shearwater,Calonectris leucomelas,Near-threatened
+462,Cory's Shearwater,Calonectris diomedea,
+463,Cape Verde Shearwater,Calonectris edwardsii,Rare/Accidental Near-threatened
+464,Pink-footed Shearwater,Ardenna creatopus,Vulnerable
+465,Flesh-footed Shearwater,Ardenna carneipes,Near-threatened
+466,Great Shearwater,Ardenna gravis,
+467,Wedge-tailed Shearwater,Ardenna pacifica,
+468,Buller's Shearwater,Ardenna bulleri,Vulnerable
+469,Sooty Shearwater,Ardenna grisea,Near-threatened
+470,Short-tailed Shearwater,Ardenna tenuirostris,
+471,Christmas Shearwater,Puffinus nativitatis,
+472,Manx Shearwater,Puffinus puffinus,
+473,Newell's Shearwater,Puffinus newelli,
+474,Bryan's Shearwater,Puffinus bryani,Rare/Accidental Critically endangered
+475,Black-vented Shearwater,Puffinus opisthomelas,Near-threatened
+476,Barolo Shearwater,Puffinus baroli,Rare/Accidental
+477,Audubon's Shearwater,Puffinus lherminieri,
+478,Jabiru,Jabiru mycteria,Rare/Accidental
+479,Wood Stork,Mycteria americana,
+480,Lesser Frigatebird,Fregata ariel,Rare/Accidental
+481,Magnificent Frigatebird,Fregata magnificens,
+482,Great Frigatebird,Fregata minor,
+483,Masked Booby,Sula dactylatra,
+484,Nazca Booby,Sula granti,Rare/Accidental
+485,Blue-footed Booby,Sula nebouxii,Rare/Accidental
+486,Brown Booby,Sula leucogaster,
+487,Red-footed Booby,Sula sula,
+488,Northern Gannet,Morus bassanus,
+489,Anhinga,Anhinga anhinga,
+490,Brandt's Cormorant,Phalacrocorax penicillatus,
+491,Red-faced Cormorant,Phalacrocorax urile,
+492,Pelagic Cormorant,Phalacrocorax pelagicus,
+493,Great Cormorant,Phalacrocorax carbo,
+494,Neotropic Cormorant,Phalacrocorax brasilianus,
+495,Double-crested Cormorant,Phalacrocorax auritus,
+496,American White Pelican,Pelecanus erythrorhynchos,
+497,Brown Pelican,Pelecanus occidentalis,
+498,American Bittern,Botaurus lentiginosus,
+499,Great Bittern,Botaurus stellaris,Rare/Accidental
+500,Yellow Bittern,Ixobrychus sinensis,
+501,Least Bittern,Ixobrychus exilis,
+502,Bare-throated Tiger-Heron,Tigrisoma mexicanum,Rare/Accidental
+503,Great Blue Heron,Ardea herodias,
+504,Gray Heron,Ardea cinerea,Rare/Accidental
+505,Great Egret,Ardea alba,
+506,Intermediate Egret,Ardea intermedia,Rare/Accidental
+507,Chinese Egret,Egretta eulophotes,Vulnerable
+508,Little Egret,Egretta garzetta,Rare/Accidental
+509,Western Reef-Heron,Egretta gularis,Rare/Accidental
+510,Snowy Egret,Egretta thula,
+511,Little Blue Heron,Egretta caerulea,
+512,Tricolored Heron,Egretta tricolor,
+513,Reddish Egret,Egretta rufescens,Near-threatened
+514,Cattle Egret,Bubulcus ibis,
+515,Chinese Pond-Heron,Ardeola bacchus,Rare/Accidental
+516,Green Heron,Butorides virescens,
+517,Striated Heron,Butorides striata,Rare/Accidental
+518,Black-crowned Night-Heron,Nycticorax nycticorax,
+519,Yellow-crowned Night-Heron,Nyctanassa violacea,
+520,White Ibis,Eudocimus albus,
+521,Scarlet Ibis,Eudocimus ruber,Rare/Accidental
+522,Glossy Ibis,Plegadis falcinellus,
+523,White-faced Ibis,Plegadis chihi,
+524,Sacred Ibis,Threskiornis aethiopicus,Introduced species
+525,Roseate Spoonbill,Platalea ajaja,
+526,California Condor,Gymnogyps californianus,Critically endangered
+527,Black Vulture,Coragyps atratus,
+528,Turkey Vulture,Cathartes aura,
+529,Osprey,Pandion haliaetus,
+530,White-tailed Kite,Elanus leucurus,
+531,Hook-billed Kite,Chondrohierax uncinatus,
+532,Swallow-tailed Kite,Elanoides forficatus,
+533,Golden Eagle,Aquila chrysaetos,
+534,Snail Kite,Rostrhamus sociabilis,
+535,Double-toothed Kite,Harpagus bidentatus,Rare/Accidental
+536,Mississippi Kite,Ictinia mississippiensis,
+537,Eurasian Marsh-Harrier,Circus aeruginosus,Rare/Accidental
+538,Hen Harrier,Circus cyaneus,Rare/Accidental
+539,Northern Harrier,Circus hudsonius,
+540,Chinese Sparrowhawk,Accipiter soloensis,Rare/Accidental
+541,Eurasian Sparrowhawk,Accipiter nisus,Rare/Accidental
+542,Sharp-shinned Hawk,Accipiter striatus,
+543,Cooper's Hawk,Accipiter cooperii,
+544,Northern Goshawk,Accipiter gentilis,
+545,Black Kite,Milvus migrans,Rare/Accidental
+546,Bald Eagle,Haliaeetus leucocephalus,
+547,White-tailed Eagle,Haliaeetus albicilla,
+548,Steller's Sea-Eagle,Haliaeetus pelagicus,Rare/Accidental Vulnerable
+549,Crane Hawk,Geranospiza caerulescens,Rare/Accidental
+550,Common Black Hawk,Buteogallus anthracinus,
+551,Great Black Hawk,Buteogallus urubitinga,Rare/Accidental
+552,Roadside Hawk,Rupornis magnirostris,Rare/Accidental
+553,Harris's Hawk,Parabuteo unicinctus,
+554,White-tailed Hawk,Geranoaetus albicaudatus,
+555,Variable Hawk,Geranoaetus polyosoma,Rare/Accidental
+556,Gray Hawk,Buteo plagiatus,
+557,Gray-lined Hawk,Buteo nitidus,
+558,Red-shouldered Hawk,Buteo lineatus,
+559,Broad-winged Hawk,Buteo platypterus,
+560,Hawaiian Hawk,Buteo solitarius,Near-threatened
+561,Short-tailed Hawk,Buteo brachyurus,
+562,Swainson's Hawk,Buteo swainsoni,
+563,Zone-tailed Hawk,Buteo albonotatus,
+564,Red-tailed Hawk,Buteo jamaicensis,
+565,Rough-legged Hawk,Buteo lagopus,
+566,Ferruginous Hawk,Buteo regalis,
+567,Common Buzzard,Buteo buteo,Rare/Accidental
+568,Eastern Buzzard,Buteo japonicus,
+569,Long-legged Buzzard,Buteo rufinus,Rare/Accidental
+570,Barn Owl,Tyto alba,
+571,Oriental Scops-Owl,Otus sunia,
+572,Flammulated Owl,Psiloscops flammeolus,
+573,Whiskered Screech-Owl,Megascops trichopsis,
+574,Western Screech-Owl,Megascops kennicottii,
+575,Eastern Screech-Owl,Megascops asio,
+576,Spectacled Owl,Pulsatrix perspicillata,Introduced species
+577,Great Horned Owl,Bubo virginianus,
+578,Snowy Owl,Bubo scandiacus,Vulnerable
+579,Northern Hawk Owl,Surnia ulula,
+580,Northern Pygmy-Owl,Glaucidium gnoma,
+581,Ferruginous Pygmy-Owl,Glaucidium brasilianum,
+582,Elf Owl,Micrathene whitneyi,
+583,Burrowing Owl,Athene cunicularia,
+584,Mottled Owl,Ciccaba virgata,Rare/Accidental
+585,Spotted Owl,Strix occidentalis,Near-threatened
+586,Barred Owl,Strix varia,
+587,Great Gray Owl,Strix nebulosa,
+588,Long-eared Owl,Asio otus,
+589,Stygian Owl,Asio stygius,Rare/Accidental
+590,Short-eared Owl,Asio flammeus,
+591,Boreal Owl,Aegolius funereus,
+592,Northern Saw-whet Owl,Aegolius acadicus,
+593,Northern Boobook,Ninox japonica,Rare/Accidental
+594,Eared Quetzal,Euptilotis neoxenus,Rare/Accidental
+595,Elegant Trogon,Trogon elegans,
+596,Eurasian Hoopoe,Upupa epops,
+597,Ringed Kingfisher,Megaceryle torquata,
+598,Belted Kingfisher,Megaceryle alcyon,
+599,Amazon Kingfisher,Chloroceryle amazona,Rare/Accidental
+600,Green Kingfisher,Chloroceryle americana,
+601,Eurasian Wryneck,Jynx torquilla,
+602,Williamson's Sapsucker,Sphyrapicus thyroideus,
+603,Yellow-bellied Sapsucker,Sphyrapicus varius,
+604,Red-naped Sapsucker,Sphyrapicus nuchalis,
+605,Red-breasted Sapsucker,Sphyrapicus ruber,
+606,Lewis's Woodpecker,Melanerpes lewis,
+607,Red-headed Woodpecker,Melanerpes erythrocephalus,Near-threatened
+608,Acorn Woodpecker,Melanerpes formicivorus,
+609,Gila Woodpecker,Melanerpes uropygialis,
+610,Golden-fronted Woodpecker,Melanerpes aurifrons,
+611,Red-bellied Woodpecker,Melanerpes carolinus,
+612,American Three-toed Woodpecker,Picoides dorsalis,
+613,Black-backed Woodpecker,Picoides arcticus,
+614,Great Spotted Woodpecker,Dendrocopos major,Rare/Accidental
+615,Downy Woodpecker,Dryobates pubescens,
+616,Nuttall's Woodpecker,Dryobates nuttallii,
+617,Ladder-backed Woodpecker,Dryobates scalaris,
+618,Red-cockaded Woodpecker,Dryobates borealis,Near-threatened
+619,Hairy Woodpecker,Dryobates villosus,
+620,White-headed Woodpecker,Dryobates albolarvatus,
+621,Arizona Woodpecker,Dryobates arizonae,
+622,Ivory-billed Woodpecker,Campephilus principalis,Critically endangered (possibly extinct)
+623,Pileated Woodpecker,Dryocopus pileatus,
+624,Northern Flicker,Colaptes auratus,
+625,Gilded Flicker,Colaptes chrysoides,
+626,Collared Forest-Falcon,Micrastur semitorquatus,Rare/Accidental
+627,Crested Caracara,Caracara cheriway,
+628,Eurasian Kestrel,Falco tinnunculus,
+629,American Kestrel,Falco sparverius,
+630,Red-footed Falcon,Falco vespertinus,Rare/Accidental Near-threatened
+631,Merlin,Falco columbarius,
+632,Eurasian Hobby,Falco subbuteo,
+633,Aplomado Falcon,Falco femoralis,
+634,Gyrfalcon,Falco rusticolus,
+635,Peregrine Falcon,Falco peregrinus,
+636,Prairie Falcon,Falco mexicanus,
+637,Galah,Eolophus roseicapilla,Introduced species
+638,Tanimbar Corella,Cacatua goffiniana,Introduced species Near-threatened
+639,Sulphur-crested Cockatoo,Cacatua galerita,Introduced species
+640,Salmon-crested Cockatoo,Cacatua moluccensis,Introduced species Vulnerable
+641,Eclectus Parrot,Eclectus roratus,Introduced species
+642,Alexandrine Parakeet,Psittacula eupatria,Introduced species Near-threatened
+643,Rose-ringed Parakeet,Psittacula krameri,Introduced species (non established)
+644,Plum-headed Parakeet,Psittacula cyanocephala,Introduced species
+645,Blossom-headed Parakeet,Psittacula roseata,Introduced species Near-threatened
+646,Pale-headed Rosella,Platycercus adscitus,Introduced species (non established)
+647,Budgerigar,Melopsittacus undulatus,Introduced species
+648,Chattering Lory,Lorius garrulus,Introduced species Vulnerable
+649,Rainbow Lorikeet,Trichoglossus haematodus,Introduced species
+650,Scaly-breasted Lorikeet,Trichoglossus chlorolepidotus,Introduced species
+651,Rosy-faced Lovebird,Agapornis roseicollis,Introduced species
+652,Fischer's Lovebird,Agapornis fischeri,Introduced species Near-threatened
+653,Yellow-collared Lovebird,Agapornis personatus,Introduced species
+654,Gray Parrot,Psittacus erithacus,Introduced species
+655,Rüppell's Parrot,Poicephalus rueppellii,Introduced species
+656,Senegal Parrot,Poicephalus senegalus,Introduced species
+657,Monk Parakeet,Myiopsitta monachus,Introduced species
+658,Tui Parakeet,Brotogeris sanctithomae,Introduced species
+659,White-winged Parakeet,Brotogeris versicolurus,Introduced species
+660,Yellow-chevroned Parakeet,Brotogeris chiriri,Introduced species (non established)
+661,Orange-chinned Parakeet,Brotogeris jugularis,Introduced species
+662,White-crowned Parrot,Pionus senilis,Introduced species
+663,Festive Parrot,Amazona festiva,Introduced species
+664,Red-spectacled Parrot,Amazona pretrei,Introduced species Vulnerable
+665,Red-crowned Parrot,Amazona viridigenalis,Introduced species Endangered
+666,Lilac-crowned Parrot,Amazona finschi,Introduced species (non established) Endangered
+667,Red-lored Parrot,Amazona autumnalis,Introduced species
+668,Yellow-naped Parrot,Amazona auropalliata,Introduced species Endangered
+669,Yellow-headed Parrot,Amazona oratrix,Extirpated Endangered
+670,Yellow-shouldered Parrot,Amazona barbadensis,Introduced species Vulnerable
+671,Turquoise-fronted Parrot,Amazona aestiva,Introduced species
+672,White-fronted Parrot,Amazona albifrons,Introduced species
+673,Hispaniolan Parrot,Amazona ventralis,Introduced species Vulnerable
+674,Mealy Parrot,Amazona farinosa,Introduced species
+675,Orange-winged Parrot,Amazona amazonica,Introduced species
+676,Maroon-bellied Parakeet,Pyrrhura frontalis,Introduced species
+677,Green-cheeked Parakeet,Pyrrhura molinae,Introduced species
+678,Burrowing Parakeet,Cyanoliseus patagonus,Introduced species
+679,Hyacinth Macaw,Anodorhynchus hyacinthinus,Introduced species Vulnerable
+680,Thick-billed Parrot,Rhynchopsitta pachyrhyncha,Rare/Accidental Endangered
+681,Maroon-fronted Parrot,Rhynchopsitta terrisi,Introduced species Endangered
+682,Orange-fronted Parakeet,Eupsittula canicularis,Introduced species
+683,Peach-fronted Parakeet,Eupsittula aurea,Introduced species
+684,Brown-throated Parakeet,Eupsittula pertinax,Introduced species
+685,Carolina Parakeet,Conuropsis carolinensis,Extinct
+686,Dusky-headed Parakeet,Aratinga weddellii,Introduced species
+687,Nanday Parakeet,Aratinga nenday,Introduced species
+688,Yellow-collared Macaw,Primolius auricollis,Introduced species
+689,Blue-and-yellow Macaw,Ara ararauna,Introduced species
+690,Military Macaw,Ara militaris,Introduced species Vulnerable
+691,Scarlet Macaw,Ara macao,Introduced species
+692,Chestnut-fronted Macaw,Ara severus,Introduced species
+693,Blue-crowned Parakeet,Thectocercus acuticaudatus,Introduced species
+694,Red-shouldered Macaw,Diopsittaca nobilis,Introduced species
+695,Crimson-fronted Parakeet,Psittacara finschi,Introduced species
+696,Scarlet-fronted Parakeet,Psittacara wagleri,Introduced species
+697,Mitred Parakeet,Psittacara mitratus,Introduced species (non established)
+698,Red-masked Parakeet,Psittacara erythrogenys,Introduced species Near-threatened
+699,White-eyed Parakeet,Psittacara leucophthalmus,Introduced species
+700,Hispaniolan Parakeet,Psittacara chloropterus,
+701,Barred Antshrike,Thamnophilus doliatus,Rare/Accidental
+702,Northern Beardless-Tyrannulet,Camptostoma imberbe,
+703,Greenish Elaenia,Myiopagis viridicata,Rare/Accidental
+704,Caribbean Elaenia,Elaenia martinica,Rare/Accidental
+705,White-crested Elaenia,Elaenia albiceps,Rare/Accidental
+706,Tufted Flycatcher,Mitrephanes phaeocercus,Rare/Accidental
+707,Olive-sided Flycatcher,Contopus cooperi,Near-threatened
+708,Greater Pewee,Contopus pertinax,
+709,Western Wood-Pewee,Contopus sordidulus,
+710,Eastern Wood-Pewee,Contopus virens,
+711,Cuban Pewee,Contopus caribaeus,Rare/Accidental
+712,Yellow-bellied Flycatcher,Empidonax flaviventris,
+713,Acadian Flycatcher,Empidonax virescens,
+714,Alder Flycatcher,Empidonax alnorum,
+715,Willow Flycatcher,Empidonax traillii,
+716,Least Flycatcher,Empidonax minimus,
+717,Hammond's Flycatcher,Empidonax hammondii,
+718,Gray Flycatcher,Empidonax wrightii,
+719,Dusky Flycatcher,Empidonax oberholseri,
+720,Pacific-slope Flycatcher,Empidonax difficilis,
+721,Cordilleran Flycatcher,Empidonax occidentalis,
+722,Buff-breasted Flycatcher,Empidonax fulvifrons,
+723,Black Phoebe,Sayornis nigricans,
+724,Eastern Phoebe,Sayornis phoebe,
+725,Say's Phoebe,Sayornis saya,
+726,Vermilion Flycatcher,Pyrocephalus rubinus,
+727,Dusky-capped Flycatcher,Myiarchus tuberculifer,
+728,Ash-throated Flycatcher,Myiarchus cinerascens,
+729,Nutting's Flycatcher,Myiarchus nuttingi,Rare/Accidental
+730,Great Crested Flycatcher,Myiarchus crinitus,
+731,Brown-crested Flycatcher,Myiarchus tyrannulus,
+732,La Sagra's Flycatcher,Myiarchus sagrae,Rare/Accidental
+733,Great Kiskadee,Pitangus sulphuratus,
+734,Social Flycatcher,Myiozetetes similis,Rare/Accidental
+735,Sulphur-bellied Flycatcher,Myiodynastes luteiventris,
+736,Piratic Flycatcher,Legatus leucophaius,
+737,Variegated Flycatcher,Empidonomus varius,Rare/Accidental
+738,Crowned Slaty Flycatcher,Empidonomus aurantioatrocristatus,Rare/Accidental
+739,Tropical Kingbird,Tyrannus melancholicus,
+740,Couch's Kingbird,Tyrannus couchii,
+741,Cassin's Kingbird,Tyrannus vociferans,
+742,Thick-billed Kingbird,Tyrannus crassirostris,
+743,Western Kingbird,Tyrannus verticalis,
+744,Eastern Kingbird,Tyrannus tyrannus,
+745,Gray Kingbird,Tyrannus dominicensis,
+746,Loggerhead Kingbird,Tyrannus caudifasciatus,Rare/Accidental
+747,Scissor-tailed Flycatcher,Tyrannus forficatus,
+748,Fork-tailed Flycatcher,Tyrannus savana,Rare/Accidental
+749,Masked Tityra,Tityra semifasciata,Rare/Accidental
+750,Gray-collared Becard,Pachyramphus major,Rare/Accidental
+751,Rose-throated Becard,Pachyramphus aglaiae,
+752,Red-backed Shrike,Lanius collurio,Rare/Accidental
+753,Brown Shrike,Lanius cristatus,
+754,Loggerhead Shrike,Lanius ludovicianus,Near-threatened
+755,Northern Shrike,Lanius borealis,
+756,Black-capped Vireo,Vireo atricapilla,Vulnerable
+757,White-eyed Vireo,Vireo griseus,
+758,Thick-billed Vireo,Vireo crassirostris,Rare/Accidental
+759,Cuban Vireo,Vireo gundlachii,Rare/Accidental
+760,Bell's Vireo,Vireo bellii,Near-threatened
+761,Gray Vireo,Vireo vicinior,
+762,Hutton's Vireo,Vireo huttoni,
+763,Yellow-throated Vireo,Vireo flavifrons,
+764,Cassin's Vireo,Vireo cassinii,
+765,Blue-headed Vireo,Vireo solitarius,
+766,Plumbeous Vireo,Vireo plumbeus,
+767,Philadelphia Vireo,Vireo philadelphicus,
+768,Warbling Vireo,Vireo gilvus,
+769,Red-eyed Vireo,Vireo olivaceus,
+770,Yellow-green Vireo,Vireo flavoviridis,
+771,Black-whiskered Vireo,Vireo altiloquus,
+772,Yucatan Vireo,Vireo magister,Rare/Accidental
+773,Hawaii Elepaio,Chasiempis sandwichensis,Vulnerable
+774,Kauai Elepaio,Chasiempis sclateri,Endemic Vulnerable
+775,Oahu Elepaio,Chasiempis ibidis,Endemic Endangered
+776,Canada Jay,Perisoreus canadensis,
+777,Black-throated Magpie-Jay,Calocitta colliei,Introduced species (non established)
+778,Brown Jay,Psilorhinus morio,
+779,Green Jay,Cyanocorax yncas,
+780,Azure Jay,Cyanocorax caeruleus,Introduced species Near-threatened
+781,Pinyon Jay,Gymnorhinus cyanocephalus,Vulnerable
+782,Steller's Jay,Cyanocitta stelleri,
+783,Blue Jay,Cyanocitta cristata,
+784,Florida Scrub-Jay,Aphelocoma coerulescens,Vulnerable
+785,Island Scrub-Jay,Aphelocoma insularis,
+786,California Scrub-Jay,Aphelocoma californica,
+787,Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,
+788,Mexican Jay,Aphelocoma wollweberi,
+789,Black-billed Magpie,Pica hudsonia,
+790,Yellow-billed Magpie,Pica nuttalli,Near-threatened
+791,Clark's Nutcracker,Nucifraga columbiana,
+792,Eurasian Jackdaw,Corvus monedula,Rare/Accidental
+793,American Crow,Corvus brachyrhynchos,
+794,Northwestern Crow,Corvus caurinus,
+795,Tamaulipas Crow,Corvus imparatus,Rare/Accidental
+796,Fish Crow,Corvus ossifragus,
+797,Hawaiian Crow,Corvus hawaiiensis,Extinct in the wild
+798,Chihuahuan Raven,Corvus cryptoleucus,
+799,Common Raven,Corvus corax,
+800,Horned Lark,Eremophila alpestris,
+801,Eurasian Skylark,Alauda arvensis,
+802,Northern Rough-winged Swallow,Stelgidopteryx serripennis,
+803,Purple Martin,Progne subis,
+804,Cuban Martin,Progne cryptoleuca,Rare/Accidental
+805,Gray-breasted Martin,Progne chalybea,Rare/Accidental
+806,Southern Martin,Progne elegans,
+807,Brown-chested Martin,Progne tapera,Rare/Accidental
+808,Tree Swallow,Tachycineta bicolor,
+809,Mangrove Swallow,Tachycineta albilinea,Rare/Accidental
+810,Violet-green Swallow,Tachycineta thalassina,
+811,Bahama Swallow,Tachycineta cyaneoviridis,Rare/Accidental Endangered
+812,Bank Swallow,Riparia riparia,
+813,Barn Swallow,Hirundo rustica,
+814,Cliff Swallow,Petrochelidon pyrrhonota,
+815,Cave Swallow,Petrochelidon fulva,
+816,Common House-Martin,Delichon urbicum,
+817,Varied Tit,Sittiparus varius,Extirpated
+818,Carolina Chickadee,Poecile carolinensis,
+819,Black-capped Chickadee,Poecile atricapillus,
+820,Mountain Chickadee,Poecile gambeli,
+821,Mexican Chickadee,Poecile sclateri,
+822,Chestnut-backed Chickadee,Poecile rufescens,
+823,Boreal Chickadee,Poecile hudsonicus,
+824,Gray-headed Chickadee,Poecile cinctus,
+825,Bridled Titmouse,Baeolophus wollweberi,
+826,Oak Titmouse,Baeolophus inornatus,
+827,Juniper Titmouse,Baeolophus ridgwayi,
+828,Tufted Titmouse,Baeolophus bicolor,
+829,Black-crested Titmouse,Baeolophus atricristatus,
+830,Japanese Tit,Parus minor,
+831,Verdin,Auriparus flaviceps,
+832,Bushtit,Psaltriparus minimus,
+833,Red-breasted Nuthatch,Sitta canadensis,
+834,White-breasted Nuthatch,Sitta carolinensis,
+835,Pygmy Nuthatch,Sitta pygmaea,
+836,Brown-headed Nuthatch,Sitta pusilla,
+837,Brown Creeper,Certhia americana,
+838,Rock Wren,Salpinctes obsoletus,
+839,Canyon Wren,Catherpes mexicanus,
+840,House Wren,Troglodytes aedon,
+841,Eurasian Wren,Troglodytes troglodytes,
+842,Pacific Wren,Troglodytes pacificus,
+843,Winter Wren,Troglodytes hiemalis,
+844,Sedge Wren,Cistothorus platensis,
+845,Marsh Wren,Cistothorus palustris,
+846,Carolina Wren,Thryothorus ludovicianus,
+847,Bewick's Wren,Thryomanes bewickii,
+848,Cactus Wren,Campylorhynchus brunneicapillus,
+849,Sinaloa Wren,Thryophilus sinaloa,Rare/Accidental
+850,Blue-gray Gnatcatcher,Polioptila caerulea,
+851,California Gnatcatcher,Polioptila californica,
+852,Black-tailed Gnatcatcher,Polioptila melanura,
+853,Black-capped Gnatcatcher,Polioptila nigriceps,
+854,American Dipper,Cinclus mexicanus,
+855,Red-vented Bulbul,Pycnonotus cafer,Introduced species
+856,Red-whiskered Bulbul,Pycnonotus jocosus,Introduced species
+857,Golden-crowned Kinglet,Regulus satrapa,
+858,Ruby-crowned Kinglet,Regulus calendula,
+859,Japanese Bush Warbler,Horornis diphone,Introduced species
+860,Wood Warbler,Phylloscopus sibilatrix,
+861,Yellow-browed Warbler,Phylloscopus inornatus,Rare/Accidental
+862,Pallas's Leaf Warbler,Phylloscopus proregulus,Rare/Accidental
+863,Dusky Warbler,Phylloscopus fuscatus,Rare/Accidental
+864,Willow Warbler,Phylloscopus trochilus,Rare/Accidental
+865,Common Chiffchaff,Phylloscopus collybita,Rare/Accidental
+866,Arctic Warbler,Phylloscopus borealis,
+867,Kamchatka Leaf Warbler,Phylloscopus examinandus,Rare/Accidental
+868,Thick-billed Warbler,Arundinax aedon,Rare/Accidental
+869,Sedge Warbler,Acrocephalus schoenobaenus,Rare/Accidental
+870,Blyth's Reed Warbler,Acrocephalus dumetorum,Rare/Accidental
+871,Millerbird,Acrocephalus familiaris,Critically endangered
+872,Middendorff's Grasshopper-Warbler,Locustella ochotensis,
+873,Lanceolated Warbler,Locustella lanceolata,
+874,Eurasian River Warbler,Locustella fluviatilis,Rare/Accidental
+875,Lesser Whitethroat,Sylvia curruca,Rare/Accidental
+876,Wrentit,Chamaea fasciata,
+877,Japanese White-eye,Zosterops japonicus,Introduced species
+878,Chinese Hwamei,Garrulax canorus,Introduced species
+879,Gray-sided Laughingthrush,Ianthocincla caerulata,Extirpated
+880,Red-billed Leiothrix,Leiothrix lutea,Introduced species
+881,Gray-streaked Flycatcher,Muscicapa griseisticta,
+882,Dark-sided Flycatcher,Muscicapa sibirica,
+883,Asian Brown Flycatcher,Muscicapa dauurica,
+884,Spotted Flycatcher,Muscicapa striata,Rare/Accidental
+885,White-rumped Shama,Copsychus malabaricus,Introduced species
+886,European Robin,Erithacus rubecula,Rare/Accidental
+887,Rufous-tailed Robin,Larvivora sibilans,Rare/Accidental
+888,Siberian Blue Robin,Larvivora cyane,
+889,Bluethroat,Luscinia svecica,
+890,Siberian Rubythroat,Calliope calliope,
+891,Red-flanked Bluetail,Tarsiger cyanurus,
+892,Narcissus Flycatcher,Ficedula narcissina,
+893,Mugimaki Flycatcher,Ficedula mugimaki,Rare/Accidental
+894,Taiga Flycatcher,Ficedula albicilla,
+895,Common Redstart,Phoenicurus phoenicurus,Rare/Accidental
+896,Blue Rock-Thrush,Monticola solitarius,
+897,Siberian Stonechat,Saxicola maurus,Rare/Accidental
+898,Northern Wheatear,Oenanthe oenanthe,
+899,Pied Wheatear,Oenanthe pleschanka,Rare/Accidental
+900,Eastern Bluebird,Sialia sialis,
+901,Western Bluebird,Sialia mexicana,
+902,Mountain Bluebird,Sialia currucoides,
+903,Townsend's Solitaire,Myadestes townsendi,
+904,Kamao,Myadestes myadestinus,Extinct
+905,Amaui,Myadestes woahensis,Endemic Extinct
+906,Olomao,Myadestes lanaiensis,Critically endangered (possibly extinct)
+907,Omao,Myadestes obscurus,Vulnerable
+908,Puaiohi,Myadestes palmeri,Critically endangered
+909,Varied Thrush,Ixoreus naevius,
+910,Orange-billed Nightingale-Thrush,Catharus aurantiirostris,Rare/Accidental
+911,Black-headed Nightingale-Thrush,Catharus mexicanus,Rare/Accidental
+912,Veery,Catharus fuscescens,
+913,Gray-cheeked Thrush,Catharus minimus,
+914,Bicknell's Thrush,Catharus bicknelli,Vulnerable
+915,Swainson's Thrush,Catharus ustulatus,
+916,Hermit Thrush,Catharus guttatus,
+917,Wood Thrush,Hylocichla mustelina,Near-threatened
+918,Aztec Thrush,Ridgwayia pinicola,Rare/Accidental
+919,Mistle Thrush,Turdus viscivorus,Rare/Accidental
+920,Song Thrush,Turdus philomelos,Rare/Accidental
+921,Redwing,Turdus iliacus,Rare/Accidental Near-threatened
+922,Eurasian Blackbird,Turdus merula,Rare/Accidental
+923,White-throated Thrush,Turdus assimilis,Rare/Accidental
+924,Clay-colored Thrush,Turdus grayi,Rare/Accidental
+925,American Robin,Turdus migratorius,
+926,Rufous-backed Robin,Turdus rufopalliatus,Rare/Accidental
+927,Eyebrowed Thrush,Turdus obscurus,
+928,Fieldfare,Turdus pilaris,
+929,Dusky Thrush,Turdus eunomus,Rare/Accidental
+930,Blue Mockingbird,Melanotis caerulescens,Rare/Accidental
+931,Black Catbird,Melanoptila glabrirostris,Rare/Accidental Near-threatened
+932,Gray Catbird,Dumetella carolinensis,
+933,Curve-billed Thrasher,Toxostoma curvirostre,
+934,Brown Thrasher,Toxostoma rufum,
+935,Long-billed Thrasher,Toxostoma longirostre,
+936,Bendire's Thrasher,Toxostoma bendirei,Vulnerable
+937,Gray Thrasher,Toxostoma cinereum,Rare/Accidental
+938,California Thrasher,Toxostoma redivivum,
+939,LeConte's Thrasher,Toxostoma lecontei,
+940,Crissal Thrasher,Toxostoma crissale,
+941,Sage Thrasher,Oreoscoptes montanus,
+942,Bahama Mockingbird,Mimus gundlachii,Rare/Accidental
+943,Tropical Mockingbird,Mimus gilvus,Rare/Accidental
+944,Northern Mockingbird,Mimus polyglottos,
+945,Common Hill Myna,Gracula religiosa,Introduced species (non established)
+946,European Starling,Sturnus vulgaris,Introduced species
+947,Common Myna,Acridotheres tristis,Introduced species
+948,Jungle Myna,Acridotheres fuscus,Introduced species
+949,Crested Myna,Acridotheres cristatellus,Extirpated
+950,Siberian Accentor,Prunella montanella,Rare/Accidental
+951,Gray Wagtail,Motacilla cinerea,
+952,Western Yellow Wagtail,Motacilla flava,
+953,Eastern Yellow Wagtail,Motacilla tschutschensis,Rare/Accidental
+954,Citrine Wagtail,Motacilla citreola,
+955,White Wagtail,Motacilla alba,
+956,Tree Pipit,Anthus trivialis,
+957,Olive-backed Pipit,Anthus hodgsoni,
+958,Pechora Pipit,Anthus gustavi,
+959,Red-throated Pipit,Anthus cervinus,
+960,American Pipit,Anthus rubescens,
+961,Sprague's Pipit,Anthus spragueii,Vulnerable
+962,Bohemian Waxwing,Bombycilla garrulus,
+963,Cedar Waxwing,Bombycilla cedrorum,
+964,Kauai Oo,Moho braccatus,Extinct
+965,Oahu Oo,Moho apicalis,Endemic Extinct
+966,Bishop's Oo,Moho bishopi,Extinct
+967,Hawaii Oo,Moho nobilis,Extinct
+968,Kioea,Chaetoptila angustipluma,Extinct
+969,Gray Silky-flycatcher,Ptiliogonys cinereus,Rare/Accidental
+970,Phainopepla,Phainopepla nitens,
+971,Olive Warbler,Peucedramus taeniatus,
+972,Common Chaffinch,Fringilla coelebs,Rare/Accidental
+973,Brambling,Fringilla montifringilla,
+974,Evening Grosbeak,Coccothraustes vespertinus,
+975,Hawfinch,Coccothraustes coccothraustes,
+976,Poo-uli,Melamprosops phaeosoma,Critically endangered
+977,Akikiki,Oreomystis bairdi,Critically endangered
+978,Oahu Alauahio,Paroreomyza maculata,Critically endangered
+979,Kakawahie,Paroreomyza flammea,Extinct
+980,Maui Alauahio,Paroreomyza montana,Endangered
+981,Palila,Loxioides bailleui,Critically endangered
+982,Laysan Finch,Telespiza cantans,Vulnerable
+983,Nihoa Finch,Telespiza ultima,Critically endangered
+984,Kona Grosbeak,Chloridops kona,Extinct
+985,Lesser Koa-Finch,Rhodacanthis flaviceps,Extinct
+986,Greater Koa-Finch,Rhodacanthis palmeri,Extinct
+987,Ula-ai-hawane,Ciridops anna,Extinct
+988,Akohekohe,Palmeria dolei,Critically endangered
+989,Laysan Honeycreeper,Himatione fraithii,Endemic Extinct
+990,Apapane,Himatione sanguinea,Endemic
+991,Iiwi,Drepanis coccinea,Vulnerable
+992,Hawaii Mamo,Drepanis pacifica,Extinct
+993,Black Mamo,Drepanis funerea,Endemic Extinct
+994,Ou,Psittirostra psittacea,Critically endangered
+995,Lanai Hookbill,Dysmorodrepanis munroi,Endemic Extinct
+996,Maui Parrotbill,Pseudonestor xanthophrys,Critically endangered
+997,Kauai Nukupuu,Hemignathus hanapepe,Endemic Critically endangered
+998,Oahu Nukupuu,Hemignathus lucidus,Endemic Extinct
+999,Maui Nukupuu,Hemignathus affinis,Endemic Critically endangered
+1000,Akiapolaau,Hemignathus wilsoni,Endangered
+1001,Lesser Akialoa,Akialoa obscura,Endemic Extinct
+1002,Oahu Akialoa,Akialoa ellisiana,Endemic Extinct
+1003,Kauai Akialoa,Akialoa stejnegeri,Endemic Extinct
+1004,Maui-nui Akialoa,Akialoa lanaiensis,Endemic Extinct
+1005,Anianiau,Magumma parva,Vulnerable
+1006,Hawaii Amakihi,Chlorodrepanis virens,Endemic
+1007,Oahu Amakihi,Chlorodrepanis flava,Vulnerable
+1008,Kauai Amakihi,Chlorodrepanis stejnegeri,Endemic Vulnerable
+1009,Greater Amakihi,Viridonia sagittirostris,Extinct
+1010,Hawaii Creeper,Loxops mana,Endangered
+1011,Akekee,Loxops caeruleirostris,Endemic Critically endangered
+1012,Hawaii Akepa,Loxops coccineus,Endemic Endangered
+1013,Oahu Akepa,Loxops wolstenholmei,Endemic Extinct
+1014,Maui Akepa,Loxops ochraceus,Endemic Critically endangered
+1015,Common Rosefinch,Carpodacus erythrinus,
+1016,Pallas's Rosefinch,Carpodacus roseus,Rare/Accidental
+1017,Pine Grosbeak,Pinicola enucleator,
+1018,Eurasian Bullfinch,Pyrrhula pyrrhula,
+1019,Trumpeter Finch,Bucanetes githagineus,Rare/Accidental
+1020,Asian Rosy-Finch,Leucosticte arctoa,Rare/Accidental
+1021,Gray-crowned Rosy-Finch,Leucosticte tephrocotis,
+1022,Black Rosy-Finch,Leucosticte atrata,
+1023,Brown-capped Rosy-Finch,Leucosticte australis,
+1024,House Finch,Haemorhous mexicanus,
+1025,Purple Finch,Haemorhous purpureus,
+1026,Cassin's Finch,Haemorhous cassinii,Near-threatened
+1027,Oriental Greenfinch,Chloris sinica,Rare/Accidental
+1028,Yellow-fronted Canary,Crithagra mozambica,Introduced species
+1029,Common Redpoll,Acanthis flammea,
+1030,Hoary Redpoll,Acanthis hornemanni,
+1031,Red Crossbill,Loxia curvirostra,
+1032,Cassia Crossbill,Loxia sinesciuris,Endemic
+1033,White-winged Crossbill,Loxia leucoptera,
+1034,European Goldfinch,Carduelis carduelis,Introduced species
+1035,European Serin,Serinus serinus,
+1036,Island Canary,Serinus canaria,Introduced species
+1037,Eurasian Siskin,Spinus spinus,Rare/Accidental
+1038,Pine Siskin,Spinus pinus,
+1039,Black-headed Siskin,Spinus notatus,Rare/Accidental
+1040,Lesser Goldfinch,Spinus psaltria,
+1041,Lawrence's Goldfinch,Spinus lawrencei,
+1042,American Goldfinch,Spinus tristis,
+1043,Lapland Longspur,Calcarius lapponicus,
+1044,Chestnut-collared Longspur,Calcarius ornatus,Vulnerable
+1045,Smith's Longspur,Calcarius pictus,
+1046,McCown's Longspur,Rhynchophanes mccownii,
+1047,Snow Bunting,Plectrophenax nivalis,
+1048,McKay's Bunting,Plectrophenax hyperboreus,
+1049,Pine Bunting,Emberiza leucocephalos,
+1050,Yellow-throated Bunting,Emberiza elegans,
+1051,Pallas's Bunting,Emberiza pallasi,
+1052,Reed Bunting,Emberiza schoeniclus,
+1053,Yellow-breasted Bunting,Emberiza aureola,Critically endangered
+1054,Little Bunting,Emberiza pusilla,
+1055,Rustic Bunting,Emberiza rustica,Vulnerable
+1056,Yellow-browed Bunting,Emberiza chrysophrys,Rare/Accidental
+1057,Gray Bunting,Emberiza variabilis,
+1058,Rufous-winged Sparrow,Peucaea carpalis,
+1059,Botteri's Sparrow,Peucaea botterii,
+1060,Cassin's Sparrow,Peucaea cassinii,
+1061,Bachman's Sparrow,Peucaea aestivalis,Near-threatened
+1062,Grasshopper Sparrow,Ammodramus savannarum,
+1063,Olive Sparrow,Arremonops rufivirgatus,
+1064,Chipping Sparrow,Spizella passerina,
+1065,Clay-colored Sparrow,Spizella pallida,
+1066,Black-chinned Sparrow,Spizella atrogularis,
+1067,Field Sparrow,Spizella pusilla,
+1068,Brewer's Sparrow,Spizella breweri,
+1069,Worthen's Sparrow,Spizella wortheni,Rare/Accidental Endangered
+1070,Black-throated Sparrow,Amphispiza bilineata,
+1071,Five-striped Sparrow,Amphispiza quinquestriata,
+1072,Lark Sparrow,Chondestes grammacus,
+1073,Lark Bunting,Calamospiza melanocorys,
+1074,American Tree Sparrow,Spizelloides arborea,
+1075,Fox Sparrow,Passerella iliaca,
+1076,Dark-eyed Junco,Junco hyemalis,
+1077,Yellow-eyed Junco,Junco phaeonotus,
+1078,Baird's Junco,Junco bairdi,Near-threatened
+1079,White-crowned Sparrow,Zonotrichia leucophrys,
+1080,Golden-crowned Sparrow,Zonotrichia atricapilla,
+1081,Harris's Sparrow,Zonotrichia querula,
+1082,White-throated Sparrow,Zonotrichia albicollis,
+1083,Sagebrush Sparrow,Artemisiospiza nevadensis,Endemic
+1084,Bell's Sparrow,Artemisiospiza belli,
+1085,Striped Sparrow,Oriturus superciliosus,Rare/Accidental
+1086,Vesper Sparrow,Pooecetes gramineus,
+1087,LeConte's Sparrow,Ammospiza leconteii,
+1088,Seaside Sparrow,Ammospiza maritima,
+1089,Nelson's Sparrow,Ammospiza nelsoni,
+1090,Saltmarsh Sparrow,Ammospiza caudacuta,Endangered
+1091,Savannah Sparrow,Passerculus sandwichensis,
+1092,Baird's Sparrow,Centronyx bairdii,
+1093,Henslow's Sparrow,Centronyx henslowii,Near-threatened
+1094,Song Sparrow,Melospiza melodia,
+1095,Lincoln's Sparrow,Melospiza lincolnii,
+1096,Swamp Sparrow,Melospiza georgiana,
+1097,Canyon Towhee,Melozone fusca,
+1098,Abert's Towhee,Melozone aberti,
+1099,California Towhee,Melozone crissalis,
+1100,Rufous-crowned Sparrow,Aimophila ruficeps,
+1101,Green-tailed Towhee,Pipilo chlorurus,
+1102,Spotted Towhee,Pipilo maculatus,
+1103,Eastern Towhee,Pipilo erythrophthalmus,
+1104,Western Spindalis,Spindalis zena,
+1105,Yellow-breasted Chat,Icteria virens,
+1106,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,
+1107,Bobolink,Dolichonyx oryzivorus,
+1108,Western Meadowlark,Sturnella neglecta,
+1109,Eastern Meadowlark,Sturnella magna,
+1110,Montezuma Oropendola,Psarocolius montezuma,Introduced species
+1111,Black-vented Oriole,Icterus wagleri,
+1112,Orchard Oriole,Icterus spurius,
+1113,Hooded Oriole,Icterus cucullatus,
+1114,Venezuelan Troupial,Icterus icterus,Introduced species
+1115,Streak-backed Oriole,Icterus pustulatus,
+1116,Bullock's Oriole,Icterus bullockii,
+1117,Spot-breasted Oriole,Icterus pectoralis,
+1118,Altamira Oriole,Icterus gularis,
+1119,Audubon's Oriole,Icterus graduacauda,
+1120,Baltimore Oriole,Icterus galbula,
+1121,Black-backed Oriole,Icterus abeillei,Rare/Accidental
+1122,Scott's Oriole,Icterus parisorum,
+1123,Red-winged Blackbird,Agelaius phoeniceus,
+1124,Tricolored Blackbird,Agelaius tricolor,Endangered
+1125,Tawny-shouldered Blackbird,Agelaius humeralis,Rare/Accidental
+1126,Shiny Cowbird,Molothrus bonariensis,
+1127,Bronzed Cowbird,Molothrus aeneus,
+1128,Brown-headed Cowbird,Molothrus ater,
+1129,Rusty Blackbird,Euphagus carolinus,Vulnerable
+1130,Brewer's Blackbird,Euphagus cyanocephalus,
+1131,Common Grackle,Quiscalus quiscula,
+1132,Boat-tailed Grackle,Quiscalus major,
+1133,Great-tailed Grackle,Quiscalus mexicanus,
+1134,Ovenbird,Seiurus aurocapilla,
+1135,Worm-eating Warbler,Helmitheros vermivorum,
+1136,Louisiana Waterthrush,Parkesia motacilla,
+1137,Northern Waterthrush,Parkesia noveboracensis,
+1138,Bachman's Warbler,Vermivora bachmanii,Critically endangered (possibly extinct)
+1139,Golden-winged Warbler,Vermivora chrysoptera,Near-threatened
+1140,Blue-winged Warbler,Vermivora cyanoptera,
+1141,Black-and-white Warbler,Mniotilta varia,
+1142,Prothonotary Warbler,Protonotaria citrea,
+1143,Swainson's Warbler,Limnothlypis swainsonii,
+1144,Crescent-chested Warbler,Oreothlypis superciliosa,Rare/Accidental
+1145,Tennessee Warbler,Oreothlypis peregrina,
+1146,Orange-crowned Warbler,Oreothlypis celata,
+1147,Colima Warbler,Oreothlypis crissalis,
+1148,Lucy's Warbler,Oreothlypis luciae,
+1149,Nashville Warbler,Oreothlypis ruficapilla,
+1150,Virginia's Warbler,Oreothlypis virginiae,
+1151,Connecticut Warbler,Oporornis agilis,
+1152,Gray-crowned Yellowthroat,Geothlypis poliocephala,Rare/Accidental
+1153,MacGillivray's Warbler,Geothlypis tolmiei,
+1154,Mourning Warbler,Geothlypis philadelphia,
+1155,Kentucky Warbler,Geothlypis formosa,
+1156,Common Yellowthroat,Geothlypis trichas,
+1157,Hooded Warbler,Setophaga citrina,
+1158,American Redstart,Setophaga ruticilla,
+1159,Kirtland's Warbler,Setophaga kirtlandii,Near-threatened
+1160,Cape May Warbler,Setophaga tigrina,
+1161,Cerulean Warbler,Setophaga cerulea,Vulnerable
+1162,Northern Parula,Setophaga americana,
+1163,Tropical Parula,Setophaga pitiayumi,
+1164,Magnolia Warbler,Setophaga magnolia,
+1165,Bay-breasted Warbler,Setophaga castanea,
+1166,Blackburnian Warbler,Setophaga fusca,
+1167,Yellow Warbler,Setophaga petechia,
+1168,Chestnut-sided Warbler,Setophaga pensylvanica,
+1169,Blackpoll Warbler,Setophaga striata,
+1170,Black-throated Blue Warbler,Setophaga caerulescens,
+1171,Palm Warbler,Setophaga palmarum,
+1172,Pine Warbler,Setophaga pinus,
+1173,Yellow-rumped Warbler,Setophaga coronata,
+1174,Yellow-throated Warbler,Setophaga dominica,
+1175,Prairie Warbler,Setophaga discolor,
+1176,Grace's Warbler,Setophaga graciae,
+1177,Black-throated Gray Warbler,Setophaga nigrescens,
+1178,Townsend's Warbler,Setophaga townsendi,
+1179,Hermit Warbler,Setophaga occidentalis,
+1180,Golden-cheeked Warbler,Setophaga chrysoparia,Endangered
+1181,Black-throated Green Warbler,Setophaga virens,
+1182,Fan-tailed Warbler,Basileuterus lachrymosus,Rare/Accidental
+1183,Rufous-capped Warbler,Basileuterus rufifrons,Rare/Accidental
+1184,Golden-crowned Warbler,Basileuterus culicivorus,Rare/Accidental
+1185,Canada Warbler,Cardellina canadensis,
+1186,Wilson's Warbler,Cardellina pusilla,
+1187,Red-faced Warbler,Cardellina rubrifrons,
+1188,Painted Redstart,Myioborus pictus,
+1189,Slate-throated Redstart,Myioborus miniatus,Rare/Accidental
+1190,Hepatic Tanager,Piranga flava,
+1191,Summer Tanager,Piranga rubra,
+1192,Scarlet Tanager,Piranga olivacea,
+1193,Western Tanager,Piranga ludoviciana,
+1194,Flame-colored Tanager,Piranga bidentata,Rare/Accidental
+1195,Crimson-collared Grosbeak,Rhodothraupis celaeno,Rare/Accidental
+1196,Northern Cardinal,Cardinalis cardinalis,
+1197,Pyrrhuloxia,Cardinalis sinuatus,
+1198,Yellow Grosbeak,Pheucticus chrysopeplus,Rare/Accidental
+1199,Rose-breasted Grosbeak,Pheucticus ludovicianus,
+1200,Black-headed Grosbeak,Pheucticus melanocephalus,
+1201,Blue Bunting,Cyanocompsa parellina,
+1202,Blue Grosbeak,Passerina caerulea,
+1203,Lazuli Bunting,Passerina amoena,
+1204,Indigo Bunting,Passerina cyanea,
+1205,Varied Bunting,Passerina versicolor,
+1206,Painted Bunting,Passerina ciris,Near-threatened
+1207,Dickcissel,Spiza americana,
+1208,Red-crested Cardinal,Paroaria coronata,Introduced species
+1209,Yellow-billed Cardinal,Paroaria capitata,Introduced species
+1210,Crimson-collared Tanager,Ramphocelus sanguinolentus,Rare/Accidental
+1211,Saffron Finch,Sicalis flaveola,Introduced species
+1212,Morelet's Seedeater,Sporophila morelleti,
+1213,Cinnamon-rumped Seedeater,Sporophila torqueola,
+1214,Bananaquit,Coereba flaveola,Rare/Accidental
+1215,Yellow-faced Grassquit,Tiaris olivaceus,
+1216,Black-faced Grassquit,Tiaris bicolor,
+1217,Greater Antillean Bullfinch,Melopyrrha violacea,Extirpated
+1218,House Sparrow,Passer domesticus,Introduced species
+1219,Eurasian Tree Sparrow,Passer montanus,Introduced species
+1220,Northern Red Bishop,Euplectes franciscanus,Introduced species (non established)
+1221,Yellow-crowned Bishop,Euplectes afer,Introduced species
+1222,Lavender Waxbill,Estrilda caerulescens,Introduced species
+1223,Orange-cheeked Waxbill,Estrilda melpoda,Introduced species
+1224,Black-rumped Waxbill,Estrilda troglodytes,Introduced species
+1225,Common Waxbill,Estrilda astrild,Introduced species
+1226,Red-cheeked Cordonbleu,Uraeginthus bengalus,Introduced species
+1227,Red Avadavat,Amandava amandava,Introduced species
+1228,Zebra Finch,Taeniopygia guttata,Introduced species
+1229,Indian Silverbill,Euodice malabarica,Introduced species
+1230,African Silverbill,Euodice cantans,Introduced species
+1231,Madagascar Munia,Lonchura nana,Introduced species
+1232,Scaly-breasted Munia,Lonchura punctulata,Introduced species (non established)
+1233,Tricolored Munia,Lonchura malacca,Rare/Accidental
+1234,Chestnut Munia,Lonchura atricapilla,Introduced species
+1235,White-headed Munia,Lonchura maja,Introduced species
+1236,Java Sparrow,Lonchura oryzivora,Introduced species Vulnerable
+1237,Pin-tailed Whydah,Vidua macroura,Introduced species
