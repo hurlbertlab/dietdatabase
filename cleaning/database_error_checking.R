@@ -155,13 +155,16 @@ checksum = function(diet, accuracy = 0.05) {
 # that increment by one (indicating an accidental Autofill in Excel, since
 # the values in these fields should typically be constant within a given study)
 checkAutofilledRows  = function(dbField) {
-  diff = dbField[2:length(dbField)] - dbField[1:(length(dbField) - 1)]
-  runs = rle(diff)
-  indices = cumsum(runs$lengths)[which(runs$values == 1 & runs$lengths >= 3)] - 
-    (runs$lengths[which(runs$values == 1 & runs$lengths >= 3)] - 1)
-
-  if (length(indices) == 0) indices = NA
-  
+  if (!class(dbField) %in% c('integer', 'numeric')) {
+    indices = NA
+  } else {
+    diff = dbField[2:length(dbField)] - dbField[1:(length(dbField) - 1)]
+    runs = rle(diff)
+    indices = cumsum(runs$lengths)[which(runs$values == 1 & runs$lengths >= 3)] - 
+      (runs$lengths[which(runs$values == 1 & runs$lengths >= 3)] - 1)
+    
+    if (length(indices) == 0) indices = NA
+  }
   return(indices)
 }
 
