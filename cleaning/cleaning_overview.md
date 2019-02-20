@@ -49,7 +49,7 @@ In the example above we read in a test file, 'qa_qc_test_db.txt', that we know h
   </tr>
   <tr>
     <td>9</td>
-    <td>Fraction_Diet is greater than 1</td>
+    <td>Observation_Month_Begin is the text string 'August' rather than an integer indicating month number.</td>
   </tr>
   <tr>
     <td>10</td>
@@ -108,7 +108,7 @@ $Problem_bird_names
 ```
 The `$Problem_bird_names` section highlights any species that either 1) have a typo or invalid name for either the common name, scientific
 name, or family name, or 2) have an error in the family assignment or scientific name assignment to the given common name. In this
-case, a quick search of the eBird checklist reveals the scientific name should be 'Melospiza georgiana'.
+case, a quick search of the eBird checklist reveals the scientific name should be 'Melospiza georgiana'. If a name is listed here as problematic but you cannot see any typos, try checking for leading or trailing spaces in the names. E.g., ' Melospiza georgiana'. 
 
 ```
 $Taxonomy

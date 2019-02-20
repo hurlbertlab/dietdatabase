@@ -151,7 +151,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Observation_Season</td>
-    <td>The season(s) in which diet data were last collected. Possible values include spring, summer, fall, winter, or multiple.</td>
+    <td>The season(s) in which diet data were last collected. Possible values include spring, summer, fall, winter, or multiple. Two or more values may be listed separated by a semi-colon, e.g. "spring; summer".</td>
   </tr>
   <tr>
     <td>Prey_Kingdom</td>
@@ -199,8 +199,8 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Prey_Name_Status</td>
-    <td>Taxonomic status of the prey name. "Verified" indicates the name matched a valid ITIS ID. "Unverified" means the name did not match a valid ITIS ID and needs to be investigated further.
-    "Accepted" means the name did not match a valid ITIS ID, but investigation revealed that it reflects an accepted taxonomic entity not in ITIS.</td>
+    <td>Taxonomic status of the prey name, filled in automatically by R clean_all_names() function. "Verified" indicates the name matched a valid ITIS ID. "Unverified" means the name did not match a valid ITIS ID and needs to be investigated further.
+    "Accepted" means the name did not match a valid ITIS ID, but investigation revealed that it reflects an accepted taxonomic entity not in ITIS. For "accepted" names, Prey_Name_ITIS_ID will be NA.</td>
   </tr>
   <tr>
     <td>Prey_Stage</td>
@@ -209,7 +209,7 @@ of these fields, and how data should be entered. Further instructions about how 
   <tr>
     <td>Prey_Part</td>
     <td>The part of the prey species represented in the diet if only a part was (likely) consumed. Especially for plant-based
-    diet items, e.g., 'bark', 'bud', 'dung', 'egg', 'feces', 'flower', 'fruit','gall', 'oogonium', 'pollen', 'root', 'sap', 'seed','spore', 'statoblasts', 'vegetation'.</td>
+    diet items, e.g., 'bark', 'bud', 'dung', 'feces', 'flower', 'fruit','gall', 'oogonium', 'pollen', 'root', 'sap', 'seed','spore', 'statoblasts', 'vegetation'.</td>
   </tr>
   <tr>
     <td>Prey_Common_Name</td>
@@ -217,15 +217,14 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Fraction_Diet</td>
-    <td>Fraction of the bird's diet made up by this prey item. Convert all %s to fractions between 0 and 1.</td>
+    <td>Fraction of the bird's total diet made up by this prey item. Convert all %s to fractions between 0 and 1. In cases where information is reported separately for animal and plant diet items (e.g. Coleoptera make up 20% of the animal-based diet), be sure to combine plant and animal items together and recalculate % of the total diet.</td>
   </tr>
   <tr>
     <td>Diet_Type</td>
 	<td>4 possible values. <b>Wt_or_Vol</b>: Fraction of the diet as measured by weight or volume. E.g., all beetles in the stomach 
     contents were weighed, and this value was divided by the mass of all stomach contents. <b>Items</b>: Fraction of the diet as
     measured by a count of the number of prey items. E.g., the number of beetles in the stomach contents were counted, and this 
-    value was divided by the total number of unique prey items in the stomach contents. <b>Occurrence</b>: Fraction of the birds examined
-		that contained at least one individual of this prey type. <b>Unspecified</b>: Fraction of the diet of the prey item based on a
+    value was divided by the total number of unique prey items in the stomach contents. <b>Occurrence</b>: Fraction of the birds examined that contained at least one individual of this prey type. <b>Unspecified</b>: Fraction of the diet of the prey item based on a
     methodology unspecified by the authors.</td>
   </tr>
   <tr>
