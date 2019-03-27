@@ -316,7 +316,8 @@ $numStudies
 [1] 3
 
 $Studies
-[1] "King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."                                             [2] "Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet, and habitat structure. Ecology 63:1918-1931."
+[1] "King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."                                             
+[2] "Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet, and habitat structure. Ecology 63:1918-1931."
 [3] "Parrish, J. D. 1997. Patterns of Frugivory and Energetic Condition in Nearctic Birds During Autumn Migration. Condor 99: 681-697."          
 $numRecords
 [1] 16
