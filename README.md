@@ -316,51 +316,53 @@ $numStudies
 [1] 3
 
 $Studies
-[1] "King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."                                                                               
-[2] "Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationship among search tactics, diet, and habitat structure. Ecology 63:1918-1931." 
-[3] "Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet, and habitat structure. Ecology 63:1918-1931."
-
+[1] "King, F. H. 1883. Economic relations of Wisconsin birds. Geology of Wisconsin 441-610."                                             [2] "Robinson, S. K. and R. T. Holmes. 1982. Foraging behavior of forest birds: the relationships among search tactics, diet, and habitat structure. Ecology 63:1918-1931."
+[3] "Parrish, J. D. 1997. Patterns of Frugivory and Energetic Condition in Nearctic Birds During Autumn Migration. Condor 99: 681-697."          
 $numRecords
-[1] 17
+[1] 16
 
-$recordsPerYear
-  Observation_Year_Begin  n
-1                   1875  3
-2                   1974 10
-3                   1976  4
+$recordsPerSeason
+  Observation_Season  n
+1             spring  3
+2             summer 13
 
-$recordsPerRegion
-  Location_Region n
-1   New Hampshire 9
-2   United States 5
-3       Wisconsin 3
+$recordsPerYearRegion
+  Location_Region 1875 1976 1979 1995
+1   New Hampshire   NA    5    4   NA
+2    Rhode Island   NA   NA   NA    4
+3       Wisconsin    3   NA   NA   NA
+
+$recordsPerPreyIDLevel
+    level  n
+1 Kingdom  0
+2  Phylum  0
+3   Class  4
+4   Order 11
+5  Family  0
+6   Genus  0
+7 Species  0
 
 $recordsPerType
-   Diet_Type  n
-1      Items 14
-2 Occurrence  3
+   Diet_Type n
+1      Items 9
+2 Occurrence 5
+3  Wt_or_Vol 2
 
 $analysesPerDietType
    Diet_Type n
-1      Items 3
-2 Occurrence 1
+1      Items 2
+2 Occurrence 2
+3  Wt_or_Vol 1
 
 $preySummary
-    Diet_Type              Taxon  Frac_Diet
-1       Items Lepidoptera larvae 0.26900000
-2       Items        Coleoptera  0.16666667
-3       Items   coleoptera adult 0.16666667
-4       Items Lepidoptera Larvae 0.09200000
-5       Items Lepidoptera Larval 0.09200000
-6       Items  Lepidoptera adult 0.04600000
-7       Items           Diptera  0.04600000
-8       Items      Diptera adult 0.04000000
-9       Items         Homoptera  0.01733333
-10      Items    Homoptera adult 0.01733333
-11      Items       Hymenoptera  0.01733333
-12      Items  Hymenoptera adult 0.01733333
-13      Items           Araneae  0.01233333
-14 Occurrence        Coleoptera  0.83333333
-15 Occurrence       Hymenoptera  0.16666667
-16 Occurrence       Lepidoptera  0.16666667
+                Taxon  Items Wt_or_Vol Occurrence
+1   Lepidoptera larva 0.5415        NA     0.0833
+2          Coleoptera 0.2500        NA     0.4167
+3             Diptera 0.0690        NA         NA
+4         Lepidoptera 0.0690        NA         NA
+5           Hemiptera 0.0260        NA         NA
+6         Hymenoptera 0.0260        NA     0.0833
+7             Araneae 0.0185        NA         NA
+8       Unid. Insecta     NA     0.641     0.4645
+9 Unid. Magnoliopsida     NA     0.359     0.3215
 ```
