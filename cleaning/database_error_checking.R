@@ -30,9 +30,9 @@ outlier = function(field, min, max) {
 
 outlierCheck = function(diet) {
   out = list(
-    long = outlier(diet$Longitude_dd, -180, 180),
+    long = outlier(diet$Longitude_dd, -190, 190),
     
-    lat = outlier(diet$Latitude_dd, -180, 180),
+    lat = outlier(diet$Latitude_dd, -190, 190),
     
     alt_min = outlier(diet$Altitude_min_m, -100, 10000),
     
@@ -44,7 +44,7 @@ outlierCheck = function(diet) {
     
     mon_end = outlier(diet$Observation_Month_End, 0, 12),
     
-    year_beg = outlier(diet$Observation_Year_Begin, 1800, 2017),
+    year_beg = outlier(diet$Observation_Year_Begin, 1900, 2017),
     
     year_end = outlier(diet$Observation_Year_End, 0, 2017),
     
@@ -497,9 +497,9 @@ clean_names = function(preyTaxonLevel, diet, problemNames = NULL, all = TRUE) {
       # Identify all records with the specified name where all lower taxonomic
       # levels are blank or NA
       if (level < 7) {
-        lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == "") == (8 - level)
+        lowerLevelCheck = rowSums(is.na(diet[, (level+1):8 + 19]) | diet[, (level+1):8 + 19] == "") == (8 - level)
       } else if (level == 7) {
-        lowerLevelCheck = is.na(diet[, (level+1):8 + 18]) | diet[, (level+1):8 + 18] == ""
+        lowerLevelCheck = is.na(diet[, (level+1):8 + 19]) | diet[, (level+1):8 + 19] == ""
       } else if (level == 8) {
         lowerLevelCheck = TRUE
       }
@@ -573,7 +573,7 @@ clean_names = function(preyTaxonLevel, diet, problemNames = NULL, all = TRUE) {
               # For names at the specified level that are not NA, assign to the
               # specified HIGHER taxonomic level the name from ITIS ('hierarchy')
               
-              diet[recs, l + 18] = hierarchy$name[hierarchy$rank == rank]
+              diet[recs, l + 19] = hierarchy$name[hierarchy$rank == rank]
               
             } # end if rank
             
@@ -722,7 +722,7 @@ fix_prob_names = function(probnames_filename, dietdb_filename, write = T) {
   
   taxlevels = data.frame(level = c('Kingdom', 'Phylum', 'Class', 'Order', 'Suborder', 
                                    'Family', 'Genus', 'Scientific_Name'),
-                         levelnum = 19:26)
+                         levelnum = 20:27)
   
   probnames = left_join(probnames, taxlevels)
   
@@ -743,11 +743,11 @@ fix_prob_names = function(probnames_filename, dietdb_filename, write = T) {
     taxonLevel = probnames$taxonLevel[i]
     
     # Check that all names below the taxonomic level specified are blank or NA
-    if (level < 25) {
-      lowerLevelCheck = rowSums(is.na(diet[, (level+1):26]) | diet[, (level+1):26] == "") == (26 - level)
-    } else if (level == 25) {
-      lowerLevelCheck = is.na(diet[, (level+1):26]) | diet[, (level+1):26] == ""
+    if (level < 26) {
+      lowerLevelCheck = rowSums(is.na(diet[, (level+1):27]) | diet[, (level+1):27] == "") == (27 - level)
     } else if (level == 26) {
+      lowerLevelCheck = is.na(diet[, (level+1):27]) | diet[, (level+1):27] == ""
+    } else if (level == 27) {
       lowerLevelCheck = TRUE
     }
     
