@@ -1,0 +1,153 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Sharp-shinned Hawk	Accipiter striatus		Accipitridae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Chordata													1	Wt_or_Vol		1	2	stomach contents		CB	
+Ruffed Grouse	Bonasa umbellus		Phasianidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.04	Wt_or_Vol							
+Ruffed Grouse	Bonasa umbellus		Phasianidae							Maine	Fort Kent			1949		1949	summer	1	Plantae														0.96	Wt_or_Vol							
+Northern Flicker	Colaptes auratus		Picidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Northern Flicker	Colaptes auratus		Picidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Hairy Woodpecker	Picoides villosus		Picidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.04	Wt_or_Vol							
+Hairy Woodpecker	Picoides villosus		Picidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.96	Wt_or_Vol							
+Black-backed Woodpecker	Picoides arcticus		Picidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Black-backed Woodpecker	Picoides arcticus		Picidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Yellow-bellied Flycatcher	Empidonax flaviventris		Tyrannidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Yellow-bellied Flycatcher	Empidonax flaviventris		Tyrannidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.1	Wt_or_Vol							
+Yellow-bellied Flycatcher	Empidonax flaviventris		Tyrannidae							Maine	Fort Kent			2950		1950	summer	1	Animalia	Arthropoda													0.9	Wt_or_Vol							
+Blue Jay	Cyanocitta cristata		Corvidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.94	Wt_or_Vol							
+Blue Jay	Cyanocitta cristata		Corvidae							Maine	Fort Kent			1949		1949	summer	1	Plantae														0.06	Wt_or_Vol							
+Blue Jay	Cyanocitta cristata		Corvidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.98	Wt_or_Vol							
+Blue Jay	Cyanocitta cristata		Corvidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.02	Wt_or_Vol							
+Gray Jay	Cyanocitta cristata		Corvidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.15	Wt_or_Vol							
+Gray Jay	Cyanocitta cristata		Corvidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.85	Wt_or_Vol							
+Crow	Corvus brachyrhynchos		Corvidae							Maine	Fort Kent			1949		1949	summer	1	Plantae														0.73	Wt_or_Vol							
+Crow	Corvus brachyrhynchos		Corvidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.27	Wt_or_Vol							
+Crow	Corvus brachyrhynchos		Corvidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Black-capped Chickadee	Poecile atricapillus		Paridae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.44	Wt_or_Vol							
+Black-capped Chickadee	Poecile atricapillus		Paridae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.56	Wt_or_Vol							
+Black-capped Chickadee	Poecile atricapillus		Paridae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.37	Wt_or_Vol							
+Black-capped Chickadee	Poecile atricapillus		Paridae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.63	Wt_or_Vol							
+Boreal Chickadee	Poecile hudsonicus		Paridae							Maine	Fort Kent			1949		1949	summer	1	Plantae														0.06	Wt_or_Vol							
+Boreal Chickadee	Poecile hudsonicus		Paridae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.65	Wt_or_Vol							
+Boreal Chickadee	Poecile hudsonicus		Paridae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Chordata													0.07	Wt_or_Vol							
+Boreal Chickadee	Poecile hudsonicus		Paridae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.22	Wt_or_Vol							
+Boreal Chickadee	Poecile hudsonicus		Paridae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.77	Wt_or_Vol							
+Boreal Chickadee	Poecile hudsonicus		Paridae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.23	Wt_or_Vol							
+Red-brested Nuthatch	Sitta canadensis		Sittidae							Maine	Fort Kent			1949		1949	summer	1	Plantae														0.03	Wt_or_Vol							
+Red-brested Nuthatch	Sitta canadensis		Sittidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.39	Wt_or_Vol							
+Red-brested Nuthatch	Sitta canadensis		Sittidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.58	Wt_or_Vol							
+Winter Wren	Troglodytes hiemalis		Troglodytidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.03	Wt_or_Vol							
+Winter Wren	Troglodytes hiemalis		Troglodytidae							Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.97	Wt_or_Vol							
+Winter Wren	Troglodytes hiemalis		Troglodytidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.11	Wt_or_Vol							
+Winter Wren	Troglodytes hiemalis		Troglodytidae							Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.89	Wt_or_Vol							
+Robin										Maine	Fort Kent			1949		1949	summer	1	Plantae														0.03	Wt_or_Vol							
+Robin										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.23	Wt_or_Vol							
+Robin										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.74	Wt_or_Vol							
+Robin										Maine	Fort Kent			1950		1950	summer	1	Plantae														0.21	Wt_or_Vol							
+Robin										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.23	Wt_or_Vol							
+Robin										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.56	Wt_or_Vol							
+Hermit Thrush										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.13	Wt_or_Vol							
+Hermit Thrush										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.87	Wt_or_Vol							
+Hermit Thrush										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.12	Wt_or_Vol							
+Hermit Thrush										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.88	Wt_or_Vol							
+Olive-backed Thrush										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.3	Wt_or_Vol							
+Olive-backed Thrush										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.69	Wt_or_Vol							
+Olive-backed Thrush										Maine	Fort Kent			1949		1949	summer	1	Plantae														0.01	Wt_or_Vol							
+Olive-backed Thrush										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.42	Wt_or_Vol							
+Olive-backed Thrush										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.58	Wt_or_Vol							
+Veery										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.46	Wt_or_Vol							
+Veery										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.54	Wt_or_Vol							
+Golden-crowned Kinglet										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.13	Wt_or_Vol							
+Golden-crowned Kinglet										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.87	Wt_or_Vol							
+Golden-crowned Kinglet										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Ruby-crowned Kinglet										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.16	Wt_or_Vol							
+Ruby-crowned Kinglet										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.84	Wt_or_Vol							
+Ruby-crowned Kinglet										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Cedar Waxwing										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.89	Wt_or_Vol							
+Cedar Waxwing										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.06	Wt_or_Vol							
+Cedar Waxwing										Maine	Fort Kent			1949		1949	summer	1	Plantae														0.05	Wt_or_Vol							
+Cedar Waxwing										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.84	Wt_or_Vol							
+Cedar Waxwing										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.1	Wt_or_Vol							
+Cedar Waxwing										Maine	Fort Kent			1950		1950	summer	1	Plantae														0.06	Wt_or_Vol							
+Solitary Vireo										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.34	Wt_or_Vol							
+Solitary Vireo										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.66	Wt_or_Vol							
+Solitary Vireo										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.34	Wt_or_Vol							
+Solitary Vireo										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.66	Wt_or_Vol							
+Red-eyed Vireo										Maine	Fort Kent			1949		1949	summer	1	Plantae														0.05	Wt_or_Vol							
+Red-eyed Vireo										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.11	Wt_or_Vol							
+Red-eyed Vireo										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.84	Wt_or_Vol							
+Red-eyed Vireo										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.48	Wt_or_Vol							
+Red-eyed Vireo										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.52	Wt_or_Vol							
+Black and White Warbler										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Tennessee Warbler										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	1	Wt_or_Vol							
+Tennessee Warbler										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.66	Wt_or_Vol							
+Tennessee Warbler										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.34	Wt_or_Vol							
+Nashville Warbler										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													1	Wt_or_Vol							
+Nashville Warbler										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.55	Wt_or_Vol							
+Nashville Warbler										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.45	Wt_or_Vol							
+Parula Warbler										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.83	Wt_or_Vol							
+Parula Warbler										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.17	Wt_or_Vol							
+Parula Warbler										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.16	Wt_or_Vol							
+Parula Warbler										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.84	Wt_or_Vol							
+Magnolia Warbler										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.48	Wt_or_Vol							
+Magnolia Warbler										Maine	Fort Kent			1949		1949	summer	1	Animalia	Arthropoda													0.52	Wt_or_Vol							
+Magnolia Warbler										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera		Tortricidae	Archips	Archips fumiferana	Yes					spruce budworm	0.39	Wt_or_Vol							
+Magnolia Warbler										Maine	Fort Kent			1950		1950	summer	1	Animalia	Arthropoda													0.61	Wt_or_Vol							
+Cape May Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Cape May Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Cape May Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Cape May Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Myrtle Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Myrtle Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Myrtle Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Myrtle Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Blackburnian Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Blackburnian Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Blackburnian Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Blackburnian Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Chestnut-sided Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Chestnut-sided Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Bay-breasted Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Bay-breasted Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Bay-breasted Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Bay-breasted Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Black Throated Green Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Black Throated Green Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Ovenbird										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Ovenbird										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Canada Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Canada Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Canada Warbler										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Purple Grackle										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Evening Grosbeak										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Evening Grosbeak										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Purple Finch										Maine	Fort Kent			1949		1949	summer	1	Plantae															Wt_or_Vol							
+Purple Finch										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Purple Finch										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Purple Finch										Maine	Fort Kent			1950		1950	summer	1	Plantae															Wt_or_Vol							
+Purple Finch										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Purple Finch										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Pine Grosbeak										Maine	Fort Kent			1949		1949	summer	1	Plantae															Wt_or_Vol							
+Pine Grosbeak										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Pine Grosbeak										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Pine Grosbeak										Maine	Fort Kent			1950		1950	summer	1	Plantae															Wt_or_Vol							
+Pine Grosbeak										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Pine Grosbeak										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Pine Siskin										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Pine Siskin										Maine	Fort Kent						summer	1																Wt_or_Vol							
+White-winged Crossbill										Maine	Fort Kent						summer	1																Wt_or_Vol							
+White-winged Crossbill										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Eastern Goldfinch										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Slate-colored Junco										Maine	Fort Kent			1949		1949	summer	1	Plantae															Wt_or_Vol							
+Slate-colored Junco										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Slate-colored Junco										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Slate-colored Junco										Maine	Fort Kent			1950		1950	summer	1	Plantae															Wt_or_Vol							
+Slate-colored Junco										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Slate-colored Junco										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Chipping Sparrow										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Chipping Sparrow										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Chipping Sparrow										Maine	Fort Kent						summer	1																Wt_or_Vol							
+Chipping Sparrow										Maine	Fort Kent						summer	1																Wt_or_Vol							
+White-throated Sparrow										Maine	Fort Kent			1949		1949	summer	1	Plantae															Wt_or_Vol							
+White-throated Sparrow										Maine	Fort Kent						summer	1																Wt_or_Vol							
+White-throated Sparrow										Maine	Fort Kent						summer	1																Wt_or_Vol							
+White-throated Sparrow										Maine	Fort Kent			1950		1950	summer	1	Plantae															Wt_or_Vol							
+White-throated Sparrow										Maine	Fort Kent						summer	1																Wt_or_Vol							
+White-throated Sparrow										Maine	Fort Kent						summer	1																Wt_or_Vol							
