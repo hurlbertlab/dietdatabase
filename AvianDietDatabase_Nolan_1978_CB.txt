@@ -1,0 +1,23 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		March	1885	March	1950		1	Animalia	Arthropoda	Insecta	Coleoptera					yes				NA		1	Occurrence	NA	2		stomach contents		CB	
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		March	1885	March	1950		1	Animalia	Arthropoda	Insecta	Lepidoptera					yes			larva	NA		1	Occurrence	NA	2		stomach contents		CB	
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		March	1885	March	1950		1	Animalia	Arthropoda	Insecta	Diptera					yes				NA		0.5	Occurrence	NA	2		stomach contents		CB	
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		March	1885	March	1950		1	Animalia								no				NA		0.5	Occurrence	NA	2		stomach contents		CB	
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		March	1885	March	1950		1	Animalia	Arthropoda	Insecta	Coleoptera					yes				NA		0.3	Wt_or_Vol	NA	2		stomach contents		CB	
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		March	1885	March	1950		1	Animalia	Arthropoda	Insecta	Lepidoptera					yes			larva	NA		0.55	Wt_or_Vol	NA	2		stomach contents		CB	
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		March	1885	March	1950		1	Animalia	Arthropoda	Insecta	Diptera					yes				NA		0.1	Wt_or_Vol	NA	2		stomach contents		CB	
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		March	1885	March	1950		1	Animalia	Arthropoda							no				NA		0.05	Wt_or_Vol	NA	2		stomach contents		CB	
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
+Prairie Warbler	Setophaga discolor	discolor	Parulidae		NA	NA	NA	NA	NA	Eastern North America	NA		April	1885	April	1950		1	Animalia																						
