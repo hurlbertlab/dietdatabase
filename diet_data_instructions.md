@@ -109,7 +109,7 @@ Prey_Kingdom, Prey_Phylum, and Prey_Class fields. You can verify this informatio
 the prey name into the [Global Names Resolver](http://resolver.globalnames.org/) and 
 clicking on "Resolve Names". This will generate a report of the hierarchical classification
 of your name as reported by various entities. For consistency, we will typically rely on the 
-reported classification of ITIS (Integrated Taxonomic Information System), which in
+reported classification of [ITIS](https://itis.gov) (Integrated Taxonomic Information System), which in
 this example provides a report that looks like this (try finding "ITIS" on the browser page 
 using Ctrl-F as it may be a ways down in the report):
 
