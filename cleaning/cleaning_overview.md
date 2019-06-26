@@ -256,4 +256,5 @@ you may now incorporate these records into the main Avian Diet Database. The eas
 5) paste the new cleaned records at the bottom and save the file,
 6) commit this change in commit like `git commit -am "adding cleaned records from Beaver & Baldwin 1975"`
 7) push these changes to the master repo: `git push origin master`
+8) now you can delete all of the temporary files associated with that paper that has been entered (e.g. the original file, the 'clean' and 'badnames' files)
 
