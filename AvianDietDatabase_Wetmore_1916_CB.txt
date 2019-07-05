@@ -119,51 +119,55 @@ Common Tern	Sterna hirundo		Laridae		NA	NA	NA	NA	NA	Puerto Rico	Joyuda	wetland	8
 Ruddy Quail-Dove	Geotrygon montana		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	woodland	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Sapinales		Rutaceae	Citrus	Citrus X sinensis	yes				seed	sweet oranges	0.8	Occurrence	NA	5	NA	stomach contents			
 Ruddy Quail-Dove	Geotrygon montana		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	woodland	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Olyra	Olyra latifolia	yes				seed		0.4	Occurrence	NA	5	NA	stomach contents			
 Ruddy Quail-Dove	Geotrygon montana		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	woodland	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Boraginales		Cordiaceae	Cordia		yes				pits	moral	0.4	Occurrence	NA	5	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.013888889	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.097222222	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.111111111	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.402777778	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.013888889	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.013888889	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.416666667	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.166666667	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.013888889	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.027777778	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.041666667	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.041666667	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																														0.166666667	Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
-Common Ground-Dove	Columbina passerina		Columbidae																															Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Paspalum	Paspalum millegrana	yes					Many-seeded paspalum	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Paspalum		no					papsalum	0.097222222	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Digitaria	Digitaria sanguinalis	yes					crab grass	0.111111111	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Urochloa	Urochloa fusca	yes					panic grass	0.402777778	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Setaria	Setaria utowanaea	yes					panic grass	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Panicum		no					millets	0.402777778	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Olyra	Olyra latifolia	yes					broad-leafed olyra	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Sporobolus	Sporobolus indicus	yes					rush grass	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Eleusine	Eleusine indica	yes					wire grass	0.416666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Dactyloctenium	Dactyloctenium aegyptium	yes					Egyptian grass	0.166666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Poaceae	Ichnanthus	Ichnanthus pallens	yes					Ichnanthus	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Cyperaceae	Fimbristylis		yes					Fimbristylis	0.027777778	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Cyperaceae	Rhynchospora	Rhynchospora nervosa	yes					whitetop	0.041666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Cyperaceae	Scleria		yes					nut rush	0.041666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Poales		Cyperaceae	Carex		yes					sedge	0.166666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Commelinales		Commelinaceae	Tradescantia		yes					sanguinaria	0.041666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Asparagales		Hypoxidaceae	Hypoxis		yes					star grass	0.097222222	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Rosales		Moraceae	Ficus	Ficus trigonata	yes					wild fig	0.027777778	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Rosales		Moraceae	Ficus		no					wild fig	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales		Polygonaceae	Polygonum		no					knotweed	0.041666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales		Amaranthaceae	Chenopodium		no					goosefoot	0.263888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales		Amaranthaceae	Chenopodium	Chenopodium album	yes					cenizo	0.027777778	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales		Amaranthaceae	Amaranthus	Amaranthus viridis	yes					pigweed	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales		Molluginaceae	Mollugo	Mollugo verticillata	yes					carpet weed	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales		Talinaceae	Talinum	Talinum paniculatum	yes					verdolaguilla	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Caryophyllales		Portulacaceae	Portulaca	Portulaca oleracea	yes					verdolaga	0.513888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Rosales		Rosaceae	Rubus		yes					fresa	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Fabales		Fabaceae	Vicia		yes					vetch	0.25	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Fabales		Fabaceae	Macroptilium	Macroptilium lathyroides	yes					wild bean	0.027777778	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Oxalidales		Oxalidaceae	Oxalis		yes					vinagrillo	0.041666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Zygophyllales		Zygophyllaceae	Kallstroemia	Kallstroemia maxima	yes					caltrop	0.263888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Malpighiales		Euphorbiaceae			no					euphorbia	0.194444444	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Malpighiales		Euphorbiaceae	Euphorbia		yes					spurge	0.097222222	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Malpighiales		Euphorbiaceae	Jatropha		yes					jatropha	0.041666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Malpighiales		Euphorbiaceae	Croton		yes					croton	0.069444444	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Malvales		Malvaceae			no						0.375	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Malvales		Malvaceae	Sida		yes					escoba	0.388888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Malvales		Malvaceae	Melochia	Melochia nodiflora	yes					bretonica prieta	0.027777778	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Malpighiales		Salicaceae			yes						0.083333333	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Solanales		Solanaceae	Solanum		yes					nightshade	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Boraginales		Heliotropiaceae	Tournefortia		yes					nigua	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Lamiales		Plantaginaceae	Plantago		yes					llanten	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Gentianales		Rubiaceae			yes						0.083333333	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Cucurbitales		Cucurbitaceae	Cucumis		no					gherkin	0.041666667	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Cucurbitales		Cucurbitaceae	Cucumis	Cucumis anguria	yes					concombre	0.013888889	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Asteralis		Asteraceae	Anthemis		yes					dog fennel	0.027777778	Occurrence		72	NA	stomach contents			
+Common Ground-Dove	Columbina passerina		Columbidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae	Tracheophyta	Magnoliopsida	Asteralis		Asteraceae			no						0.125	Occurrence		72	NA	stomach contents			
+																																									
+																																									
+																																									
+																																									
+																								p. 51																	
