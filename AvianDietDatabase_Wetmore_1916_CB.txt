@@ -210,14 +210,50 @@ White-crowned Pigeon	Patagioenas leucocephala		Columbidae		NA	NA	NA	NA	NA	Puerto
 White-crowned Pigeon	Patagioenas leucocephala		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	wetland; forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Fabales		Fabaceae			yes				fruit		0.2	Occurrence	NA	5	NA	stomach contents		CB	
 White-crowned Pigeon	Patagioenas leucocephala		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	wetland; forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Malpighiales		Euphorbiaceae	Adelia		yes				fruit	adelia	0.2	Occurrence	NA	5	NA	stomach contents		CB	
 White-crowned Pigeon	Patagioenas leucocephala		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	wetland; forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Boraginales		Cordiaceae	Cordia		yes				fruit	moral	0.2	Occurrence	NA	5	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae	Tracheophyta	Magnoliopsida	Arecales		Arecaceae	Prestoea	Prestoea acuminata	yes					palma de sierra	0.1	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae	Tracheophyta	Magnoliopsida	Arecales		Arecaceae	Coccothrinax		yes					palmo	0.1	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae													wild fig	0.2	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae													wild fig	0.1	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae														0.1	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae													guaraguou	0.1	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae														0.1	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae													storax	0.1	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae													nightshade	0.1	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae	Tracheophyta	Magnoliopsida	Boraginales		Cordiaceae	Cordia							moral	0.1	Occurrence	NA	10	NA	stomach contents		CB	
-Scaly-naped Pigeon	Patagioenas squamosa		Columbidae																Plantae													jagua	0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Arecales		Arecaceae	Prestoea	Prestoea acuminata	yes					palma de sierra	0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Arecales		Arecaceae	Coccothrinax		yes					palmo	0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Rosales		Moraceae	Ficus	Ficus trigonata	yes					wild fig	0.2	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Rosales		Moraceae	Ficus	Ficus citrifolia	yes					wild fig	0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Fabales		Fabaceae			yes						0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Sapinales		Meliaceae	Trichilia		yes					guaraguou	0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Laurales		Lauraceae			yes						0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Ericales		Styraceae	Styrax	Styrax portoricensis	yes					storax	0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Solanales		Solanaceae	Solanum		yes					nightshade	0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Boraginales		Cordiaceae	Cordia		yes					moral	0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Scaly-naped Pigeon	Patagioenas squamosa		Columbidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest	12	1911	8	1912	NA	1	Plantae	Tracheophyta	Magnoliopsida	Gentianales		Rubiaceae	Genipa	Genipa americana	yes					jagua	0.1	Occurrence	NA	10	NA	stomach contents		CB	
+Yellow-billed Cuckoo	Coccyzus americanus		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	Joyuda	forest	8	1912	8	1912	summer	1	Animalia	Arthropoda	Insecta	Lepidoptera					yes			larva		caterpillars	0.833333333	Items	18	1	1	stomach contents		CB	
+Yellow-billed Cuckoo	Coccyzus americanus		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	Joyuda	forest	8	1912	8	1912	summer	1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Curculionidae	Diaprepes		yes			adult		sugar-cane root-boring beetles	0.166666667	Items	18	1	1	stomach contents	Diaprepes spengleri; not in IT IS	CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Tettigoniidae			yes					true grasshoppers	0.5031	Wt_or_Vol	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Gryllotalpidae	Scapteriscus	Scapteriscus didactylus	yes					mole cricket	0.0021	Wt_or_Vol	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta						no						0.031	Wt_or_Vol	NA	15	NA	stomach contents	walking sticks and a small cricket	CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Hemiptera					yes						0.0609	Wt_or_Vol	NA	15	NA	stomach contents	cicadas and stink bugs	CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Lepidoptera					yes						0.2952	Wt_or_Vol	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Coleoptera					yes					beetles	0.0359	Wt_or_Vol	NA	15	NA	stomach contents	mostly weevils	CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Arachnida	Araneae					yes					spiders	0.0406	Wt_or_Vol	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia								no					Misc. animal matter	0.0183	Wt_or_Vol	NA	15	NA	stomach contents	"earwigs, snails, and other fragments"	CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Plantae								yes					rubbish	0.01	Wt_or_Vol	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Tettigoniidae			yes					true grasshoppers	0.866666667	Occurrence	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Orthoptera	Caelifera	Tridactylidae	Ellipes	Ellipes minutus	yes					cricket	0.066666667	Occurrence	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Phasmida		Phasmatidae			yes					walking sticks	0.266666667	Occurrence	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Dermaptera					yes					earwigs	0.2	Occurrence	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Mantodea					yes					praying mantis	0.066666667	Occurrence	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Hemiptera	Auchenorrhyncha	Cicadidae			yes					cicadas	0.133333333	Occurrence	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Pentatomidae			yes					stink bug	0.066666667	Occurrence	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Lepidoptera					yes			larva		caterpillars	0.6	Occurrence	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA							1	Animalia	Arthropoda	Insecta	Lepidoptera					yes			adult		moth	0.066666667	Occurrence	NA	15	NA	stomach contents		CB	
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Podoscirtidae	Orocharis		yes							Occurrence	NA	15	NA		Orocharis terebrans		
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Gryllotalpidae	Scapteriscus	Scapteriscus didactylus	yes					mole cricket		Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Tettigoniidae	Microcentrum		yes							Occurrence	NA	15	NA		Microcentrum triangulatum		
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Tettigoniidae	Neoconocephalus		yes							Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Phasmida		Phasmatidae	Haplopus		yes							Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Orthoptera												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Hemiptera												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Hemiptera												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Arthropoda	Arachnida	Araneae												Occurrence	NA	15	NA				
+Mangrove Cuckoo	Coccyzus minor		Cuculidae															1	Animalia	Mollusca	Gastropoda	Stylommatophora		Subulinidae	Subulina		yes					snail		Occurrence	NA	15	NA				
