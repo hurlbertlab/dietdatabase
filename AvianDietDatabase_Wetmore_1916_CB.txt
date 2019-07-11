@@ -277,30 +277,59 @@ Puerto Rican Lizard-Cuckoo	Coccyzus vieilloti		Cuculidae		NA	NA	NA	NA	NA	Puerto 
 Puerto Rican Lizard-Cuckoo	Coccyzus vieilloti		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest; agriculture	12	1911	9	1912	NA	1	Animalia	Chordata	Reptilia	Squamata	Iguania	Dactyloidae	Anolis	Anolis krugi	yes						0.181818182	Occurrence	NA	11	NA	stomach contents		CB	
 Puerto Rican Lizard-Cuckoo	Coccyzus vieilloti		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest; agriculture	12	1911	9	1912	NA	1	Animalia	Chordata	Reptilia	Squamata	Iguania	Dactyloidae	Anolis	Anolis gundlachi	yes						0.090909091	Occurrence	NA	11	NA	stomach contents		CB	
 Puerto Rican Lizard-Cuckoo	Coccyzus vieilloti		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico	NA	forest; agriculture	12	1911	9	1912	NA	1	Animalia	Chordata	Reptilia	Squamata	Iguania	Dactyloidae	Anolis	Anolis stratulus	yes						0.090909091	Occurrence	NA	11	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Gryllotalpidae	Scapteriscus	Scapteriscus didactylus	yes					mole cricket	0.0569	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Orthoptera					no						0.358	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Mantodea	Mantodea	Mantidae			yes					mantids	0.0009	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Curculionidae			no					sugar-cane root-boring beetles	0.0709	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Curculionidae	Diaprepes		yes					weevils	0.0772	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Chrysomelidae			yes					leaf beetles	0.0361	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera					no					beetles	0.0472	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Scarabaeidae			yes						0.0021	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Pentatomidae			yes					squash bugs	0.0924	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Hemiptera					no						0.0122	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Lepidoptera					yes						0.0971	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Arachnida	Araneae					yes					spiders	0.0408	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia								no					Misc. animal matter	0.0145	Wt_or_Vol	NA	41	NA	stomach contents		CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Plantae								yes						0.087	Wt_or_Vol	NA	42	NA	stomach contents	"Mostly the moral, but not differentiated"	CB	
-Smooth-billed Ani	Crotophaga ani		Cuculidae															1	Animalia	Arthropoda	Insecta	Orthoptera	Caelifera	Acrididae	Schistocerca		yes							Occurrence				stomach contents			
-																																									
-																		1	Animalia	Arthropoda	Insecta	Orthoptera		Acrididae	Rhammatocerus		yes														
-																																									
-																		1	Animalia	Arthropoda	Insecta	Orthoptera																			
-																		1	Animalia	Arthropoda	Insecta	Orthoptera																			
-																		1	Animalia	Arthropoda	Insecta	Orthoptera																			
-																		1	Animalia	Arthropoda	Insecta	Orthoptera																			
-																		1	Animalia	Arthropoda	Insecta	Orthoptera																			
-																		1	Animalia	Arthropoda	Insecta	Orthoptera																			
-																		1	Animalia	Arthropoda	Insecta	Orthoptera																			
-																		1	Animalia	Arthropoda	Insecta	Orthoptera																			
-																		1	Animalia	Arthropoda	Insecta	Orthoptera																			
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Gryllotalpidae	Scapteriscus	Scapteriscus didactylus	yes					mole cricket	0.0569	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera					no						0.358	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Mantodea	Mantodea	Mantidae			yes					mantids	0.0009	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Curculionidae			no					sugar-cane root-boring beetles	0.0709	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Curculionidae	Diaprepes		yes					weevils	0.0772	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Chrysomelidae			yes					leaf beetles	0.0361	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Coleoptera					no					beetles	0.0472	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Scarabaeidae			yes						0.0021	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Pentatomidae			yes					squash bugs	0.0924	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera					no						0.0122	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Lepidoptera					yes						0.0971	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Arachnida	Araneae					yes					spiders	0.0408	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia								no					Misc. animal matter	0.0145	Wt_or_Vol	NA	41	NA	stomach contents		CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Plantae								yes						0.087	Wt_or_Vol	NA	41	NA	stomach contents	"Mostly the moral, but not differentiated"	CB	
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Caelifera	Acrididae	Schistocerca		no						0.12195122	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Caelifera	Acrididae	Schistocerca		yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Caelifera	Acrididae	Rhammatocerus		no						0.146341463	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Caelifera	Acrididae	Rhammatocerus		yes						0.048780488	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Tettigoniidae	Conocephalus		yes						0.048780488	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Tettigoniidae	Neoconocephalus		no						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Tettigoniidae	Neoconocephalus	Neoconocephalus triops	yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Mantodea	Mantodea	Mantidae			yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Gryllidae	Anurogryllus		no						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Gryllidae	Anurogryllus		yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Gryllidae	Gryllus	Gryllus assimilis	yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Orthoptera	Ensifera	Gryllotalpidae	Scapteriscus	Scapteriscus didactylus	yes						0.12195122	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Corixidae	Corixa		yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Notonectidae	Notonecta		yes						0.048780488	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Reduviidae	Zelus		yes						0.048780488	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Reduviidae	Phymata	Phymata angulata	yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Rhopalidae	Arhyssus		yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Coreidae	Catorhintha		yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Coreidae	Spartocera	Spartocera fusca	yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Pentatomidae	Edessa		yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Pentatomidae	Nezara		yes						0.073170732	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Pentatomidae	Proxys		yes						0.048780488	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Pentatomidae	Thyanta		yes						0.097560976	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Heteroptera	Pentatomidae	Thyanta	Thyanta perditor	yes						0.073170732	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Hemiptera	Sternorrhyncha	Margarodidae			yes						0.024390244	Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Coleoptera	Adephaga	Carabidae	Calosoma	Calosoma sayi	yes							Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Coleoptera	Adephaga	Carabidae	Selenophorus		yes							Occurrence	NA	41	NA				
+Smooth-billed Ani	Crotophaga ani		Cuculidae		NA	NA	NA	NA	NA	Puerto Rico								1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Coccinellinae	Cycloneda	Cycloneda sanguinea	yes							Occurrence	NA	41	NA				
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Elateridae	Conoderus		yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Scarabaeidae	Labarrus	Labarrus lividus	yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Scarabaeidae	Ataenius	Ataenius stercorator	yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Cerambycinae	Chlorida	Chlorida festiva	yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Chrysomelidae	Diabrotica		yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Chrysomelidae	Cerotoma		yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Chrysomelidae	Lema		yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Chrysomelidae	Coptocycla		yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Chrysomelidae	Chaetocnema		yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Chrysomelidae	Myochrous		yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Curculionidae	Rhyssomatus		yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera	Polyphaga	Curculionidae	Metamasius		yes														
+																		1	Animalia	Arthropoda	Insecta	Coleoptera																			
+																		1	Animalia	Arthropoda	Insecta	Coleoptera																			
