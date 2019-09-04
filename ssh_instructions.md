@@ -22,6 +22,3 @@
 
  ```ssh -T git@github.com```
 
-10. Clone the dietdatabase repository by typing:
- 
- ```git clone git@github.com:hurlbertlab/dietdatabase.git```
