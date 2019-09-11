@@ -4,6 +4,7 @@ library(dplyr)
 library(tidyr)
 library(taxize)
 library(maps)
+library(stringr)
 
 
 source('scripts/database_summary_functions.R')
