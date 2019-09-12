@@ -167,14 +167,12 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Prey_Order</td>
-    <td>Order to which the prey item belongs (e.g. Lepidoptera).</td>
+    <td>Order to which the prey item belongs (e.g. Lepidoptera).  Recently, termites (formerly Isoptera) and cockroaches (Blattodea) were united within Order Blattodea. If termites are listed as a diet item, enter them as Order Blattodea, and put "termites" under Prey_Common_Name.</td>
   </tr>
   <tr>
     <td>Prey_Suborder</td>
     <td>Suborder to which the prey item belongs. This field will most frequently be used when older studies report prey orders 
-    "Homoptera", "Hemiptera", and "Heteroptera", which now all fall under the Order Hemiptera. Thus, a report of "Homoptera" should
-    be classified as Order Hemiptera, Suborder Homoptera. An older (pre-2000s) report of "Hemiptera" should be classified as Order
-    Hemiptera, Suborder Heteroptera.</td>
+    "Homoptera", "Hemiptera", and "Heteroptera", which now all fall under the Order Hemiptera. An older (pre-2000s) report of "Hemiptera" should be classified as Order Hemiptera, Suborder Heteroptera. Any report of Homoptera classically referred to either aphids, psyillids, and whiteflies (now Order Hemiptera, Suborder Sternorrhyncha) or to leafhoppers, treehoppers, planthoppers, and cicadas (now Order Hemiptera, Suborder Auchenorrhyncha). In some cases, there may be clues in the text that suggest which of these suborders is being referred to when the authors use "Homoptera". If there are no clues as to suborder, then the prey should be listed as Order Hemiptera, Inclusive_Prey_Taxon = "yes" (if there is no other Hemiptera entry in the diet), or Order Hemiptera, Inclusive_Prey_Taxon = "no" (if there _is_ a separate entry for Order Hemiptera, Suborder Heteroptera).</td>
   </tr>
   <tr>
     <td>Prey_Family</td>
