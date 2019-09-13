@@ -7170,7 +7170,7 @@ Ruffed Grouse	Phasianidae	2000	Feeding	Main Foods Taken	"Kittams, W. H. 1943. Oc
 Ruffed Grouse	Phasianidae	2000	Feeding	Main Foods Taken	"Brown, C. P. 1946. Food of Maine Ruffed Grouse by seasons and cover types. J. Wildl. Manage. 10:17-28."	y	y		
 Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Bryant, J. P. and P. Kuropat. 1980. Selection of winter forage by subarctic browsing vertebrates: the role of plant chemistry. Ann. Rev. Ecol. Syst. 11:261-285."	y	n		
 Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Servello, F. A. 1985. Regional variation in the nutritional ecology of Ruffed Grouse. Phd Thesis. Virginia Polytechnic Inst. and State Univ. Blacksburg."	y	n		
-Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Servello, F. A. and R. L. Kirkpatrick. 1988. Nutrition and condition of Ruffed Grouse during the breeding season in southwestern Virginia. Condor 90:836-842."			requested	
+Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Servello, F. A. and R. L. Kirkpatrick. 1988. Nutrition and condition of Ruffed Grouse during the breeding season in southwestern Virginia. Condor 90:836-842."	y	n		
 =======									
 Ruffed Grouse	Phasianidae	2000	Feeding	Main Foods Taken	"Kittams, W. H. 1943. October foods of Ruffed Grouse in Maine. J. Wildl. Manage. 7:231-233."				
 Ruffed Grouse	Phasianidae	2000	Feeding	Main Foods Taken	"Brown, C. P. 1946. Food of Maine Ruffed Grouse by seasons and cover types. J. Wildl. Manage. 10:17-28."				
