@@ -58,7 +58,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Psittacidae
 
 ### Strigiformes
---Strigidae   (**** more refs to check ****)   
+--Strigidae   (**** more refs to check ****)   GIANNA
 --Tytonidae
 
 ### Trogoniformes  
@@ -75,6 +75,10 @@ Note that Families for which I know that data remain to be entered are highlight
 ### Coraciiformes
 --Alcedinidae
 
+### Gruiformes  
+--Aramidae  
+--Gruidae     
+
 ----------
 
 A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
@@ -85,9 +89,7 @@ A secondary set of Orders to enter after the above are finished. When they have 
 --Phasianidae (**** lots to check ****)- MELISSA
 
 ### Gruiformes  
---Aramidae  
---Gruidae     
---Rallidae (9 to enter)  
+--Rallidae (9 to enter)  ELLIE
 
 
 ---------
