@@ -7165,19 +7165,11 @@ Ring-necked Pheasant	Phasianidae	2001	"Drinking, Pellet-Casting, And Defecation"
 Ring-necked Pheasant	Phasianidae	2001	Nutrition And Energetics		"Barrett, M. W. and E. D. Bailey. 1972. Influence of metabolizable energy on condition and reproduction of pheasants. J. Wildl. Manage. 36:12-23."	y	n		
 Ring-necked Pheasant	Phasianidae	2001	Nutrition And Energetics		"National Research Council. 1977. Nutrient requirements of poultry. 7th ed. Natl. Acad. Press, Washington, D.C."				
 Ring-necked Pheasant	Phasianidae	2001	"Drinking, Pellet-Casting, And Defecation"		"Sharp, W. M. and H. E. McClure. 1945. The pheasant in the sandhill region of Nebraska. Pages 203-233 in The Ring-necked Pheasant and its management in North America. (McAtee, W. L., Ed.) The Am. Wildl. Inst. Washington, D.C."				
-<<<<<<< HEAD									
 Ruffed Grouse	Phasianidae	2000	Feeding	Main Foods Taken	"Kittams, W. H. 1943. October foods of Ruffed Grouse in Maine. J. Wildl. Manage. 7:231-233."	y	y		
 Ruffed Grouse	Phasianidae	2000	Feeding	Main Foods Taken	"Brown, C. P. 1946. Food of Maine Ruffed Grouse by seasons and cover types. J. Wildl. Manage. 10:17-28."	y	y		
 Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Bryant, J. P. and P. Kuropat. 1980. Selection of winter forage by subarctic browsing vertebrates: the role of plant chemistry. Ann. Rev. Ecol. Syst. 11:261-285."	y	n		
 Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Servello, F. A. 1985. Regional variation in the nutritional ecology of Ruffed Grouse. Phd Thesis. Virginia Polytechnic Inst. and State Univ. Blacksburg."	y	n		
 Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Servello, F. A. and R. L. Kirkpatrick. 1988. Nutrition and condition of Ruffed Grouse during the breeding season in southwestern Virginia. Condor 90:836-842."	y	n		
-=======									
-Ruffed Grouse	Phasianidae	2000	Feeding	Main Foods Taken	"Kittams, W. H. 1943. October foods of Ruffed Grouse in Maine. J. Wildl. Manage. 7:231-233."				
-Ruffed Grouse	Phasianidae	2000	Feeding	Main Foods Taken	"Brown, C. P. 1946. Food of Maine Ruffed Grouse by seasons and cover types. J. Wildl. Manage. 10:17-28."				
-Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Bryant, J. P. and P. Kuropat. 1980. Selection of winter forage by subarctic browsing vertebrates: the role of plant chemistry. Ann. Rev. Ecol. Syst. 11:261-285."				
-Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Servello, F. A. 1985. Regional variation in the nutritional ecology of Ruffed Grouse. Phd Thesis. Virginia Polytechnic Inst. and State Univ. Blacksburg."				
-Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Servello, F. A. and R. L. Kirkpatrick. 1988. Nutrition and condition of Ruffed Grouse during the breeding season in southwestern Virginia. Condor 90:836-842."	y	n		
->>>>>>> 3502e7c809d88714c330333d101ab5c540a4f3cb									
 Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Beckerton, P. R. and A. L. A. Middleton. 1983. Effects of dietary protein levels on body weight, food consumption, and nitrogen balance in Ruffed Grouse. Condor 85:53-60."				
 Ruffed Grouse	Phasianidae	2000	Nutrition And Energetics		"Beckerton, P. R. and A. L. A. Middleton. 1982. Effects of dietary protein levels on Ruffed Grouse reproduction. J. Wildl. Manage. 46:569-579."	y	n		
 Ruffed Grouse	Phasianidae	2000	Metabolism And Temperature Regulation		"Thompson III, F. R. and E. K. Fritzell. 1988b. Ruffed Grouse metabolic rate and temperature cycles. J. Wildl. Manage. 52:450-453."	y	n		
@@ -7318,19 +7310,11 @@ Willow Ptarmigan	Phasianidae	1998	Diet		"Schuppli, C. A. 1993. Factors that infl
 Willow Ptarmigan	Phasianidae	1998	Diet		"Martin, K. and D. Hik. 1992. Willow Ptarmigan chicks consume moss sporophyte capsules. J. Field Ornithol. 63:355-358."	y	n		
 Willow Ptarmigan	Phasianidae	1998	Diet		"Bergerud, A. T. and W. E. Mercer. 1972. Spring foods of Willow Ptarmigan Lagopus lagopus alleni in southeastern Newfoundland. Oikos 23:213-217."	y	y	Gives an average volume per bird	
 Willow Ptarmigan	Phasianidae	1998	Food Selection And Storage		"Moss, R. 1972b. Food selection by Red Grouse (Lagopus lagopus scoticus (Lath.)) in relation to chemical composition. J. Anim. Ecol. 41:411-428."	y	n		
-<<<<<<< HEAD									
 Willow Ptarmigan	Phasianidae	1998	Food Selection And Storage		"Gardarsson, A. and R. Moss. 1970. Selection of food by Icelandic Ptarmigan in reaction to its availability and nutritive value. Pages 47-71 in Animal populations in relation to their food resources. (Watson, A., Ed.) Blackwell Scientific Publications, Oxford."	y	y		
 Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Andreev, A. V. 1991. Winter adaptations in the Willow Ptarmigan. Arctic 44:106-114."	y	n	Mentions measuring crop contents but provides no data 	
 Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Savory, C. J. 1978. Food consumption of Red Grouse in relation to the age and productivity of heather. J. Anim. Ecol. 47:269-282."	y	n		
 Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Gabrielson, G. W. and S. Unander. 1987. Energy costs during incubation in Svalbard and Willow Ptarmigan. Polar Res. 5:59-69."	y	n		
 Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"West, G. C. 1968. Bioenergetics of captive Willow Ptarmigan under natural conditions. Ecology 49:1035-1045."	y	n		
-=======									
-Willow Ptarmigan	Phasianidae	1998	Food Selection And Storage		"Gardarsson, A. and R. Moss. 1970. Selection of food by Icelandic Ptarmigan in reaction to its availability and nutritive value. Pages 47-71 in Animal populations in relation to their food resources. (Watson, A., Ed.) Blackwell Scientific Publications, Oxford."				
-Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Andreev, A. V. 1991. Winter adaptations in the Willow Ptarmigan. Arctic 44:106-114."				
-Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Savory, C. J. 1978. Food consumption of Red Grouse in relation to the age and productivity of heather. J. Anim. Ecol. 47:269-282."				
-Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"Gabrielson, G. W. and S. Unander. 1987. Energy costs during incubation in Svalbard and Willow Ptarmigan. Polar Res. 5:59-69."				
-Willow Ptarmigan	Phasianidae	1998	Nutrition And Energetics		"West, G. C. 1968. Bioenergetics of captive Willow Ptarmigan under natural conditions. Ecology 49:1035-1045."				
->>>>>>> 5e8ecbe66f912f7aa2e532c7fed9431dd75b317b									
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Mercer, J. B. and E. Simon. 1987. Appropriate and inappropriate hypothalmic cold thermosensitivity in Willow Ptarmigan. Acta Physiol. Scand. 131:73-80."	y	n		
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"West, G. C. 1972. Seasonal differences in resting metabolic rate of Alaskan ptarmigan. Comp. Biochem. Physiol. 42A:867-876."	y	n		
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Stokkan, K. A. 1992. Energetics and adaptations to cold in ptarmigan in winter. Ornis Scand. 23:366-370."	y	n		
