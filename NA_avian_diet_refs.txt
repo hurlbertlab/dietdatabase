@@ -9771,7 +9771,7 @@ Barred Owl	Strigidae	2000	Metabolism And Temperature Regulation		"Mazur, K. M., 
 Barred Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Nero, R. W. 1993. Evidence of snow-plunging by Boreal and Barred owls. Blue Jay 51:166-169."	n			
 Barred Owl	Strigidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Blakemore, L. A. 1940. Barred Owl food habits in Glenwood Park, Minneapolis, Minnesota. Flicker 12:21-23."	y	n		
 Barred Owl	Strigidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Duke, G. E., O. A. Evanson, and A. Jegers. 1976. Meal to pellet intervals in 14 species of captive raptors. Comp. Biochem. Physiol. 53:1-6."	y	n		
-Barred Owl	Strigidae	2000	Metabolism And Temperature Regulation		"Barrows, C. W. 1981. Roost selection by Spotted Owls: an adaptation to heat stress. Condor 83:302-309."	y	n		
+Barred Owl	Strigidae	2000	Metabolism And Temperature Regulation		"Barrows, C. W. 1981. Roost selection by Spotted Owls: an adaptation to heat stress. Condor 83:302-309."	Y	N		
 Barred Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Dunstan, T. C. and S. D. Sample. 1972. Biology of Barred Owls in Minnesota. Loon 44:111-115."	n			
 Barred Owl	Strigidae	2000	"Drinking, Pellet-Casting, And Defecation"		"Isley, D. 1912. A list of the birds of Sedgwick County, Kansas. Auk 29:25-45."	y	n		
 Barred Owl	Strigidae	2000	Feeding	Food Capture And Consumption	"Takats, D. L. 1996. Foraging observations of a Barred Owl in the Foothills Model Forest. Alberta Nat. 26:29-30."	y	n		
