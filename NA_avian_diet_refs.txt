@@ -8262,15 +8262,15 @@ Phainopepla	Ptilogonatidae	1999	Feeding	"Manner Of Finding, Taking, And Consumin
 Phainopepla	Ptilogonatidae	1999	Diet	Quantitative Analysis	"Rosenberg, K. V., R. D. Ohmart, W. C. Hunter, and B. W. Anderson. 1991. Birds of the Lower Colorado River Valley. Univ. of Arizona Press, Tucson."	y	n		
 Phainopepla	Ptilogonatidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Crouch, J. E. 1943. Distribution and habitat relations of the Phainopepla. Auk 60:319-332."	y	n		
 Phainopepla	Ptilogonatidae	1999	Metabolism And Temperature Regulation		"Walsberg, G. E. 1993. Thermal consequences of diurnal microhabitat selection in a small bird. Ornis Scandinavica 24:174-182."	y	n		
-American Coot	Rallidae	2002	Feeding	Food Capture And Consumption	"Anderson, M. G. 1974. American Coots feeding in association with Canvasbacks. Wilson Bull. 86:462-463."				
-American Coot	Rallidae	2002	Feeding	Microhabitat For Foraging	"Desrochers, B. A. and C. D. Ankney. 1986. Effect of brood size and age on the feeding behavior of adult and juvenile American Coots (Fulica americana). Can. J. Zool. 64:1400-1406."				
-American Coot	Rallidae	2002	Diet	Major Food Items	"Jones, J. C. 1940. Food habits of the American Coot with notes on distribution. U.S. Dep. Int. Wildl. Res. Bull. no. 2."				
-American Coot	Rallidae	2002	Diet	Major Food Items	"Mccurdy, G. F. 1983. American Coot apparently suffocates while attempting to swallow lizard. Wilson Bull. 95:158."				
-American Coot	Rallidae	2002	Diet	Major Food Items	"Huner, J. V. 2000. Crawfish and waterbirds. Am. Sci. 88:301-303."				
-American Coot	Rallidae	2002	Feeding	Food Capture And Consumption	"Ryder, R. A. 1958. Coot-waterfowl relationships in northern Utah. Phd Thesis. Utah State Univ. Logan."				
-American Coot	Rallidae	2002	Diet	Quantitative Analysis	"Swanson, G. A. and J. C. Bartonek. 1970. Bias associated with food analysis in gizzards of Blue-winged Teal. J. Wildl. Manage. 34:739-746."				
-American Coot	Rallidae	2002	Diet	Major Food Items	"Esler, D. 1990. Avian community responses to hydrilla invasion. Wilson Bull. 102:427-440."				
-American Coot	Rallidae	2002	Diet	Major Food Items	"Fitzner, R. E., E. T. Sipco, and R. G. Schreckhise. 1980. American Coot nesting and feeding habits in southeastern Washington. Northwest Sci. 54:244-252."				
+American Coot	Rallidae	2002	Feeding	Food Capture And Consumption	"Anderson, M. G. 1974. American Coots feeding in association with Canvasbacks. Wilson Bull. 86:462-463."	y	n		
+American Coot	Rallidae	2002	Feeding	Microhabitat For Foraging	"Desrochers, B. A. and C. D. Ankney. 1986. Effect of brood size and age on the feeding behavior of adult and juvenile American Coots (Fulica americana). Can. J. Zool. 64:1400-1406."	y	n		
+American Coot	Rallidae	2002	Diet	Major Food Items	"Jones, J. C. 1940. Food habits of the American Coot with notes on distribution. U.S. Dep. Int. Wildl. Res. Bull. no. 2."	n		unavailable	
+American Coot	Rallidae	2002	Diet	Major Food Items	"Mccurdy, G. F. 1983. American Coot apparently suffocates while attempting to swallow lizard. Wilson Bull. 95:158."	y	n		
+American Coot	Rallidae	2002	Diet	Major Food Items	"Huner, J. V. 2000. Crawfish and waterbirds. Am. Sci. 88:301-303."	y	n		
+American Coot	Rallidae	2002	Feeding	Food Capture And Consumption	"Ryder, R. A. 1958. Coot-waterfowl relationships in northern Utah. Phd Thesis. Utah State Univ. Logan."	n		unavailable	
+American Coot	Rallidae	2002	Diet	Quantitative Analysis	"Swanson, G. A. and J. C. Bartonek. 1970. Bias associated with food analysis in gizzards of Blue-winged Teal. J. Wildl. Manage. 34:739-746."	y	n		
+American Coot	Rallidae	2002	Diet	Major Food Items	"Esler, D. 1990. Avian community responses to hydrilla invasion. Wilson Bull. 102:427-440."	y	n		
+American Coot	Rallidae	2002	Diet	Major Food Items	"Fitzner, R. E., E. T. Sipco, and R. G. Schreckhise. 1980. American Coot nesting and feeding habits in southeastern Washington. Northwest Sci. 54:244-252."	y	y		
 American Coot	Rallidae	2002	Feeding	Microhabitat For Foraging	"Ripley, S. D. 1977. Rails of the world: a monograph of the family Rallidae. David R. Godine, Boston, MA."				
 American Coot	Rallidae	2002	Feeding	Food Capture And Consumption	"Thompson, D. 1973. Feeding ecology of diving ducks on Keokuk Pool, Mississippi River. J. Wildl. Manage. 37:367-381."				
 American Coot	Rallidae	2002	"Nutrition, Metabolism, And Energetics"		"Sutter, G. C. and R. A. MacArthur. 1989a. Thermoregulatory performance of fledgling American Coots (Fulica americana) in air and water. Can. J. Zool. 67:1339-1346."				
