@@ -1,35 +1,44 @@
 Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
-Ruffed grouse	Bonasa umbellus		Phasianidae	eBird Clements Checklist v_2018	-147.42	64.5	NA	NA	609.6	Alaska	Fairbanks	"woodland, deciduous forest"	9	1960	10	1970	fall		Plantae						Rosa	Rosa acicularis	Yes			NA	vegetation		0.4	Wt_or_vol	NA	49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae															Wt_or_vol		49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																	49	1	Crop contents		MMS	
-																			Plantae																		1	Crop contents		MMS	
-																			Plantae																		1	Crop contents		MMS	
-																			Plantae																		1	Crop contents		MMS	
+Ruffed grouse	Bonasa umbellus		Phasianidae	eBird Clements Checklist v_2018	-147.7	64.8333	NA	NA	609.6	Alaska	Fairbanks	"woodland, deciduous forest"	9	1960	10	1970	fall		Plantae						Rosa	Rosa acicularis	Yes			NA	vegetation		0.4	Wt_or_vol	NA	49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Viburnum	Viburnum edule	Yes			NA	fruit		0.2	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Populus	Populus tremuloides	Yes			NA	bud		0.1	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Arctostaphylos	Arctostaphylos uva-ursi	Yes			NA	fruit		0.1	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Vaccinium	Vaccinium uliginosum	Yes			NA	fruit		0.05	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Salix	NA	Yes			NA	bud		0.04	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Equisetum	NA	Yes			NA	vegetation		0.02	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Vaccinium	Vaccinium vitis-idaea	Yes			NA	fruit		0.01	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Carex	NA	Yes			NA	seed		0.01	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Arctous	Arctous alpina	Yes			NA	fruit		0.01	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Trifolium	NA	Yes			NA	vegetation		0.01	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Fungi	Basidiomycota	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.01	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	NA		0.03	Wt_or_vol		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Rosa	Rosa acicularis	Yes			NA	vegetation		0.65	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Viburnum	Viburnum edule	Yes			NA	NA		0.31	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Populus	Populus tremuloides	Yes			NA	bud		0.16	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Arctostaphylos	Arctostaphylos uva-ursi	Yes			NA	fruit		0.08	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Vaccinium	Vaccinium uliginosum	Yes			NA	fruit		0.25	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Salix	NA	Yes			NA	bud		0.18	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Equisetum	NA	Yes			NA	vegetation		0.31	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Vaccinium	Vaccinium vitis-idaea	Yes			NA	fruit		0.2	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Carex	NA	Yes			NA	seed		0.04	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Arctous	Arctous alpina	Yes			NA	fruit		0.16	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae						Trifolium	NA	Yes			NA	vegetation		0.02	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae	Basidiomycota	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.02	Occurrence		49	1	Crop contents		MMS	
+													9	1960	10	1970	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	NA		0.51	Occurrence		49	1	Crop contents		MMS	
+													10	1960	4	1970	winter		Plantae						Rosa	Rosa acicularis	Yes			NA	vegetation		0.05	Wt_or_vol		74	1	Crop contents		MMS	
+																			Plantae						Viburnum	Viburnum edule	Yes			NA	fruit		0.005	Wt_or_vol		74	1	Crop contents		MMS	
+																			Plantae						Populus	Populus tremuloides	Yes			NA	bud		0.55	Wt_or_vol		74	1	Crop contents		MMS	
+																			Plantae						Salix	NA	Yes			NA	bud		0.34	Wt_or_vol		74	1	Crop contents		MMS	
+																			Plantae						Betula	Betula papyrifera	Yes			NA	bud		0.02	Wt_or_vol		74	1	Crop contents		MMS	
+																			Plantae						Shepherdia	Shepherdia canadensis	Yes			NA	bud		0.02	Wt_or_vol		74	1	Crop contents		MMS	
+																			Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	fruit		0.01	Wt_or_vol		74	1	Crop contents		MMS	
+																			Plantae						Rosa	Rosa acicularis	Yes			NA	vegetation		0.27	Occurrence		74	1	Crop contents		MMS	
+																			Plantae						Viburnum	Viburnum edule	Yes			NA	fruit		0.18	Occurrence		74	1	Crop contents		MMS	
+																			Plantae						Populus	Populus tremuloides	Yes			NA	bud		0.55	Occurrence		74	1	Crop contents		MMS	
+																			Plantae						Salix	NA	Yes			NA	bud		0.61	Occurrence		74	1	Crop contents		MMS	
+																			Plantae						Betula	Betula papyrifera	Yes			NA	bud		0.04	Occurrence		74	1	Crop contents		MMS	
+																			Plantae						Shepherdia	Shepherdia canadensis	Yes			NA	bud		0.2	Occurrence		74	1	Crop contents		MMS	
+																			Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	fruit		0.01	Occurrence		74	1	Crop contents		MMS	
+																																		Occurrence		74	1	Crop contents		MMS	
+																																		Occurrence		74	1	Crop contents		MMS	
+																																		Occurrence		74	1	Crop contents		MMS	
