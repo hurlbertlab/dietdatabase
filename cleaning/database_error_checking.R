@@ -205,18 +205,20 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
   
 
   # Error checking -- text fields
-  season = strsplit(diet$Observation_Season, ";") %>%
-    unlist() %>%
-    trimws() %>%
-    table() %>%
-    data.frame() %>%
-    # List of acceptable values here
-    filter(!tolower(.) %in% c('multiple', 'summer', 'spring', 'fall', 'winter', NA))
-  if (nrow(season) == 0) {
-    season = "OK"
-  } else {
-    names(season) = c('Observation_Season', 'n')
-  }
+  season = strsplit(as.character(diet$Observation_Season), ";") %>%
+      unlist() %>%
+      trimws() %>%
+      table() %>%
+      data.frame() %>%
+      # List of acceptable values here
+      filter(!tolower(.) %in% c('multiple', 'summer', 'spring', 'fall', 'winter', NA))
+    if (nrow(season) == 0) {
+      season = "OK"
+    } else {
+      names(season) = c('Observation_Season', 'n')
+    }
+
+  
 
   
   if (sum(is.na(diet$Habitat_type)) == nrow(diet)) {
