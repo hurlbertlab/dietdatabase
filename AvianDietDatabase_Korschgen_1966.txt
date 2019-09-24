@@ -1,90 +1,495 @@
 Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
-Ruffed grouse	Bonasa umbellus		Phasianidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	Missouri	Warren County	deciduous forest	12	1961	12	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	NA		0.001	Wt_or_vol		630	1	Fecal contents		MMS	
-																			Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.256	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.132	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Vitis	NA	Yes			NA	NA	Wild grapes	0.038	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.052	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.234	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.02	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.021	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.095	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.042	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.018	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Rosa	NA	No			NA	NA	Wild rose	0.037	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.034	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.003	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.001	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.008	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.001	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.002	Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae															Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae															Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae															Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae															Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae															Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae															Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae															Wt_or_vol			1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																			Plantae																		1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
-																																					1	Fecal contents		MMS	
+Ruffed grouse	Bonasa umbellus		Phasianidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	Missouri	Warren County	deciduous forest	12	1961	12	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.001	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.256	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.132	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Vitis	NA	Yes			NA	NA	Wild grapes	0.038	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.052	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.234	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.02	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.021	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.095	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.042	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.018	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.037	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.034	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.003	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.001	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.008	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.001	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.002	Wt_or_vol		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.014	Occurrence		630	1	Fecal contents	Wild grapes were completely left out of occurrence measurements for unstated reasons; many items were reported as trace amounts by volume but were given a value for occurrence	MMS	
+													12	1961	12	1964	winter		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.259	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.286	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.278	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.29	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.051	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.043	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.195	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.181	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.03	Occurrence		630	1	Fecal contents		MMS	
+																			Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.013	Occurrence		630	1	Fecal contents		MMS	
+																			Plantae						Carex	NA	Yes			NA	NA	Sedge	0.024	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.184	Occurrence		630	1	Fecal contents		MMS	
+																			Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.005	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.068	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.094	Occurrence		630	1	Fecal contents		MMS	
+																			Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.005	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.016	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.197	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.043	Occurrence		630	1	Fecal contents		MMS	
+													12	1961	12	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.006	Occurrence		630	1	Fecal contents		MMS	
+																			Plantae						Zea	NA	Yes			NA	NA	Corn	0.002	Occurrence		630	1	Fecal contents		MMS	
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.043	Occurrence		630	1	Fecal contents		MMS	
+													1	1961	1	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.006	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.186	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.123	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Vitis	NA	Yes			NA	NA	Wild grapes	0.037	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.085	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.2	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.014	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.077	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.016	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.047	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.051	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.046	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.016	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.016	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.026	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.005	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.017	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.011	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.003	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae						Zea	NA	Yes			NA	NA	Corn	0.006	Wt_or_vol		750	1	Fecal contents		MMS	
+																	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.032	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.22	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.393	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.252	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.301	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.04	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.164	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.12	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.257	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Kummerowia	Kummerowia stipulacea	Yes			NA	NA	Korean lespedeza	0.001	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.099	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.073	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.016	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.189	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.055	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.091	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.075	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.007	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.061	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Trifolium	Trifolium repens	Yes			NA	NA	Ladino clover	0.001	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.001	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.145	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.041	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.008	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae						Zea	NA	Yes			NA	NA	Corn	0.019	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.083	Occurrence		750	1	Fecal contents		MMS	
+																	winter		Plantae																		1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.031	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.268	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.035	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter								Vitis	NA	Yes			NA	NA	Wild grape	0.058	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.083	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.152	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.096	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.115	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.029	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.009	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.026	Wt_or_vol		700	1	Fecal contents		MMS	
+													2	1961	2	1964	winter		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.013	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.009	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.005	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.014	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.007	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae						Trifolium	Trifolium repens	Yes			NA	NA	Ladino clover	0.024	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.003	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.001	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae						Zea	NA	Yes			NA	NA	Corn	0.006	Wt_or_vol		700					
+													2	1961	2	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.049	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.316	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.266	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.284	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.234	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.144	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.221	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.161	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.161	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Kummerowia	Kummerowia stipulacea	Yes			NA	NA	Korean lespedeza	0.001	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.034	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.006	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.007	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.12	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.026	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.074	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.063	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.083	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Trifolium	Trifolium repens	Yes			NA	NA	Ladino clover	0.039	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.009	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.12	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.016	Occurrence		700					
+													2	1961	2	1964	winter		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.02	Occurrence		700					
+													2	1961	2	1964	winter		Plantae						Zea	NA	Yes			NA	NA	Corn	0.017	Occurrence		700					
+													2	1961	2	1964	winter		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.063	Occurrence		700					
+													3	1961	3	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.056	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.168	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.154	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Vitis	NA	Yes			NA	NA	Wild grape	0.067	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.117	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.059	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.14	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.078	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.018	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.01	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.019	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.045	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.008	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.01	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.004	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.003	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.006	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.014	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Trifolium	Trifolium repens	Yes			NA	NA	Ladino clover	0.008	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.002	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.002	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.002	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae						Zea	NA	Yes			NA	NA	Corn	0.001	Wt_or_vol		800					
+													3	1961	3	1964	spring		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.004	Wt_or_vol		800					
+													3	1961	3	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.148	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.265	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.488	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.266	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.118	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.248	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.223	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.103	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.168	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Kummerowia	Kummerowia stipulacea	Yes			NA	NA	Korean lespedeza	0.003	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.04	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.108	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.001	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.106	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.056	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.068	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.065	Occurrence		800					
+													3	1961	3	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.041	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.094	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Trifolium	Trifolium repens	Yes			NA	NA	Ladino clover	0.016	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.045	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.08	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.001	Occurrence		800					
+													3	1961	3	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.051	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Ulmus	Ulmus rubra	Yes			NA	NA	Slipper elm	0.001	Occurrence		800					
+													3	1961	3	1964	spring		Plantae						Zea	NA	Yes			NA	NA	Corn	0.004	Occurrence		800					
+													3	1961	3	1964	spring		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.251	Occurrence		800					
+													4	1961	4	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.127	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.252	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.126	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Vitis	NA	Yes			NA	NA	Wild grape	0.042	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.05	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.002	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.146	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.038	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.01	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.004	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.005	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.019	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.001	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.002	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.016	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.002	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	flower		0.01	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Carpinus	Carpinus caroliniana	Yes			NA	NA	Blue beech	0.06	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.036	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.001	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Trifolium	Trifolium repens	Yes			NA	NA	Ladino clover	0.006	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.02	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Ulmus	Ulmus rubra	Yes			NA	NA	Slipper elm	0.014	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae						Zea	NA	Yes			NA	NA	Corn	0.001	Wt_or_vol		800					
+													4	1961	4	1964	spring		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.004	Wt_or_vol		800					
+													4	1961	4	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.253	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.434	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.498	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.135	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.02	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.324	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.131	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.053	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.063	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.013	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.064	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.023	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.08	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.045	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.015	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.05	Occurrence		800					
+													4	1961	4	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	flower		0.015	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Carpinus	Carpinus caroliniana	Yes			NA	NA	Blue beech	0.074	Occurrence		800					
+													4	1961	4	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.131	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.019	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Trifolium	Trifolium repens	Yes			NA	NA	Ladino clover	0.015	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.119	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.028	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.001	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Ulmus	Ulmus rubra	Yes			NA	NA	Slipper elm	0.023	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Zea	NA	Yes			NA	NA	Corn	0.03	Occurrence		800					
+													4	1961	4	1964	spring		Plantae						Cornus	NA	No			NA	NA	Dogwood	0.001	Occurrence		800					
+													4	1961	4	1964	spring		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.335	Occurrence		800					
+													5	1961	5	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.313	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.084	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.035	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Vitis	NA	Yes			NA	NA	Wild grape	0.007	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.005	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.122	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.151	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.005	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.015	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Thalictrum	Thalictrum thalictroides	Yes			NA	NA	Rue anemone	0.093	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.001	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.032	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.001	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	flower		0.076	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Carpinus	Carpinus caroliniana	Yes			NA	NA	Blue beech	0.002	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Trifolium	Trifolium repens	Yes			NA	NA	Ladino clover	0.001	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Viola	NA	Yes			NA	NA	Violet	0.017	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.017	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae						Ulmus	Ulmus rubra	Yes			NA	NA	Slipper elm	0.002	Wt_or_vol		500					
+													5	1961	5	1964	spring		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.013	Wt_or_vol		500					
+													5	1961	5	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.548	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.18	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.132	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.062	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.226	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.534	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.004	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.02	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.02	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.248	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Thalictrum	Thalictrum thalictroides	Yes			NA	NA	Rue anemone	0.308	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.028	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.066	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.002	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.03	Occurrence		500					
+													5	1961	5	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	flower		0.15	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Carpinus	Carpinus caroliniana	Yes			NA	NA	Blue beech	0.002	Occurrence		500					
+													5	1961	5	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.01	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.006	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Trifolium	Trifolium repens	Yes			NA	NA	Ladino clover	0.006	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.004	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Viola	NA	Yes			NA	NA	Violet	0.262	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.002	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.006	Occurrence		500					
+													5	1961	5	1964	spring		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.096	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Ulmus	Ulmus rubra	Yes			NA	NA	Slipper elm	0.004	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Zea	NA	Yes			NA	NA	Corn	0.002	Occurrence		500					
+													5	1961	5	1964	spring		Plantae						Cornus	NA	No			NA	NA	Dogwood	0.002	Occurrence		500					
+													5	1961	5	1964	spring		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.564	Occurrence		500					
+													6	1961	6	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.465	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.001	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.005	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.092	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.236	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae						Thalictrum	Thalictrum thalictroides	Yes			NA	NA	Rue anemone	0.042	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.002	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.003	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae						Viola	NA	Yes			NA	NA	Violet	0.029	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.001	Wt_or_vol		286					
+													6	1961	6	1964	summer		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.024	Wt_or_vol		286					
+													6	1961	6	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.731	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.003	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.035	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.01	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.007	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.42	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.003	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.003	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.864	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Thalictrum	Thalictrum thalictroides	Yes			NA	NA	Rue anemone	0.227	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.007	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.003	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.059	Occurrence		286					
+													6	1961	6	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	flower		0.003	Occurrence		286					
+													6	1961	6	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.007	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.045	Occurrence		286					
+													6	1961	6	1964	summer		Plantae						Viola	NA	Yes			NA	NA	Violet	0.371	Occurrence		286					
+													6	1961	6	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.001	Occurrence		286					
+													6	1961	6	1964	summer		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.933	Occurrence		286					
+													7	1961	7	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.797	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.008	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.003	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae						Vitis	NA	Yes			NA	NA	Wild grape	0.015	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.002	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.001	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.052	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.001	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.005	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.013	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae						Viola	NA	Yes			NA	NA	Violet	0.018	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.015	Wt_or_vol		418					
+													7	1961	7	1964	summer		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.027	Wt_or_vol		418					
+													7	1961	7	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.983	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.122	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.026	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.029	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.069	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.84	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Thalictrum	Thalictrum thalictroides	Yes			NA	NA	Rue anemone	0.002	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.014	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.007	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.017	Occurrence		418					
+													7	1961	7	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.05	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.148	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Viola	NA	Yes			NA	NA	Violet	0.191	Occurrence		418					
+													7	1961	7	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.005	Occurrence		418					
+													7	1961	7	1964	summer		Plantae						Cornus	NA	No			NA	NA	Dogwood	0.014	Occurrence		418					
+													7	1961	7	1964	summer		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.871	Occurrence		418					
+													8	1961	8	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.465	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.002	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.005	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Vitis	NA	Yes			NA	NA	Wild grape	0.283	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.037	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Kummerowia	Kummerowia stipulacea	Yes			NA	NA	Korean lespedeza	0.097	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.013	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.001	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.003	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.004	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.007	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.001	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.001	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae						Cornus	NA	No			NA	NA	Dogwood	0.015	Wt_or_vol		516					
+													8	1961	8	1964	summer		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.027	Wt_or_vol		516					
+													8	1961	8	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.75	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.056	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.126	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.341	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.002	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Kummerowia	Kummerowia stipulacea	Yes			NA	NA	Korean lespedeza	0.095	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.531	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.06	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.06	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.112	Occurrence		516					
+													8	1961	8	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.202	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.008	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.012	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Viola	NA	Yes			NA	NA	Violet	0.021	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.182	Occurrence		516					
+													8	1961	8	1964	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	bud		0.002	Occurrence		516					
+													8	1961	8	1964	summer		Plantae						Cornus	NA	No			NA	NA	Dogwood	0.132	Occurrence		516					
+													8	1961	8	1964	summer		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.797	Occurrence		516					
+													9	1961	9	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.156	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.013	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.184	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Vitis	NA	Yes			NA	NA	Wild grape	0.237	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.2	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.002	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.002	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Kummerowia	Kummerowia stipulacea	Yes			NA	NA	Korean lespedeza	0.098	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.002	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.001	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.003	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.013	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.014	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.009	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae						Cornus	NA	No			NA	NA	Dogwood	0.008	Wt_or_vol		550					
+													9	1961	9	1964	fall		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.044	Wt_or_vol		550					
+													9	1961	9	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.295	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.024	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.676	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.711	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.007	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.024	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Kummerowia	Kummerowia stipulacea	Yes			NA	NA	Korean lespedeza	0.096	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.158	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.004	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.036	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.216	Occurrence		550					
+													9	1961	9	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.287	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.009	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Viola	NA	Yes			NA	NA	Violet	0.002	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.002	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.202	Occurrence		550					
+													9	1961	9	1964	fall		Plantae						Cornus	NA	No			NA	NA	Dogwood	0.16	Occurrence		550					
+													9	1961	9	1964	fall		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.936	Occurrence		550					
+													10	1961	10	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.057	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.009	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.26	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Vitis	NA	Yes			NA	NA	Wild grape	0.198	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.245	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.003	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.005	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.008	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.012	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.058	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Kummerowia	Kummerowia stipulacea	Yes			NA	NA	Korean lespedeza	0.006	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.001	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.006	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.002	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.038	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.002	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.005	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.009	Wt_or_vol		550					
+													10	1961	10	1964	fall		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.052	Wt_or_vol		550					
+													10	1961	10	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.147	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.035	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.711	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.567	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.02	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.031	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.051	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.273	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Kummerowia	Kummerowia stipulacea	Yes			NA	NA	Korean lespedeza	0.011	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.015	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.015	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.176	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.035	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.26	Occurrence		550					
+													10	1961	10	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.064	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.002	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.011	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.049	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.111	Occurrence		550					
+													10	1961	10	1964	fall		Plantae						Zea	NA	Yes			NA	NA	Corn	0.002	Occurrence		550					
+													10	1961	10	1964	fall		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.623	Occurrence		550					
+													11	1961	11	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.028	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.068	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.188	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Vitis	NA	Yes			NA	NA	Wild grape	0.343	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.133	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.065	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.042	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.002	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.016	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.026	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.011	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.001	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.005	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.003	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.014	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.013	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.001	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.001	Wt_or_vol		500					
+													11	1961	11	1964	fall		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.028	Wt_or_vol		500					
+													11	1961	11	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.092	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Ostrya	Ostrya virginiana	Yes			NA	NA	Hophornbeam	0.16	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.586	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Desmodium	NA	Yes			NA	NA	Tick-trefoils	0.492	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Rosa	Rosa multiflora	Yes			NA	NA	Japanese rose	0.144	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Antennaria	Antennaria plantaginifolia	Yes			NA	NA	Ladies' tobacco	0.132	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Rhus	Rhus aromatica	Yes			NA	NA	Fragrant sumac	0.006	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Glycymeris	NA	Yes			NA	NA	Bittersweet	0.08	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Cuscuta	NA	Yes			NA	NA	Bush clover	0.206	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Corylus	Corylus americana	Yes			NA	NA	Hazelnut	0.022	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Polystichum	Polystichum acrostichoides	Yes			NA	NA	Christmas fern	0.026	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Carex	NA	Yes			NA	NA	Sedge	0.022	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Rosa	NA	No			NA	NA	Wild rose	0.098	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Amelanchier	Amelanchier arborea	Yes			NA	NA	Shadbush	0.018	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Geum	Geum canadense	Yes			NA	NA	White avens	0.066	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Cornus	Cornus florida	Yes			NA	NA	Flowering dogwood	0.182	Occurrence		500					
+													11	1961	11	1964	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	gall		0.006	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Rhus	Rhus glabra	Yes			NA	NA	Smooth sumac	0.006	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Acer	Acer saccharum	Yes			NA	NA	Sugar maple	0.012	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Symphoricarpos	NA	Yes			NA	NA	Coralberry	0.064	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.036	Occurrence		500					
+													11	1961	11	1964	fall		Plantae						Cornus	NA	No			NA	NA	Dogwood	0.002	Occurrence		500					
+													11	1961	11	1964	fall		Animalia	NA	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.667	Occurrence		500					
