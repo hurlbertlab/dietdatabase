@@ -1,5 +1,0 @@
-"level"	"name"	"condition"
-"Scientific_Name"	"Lepus Americanus"	"wrong rank; too high"
-"Scientific_Name"	"Tomias townsendii"	"unmatched"
-"Scientific_Name"	"Sylvylagus bachmani"	"unmatched"
-"Phylum"	"Arthropod"	"wrong rank; too high"
