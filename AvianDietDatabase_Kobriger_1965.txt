@@ -10,7 +10,7 @@ Sharp-Tailed Grouse	Tympanuchus phasianellus		Phasianidae	eBird Clements Checkli
 																			Plantae						Lithospermum	NA	Yes			NA	NA	Puccoon	0.01	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
 																			Plantae						Physalis	Physalis heterophylla	Yes			NA	NA	Ground cherry	0.007	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
 																			Plantae						Ribes	NA	Yes			NA	NA	Currant	0.006	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-												test							Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.075	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+																			Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.075	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
 																			Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.123	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
 																			Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	NA		0.032	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
 																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA	Long-horned grasshoppers	0.016	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
