@@ -1,79 +1,102 @@
 Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
-Sharp-Tailed Grouse	Tympanuchus phasianellus		Phasianidae	eBird Clements Checklist v_2018	NA	NA	30.48	NA	60.96	Nebraska	Valentine National Wildlife Refuge	wetland					summer		Plantae						Trifolium	NA	Yes			NA	NA	Clovers	0.35	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Rosa	NA	Yes			NA	NA	Rose	0.102	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.059	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Prunus	Prunus pumila	Yes			NA	NA	Sand cherry	0.043	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.035	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Tragopogon	NA	Yes			NA	NA	Goatsbeard	0.024	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	gall		0.015	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Solanum	Solanum americanum	Yes			NA	NA	Nightshade	0.014	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Lithospermum	NA	Yes			NA	NA	Puccoon	0.01	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Physalis	Physalis heterophylla	Yes			NA	NA	Ground cherry	0.007	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Ribes	NA	Yes			NA	NA	Currant	0.006	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.075	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.123	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	NA		0.032	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA	Long-horned grasshoppers	0.016	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Chrysomelidae	NA	NA	Yes			NA	NA	Leaf beetles	0.015	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Formicidae	NA	NA	Yes			NA	NA	Ants	0.01	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Curculionidae	NA	NA	Yes			NA	NA	Snout beetles	0.007	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia			Lepidoptera	NA	NA	NA	NA	No			NA	NA		0.006	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia		Insecta	NA	NA	NA	NA	NA	No			larva	NA		0.006	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Gravel	0.006	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Trifolium	NA	Yes			NA	NA	Clovers	0.609	Occurrence	28	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Rosa	NA	Yes			NA	NA	Rose	0.457	Occurrence	21	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.826	Occurrence	61	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Prunus	Prunus pumila	Yes			NA	NA	Sand cherry	0.435	Occurrence	20	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.239	Occurrence	11	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Tragopogon	NA	Yes			NA	NA	Goatsbeard	0.13	Occurrence	6	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	gall		0.152	Occurrence	7	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Solanum	Solanum americanum	Yes			NA	NA	Nightshade	0.043	Occurrence	2	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Lithospermum	NA	Yes			NA	NA	Puccoon	0.609	Occurrence	28	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Physalis	Physalis heterophylla	Yes			NA	NA	Ground cherry	0.087	Occurrence	4	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Ribes	NA	Yes			NA	NA	Currant	0.022	Occurrence	1	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.957	Occurrence	44	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.804	Occurrence	37	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	NA		0.652	Occurrence	30	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA	Long-horned grasshoppers	0.326	Occurrence	15	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Chrysomelidae	NA	NA	Yes			NA	NA	Leaf beetles	0.565	Occurrence	26	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Formicidae	NA	NA	Yes			NA	NA	Ants	0.891	Occurrence	41	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia					Curculionidae	NA	NA	Yes			NA	NA	Snout beetles	0.457	Occurrence	21	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia			Lepidoptera	NA	NA	NA	NA	No			NA	NA		0.283	Occurrence	13	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Animalia		Insecta	NA	NA	NA	NA	NA	No			larva	NA		0.457	Occurrence	21	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Gravel	0.717	Occurrence	33	46	1	Crop contents; stomach contents	juvenile	MMS	
-																			Plantae						Trifolium	NA	Yes			NA	NA	Clovers	0.537	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Plantae						Rosa	NA	Yes			NA	NA	Rose	0.085	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Plantae						Prunus	Prunus pumila	Yes			NA	NA	Sand cherry	0.063	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.077	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Common dandelion	0.037	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.028	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Plantae						Tragopogon	NA	Yes			NA	NA	Goatsbeard	0.027	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Plantae						Solanum	Solanum americanum	Yes			NA	NA	Nightshade	0.013	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Plantae						Melilotus	Melilotus officinalis	Yes			NA	NA	Sweet clover	0.009	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Plantae						Ribes	NA	Yes			NA	NA	Currant	0.007	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.021	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Animalia					Formicidae	NA	NA	Yes			NA	NA	Ants	0.013	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.012	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Animalia					Chrysomelidae	NA	NA	Yes			NA	NA	Leaf beetles	0.012	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Gravel	0.003	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
-																			Animalia															Occurrence		44	1	Crop contents; stomach contents	adult	MMS	
-																			Animalia															Occurrence		44	1	Crop contents; stomach contents	adult	MMS	
-																			Animalia															Occurrence		44	1	Crop contents; stomach contents	adult	MMS	
-																																		Occurrence		44	1	Crop contents; stomach contents	adult	MMS	
-																																		Occurrence		44	1	Crop contents; stomach contents	adult	MMS	
-																																		Occurrence		44	1	Crop contents; stomach contents	adult	MMS	
-																																		Occurrence		44		Crop contents; stomach contents	adult	MMS	
-																																		Occurrence		44		Crop contents; stomach contents	adult	MMS	
-																																		Occurrence		44		Crop contents; stomach contents	adult	MMS	
-																																		Occurrence		44		Crop contents; stomach contents	adult	MMS	
-																																		Occurrence		44					
-																																		Occurrence		44					
-																																		Occurrence		44					
-																																		Occurrence		44					
-																																		Occurrence		44					
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
+Sharp-Tailed Grouse	Tympanuchus phasianellus		Phasianidae	eBird Clements Checklist v_2018	NA	NA	30.48	NA	60.96	Nebraska	Valentine National Wildlife Refuge	wetland		1962		1963	summer		Plantae						Trifolium	NA	Yes			NA	NA	Clovers	0.35	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Rosa	NA	Yes			NA	NA	Rose	0.102	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.059	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Prunus	Prunus pumila	Yes			NA	NA	Sand cherry	0.043	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.035	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Tragopogon	NA	Yes			NA	NA	Goatsbeard	0.024	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	gall		0.015	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Solanum	Solanum americanum	Yes			NA	NA	Nightshade	0.014	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Lithospermum	NA	Yes			NA	NA	Puccoon	0.01	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Physalis	Physalis heterophylla	Yes			NA	NA	Ground cherry	0.007	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Ribes	NA	Yes			NA	NA	Currant	0.006	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.075	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.123	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	NA		0.032	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Tettigoniidae	NA	NA	Yes			NA	NA	Long-horned grasshoppers	0.016	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Chrysomelidae	NA	NA	Yes			NA	NA	Leaf beetles	0.015	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Formicidae	NA	NA	Yes			NA	NA	Ants	0.01	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Curculionidae	NA	NA	Yes			NA	NA	Snout beetles	0.007	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia			Lepidoptera	NA	NA	NA	NA	No			NA	NA		0.006	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia		Insecta	NA	NA	NA	NA	NA	No			larva	NA		0.006	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Gravel	0.006	Wt_or_vol		46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Trifolium	NA	Yes			NA	NA	Clovers	0.609	Occurrence	28	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Rosa	NA	Yes			NA	NA	Rose	0.457	Occurrence	21	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.826	Occurrence	61	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Prunus	Prunus pumila	Yes			NA	NA	Sand cherry	0.435	Occurrence	20	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.239	Occurrence	11	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Tragopogon	NA	Yes			NA	NA	Goatsbeard	0.13	Occurrence	6	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	gall		0.152	Occurrence	7	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Solanum	Solanum americanum	Yes			NA	NA	Nightshade	0.043	Occurrence	2	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Lithospermum	NA	Yes			NA	NA	Puccoon	0.609	Occurrence	28	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Physalis	Physalis heterophylla	Yes			NA	NA	Ground cherry	0.087	Occurrence	4	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Ribes	NA	Yes			NA	NA	Currant	0.022	Occurrence	1	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.957	Occurrence	44	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.804	Occurrence	37	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	NA		0.652	Occurrence	30	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Tettigoniidae	NA	NA	Yes			NA	NA	Long-horned grasshoppers	0.326	Occurrence	15	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Chrysomelidae	NA	NA	Yes			NA	NA	Leaf beetles	0.565	Occurrence	26	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Formicidae	NA	NA	Yes			NA	NA	Ants	0.891	Occurrence	41	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia					Curculionidae	NA	NA	Yes			NA	NA	Snout beetles	0.457	Occurrence	21	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia			Lepidoptera	NA	NA	NA	NA	No			NA	NA		0.283	Occurrence	13	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Animalia		Insecta	NA	NA	NA	NA	NA	No			larva	NA		0.457	Occurrence	21	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Gravel	0.717	Occurrence	33	46	1	Crop contents; stomach contents	juvenile	MMS	
+														1962		1963	summer		Plantae						Trifolium	NA	Yes			NA	NA	Clovers	0.537	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Rosa	NA	Yes			NA	NA	Rose	0.085	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Prunus	Prunus pumila	Yes			NA	NA	Sand cherry	0.063	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.077	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Common dandelion	0.037	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.028	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Tragopogon	NA	Yes			NA	NA	Goatsbeard	0.027	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Solanum	Solanum americanum	Yes			NA	NA	Nightshade	0.013	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Melilotus	Melilotus officinalis	Yes			NA	NA	Sweet clover	0.009	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Ribes	NA	Yes			NA	NA	Currant	0.007	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.021	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Animalia					Formicidae	NA	NA	Yes			NA	NA	Ants	0.013	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.012	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Animalia					Chrysomelidae	NA	NA	Yes			NA	NA	Leaf beetles	0.012	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Gravel	0.003	Wt_or_vol		44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Trifolium	NA	Yes			NA	NA	Clovers	0.955	Occurrence	42	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Rosa	NA	Yes			NA	NA	Rose	0.886	Occurrence	39	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Prunus	Prunus pumila	Yes			NA	NA	Sand cherry	0.568	Occurrence	25	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.909	Occurrence	40	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Common dandelion	0.227	Occurrence	10	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Toxicodendron	NA	Yes			NA	NA	Poison ivy	0.318	Occurrence	14	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Tragopogon	NA	Yes			NA	NA	Goatsbeard	0.341	Occurrence	15	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Physalis	Physalis heterophylla	Yes			NA	NA	Ground cherry	0.291	Occurrence	13	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Solanum	Solanum americanum	Yes			NA	NA	Nightshade	0.023	Occurrence	1	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Melilotus	Melilotus officinalis	Yes			NA	NA	Sweet clover	0.182	Occurrence	8	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Plantae						Ribes	NA	Yes			NA	NA	Currant	0.023	Occurrence	1	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.955	Occurrence	42	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Animalia					Formicidae	NA	NA	Yes			NA	NA	Ants	0.659	Occurrence	29	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.401	Occurrence	18	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Animalia					Chrysomelidae	NA	NA	Yes			NA	NA	Leaf beetles	0.386	Occurrence	17	44	1	Crop contents; stomach contents	adult	MMS	
+														1962		1963	summer		Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Gravel	0.591	Occurrence	26	44	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Rosa	NA	Yes			NA	NA	Rose	0.464	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Trifolium	NA	Yes			NA	NA	Clovers	0.156	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Solanum	Solanum americanum	Yes			NA	NA	Nightshade	0.105	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Physalis	Physalis heterophylla	Yes			NA	NA	Ground cherry	0.072	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Common dandelion	0.032	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Symphoricarpos	Symphoricarpos occidentalis	Yes			NA	NA	Wolfberry	0.015	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Zea	Zea mays	Yes			NA	NA	Corn	0.014	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.013	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Antennaria	NA	Yes			NA	NA	Ladies' tobacco	0.008	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Ambrosia	NA	Yes			NA	NA	Ragweed	0.006	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Prunus	Prunus pumila	Yes			NA	NA	Sand cherry	0.006	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.048	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Animalia					Tettigoniidae	NA	NA	Yes			NA	NA	Long-horned grasshoppers	0.026	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Animalia					Gryllidae	NA	NA	Yes			NA	NA	Crickets	0.005	Wt_or_vol		58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Rosa	NA	Yes			NA	NA	Rose	0.655	Occurrence	38	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Trifolium	NA	Yes			NA	NA	Clovers	0.379	Occurrence	22	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Solanum	Solanum americanum	Yes			NA	NA	Nightshade	0.172	Occurrence	10	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Physalis	Physalis heterophylla	Yes			NA	NA	Ground cherry	0.259	Occurrence	15	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Common dandelion	0.19	Occurrence	11	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Symphoricarpos	Symphoricarpos occidentalis	Yes			NA	NA	Wolfberry	0.052	Occurrence	3	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Zea	Zea mays	Yes			NA	NA	Corn	0.017	Occurrence	1	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.483	Occurrence	28	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Antennaria	NA	Yes			NA	NA	Ladies' tobacco	0.086	Occurrence	5	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Ambrosia	NA	Yes			NA	NA	Ragweed	0.224	Occurrence	13	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Plantae						Prunus	Prunus pumila	Yes			NA	NA	Sand cherry	0.017	Occurrence	1	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Animalia					Acrididae	NA	NA	Yes			NA	NA	Short-horned grasshopper	0.276	Occurrence	16	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Animalia					Tettigoniidae	NA	NA	Yes			NA	NA	Long-horned grasshoppers	0.259	Occurrence	15	58	1	Crop contents; stomach contents	adult	MMS	
+													10	1962	10	1963	fall		Animalia					Gryllidae	NA	NA	Yes			NA	NA	Crickets	0.086	Occurrence	5	58	1	Crop contents; stomach contents	adult	MMS	
