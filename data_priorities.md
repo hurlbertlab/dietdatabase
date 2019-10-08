@@ -58,7 +58,7 @@ Note that Families for which I know that data remain to be entered are highlight
 --Psittacidae
 
 ### Strigiformes
---Strigidae   (**** more refs to check ****)   GIANNA
+--Strigidae   
 --Tytonidae
 
 ### Trogoniformes  

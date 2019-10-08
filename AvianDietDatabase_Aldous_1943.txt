@@ -1,0 +1,57 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Sharp-Tailed Grouse	Tympanuchus phasianellus		Phasianidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	North Dakota	"McHenry, Pierce, and Bottineau counties"	grassland	10	1937	12	1939	fall		Animalia			Orthoptera	NA	NA	NA	NA	Yes			NA	NA		0.09	Wt_or_vol	NA	25	1	Crop contents		MMS	
+													10	1937	12	1939	fall		Plantae						Polygonum	NA	Yes			NA	seed		0.01	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae						Lithospermum	NA	Yes			NA	seed		0.03	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae						Symphoricarpos	NA	Yes			NA	seed		0.01	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae						Rosa	NA	Yes			NA	seed		0.55	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae						Prunus	NA	Yes			NA	seed		0.15	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae						Crataegus	NA	Yes			NA	seed		0.04	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae						Toxicodendron	Toxicodendron pubescens	Yes			NA	seed		0.02	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae						Zea	NA	Yes			NA	seed	Corn	0.02	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae						Avena	NA	Yes			NA	seed	Oats	0.01	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae						Triticum	NA	Yes			NA	seed	Wheat	0.02	Wt_or_vol		25					
+													10	1937	12	1939	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.05	Wt_or_vol		25					
+													10	1937	12	1939	fall		Animalia			Orthoptera	NA	NA	NA	NA	Yes			NA	seed		0.58	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae		Insecta	NA	NA	NA	NA	NA	No			NA	seed		0.05	Occurrrence		25					
+													10	1937	12	1939	fall		Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	seed	Gravel	0.4	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Ambrosia	NA	Yes			NA	seed		0.05	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Polygonum	NA	Yes			NA	seed		0.32	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Lithospermum	NA	Yes			NA	seed		0.05	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Setaria	NA	Yes			NA	seed		0.05	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Symphoricarpos	NA	Yes			NA	seed		0.4	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Rosa	NA	Yes			NA	seed		0.95	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Prunus	NA	Yes			NA	seed		0.32	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Crataegus	NA	Yes			NA	seed		0.05	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Toxicodendron	Toxicodendron pubescens	Yes			NA	seed		0.16	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	NA		0.11	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Zea	NA	Yes			NA	seed	Corn	0.11	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Avena	NA	Yes			NA	seed	Oats	0.05	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Triticum	NA	Yes			NA	seed	Wheat	0.16	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Populus	NA	Yes			NA	bud		0.23	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Prunus	NA	Yes			NA	bud		0.11	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Quercus	NA	Yes			NA	bud		0.05	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae						Amelanchier	NA	Yes			NA	bud		0.05	Occurrrence		25					
+													10	1937	12	1939	fall		Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.53	Occurrrence		25					
+													1	1938	3	1939	winter		Plantae															Wt_or_vol		20					
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
