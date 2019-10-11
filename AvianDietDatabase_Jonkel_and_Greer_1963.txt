@@ -1,0 +1,49 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Spruce Grouse	Falcipennis canadensis		Phasianidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	Montana	Whitefish Range	NA	9	1960	10	1962	fall		Plantae						Larix	Larix occidentalis	Yes			NA	vegetation	Western larch	0.394	Wt_or_vol		56	1	Crop contents	volume adds up to a little over 100 in paper	MMS	
+																			Plantae						Pinus	NA	No			NA	vegetation; fruit	Pine	0.076	Wt_or_vol							
+																			Plantae						Trifolium	Trifolium repens	Yes			NA	vegetation	White clover	0.066	Wt_or_vol							
+																			Plantae						Juniperus	Juniperus scopulorum	Yes			NA	vegetation	Rocky Mountain juniper	0.05	Wt_or_vol							
+																			Plantae		Pinopsida	NA	NA	NA	NA	NA	No			NA	vegetation	Conifer	0.031	Wt_or_vol							
+																			Plantae						Abies	NA	Yes			NA	vegetation	Fir	0.028	Wt_or_vol							
+																			Plantae						Vaccinium	NA	Yes			NA	vegetation; fruit	Huckleberry	0.064	Wt_or_vol							
+																			Plantae						Picea	Picea engelmannii	Yes			NA	vegetation	Englemann spruce	0.017	Wt_or_vol							
+																			Plantae													Forb	0.014	Wt_or_vol							
+																			Plantae						Pinus	Pinus contorta	Yes			NA	vegetation	Lodgepole pine	0.012	Wt_or_vol							
+																			Plantae						Populus	Populus tremuloides	Yes			NA	vegetation	Quaking aspen	0.007	Wt_or_vol							
+																			Plantae						Pseudotsuga	Pseudotsuga meziesii	Yes			NA	vegetation	Douglas fir	0.006	Wt_or_vol							
+																			Plantae						Rosa	NA	Yes			NA	vegetation	Rose	0.006	Wt_or_vol							
+																			Plantae													Browse	0.006	Wt_or_vol							
+																			Plantae						Cerastium	Cerastium beeringianum	Yes			NA	vegetation	Mouse-ear chickweed	0.003	Wt_or_vol							
+																			Plantae						Elodea	NA	Yes			NA	vegetation	Waterweed	0.002	Wt_or_vol							
+																			Plantae						Streptopus	Streptopus amplexifolius	Yes			NA	fruit	White mandarin	0.041	Wt_or_vol							
+																			Plantae						Symphoricarpos	Symphoricarpos albus	Yes			NA	fruit	Snowberry	0.038	Wt_or_vol							
+																			Plantae						Rubus	NA	Yes			NA	fruit	Raspberry	0.009	Wt_or_vol							
+																			Plantae	NA	NA	NA	NA	NA	NA	NA	No			NA	seed; fruit		0.014	Wt_or_vol							
+																			Plantae						Arctostaphylos	Arctostaphylos uva-ursi	Yes			NA	fruit	Common bearberry	0.001	Wt_or_vol							
+																			Plantae						Chimaphila	Chimaphila umbellata	Yes			NA	fruit	Prince's pine	0.001	Wt_or_vol							
+																			Animalia			Orthoptera	NA	NA	NA	NA	Yes			NA	NA	Grasshopper	0.114	Wt_or_vol							
+																			Plantae			Hempitera	Heteroptera	NA	NA	NA	Yes			NA	NA	True bugs	0.005	Wt_or_vol							
+																			Plantae			Hymenoptera												Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
+																			Plantae																						
