@@ -7245,14 +7245,14 @@ Spruce Grouse	Phasianidae	1992	Feeding Behavior		"Lattner, M. T. 1982. Foods, mo
 Spruce Grouse	Phasianidae	1992	Feeding Behavior		"Crichton, V. 1963. Autumn and winter foods of Spruce Grouse in central Ontario. J. Wildl. Manage. 27:597."	n		unavailable								
 Spruce Grouse	Phasianidae	1992	Feeding Behavior		"Naylor, B. J. and J. F. Bendell. 1989. Clutch size and egg size of Spruce Grouse in relation to spring diet, food supply, and endogenous reserves. Can. J. Zool 67:969-980."	y	n									
 Spruce Grouse	Phasianidae	1992	Feeding Behavior		"Ellison, L. N. 1976. Winter food selection by Alaskan Spruce Grouse. J. Wildl. Manage. 40:205-213."	y	n									
-Spruce Grouse	Phasianidae	1992	Feeding Behavior		"Defranceschi, P. F. and D. A. Boag. 1991. Summer foraging by Spruce Grouse: implications for galliform food habits. Can. J. Zool. 69:1708-1711."	y	y	in progress								
-Spruce Grouse	Phasianidae	1992	Feeding Behavior		"Ellison, L. N. 1972. Role of winter food in regulating numbers of Alaskan Spruce Grouse. Ph. D. diss. Univ. California, Berkeley."											
-Spruce Grouse	Phasianidae	1992	Nutrition And Energetics		"Fenna, L. and D. A. Boag. 1974b. Filling and emptying of the galliform caecum. Can. J. Zool. 52:537-540."											
-Spruce Grouse	Phasianidae	1992	Nutrition And Energetics		"Pendergast, B. A. and D. A. Boag. 1973. Seasonal changes in the internal anatomy of Spruce Grouse in Alberta. Auk 90:307-317."											
-Spruce Grouse	Phasianidae	1992	Diet		"Allan, T. A. 1985. Seasonal changes in habitat use by Maine Spruce Grouse. Can. J. Zool. 63:2738-2742."											
-Spruce Grouse	Phasianidae	1992	Diet		"Boag, D. A. and J. W. Kiceniuk. 1968. Protein and caloric content of lodgepole pine needles. For. Chron. 44:1-4."											
-Spruce Grouse	Phasianidae	1992	Diet		"Bryant, J. and P. Kuropat. 1980. Selection of winter forage by subarctic browsing vertebrates. Annu. Rev. Ecol. Syst. 11:261-285."											
-Spruce Grouse	Phasianidae	1992	Diet		"Jonkel, C. J. and K. R. Greer. 1963. Fall food habits of Spruce Grouse in northwest Montana. J. Wildl. Manage. 27:593-596."											
+Spruce Grouse	Phasianidae	1992	Feeding Behavior		"Defranceschi, P. F. and D. A. Boag. 1991. Summer foraging by Spruce Grouse: implications for galliform food habits. Can. J. Zool. 69:1708-1711."	y	y	entered								
+Spruce Grouse	Phasianidae	1992	Feeding Behavior		"Ellison, L. N. 1972. Role of winter food in regulating numbers of Alaskan Spruce Grouse. Ph. D. diss. Univ. California, Berkeley."	n		unavailable								
+Spruce Grouse	Phasianidae	1992	Nutrition And Energetics		"Fenna, L. and D. A. Boag. 1974b. Filling and emptying of the galliform caecum. Can. J. Zool. 52:537-540."	y	n									
+Spruce Grouse	Phasianidae	1992	Nutrition And Energetics		"Pendergast, B. A. and D. A. Boag. 1973. Seasonal changes in the internal anatomy of Spruce Grouse in Alberta. Auk 90:307-317."	y	n									
+Spruce Grouse	Phasianidae	1992	Diet		"Allan, T. A. 1985. Seasonal changes in habitat use by Maine Spruce Grouse. Can. J. Zool. 63:2738-2742."	y	n									
+Spruce Grouse	Phasianidae	1992	Diet		"Boag, D. A. and J. W. Kiceniuk. 1968. Protein and caloric content of lodgepole pine needles. For. Chron. 44:1-4."	y	n									
+Spruce Grouse	Phasianidae	1992	Diet		"Bryant, J. and P. Kuropat. 1980. Selection of winter forage by subarctic browsing vertebrates. Annu. Rev. Ecol. Syst. 11:261-285."	y	n									
+Spruce Grouse	Phasianidae	1992	Diet		"Jonkel, C. J. and K. R. Greer. 1963. Fall food habits of Spruce Grouse in northwest Montana. J. Wildl. Manage. 27:593-596."	y	y	in progress								
 Spruce Grouse	Phasianidae	1992	Nutrition And Energetics		"Pendergast, B. A. 1969. Nutrition of spruce grouse in the Swan Hills, Alberta. Master's Thesis. Univ. Alberta, Edmonton."											
 Spruce Grouse	Phasianidae	1992	Diet		"Gurchinoff, S. and W. L. Robinson. 1972. Chemical characteristics of jack pine needles selected by feeding Spruce Grouse. J. Wildl. Manage. 36:80-87."											
 White-tailed Ptarmigan	Phasianidae	1993	Feeding	Main Foods Taken	"Weeden, R. B. 1967. Seasonal and geographic variation in the foods of adult White-tailed Ptarmigan. Condor 69:303-309."	y	y									
