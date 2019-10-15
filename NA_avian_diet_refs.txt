@@ -8288,14 +8288,14 @@ American Coot	Rallidae	2002	"Nutrition, Metabolism, And Energetics"		"Alisauskas
 American Coot	Rallidae	2002	Food Selection And Storage		"Grace, J. B. 1977. The distribution and abundance of submerged aquatic macrophytes in a reactor-cooling reservoir. Master's Thesis. Clemson Univ. Clemson, SC."	y	n									
 American Coot	Rallidae	2002	"Nutrition, Metabolism, And Energetics"		"Sincock, J. L. 1962. Estimating consumption of food by wintering waterfowl populations. Proc. Annu. Conf. Southeast. Assoc. Game Fish Comm. 16:217-221."	y	n									
 Black Rail	Rallidae	1994	Feeding	Food Capture And Consumption	"Flores, R. E. and W. R. Eddleman. 1991. Ecology of the California Black Rail in southwestern Arizona. Final Rept., U.S. Bur. Reclam., Yuma Proj. Off. and Arizona Dept. Game & Fish, Yuma, AZ."	y	n									
-Black Rail	Rallidae	1994	Feeding	Microhabitat For Foraging	"Weske, J. S. 1969. An ecological study of the Black Rail in Dorchester County, Maryland. Master's Thesis. Cornell Univ. Ithaca, NY."	n										
+Black Rail	Rallidae	1994	Feeding	Microhabitat For Foraging	"Weske, J. S. 1969. An ecological study of the Black Rail in Dorchester County, Maryland. Master's Thesis. Cornell Univ. Ithaca, NY."	n		inner library request								
 Black Rail	Rallidae	1994	Diet	Major Food Items	"Huey, L. M. 1916. The Farallon Rails of San Diego County. Condor 18:58-62."	y	n									
 Black Rail	Rallidae	1994	Diet	Major Food Items	"Gosse, P. H. and R. Hill. 1847. The birds of Jamaica. John Van Vorst, London."	y	n									
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Saunders, A. 1926. The summer birds of central New York marshes. Roosevelt Wildl. Bull. 3:334-475."	y	n									
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Bowey, K. 1995. Moorhens feeding on pollen. Br. Birds 88:111."	n										
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Schwartz, C. W. and E. R. Schwartz. 1949. A reconnaissance of the game birds in Hawaii. Hawaii Board of Commissioners of Agric. For. Honolulu, HI."	y	n									
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Plater, L. 1969. Moorhen feeding own egg to chicks. Br. Birds 62:116."	n										
-Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Mulholland, R. and H. F. Percival. 1982. Food habits of the Common Moorhen and Purple Gallinule in north-central Florida. Proc. Annu. Conf. Southeast. Assoc. Fish Wildl. Agencies 36:527-536."											
+Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Mulholland, R. and H. F. Percival. 1982. Food habits of the Common Moorhen and Purple Gallinule in north-central Florida. Proc. Annu. Conf. Southeast. Assoc. Fish Wildl. Agencies 36:527-536."	y	y									
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Simpson, T. W. 1939. The feeding habits of the Coot, Florida Gallinule, and Least Bittern on Reelfoot Lake. J. Tenn. Acad. Sci. 14:110-115."											
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Wetmore, A. 1916. Birds of Porto Rico. U.S. Dep. Agric. Bull. 326."											
 Common Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Endangered Species Information System. 1996. Moorhen, Common, Hawaiian; ESIS101014, 14 March 1996. U.S. Fish Wildl. Serv. [Online.] http://fwie.fw.vt.edu/WWW/esis/lists/e101014.htm"											
@@ -8321,7 +8321,7 @@ Purple Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging	"Bell, G. 1976.
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Bent, A. C. 1926. Life histories of North American marsh birds. U.S. Natl. Mus. Bull. 135."											
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Mcilhenny, E. A. 1934. Bird city. Christopher Publ. House, Boston, MA."											
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Stoddard, H. 1978. Birds of Grady County, GA. Bull. Tall Timbers Res. Stn. 21. Tallahassee, FL."											
-Purple Gallinule	Rallidae	2002	Feeding	Main Foods Taken	"Mulholland, R. and H. F. Percival. 1982. Food habits of the Common Moorhen and Purple Gallinule in north-central Florida. Proc. Annu. Conf. Southeast. Assoc. Fish Wildl. Agencies 36:527-536."											
+Purple Gallinule	Rallidae	2002	Feeding	Main Foods Taken	y	y										
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Krekorian, C. O. 1978. Alloparental care in the Purple Gallinule. Condor 80:382-390."											
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 1. Univ. of Texas Press, Austin."											
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."											
