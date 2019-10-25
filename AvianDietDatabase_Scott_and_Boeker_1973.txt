@@ -1,0 +1,119 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Wild Turkey	Meleagris gallopavo		Phasianidae	eBird Clements Checklist v_2018	NA	NA	1676.4	NA	2133.6	Arizona	Fort Apache Indian Reservation	coniferous forest	NA	1964	NA	1969	spring		Plantae						Juniperus	NA	Yes			NA	NA	Juniper berries	0.277	Wt_or_vol		3	1	Crop contents		MMS	
+																			Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Dandelion	0.063	Wt_or_vol							
+																			Plantae						Pinus	Pinus ponderosa	Yes			NA	seed	Pine seed	0.003	Wt_or_vol							
+																			Plantae						Agoseris	NA	Yes			NA	NA	Mountain dandelion	0.387	Wt_or_vol							
+																			Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.0005	Wt_or_vol							
+																			Animalia		Insecta	NA	NA	NA	NA	NA	Yes			NA	NA		0.003	Wt_or_vol							
+																			Plantae			Magnoliopsida	NA	NA	NA	NA	No			NA	NA	Forbs	0.063	Wt_or_vol							
+																			Plantae					Poaceae	NA	NA	No			NA	NA	Grass	0.017	Wt_or_vol							
+																			Plantae						Eragrostis	NA	Yes			NA	NA	Lovegrass	0.0005	Wt_or_vol							
+																			Plantae						Poa	NA	Yes			NA	NA	Bluegrass	0.023	Wt_or_vol							
+																			Plantae						Androsace	NA	Yes			NA	NA	Rock jasmine	0.08	Wt_or_vol							
+																			Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified mass	0.011	Wt_or_vol							
+																			Plantae						Medicago	Medicago lupulina	Yes			NA	NA	Black medic	0.037	Wt_or_vol							
+																			Plantae						Calochortus	NA	Yes			NA	NA	Mariposa	0.003	Wt_or_vol							
+																			Plantae						Erodium	Erodium cicutarium	Yes			NA	NA	Filaree	0.0005	Wt_or_vol							
+																			Plantae						Achillea	Achillea millefolium	Yes			NA	NA	Wooly yarrow	0.0005	Wt_or_vol							
+																			Plantae						Pinus	Pinus edulis	Yes			NA	NA	Pinon	0.0005	Wt_or_vol							
+																			Non-biological	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Stones and gravel	0.033	Wt_or_vol							
+																			Plantae						Juniperus	NA	Yes			NA	NA	Juniper berries	1	Occurrence							
+																			Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Dandelion	0.66	Occurrence							
+																			Plantae						Pinus	Pinus ponderosa	Yes			NA	seed	Pine seed	0.33	Occurrence							
+																			Plantae						Agoseris	NA	Yes			NA	NA	Mountain dandelion	1	Occurrence							
+																			Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.33	Occurrence							
+																			Animalia		Insecta	NA	NA	NA	NA	NA	Yes			NA	NA		1	Occurrence							
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	NA	Forbs	0.66	Occurrence							
+																			Plantae					Poaceae	NA	NA	No			NA	NA	Grass	0.66	Occurrence							
+																			Plantae						Eragrostis	NA	Yes			NA	NA	Lovegrass	0.33	Occurrence							
+																			Plantae						Poa	NA	Yes			NA	NA	Bluegrass	0.33	Occurrence							
+																			Plantae						Androsace	NA	Yes			NA	NA	Rock jasmine	0.66	Occurrence							
+																			Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified mass	0.66	Occurrence							
+																			Plantae						Medicago	Medicago lupulina	Yes			NA	NA	Black medic	0.66	Occurrence							
+																			Plantae						Calochortus	NA	Yes			NA	NA	Mariposa	0.33	Occurrence							
+																			Plantae						Erodium	Erodium cicutarium	Yes			NA	NA	Filaree	0.66	Occurrence							
+																			Plantae						Achillea	Achillea millefolium	Yes			NA	NA	Wooly yarrow	0.66	Occurrence							
+																			Plantae						Pinus	Pinus edulis	Yes			NA	NA	Pinon	0.33	Occurrence							
+																			Non-biological	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Stones and gravel	1	Occurrence							
+																	summer		Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Dandelion	0.176	Wt_or_vol		7					
+																			Plantae						Arctostaphylos	Arctostaphylos pungens	Yes			NA	NA	Manzanita	0.378	Wt_or_vol							
+																			Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.003	Wt_or_vol							
+																			Animalia		Insecta	NA	NA	NA	NA	NA	Yes			NA	NA		0.092	Wt_or_vol							
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	NA	Forbs	0.033	Wt_or_vol							
+																			Plantae					Poaceae	NA	NA	No			NA	NA	Grass	0.046	Wt_or_vol							
+																			Plantae						Androsace	NA	Yes			NA	NA	Rock jasmine	0.007	Wt_or_vol							
+																			Plantae						Koeleria	Koeleria pyramidata	Yes			NA	NA	Junegrass	0.053	Wt_or_vol							
+																			Plantae						Rhus	Rhus aromicata	Yes			NA	NA	Skunkbush	0.053	Wt_or_vol							
+																			Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified mass	0.011	Wt_or_vol							
+																			Plantae						Medicago	Medicago lupulina	Yes			NA	NA	Black medic	0.003	Wt_or_vol							
+																			Plantae						Ranunculus	NA	Yes			NA	NA	Buttercup	0.043	Wt_or_vol							
+																			Plantae						Erigeron	NA	Yes			NA	NA	Fleabane	0.035	Wt_or_vol							
+																			Plantae						Stipa	NA	Yes			NA	NA	Needlegrass	0.033	Wt_or_vol							
+																			Plantae						Calochortus	NA	Yes			NA	NA	Mariposa	0.013	Wt_or_vol							
+																			Plantae						Erodium	Erodium cicutarium	Yes			NA	NA	Filaree	0.0005	Wt_or_vol							
+																			Plantae						Portulaca	Portulaca oleracea	Yes			NA	NA	Purslane	0.001	Wt_or_vol							
+																			Plantae						Hymenoxys	NA	Yes			NA	NA	Hymenoxys	0.01	Wt_or_vol							
+																			Plantae						Pedicularis	Pedicularis centranthera	Yes			NA	NA	Wood betony	0.004	Wt_or_vol							
+																			Plantae						Astragalus	NA	Yes			NA	NA	Milk vetch	0.001	Wt_or_vol							
+																			Plantae						Eriogonum	NA	Yes			NA	NA	Wild buckwheat	0.001	Wt_or_vol							
+																			Plantae						Descurainia	NA	Yes			NA	NA	Tansy mustard	0.001	Wt_or_vol							
+																			Plantae						Iris	Iris missouriensis	Yes			NA	NA	Rocky Mountain iris	0.0005	Wt_or_vol							
+																			Non-biological	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Stones and gravel	0.003	Wt_or_vol							
+																			Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Dandelion	0.57	Occurrence							
+																			Plantae						Arctostaphylos	Arctostaphylos pungens	Yes			NA	NA	Manzanita	0.86	Occurrence							
+																			Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.29	Occurrence							
+																			Animalia		Insecta	NA	NA	NA	NA	NA	Yes			NA	NA		1	Occurrence							
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	NA	Forbs	0.86	Occurrence							
+																			Plantae					Poaceae	NA	NA	No			NA	NA	Grass	0.71	Occurrence							
+																			Plantae						Androsace	NA	Yes			NA	NA	Rock jasmine	0.43	Occurrence							
+																			Plantae						Koeleria	Koeleria pyramidata	Yes			NA	NA	Junegrass	0.14	Occurrence							
+																			Plantae						Rhus	Rhus aromicata	Yes			NA	NA	Skunkbush	0.57	Occurrence							
+																			Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified mass	1	Occurrence							
+																			Plantae						Medicago	Medicago lupulina	Yes			NA	NA	Black medic	0.14	Occurrence							
+																			Plantae						Ranunculus	NA	Yes			NA	NA	Buttercup	0.14	Occurrence							
+																			Plantae						Erigeron	NA	Yes			NA	NA	Fleabane	0.29	Occurrence							
+																			Plantae						Stipa	NA	Yes			NA	NA	Needlegrass	0.14	Occurrence							
+																			Plantae						Calochortus	NA	Yes			NA	NA	Mariposa	0.29	Occurrence							
+																			Plantae						Erodium	Erodium cicutarium	Yes			NA	NA	Filaree	0.43	Occurrence							
+																			Plantae						Portulaca	Portulaca oleracea	Yes			NA	NA	Purslane	0.14	Occurrence							
+																			Plantae						Hymenoxys	NA	Yes			NA	NA	Hymenoxys	0.14	Occurrence							
+																			Plantae						Pedicularis	Pedicularis centranthera	Yes			NA	NA	Wood betony	0.14	Occurrence							
+																			Plantae						Astragalus	NA	Yes			NA	NA	Milk vetch	0.14	Occurrence							
+																			Plantae						Eriogonum	NA	Yes			NA	NA	Wild buckwheat	0.14	Occurrence							
+																			Plantae						Descurainia	NA	Yes			NA	NA	Tansy mustard	0.14	Occurrence							
+																			Plantae						Iris	Iris missouriensis	Yes			NA	NA	Rocky Mountain iris	0.14	Occurrence							
+																			Non-biological	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Stones and gravel	0.71	Occurrence							
+																	fall		Plantae						Juniperus	NA	Yes			NA	NA	Juniper berries	0.0005	Wt_or_vol		16					
+																			Plantae						Taraxacum	Taraxacum officinale	Yes			NA	NA	Dandelion	0.097	Wt_or_vol							
+																			Plantae						Arctostaphylos	Arctostaphylos pungens	Yes			NA	NA	Manzanita	0.124	Wt_or_vol							
+																			Plantae						Pinus	Pinus ponderosa	Yes			NA	seed	Pine seed	0.24	Wt_or_vol							
+																			Plantae						Quercus	NA	Yes			NA	seed	Acorns	0.234	Wt_or_vol							
+																			Animalia		Insecta	NA	NA	NA	NA	NA	Yes			NA	NA		0.024	Wt_or_vol							
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	NA	Forbs	0.004	Wt_or_vol							
+																			Plantae					Poaceae	NA	NA	No			NA	NA	Grass	0.031	Wt_or_vol							
+																			Plantae						Eragrostis	NA	Yes			NA	NA	Lovegrass	0.1	Wt_or_vol							
+																			Unknown	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified mass	0.011	Wt_or_vol							
+																			Plantae						Medicago	Medicago lupulina	Yes			NA	NA	Black medic	0.003	Wt_or_vol							
+																			Plantae						Erigeron	NA	Yes			NA	NA	Fleabane	0.0005	Wt_or_vol							
+																			Plantae						Muhlenbergia	Muhlenbergia sinuosa	Yes			NA	NA	Ticklegrass	0.027	Wt_or_vol							
+																			Plantae						Calochortus	NA	Yes			NA	NA	Mariposa	0.0005	Wt_or_vol							
+																			Plantae						Heliomeris	Heliomeris longifolia	Yes			NA	NA	Goldeneye	0.016	Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
