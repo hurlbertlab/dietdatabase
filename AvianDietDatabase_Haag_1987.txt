@@ -1,8 +1,0 @@
-Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
-Common Gallinule	Gallinula galeata		"Rallidae (Rails, Gallinules, and Coots)"	eBird Taxonomy v2018	NA	NA	NA	NA	NA	Florida	Orange Lake	wetland	9	1984	11	1984	fall	1								Cyperus esculentus	yes				seed			Occurrence	NA	13	1	Stomach contents		EK	"Haag, K. H., J. C. Joyce, W. M. Hetrick, and J. C. Jordan. 1987. Predation on waterhyacinth weevils and other aquatic insects by three wetland birds on Florida. Fla. Entomol. 70:457-471."
-																										Decodon verticillatis	yes				seed										
-																										Hydrocotyle umbellata	yes				seed										
-																										Myrica cerifera	yes				seed										
-																										Polygonum densiflorum	yes				seed										
-																										Polygonum pensylvanicum	yes				seed										
-																									Polygonum		no				seed										
