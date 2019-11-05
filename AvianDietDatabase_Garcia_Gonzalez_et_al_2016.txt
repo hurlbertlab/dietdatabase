@@ -1,0 +1,104 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Rock Ptarmigan	Lagopus muta	pyrenaica	Phasianidae	eBird Clements Checklist v_2018	2.483333	42.51667	2200	NA	2700	France	Canigou Massif	woodland; scrubland	1	2002	1	2002	winter		Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	bud		0.151	Wt_or_vol		13	1	Fecal contents	Data represents average volume of top 80% of diet; before snowmelt	MMS	
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	vegetation		0.073	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae	Tracheophyta	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.07	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Calluna	Calluna vulgaris	Yes			NA	NA		0.049	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Jasione	Jasione crispa	Yes			NA	NA		0.027	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Salix	Salix pyrenaica	Yes			NA	NA		0.005	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Alchemilla	Alchemilla catalaunica	Yes			NA	NA		0.06	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	flower	Forb	0.001	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Oxytropis	NA	Yes			NA	NA		0.031	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Cerastium	Cerastium fontanum	Yes			NA	NA		0.046	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	flower		0.02	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	vegetation	Forb	0.001	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Animalia	Arthropoda	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.006	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Anthyllis	Anthyllis vulneraria	Yes			NA	NA		0.106	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Hieracium	Hieracium lactucella	Yes			NA	NA		0.002	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Pinus	Pinus uncinata	Yes			NA	NA		0.068	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Vaccinium	Vaccinium myrtillus	Yes			NA	vegetation		0.058	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+													7	2002	7	2002	summer		Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	bud		0.017	Wt_or_vol		16			Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	vegetation		0.078	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae	Tracheophyta	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.054	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Jasione	Jasione crispa	Yes			NA	NA		0.027	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Salix	Salix pyrenaica	Yes			NA	NA		0.115	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Salix	Salix herbacea	Yes			NA	NA		0.133	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Alchemilla	Alchemilla catalaunica	Yes			NA	NA		0.002	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae					Asteraceae	NA	NA	Yes			NA	flower		0.11	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Crepis	Crepis pyrenaica	Yes			NA	NA		0.095	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	flower	Forb	0.026	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Oxytropis	NA	Yes			NA	NA		0.021	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Cerastium	Cerastium fontanum	Yes			NA	NA		0.022	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	flower		0.001	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae		Manoliopsida	NA	NA	NA	NA	NA	No			NA	vegetation	Forb	0.009	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Animalia	Arthropoda	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.012	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae					Campanulaceae	NA	NA	Yes			NA	NA		0.002	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Leontodon	NA	Yes			NA	seed		0.018	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae					Asteraceae	NA	NA	Yes			NA	seed		0.035	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	bud		0.265	Wt_or_vol		13			Data represents average volume of top 80% of diet; before snowmelt		
+													1	2003	1	2003	winter		Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	vegetation		0.1225	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae	Tracheophyta	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.034	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Calluna	Calluna vulgaris	Yes			NA	NA		0.031	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Jasione	Jasione crispa	Yes			NA	NA		0.023	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Salix	Salix pyrenaica	Yes			NA	NA		0.004	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Salix	Salix herbacea	Yes			NA	NA		0.002	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Alchemilla	Alchemilla catalaunica	Yes			NA	NA		0.001	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Cerastium	Cerastium fontanum	Yes			NA	NA		0.036	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	flower		0.037	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	vegetation	Forb	0.002	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Animalia	Arthropoda	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.067	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Hieracium	Hieracium lactucella	Yes			NA	NA		0.046	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Pinus	Pinus uncinata	Yes			NA	NA		0.015	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Vaccinium	Vaccinium myrtillus	Yes			NA	vegetation		0.004	Wt_or_vol					Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	bud		0.023	Wt_or_vol		25			Data represents average volume of top 80% of diet; after snowmelt		
+													7	2003	7	2003	summer		Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	vegetation		0.078	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae	Tracheophyta	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.02	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Calluna	Calluna vulgaris	Yes			NA	NA		0.001	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Jasione	Jasione crispa	Yes			NA	NA		0.079	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Salix	Salix pyrenaica	Yes			NA	NA		0.106	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Salix	Salix herbacea	Yes			NA	NA		0.085	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Alchemilla	Alchemilla catalaunica	Yes			NA	NA		0.007	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae					Asteraceae	NA	NA	Yes			NA	flower		0.06	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	flower	Forb	0.094	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Oxytropis	NA	Yes			NA	NA		0.011	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Cerastium	Cerastium fontanum	Yes			NA	NA		0.014	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	flower		0.004	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	vegetation		0.008	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Animalia	Arthropoda	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.008	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae					Campanulaceae	NA	NA	Yes			NA	NA		0.06	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Leontodon	NA	Yes			NA	seed		0.048	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae					Asteraceae	NA	NA	Yes			NA	seed		0.002	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Hieracium	Hieracium lactucella	Yes			NA	NA		0.001	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+																			Plantae						Vaccinium	Vaccinium myrtillus	Yes			NA	vegetation		0.006	Wt_or_vol					Data represents average volume of top 80% of diet; after snowmelt		
+													1	2004	1	2004	winter		Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	bud		0.116	Wt_or_vol		15			Data represents average volume of top 80% of diet; before snowmelt		
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	vegetation		0.0245	Wt_or_vol							
+																			Plantae	Tracheophyta	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.005	Wt_or_vol							
+																			Plantae						Calluna	Calluna vulgaris	Yes			NA	NA		0.199	Wt_or_vol							
+																			Plantae						Jasione	Jasione crispa	Yes			NA	NA		0.065	Wt_or_vol							
+																			Plantae						Salix	Salix herbacea	Yes			NA	NA		0.007	Wt_or_vol							
+																			Plantae						Alchemilla	Alchemilla catalaunica	Yes			NA	NA		0.154	Wt_or_vol							
+																			Plantae					Asteraceae	NA	NA	Yes			NA	flower		0.001	Wt_or_vol							
+																			Plantae						Crepis	Crepis pyrenaica	Yes			NA	NA		0.001	Wt_or_vol							
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	flower	Forb	0.023	Wt_or_vol							
+																			Plantae						Oxytropis	NA	Yes			NA	NA		0.076	Wt_or_vol							
+																			Plantae						Rhododendron	Rhododendron ferrugineum	Yes			NA	flower		0.061	Wt_or_vol							
+																			Plantae		Magnoliopsida	NA	NA	NA	NA	NA	No			NA	vegetation		0.021	Wt_or_vol							
+																			Animalia	Arthropoda	NA	NA	NA	NA	NA	NA	Yes			NA	NA		0.012	Wt_or_vol							
+																			Plantae					Asteraceae	NA	NA	Yes			NA	seed		0.004	Wt_or_vol							
+																			Plantae						Hieracium	Hieracium lactucella	Yes			NA	NA		0.029	Wt_or_vol							
+																			Plantae						Pinus	Pinus uncinata	Yes			NA	NA		0.005	Wt_or_vol							
+																			Plantae						Vaccinium	Vaccinium myrtillus	Yes			NA	vegetation		0.007	Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																																		Wt_or_vol							
