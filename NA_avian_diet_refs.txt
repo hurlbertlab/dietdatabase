@@ -7319,7 +7319,7 @@ Willow Ptarmigan	Phasianidae	1998	Feeding	Main Foods Taken	"Peters, S. S. 1958. 
 Willow Ptarmigan	Phasianidae	1998	Feeding	Main Foods Taken	"Weeden, R. B. 1969. Foods of Rock and Willow Ptarmigan in central Alaska with comments on interspecific competition. Auk 86:271-281."	y	y	entered								
 Willow Ptarmigan	Phasianidae	1998	Feeding	Microhabitat For Foraging	"Mossop, D. H. 1988. Winter survival and spring breeding strategies of Willow Ptarmigan. Pages 330-378 in Adaptive strategies and population ecology of northern grouse. (Bergerud, A. T. and M. W. Gratson, Eds.) Univ. of Minnesota Press, Minneapolis."	n		unavailable								
 Willow Ptarmigan	Phasianidae	1998	Diet		"Roberts, H. A. 1963. Aspects of the life history and food habitats of Rock and Willow Ptarmigan. Master's Thesis. Univ. of Alaska, College."	n		unavailable								
-Willow Ptarmigan	Phasianidae	1998	Diet		"West, G. C. and M. S. Meng. 1966. Nutrition of Willow Ptarmigan in northern Alaska. Auk 83:603-615."			requested								
+Willow Ptarmigan	Phasianidae	1998	Diet		"West, G. C. and M. S. Meng. 1966. Nutrition of Willow Ptarmigan in northern Alaska. Auk 83:603-615."	y	y	in progress								
 Willow Ptarmigan	Phasianidae	1998	Diet		"Moss, R. 1973. The digestion and intake of winter foods by wild ptarmigan in Alaska. Condor 75:293-300."	y	n									
 Willow Ptarmigan	Phasianidae	1998	Diet		"Gasaway, W. C. 1976. Volatile fatty acids and metabolizable energy derived from cecal fermentation in the Willow Ptarmigan. Comp. Biochem. Physiol. 53A:115-121."	n		unavailable								
 Willow Ptarmigan	Phasianidae	1998	Diet		"Williams, J. B., D. Best, and C. Warford. 1980. Foraging ecology of ptarmigan at Meade River, Alaska. Wilson Bull. 92:341."	y	y	entered								
@@ -8306,7 +8306,7 @@ American Coot	Rallidae	2002	"Nutrition, Metabolism, And Energetics"		"Alisauskas
 American Coot	Rallidae	2002	Food Selection And Storage		"Grace, J. B. 1977. The distribution and abundance of submerged aquatic macrophytes in a reactor-cooling reservoir. Master's Thesis. Clemson Univ. Clemson, SC."	y	n									
 American Coot	Rallidae	2002	"Nutrition, Metabolism, And Energetics"		"Sincock, J. L. 1962. Estimating consumption of food by wintering waterfowl populations. Proc. Annu. Conf. Southeast. Assoc. Game Fish Comm. 16:217-221."	y	n									
 Black Rail	Rallidae	1994	Feeding	Food Capture And Consumption	"Flores, R. E. and W. R. Eddleman. 1991. Ecology of the California Black Rail in southwestern Arizona. Final Rept., U.S. Bur. Reclam., Yuma Proj. Off. and Arizona Dept. Game & Fish, Yuma, AZ."	y	n									
-Black Rail	Rallidae	1994	Feeding	Microhabitat For Foraging	"Weske, J. S. 1969. An ecological study of the Black Rail in Dorchester County, Maryland. Master's Thesis. Cornell Univ. Ithaca, NY."	y		at library								
+Black Rail	Rallidae	1994	Feeding	Microhabitat For Foraging	"Weske, J. S. 1969. An ecological study of the Black Rail in Dorchester County, Maryland. Master's Thesis. Cornell Univ. Ithaca, NY."	y	n									
 Black Rail	Rallidae	1994	Diet	Major Food Items	"Huey, L. M. 1916. The Farallon Rails of San Diego County. Condor 18:58-62."	y	n									
 Black Rail	Rallidae	1994	Diet	Major Food Items	"Gosse, P. H. and R. Hill. 1847. The birds of Jamaica. John Van Vorst, London."	y	n									
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Saunders, A. 1926. The summer birds of central New York marshes. Roosevelt Wildl. Bull. 3:334-475."	y	n									
@@ -8323,7 +8323,7 @@ Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Haag, K. H., J. C. Joyce, 
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Forbush, E. H. 1925. Birds of Massachusetts and other New England states. Vol. 1. Mass. Dep. Agric., Norwood Press, Norwood, MA."	n		"print only and only University of Michigan, University of California"								
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Gribble, F. C. and E. G. Eeles. 1954. Moorhen taking fish. Br. Birds 47:84."	n		unavailable								
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Greij, E. D. 1994. Common Moorhen. Pages 144-157 in Migratory shore and upland game bird management in North America. (Tacha, T. C. and C. E. Braun, Eds.) Int. Assoc. Fish Wildl. Agencies, Washington, D.C."	n										
-Common Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Bell, G. R. 1976. Ecological observations of Common (Gallinula chloropus) and Purple gallinules (Porphyrula martinica) on Lacassine National Wildlife Refuge, Cameron Parish, Louisiana. Master's Thesis. Univ. of Southwestern Louisiana, Lafayette."	y	n	inter library request submitted								
+Common Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Bell, G. R. 1976. Ecological observations of Common (Gallinula chloropus) and Purple gallinules (Porphyrula martinica) on Lacassine National Wildlife Refuge, Cameron Parish, Louisiana. Master's Thesis. Univ. of Southwestern Louisiana, Lafayette."	y	n									
 Common Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Cramp, S. and K. E. L. Simmons. 1980. The birds of the Western Palearctic, Vol. 2: hawks to bustards. Oxford Univ. Press, Oxford, U.K."	n		print only 								
 Common Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging; Food Capture And Consumption	"Cogswell, H. L. 1977. Water birds of California. Univ. of California Press, Berkeley."	y	n									
 Common Gallinule	Rallidae	2002	Diet	Major Food Items	"Cawston, J. M. 1983. One Moorhen killing and eating another. Br. Birds 76:451."	n		unavailable								
@@ -8334,24 +8334,24 @@ Hawaiian Coot	Rallidae	2002			"Munro, G. C. 1960. Birds of Hawaii. 2nd ed. Charl
 King Rail	Rallidae	1-May-05	Diet	Major Food Items	"Reid, F. A. 1989. Differential habitat use by waterbirds in a managed wetland complex. Ph. D. diss. Univ. Missouri, Columbia."	y	n									
 King Rail	Rallidae	1-May-05	"Drinking, Pellet-Casting, And Defecation"		"Olson, S. L. 1997. Towards a less imperfect understanding of the systematics and biogeography of the Clapper and King Rail complex (Rallus longirostrisand R. elegans). Pages 93-111 in The Era of Allan R. Phillips: a Festschrift. (Dickerman, R., Ed.) Horizon Communications, Albuquerque."	y	n									
 King Rail	Rallidae	1-May-05	Diet	Major Food Items	"Meanley, B. 1956. Food habits of the king rail in the Arkansas ricefields. Auk 73:252-258."	y	y									
-King Rail	Rallidae	1-May-05	"Drinking, Pellet-Casting, And Defecation"		"Conway, G. L., M. R. Hughes, and R. R. Moldenhauer. 1988. Extra-renal salt excretion in Clapper and King Rails. Comp. Biochem. Physiol. 91A:671-674."											
-Purple Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging	"Bell, G. 1976. Ecological observations of Common and Purple gallinules on Lacassine National Wildlife Refuge. Master's Thesis. Univ. of Southwestern Louisiana, Lafayette."											
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Bent, A. C. 1926. Life histories of North American marsh birds. U.S. Natl. Mus. Bull. 135."											
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Mcilhenny, E. A. 1934. Bird city. Christopher Publ. House, Boston, MA."											
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Stoddard, H. 1978. Birds of Grady County, GA. Bull. Tall Timbers Res. Stn. 21. Tallahassee, FL."											
-Purple Gallinule	Rallidae	2002	Feeding	Main Foods Taken	y	y										
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Krekorian, C. O. 1978. Alloparental care in the Purple Gallinule. Condor 80:382-390."											
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 1. Univ. of Texas Press, Austin."											
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."											
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Reagan, W. 1977. Resource partitioning of North American gallinules in southern Texas. Master's Thesis. Utah State Univ. Logan."											
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Mcilhenny, E. A. 1936. Purple Gallinules (Ionornis martinica) are predatory. Auk 53:327-328."											
-Purple Gallinule	Rallidae	2002	Metabolism And Temperature Regulation		"Gross, A. O. and J. Van Tyne. 1929. The Purple Gallinule (Ionornis martinicus) of Barro Colorado Island, Canal Zone. Auk 46:431-446."											
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Crosby, G. T. 1969. Gallinules feeding on water hyacinth blossoms. Fla. Nat. 42:171."											
-Purple Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging	"Mulholland, R. 1983. Feeding ecology of the Common Moorhen and Purple Gallinule on Orange Lake, Florida. Master's Thesis. Univ. of Florida, Gainesville."											
-Purple Gallinule	Rallidae	2002	Feeding	Main Foods Taken	"Helm, R. N. 1994. Purple Gallinule. Pages 158-165 in Management of migratory shore and upland game birds in North America. (Tacha, T. C. and C. E. Braun, Eds.) Int. Assoc. Fish Wild. Agencies, in cooperation with U.S. Fish Wildlife Serv. Washington, D.C."											
-Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Audubon, J. J. 1838. Ornithological biography. Vol. 4. Adam and Charles Black, Edinburgh."											
-Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Howell, A. H. 1932. Florida bird life. Coward-McCann, New York."											
-Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Mckay, W. D. 1981. Notes on Purple Gallinules in Colombian rice fields. Wilson Bull. 93:267-271."											
+King Rail	Rallidae	1-May-05	"Drinking, Pellet-Casting, And Defecation"		"Conway, G. L., M. R. Hughes, and R. R. Moldenhauer. 1988. Extra-renal salt excretion in Clapper and King Rails. Comp. Biochem. Physiol. 91A:671-674."	y	n									
+Purple Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging	"Bell, G. 1976. Ecological observations of Common and Purple gallinules on Lacassine National Wildlife Refuge. Master's Thesis. Univ. of Southwestern Louisiana, Lafayette."	y	n									
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Bent, A. C. 1926. Life histories of North American marsh birds. U.S. Natl. Mus. Bull. 135."	y	n									
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Mcilhenny, E. A. 1934. Bird city. Christopher Publ. House, Boston, MA."	y	n									
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Stoddard, H. 1978. Birds of Grady County, GA. Bull. Tall Timbers Res. Stn. 21. Tallahassee, FL."	n										
+Purple Gallinule	Rallidae	2002	Feeding	Main Foods Taken	y	y		?								
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Krekorian, C. O. 1978. Alloparental care in the Purple Gallinule. Condor 80:382-390."	y	n									
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 1. Univ. of Texas Press, Austin."	n		must be purchased								
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	n		must be purchased								
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Reagan, W. 1977. Resource partitioning of North American gallinules in southern Texas. Master's Thesis. Utah State Univ. Logan."			inter library request submitted								
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Mcilhenny, E. A. 1936. Purple Gallinules (Ionornis martinica) are predatory. Auk 53:327-328."	y	n									
+Purple Gallinule	Rallidae	2002	Metabolism And Temperature Regulation		"Gross, A. O. and J. Van Tyne. 1929. The Purple Gallinule (Ionornis martinicus) of Barro Colorado Island, Canal Zone. Auk 46:431-446."	y	n									
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Crosby, G. T. 1969. Gallinules feeding on water hyacinth blossoms. Fla. Nat. 42:171."	n										
+Purple Gallinule	Rallidae	2002	Feeding	Microhabitat For Foraging	"Mulholland, R. 1983. Feeding ecology of the Common Moorhen and Purple Gallinule on Orange Lake, Florida. Master's Thesis. Univ. of Florida, Gainesville."	y		inter library request submitted								
+Purple Gallinule	Rallidae	2002	Feeding	Main Foods Taken	"Helm, R. N. 1994. Purple Gallinule. Pages 158-165 in Management of migratory shore and upland game birds in North America. (Tacha, T. C. and C. E. Braun, Eds.) Int. Assoc. Fish Wild. Agencies, in cooperation with U.S. Fish Wildlife Serv. Washington, D.C."	n		not available								
+Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Audubon, J. J. 1838. Ornithological biography. Vol. 4. Adam and Charles Black, Edinburgh."	y		in Wilson library use only								
+Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Howell, A. H. 1932. Florida bird life. Coward-McCann, New York."	y	n									
+Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Mckay, W. D. 1981. Notes on Purple Gallinules in Colombian rice fields. Wilson Bull. 93:267-271."	y	y									
 Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Esler, D. 1990. Avian community responses to hydrilla invasion. Wilson Bull. 102:427-440."											
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Hunter, L. A. 1986. Cooperative breeding behavior of Purple Gallinules. Doctoral diss. Univ. of Montana, Missoula, MT."											
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Olson, S. L. 1963. The Purple Gallinule feeding on the yellow lotus. Fla. Nat. 36:63."											
