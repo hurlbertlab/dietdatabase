@@ -7319,7 +7319,7 @@ Willow Ptarmigan	Phasianidae	1998	Feeding	Main Foods Taken	"Peters, S. S. 1958. 
 Willow Ptarmigan	Phasianidae	1998	Feeding	Main Foods Taken	"Weeden, R. B. 1969. Foods of Rock and Willow Ptarmigan in central Alaska with comments on interspecific competition. Auk 86:271-281."	y	y	entered								
 Willow Ptarmigan	Phasianidae	1998	Feeding	Microhabitat For Foraging	"Mossop, D. H. 1988. Winter survival and spring breeding strategies of Willow Ptarmigan. Pages 330-378 in Adaptive strategies and population ecology of northern grouse. (Bergerud, A. T. and M. W. Gratson, Eds.) Univ. of Minnesota Press, Minneapolis."	n		unavailable								
 Willow Ptarmigan	Phasianidae	1998	Diet		"Roberts, H. A. 1963. Aspects of the life history and food habitats of Rock and Willow Ptarmigan. Master's Thesis. Univ. of Alaska, College."	n		unavailable								
-Willow Ptarmigan	Phasianidae	1998	Diet		"West, G. C. and M. S. Meng. 1966. Nutrition of Willow Ptarmigan in northern Alaska. Auk 83:603-615."			requested								
+Willow Ptarmigan	Phasianidae	1998	Diet		"West, G. C. and M. S. Meng. 1966. Nutrition of Willow Ptarmigan in northern Alaska. Auk 83:603-615."	y	y	in progress								
 Willow Ptarmigan	Phasianidae	1998	Diet		"Moss, R. 1973. The digestion and intake of winter foods by wild ptarmigan in Alaska. Condor 75:293-300."	y	n									
 Willow Ptarmigan	Phasianidae	1998	Diet		"Gasaway, W. C. 1976. Volatile fatty acids and metabolizable energy derived from cecal fermentation in the Willow Ptarmigan. Comp. Biochem. Physiol. 53A:115-121."	n		unavailable								
 Willow Ptarmigan	Phasianidae	1998	Diet		"Williams, J. B., D. Best, and C. Warford. 1980. Foraging ecology of ptarmigan at Meade River, Alaska. Wilson Bull. 92:341."	y	y	entered								
