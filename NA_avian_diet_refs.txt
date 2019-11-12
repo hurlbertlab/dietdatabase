@@ -8359,8 +8359,8 @@ Purple Gallinule	Rallidae	2002	Feeding	Main Foods Taken	"Helm, R. N. 1994. Purpl
 Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Audubon, J. J. 1838. Ornithological biography. Vol. 4. Adam and Charles Black, Edinburgh."	y		in Wilson library use only								
 Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Howell, A. H. 1932. Florida bird life. Coward-McCann, New York."	y	n									
 Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Mckay, W. D. 1981. Notes on Purple Gallinules in Colombian rice fields. Wilson Bull. 93:267-271."	y	y									
-Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Esler, D. 1990. Avian community responses to hydrilla invasion. Wilson Bull. 102:427-440."											
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Hunter, L. A. 1986. Cooperative breeding behavior of Purple Gallinules. Doctoral diss. Univ. of Montana, Missoula, MT."											
+Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Esler, D. 1990. Avian community responses to hydrilla invasion. Wilson Bull. 102:427-440."	y	n									
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Hunter, L. A. 1986. Cooperative breeding behavior of Purple Gallinules. Doctoral diss. Univ. of Montana, Missoula, MT."	y	y	too vague?								
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Olson, S. L. 1963. The Purple Gallinule feeding on the yellow lotus. Fla. Nat. 36:63."											
 Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Gosse, P. H. 1847. The birds of Jamaica. John Van Voorst, Paternastor Row, London."											
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Odom, R. R. 1977. Sora. Pages 57-65 in Management of migratory shore and upland game birds in North America. (Sanderson, G. C., Ed.) Inter. Assoc. Fish Wildl. Agencies, Washington, D.C."											
