@@ -82,14 +82,12 @@ Note that Families for which I know that data remain to be entered are highlight
 ### Galliformes  
 --Odontophoridae  
 --Cracidae   
+--Phasianidae  
 
 ----------
 
 A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
  
-### Galliformes  
---Phasianidae (**** lots to check ****)- MELISSA
-
 ### Gruiformes  
 --Rallidae (9 to enter)  ELLIE
 
