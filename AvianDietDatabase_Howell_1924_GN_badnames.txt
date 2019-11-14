@@ -1,0 +1,6 @@
+"level"	"name"	"condition"
+"Family"	"Chrysomeloidae"	"unmatched"
+"Family"	"Geometroidea"	"wrong rank; too low"
+"Suborder"	"Percidae"	"wrong rank; too high"
+"Class"	"Arachnida"	"wrong rank; too high"
+"Phylum"	"Insecta"	"wrong rank; too high"
