@@ -1,0 +1,61 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Wild Turkey	Meleagris gallopavo		Phasianidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	Alabama	Lee County	woodland; coniferous forest	6	1971	6	1972	summer		Plantae						Cyperus	Cyperus compressus	Yes			NA	NA		0.005	Wt_or_vol			1	Fecal contents	"217 droppings total; data collected June to September, broken down by month"	MMS	
+																			Plantae						Lespedeza	NA	Yes			NA	NA		0.005	Wt_or_vol							
+																			Plantae						Oxalis	Oxalis stricta	Yes			NA	NA		0.01	Wt_or_vol							
+																			Plantae						Panicum	NA	Yes			NA	NA		0.02	Wt_or_vol							
+																			Plantae						Paspalum	Paspalum notatum	Yes			NA	NA		0.02	Wt_or_vol							
+																			Plantae						Prunus	NA	Yes			NA	NA		0.005	Wt_or_vol							
+																			Plantae						Ranunculus	NA	Yes			NA	NA		0.01	Wt_or_vol							
+																			Plantae						Rubus	NA	Yes			NA	NA		0.34	Wt_or_vol							
+																			Plantae						Trifolium	Trifolium dubium	Yes			NA	NA		0.005	Wt_or_vol							
+																			Plantae						Viola	NA	Yes			NA	NA		0.005	Wt_or_vol							
+																			Plantae	Tracheophyta	NA	NA	NA	NA	NA	NA	No			NA	seed		0.005	Wt_or_vol							
+																			Plantae					Poaceae	NA	NA	No			NA	vegetation		0.005	Wt_or_vol							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.07	Wt_or_vol							
+																			Animalia			Orthoptera	NA	NA	NA	NA	Yes			NA	NA		0.12	Wt_or_vol							
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	No			NA	NA		0.35	Wt_or_vol							
+																			Non-biological	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Mineral	0.04	Wt_or_vol							
+																			Plantae						Cyperus	Cyperus compressus	Yes			NA	NA		0.13	Occurrence							
+																			Plantae						Lespedeza	NA	Yes			NA	NA		0.07	Occurrence							
+																			Plantae						Oxalis	Oxalis stricta	Yes			NA	NA		0.4	Occurrence							
+																			Plantae						Panicum	NA	Yes			NA	NA		0.53	Occurrence							
+																			Plantae						Paspalum	Paspalum notatum	Yes			NA	NA		0.07	Occurrence							
+																			Plantae						Prunus	NA	Yes			NA	NA		0.53	Occurrence							
+																			Plantae						Ranunculus	NA	Yes			NA	NA		0.07	Occurrence							
+																			Plantae						Rubus	NA	Yes			NA	NA		100	Occurrence							
+																			Plantae						Trifolium	Trifolium dubium	Yes			NA	NA		0.33	Occurrence							
+																			Plantae						Viola	NA	Yes			NA	NA		0.07	Occurrence							
+																			Plantae	Tracheophyta	NA	NA	NA	NA	NA	NA	No			NA	seed		0.07	Occurrence							
+																			Plantae					Poaceae	NA	NA	No			NA	vegetation		0.07	Occurrence							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.33	Occurrence							
+																			Animalia			Orthoptera	NA	NA	NA	NA	Yes			NA	NA		0.6	Occurrence							
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	No			NA	NA		0.73	Occurrence							
+																			Non-biological	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Mineral	1	Occurrence							
+													7	1971	7	1972			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																			Plantae															Wt_or_vol							
+																																		Wt_or_vol							
