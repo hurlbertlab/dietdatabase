@@ -8381,16 +8381,16 @@ Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Johnson, R. R. and J. J. D
 Sora	Rallidae	1996	Metabolism And Temperature Regulation		"Root, T. 1988. Atlas of wintering North American birds: an analysis of Christmas count data. Univ. of Chicago Press, Chicago."											
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Meanley, B. 1965. Early-fall food and habitat of the Sora in Patuxent River marshes, Maryland. Chesapeake Sci. 6:235-237."											
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Manci, K. M. and D. H. Rusch. 1988. Indices to distribution and abundance of some inconspicuous waterbirds on Horicon Marsh. J. Field Ornithol. 59:67-75."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Rundle, W. D. and M. W. Sayre. 1983. Feeding ecology of migrant Soras in southeastern Missouri. J. Wildl. Manage. 47:1153-1159."											
-Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Walkinshaw, L. H. 1937. The Virginia Rail in Michigan. Auk 54:464-475."											
-Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Pospichal, L. B. and W. H. Marshall. 1954. A field study of Sora Rail and Virginia Rail in central Minnesota. Flicker 26:2-32."											
-Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Horak, G. J. 1970. A comparative study of the foods of the Sora and Virginia Rail. Wilson Bull. 82:207-213."											
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Rundle, W. D. and M. W. Sayre. 1983. Feeding ecology of migrant Soras in southeastern Missouri. J. Wildl. Manage. 47:1153-1159."	y		in progress								
+Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Walkinshaw, L. H. 1937. The Virginia Rail in Michigan. Auk 54:464-475."	y	n									
+Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Pospichal, L. B. and W. H. Marshall. 1954. A field study of Sora Rail and Virginia Rail in central Minnesota. Flicker 26:2-32."			requested								
+Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Horak, G. J. 1970. A comparative study of the foods of the Sora and Virginia Rail. Wilson Bull. 82:207-213."	y	y	Entered								
 Virginia Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Gillette, D. C. 1897. Notes on the Virginia and Sora Rails. Oologist 14:21-23."											
 Virginia Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Kaufmann, G. W. 1989. Breeding ecology of the Sora, Porzana carolina, and the Virginia Rail, Rallus limicola. Can. Field-Nat. 103:270-282."											
-Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. McGraw-Hill, New York."											
-Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Audubon, J. J. 1842. The birds of America. Vol. 5. J. J. Audubon, New York."											
-Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Shaw, S. A. 1887. Nesting of the Virginia Rail in New Hampshire. Ornithol. and Oologist 12:131-132."											
-Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Forbush, E. H. 1925. Birds of Massachusetts and other New England states. Pt. 1. J. S. Cushing Co.-Berwick and Smith Co., Norwood, MA."											
+Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. McGraw-Hill, New York."	n		unavailable								
+Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Audubon, J. J. 1842. The birds of America. Vol. 5. J. J. Audubon, New York."	n		unavailable								
+Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Shaw, S. A. 1887. Nesting of the Virginia Rail in New Hampshire. Ornithol. and Oologist 12:131-132."			requested								
+Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Forbush, E. H. 1925. Birds of Massachusetts and other New England states. Pt. 1. J. S. Cushing Co.-Berwick and Smith Co., Norwood, MA."	n		unavailable								
 Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Cahn, A. R. 1915. Notes on a captive Virginia Rail. Auk 32:91-95."	y	y	Entered								
 Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Richter, C. 1948. Virginia Rail catches frog. Passenger Pigeon 10:32."	n		unavailable								
 Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Brocke, R. H. 1958. A Virginia Rail defies a record winter. Jack-Pine Warbler 36:100."	n		unavailable								
@@ -8402,8 +8402,8 @@ Virginia Rail	Rallidae	1995	"Drinking, Pellet-Casting, And Defecation"		"Nice, M
 Yellow Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Stalheim, P. S. 1974. Behavior and ecology of the Yellow Rail (Coturnicops noveboracensis). Master's Thesis. Univ. of Minnesota, Minneapolis."	n		unavailable								
 Yellow Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Stalheim, P. S. 1975. Breeding and behavior of captive Yellow Rails. Avicult. Mag. 81:133-141."	n		unavailable								
 Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Walkinshaw, L. H. 1939. The Yellow Rail in Michigan. Auk 56:227-237."	y	n									
-Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."											
-Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Easterla, D. A. 1962. Some foods of the Yellow Rail in Missouri. Wilson Bull. 74:94-95."											
+Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."	n		unavailable								
+Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Easterla, D. A. 1962. Some foods of the Yellow Rail in Missouri. Wilson Bull. 74:94-95."	y	n									
 American Avocet	Recurvirostridae	1997	Diet	Major Food Items	"Edwards, D. D. and A. O. Bush. 1989. Helminth communities in avocets: importance of the compound community. J. Parasitol. 75:225-238."											
 American Avocet	Recurvirostridae	1997	Diet	Major Food Items	"Boettcher, R., S. M. Haig, and W. C. Bridges, Jr. 1995. Habitat-related factors affecting the distribution of nonbreeding American Avocets in coastal South Carolina. Condor 97:68-81."											
 American Avocet	Recurvirostridae	1997	Feeding	Microhabitat For Foraging	"Dinsmore, J. J. 1977. Notes on avocets and stilts in Tampa Bay, Florida. Fla. Field Nat. 5:25-30."											
