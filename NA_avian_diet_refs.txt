@@ -8350,7 +8350,7 @@ Purple Gallinule	Rallidae	2002	Feeding	Main Foods Taken	y	y		?
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Krekorian, C. O. 1978. Alloparental care in the Purple Gallinule. Condor 80:382-390."	y	n									
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Oberholser, H. C. 1974. The bird life of Texas. Vol. 1. Univ. of Texas Press, Austin."	n		must be purchased								
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Stiles, F. G. and A. F. Skutch. 1989. A guide to the birds of Costa Rica. Cornell Univ. Press, Ithaca, NY."	n		must be purchased								
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Reagan, W. 1977. Resource partitioning of North American gallinules in southern Texas. Master's Thesis. Utah State Univ. Logan."			inter library request submitted								
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Reagan, W. 1977. Resource partitioning of North American gallinules in southern Texas. Master's Thesis. Utah State Univ. Logan."	y	n	inter library request submitted								
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Mcilhenny, E. A. 1936. Purple Gallinules (Ionornis martinica) are predatory. Auk 53:327-328."	y	n									
 Purple Gallinule	Rallidae	2002	Metabolism And Temperature Regulation		"Gross, A. O. and J. Van Tyne. 1929. The Purple Gallinule (Ionornis martinicus) of Barro Colorado Island, Canal Zone. Auk 46:431-446."	y	n									
 Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Crosby, G. T. 1969. Gallinules feeding on water hyacinth blossoms. Fla. Nat. 42:171."	n										
@@ -8360,13 +8360,13 @@ Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Audubon, J. J. 1838. Ornit
 Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Howell, A. H. 1932. Florida bird life. Coward-McCann, New York."	y	n									
 Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Mckay, W. D. 1981. Notes on Purple Gallinules in Colombian rice fields. Wilson Bull. 93:267-271."	y	y									
 Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Esler, D. 1990. Avian community responses to hydrilla invasion. Wilson Bull. 102:427-440."	y	n									
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Hunter, L. A. 1986. Cooperative breeding behavior of Purple Gallinules. Doctoral diss. Univ. of Montana, Missoula, MT."	y	y	too vague?								
-Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Olson, S. L. 1963. The Purple Gallinule feeding on the yellow lotus. Fla. Nat. 36:63."											
-Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Gosse, P. H. 1847. The birds of Jamaica. John Van Voorst, Paternastor Row, London."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Odom, R. R. 1977. Sora. Pages 57-65 in Management of migratory shore and upland game birds in North America. (Sanderson, G. C., Ed.) Inter. Assoc. Fish Wildl. Agencies, Washington, D.C."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Walkinshaw, L. H. 1940. Summer life of the Sora Rail. Auk 57:153-168."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Fannucchi, W. A., G. T. Fannucchi, and L. E. Nauman. 1986. Effects of harvesting wild rice, Zizania aquatica, on Soras, Porzana carolina. Can. Field-Nat. 100:533-536."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Meanley, B. 1960. Fall food of the Sora Rail in the Arkansas rice fields. J. Wildl. Manage. 24:339."											
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Hunter, L. A. 1986. Cooperative breeding behavior of Purple Gallinules. Doctoral diss. Univ. of Montana, Missoula, MT."	y	n	too vague								
+Purple Gallinule	Rallidae	2002	Feeding	Food Capture And Consumption	"Olson, S. L. 1963. The Purple Gallinule feeding on the yellow lotus. Fla. Nat. 36:63."	n										
+Purple Gallinule	Rallidae	2002	Diet	Major Food Items	"Gosse, P. H. 1847. The birds of Jamaica. John Van Voorst, Paternastor Row, London."	y	n									
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Odom, R. R. 1977. Sora. Pages 57-65 in Management of migratory shore and upland game birds in North America. (Sanderson, G. C., Ed.) Inter. Assoc. Fish Wildl. Agencies, Washington, D.C."	y	n									
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Walkinshaw, L. H. 1940. Summer life of the Sora Rail. Auk 57:153-168."	y	n									
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Fannucchi, W. A., G. T. Fannucchi, and L. E. Nauman. 1986. Effects of harvesting wild rice, Zizania aquatica, on Soras, Porzana carolina. Can. Field-Nat. 100:533-536."	y	n									
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Meanley, B. 1960. Fall food of the Sora Rail in the Arkansas rice fields. J. Wildl. Manage. 24:339."	y	y									
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Gochfeld, M. 1972. Observations on the status, ecology, and behavior of Soras wintering in Trinidad, West Indies. Wilson Bull. 84:200-201."											
 Sora	Rallidae	1996	Feeding	Food Capture And Consumption	"Kaufmann, G. W. 1989. Breeding ecology of the Sora Porzana carolina, and the Virginia Rail Rallus limicola. Can. Field-Nat. 3:270-282."											
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Melvin, S. M. and J. P. Gibbs. 1994. Sora. Pages 209-217 in Migratory shore and upland game bird management in North America. (Tacha, T. C. and C. E. Braun, Eds.) Inter. Assoc. Fish Wildl. Agencies, Washington, D.C."											
