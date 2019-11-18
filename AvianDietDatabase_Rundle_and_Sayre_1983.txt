@@ -1,0 +1,23 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Sora	Porzana carolina		Rallidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	Missouri	Mingo Swamp; Mingo National Wildlife Refuge; Duck Creek National Wildlife Refuge	wetland	4	1979	4	1981	spring		Animalia					Physidae	NA	NA	Yes			NA	NA		0.24	Occurrence		51	10	Crop contents	Data collected during April of those years only	MMS	
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			adult	NA		0.24	Occurrence							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			larva	NA		0.04	Occurrence							
+																			Plantae						Echinochloa	Echinochloa crus-galli	Yes			NA	seed		0.08	Occurrence							
+																			Plantae						Eleocharis	Eleocharis macrostachya	Yes			NA	seed		0.16	Occurrence							
+																			Plantae						Carex	Carex tribuloides	Yes			NA	seed		0.56	Occurrence							
+																			Plantae						Carex	Carex vulpinoidea	Yes			NA	seed		0.24	Occurrence							
+																			Plantae						Schoenoplectus	Schoenoplectus tabernaemontani	Yes			NA	seed		0.16	Occurrence							
+																			Plantae						Ludwigia	Ludwigia repens	Yes			NA	seed		0.2	Occurrence							
+																			Plantae						Bidens	NA	Yes			NA	seed		0.08	Occurrence							
+																			Plantae	Tracheophyta	NA	NA	NA	NA	NA	NA	No			NA	vegetation		0.52	Occurrence							
+																			Non-biological	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Grit	0.28	Occurrence							
+																			Plantae															Occurrence							
+																			Plantae															Occurrence							
+																			Plantae															Occurrence							
+																			Plantae															Occurrence							
+																			Plantae															Occurrence							
+																			Plantae															Occurrence							
+																			Plantae															Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
