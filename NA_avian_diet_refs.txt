@@ -7307,7 +7307,7 @@ White-tailed Ptarmigan	Phasianidae	1993	Metabolism And Temperature Regulation		"
 Wild Turkey	Phasianidae	1992	Feeding	Main Foods Taken	"Korschgen, L. J. 1967. Feeding habits and food. Pages 137-198 in The Wild Turkey and its management. (Hewitt, O., Ed.) The Wildlife Soc. Washington, DC."	n		unavailable								
 Wild Turkey	Phasianidae	1992	Feeding	Food Capture And Consumption	"Eaton, S. W., T. L. Moore, and E. N. Saylor. 1970. A ten-year study of the food habits of a northern population of Wild Turkeys. Sci. Stud. St. Bonaventure Univ. 26:43-64."	y	y	entered								
 Wild Turkey	Phasianidae	1992	Feeding	Food Capture And Consumption	"Healy, W. M., R. O. Kimmel, and E. J. Goetz. 1975. Behavior of human-imprinted and hen-reared Wild Turkey poults. Proc. Natl. Wild Turkey Symp. 3:97-107."	n		unavailable								
-Wild Turkey	Phasianidae	1992	Diet	Major Food Items	"Blackburn, W. E., J. P. Kirk, and J. E. Kennamer. 1975. Availability and utilization of summer foods by eastern Wild Turkey broods in Lee County Alabama. Proc. Natl. Wild Turkey Symp. 3:86-96."	y	y	in progress								
+Wild Turkey	Phasianidae	1992	Diet	Major Food Items	"Blackburn, W. E., J. P. Kirk, and J. E. Kennamer. 1975. Availability and utilization of summer foods by eastern Wild Turkey broods in Lee County Alabama. Proc. Natl. Wild Turkey Symp. 3:86-96."	y	y	entered								
 Wild Turkey	Phasianidae	1992	Diet	Major Food Items	"Dickson, J. D. 1990. Oak and flowering dogwood fruit production for Eastern Wild Turkeys. Proc. Natl. Wild Turkey Symp. 6:90-95."	n		unavailable								
 Wild Turkey	Phasianidae	1992	Diet	Major Food Items	"Schemnitz, S. D. 1956. Wild Turkey food habits in Florida. J. Wildl. Manage. 20:132-137."	y		entered								
 Wild Turkey	Phasianidae	1992	Diet	Major Food Items	"Hewitt, O. H. 1967. The Wild Turkey and its management. The Wildlife Society, Washington, DC."	n		unavailable								
@@ -8367,31 +8367,31 @@ Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Odom, R. R. 1977. Sora. Pa
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Walkinshaw, L. H. 1940. Summer life of the Sora Rail. Auk 57:153-168."	y	n									
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Fannucchi, W. A., G. T. Fannucchi, and L. E. Nauman. 1986. Effects of harvesting wild rice, Zizania aquatica, on Soras, Porzana carolina. Can. Field-Nat. 100:533-536."	y	n									
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Meanley, B. 1960. Fall food of the Sora Rail in the Arkansas rice fields. J. Wildl. Manage. 24:339."	y	y									
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Gochfeld, M. 1972. Observations on the status, ecology, and behavior of Soras wintering in Trinidad, West Indies. Wilson Bull. 84:200-201."											
-Sora	Rallidae	1996	Feeding	Food Capture And Consumption	"Kaufmann, G. W. 1989. Breeding ecology of the Sora Porzana carolina, and the Virginia Rail Rallus limicola. Can. Field-Nat. 3:270-282."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Melvin, S. M. and J. P. Gibbs. 1994. Sora. Pages 209-217 in Migratory shore and upland game bird management in North America. (Tacha, T. C. and C. E. Braun, Eds.) Inter. Assoc. Fish Wildl. Agencies, Washington, D.C."											
-Sora	Rallidae	1996	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. McGraw-Hill Book Co., Inc, New York."											
-Sora	Rallidae	1996	Diet	Major Food Items	"Webster, C. G. 1964. Fall foods of Soras from two habitats in Connecticut. J. Wildl. Manage. 28:163-165."											
-Sora	Rallidae	1996	Metabolism And Temperature Regulation		"Bent, A. C. 1926. Life histories of North American marsh birds. U.S. Natl. Mus. Bull. 135."											
-Sora	Rallidae	1996	Feeding	Food Capture And Consumption	"Pospichal, L. B. and W. Marshall. 1954. A field study of Sora Rail and Virginia Rail in central Minnesota. Flicker 26:2-32."											
-Sora	Rallidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Kaufmann, G. W. 1977. Breeding requirements of the Virginia Rail and the Sora in captivity. Avic. Mag. 83:135-141."											
-Sora	Rallidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Kaufmann, G. W. 1987. Growth and development of Sora and Virginia Rail chicks. Wilson Bull. 99:432-440."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Sayre, M. W. and W. D. Rundle. 1984. Comparisons of habitat use by migrant Soras and Virginia Rails. J. Wildl. Manage. 48:599-605."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Johnson, R. R. and J. J. Dinsmore. 1986. Habitat use by breeding Virginia Rails and Soras. J. Wildl. Manage. 50:387-392."											
-Sora	Rallidae	1996	Metabolism And Temperature Regulation		"Root, T. 1988. Atlas of wintering North American birds: an analysis of Christmas count data. Univ. of Chicago Press, Chicago."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Meanley, B. 1965. Early-fall food and habitat of the Sora in Patuxent River marshes, Maryland. Chesapeake Sci. 6:235-237."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Manci, K. M. and D. H. Rusch. 1988. Indices to distribution and abundance of some inconspicuous waterbirds on Horicon Marsh. J. Field Ornithol. 59:67-75."											
-Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Rundle, W. D. and M. W. Sayre. 1983. Feeding ecology of migrant Soras in southeastern Missouri. J. Wildl. Manage. 47:1153-1159."											
-Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Walkinshaw, L. H. 1937. The Virginia Rail in Michigan. Auk 54:464-475."											
-Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Pospichal, L. B. and W. H. Marshall. 1954. A field study of Sora Rail and Virginia Rail in central Minnesota. Flicker 26:2-32."											
-Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Horak, G. J. 1970. A comparative study of the foods of the Sora and Virginia Rail. Wilson Bull. 82:207-213."											
-Virginia Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Gillette, D. C. 1897. Notes on the Virginia and Sora Rails. Oologist 14:21-23."											
-Virginia Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Kaufmann, G. W. 1989. Breeding ecology of the Sora, Porzana carolina, and the Virginia Rail, Rallus limicola. Can. Field-Nat. 103:270-282."											
-Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. McGraw-Hill, New York."											
-Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Audubon, J. J. 1842. The birds of America. Vol. 5. J. J. Audubon, New York."											
-Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Shaw, S. A. 1887. Nesting of the Virginia Rail in New Hampshire. Ornithol. and Oologist 12:131-132."											
-Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Forbush, E. H. 1925. Birds of Massachusetts and other New England states. Pt. 1. J. S. Cushing Co.-Berwick and Smith Co., Norwood, MA."											
-Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Cahn, A. R. 1915. Notes on a captive Virginia Rail. Auk 32:91-95."	y	y	Entered								
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Gochfeld, M. 1972. Observations on the status, ecology, and behavior of Soras wintering in Trinidad, West Indies. Wilson Bull. 84:200-201."	n		unavailable								
+Sora	Rallidae	1996	Feeding	Food Capture And Consumption	"Kaufmann, G. W. 1989. Breeding ecology of the Sora Porzana carolina, and the Virginia Rail Rallus limicola. Can. Field-Nat. 3:270-282."			requested								
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Melvin, S. M. and J. P. Gibbs. 1994. Sora. Pages 209-217 in Migratory shore and upland game bird management in North America. (Tacha, T. C. and C. E. Braun, Eds.) Inter. Assoc. Fish Wildl. Agencies, Washington, D.C."	n		unavailable								
+Sora	Rallidae	1996	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. McGraw-Hill Book Co., Inc, New York."	y	n									
+Sora	Rallidae	1996	Diet	Major Food Items	"Webster, C. G. 1964. Fall foods of Soras from two habitats in Connecticut. J. Wildl. Manage. 28:163-165."	y	y	entered								
+Sora	Rallidae	1996	Metabolism And Temperature Regulation		"Bent, A. C. 1926. Life histories of North American marsh birds. U.S. Natl. Mus. Bull. 135."	y	n									
+Sora	Rallidae	1996	Feeding	Food Capture And Consumption	"Pospichal, L. B. and W. Marshall. 1954. A field study of Sora Rail and Virginia Rail in central Minnesota. Flicker 26:2-32."			requested								
+Sora	Rallidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Kaufmann, G. W. 1977. Breeding requirements of the Virginia Rail and the Sora in captivity. Avic. Mag. 83:135-141."			requested								
+Sora	Rallidae	1996	"Drinking, Pellet-Casting, And Defecation"		"Kaufmann, G. W. 1987. Growth and development of Sora and Virginia Rail chicks. Wilson Bull. 99:432-440."	y	n									
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Sayre, M. W. and W. D. Rundle. 1984. Comparisons of habitat use by migrant Soras and Virginia Rails. J. Wildl. Manage. 48:599-605."	y	n									
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Johnson, R. R. and J. J. Dinsmore. 1986. Habitat use by breeding Virginia Rails and Soras. J. Wildl. Manage. 50:387-392."	y	n									
+Sora	Rallidae	1996	Metabolism And Temperature Regulation		"Root, T. 1988. Atlas of wintering North American birds: an analysis of Christmas count data. Univ. of Chicago Press, Chicago."	n		unavailable								
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Meanley, B. 1965. Early-fall food and habitat of the Sora in Patuxent River marshes, Maryland. Chesapeake Sci. 6:235-237."			requested								
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Manci, K. M. and D. H. Rusch. 1988. Indices to distribution and abundance of some inconspicuous waterbirds on Horicon Marsh. J. Field Ornithol. 59:67-75."	y	n									
+Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Rundle, W. D. and M. W. Sayre. 1983. Feeding ecology of migrant Soras in southeastern Missouri. J. Wildl. Manage. 47:1153-1159."	y		entered								
+Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Walkinshaw, L. H. 1937. The Virginia Rail in Michigan. Auk 54:464-475."	y	n									
+Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Pospichal, L. B. and W. H. Marshall. 1954. A field study of Sora Rail and Virginia Rail in central Minnesota. Flicker 26:2-32."			requested								
+Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Horak, G. J. 1970. A comparative study of the foods of the Sora and Virginia Rail. Wilson Bull. 82:207-213."	y	y	entered								
+Virginia Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Gillette, D. C. 1897. Notes on the Virginia and Sora Rails. Oologist 14:21-23."	n		unavailable								
+Virginia Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Kaufmann, G. W. 1989. Breeding ecology of the Sora, Porzana carolina, and the Virginia Rail, Rallus limicola. Can. Field-Nat. 103:270-282."			requested								
+Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. McGraw-Hill, New York."	n		unavailable								
+Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Audubon, J. J. 1842. The birds of America. Vol. 5. J. J. Audubon, New York."	n		unavailable								
+Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Shaw, S. A. 1887. Nesting of the Virginia Rail in New Hampshire. Ornithol. and Oologist 12:131-132."			requested								
+Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Forbush, E. H. 1925. Birds of Massachusetts and other New England states. Pt. 1. J. S. Cushing Co.-Berwick and Smith Co., Norwood, MA."	n		unavailable								
+Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Cahn, A. R. 1915. Notes on a captive Virginia Rail. Auk 32:91-95."	y	y	entered								
 Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Richter, C. 1948. Virginia Rail catches frog. Passenger Pigeon 10:32."	n		unavailable								
 Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Brocke, R. H. 1958. A Virginia Rail defies a record winter. Jack-Pine Warbler 36:100."	n		unavailable								
 Virginia Rail	Rallidae	1995	Diet	Major Food Items	"Fassett, N. C. 1940. A manual of aquatic plants. McGraw-Hill, New York."	n		unavailable								
@@ -8402,8 +8402,8 @@ Virginia Rail	Rallidae	1995	"Drinking, Pellet-Casting, And Defecation"		"Nice, M
 Yellow Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Stalheim, P. S. 1974. Behavior and ecology of the Yellow Rail (Coturnicops noveboracensis). Master's Thesis. Univ. of Minnesota, Minneapolis."	n		unavailable								
 Yellow Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Stalheim, P. S. 1975. Breeding and behavior of captive Yellow Rails. Avicult. Mag. 81:133-141."	n		unavailable								
 Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Walkinshaw, L. H. 1939. The Yellow Rail in Michigan. Auk 56:227-237."	y	n									
-Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."											
-Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Easterla, D. A. 1962. Some foods of the Yellow Rail in Missouri. Wilson Bull. 74:94-95."											
+Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."	n		unavailable								
+Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Easterla, D. A. 1962. Some foods of the Yellow Rail in Missouri. Wilson Bull. 74:94-95."	y	n									
 American Avocet	Recurvirostridae	1997	Diet	Major Food Items	"Edwards, D. D. and A. O. Bush. 1989. Helminth communities in avocets: importance of the compound community. J. Parasitol. 75:225-238."											
 American Avocet	Recurvirostridae	1997	Diet	Major Food Items	"Boettcher, R., S. M. Haig, and W. C. Bridges, Jr. 1995. Habitat-related factors affecting the distribution of nonbreeding American Avocets in coastal South Carolina. Condor 97:68-81."											
 American Avocet	Recurvirostridae	1997	Feeding	Microhabitat For Foraging	"Dinsmore, J. J. 1977. Notes on avocets and stilts in Tampa Bay, Florida. Fla. Field Nat. 5:25-30."											
