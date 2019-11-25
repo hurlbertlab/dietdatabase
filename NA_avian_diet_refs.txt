@@ -8385,7 +8385,7 @@ Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Meanley, B. 1965. Early-fa
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Manci, K. M. and D. H. Rusch. 1988. Indices to distribution and abundance of some inconspicuous waterbirds on Horicon Marsh. J. Field Ornithol. 59:67-75."	y	n									
 Sora	Rallidae	1996	Feeding	Microhabitat For Foraging	"Rundle, W. D. and M. W. Sayre. 1983. Feeding ecology of migrant Soras in southeastern Missouri. J. Wildl. Manage. 47:1153-1159."	y		entered								
 Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Walkinshaw, L. H. 1937. The Virginia Rail in Michigan. Auk 54:464-475."	y	n									
-Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Pospichal, L. B. and W. H. Marshall. 1954. A field study of Sora Rail and Virginia Rail in central Minnesota. Flicker 26:2-32."			requested								
+Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Pospichal, L. B. and W. H. Marshall. 1954. A field study of Sora Rail and Virginia Rail in central Minnesota. Flicker 26:2-32."	y	y	entered								
 Virginia Rail	Rallidae	1995	Feeding	Microhabitat For Foraging	"Horak, G. J. 1970. A comparative study of the foods of the Sora and Virginia Rail. Wilson Bull. 82:207-213."	y	y	entered								
 Virginia Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Gillette, D. C. 1897. Notes on the Virginia and Sora Rails. Oologist 14:21-23."	n		unavailable								
 Virginia Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Kaufmann, G. W. 1989. Breeding ecology of the Sora, Porzana carolina, and the Virginia Rail, Rallus limicola. Can. Field-Nat. 103:270-282."	y	n									
