@@ -7348,6 +7348,7 @@ Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Stokka
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Aulie, A. 1976. The pectoral muscles and the development of thermoregulation in chicks of Willow Ptarmigan. Comp. Biochem. Physiol. 53A:343-346."	y	n									
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"West, G. C. and M. S. Meng. 1968. Seasonal changes in body weight and fat and the relation of fatty acid composition to diet in the Willow Ptarmigan. Wilson Bull. 80:426-441."	y	n									
 Willow Ptarmigan	Phasianidae	1998	Metabolism And Temperature Regulation		"Thomas, V. G. 1982. Energetic reserves of Hudson Bay Willow Ptarmigan during winter and spring. Can. J. Zool. 60:1618-1623."	y	n									
+Willow Ptarmigan	Phasianidae	1998	Diet		"Elson, L. T., F. E. Schwab and N. P. P. Simon. 2007. Winter food habits of Lagopus lagopus (Willow Ptarmigan) as a mechanism to explain winter sexual segregation. Northeast. Nat. 14:89-98."	y	y	entered								
 Acorn Woodpecker	Picidae	1995	Metabolism And Temperature Regulation		"Plessis, M. Du, W. W. Weathers, and W. D. Koenig. 1994. Energetic benefits of communal roosting by acorn woodpeckers in the non-breeding season. Condor 96:631-637."	y	n									
 Acorn Woodpecker	Picidae	1995	Feeding	Food Capture And Consumption	"Stanback, M. T. 1989. Observations on food habits and social organization of Acorn Woodpeckers in Costa Rica. Condor 91:1005-1007."	y	n									
 Acorn Woodpecker	Picidae	1995	Food Storage		"Stacey, P. B. 1981. Foraging behavior of the Acorn Woodpecker in Belize, Central America. Condor 83:336-339."	y	n									
@@ -8405,6 +8406,7 @@ Yellow Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Stalheim, P. S. 
 Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Walkinshaw, L. H. 1939. The Yellow Rail in Michigan. Auk 56:227-237."	y	n									
 Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."	n		unavailable								
 Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Easterla, D. A. 1962. Some foods of the Yellow Rail in Missouri. Wilson Bull. 74:94-95."	y	n									
+Yellow Rail	Rallidae	1995	Diet		"Robert, M., L. Cloutier and P. Laporte. 1997. The summer diet of the Yellow Rail in Southern Quebec. Wilson Bull. 109:702-710."	y	y	in progress								
 American Avocet	Recurvirostridae	1997	Diet	Major Food Items	"Edwards, D. D. and A. O. Bush. 1989. Helminth communities in avocets: importance of the compound community. J. Parasitol. 75:225-238."											
 American Avocet	Recurvirostridae	1997	Diet	Major Food Items	"Boettcher, R., S. M. Haig, and W. C. Bridges, Jr. 1995. Habitat-related factors affecting the distribution of nonbreeding American Avocets in coastal South Carolina. Condor 97:68-81."											
 American Avocet	Recurvirostridae	1997	Feeding	Microhabitat For Foraging	"Dinsmore, J. J. 1977. Notes on avocets and stilts in Tampa Bay, Florida. Fla. Field Nat. 5:25-30."											
