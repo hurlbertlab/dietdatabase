@@ -17,4 +17,4 @@ Short-eared Owl	Asio flammeus	flammeus	Strigidae							Hungary				1983		1983			A
 Short-eared Owl	Asio flammeus	flammeus	Strigidae							Finland				1977		1977			Animalia	Chordata	Mammalia	Rodentia	Myomorpha	Cricetidae	Microtus		yes					voles	0.98				1	Pellet contents		GG	Schneider and Pence. 1992. Migratory nongame birds of management concern in the Northeast.
 Sedge Wren	Cistothorus stellaris		Troglodytidae							United States	Florida			1932		1932			Animalia	Arthropoda												spiders and insects	1			34	1	Stomach contents		GG	Schneider and Pence. 1992. Migratory nongame birds of management concern in the Northeast.
 Sedge Wren	Cistothorus stellaris		Troglodytidae							United States	Pennsylvania			1890		1890			Animalia	Arthropoda												spiders and beetles	1			7	1	Stomach contents		GG	"Warren, B. H. 1890. Report of the Birds of Pennsylvania, 2nd ed. Authority of the Commonwealth. "
-american bittern																																									
+American bittern																																									
