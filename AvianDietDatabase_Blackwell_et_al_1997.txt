@@ -1,0 +1,68 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Double-crested Cormorant	Phalacrocorax auritis		Phalacrocoracidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	Maine	Penobscot River	wetland	4	1986	4	1988	spring		Animalia							Micropterus dolomieu	Yes			NA	NA	Smallmouth bass	0.5	Occurrence		6		Stomach contents	Birds collected at dams; data collected Apr only	MMS	
+																			Animalia							Lepomis gibbosus	Yes			NA	NA	Pumpkinseed	0.167	Occurrence					Birds collected at dams; data collected Apr only		
+																			Animalia					Catostomidae	NA	NA	Yes			NA	NA	Sucker	0.333	Occurrence					Birds collected at dams; data collected Apr only		
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified remains	0.167	Occurrence					Birds collected at dams; data collected Apr only		
+																			Animalia							Micropterus dolomieu	Yes			NA	NA	Smallmouth bass	0.222	Occurrence		9			Birds collected away from dams; data collected Apr only		
+																			Animalia							Lepomis gibbosus	Yes			NA	NA	Pumpkinseed	0.222	Occurrence					Birds collected away from dams; data collected Apr only		
+																			Animalia					Catostomidae	NA	NA	Yes			NA	NA	Sucker	0.333	Occurrence					Birds collected away from dams; data collected Apr only		
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified remains	0.111	Occurrence					Birds collected away from dams; data collected Apr only		
+																			Animalia					Cyprinidae	NA	NA	Yes			NA	NA	Minnow	0.222	Occurrence					Birds collected away from dams; data collected Apr only		
+													5	1986	5	1988			Animalia							Micropterus dolomieu	Yes			NA	NA	Smallmouth bass	0.088	Occurrence		34			Birds collected at dams; data collected early May only		
+																			Animalia			Decapoda	NA	NA	NA	NA	No			NA	NA	Crayfish	0.029	Occurrence					Birds collected at dams; data collected early May only		
+																			Animalia							Anguilla rostrata	Yes			NA	NA	American eel	0.059	Occurrence					Birds collected at dams; data collected early May only		
+																			Animalia					Catostomidae	NA	NA	Yes			NA	NA	Sucker	0.029	Occurrence					Birds collected at dams; data collected early May only		
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified remains	0.294	Occurrence					Birds collected at dams; data collected early May only		
+																			Animalia					Cyprinidae	NA	NA	Yes			NA	NA	Minnow	0.029	Occurrence					Birds collected at dams; data collected early May only		
+																			Animalia							Salmo salar	Yes			NA	NA	Atlantic salmon	0.441	Occurrence					Birds collected at dams; data collected early May only		
+																			Animalia							Perca flavescens	Yes			NA	NA	Yellow perch	0.147	Occurrence					Birds collected at dams; data collected early May only		
+																			Animalia	Chordata	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified fish	0.029	Occurrence					Birds collected at dams; data collected early May only		
+																			Animalia							Micropterus dolomieu	Yes			NA	NA	Smallmouth bass	0.083	Occurrence		24			Birds collected away from dams; data collected early May only		
+																			Animalia							Anguilla rostrata	Yes			NA	NA	American eel	0.042	Occurrence					Birds collected away from dams; data collected early May only		
+																			Animalia					Catostomidae	NA	NA	Yes			NA	NA	Sucker	0.083	Occurrence					Birds collected away from dams; data collected early May only		
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified remains	0.125	Occurrence					Birds collected away from dams; data collected early May only		
+																			Animalia					Cyprinidae	NA	NA	Yes			NA	NA	Minnow	0.25	Occurrence					Birds collected away from dams; data collected early May only		
+																			Animalia							Salmo salar	Yes			NA	NA	Atlantic salmon	0.5	Occurrence					Birds collected away from dams; data collected early May only		
+																			Animalia							Perca flavescens	Yes			NA	NA	Yellow perch	0.125	Occurrence					Birds collected away from dams; data collected early May only		
+																			Animalia							Esox niger	Yes			NA	NA	Chain pickerel	0.042	Occurrence					Birds collected away from dams; data collected early May only		
+																			Animalia							Micropterus dolomieu	Yes			NA	NA	Smallmouth bass	0.072	Occurrence		69			Birds collected at dams; data collected late May only		
+																			Animalia							Lepomis gibbosus	Yes			NA	NA	Pumpkinseed	0.014	Occurrence					Birds collected at dams; data collected late May only		
+																			Animalia							Anguilla rostrata	Yes			NA	NA	American eel	0.159	Occurrence					Birds collected at dams; data collected late May only		
+																			Animalia							Alosa pseudoharengus	Yes			NA	NA	Alewife	0.072	Occurrence					Birds collected at dams; data collected late May only		
+																			Animalia					Catostomidae	NA	NA	Yes			NA	NA	Sucker	0.043	Occurrence					Birds collected at dams; data collected late May only		
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified remains	0.304	Occurrence					Birds collected at dams; data collected late May only		
+																			Animalia					Cyprinidae	NA	NA	Yes			NA	NA	Minnow	0.014	Occurrence					Birds collected at dams; data collected late May only		
+																			Animalia							Salmo salar	Yes			NA	NA	Atlantic salmon	0.507	Occurrence					Birds collected at dams; data collected late May only		
+																			Animalia							Perca flavescens	Yes			NA	NA	Yellow perch	0.014	Occurrence					Birds collected at dams; data collected late May only		
+													4	1986	4	1988			Animalia							Osmerus mordax	Yes			NA	NA	Rainbow smelt	0.517	Occurrence		66			Birds collected below the head of tide; data collected late Apr only		
+																			Animalia							Alosa pseudoharengus	Yes			NA	NA	Alewife	0.345	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+																			Animalia			Decapoda	NA	NA	NA	NA	No			NA	NA	Shrimp	0.172	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified remains	0.103	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+																			Animalia			Pleuronectiformes	NA	NA	NA	NA	No			NA	NA	Flounder	0.069	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+																			Animalia							Syngathus fuscus	Yes			NA	NA	Northern pipefish	0.034	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+																			Animalia					Cottidae	NA	NA	Yes			NA	NA	Sculpin	0.034	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+																			Animalia							Anguilla rostrata	Yes			NA	NA	American eel	0.03	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+																			Animalia					Cyprinidae	NA	NA	Yes			NA	NA	Minnow	0.015	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+																			Animalia							Lumpenus lampretaeformis	Yes			NA	NA	Snakeblenny	0.015	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+																			Animalia							Microgadus tomcod	Yes			NA	NA	Atlantic tomcod	0.015	Occurrence					Birds collected below the head of tide; data collected late Apr only		
+													5	1986	5	1988			Animalia							Osmerus mordax	Yes			NA	NA	Rainbow smelt	0.145	Occurrence		154			Birds collected below the head of tide; data collected early May only		
+																			Animalia							Alosa pseudoharengus	Yes			NA	NA	Alewife	0.078	Occurrence							
+																			Animalia			Decapoda	NA	NA	NA	NA	No			NA	NA	Shrimp	0.156	Occurrence							
+																			Animalia	NA	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified remains	0.299	Occurrence							
+																			Animalia			Pleuronectiformes	NA	NA	NA	NA	Yes			NA	NA	Flounder	0.006	Occurrence							
+																			Animalia							Syngathus fuscus	Yes			NA	NA	Northern pipefish	0.013	Occurrence							
+																			Animalia							Anguilla rostrata	Yes			NA	NA	American eel	0.078	Occurrence							
+																			Animalia					Cyprinidae	NA	NA	Yes			NA	NA	Minnow	0.026	Occurrence							
+																			Animalia							Salmo salar	Yes			NA	NA	Atlantic salmon	0.455	Occurrence							
+																			Animalia					Clupeidae	NA	NA	No			NA	NA	Herring	0.006	Occurrence							
+																			Animalia							Morone americana	Yes			NA	NA	White perch	0.006	Occurrence							
+																			Animalia					Catostidae	NA	NA	Yes			NA	NA	Sucker	0.006	Occurrence							
+																			Animalia	Chordata	NA	NA	NA	NA	NA	NA	No			NA	NA	Unidentified fish	0.013	Occurrence							
+																			Animalia							Micropterus dolomieu	Yes			NA	NA	Smallmouth bass	0.006	Occurrence							
+																			Animalia							Lepomis gibbosus	Yes			NA	NA	Pumpkinseed	0.013	Occurrence							
+																			Animalia					Zoarcidae	NA	NA	No			NA	NA	Pout	0.006	Occurrence							
+																			Animalia					Gasterosteidae	NA	NA	Yes			NA	NA	Stickleback	0.006	Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
