@@ -10306,11 +10306,11 @@ Brown Booby	Sulidae	2002	Nutrition And Energetics		"Hamer, K., J. K. Hill, J. S.
 Brown Booby	Sulidae	2002	Feeding	Microhabitat For Foraging	"Nelson, J. B. 1978. The Sulidae, gannets and boobies. Oxford Univ. Press, Oxford, U.K."	n		unavailable								
 Brown Booby	Sulidae	2002	Feeding	Food Capture And Consumption	"Gibson-Hill, C. A. 1947. Notes on the birds of Christmas Island. Bull. Raffles Mus. 18:87-165."	n		unavailable								
 Brown Booby	Sulidae	2002	Diet		"Chapman, F. M. 1908. A contribution to the life histories of the Booby S. leucogaster and Frigate F. aquila. Tortugas Lab of Carnegie Inst. Wash. 2:139-151."	n		unavailable								
-Brown Booby	Sulidae	2002	Diet		"Harrison, C. S., T. S. Hida, and M. P. Seki. 1984. The diet of the Brown Booby Sula leucogaster and Masked Booby Sula dactylatra on Rose Atoll, Samoa. Ibis 126:588-590."	y	y									
-Brown Booby	Sulidae	2002	Feeding	Main Food Taken	"Palmer, R. S. 1962. Handbook of North American birds, Vol. 1: loons through flamingos. Yale Univ. Press, New Haven, CT."											
-Brown Booby	Sulidae	2002	Feeding	Food Capture And Consumption	"Simmons, K. E. L. 1967. Ecological adaptations in the life history of the Brown Booby on Ascension Island. Living Bird 6:187-212."											
-Brown Booby	Sulidae	2002	Diet		"Tershy, B. R. 1998. Sexual dimorphism in the Brown Booby. Phd Thesis. Cornell Univ. Ithaca, NY."											
-Brown Booby	Sulidae	2002	Feeding	Main Food Taken	"Dorward, D. F. 1962. Comparative biology of the white and the Brown Booby Sula spp. at Ascension. Ibis 103b:174-219."											
+Brown Booby	Sulidae	2002	Diet		"Harrison, C. S., T. S. Hida, and M. P. Seki. 1984. The diet of the Brown Booby Sula leucogaster and Masked Booby Sula dactylatra on Rose Atoll, Samoa. Ibis 126:588-590."	y	y	entered								
+Brown Booby	Sulidae	2002	Feeding	Main Food Taken	"Palmer, R. S. 1962. Handbook of North American birds, Vol. 1: loons through flamingos. Yale Univ. Press, New Haven, CT."	n	n	unavailable								
+Brown Booby	Sulidae	2002	Feeding	Food Capture And Consumption	"Simmons, K. E. L. 1967. Ecological adaptations in the life history of the Brown Booby on Ascension Island. Living Bird 6:187-212."	n	n	unavailable								
+Brown Booby	Sulidae	2002	Diet		"Tershy, B. R. 1998. Sexual dimorphism in the Brown Booby. Phd Thesis. Cornell Univ. Ithaca, NY."	y	y	entered								
+Brown Booby	Sulidae	2002	Feeding	Main Food Taken	"Dorward, D. F. 1962. Comparative biology of the white and the Brown Booby Sula spp. at Ascension. Ibis 103b:174-219."	y	y	entered								
 Brown Booby	Sulidae	2002	Nutrition And Energetics		"Lack, D. 1954. The natural regulation of animal numbers. Clarendon Press, London, U.K."											
 Brown Booby	Sulidae	2002	Diet		"Serventy, D. L. 1952. The bird islands of the Sahul Shelf. Emu 52:33-59."											
 Brown Booby	Sulidae	2002	Nutrition And Energetics		"Taylor, J. R. E. and M. Konarzewski. 1989. On the importance of fat reserves for the Little Auk (Alle alle) chicks. Oecologia 81:551-558."											
