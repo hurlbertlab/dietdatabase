@@ -10311,12 +10311,12 @@ Brown Booby	Sulidae	2002	Feeding	Main Food Taken	"Palmer, R. S. 1962. Handbook o
 Brown Booby	Sulidae	2002	Feeding	Food Capture And Consumption	"Simmons, K. E. L. 1967. Ecological adaptations in the life history of the Brown Booby on Ascension Island. Living Bird 6:187-212."	n	n	unavailable								
 Brown Booby	Sulidae	2002	Diet		"Tershy, B. R. 1998. Sexual dimorphism in the Brown Booby. Phd Thesis. Cornell Univ. Ithaca, NY."	y	y	entered								
 Brown Booby	Sulidae	2002	Feeding	Main Food Taken	"Dorward, D. F. 1962. Comparative biology of the white and the Brown Booby Sula spp. at Ascension. Ibis 103b:174-219."	y	y	entered								
-Brown Booby	Sulidae	2002	Nutrition And Energetics		"Lack, D. 1954. The natural regulation of animal numbers. Clarendon Press, London, U.K."											
-Brown Booby	Sulidae	2002	Diet		"Serventy, D. L. 1952. The bird islands of the Sahul Shelf. Emu 52:33-59."											
-Brown Booby	Sulidae	2002	Nutrition And Energetics		"Taylor, J. R. E. and M. Konarzewski. 1989. On the importance of fat reserves for the Little Auk (Alle alle) chicks. Oecologia 81:551-558."											
-Northern Gannet	Sulidae	2002	Feeding	Microhabitat For Foraging	"Salomonsen, F. 1967. Fuglene p???? Gr????nland. Rhodos, Copenhagen, Denmark."											
-Northern Gannet	Sulidae	2002	Feeding	Food Capture And Consumption	"Garthe, S., S. Benvenuti, and W. A. Montevecchi. 2000. Pursuit plunging by Northern Gannets (Sula bassana) feeding on capelin (Mallotus villosus). Proc. R. Soc. Lond. 267:1717-1722."											
-Northern Gannet	Sulidae	2002	Feeding	Microhabitat For Foraging	"Montevecchi, W. A., V. L. Birt, and D. K. Cairns. 1988. Dietary changes of seabirds associated with local fisheries failures. Biol. Oceanogr. 5:153-161."											
+Brown Booby	Sulidae	2002	Nutrition And Energetics		"Lack, D. 1954. The natural regulation of animal numbers. Clarendon Press, London, U.K."	n	n	unavailable								
+Brown Booby	Sulidae	2002	Diet		"Serventy, D. L. 1952. The bird islands of the Sahul Shelf. Emu 52:33-59."	n		requested from library								
+Brown Booby	Sulidae	2002	Nutrition And Energetics		"Taylor, J. R. E. and M. Konarzewski. 1989. On the importance of fat reserves for the Little Auk (Alle alle) chicks. Oecologia 81:551-558."	y	n									
+Northern Gannet	Sulidae	2002	Feeding	Microhabitat For Foraging	"Salomonsen, F. 1967. Fuglene p???? Gr????nland. Rhodos, Copenhagen, Denmark."	y	n									
+Northern Gannet	Sulidae	2002	Feeding	Food Capture And Consumption	"Garthe, S., S. Benvenuti, and W. A. Montevecchi. 2000. Pursuit plunging by Northern Gannets (Sula bassana) feeding on capelin (Mallotus villosus). Proc. R. Soc. Lond. 267:1717-1722."	y	n									
+Northern Gannet	Sulidae	2002	Feeding	Microhabitat For Foraging	"Montevecchi, W. A., V. L. Birt, and D. K. Cairns. 1988. Dietary changes of seabirds associated with local fisheries failures. Biol. Oceanogr. 5:153-161."	y	y	entered								
 Northern Gannet	Sulidae	2002	Nutrition And Energetics		"Birt-Friesen, V. L., W. A. Montevecchi, D. K. Cairns, and S. A. Macko. 1989. Activity-specific metabolic rates of free-living Northern Gannets and other seabirds. Ecology 70:357-367."											
 Northern Gannet	Sulidae	2002	Feeding	Microhabitat For Foraging	"Nelson, J. B. 1978a. The Gannet. Buteo Books, Vermillion, SD."											
 Northern Gannet	Sulidae	2002	Feeding	Food Capture And Consumption	"Tasker, M. L. and A. E. Taylor. 1984. Gannet robbing Cormorant. Br. Birds 77:418."											
