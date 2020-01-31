@@ -1,0 +1,165 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Double-crested Cormorant	Phalacrocorax auritus		Phalacrocoracidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	Minnesota	Lake Leech	wetland	9	2004	9	2004			Animalia							Notropis hudsonius	Yes			NA	NA		0.0009	Items	15154	186		Stomach contents	Adult and subadult	MMS	
+																			Animalia						Notropis	NA	No			NA	NA		0.188	Items							
+																			Animalia							Pimephales notatus	Yes			NA	NA		0.0003	Items							
+																			Animalia							Moxostoma valenciennesi	Yes			NA	NA		0.0001	Items							
+																			Animalia							Noturus gyrinus	Yes			NA	NA		0.0004	Items							
+																			Animalia						Coregonus	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia							Lota lota	Yes			NA	NA		0.0001	Items							
+																			Animalia						Cottus	NA	Yes			NA	NA		0.0001	Items							
+																			Animalia							Culaea inconstans	Yes			NA	NA		0.0001	Items							
+																			Animalia							Lepomis gibbosus	Yes			NA	NA		0.0001	Items							
+																			Animalia							Lepomis macrochirus	Yes			NA	NA		0.001	Items							
+																			Animalia						Lepomis	NA	No			NA	NA		0.0001	Items							
+																			Animalia							Micropterus salmoides	Yes			NA	NA		0.0004	Items							
+																			Animalia							Pomoxis nigromaculatus	Yes			NA	NA		0.0003	Items							
+																			Animalia							Etheostoma exile	Yes			NA	NA		0.001	Items							
+																			Animalia							Etheostoma nigrum	Yes			NA	NA		0.009	Items							
+																			Animalia							Perca flavescens	Yes			NA	NA		0.792	Items							
+																			Animalia							Percina caprodes	Yes			NA	NA		0.003	Items							
+																			Animalia							Sander vitreus	Yes			NA	NA		0.0005	Items							
+																			Animalia	Chordata	NA	NA	NA	NA	NA	NA	No			NA	NA		0.002	Items							
+																			Animalia			Decapoda	NA	NA	NA	NA	Yes			NA	NA	Crayfish	0.0009	Items							
+																			Animalia							Notropis hudsonius	Yes			NA	NA		0.003	Wt_or_vol							
+																			Animalia						Notropis	NA	No			NA	NA		0.119	Wt_or_vol							
+																			Animalia							Pimephales notatus	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Moxostoma valenciennesi	Yes			NA	NA		0.006	Wt_or_vol							
+																			Animalia							Noturus gyrinus	Yes			NA	NA		0.001	Wt_or_vol							
+																			Animalia						Coregonus	NA	Yes			NA	NA		0.001	Wt_or_vol							
+																			Animalia							Lota lota	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia						Cottus	NA	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Culaea inconstans	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Lepomis gibbosus	Yes			NA	NA		0.006	Wt_or_vol							
+																			Animalia							Lepomis macrochirus	Yes			NA	NA		0.028	Wt_or_vol							
+																			Animalia						Lepomis	NA	No			NA	NA		0.008	Wt_or_vol							
+																			Animalia							Micropterus salmoides	Yes			NA	NA		0.001	Wt_or_vol							
+																			Animalia							Pomoxis nigromaculatus	Yes			NA	NA		0.018	Wt_or_vol							
+																			Animalia							Etheostoma exile	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Etheostoma nigrum	Yes			NA	NA		0.005	Wt_or_vol							
+																			Animalia							Perca flavescens	Yes			NA	NA		0.713	Wt_or_vol							
+																			Animalia							Percina caprodes	Yes			NA	NA		0.007	Wt_or_vol							
+																			Animalia							Sander vitreus	Yes			NA	NA		0.081	Wt_or_vol							
+																			Animalia	Chordata	NA	NA	NA	NA	NA	NA	No			NA	NA		0.002	Wt_or_vol							
+																			Animalia						Orconectes	NA	Yes			NA	NA	Crayfish	0.001	Wt_or_vol							
+													4	2005	9	2005			Animalia							Luxilus cornutus	Yes			NA	NA		0.0001	Items	10472	356					
+																			Animalia							Notemigonus crysoleucas	Yes			NA	NA		0.0001	Items							
+																			Animalia							Notropis atherinoides	Yes			NA	NA		0.0001	Items							
+																			Animalia							Hydropsis dorsalis	Yes			NA	NA		0.0001	Items							
+																			Animalia							Notropis hudsonius	Yes			NA	NA		0.004	Items							
+																			Animalia						Notropis	NA	No			NA	NA		0.19	Items							
+																			Animalia							Pimephales notatus	Yes			NA	NA		0.004	Items							
+																			Animalia							Catostomus commersonii	Yes			NA	NA		0.0001	Items							
+																			Animalia							Ameiurus melas	Yes			NA	NA		0.0004	Items							
+																			Animalia							Noturus gyrinus	Yes			NA	NA		0.01	Items							
+																			Animalia							Esox lucius	Yes			NA	NA		0.0003	Items							
+																			Animalia						Coregonus	NA	Yes			NA	NA		0.004	Items							
+																			Animalia							Lota lota	Yes			NA	NA		0.0005	Items							
+																			Animalia							Percopsis omsicomaycus	Yes			NA	NA		0.005	Items							
+																			Animalia							Culaea inconstans	Yes			NA	NA		0.0002	Items							
+																			Animalia							Ambloplites rupestris	Yes			NA	NA		0.0001	Items							
+																			Animalia							Lepomis gibbosus	Yes			NA	NA		0.001	Items							
+																			Animalia							Lepomis macrochirus	Yes			NA	NA		0.008	Items							
+																			Animalia							Micropterus salmoides	Yes			NA	NA		0.0002	Items							
+																			Animalia							Pomoxis nigromaculatus	Yes			NA	NA		0.001	Items							
+																			Animalia							Etheostoma exile	Yes			NA	NA		0.001	Items							
+																			Animalia							Etheostoma nigrum	Yes			NA	NA		0.021	Items							
+																			Animalia							Perca flavescens	Yes			NA	NA		0.746	Items							
+																			Animalia							Percina caprodes	Yes			NA	NA		0.009	Items							
+																			Animalia							Sander vitreus	Yes			NA	NA		0.002	Items							
+																			Animalia	Chordata	NA	NA	NA	NA	NA	NA	No			NA	NA		0.0002	Items							
+																			Animalia						Orconectes	NA	Yes			NA	NA		0.0005	Items							
+																			Animalia							Luxilus cornutus	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Notemigonus crysoleucas	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Notropis atherinoides	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Hydropsis dorsalis	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Notropis hudsonius	Yes			NA	NA		0.005	Wt_or_vol							
+																			Animalia						Notropis	NA	No			NA	NA		0.06	Wt_or_vol							
+																			Animalia							Pimephales notatus	Yes			NA	NA		0.003	Wt_or_vol							
+																			Animalia							Catostomus commersonii	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Ameiurus melas	Yes			NA	NA		0.009	Wt_or_vol							
+																			Animalia							Noturus gyrinus	Yes			NA	NA		0.001	Wt_or_vol							
+																			Animalia							Esox lucius	Yes			NA	NA		0.005	Wt_or_vol							
+																			Animalia						Coregonus	NA	Yes			NA	NA		0.037	Wt_or_vol							
+																			Animalia							Lota lota	Yes			NA	NA		0.008	Wt_or_vol							
+																			Animalia							Percopsis omsicomaycus	Yes			NA	NA		0.004	Wt_or_vol							
+																			Animalia							Culaea inconstans	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Ambloplites rupestris	Yes			NA	NA		0.002	Wt_or_vol							
+																			Animalia							Lepomis gibbosus	Yes			NA	NA		0.006	Wt_or_vol							
+																			Animalia							Lepomis macrochirus	Yes			NA	NA		0.034	Wt_or_vol							
+																			Animalia							Micropterus salmoides	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Pomoxis nigromaculatus	Yes			NA	NA		0.009	Wt_or_vol							
+																			Animalia							Etheostoma exile	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Etheostoma nigrum	Yes			NA	NA		0.005	Wt_or_vol							
+																			Animalia							Perca flavescens	Yes			NA	NA		0.775	Wt_or_vol							
+																			Animalia							Percina caprodes	Yes			NA	NA		0.012	Wt_or_vol							
+																			Animalia							Sander vitreus	Yes			NA	NA		0.022	Wt_or_vol							
+																			Animalia	Chordata	NA	NA	NA	NA	NA	NA	No			NA	NA		0.0005	Wt_or_vol							
+																			Animalia						Orconectes	NA	Yes			NA	NA		0.0005	Wt_or_vol							
+													5	2006	9	2006			Animalia							Notropis hudsonius	Yes			NA	NA		0.005	Items	9274	348					
+																			Animalia						Notropis	NA	No			NA	NA		0.518	Items							
+																			Animalia							Pimephales notatus	Yes			NA	NA		0.002	Items							
+																			Animalia							Catostomus commersonii	Yes			NA	NA		0.0003	Items							
+																			Animalia							Noturus gyrinus	Yes			NA	NA		0.0001	Items							
+																			Animalia						Coregonus	NA	Yes			NA	NA		0.025	Items							
+																			Animalia							Lota lota	Yes			NA	NA		0.0002	Items							
+																			Animalia							Percopsis omsicomaycus	Yes			NA	NA		0.091	Items							
+																			Animalia						Cottus	NA	Yes			NA	NA		0.0001	Items							
+																			Animalia							Pungitius pungitius	Yes			NA	NA		0.002	Items							
+																			Animalia							Pomoxis nigromaculatus	Yes			NA	NA		0.0001	Items							
+																			Animalia							Etheostoma exile	Yes			NA	NA		0.0002	Items							
+																			Animalia							Etheostoma nigrum	Yes			NA	NA		0.008	Items							
+																			Animalia							Perca flavescens	Yes			NA	NA		0.338	Items							
+																			Animalia							Percina caprodes	Yes			NA	NA		0.004	Items							
+																			Animalia							Sander vitreus	Yes			NA	NA		0.007	Items							
+																			Animalia	Chordata	NA	NA	NA	NA	NA	NA	No			NA	NA		0.0001	Items							
+																			Animalia						Viviparus	NA	Yes			NA	NA	Snail	0.0001	Items							
+																			Animalia						Orconectes	NA	Yes			NA	NA	Crayfish	0.001	Items							
+																			Animalia							Notropis hudsonius	Yes			NA	NA		0.003	Wt_or_vol							
+																			Animalia						Notropis	NA	No			NA	NA		0.084	Wt_or_vol							
+																			Animalia							Pimephales notatus	Yes			NA	NA		0.001	Wt_or_vol							
+																			Animalia							Catostomus commersonii	Yes			NA	NA		0.012	Wt_or_vol							
+																			Animalia							Noturus gyrinus	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia						Coregonus	NA	Yes			NA	NA		0.434	Wt_or_vol							
+																			Animalia							Lota lota	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Percopsis omsicomaycus	Yes			NA	NA		0.062	Wt_or_vol							
+																			Animalia						Cottus	NA	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Pungitius pungitius	Yes			NA	NA		0.001	Wt_or_vol							
+																			Animalia							Pomoxis nigromaculatus	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Etheostoma exile	Yes			NA	NA		0.0005	Wt_or_vol							
+																			Animalia							Etheostoma nigrum	Yes			NA	NA		0.001	Wt_or_vol							
+																			Animalia							Perca flavescens	Yes			NA	NA		0.367	Wt_or_vol							
+																			Animalia							Percina caprodes	Yes			NA	NA		0.004	Wt_or_vol							
+																			Animalia							Sander vitreus	Yes			NA	NA		0.03	Wt_or_vol							
+																			Animalia	Chordata	NA	NA	NA	NA	NA	NA	No			NA	NA		0.0005	Wt_or_vol							
+																			Animalia						Viviparus	NA	Yes			NA	NA	Snail	0.0005	Wt_or_vol							
+																			Animalia						Orconectes	NA	Yes			NA	NA	Crayfish	0.001	Wt_or_vol							
+													NA	2005	NA	2005			Animalia							Notropis hudsonius	Yes			NA	NA		0.002	Items				Emetic	Chicks		
+																			Animalia						Notropis	NA	No			NA	NA		0.142	Items							
+																			Animalia							Pimephales notatus	Yes			NA	NA		0.001	Items							
+																			Animalia							Ameiurus natalis	Yes			NA	NA		0.0004	Items							
+																			Animalia							Esox lucius	Yes			NA	NA		0.0004	Items							
+																			Animalia						Coregonus	NA	Yes			NA	NA		0.004	Items							
+																			Animalia							Lota lota	Yes			NA	NA		0.0004	Items							
+																			Animalia							Ambloplites rupestris	Yes			NA	NA		0.0004	Items							
+																			Animalia							Lepomis gibbosus	Yes			NA	NA		0.003	Items							
+																			Animalia							Lepomis macrochirus	Yes			NA	NA		0.001	Items							
+																			Animalia						Lepomis	NA	No			NA	NA		0.003	Items							
+																			Animalia							Micropterus salmoides	Yes			NA	NA		0.001	Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
