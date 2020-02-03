@@ -1,0 +1,40 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Double-crested Cormorant	Phalacrocorax auritus		Phalacrocoracidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	New York	Oneida Lake	wetland	4	1996	4	1996			Animalia							Perca flavescens	Yes			NA	NA	Yellow perch	0.588	Items	17	2512		Emetic; stomach contents		MMS	
+																			Animalia							Sander vitreus	Yes			NA	NA	Walleye	0.118	Items							
+																			Animalia						Lepomis	NA	Yes			NA	NA	Pumpkinseed/bluegill	0.235	Items					Pumpkinseed/bluegill		
+																			Animalia							Lota lota	Yes			NA	NA	Burbot	0.059	Items							
+													5	1994	5	2003			Animalia							Perca flavescens	Yes			NA	NA	Yellow perch	0.39	Items	177				Data represents month of May only		
+																			Animalia							Sander vitreus	Yes			NA	NA	Walleye	0.017	Items							
+																			Animalia						Lepomis	NA	Yes			NA	NA	Pumpkinseed/bluegill	0.045	Items							
+																			Animalia							Catostomus commersonii	Yes			NA	NA	White sucker	0.017	Items							
+																			Animalia							Lota lota	Yes			NA	NA	Burbot	0.011	Items							
+																			Animalia							Micropterus dolomieu	Yes			NA	NA	Smallmouth bass	0.028	Items							
+																			Animalia							Ambloplites rupestris	Yes			NA	NA	Rock bass	0.006	Items							
+																			Animalia							Morone americana	Yes			NA	NA	White perch	0.051	Items							
+																			Animalia							Notropis atherinoides	Yes			NA	NA	Emerald shiner	0.04	Items							
+																			Animalia							Etheostoma olmstedi	Yes			NA	NA	Tessellated darter	0.062	Items							
+																			Animalia							Percopsis omiscomaycus	Yes			NA	NA	Trout-perch	0.333	Items							
+													6	1994	6	2003			Animalia							Perca flavescens	Yes			NA	NA	Yellow perch	0.563	Items	2630				Data represents month of June only		
+																			Animalia							Sander vitreus	Yes			NA	NA	Walleye	0.116	Items							
+																			Animalia						Lepomis	NA	Yes			NA	NA	Pumpkinseed/bluegill	0.06	Items							
+																			Animalia							Catostomus commersonii	Yes			NA	NA	White sucker	0.007	Items							
+																			Animalia							Lota lota	Yes			NA	NA	Burbot	0.016	Items							
+																			Animalia							Percina caprodes	Yes			NA	NA	Logperch	0.047	Items							
+																			Animalia							Micropterus dolomieu	Yes			NA	NA	Smallmouth bass	0.016	Items							
+																			Animalia							Ambloplites rupestris	Yes			NA	NA	Rock bass	0.02	Items							
+																			Animalia							Morone americana	Yes			NA	NA	White perch	0.018	Items							
+																			Animalia							Notropis atherinoides	Yes			NA	NA	Emerald shiner	0.099	Items							
+																			Animalia							Dorosoma cepedianum	Yes			NA	NA	Gizzard shad	0.02	Items							
+																			Animalia							Necturus maculatus	Yes			NA	NA	Common mudpuppy	0.005	Items							
+																			Animalia							Morone chrysops	Yes			NA	NA	White bass	0.002	Items							
+																			Animalia							Etheostoma olmstedi	Yes			NA	NA	Tessellated darter	0.002	Items							
+																			Animalia						Esox	NA	Yes			NA	NA	Pike/pickerel	0.002	Items							
+																			Animalia							Pomoxis nigromaculatus	Yes			NA	NA	Black crappie	0.0005	Items							
+																			Animalia							Micropterus salmoides	Yes			NA	NA	Largemouth bass	0.0005	Items							
+																			Animalia							Fundulus diaphanus	Yes			NA	NA	Banded killifish	0.002	Items							
+																			Animalia							Aplodinotus grunniens	Yes			NA	NA	Freshwater drum	0.0005	Items							
+																			Animalia							Ictalurus punctatus	Yes			NA	NA	Channel catfish	0.001	Items							
+																			Animalia							Ameiurus nebulosus	Yes			NA	NA	Brown bullhead	0.002	Items							
+																			Animalia							Percopsis omiscomaycus	Yes			NA	NA	Trout-perch	0.003	Items							
+																										Semotilus corporalis	Yes			NA	NA	Fallfish	0.0005	Items							
+																										Amia calva	Yes			NA	NA	Bowfin	0.0005	Items							
