@@ -8406,7 +8406,7 @@ Yellow Rail	Rallidae	1995	Feeding	Food Capture And Consumption	"Stalheim, P. S. 
 Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Walkinshaw, L. H. 1939. The Yellow Rail in Michigan. Auk 56:227-237."	y	n									
 Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Martin, A. C., H. S. Zim, and A. L. Nelson. 1951. American wildlife and plants. Dover, New York."	n		unavailable								
 Yellow Rail	Rallidae	1995	Diet	Major Food Items	"Easterla, D. A. 1962. Some foods of the Yellow Rail in Missouri. Wilson Bull. 74:94-95."	y	n									
-Yellow Rail	Rallidae	1995	Diet		"Robert, M., L. Cloutier and P. Laporte. 1997. The summer diet of the Yellow Rail in Southern Quebec. Wilson Bull. 109:702-710."	y	y	in progress								
+Yellow Rail	Rallidae	1995	Diet		"Robert, M., L. Cloutier and P. Laporte. 1997. The summer diet of the Yellow Rail in Southern Quebec. Wilson Bull. 109:702-710."	y	y	entered								
 American Avocet	Recurvirostridae	1997	Diet	Major Food Items	"Edwards, D. D. and A. O. Bush. 1989. Helminth communities in avocets: importance of the compound community. J. Parasitol. 75:225-238."											
 American Avocet	Recurvirostridae	1997	Diet	Major Food Items	"Boettcher, R., S. M. Haig, and W. C. Bridges, Jr. 1995. Habitat-related factors affecting the distribution of nonbreeding American Avocets in coastal South Carolina. Condor 97:68-81."											
 American Avocet	Recurvirostridae	1997	Feeding	Microhabitat For Foraging	"Dinsmore, J. J. 1977. Notes on avocets and stilts in Tampa Bay, Florida. Fla. Field Nat. 5:25-30."											
