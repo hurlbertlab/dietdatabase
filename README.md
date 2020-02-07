@@ -167,7 +167,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Prey_Order</td>
-    <td>Order to which the prey item belongs (e.g. Lepidoptera).  Recently, termites (formerly Isoptera) and cockroaches (Blattodea) were united within Order Blattodea. If termites are listed as a diet item, enter them as Order Blattodea, and put "termites" under Prey_Common_Name.</td>
+    <td>Order to which the prey item belongs (e.g. Lepidoptera).  Recently, termites (formerly Isoptera) and cockroaches (Blattodea) were united within Order Blattodea. If termites are listed as a diet item, enter them as Order Blattodea, and put "termites" under Prey_Common_Name. If cockroaches are listed as a diet item, enter them as Order Blattodea, and put "cockroaches" under Prey_Common_Name.</td>
   </tr>
   <tr>
     <td>Prey_Suborder</td>
