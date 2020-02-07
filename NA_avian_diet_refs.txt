@@ -10818,6 +10818,7 @@ Acadian Flycatcher	Tyrannidae	2002	Diet	Quantitative Analysis	"Beal, F. E. L. 19
 Acadian Flycatcher	Tyrannidae	2002	Feeding	Food Capture And Consumption	"Remsen, Jr., J. V. and S. K. Robinson. 1990. A classification scheme for Foraging Behavior of birds in terrestrial habitats. Stud. Avian Biol. 13:144-160."	y	n									
 Acadian Flycatcher	Tyrannidae	2002	Diet	Major Food Items	"Mumford, R. E. 1964. The breeding biology of the Acadian Flycatcher. Mus. Zool., Univ. of Michigan Misc. Publ. no. 125."	y	n									
 Acadian Flycatcher	Tyrannidae	2002	Feeding	Microhabitat For Foraging	"Willis, E. O. 1966. The role of migrant birds at swarms of army ants. Living Bird 5:187-231."	y	n									
+Acadian Flycatcher	Tyrannidae	2018	Diet			y	y									
 Alder Flycatcher	Tyrannidae	1999	Feeding	Food Capture And Consumption	"Fitzpatrick, J. W. 1980. Wintering of North American tyrant flycatchers in the Neotropics. Pages 67-78 in Migrant birds in the Neotropics: Ecology, behavior, distribution and conservation. (Keast, A. and E. S. Morton, Eds.) Smithson. Inst. Press, Washington, D.C."	y	n									
 Alder Flycatcher	Tyrannidae	1999	Metabolism And Temperature Regulation		"West, G. C. and B. B. DeWolfe. 1974. Populations and energetics of taiga birds near Fairbanks, Alaska. Auk 91:757-775."	y	y									
 Alder Flycatcher	Tyrannidae	1999	Feeding	Food Capture And Consumption	"Gorski, L. G. 1969a. Systematics and ecology of sibling species of Traill's Flycatcher. Phd Thesis. Univ. of Connecticut, Storrs."	y	n									
