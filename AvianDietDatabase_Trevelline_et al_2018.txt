@@ -1,5 +1,12 @@
 Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
-Louisiana Waterthrush																																									
+Louisiana Waterthrush	Parkesia motacilla		Parulidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																						"For this study, I need to do the following things: 1. Check to make sure all the taxon is valid 2. For each speices, I need to convert the 'frequency of occurance' back to the 'number of samples in which the taxon is detected', which I do by: 'the frequency of occurance' * 'total number of fecal samples'. Then, I find the total number of fecal samples for each species and divide the 'number of samples in which the taxon is detected' by the 'total number of samples for all taxon' (^calculated value). "		
+Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																								
+Wood Thrush	Hylocichla mustelina		Turidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																								
 																																									
-																																									
-																																									
+Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer				Arachnida			Anyphaenidae	Anyphaena	pectorosa															
+																								Araneidae	Neoscona	crucifera															
+																								Linyphiidae	Pityohyphantes																
+																								Salticidae	Naphrys	pulex															
+																								Salticidae	Pelegrina	galathea															
+																								Tetragnathidae	Leucauge	venusta															
+																								Theridiidae	Parasteatoda	tepidariorum															
