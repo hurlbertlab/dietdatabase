@@ -3,10 +3,126 @@ Louisiana Waterthrush	Parkesia motacilla		Parulidae	eBird_Taxonomy_2018						Pen
 Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																								
 Wood Thrush	Hylocichla mustelina		Turidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																								
 																																									
-Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer				Arachnida			Anyphaenidae	Anyphaena	pectorosa															
-																								Araneidae	Neoscona	crucifera															
-																								Linyphiidae	Pityohyphantes																
-																								Salticidae	Naphrys	pulex															
-																								Salticidae	Pelegrina	galathea															
-																								Tetragnathidae	Leucauge	venusta															
-																								Theridiidae	Parasteatoda	tepidariorum															
+Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer				Arachnida	Aranea			Anyphaena	pectorosa															
+																									Neoscona	crucifera															
+																									Pityohyphantes																
+																									Naphrys	pulex															
+																									Pelegrina	galathea															
+																									Leucauge	venusta															
+																									Parasteatoda	tepidariorum															
+																																									
+																					Diplopoda	Poldesmida			Oxidus	gracilis															
+																																									
+																					Insecta 	Blattodea			Cryptocercus	punctulatus															
+																						Coleoptera			Amphasia	interstitialis															
+																									Chlaenius	impunctifrons															
+																									Platynus																
+																									Sphaeroderus	stenostomus															
+																									Xestoleptura	octonotata															
+																								Elateridae	Athous	brightwelli													"Not in ITIS, is on Global Names"		
+																								Elateridae	Denticollis	denticornis													"Not in ITIS, is on Global Names"		
+																								Tenebrionidae 	Isomira 	sericea													"Not in ITIS, is on Global Names"		
+																						Diptera 			Delia	platura															
+																									Laphria																
+																									Laphria	winnemana															
+																									Tricimba																
+																									Austrolimnophila	toxoneura															
+																									Eutonia 	alleni													"Not in ITIS, is on Global Names"		
+																									Limnophila	rufibasis															
+																									Limonia	indigena															
+																									Limonia	duplicata													Synonym for invalid Rhipidia maculata		
+																									Helina	evecta															
+																									Mycetophila	fungorum															
+																									Clogmia	albipunctata													"Not in ITIS, is on Global Names"		
+																									Rhagio	vertebratus															
+																									Schwenckfeldina	quadrispinosa													"Not in ITIS, is on Global Names"		
+																									Myolepta	nigra															
+																									Syrphus 	knabi															
+																									Syrphus 	rectus															
+																									Xylota																
+																									Goniops	chrysocoma															
+																									Hybomitra																
+																									Tabanus	sparus													Synonym for invalid Tabanus milleri		
+																									Tabanus																
+																									Blepharomyia	tibialis															
+																									Ceromya	oriens															
+																									Lespesia																
+																									Tachinomyia	nigricans															
+																									Ctenophora	dorsalis															
+																									Leptotarsus	testaceus															
+																									Tipula	hermannia															
+																									Tipula	longiventris															
+																									Tipula	oropezoides															
+																									Tipula																
+																									Xylomya	pallidifemur															
+																						Ephemeroptera 			Ameletus	lineatus		***START HERE													
+																									Ephemerella	dorothea															
+																									Ephemera	guttulata															
+																									Cinygmula	subaequalis															
+																									Epeorus	pleuralis															
+																									Maccaffertium 	pudicum 															
+																									Isonychia																
+																									Paraleptophlebia	guttata															
+																						Hemiptera			Zelus	luridus															
+																						Lepidoptera			Allotria	elonympha															
+																									Eulepidotis	caeruleilinea															
+																									Hypena	baltimoralis															
+																									Hypena	edictalis															
+																									Hypena	scabra															
+																									Hyperstrotia	pervertens															
+																									Lophocampa	maculata															
+																									Orgyia	definita															
+																									Zale	duplicata															
+																									Zanclognata	laevigata															
+																									Ectropis	crepuscularia															
+																									Epimecis	hortaria															
+																									Eupithecia	columbiata															
+																									Lambdina																
+																									Lomographa	semiclarata															
+																									Melanolophia	canadaria															
+																									Metarranthis	hypochraria															
+																									Plataea	calcaria															
+																									Probole																
+																									Pseudasellodes	fenestraria															
+																									Speranza 	pustularia															
+																									Parornix	anglicella															
+																									Ochlodes	sylvanus															
+																									Malacosoma	americanum															
+																									Malacosoma	disstria															
+																									Parrhasius	album															
+																									Achatia	distincta															
+																									Anathix	ralla															
+																									Eupsilia																
+																									Hypotrix	carnetincta															
+																									Lithophane																
+																									Morrisonia	confusa															
+																									Morrisonia	latex															
+																									Mythimna	unipuncta															
+																									Ochlropleura 	astigmata															
+																									Orthosia	hibisci															
+																									Orthosia	rubescens															
+																									Protoschinia	scutosa															
+																									Sunira	bicolorago															
+																									Xestia	nigrum															
+																									Calisto	aquilum															
+																									Calisto																
+																									Plodia	interpunctella															
+																									Acleris	nigrolinea															
+																									Pseudexentera	cosotomaculana															
+																									Pseudexentera																
+																									Acoloithus	falsarius															
+																						Mecoptera			Panorpha																
+																						Megaloptera			Nigronia	fasciatus															
+																									Nigronia	serricornis															
+																									Sialis	joppa															
+																						Orthoptera			Euhadenoecus	pulteanus															
+																						Plecoptera			Lectura	sibleyi															
+																									Lectura																
+																									Acroneuria	carolinensis															
+																									Clioperla	clio															
+																									Isoperla																
+																									Pteronarcys	proteus															
+																									Valenzeula	flavidus															
+																									Goera	stylata															
+																																									
+																					Malacostraca 	Decapoda 			Cambarus	carinirostris															
