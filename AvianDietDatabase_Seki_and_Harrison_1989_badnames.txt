@@ -1,0 +1,4 @@
+"level"	"name"	"condition"
+"Scientific_Name"	"Gonorynchus  gonorynchus"	"unmatched"
+"Genus"	"Cypselerus"	"unmatched"
+"Suborder"	"Phosichthyidae"	"wrong rank; too high"
