@@ -1,0 +1,38 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Great Cormorant	Phalacrocorax carbo	sinensis	Phalacrocoracidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	France	Malause	wetland	10	2001	11	2001	winter		Animalia							Abramis abramis	Yes			NA	NA	Bream	0.256	Occurrence		82	1	Emetic		MMS	
+																			Animalia							Alburnus alburnus	Yes			NA	NA	Bleak	0.012	Occurrence							
+																			Animalia							Barbus barbus	Yes			NA	NA	Barbel	0.11	Occurrence							
+																			Animalia							Blicca bjoerkna	Yes			NA	NA	Silver bream	0.11	Occurrence							
+																			Animalia							Carassius carassius	Yes			NA	NA	Crucian carp	0.012	Occurrence							
+																			Animalia							Cyprinus carpio	Yes			NA	NA	Carp	0.134	Occurrence							
+																			Animalia							Leuciscus cephalus	Yes			NA	NA	Chub	0.085	Occurrence							
+																			Animalia							Rutilus rutilus	Yes			NA	NA	Roach	0.085	Occurrence							
+																			Animalia							Scardinius erythrophthalmus	Yes			NA	NA	Rudd	0.098	Occurrence							
+																			Animalia							Tinca tinca	Yes			NA	NA	Tench	0.012	Occurrence							
+																			Animalia							Esox lucius	Yes			NA	NA	Pike	0.012	Occurrence							
+																			Animalia							Sander lucioperca	Yes			NA	NA	Pikeperch	0.11	Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
