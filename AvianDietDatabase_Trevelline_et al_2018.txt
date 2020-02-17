@@ -1,41 +1,39 @@
 Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
-Louisiana Waterthrush	Parkesia motacilla		Parulidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																						"For this study, I need to do the following things: 1. Check to make sure all the taxon is valid 2. For each speices, I need to convert the 'frequency of occurance' back to the 'number of samples in which the taxon is detected', which I do by: 'the frequency of occurance' * 'total number of fecal samples'. Then, I find the total number of fecal samples for each species and divide the 'number of samples in which the taxon is detected' by the 'total number of samples for all taxon' (^calculated value). "		
+Louisiana Waterthrush	Parkesia motacilla		Parulidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																								
 Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																								
 Wood Thrush	Hylocichla mustelina		Turidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																								
 																																									
-Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer				Arachnida	Aranea			Anyphaena	pectorosa															
+																					Arachnida	Aranea			Anyphaena	pectorosa															
 																									Neoscona	crucifera															
 																									Pityohyphantes																
 																									Naphrys	pulex															
 																									Pelegrina	galathea															
 																									Leucauge	venusta															
 																									Parasteatoda	tepidariorum															
-																																									
 																					Diplopoda	Poldesmida			Oxidus	gracilis															
-																																									
 																					Insecta 	Blattodea			Cryptocercus	punctulatus															
 																						Coleoptera			Amphasia	interstitialis															
 																									Chlaenius	impunctifrons															
 																									Platynus																
 																									Sphaeroderus	stenostomus															
 																									Xestoleptura	octonotata															
-																								Elateridae	Athous	brightwelli													"Not in ITIS, is on Global Names"		
-																								Elateridae	Denticollis	denticornis													"Not in ITIS, is on Global Names"		
-																								Tenebrionidae 	Isomira 	sericea													"Not in ITIS, is on Global Names"		
+																								Elateridae	Athous	brightwelli													"Not in ITIS, is on Global Names (No Genus in IT IS) "		
+																								Elateridae	Denticollis	denticornis													"Not in ITIS, is on Global Names (No Genus in IT IS) "		
+																								Tenebrionidae 	Isomira 	sericea													"Not in ITIS, is on Global Names (No Genus in IT IS) "		
 																						Diptera 			Delia	platura															
 																									Laphria																
 																									Laphria	winnemana															
 																									Tricimba																
 																									Austrolimnophila	toxoneura															
-																									Eutonia 	alleni													"Not in ITIS, is on Global Names"		
+																									Eutonia 	alleni													"Not in ITIS, is on Global Names (No Genus in IT IS) "		
 																									Limnophila	rufibasis															
 																									Limonia	indigena															
 																									Limonia	duplicata													Synonym for invalid Rhipidia maculata		
 																									Helina	evecta															
 																									Mycetophila	fungorum															
-																									Clogmia	albipunctata													"Not in ITIS, is on Global Names"		
+																									Clogmia	albipunctata													"Not in ITIS, is on Global Names (No Genus in IT IS) "		
 																									Rhagio	vertebratus															
-																									Schwenckfeldina	quadrispinosa													"Not in ITIS, is on Global Names"		
+																									Schwenckfeldina	quadrispinosa													"Not in ITIS, is on Global Names (No Genus in IT IS) "		
 																									Myolepta	nigra															
 																									Syrphus 	knabi															
 																									Syrphus 	rectus															
@@ -55,7 +53,7 @@ Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Penn
 																									Tipula	oropezoides															
 																									Tipula																
 																									Xylomya	pallidifemur															
-																						Ephemeroptera 			Ameletus	lineatus		***START HERE													
+																						Ephemeroptera 			Ameletus	lineatus															
 																									Ephemerella	dorothea															
 																									Ephemera	guttulata															
 																									Cinygmula	subaequalis															
@@ -63,9 +61,9 @@ Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Penn
 																									Maccaffertium 	pudicum 															
 																									Isonychia																
 																									Paraleptophlebia	guttata															
-																						Hemiptera			Zelus	luridus															
+																						Hemiptera	Heteroptera		Zelus	luridus															
 																						Lepidoptera			Allotria	elonympha															
-																									Eulepidotis	caeruleilinea															
+																									Eulepidotis	caeruleilinea													"Not in ITIS, is on Global Names (Valid genus, invalid species on IT IS)  "		
 																									Hypena	baltimoralis															
 																									Hypena	edictalis															
 																									Hypena	scabra															
@@ -73,7 +71,7 @@ Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Penn
 																									Lophocampa	maculata															
 																									Orgyia	definita															
 																									Zale	duplicata															
-																									Zanclognata	laevigata															
+																									Zanclognatha	laevigata															
 																									Ectropis	crepuscularia															
 																									Epimecis	hortaria															
 																									Eupithecia	columbiata															
@@ -83,46 +81,54 @@ Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Penn
 																									Metarranthis	hypochraria															
 																									Plataea	calcaria															
 																									Probole																
-																									Pseudasellodes	fenestraria															
+																									Pseudasellodes	fenestraria													"Not in ITIS, is on Global Names (No Genus on IT IS)"		
 																									Speranza 	pustularia															
-																									Parornix	anglicella															
-																									Ochlodes	sylvanus															
+																								Gracillariidae	Parornix	anglicella													Not in ITIS or Global Names (Invalid Genus and Species)		
+																								Hesperiidae	Ochlodes	sylvanus													Not in ITIS or Global Names (Found Ochlodes (valid genus) sylvanoides?)		
 																									Malacosoma	americanum															
 																									Malacosoma	disstria															
-																									Parrhasius	album															
+																									Parrhasius	album													Parrhasius m-album		
 																									Achatia	distincta															
 																									Anathix	ralla															
 																									Eupsilia																
-																									Hypotrix	carnetincta															
+																									Hypotrix	carnetincta													"Not in IT IS, (Valid genus, invalid species on IT IS)  "		
 																									Lithophane																
 																									Morrisonia	confusa															
 																									Morrisonia	latex															
 																									Mythimna	unipuncta															
-																									Ochlropleura 	astigmata															
+																									Ochropleura 	astigmata															
 																									Orthosia	hibisci															
 																									Orthosia	rubescens															
-																									Protoschinia	scutosa															
+																									Protoschinia	scutosa													"Not in IT IS, Is on Global Names (Valid Genus, invalid species on ITIS)"		
 																									Sunira	bicolorago															
-																									Xestia	nigrum															
-																									Calisto	aquilum															
-																									Calisto																
-																									Plodia	interpunctella															
-																									Acleris	nigrolinea															
-																									Pseudexentera	cosotomaculana															
-																									Pseudexentera																
-																									Acoloithus	falsarius															
-																						Mecoptera			Panorpha																
-																						Megaloptera			Nigronia	fasciatus															
+																									Xestia	nigrum													Xestia c-nigrum 		
+																									Calisto	aquilum													"Not in IT IS, Is on Global Names  (Calisto is not a valid Genus on IT IS)"		
+																									Calisto														"Not in IT IS, Is on Global Names (Calisto is not a valid Genus on IT IS)"		
+																									Plodia	interpunctella													"Not in IT IS, Is on Global Names (Plodia is not a valid Genus on IT IS)"		
+																									Acleris	nigrolinea													"Not in IT IS, Is on Global Names (Acleris is not a valid Genus on IT IS)"		
+																									Pseudexentera	cosotomaculana													"Not in IT IS, Is on Global Names (Pseudexentera is not a valid Genus on IT IS)"		
+																									Pseudexentera														*		
+																									Acoloithus	falsarius													"Not in IT IS, Is on Global Names (Acoloithus is not a valid Genus on IT IS)"		
+																						Mecoptera			Panorpa																
+																						Megaloptera			Nigronia	fasciata													Synonym for invalid Nigronia fasciatus  		
 																									Nigronia	serricornis															
 																									Sialis	joppa															
-																						Orthoptera			Euhadenoecus	pulteanus															
-																						Plecoptera			Lectura	sibleyi															
-																									Lectura																
+																						Orthoptera			Euhadenoecus	puteanus															
+																						Plecoptera			Leuctra	sibleyi															
+																									Leuctra																
 																									Acroneuria	carolinensis															
 																									Clioperla	clio															
 																									Isoperla																
 																									Pteronarcys	proteus															
-																									Valenzeula	flavidus															
-																									Goera	stylata															
-																																									
+																						Psocodea			Valenzuela	flavidus															
+																						Trichoptera 			Goera	stylata															
 																					Malacostraca 	Decapoda 			Cambarus	carinirostris															
+******																																									
+Acadian Flycatcher	Empidonax virescens		Tyrannidae	eBird_Taxonomy_2018						Pennsylvania	Laurel Run; Loyalhanna Creek; Powdermill Run	Stream 	4	2015	7	2015	Spring; Summer																								
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
