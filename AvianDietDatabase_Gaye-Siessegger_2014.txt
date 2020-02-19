@@ -1,0 +1,38 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Great Cormorant	Phalacrocorax carbo		Phalacrocoracidae	eBird Clements Checklist v_2018	NA	NA	NA	NA	NA	Germany	Lake Contance	wetland	10	2011	3	2013			Animalia							Tinca tinca	Yes			NA	NA	Tench	0.063	Items	4021	282	1	Stomach contents	Data collected from Oct 2011-Apr 2012 and Sept 2012-Mar 2013	MMS	
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
