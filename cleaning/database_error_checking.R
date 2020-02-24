@@ -297,7 +297,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     data.frame() %>%
     filter(!tolower(.) %in% c('behavioral observation', 'crop contents', 'emetic',
                               'esophagus contents', 'fecal contents', 'nest debris', 
-                              'pellet contents', 'prey remains', 'stomach contents'))
+                              'pellet contents', 'prey remains', 'stomach contents', 'dna sequencing'))
     if (nrow(studytype) == 0) {
       studytype = "OK"
     } else {
