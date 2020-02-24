@@ -240,7 +240,7 @@ of these fields, and how data should be entered. Further instructions about how 
   <tr>
     <td>Study_Type</td>
     <td>The way that diet data were collected. Options include: emetic, fecal contents, stomach contents, esophagus contents, 
-	crop contents, pellet contents, behavioral observation, nest debris, prey remains.</td>
+	crop contents, pellet contents, behavioral observation, nest debris, prey remains, DNA sequencing.</td>
   </tr>
   <tr>
     <td>Notes</td>
