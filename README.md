@@ -154,6 +154,10 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>The season(s) in which diet data were last collected. Possible values include spring, summer, fall, winter, or multiple. Two or more values may be listed separated by a semi-colon, e.g. "spring; summer".</td>
   </tr>
   <tr>
+    <td>Analysis_Number</td>
+    <td>A numeric identifier distinguishing different diet analyses (e.g. each of which sum to 100%) within the same study that otherwise do not differ with respect to location, habitat, month, year, season, Study_Type, or Diet_Type. For example, if stomach contents are broken down separately for two different individual birds collected at the same time and same place, then for bird #1, all records for Analysis_Number would be 1, and for bird #2, all records would have Analysis_Number 2. NOTE: For most studies, there will be only one "analysis" per combination of location, habitat, month, year, season, Study_Type and Diet_Type which means that usually Analysis_Number will just be 1 for those records.</td>
+  </tr>
+  <tr>
     <td>Prey_Kingdom</td>
     <td>Kingdom to which the prey item belongs (e.g. Plantae, Animalia).</td>
   </tr>
