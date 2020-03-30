@@ -1,0 +1,103 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Cattle Egret	Bubulcus ibis		Ardeidae	eBird Taxonomy 2019	NA	NA	NA	NA	NA	Algeria	Sebaou Valley	wetland; agriculture; urban	11	1994	10	1995			Animalia							Cyprinus carpio	Yes			NA	NA		0.001	Items	5999	150	3	Pellet contents	Paper is written in French	MMS	
+																			Animalia							Barbus barbus	Yes			NA	NA		0.0005	Items							
+																			Animalia					Cyprinidae	NA	NA	No			NA	NA		0.0005	Items							
+																			Animalia							Gambusia affinis	Yes			NA	NA		0.0008	Items							
+																			Animalia							Discoglossus pictus	Yes			NA	NA		0.0018	Items							
+																			Animalia						Hyla	NA	No			NA	NA		0.0012	Items							
+																			Animalia							Hyla meridionalis	Yes			NA	NA		0.001	Items							
+																			Animalia					Lacertidae	NA	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia					Gekkonidae	NA	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia			Squamata	NA	NA	NA	NA	No			NA	NA		0.0002	Items							
+																			Animalia			Passeriformes	NA	NA	NA	NA	No			NA	NA		0.0012	Items							
+																			Animalia			Passeriformes	NA	NA	NA	NA	No			egg	NA		0.0002	Items							
+																			Animalia					Sylviidae	NA	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia							Erithacus rubecula	Yes			NA	NA		0.0002	Items							
+																			Animalia							Mus spretus	Yes			NA	NA		0.0018	Items							
+																			Animalia							Mus musculus	Yes			NA	NA		0.0002	Items							
+																			Animalia							Apodemus sylvaticus	Yes			NA	NA		0.0008	Items							
+																			Animalia							Dipodillus campestris	Yes			NA	NA		0.0007	Items							
+																			Animalia							Crocidura russula	Yes			NA	NA		0.0028	Items							
+																			Animalia						Helix	NA	No			NA	NA		0.0007	Items							
+																			Animalia							Helix aspersa	Yes			NA	NA		0.0002	Items							
+																			Animalia			Solifugae	NA	NA	NA	NA	Yes			NA	NA		0.0008	Items							
+																			Animalia					Araneidae	NA	NA	Yes			NA	NA		0.0082	Items							
+																			Animalia					Phalangiidae	NA	NA	Yes			NA	NA		0.0007	Items							
+																			Animalia		Euchelicerata	NA	NA	NA	NA	NA	No			NA	NA	Tick	0.0002	Items							
+																			Animalia	Myriapoda	NA	NA	NA	NA	NA	NA	No			adult; larva	NA		0.0023	Items							
+																			Animalia		Chilopoda	NA	NA	NA	NA	NA	No			NA	NA		0.0002	Items							
+																			Animalia						Lithbius	NA	Yes			NA	NA		0.0003	Items							
+																			Animalia						Julus	NA	Yes			NA	NA		0.0005	Items							
+																			Animalia		Insecta	NA	NA	NA	NA	NA	No			NA	NA		0.0002	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.0015	Items							
+																			Animalia						Cicindela	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia							Lophyra flexuosa	Yes			NA	NA		0.0003	Items							
+																			Animalia					Carabidae	NA	NA	No			adult	NA		0.1336	Items					Includes .02% Cicindelinae		
+																			Animalia							Carabus morbillosus	Yes			NA	NA		0.003	Items							
+																			Animalia						Carabus	NA	No			NA	NA		0.0023	Items							
+																			Animalia					Carabidae	NA	NA	No			larva	NA		0.0005	Items							
+																			Animalia						Acinopus	NA	No			NA	NA		0.0003	Items							
+																			Animalia							Acinopus megacephalus	Yes			NA	NA		0.0005	Items							
+																			Animalia							Licinus silphoides	Yes			NA	NA		0.003	Items							
+																			Animalia						Chlaenius	NA	Yes			NA	NA		0.03	Items							
+																			Animalia					Dytiscidae	NA	NA	No			NA	NA		0.0117	Items					Includes .18% Hydroporinae		
+																			Animalia							Dytiscus marginalis	Yes			NA	NA		0.0005	Items							
+																			Animalia						Staphylinus	NA	Yes			NA	NA		0.0017	Items							
+																			Animalia							Ocypus olens	Yes			NA	NA		0.008	Items							
+																			Animalia					Staphylinidae	NA	NA	No			NA	NA		0.0058	Items							
+																			Animalia					Histeridae	NA	NA	Yes			NA	NA		0.0002	Items					Paper says it is Hister major but I can find no evidence this exists		
+																			Animalia							Silpha tristis	Yes			NA	NA		0.0025	Items							
+																			Animalia							Aclypea opaca	Yes			NA	NA		0.0028	Items							
+																			Animalia						Silpha	NA	No			NA	NA		0.0002	Items							
+																			Animalia					Lucanidae	NA	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia						Trox	NA	Yes			NA	NA		0.0005	Items							
+																			Animalia						Geotrupes	NA	Yes			NA	NA		0.0003	Items							
+																			Animalia							Thorectes intermedius	Yes			NA	NA		0.0007	Items							
+																			Animalia						Gymnopleurus	NA	Yes			NA	NA		0.0009	Items							
+																			Animalia						Onitis	NA	Yes			NA	NA		0.0012	Items							
+																			Animalia						Hybalus	NA	Yes			NA	NA		0.0117	Items							
+																			Animalia						Aphodius	NA	Yes			NA	NA		0.0014	Items							
+																			Animalia							Dynastes corniger	Yes			NA	NA		0.001	Items							
+																			Animalia						Onthophagus	NA	Yes			NA	NA		0.0035	Items							
+																			Animalia						Bubas	NA	Yes			NA	NA		0.0045	Items							
+																			Animalia							Scarabaeus semipunctatus	Yes			NA	NA		0.0002	Items							
+																			Animalia						Phobetus	NA	Yes			NA	NA		0.1234	Items							
+																			Animalia						Geotrogus	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia						Phyllognathus	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia							Oryctes nasicornis	Yes			NA	NA		0.0043	Items							
+																			Animalia						Pentodon	NA	Yes			NA	NA		0.0035	Items							
+																			Animalia					Scarabeidae	NA	NA	No			adult; larva	NA		0.0048	Items							
+																			Animalia							Tropinota squalida	Yes			NA	NA		0.0048	Items							
+																			Animalia							Hydrophilus piceus	Yes			NA	NA		0.0007	Items							
+																			Animalia					Hydrophilidae	NA	NA	No			NA	NA		0.0002	Items							
+																			Animalia					Elateridae	NA	NA	Yes			adult; larva	NA		0.0373	Items							
+																			Animalia						Anthaxia	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia					Buprestidae	NA	NA	No			NA	NA		0.0015	Items							
+																			Animalia							Coccinella algerica	Yes			NA	NA		0.0002	Items							
+																			Animalia							Scymnus schmidti	Yes			NA	NA		0.0002	Items							
+																			Animalia					Coccinellidae	NA	NA	No			NA	NA		0.0004	Items							
+																			Animalia						Dermestes	NA	Yes			NA	NA		0.0057	Items							
+																			Animalia					Dermestidae	NA	NA	No			NA	NA		0.0042	Items							
+																			Animalia						Anthicus	NA	Yes			NA	NA		0.0012	Items							
+																			Animalia					Anthicidae	NA	NA	No			NA	NA		0.0008	Items							
+																			Animalia						Meloe	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia						Bruchus	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia						Gonocephalum	NA	Yes			NA	NA		0.001	Items							
+																			Animalia						Pachychila	NA	Yes			NA	NA		0.001	Items							
+																			Animalia					Tenebrionidae	NA	NA	No			NA	NA		0.0085	Items					Includes Lithobaurus which does not seem to exist		
+																			Animalia						Dailognatha	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia					Cerambycidae	NA	NA	Yes			NA	NA		0.0002	Items							
+																			Animalia							Chrysolina bankii	Yes			NA	NA		0.0005	Items							
+																			Animalia							Chrysolina sanguinolenta	Yes			NA	NA		0.0002	Items							
+																			Animalia						Chrysomela	NA	Yes			NA	NA		0.0011	Items					Includes C. erythromera which does not seem to exist		
+																			Animalia					Chrysomelidae	NA	NA	No			NA	NA		0.0022	Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
