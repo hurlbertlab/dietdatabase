@@ -1,3 +1,0 @@
-"level"	"name"	"condition"
-"Order"	"Blattoidea"	"wrong rank; too high"
-"Order"	"Mantodea"	"unmatched"
