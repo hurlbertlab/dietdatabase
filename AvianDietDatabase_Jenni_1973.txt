@@ -1,0 +1,149 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Cattle Egret	Bubulcus ibis		Ardeidae	eBird Taxonomy 2019	NA	NA	NA	NA	NA	Florida	Lake Alice	wetland	5	1960	7	1960			Animalia			Zygoptera	NA	NA	NA	NA	Yes			NA	NA		0.0006	Items	1703	50	4	Emetic		MMS	
+																			Animalia			Anisoptera	NA	NA	NA	NA	Yes			NA	NA		0.003	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.399	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.164	Items							
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.307	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	No			NA	NA		0.006	Items							
+																			Animalia					Elateridae	NA	NA	Yes			NA	NA		0.0006	Items							
+																			Animalia					Curculionidae	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			NA	NA		0.002	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.003	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.001	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.052	Items							
+																			Animalia							Scaphiopus holbrookii	Yes			NA	NA		0.0006	Items							
+																						Anura	NA	NA	NA	NA	No			NA	NA		0.001	Items							
+																								Hylidae	NA	NA	No			NA	NA		0.001	Items							
+																										Acris gryllus	Yes			NA	NA		0.041	Items							
+																									Hyla	NA	Yes			NA	NA		0.001	Items							
+																										Lithobates pipiens	Yes			NA	NA		0.014	Items							
+																										Gastrophryne carolinensis	Yes			NA	NA		0.001	Items							
+																										Thamnophis saurita	Yes			NA	NA		0.001	Items							
+																										Thamnophis sirtalis	Yes			NA	NA		0.0006	Items							
+																										Tantilla coronata	Yes			NA	NA		0.0006	Items							
+																						Zygoptera	NA	NA	NA	NA	Yes			NA	NA		0.0005	Wt_or_Vol							
+																						Anisoptera	NA	NA	NA	NA	Yes			NA	NA		0.006	Wt_or_Vol							
+																								Tettigoniidae	NA	NA	Yes			NA	NA		0.362	Wt_or_Vol							
+																								Tetrigidae	NA	NA	Yes			NA	NA		0.069	Wt_or_Vol							
+																								Gryllidae	NA	NA	Yes			NA	NA		0.135	Wt_or_Vol							
+																						Coleoptera	NA	NA	NA	NA	No			NA	NA		0.002	Wt_or_Vol							
+																								Elateridae	NA	NA	Yes			NA	NA		0.0005	Wt_or_Vol							
+																								Curculionidae	NA	NA	Yes			NA	NA		0.0005	Wt_or_Vol							
+																						Diptera	NA	NA	NA	NA	No			NA	NA		0.001	Wt_or_Vol							
+																								Tabanidae	NA	NA	Yes			NA	NA		0.005	Wt_or_Vol							
+																						Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.001	Wt_or_Vol							
+																						Araneae	NA	NA	NA	NA	Yes			NA	NA		0.052	Wt_or_Vol							
+																										Scaphiopus holbrookii	Yes			NA	NA		0.013	Wt_or_Vol							
+																						Anura	NA	NA	NA	NA	No			NA	NA		0.008	Wt_or_Vol							
+																								Hylidae	NA	NA	No			NA	NA		0.004	Wt_or_Vol							
+																										Acris gryllus	Yes			NA	NA		0.133	Wt_or_Vol							
+																									Hyla	NA	Yes			NA	NA		0.004	Wt_or_Vol							
+																										Lithobates pipiens	Yes			NA	NA		0.158	Wt_or_Vol							
+																										Gastrophryne carolinensis	Yes			NA	NA		0.004	Wt_or_Vol							
+																										Thamnophis saurita	Yes			NA	NA		0.021	Wt_or_Vol							
+																										Thamnophis sirtalis	Yes			NA	NA		0.017	Wt_or_Vol							
+																										Tantilla coronata	Yes			NA	NA		0.006	Wt_or_Vol							
+											Lake Griffin		6	1960	6	1960						Zygoptera	NA	NA	NA	NA	Yes			NA	NA		0.001	Items	984						
+																						Anisoptera	NA	NA	NA	NA	Yes			NA	NA		0.003	Items							
+																						Blattodea	NA	NA	NA	NA	Yes			NA	NA		0.002	Items							
+																								Tettigoniidae	NA	NA	Yes			NA	NA		0.541	Items							
+																								Tetrigidae	NA	NA	Yes			NA	NA		0.012	Items							
+																								Gryllidae	NA	NA	Yes			NA	NA		0.308	Items							
+																								Gryllotalpidae	NA	NA	Yes			NA	NA		0.002	Items							
+																						Dermaptera	NA	NA	NA	NA	Yes			NA	NA		0.002	Items							
+																						Coleoptera	NA	NA	NA	NA	No			NA	NA		0.008	Items							
+																								Elateridae	NA	NA	Yes			NA	NA		0.011	Items							
+																								Curculionidae	NA	NA	Yes			NA	NA		0.001	Items					Last three locations were only collected on one day		
+																						Diptera	NA	NA	NA	NA	No			NA	NA		0.007	Items							
+																						Araneae	NA	NA	NA	NA	Yes			NA	NA		0.032	Items							
+																										Anaxyrus terrestris	Yes			NA	NA		0.026	Items							
+																										Acris gryllus	Yes			NA	NA		0.035	Items							
+																									Hyla	NA	Yes			NA	NA		0.001	Items							
+																										Lithobates pipiens	Yes			NA	NA		0.006	Items							
+																										Cnemidophorus sexlineatus	Yes			NA	NA		0.001	Items							
+																										Thamnophis sirtalis	Yes			NA	NA		0.001	Items							
+																						Zygoptera	NA	NA	NA	NA	Yes			NA	NA		0.003	Wt_or_Vol							
+																						Anisoptera	NA	NA	NA	NA	Yes			NA	NA		0.001	Wt_or_Vol							
+																						Blattodea	NA	NA	NA	NA	Yes			NA	NA		0.0005	Wt_or_Vol							
+																								Tettigoniidae	NA	NA	Yes			NA	NA		0.39	Wt_or_Vol							
+																								Tetrigidae	NA	NA	Yes			NA	NA		0.007	Wt_or_Vol							
+																								Gryllidae	NA	NA	Yes			NA	NA		0.175	Wt_or_Vol							
+																								Gryllotalpidae	NA	NA	Yes			NA	NA		0.004	Wt_or_Vol							
+																						Dermaptera	NA	NA	NA	NA	Yes			NA	NA		0.001	Wt_or_Vol							
+																						Coleoptera	NA	NA	NA	NA	No			NA	NA		0.001	Wt_or_Vol							
+																								Elateridae	NA	NA	Yes			NA	NA		0.001	Wt_or_Vol							
+																								Curculionidae	NA	NA	Yes			NA	NA		0.0005	Wt_or_Vol							
+																						Diptera	NA	NA	NA	NA	No			NA	NA		0.004	Wt_or_Vol							
+																						Araneae	NA	NA	NA	NA	Yes			NA	NA		0.017	Wt_or_Vol							
+																										Anaxyrus terrestris	Yes			NA	NA		0.155	Wt_or_Vol							
+																										Acris gryllus	Yes			NA	NA		0.04	Wt_or_Vol							
+																									Hyla	NA	Yes			NA	NA		0.002	Wt_or_Vol							
+																										Lithobates pipiens	Yes			NA	NA		0.185	Wt_or_Vol							
+																										Cnemidophorus sexlineatus	Yes			NA	NA		0.013	Wt_or_Vol							
+																										Thamnophis sirtalis	Yes			NA	NA		0.007	Wt_or_Vol							
+											Lake Okeechobee		7	1960	7	1960						Anisoptera	NA	NA	NA	NA	Yes			NA	NA			Items	1428						
+																						Phasmida	NA	NA	NA	NA	Yes			NA	NA			Items							
+																						Blattodea	NA	NA	NA	NA	Yes			NA	NA			Items							
+																								Tettigoniidae	NA	NA	Yes			NA	NA			Items							
+																								Tetrigidae	NA	NA	Yes			NA	NA			Items							
+																								Gryllidae	NA	NA	Yes			NA	NA			Items							
+																						Coleoptera	NA	NA	NA	NA	No			NA	NA			Items							
+																								Elateridae	NA	NA	Yes			NA	NA			Items							
+																						Diptera	NA	NA	NA	NA	No			NA	NA			Items							
+																								Tabanidae	NA	NA	Yes			NA	NA			Items							
+																						Lepidoptera	NA	NA	NA	NA	Yes			adult	NA			Items							
+																						Araneae	NA	NA	NA	NA	Yes			NA	NA			Items							
+																										Anaxyrus quercicus	Yes			NA	NA			Items							
+																										Acris gryllus	Yes			NA	NA			Items							
+																										Pseudacris nigrita	Yes			NA	NA			Items							
+																										Lithobates pipiens	Yes			NA	NA			Items							
+																										Scincella lateralis	Yes			NA	NA			Items							
+																						Anisoptera	NA	NA	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																						Phasmida	NA	NA	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																						Blattodea	NA	NA	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																								Tettigoniidae	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																								Tetrigidae	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																								Gryllidae	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																						Coleoptera	NA	NA	NA	NA	No			NA	NA			Wt_or_Vol							
+																								Elateridae	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																						Diptera	NA	NA	NA	NA	No			NA	NA			Wt_or_Vol							
+																								Tabanidae	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																						Lepidoptera	NA	NA	NA	NA	Yes			adult	NA			Wt_or_Vol							
+																						Araneae	NA	NA	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																										Anaxyrus quercicus	Yes			NA	NA			Wt_or_Vol							
+																										Acris gryllus	Yes			NA	NA			Wt_or_Vol							
+																										Pseudacris nigrita	Yes			NA	NA			Wt_or_Vol							
+																										Lithobates pipiens	Yes			NA	NA			Wt_or_Vol							
+																										Scincella lateralis	Yes			NA	NA			Wt_or_Vol							
+											"Tampa Bay, Alafia River spoilbanks"		7	1960	7	1960						Anisoptera	NA	NA	NA	NA	Yes			NA	NA			Items	1102						
+																								Tettigoniidae	NA	NA	Yes			NA	NA			Items							
+																								Tetrigidae	NA	NA	Yes			NA	NA			Items							
+																								Gryllidae	NA	NA	Yes			NA	NA			Items							
+																						Hempitera	NA	NA	NA	NA	Yes			NA	NA			Items							
+																							Symphyta	NA	NA	NA	Yes			NA	NA			Items							
+																								Formicidae	NA	NA	Yes			NA	NA			Items							
+																						Diptera	NA	NA	NA	NA	No			NA	NA			Items							
+																						Lepidoptera	NA	NA	NA	NA	Yes			larva	NA			Items							
+																						Lepidoptera	NA	NA	NA	NA	Yes			adult	NA			Items							
+																						Araneae	NA	NA	NA	NA	Yes			NA	NA			Items							
+																										Anaxyrus quercicus	Yes			NA	NA			Items							
+																										Acris gryllus	Yes			NA	NA			Items							
+																									Hyla	NA	Yes			NA	NA			Items							
+																										Pseudacris ocularis	Yes			NA	NA			Items							
+																										Lithobates pipiens	Yes			NA	NA			Items							
+																						Anisoptera	NA	NA	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																								Tettigoniidae	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																								Tetrigidae	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																								Gryllidae	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																						Hempitera	NA	NA	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																							Symphyta	NA	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																								Formicidae	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																						Diptera	NA	NA	NA	NA	No			NA	NA			Wt_or_Vol							
+																						Lepidoptera	NA	NA	NA	NA	Yes			larva	NA			Wt_or_Vol							
+																						Lepidoptera	NA	NA	NA	NA	Yes			adult	NA			Wt_or_Vol							
+																						Araneae	NA	NA	NA	NA	Yes			NA	NA			Wt_or_Vol							
+																										Anaxyrus quercicus	Yes			NA	NA			Wt_or_Vol							
+																										Acris gryllus	Yes			NA	NA			Wt_or_Vol							
+																									Hyla	NA	Yes			NA	NA			Wt_or_Vol							
+																										Pseudacris ocularis	Yes			NA	NA			Wt_or_Vol							
+																										Lithobates pipiens	Yes			NA	NA			Wt_or_Vol							
