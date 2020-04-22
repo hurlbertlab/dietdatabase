@@ -1,0 +1,149 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Cattle Egret	Bubulcus ibis		Ardeidae	eBird Taxonomy 2019	NA	NA	NA	NA	NA	Louisiana	Southern Louisiana	NA	6	1966	6	1966			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.604	Items	429	3		Stomach contents	3-Jun	MMS	
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.075	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.247	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.002	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			NA	NA		0.002	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.058	Items							
+																			Animalia			Anura	NA	NA	NA	NA	Yes			NA	NA	Frogs	0.012	Items							
+																			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.088	Items	420	3			13-Jun		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.54	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.34	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.007	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			larva	NA		0.002	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.002	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.019	Items							
+																			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.169	Items	65	1			20-Jun		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.692	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.123	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.015	Items							
+																			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.172	Items	93	2			23-Jun		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.548	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.172	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.011	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.097	Items							
+																			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.078	Items	1578	7			28-Jun		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.792	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.01	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.082	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.004	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			NA	NA		0.006	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.003	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			larva	NA		0.003	Items							
+																			Animalia			Odonata	NA	NA	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.019	Items							
+																			Animalia			Anura	NA	NA	NA	NA	Yes	Frogs		NA	NA		0.003	Items							
+													7	1966	7	1966			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.056	Items	1587	9			1-Jul		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.623	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.025	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.078	Items							
+																			Animalia			Orthoptera	NA	NA	NA	NA	No			NA	NA		0.0006	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.086	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			NA	NA		0.028	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.004	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			larva	NA		0.004	Items							
+																			Animalia			Odonata	NA	NA	NA	NA	Yes			NA	NA		0.004	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.005	Items							
+																			Animalia			Hemiptera	NA	NA	NA	NA	No			NA	NA		0.001	Items					Listed as Homoptera		
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.078	Items							
+																			Animalia			Anura	NA	NA	NA	NA	Yes			NA	NA	Frogs	0.004	Items							
+																			Animalia			Squamata	NA	NA	NA	NA	No			NA	NA	Lizards	0.0006	Items							
+																			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.032	Items	775	7			27-Jul		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.435	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.03	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.159	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.032	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			NA	NA		0.008	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.006	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			larva	NA		0.01	Items							
+																			Animalia			Odonata	NA	NA	NA	NA	Yes			NA	NA		0.005	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia			Hemiptera	NA	NA	NA	NA	No			NA	NA		0.006	Items					Listed as Homoptera		
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.252	Items							
+																			Animalia			Anura	NA	NA	NA	NA	Yes			NA	NA	Frogs	0.021	Items							
+																			Animalia			Squamata	NA	NA	NA	NA	No			NA	NA	Lizards	0.003	Items							
+													8	1966	8	1966			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.163	Items	190	4			24-Aug		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.289	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.047	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.311	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.042	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.011	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			larva	NA		0.037	Items							
+																			Animalia			Odonata	NA	NA	NA	NA	Yes			NA	NA		0.011	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.089	Items							
+													5	1967	5	1967			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.131	Items	335	4			31-May		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.475	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.018	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.021	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.066	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			NA	NA		0.14	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.003	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.143	Items							
+																			Animalia			Anura	NA	NA	NA	NA	Yes			NA	NA	Frogs	0.003	Items							
+													6	1967	6	1967			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.05	Items	202	4			8-Jun		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.842	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.064	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.005	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.005	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.035	Items							
+																			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.062	Items	869	6			14-Jun		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.379	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.016	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.03	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.314	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			NA	NA		0.041	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.003	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			larva	NA		0.007	Items							
+																			Animalia			Odonata	NA	NA	NA	NA	Yes			NA	NA		0.002	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.006	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.129	Items							
+																			Animalia			Anura	NA	NA	NA	NA	Yes			NA	NA	Frogs	0.009	Items							
+																			Animalia			Squamata	NA	NA	NA	NA	No			NA	NA	Lizards	0.001	Items							
+													7	1967	7	1967			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.029	Items	1040	10			6-Jul		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.657	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.028	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.057	Items							
+																			Animalia			Orthoptera	NA	NA	NA	NA	No			NA	NA		0.001	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			NA	NA		0.004	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.013	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			larva	NA		0.012	Items							
+																			Animalia			Odonata	NA	NA	NA	NA	Yes			NA	NA		0.003	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.009	Items							
+																			Animalia				Heteroptera	NA	NA	NA	Yes			NA	NA		0.009	Items							
+																			Animalia			Hemiptera	NA	NA	NA	NA	No			NA	NA		0.002	Items					Listed as Homoptera		
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.166	Items							
+																			Animalia			Anura	NA	NA	NA	NA	Yes			NA	NA	Frogs	0.008	Items							
+																			Animalia			Squamata	NA	NA	NA	NA	No			NA	NA	Lizards	0.002	Items							
+																			Animalia				Serpentes	NA	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia		Mammalia	NA	NA	NA	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.047	Items	764	11			28-Jul		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.414	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.027	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.082	Items							
+																			Animalia			Orthoptera	NA	NA	NA	NA	No			NA	NA		0.001	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.2	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			NA	NA		0.031	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.009	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			larva	NA		0.012	Items							
+																			Animalia			Odonata	NA	NA	NA	NA	Yes			NA	NA		0.022	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.003	Items							
+																			Animalia				Heteroptera	NA	NA	NA	Yes			NA	NA		0.003	Items							
+																			Animalia			Hemiptera	NA	NA	NA	NA	No			NA	NA		0.003	Items					Listed as Homoptera		
+																			Animalia			Dermaptera	NA	NA	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.137	Items							
+																			Animalia			Anura	NA	NA	NA	NA	Yes			NA	NA	Frogs	0.001	Items							
+																			Animalia			Squamata	NA	NA	NA	NA	No			NA	NA	Lizards	0.004	Items							
+																			Animalia		Clitellata	NA	NA	NA	NA	NA	Yes			NA	NA	Earthworm	0.001	Items							
+													8	1967	8	1967			Animalia					Acrididae	NA	NA	Yes			NA	NA		0.059	Items	221	3			23-Aug		
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.692	Items							
+																			Animalia					Tetrigidae	NA	NA	Yes			NA	NA		0.018	Items							
+																			Animalia					Tettigoniidae	NA	NA	Yes			NA	NA		0.032	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.059	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			adult	NA		0.005	Items							
+																			Animalia			Lepidoptera	NA	NA	NA	NA	Yes			larva	NA		0.027	Items							
+																			Animalia			Coleoptera	NA	NA	NA	NA	Yes			NA	NA		0.009	Items							
+																			Animalia			Hemiptera	NA	NA	NA	NA	No			NA	NA		0.009	Items					Listed as Homoptera		
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.068	Items							
+																			Animalia			Anura	NA	NA	NA	NA	Yes			NA	NA	Frogs	0.009	Items							
+																			Animalia			Squamata	NA	NA	NA	NA	No			NA	NA	Lizards	0.014	Items							
