@@ -2204,7 +2204,7 @@ Cattle Egret	Ardeidae	1-May-06	Feeding	Food Capture And Consumption	"Kushlan, J.
 Cattle Egret	Ardeidae	1-May-06	Diet	Major Food Items	"Guill????n, A., J. Prosper, and J. L. Echevarrias. 1994. Estimacion de la dieta de la Garcilla Bueyera a partir del analisis de regurgitaciones de pollos: problemas debidos a la digestion diferencial de las presas. Do????ana, Acta Vertebrata 21:204-212."	y	y	entered								
 Cattle Egret	Ardeidae	1-May-06	Feeding	Food Capture And Consumption	"Palmer, R. S. 1962. Handbook of North American birds, vol. 1, loons through flamingos. Yale Univ. Press, New Haven, CT."	n	n	unavailable								
 Cattle Egret	Ardeidae	1-May-06	Diet	Major Food Items	"Schmidt, G. A. J. 1983. Cattle Egrets feeding on leeches. Br. Birds. 76:231."	y	n									
-Cattle Egret	Ardeidae	1-May-06	Diet	Major Food Items	"Yen, C. W. 1991. Food of nestling egrets and night herons in the western lowlands of central Taiwan. J. Taiwan Mus. 44:309-320."	y	y	in progress								
+Cattle Egret	Ardeidae	1-May-06	Diet	Major Food Items	"Yen, C. W. 1991. Food of nestling egrets and night herons in the western lowlands of central Taiwan. J. Taiwan Mus. 44:309-320."	y	y	entered								
 Cattle Egret	Ardeidae	1-May-06	Diet	Major Food Items	"G????mez-Tejedor, H. and F. DeLope. 1993. Sucesion fenologica de las aves no Passeriformes en el vertedero de Badajoz. Ecologia 7:419-427."	y	n									
 Cattle Egret	Ardeidae	1-May-06	Feeding	Main Foods Taken	"Sodhi, N. 1989. Monthly variation in diet of Cattle Egret Bubulcus ibis coromandus in and around Chandigarh. J. Bombay Nat. Hist. Soc. 86:440-443."	y	n									
 Cattle Egret	Ardeidae	1-May-06	Feeding	Microhabitat For Foraging	"Kushlan, J. A. 1979. Arboreal foraging by Cattle Egrets. Wilson Bull. 91:471-472."	y	n									
