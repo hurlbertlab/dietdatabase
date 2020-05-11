@@ -87,6 +87,10 @@ Note that Families for which I know that data remain to be entered are highlight
 ### Suliformes
 --Phalacrocoracidae  (MELISSA)  
 
+### Pelecaniformes
+--Pelecanidae (Melissa)
+--Threskiornithidae  
+
 ----------
 
 A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
