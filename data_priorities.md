@@ -78,6 +78,7 @@ Note that Families for which I know that data remain to be entered are highlight
 ### Gruiformes  
 --Aramidae  
 --Gruidae     
+--Rallidae  
 
 ### Galliformes  
 --Odontophoridae  
@@ -85,24 +86,16 @@ Note that Families for which I know that data remain to be entered are highlight
 --Phasianidae  
 
 ### Suliformes
---Phalacrocoracidae  (MELISSA)  
+--Phalacrocoracidae   
 
 ### Pelecaniformes
---Pelecanidae (Melissa)
+--Pelecanidae    
 --Threskiornithidae  
 
 ----------
 
 A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
  
-### Gruiformes  
---Rallidae (9 to enter)  ELLIE
-
-
----------
-
-Eventually, enter shorebirds and seabirds:  
-
 ### Charadriiformes
 --Scolopacidae  
 --Alcidae  
@@ -114,9 +107,7 @@ Eventually, enter shorebirds and seabirds:
 --Stercorariidae  
 
 ### Pelecaniformes
---Ardeidae (Josh)  
---Pelecanidae (Melissa)  
---Threskiornithidae  
+--Ardeidae (Melissa)  
 
 ### Phaethontiformes
 --Phaethontidae  
@@ -132,4 +123,4 @@ Eventually, enter shorebirds and seabirds:
 ### Suliformes
 --Anhingidae  
 --Fregatidae  
---Sulidae (EMI)  
+--Sulidae (check)  
