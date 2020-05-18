@@ -1,0 +1,121 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Cattle Egret	Bubulcus ibis	coromandus	Ardeidae	eBird Taxonomy 2019	76.725	30.775	NA	NA	NA	India	Union Territory of Chandigarh	agriculturewoodland;	3	1984	3	1985			Animalia	Annelida	NA	NA	NA	NA	NA	NA	No			adult	NA		0.042	Occurrence	5049	95		Stomach contents; emetic		MMS	
+																			Animalia						Pheretima	NA	Yes			NA	NA		0.094	Occurrence							
+																			Animalia				Anisoptera	NA	NA	NA	No			nymph	NA		0.073	Occurrence							
+																			Animalia						Crocothemis	NA	Yes			NA	NA		0.052	Occurrence							
+																			Animalia						Trithemis	NA	Yes			NA	NA		0.021	Occurrence							
+																			Animalia				Zygoptera	NA	NA	NA	No			nymph	NA		0.01	Occurrence							
+																			Animalia						Ischnura	NA	Yes			NA	NA		0.052	Occurrence							
+																			Animalia						Ergatettix	NA	Yes			NA	NA		0.2	Occurrence							
+																			Animalia						Chrotogonus	NA	Yes			NA	NA		0.231	Occurrence							
+																			Animalia						Tetrix	NA	Yes			NA	NA		0.41	Occurrence							
+																			Animalia						Atractomorpha	NA	Yes			NA	NA		0.136	Occurrence							
+																			Animalia						Oxya	NA	Yes			NA	NA		0.073	Occurrence							
+																			Animalia					Gryllidae	NA	NA	No			NA	NA		0.063	Occurrence					Listed as genus Pternemobius but I can find no evidence from reputable sources that this exists		
+																			Animalia						Gymnogryllus	NA	Yes			NA	NA		0.021	Occurrence							
+																			Animalia						Ellipes	NA	Yes			NA	NA		0.157	Occurrence							
+																			Animalia						Gryllopsis	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Acheta	NA	Yes			NA	NA		0.252	Occurrence							
+																			Animalia						Liogryllus	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Locusta	NA	Yes			NA	NA		0.073	Occurrence							
+																			Animalia							Gryllotalpa africana	Yes			NA	NA		0.273	Occurrence							
+																			Animalia						Anisolabis	NA	Yes			NA	NA		0.168	Occurrence							
+																			Animalia						Labidura	NA	Yes			NA	NA		0.063	Occurrence							
+																			Animalia						Periplaneta	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Phyllodromia	NA	Yes			NA	NA		0.042	Occurrence							
+																			Animalia							Mantis religiosa	Yes			NA	NA		0.052	Occurrence							
+																			Animalia						Termes	NA	Yes			NA	NA		0.063	Occurrence							
+																			Animalia							Laccotrephes maculatus	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Pagasa	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Polytoxus	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Andrallus	NA	Yes			NA	NA		0.021	Occurrence							
+																			Animalia						Ceresa	NA	Yes			NA	NA		0.063	Occurrence							
+																			Animalia					Scarabaeidae	NA	NA	No			larva	NA		0.073	Occurrence							
+																			Animalia						Onthophagus	NA	Yes			NA	NA		0.126	Occurrence							
+																			Animalia						Trox	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Anomala	NA	Yes			NA	NA		0.084	Occurrence							
+																			Animalia							Hypera postica	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Hypera	NA	No			NA	NA		0.073	Occurrence							
+																			Animalia						Tadius	NA	Yes			NA	NA		0.031	Occurrence							
+																			Animalia						Tanymecus	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Tachys	NA	Yes			NA	NA		0.115	Occurrence							
+																			Animalia						Bembidion	NA	Yes			NA	NA		0.031	Occurrence							
+																			Animalia						Calosoma	NA	Yes			NA	NA		0.126	Occurrence							
+																			Animalia						Chlaenius	NA	Yes			NA	NA		0.042	Occurrence							
+																			Animalia						Trichisia	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Tetragonoderus	NA	Yes			NA	NA		0.021	Occurrence							
+																			Animalia						Oxylobus	NA	Yes			NA	NA		0.052	Occurrence							
+																			Animalia						Pheropsophus	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Gonocephalum	NA	Yes			NA	NA		0.073	Occurrence							
+																			Animalia						Tribolium	NA	Yes			NA	NA		0.021	Occurrence							
+																			Animalia					Tenebrionidae	NA	NA	No			NA	NA		0.021	Occurrence					Listed as genus Pseudoblaps but I can find no evidence from a reputable source that this exists		
+																			Animalia						Opatroides	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Pachylister	NA	Yes			NA	NA		0.021	Occurrence							
+																			Animalia						Hololepta	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Haliplus	NA	Yes			NA	NA		0.021	Occurrence							
+																			Animalia					Hydrophilidae	NA	NA	Yes			larva	NA		0.01	Occurrence							
+																			Animalia						Tenebroides	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia							Scathophaga sterocoraria	Yes			NA	NA		0.126	Occurrence							
+																			Animalia						Rhinia	NA	Yes			NA	NA		0.021	Occurrence							
+																			Animalia						Lucilia	NA	Yes			NA	NA		0.031	Occurrence							
+																			Animalia						Strongyloneura	NA	Yes			NA	NA		0.063	Occurrence							
+																			Animalia						Cosmina	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Gymnodia	NA	Yes			NA	NA		0.052	Occurrence							
+																			Animalia							Musca domestica	Yes			NA	NA		0.021	Occurrence							
+																			Animalia						Musca	NA	No			NA	NA		0.126	Occurrence							
+																			Animalia						Microchrysa	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia						Mydaea	NA	Yes			NA	NA		0.01	Occurrence							
+																			Animalia					Syrphidae	NA	NA	No			NA	NA		0.01	Occurrence							
+																			Animalia							Eristalis tenax	Yes			NA	NA		0.042	Occurrence							
+																			Animalia							Eristalinus aeneus	Yes			NA	NA		0.021	Occurrence							
+																			Animalia							Eristalinus megacephalus	Yes			NA	NA		0.021	Occurrence							
+																			Animalia						Syrphus	NA	No			NA	NA		0.073	Occurrence							
+																			Animalia							Epistrophe emarginata	Yes			NA	NA		0.01	Occurrence							
+																			Animalia							Scaeva selenitica	Yes			NA	NA		0.01	Occurrence							
+																			Animalia							Melanostoma orientale	Yes			NA	NA		0.084	Occurrence							
+																			Animalia							Allograpta obliqua	Yes			NA	NA		0.105	Occurrence							
+																			Animalia							Sphaerophoria indiana	Yes			NA	NA		0.094	Occurrence							
+																			Animalia							Ischiodon scutellaris	Yes			NA	NA		0.021	Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
