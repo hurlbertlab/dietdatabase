@@ -2268,15 +2268,15 @@ Cattle Egret	Ardeidae	1-May-06	Nutrition And Energetics		"Bredin, D. 1984. Regim
 Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Barker, S. H. 1901. Does the Green Heron fish in deep water? Bird Lore 3:141."	n		unavailable								
 Green Heron	Ardeidae	1994	Nutrition And Energetics		"Junor, F. J. R. 1972. Estimation of the daily food intake of piscivorous birds. Ostrich 43:193-205."	y	n									
 Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Davis, Jr., W. E. 1983. Observations of foraging behaviour of a Mangrove Heron. Australian Birds 18:9."	n		unavailable								
-Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Meyerriecks, A. J. 1966. Additional observations on foot-stirring feeding behavior in herons. Auk 83:471-472."			requested								
-Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Kramer, D. L., D. Manley, and R. Bourgeois. 1983. The effect of respiratory mode and oxygen concentration on the risk of aerial predation in fishes. Can. J. Zool. 61:653-665."											
+Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Meyerriecks, A. J. 1966. Additional observations on foot-stirring feeding behavior in herons. Auk 83:471-472."	y	n									
+Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Kramer, D. L., D. Manley, and R. Bourgeois. 1983. The effect of respiratory mode and oxygen concentration on the risk of aerial predation in fishes. Can. J. Zool. 61:653-665."	n		unavailable								
 Green Heron	Ardeidae	1994	Feeding	Microhabitat For Foraging	"Recher, H. F. and J. A. Recher. 1980. Why are there different kinds of herons? Trans. Linn. Soc. NY 9:135-158."	n	n	unavailable								
-Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Lovell, H. B. 1958. Baiting of fish by a Green Heron. Wilson Bull. 70:280-281."											
+Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Lovell, H. B. 1958. Baiting of fish by a Green Heron. Wilson Bull. 70:280-281."	n		unavailable								
 Green Heron	Ardeidae	1994	Diet	Quantitative Analysis	"Baynard, O. E. 1912. Food of herons and ibises. Wilson Bull. 24:167-169."	y	y	entered								
 Green Heron	Ardeidae	1994	Diet	Major Food Items	"Niethammer, K. R. and M. S. Kaiser. 1983. Late summer food habits of three heron species in northeastern Louisiana. Colon. Waterbirds 6:148-153."			has data for little blue heron								
 Green Heron	Ardeidae	1994	Diet	Major Food Items	"Wheelock, I. G. 1906. Nesting habits of the Green Heron. Auk 23:432-436."	y	n									
 Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Meyerriecks, A. J. 1962. Green Heron. Pages 419-426 in Handbook of North American birds. Vol. 1 (Palmer, R. S., Ed.) Yale Univ. Press, New Haven, CT."	n	n	unavailable								
-Green Heron	Ardeidae	1994	Diet	Major Food Items	"Hawbecker, A. C. 1949. Green Heron feeds on goldfish. Auk 66:78-79."											
+Green Heron	Ardeidae	1994	Diet	Major Food Items	"Hawbecker, A. C. 1949. Green Heron feeds on goldfish. Auk 66:78-79."			requested								
 Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Hoyt, S. F. 1961. Foot-stirring in the Green Heron. Wilson Bull. 73:386."											
 Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Meyerriecks, A. J. 1971. Further observations on use of the feet by foraging herons. Wilson Bull. 83:435-438."	y	n									
 Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Seibert, H. C. 1951. Light intensity and the roosting flight of herons in New Jersey. Auk 68:63-74."	y	n									
@@ -2299,7 +2299,7 @@ Green Heron	Ardeidae	1994	Metabolism And Temperature Regulation		"Cowles, R. B. 
 Green Heron	Ardeidae	1994	Feeding	Food Capture And Consumption	"Higuchi, H. 1988. Individual differences in bait-fishing by the Green-backed Heron Ardeola striata associated with territory quality. Ibis 130:39-44."	y	n									
 Reddish Egret	Ardeidae	2002	Feeding	Food Capture And Consumption	"Meyerriecks, A. J. 1960. Comparative breeding behavior of four species of North American herons. Publ. Nuttall Ornithol. Club 2."											
 Reddish Egret	Ardeidae	2002	Diet	Quantitative Analysis	"Paul, R. T. 1991. Status report-Egretta rufescens (Gmelin) Reddish Egret. U.S. Fish Wildl. Serv. Houston, TX."											
-Reddish Egret	Ardeidae	2002	Feeding	Main Foods Taken	"Cahn, A. R. 1923. Louisiana Herons and Reddish Egrets at home. Nat. Hist. 23:470-485."											
+Reddish Egret	Ardeidae	2002	Feeding	Main Foods Taken	"Cahn, A. R. 1923. Louisiana Herons and Reddish Egrets at home. Nat. Hist. 23:470-485."			requested								
 Reddish Egret	Ardeidae	2002	Diet	Quantitative Analysis	"Simersky, B. 1971. Competition and nesting success of four species of herons on four spoil islands in the Laguna Madre. Master's Thesis. Texas A & I Univ. Kingsville."											
 Reddish Egret	Ardeidae	2002	Feeding	Food Capture And Consumption	"Rodgers, Jr., J. A. 1983. Foraging Behavior of seven species of herons in Tampa Bay, Florida. Colon. Waterbirds 6:11-23."	y	n									
 Reddish Egret	Ardeidae	2002	Feeding	Food Capture And Consumption	"Meyerriecks, A. J. 1959. Foot-stirring feeding behavior in herons. Wilson Bull. 71:153-159."	y	n									
@@ -2343,7 +2343,7 @@ Snowy Egret	Ardeidae	2000	Feeding	Food Capture And Consumption	"Rice, D. W. 1954
 Snowy Egret	Ardeidae	2000	Diet	Major Food Items	"Voous, K. H. 1983. Birds of the Netherlands Antilles. De Walberg Pers. Amsterdam."											
 Snowy Egret	Ardeidae	2000	Feeding	Main Foods Taken	"Kushlan, J. A. 1978a. Feeding ecology of wading birds. Pages 249-297 in Wading birds. (Sprunt IV, A., J. C. Ogden, and S. Winckler, Eds.) Natl. Audubon Soc. Res. Rep. no. 7, New York."											
 Snowy Egret	Ardeidae	2000	Nutrition And Energetics		"Takita, T., D. P. Middaugh, and J. M. Dean. 1984. Predation of a spawning atherinid fish Menidia menidia by avian and aquatic predators. Jpn. J. Ecol. 34:431-438."											
-Snowy Egret	Ardeidae	2000	Diet	Quantitative Analysis	"Jenni, D. A. 1969. A study of the ecology of four species of herons during breeding season at Lake Alice, Alachua County, Florida. Ecol. Monogr. 39:245-270."			requested								
+Snowy Egret	Ardeidae	2000	Diet	Quantitative Analysis	"Jenni, D. A. 1969. A study of the ecology of four species of herons during breeding season at Lake Alice, Alachua County, Florida. Ecol. Monogr. 39:245-270."	y	y	in progress								
 Snowy Egret	Ardeidae	2000	Diet	Quantitative Analysis	"Post, W. 1990. Nest survival in a large ibis-heron colony during a three-year decline to extinction. Colon. Waterbirds 13:50-61."	y	y	entered								
 Snowy Egret	Ardeidae	2000	Diet	Quantitative Analysis	"Telfair II, R. C. 1981. Cattle Egrets (Ardeola ibis ibis), inland heronries, and the availability of crayfish. Southwest. Nat. 26:37-42."											
 Snowy Egret	Ardeidae	2000	Feeding	Microhabitat For Foraging	"Willard, D. E. 1977. The feeding ecology and behavior of 5 species of herons in southeastern New Jersey. Condor 79:462-470."											
