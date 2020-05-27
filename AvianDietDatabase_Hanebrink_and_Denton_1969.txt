@@ -1,0 +1,20 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Little Blue Heron	Egretta caerulea		Ardeidae	eBird Taxonomy 2019	NA	NA	NA	NA	NA	Arkansas	Luxora Heronry	NA	5	1968	7	1968			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.004	Items	750			Emetic		MMS	
+																			Animalia						Cambarus	NA	Yes			NA	NA	Crayfish	0.547	Items							
+																			Animalia			Anostraca	NA	NA	NA	NA	Yes			NA	NA	Fairy shrimp	0.001	Items							
+																			Animalia				Anisoptera	NA	NA	NA	Yes			nymph	NA		0.004	Items							
+																			Animalia			Orthoptera	NA	NA	NA	NA	No			NA	NA	Grasshoppers	0.06	Items							
+																			Animalia					Gryllidae	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia					Carabidae	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia					Dytiscidae	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia					Elateridae	NA	NA	Yes			NA	NA		0.003	Items							
+																			Animalia					Pentatomidae	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia					Noctuidae	NA	NA	Yes			larva	NA		0.001	Items							
+																			Animalia					Tabanidae	NA	NA	Yes			NA	NA		0.001	Items							
+																			Animalia			Diptera	NA	NA	NA	NA	No			larva	NA		0.008	Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
