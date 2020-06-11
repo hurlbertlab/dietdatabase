@@ -2348,6 +2348,7 @@ Reddish Egret	Ardeidae	2002	Feeding	Food Capture And Consumption	"Rodgers, Jr., 
 Reddish Egret	Ardeidae	2002	Feeding	Food Capture And Consumption	"Meyerriecks, A. J. 1959. Foot-stirring feeding behavior in herons. Wilson Bull. 71:153-159."	y	n									
 Reddish Egret	Ardeidae	2002	Diet	Quantitative Analysis	"Mcmurry, S. L. 1971. Nesting and development of the Reddish Egret (Dichromanassa rufescens Gmelin) on a spoil bank chain in the Laguna Madre. Master's Thesis. Texas A & I Univ. Kingsville."											
 Reddish Egret	Ardeidae	2002	Diet	Quantitative Analysis	"Paul, R. T. 1996. Reddish Egret Egretta rufescens. Pages 281-294 in Rare and endangered biota of Florida. Vol. V (Rogers, Jr., J. A., H. W. Kale, II, and H. T. Smith, Eds.) Birds. Univ. of Florida Press, Gainesville."	n		unavailable								
+Reddish Egret	Ardeidae	2014	Diet		"Holderby, Z., A. Hill, E. Palacios, M. C. Green, E. Amador and C. de Dios. 2014. Comparisons of Reddish Egret (Egretta rufescens) diet during the breeding season across its geographic range. Waterbirds 37:136-143."	y	y	entered								
 Snowy Egret	Ardeidae	2000	Feeding	Food Capture And Consumption	"Erwin, R. M. 1989. Predator-prey interactions, resource depression and patch revisitation. Behav. Processes 18:1-16."	n		unavailable								
 Snowy Egret	Ardeidae	2000	Feeding	Food Capture And Consumption	"Itzkowitz, M. 1984. Foraging Behavior of the Snowy Egret Egretta thula. Biol. Behav. 9:357-370."											
 Snowy Egret	Ardeidae	2000	Feeding	Food Capture And Consumption	"Maccarone, A. D. and K. C. Parsons. 1988. Differences in flight patterns among nesting ibises and egrets. Colon. Waterbirds 11:67-71."	y	n									
@@ -2398,6 +2399,7 @@ Snowy Egret	Ardeidae	2000	Feeding	Microhabitat For Foraging	"Kushlan, J. A. 1976
 Snowy Egret	Ardeidae	2000	Feeding	Main Foods Taken	"Kushlan, J. A. 1978b. Nonrigorous foraging by robbing egrets. Ecology 59:649-653."	y	n									
 Snowy Egret	Ardeidae	2000	Feeding	Microhabitat For Foraging	"Parnell, J. F. and R. F. Soots, Jr. 1978. Use of dredge islands by wading birds. Pages 105-111 in Wading birds. (Sprunt IV, A., J. C. Ogden, and S. Winckler, Eds.) Natl. Audubon Soc. Res. Rep. no. 7, New York."											
 Snowy Egret	Ardeidae	2009	Diet		"Denis, D. and A. Jimenez. 2009. Nestling diet in five species of herons and egrets in Birama Swamp, Cuba. J. Carib. Ornithol. 22:26-31."	y	y	entered								
+Snowy Egret	Ardeidae	2018	Diet		"May, J. C. 2018. Diet and nesting habitat of wading bids in a shallow eutrophic lake. Master's Thesis. Florida Atlantic Univ. Boca Raton, FL."	y	y	in progress								
 Tricolored Heron	Ardeidae	1997	Feeding	Microhabitat For Foraging	"Bent, A. C. 1926. Life histories of North American marsh birds. U.S. Natl. Mus. Bull. 135."	y	n									
 Tricolored Heron	Ardeidae	1997	Feeding	Food Capture And Consumption	"Meyerriecks, A. 1971. Further observations on use of the feet by foraging herons. Wilson Bull. 83:435-438."	y	n									
 Tricolored Heron	Ardeidae	1997	Feeding	Food Capture And Consumption	"Rodgers, Jr., J. A. 1971. Additional observations on hover-feeding by North American ardeids. Wilson Bull. 87:420."											
