@@ -2340,6 +2340,7 @@ Little Blue Heron	Ardeidae	2020	Diet	Major Food Items	"Baynard, O. E. 1912. Food
 Little Blue Heron	Ardeidae	2020	Diet	Major Food Items	"Parsons, K. C. 1994b. The Pea Patch Island wader colony: a proactive plan for natural resource protection and management. Manomet, MA: Manomet Bird Observatory."											
 Little Blue Heron	Ardeidae	2020	Diet	Major Food Items	"Wetmore, A. 1965. The birds of the Republic of Panama. Part 1. Tinamidae (tinamous) to Rynchopidae (skimmers). Smithsonian Miscellaneous Collections 150."	n		unavailable								
 Little Blue Heron	Ardeidae	2020	Diet	Metabolism and Temperature Regulation	"Ellis, H. I. 1980. Metabolism and solar radiation in dark and white herons in hot climates. Physiol. Zool. 53:358–372."	y	n									
+Little Blue Heron	Ardeidae	2010	Feeding		"Martinez, C. 2010. Trophic niche breadth and overlap of three egret species in a neotropical mangrove swamp. Waterbirds 33:285-292."	y	y	entered								
 Reddish Egret	Ardeidae	2002	Feeding	Food Capture And Consumption	"Meyerriecks, A. J. 1960. Comparative breeding behavior of four species of North American herons. Publ. Nuttall Ornithol. Club 2."	y	n									
 Reddish Egret	Ardeidae	2002	Diet	Quantitative Analysis	"Paul, R. T. 1991. Status report-Egretta rufescens (Gmelin) Reddish Egret. U.S. Fish Wildl. Serv. Houston, TX."			ask again later								
 Reddish Egret	Ardeidae	2002	Feeding	Main Foods Taken	"Cahn, A. R. 1923. Louisiana Herons and Reddish Egrets at home. Nat. Hist. 23:470-485."			requested								
@@ -2403,6 +2404,7 @@ Snowy Egret	Ardeidae	2009	Diet		"Denis, D. and A. Jimenez. 2009. Nestling diet i
 Snowy Egret	Ardeidae	2018	Diet		"May, J. C. 2018. Diet and nesting habitat of wading bids in a shallow eutrophic lake. Master's Thesis. Florida Atlantic Univ. Boca Raton, FL."	y	y	entered								
 Snowy Egret	Ardeidae	2020	Feeding		"De Dios Arcos, C., M. Badillo-Aleman, D. Arceo-Carranza and X. Chiappa-Carrara. 2020. Feeding ecology of the waterbirds in a tropical mangrove in the southeast Gulf of Mexico. Stud. Neotrop. Fauna E. 55:1-9."	y	y	entered								
 Snowy Egret	Ardeidae	2012	Diet		"Boyle, R. A., N. J. Dorn and M. I. Cook. 2012. Nestling diet of three sympatrically nesting wading bird species in the Florida Everglades. Waterbirds 35:154-159."	y	y	entered								
+Snowy Egret	Ardeidae	2010	Feeding		"Martinez, C. 2010. Trophic niche breadth and overlap of three egret species in a neotropical mangrove swamp. Waterbirds 33:285-292."	y	y	entered								
 Tricolored Heron	Ardeidae	1997	Feeding	Microhabitat For Foraging	"Bent, A. C. 1926. Life histories of North American marsh birds. U.S. Natl. Mus. Bull. 135."	y	n									
 Tricolored Heron	Ardeidae	1997	Feeding	Food Capture And Consumption	"Meyerriecks, A. 1971. Further observations on use of the feet by foraging herons. Wilson Bull. 83:435-438."	y	n									
 Tricolored Heron	Ardeidae	1997	Feeding	Food Capture And Consumption	"Rodgers, Jr., J. A. 1971. Additional observations on hover-feeding by North American ardeids. Wilson Bull. 87:420."											
@@ -2435,6 +2437,7 @@ Tricolored Heron	Ardeidae	1997	Metabolism And Temperature Regulation		"Caldwell,
 Tricolored Heron	Ardeidae	2009	Diet		"Denis, D. and A. Jimenez. 2009. Nestling diet in five species of herons and egrets in Birama Swamp, Cuba. J. Carib. Ornithol. 22:26-31."	y	y	entered								
 Tricolored Heron	Ardeidae	2018	Diet		"May, J. C. 2018. Diet and nesting habitat of wading bids in a shallow eutrophic lake. Master's Thesis. Florida Atlantic Univ. Boca Raton, FL."	y	y	entered								
 Tricolored Heron	Ardeidae	2012	Diet		"Boyle, R. A., N. J. Dorn and M. I. Cook. 2012. Nestling diet of three sympatrically nesting wading bird species in the Florida Everglades. Waterbirds 35:154-159."	y	y	entered								
+Tricolored Heron	Ardeidae	2010	Feeding		"Martinez, C. 2010. Trophic niche breadth and overlap of three egret species in a neotropical mangrove swamp. Waterbirds 33:285-292."	y	y	entered								
 Bohemian Waxwing	Bombycillidae	2002	Nutrition And Energetics		"Berthold, P. 1976. The control and significance of animal and vegetable nutrition in omnivorous songbirds. Ardea 64:140-154."	n		unavailable								
 Bohemian Waxwing	Bombycillidae	2002	Diet	Major Food Items	"Sharpe, R. S., W. R. Silcock, and J. G. Jorgensen. 2001. The birds of Nebraska: their ecology and distri-bution. Univ of Nebraska Press, Lincoln."	y	n									
 Bohemian Waxwing	Bombycillidae	2002	Nutrition And Energetics		"Pulliainen, E., P. Helle, and P. Tunkkari. 1981. Adaptive radiation of the digestive system, heart and wings of Turdus pilaris, Bombycilla garrulus, Sturnus vulgaris, Pyrrhula pyrrhula, Pinicola enucleator and Loxia pytoyopsittacus. Ornis Fenn. 58:21-28."	n		unavailable								
