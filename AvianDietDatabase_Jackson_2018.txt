@@ -1,0 +1,91 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Tricolored Heron	Egretta tricolor		Ardeidae	eBird Clements Checklist v2019	-80.5903	25.92025	NA	NA	NA	Florida	Everglades	wetland	NA	2015	NA	2017			Animalia							Hemichromis letourneuxi	Yes			NA	NA	African jewelfish	0.12	Wt_or_Vol	2439	183	4	Emetic	Data collected during nesting season; bird sample size reflects number of regurgitations	MMS	
+																			Animalia							Lucania goodei	Yes			NA	NA	Bluefin killifish	0.03	Wt_or_Vol							
+																			Animalia							Oreochromis aureus	Yes			NA	NA	Blue tilapia	0.005	Wt_or_Vol							
+																			Animalia							Lepomis macrochirus	Yes			NA	NA	Bluegill		Wt_or_Vol							
+																			Animalia							Enneacanthus gloriosus	Yes			NA	NA	Bluespotted sunfish	0.01	Wt_or_Vol							
+																			Animalia							Labidesthes sicculus	Yes			NA	NA	Brook silverside	0.005	Wt_or_Vol							
+																			Animalia							Hoplosternum littorale	Yes			NA	NA	Brown hoplo		Wt_or_Vol							
+																			Animalia							Adinia xenica	Yes			NA	NA	Diamond killifish		Wt_or_Vol							
+																			Animalia							Lepomis marginatus	Yes			NA	NA	Dollar sunfish	0.005	Wt_or_Vol							
+																			Animalia							Gambusia affinis	Yes			NA	NA	Eastern mosquitofish	0.11	Wt_or_Vol							
+																			Animalia							Elassoma evergladei	Yes			NA	NA	Everglades pygmy sunfish	0.005	Wt_or_Vol							
+																			Animalia							Jordanella floridae	Yes			NA	NA	Flagfish	0.11	Wt_or_Vol							
+																			Animalia							Notemigonus crysoleucas	Yes			NA	NA	Golden shiner		Wt_or_Vol							
+																			Animalia							Fundulus chrysotus	Yes			NA	NA	Golden topminnow	0.18	Wt_or_Vol							
+																			Animalia							Floridichthys carpio	Yes			NA	NA	Goldspotted killifish	0.005	Wt_or_Vol							
+																			Animalia							Parachromis managuensis	Yes			NA	NA	Jaguar cichlid		Wt_or_Vol							
+																			Animalia							Micropterus salmoides	Yes			NA	NA	Largemouth bass	0.01	Wt_or_Vol							
+																			Animalia							Heterandria formosa	Yes			NA	NA	Least killifish	0.01	Wt_or_Vol							
+																			Animalia							Fundulus confluentus	Yes			NA	NA	Marsh killifish	0.07	Wt_or_Vol							
+																			Animalia							Cichlasoma urophthalma	Yes			NA	NA	Mayan cichlid	0.01	Wt_or_Vol							
+																			Animalia							Pterygoplichthys multiradiatus	Yes			NA	NA	Orinoco sailfin catfish	0.03	Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
