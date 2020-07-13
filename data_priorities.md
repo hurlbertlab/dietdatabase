@@ -91,6 +91,7 @@ Note that Families for which I know that data remain to be entered are highlight
 ### Pelecaniformes
 --Pelecanidae    
 --Threskiornithidae  
+--Ardeidae  
 
 ----------
 
@@ -106,11 +107,8 @@ A secondary set of Orders to enter after the above are finished. When they have 
 --Recurvirostridae  
 --Stercorariidae  
 
-### Pelecaniformes
---Ardeidae (Melissa)  
-
 ### Phaethontiformes
---Phaethontidae  
+--Phaethontidae (Melissa)  
 
 ### Podicipediformes
 --Podicipedidae  
