@@ -1,38 +1,90 @@
 Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Peromyscus maniculatus	yes					Deer Mouse	0.022	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Urocyon littoralis	yes					Island Fox	0.05	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Spilogale gracilis amphialus	yes					Channel Island Spotted Skunk	0.006	Items	181		6	Nest debris	Spilogale gracilis amphiala invalid	JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Sus scrofa	yes					Feral Pig	0.431	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Ovis aries	yes					European Mouflon Sheep	0.017	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Phalacrocorax auritus/penicillatus	yes					Double-crested/Brandt's Cormorant	0.05	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Larus argentatus	yes					Herring Gull	0.011	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Larus californicus	yes					California Gull	0.011	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Larus occidentalis	yes					Western/Glaucous-winged Gull	0.238	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Falco sparverius	yes					American Kestrel	0.006	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Callipepla californica	yes					California Quail	0.028	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Zenaida macroura	yes					Mourning Dove	0.006	Items	181		6	Nest debris		JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2002		2006										Corvus corax	yes					Common Raven	0.127	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Peromyscus maniculatus	yes					Deer Mouse	0.022	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Urocyon littoralis	yes					Island Fox	0.05	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Spilogale gracilis amphialus	yes					Channel Island Spotted Skunk	0.006	Items	181		6	Nest debris	Spilogale gracilis amphiala invalid	JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Sus scrofa	yes			Juvenile		Feral Pig	0.431	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Ovis aries	yes					European Mouflon Sheep	0.017	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Phalacrocorax auritus/penicillatus	yes					Double-crested/Brandt's Cormorant	0.05	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Larus argentatus	yes					Herring Gull	0.011	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Larus californicus	yes					California Gull	0.011	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Larus occidentalis	yes					Western/Glaucous-winged Gull	0.238	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Falco sparverius	yes					American Kestrel	0.006	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Callipepla californica	yes					California Quail	0.028	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Zenaida macroura	yes					Mourning Dove	0.006	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Corvus corax	yes					Common Raven	0.127	Items	181		6	Nest debris		JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Peromyscus maniculatus						Deer Mouse	0.149	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Urocyon littoralis						Island Fox	0.054	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Spilogale gracilis amphialus						Western spotted skunk	0.07	Items	242		4		Spilogale gracilis amphiala invalid	JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Odocoileus hemionus				Juvenile		Mule deer	0.132	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Cervus elaphus canadensis				Juvenile		Elk	0.004	Items	242		4		Cervus canadensis invalid	JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Phalacrocorax auritus/penicillatus						Double-crested/Brandt's Cormorant	0.054	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Phalacrocorax pelagicus						Pelagic cormorant	0.041	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Anas strepera						Gadwall	0.012	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Anas platyrhynchos						Mallard	0.087	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Buteo jamaicensis						Red-tailed hawk	0.004	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Falco peregrinus						Peregrine falcon	0.004	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Tyto alba						Barn owl	0.059	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Lanius ludovicianus						Loggerhead shrike	0.004	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Corvus corax						Common raven	0.277	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Zonotrichia leucophrys						White-crowned sparrow	0.004	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Sturnella neglecta						Western meadowlark	0.008	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Molothrus ater						Brown-headed cowbird	0.004	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Elgaria multicarinata						Southern alligator lizard	0.021	Items	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Pituophis catenifer pumilis						Santa Cruz gopher snake	0.012	Items	242		4		Pituophis catenifer pumilus invalid	JF	
 																																									
 																																									
 																																									
 																																									
 																																									
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Peromyscus maniculatus						Deer Mouse			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Urocyon littoralis						Island Fox			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Spilogale gracilis amphialus						Western spotted skunk			242		4		Spilogale gracilis amphiala invalid	JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Odocoileus hemionus						Mule deer			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Cervus elaphus canadensis						Elk			242		4		Cervus canadensis invalid	JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Phalacrocorax auritus/penicillatus						Double-crested/Brandt's Cormorant			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Phalacrocorax pelagicus						Pelagic cormorant			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Anas strepera						Gadwall			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Anas platyrhynchos						Mallard			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Buteo jamaicensis						Red-tailed hawk			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Falco peregrinus						Peregrine falcon			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Tyto alba						Barn owl			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Lanius ludovicianus						Loggerhead shrike			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Corvus corax						Common raven			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Zonotrichia leucophrys						White-crowned sparrow			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Sturnella neglecta						Western meadowlark			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Molothrus ater						Brown-headed cowbird			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Elgaria multicarinata						Southern alligator lizard			242		4			JF	
-Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Rosa Island			2002		2006										Pituophis catenifer pumilis						Santa Cruz gopher snake			242		4		Pituophis catenifer pumilus invalid	JF	
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Peromyscus maniculatus	yes					Deer Mouse	0.00025	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Urocyon littoralis	yes					Island Fox	0.059	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Spilogale gracilis amphialus	yes					Channel Island Spotted Skunk	0.0018	Wt_or_Vol	181		6		Spilogale gracilis amphiala invalid	JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Sus scrofa	yes			Juvenile		Feral Pig	0.632	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Ovis aries	yes					European Mouflon Sheep	0.022	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Phalacrocorax auritus/penicillatus	yes					Double-crested/Brandt's Cormorant	0.057	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Larus argentatus	yes					Herring Gull	0.0074	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Larus californicus	yes					California Gull	0.0039	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Larus occidentalis	yes					Western/Glaucous-winged Gull	0.122	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Falco sparverius	yes					American Kestrel	0.0004	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Callipepla californica	yes					California Quail	0.028	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Zenaida macroura	yes					Mourning Dove	0.00025	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2002		2006										Corvus corax	yes					Common Raven	0.089	Wt_or_Vol	181		6			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Peromyscus maniculatus						Deer Mouse	0.002	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Urocyon littoralis						Island Fox	0.085	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Spilogale gracilis amphialus						Western spotted skunk	0.031	Wt_or_Vol	242		4		Spilogale gracilis amphiala invalid	JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Odocoileus hemionus				Juvenile		Mule deer	0.346	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Cervus elaphus canadensis				Juvenile		Elk	0.014	Wt_or_Vol	242		4		Cervus canadensis invalid	JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Phalacrocorax auritus/penicillatus						Double-crested/Brandt's Cormorant	0.082	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Phalacrocorax pelagicus						Pelagic cormorant	0.06	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Anas strepera						Gadwall	0.009	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Anas platyrhynchos						Mallard	0.077	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Buteo jamaicensis						Red-tailed hawk	0.004	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Falco peregrinus						Peregrine falcon	0.002	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Tyto alba						Barn owl	0.024	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Lanius ludovicianus						Loggerhead shrike	0.00025	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Corvus corax						Common raven	0.258	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Zonotrichia leucophrys						White-crowned sparrow	0.00025	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Sturnella neglecta						Western meadowlark	0.001	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Molothrus ater						Brown-headed cowbird	0.00025	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Elgaria multicarinata						Southern alligator lizard	0.001	Wt_or_Vol	242		4			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Rosa Island			2002		2006										Pituophis catenifer pumilis						Santa Cruz gopher snake	0.005	Wt_or_Vol	242		4		Pituophis catenifer pumilus invalid	JF	
+																																									
+																																									
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2007		2007										Urocyon littoralis						Island Fox		Items		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Phalacrocorax pelagicus						Pelagic cormorant		Items		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Larus occidentalis						Western/glaucous-winged gull		Items		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Falco sparverius						American kestrel		Items		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Callipepla californica						California quail		Items		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Corvus corax						Common raven		Items		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBird Taxonomy 2019						California	Santa Cruz Island			2007		2007										Urocyon littoralis						Island Fox		Wt_or_Vol		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Phalacrocorax pelagicus						Pelagic cormorant		Wt_or_Vol		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Larus occidentalis						Western/glaucous-winged gull		Wt_or_Vol		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Falco sparverius						American kestrel		Wt_or_Vol		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Callipepla californica						California quail		Wt_or_Vol		2	1			JF	
+Golden Eagle	Aquila chrysaetos		Accipitridae 	eBrid Taxonomy 2019						California	Santa Cruz Island			2007		2007										Corvus corax						Common raven		Wt_or_Vol		2	1			JF	
