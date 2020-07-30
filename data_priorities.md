@@ -93,6 +93,9 @@ Note that Families for which I know that data remain to be entered are highlight
 --Threskiornithidae  
 --Ardeidae  
 
+### Phaethontiformes
+--Phaethontidae  
+
 ----------
 
 A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
@@ -105,13 +108,10 @@ A secondary set of Orders to enter after the above are finished. When they have 
 --Jacanidae  
 --Laridae  
 --Recurvirostridae  
---Stercorariidae  
-
-### Phaethontiformes
---Phaethontidae (Melissa)  
+--Stercorariidae   
 
 ### Podicipediformes
---Podicipedidae  
+--Podicipedidae  (Melissa)  
 
 ### Procellariiformes
 --Diomedeidae  
