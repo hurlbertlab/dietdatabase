@@ -98,26 +98,33 @@ $speciesPerFamily
 
 ## QA/QC: Checking for outliers, typos, and invalid values.
 We use the 'qa_qc()' function to conduct a basic check to catch any obvious errors. The purpose of this 
-QA/QC check is to point out records that should be double-checked or possibly corrected. Let's work through
+QA/QC check is to standardize the case (e.g. upper vs lower) of records, trim accidental leading or trailing whitespace in text strings, and to point out records that should be double-checked or possibly corrected. Let's work through
 the printed results.
+
+By default this function will write a new file using a name you specify with automatically standardized text fields. It is this new file that you will follow up with to correct any further errors that were identified.
 ```
-> qa_qc(dietdb, fracsum_accuracy = 0.02)
+> qa_qc(dietdb, write = TRUE, filename = 'cleaned_dietdb.txt', fracsum_accuracy = 0.02)
+Problems were identified in some of the bird names as well as in the following fields: Taxonomy, Habitat_type, Prey_Stage, Prey_Part, Location_Region .  Refer to the output below (or in the saved object) for details. Pay particular attention to any fields in the QA/QC output that are not 'OK'.   A cleaned database file with standardized upper/lower cases and trimmed white space was saved as 'cleaned_dietdb.txt'. Be sure to use this file rather than the original for further cleaning.
+
 $Problem_bird_names
-    Common_Name    Scientific_Name      Family
-1 Swamp Sparrow Melospiza georgina Emberizidae
+             Common_Name         Scientific_Name      Family
+1         Eastern Towhee Pipilo erythrophthalmus Emberizidae
+2          Swamp Sparrow     Melospiza georgiana Emberizidae
+3          Swamp Sparrow      Melospiza georgina Emberizidae
+4 White-throated Sparrow  Zonotrichia albicollis Emberizidae
 ```
 The `$Problem_bird_names` section highlights any species that either 1) have a typo or invalid name for either the common name, scientific
 name, or family name, or 2) have an error in the family assignment or scientific name assignment to the given common name. In this
-case, a quick search of the eBird checklist reveals the scientific name should be 'Melospiza georgiana'. If a name is listed here as problematic but you cannot see any typos, try checking for leading or trailing spaces in the names. E.g., ' Melospiza georgiana'. 
+case, there is a typo in 'Melospiza georgina' (which should be 'georgiana'). Also, the name for the family of New World Sparrows has changed from 'Emberizidae' to Passerellidae', so all of these sparrow species are being flagged. 
 
 ```
 $Taxonomy
                         Taxonomy n
 1 eBird Clements Checklist v2015 1
+2 eBird Clements Checklist v2016 11
 ```
 Non-name based text fields are checked against accepted values. If no problems are detected then the field is "OK". Otherwise,
-a table of unaccepted names (or possible typos) and their frequency are provided. In this case this is an out of date taxonomy
-and should be verified or corrected if necessary.
+a table of unaccepted names (or possible typos) and their frequency are provided. Bird species names should use the most recent eBird Clements taxonomy, and in this case out of date taxonomies have been used. 
 
 ```
 $Longitude_dd
