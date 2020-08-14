@@ -257,7 +257,7 @@ This is a big task, so we've got a separate page on it [here](https://github.com
 One all typos, outliers, unaccepted values, and invalid taxonomic names have been corrected for the study you have entered, 
 you may now incorporate these records into the main Avian Diet Database. The easiest way to do this is to
 1) make sure you have the latest version of all files by typing `git pull origin master` in Git,
-2) open your cleaned file (e.g. 'AvianDietDatabase_Beaver_and_Baldwin_1975.txt'),
+2) open your cleaned file (e.g. 'AvianDietDatabase_Beaver_and_Baldwin_1975_clean.txt'),
 3) copy everything EXCEPT the header row,
 4) open the main database file ('AvianDietDatabase.txt'),
 5) paste the new cleaned records at the bottom and save the file,
