@@ -41,10 +41,35 @@ Horned Grebe	Podiceps auritus		Podicipedidae	eBird_Taxonomy_v2019	NA	NA	NA	NA	NA
 																			Animalia							Haliplus ruficollis	Yes			NA	NA		0.008	Occurrence							
 																			Animalia							Haliplus connexus	Yes			NA	NA		0.008	Occurrence							
 																			Animalia						Haliplus	NA	No			NA	NA		0.025	Occurrence							
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
+																			Animalia							Peltodytes callosus	Yes			NA	NA		0.008	Occurrence							
+																			Animalia							Peltodytes duodecimpunctatus	Yes			NA	NA		0.008	Occurrence							
+																			Animalia							Peltodytes edentulus	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Hygrotus	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Hydroporus	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Agabus	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia							Colymbetes sculptilis	Yes			NA	NA		0.008	Occurrence							
+																									Colymbetes	NA	No			NA	NA		0.008	Occurrence							
+																								Dytiscidae	NA	NA	No			larva	NA		0.016	Occurrence							
+																								Dytiscidae	NA	NA	No			adult	NA		0.057	Occurrence							
+																								Gyrinidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																									Tropisternus	NA	Yes			NA	NA		0.041	Occurrence							
+																										Hydrochara obtusata	Yes			NA	NA		0.008	Occurrence							
+																									Berosus	NA	Yes			NA	NA		0.016	Occurrence							
+																										Hydrobius melaenus	Yes			NA	NA		0.008	Occurrence							
+																										Hydrobius fuscipes	Yes			NA	NA		0.008	Occurrence							
+																								Hydrophilidae	NA	NA	No			NA	NA		0.041	Occurrence							
+																								Staphylinidae	NA	NA	Yes			larva	NA		0.008	Occurrence							
+																								Staphylinidae	NA	NA	Yes			adult	NA		0.008	Occurrence							
+																									Saprinus	NA	Yes			NA	NA		0.008	Occurrence							
+																								Nitidulidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																									Heterocerus	NA	Yes			NA	NA		0.008	Occurrence							
+																								Elateridae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																								Buprestidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																										Chilothorax distinctus	Yes			NA	NA		0.049	Occurrence							
+																									Aphodius	NA	Yes			NA	NA		0.016	Occurrence							
+																								Cerambycidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																									Donacia	NA	Yes			NA	NA		0.008	Occurrence							
+																								Chrysomelidae	NA	NA	No			NA	NA		0.008	Occurrence							
+																								Curculionidae	NA	NA	No			NA	NA		0.008	Occurrence							
+																									Tomicus	NA	Yes			NA	NA		0.008	Occurrence							
+																									Rhynchophorus	NA	Yes			NA	NA		0.033	Occurrence					Listed as Unidentified Rhynchophora		
