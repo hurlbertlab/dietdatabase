@@ -150,6 +150,71 @@ checksum = function(diet, accuracy = 0.05) {
 }
 
 
+# Modification of taxize::taxize_capwords() so that it does not fail on an empty string
+
+taxize_capwords0 = function(s, strict = FALSE, onlyfirst = FALSE) {
+  
+  cap = sapply(s, function(x) {
+    if (x == "" | is.na(x)) {
+      ""
+    } else {
+      taxize_capwords(x, strict, onlyfirst)
+    }
+  })
+  return(cap)
+}
+
+
+
+# Function for ensuring standardization of capital/lower case and trimming whitespace
+standardizing_case_and_whitespace = function(diet, write = FALSE, filename = NULL) {
+
+  if (write & is.null(filename)) {
+    stop("Please specify a filename for the cleaned file.")
+  }
+
+  dietOut = diet
+  dietOut$Common_Name = trimws(taxize_capwords(diet$Common_Name))
+  dietOut$Scientific_Name = taxize_capwords(trimws(diet$Scientific_Name), onlyfirst = TRUE)
+  dietOut$Subspecies = trimws(tolower(diet$Subspecies))
+  dietOut$Family = trimws(taxize_capwords(diet$Family))
+  dietOut$Location_Region = trimws(taxize_capwords(diet$Location_Region))
+  dietOut$Location_Region = gsub(",", ";", dietOut$Location_Region)
+  dietOut$Location_Specific = gsub("Multiple", "multiple", diet$Location_Specific)
+  dietOut$Habitat_type = trimws(tolower(diet$Habitat_type))
+  dietOut$Habitat_type = gsub(",", ";", dietOut$Habitat_type)
+  dietOut$Observation_Season = trimws(tolower(diet$Observation_Season))
+  dietOut$Observation_Season = gsub(",", ";", dietOut$Observation_Season)
+  dietOut$Prey_Kingdom = trimws(taxize_capwords0(diet$Prey_Kingdom))
+  dietOut$Prey_Phylum = trimws(taxize_capwords0(diet$Prey_Phylum))
+  dietOut$Prey_Class = trimws(taxize_capwords0(diet$Prey_Class))
+  dietOut$Prey_Order = trimws(taxize_capwords0(diet$Prey_Order))
+  dietOut$Prey_Suborder = trimws(taxize_capwords0(diet$Prey_Suborder))
+  dietOut$Prey_Family = trimws(taxize_capwords0(diet$Prey_Family))
+  dietOut$Prey_Genus = trimws(taxize_capwords0(diet$Prey_Genus))
+  dietOut$Prey_Scientific_Name = taxize_capwords0(trimws(diet$Prey_Scientific_Name), onlyfirst = TRUE)
+  dietOut$Inclusive_Prey_Taxon = trimws(tolower(diet$Inclusive_Prey_Taxon))
+  dietOut$Prey_Name_Status = trimws(tolower(diet$Prey_Name_Status))
+  dietOut$Prey_Stage = trimws(tolower(diet$Prey_Stage))
+  dietOut$Prey_Stage = gsub(",", ";", dietOut$Prey_Stage)
+  dietOut$Prey_Part = trimws(tolower(diet$Prey_Part))
+  dietOut$Prey_Part = gsub(",", ";", dietOut$Prey_Part)
+  dietOut$Diet_Type = trimws(taxize_capwords(diet$Diet_Type))
+  dietOut$Diet_Type = gsub("vol", "Vol", dietOut$Diet_Type)
+  dietOut$Diet_Type = gsub("_Or_", "_or_", dietOut$Diet_Type)
+  dietOut$Study_Type = trimws(tolower(diet$Study_Type))
+  dietOut$Study_Type = gsub("dna", "DNA", dietOut$Study_Type)
+  dietOut$Entered_By = trimws(toupper(diet$Entered_By))
+  dietOut$Source = trimws(diet$Source)
+  
+  if (write) {
+    write.table(dietOut, filename, sep = '\t', row.names = FALSE)
+  }
+  return(dietOut)
+}
+
+
+
 
 # Returns the first row number of every consecutive series of 4 more values
 # (a run of at least 3 consecutive differences of 1)
@@ -170,16 +235,32 @@ checkAutofilledRows  = function(dbField) {
 }
 
 
-qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
+qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) {
   
+  if (write & is.null(filename)) {
+    stop("Please specify a filename for the cleaned file.")
+  }
+  
+  diet = standardizing_case_and_whitespace(dietdb, write, filename)
 
+  problemFields = c()
+  
   probbirdnames = bird_name_clean(diet)
+  
+  if (nrow(probbirdnames) > 0) {
+    probbirdtext = "some of the bird names as well as in"
+  } else {
+    probbirdtext = ""
+  }
+  
   
   taxonomy = count(diet, Taxonomy) %>% 
     filter(!Taxonomy %in% c('eBird Clements Checklist v2016', 'eBird Clements Checklist v2017')) %>%
     data.frame()
   if (nrow(taxonomy) == 0) {
     taxonomy = "OK"
+  } else {
+    problemFields = c(problemFields, "Taxonomy")
   }
   
   
@@ -216,6 +297,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
       season = "OK"
     } else {
       names(season) = c('Observation_Season', 'n')
+      problemFields = c(problemFields, "Observation_Season")
     }
 
   
@@ -237,6 +319,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
       habitat = "OK"
     } else {
       names(habitat) = c('Habitat_type', 'n')
+      problemFields = c(problemFields, "Habitat_type")
     }
   }
   
@@ -255,6 +338,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
       stage = "OK"
     } else {
       names(stage) = c('Prey_Stage', 'n')
+      problemFields = c(problemFields, "Prey_Stage")
     }
   }
   
@@ -274,6 +358,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
       part = "OK"
     } else {
       names(part) = c('Prey_Part', 'n')
+      problemFields = c(problemFields, "Prey_Part")
     }
   }
   
@@ -284,6 +369,8 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     data.frame()
   if (nrow(diettype) == 0) {
     diettype = "OK"
+  } else {
+    problemFields = c(problemFields, "Diet_Type")
   }
     
 
@@ -302,6 +389,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
       studytype = "OK"
     } else {
       names(studytype) = c('Study_Type', 'n')
+      problemFields = c(problemFields, "Study_Type")
     }
   }
     
@@ -338,6 +426,7 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
       region = "OK"
     } else {
       names(region) = c('Location_Region', 'n')
+      problemFields = c(problemFields, "Location_Region")
     }
   }
   
@@ -351,9 +440,6 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
     fraction_sum_check = "OK"
   }
   
-  if(write) {
-    
-  }
   
   output = list(Problem_bird_names = probbirdnames,
                 Taxonomy = taxonomy, 
@@ -381,6 +467,17 @@ qa_qc = function(diet, write = FALSE, filename = NULL, fracsum_accuracy = .03) {
                 Study_Type = studytype, 
                 Fraction_sum_check = fraction_sum_check)
   
+  if (write) {
+    writetext = paste("A cleaned database file with standardized upper/lower cases and trimmed white space was saved as '", filename, "'. Be sure to use this file rather than the original for further cleaning.", sep = "")
+  } else {
+    writetext = ""
+  }
+  
+  if (length(problemFields) > 0) {
+    cat(paste("Problems were identified in", probbirdtext, "the following fields:", paste0(problemFields, collapse = ", "), 
+                ".  Refer to the output below (or in the saved object) for details. Pay particular attention to any fields in the QA/QC output that are not 'OK'.  ", writetext, 
+              "\n\n"))
+  }
   return(output)
 }
 
