@@ -48,28 +48,210 @@ Horned Grebe	Podiceps auritus		Podicipedidae	eBird_Taxonomy_v2019	NA	NA	NA	NA	NA
 																			Animalia						Hydroporus	NA	Yes			NA	NA		0.008	Occurrence							
 																			Animalia						Agabus	NA	Yes			NA	NA		0.008	Occurrence							
 																			Animalia							Colymbetes sculptilis	Yes			NA	NA		0.008	Occurrence							
-																									Colymbetes	NA	No			NA	NA		0.008	Occurrence							
-																								Dytiscidae	NA	NA	No			larva	NA		0.016	Occurrence							
-																								Dytiscidae	NA	NA	No			adult	NA		0.057	Occurrence							
-																								Gyrinidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
-																									Tropisternus	NA	Yes			NA	NA		0.041	Occurrence							
-																										Hydrochara obtusata	Yes			NA	NA		0.008	Occurrence							
-																									Berosus	NA	Yes			NA	NA		0.016	Occurrence							
-																										Hydrobius melaenus	Yes			NA	NA		0.008	Occurrence							
-																										Hydrobius fuscipes	Yes			NA	NA		0.008	Occurrence							
-																								Hydrophilidae	NA	NA	No			NA	NA		0.041	Occurrence							
-																								Staphylinidae	NA	NA	Yes			larva	NA		0.008	Occurrence							
-																								Staphylinidae	NA	NA	Yes			adult	NA		0.008	Occurrence							
-																									Saprinus	NA	Yes			NA	NA		0.008	Occurrence							
-																								Nitidulidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
-																									Heterocerus	NA	Yes			NA	NA		0.008	Occurrence							
-																								Elateridae	NA	NA	Yes			NA	NA		0.008	Occurrence							
-																								Buprestidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
-																										Chilothorax distinctus	Yes			NA	NA		0.049	Occurrence							
-																									Aphodius	NA	Yes			NA	NA		0.016	Occurrence							
-																								Cerambycidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
-																									Donacia	NA	Yes			NA	NA		0.008	Occurrence							
-																								Chrysomelidae	NA	NA	No			NA	NA		0.008	Occurrence							
-																								Curculionidae	NA	NA	No			NA	NA		0.008	Occurrence							
-																									Tomicus	NA	Yes			NA	NA		0.008	Occurrence							
-																									Rhynchophorus	NA	Yes			NA	NA		0.033	Occurrence					Listed as Unidentified Rhynchophora		
+																			Animalia						Colymbetes	NA	No			NA	NA		0.008	Occurrence							
+																			Animalia					Dytiscidae	NA	NA	No			larva	NA		0.016	Occurrence							
+																			Animalia					Dytiscidae	NA	NA	No			adult	NA		0.057	Occurrence							
+																			Animalia					Gyrinidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Tropisternus	NA	Yes			NA	NA		0.041	Occurrence							
+																			Animalia							Hydrochara obtusata	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Berosus	NA	Yes			NA	NA		0.016	Occurrence							
+																			Animalia							Hydrobius melaenus	Yes			NA	NA		0.008	Occurrence							
+																			Animalia							Hydrobius fuscipes	Yes			NA	NA		0.008	Occurrence							
+																			Animalia					Hydrophilidae	NA	NA	No			NA	NA		0.041	Occurrence							
+																			Animalia					Staphylinidae	NA	NA	Yes			larva	NA		0.008	Occurrence							
+																			Animalia					Staphylinidae	NA	NA	Yes			adult	NA		0.008	Occurrence							
+																			Animalia						Saprinus	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia					Nitidulidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Heterocerus	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia					Elateridae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia					Buprestidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia							Chilothorax distinctus	Yes			NA	NA		0.049	Occurrence							
+																			Animalia						Aphodius	NA	Yes			NA	NA		0.016	Occurrence							
+																			Animalia					Cerambycidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Donacia	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia					Chrysomelidae	NA	NA	No			NA	NA		0.008	Occurrence							
+																			Animalia					Curculionidae	NA	NA	No			NA	NA		0.008	Occurrence							
+																			Animalia						Tomicus	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Rhynchophorus	NA	Yes			NA	NA		0.033	Occurrence					Listed as Unidentified Rhynchophora		
+																			Animalia					Chironomidae	NA	NA	Yes			larva	NA		0.016	Occurrence							
+																			Animalia						Tabanus	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia					Muscidae	NA	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Campoplex	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Phaeogenes	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia							Camponotus herculeanus	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Camponotus	NA	No			NA	NA		0.008	Occurrence							
+																			Animalia					Formicidae	NA	NA				NA	NA		0.033	Occurrence							
+																			Animalia							Tiphia inornata	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Lasiglossum	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia							Ceratina dupla	Yes			NA	NA		0.008	Occurrence							
+																			Animalia			Hymenoptera	NA	NA	NA	NA	No			NA	NA		0.033	Occurrence							
+																			Animalia			Araneae	NA	NA	NA	NA	Yes			NA	NA		0.025	Occurrence							
+																			Animalia		Gastropoda	NA	NA	NA	NA	NA	Yes			NA	NA	Snails	0.008	Occurrence							
+																			Animalia							Cyprinus carpio	Yes			NA	NA		0.008	Occurrence							
+																			Animalia					Cyprinidae	NA	NA	No			NA	NA		0.008	Occurrence							
+																			Animalia						Anguilla	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Stolephorus	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia							Gasterosteus aculeatus	Yes			NA	NA		0.016	Occurrence							
+																			Animalia						Menidia	NA	Yes			NA	NA		0.008	Occurrence							
+																			Animalia				Percoidei	NA	NA	NA				NA	NA		0.008	Occurrence							
+																			Animalia							Etheostoma olmstedi	Yes			NA	NA		0.016	Occurrence							
+																			Animalia							Chitonotus pugetensis	Yes			NA	NA		0.008	Occurrence							
+																			Animalia						Cottus	NA	Yes			NA	NA		0.049	Occurrence							
+																			Animalia					Cottidae	NA	NA	No			NA	NA		0.008	Occurrence							
+Eared Grebe	Podiceps nigricollis										Western United States		3	NA	12	NA			Animalia						Nereis	NA	Yes			NA	NA		0.037	Occurrence		27			"Data not collected Jan, Feb, or Aug"		
+																			Animalia						Gammarus	NA	Yes			NA	NA		0.037	Occurrence							
+																			Animalia						Neomysis	NA	Yes			NA	NA		0.037	Occurrence							
+																			Animalia			Lophogastrida	NA	NA	NA	NA	No			NA	NA		0.074	Occurrence							
+																			Animalia				Zygoptera	NA	NA	NA	Yes			NA	NA		0.037	Occurrence							
+																			Animalia					Libellulidae	NA	NA	Yes			nymph	NA		0.037	Occurrence							
+																			Animalia				Anisoptera	NA	NA	NA	No			nymph	NA		0.037	Occurrence							
+																			Animalia			Orthoptera	NA	NA	NA	NA	Yes			NA	NA	Grasshopper	0.037	Occurrence							
+																			Animalia					Reduviidae	NA	NA								Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
