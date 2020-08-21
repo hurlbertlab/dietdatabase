@@ -8429,7 +8429,7 @@ Eared Grebe	Podicipedidae	1999	Feeding	Microhabitat For Feeding	"Jehl, Jr., J. R
 Eared Grebe	Podicipedidae	1999	Metabolism And Temperature Regulation		"Jehl, Jr., J. R. 1994. Field estimates of energetics in migrating and downed Black-necked Grebes. J. Avian Biol. 254:63-68."	y	n									
 Eared Grebe	Podicipedidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Piersma, T. and M. R. Van Eerden. 1989. Feather eating in Great Crested Grebes Podiceps cristatus: a unique solution to the problems of debris and gastric parasites in fish-eating birds. Ibis 131:477-486."			requested								
 Eared Grebe	Podicipedidae	1999	Feeding	Food Capture And Consumption	"Sealy, S. G. 1985. Diving times and parental feeding of young in solitary nesting Eared Grebes. Colon. Waterbirds 8:6366."	y	n									
-Eared Grebe	Podicipedidae	1999	Diet		"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dep. Agric. Bull. 1196."	y	y	in progress								
+Eared Grebe	Podicipedidae	1999	Diet		"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dep. Agric. Bull. 1196."	y	y	entered								
 Eared Grebe	Podicipedidae	1999	Feeding	Food Capture And Consumption	"Carden, R. 1960. Duration of diving of Black-necked Grebes. Br. Birds 53:127."											
 Eared Grebe	Podicipedidae	1999	Diet		"Cooper, S. D., D. W. Winkler, and P. H. Lenz. 1984. The effect of grebe predation on a brine shrimp population. J. Anim. Ecol. 53:51-64."											
 Eared Grebe	Podicipedidae	1999	Feeding	Food Capture And Consumption	"Robertson, H. G. 1981. Group foraging and diurnal activity of Black-necked Grebes at sea. Ostrich 52:248-250."											
@@ -8441,7 +8441,7 @@ Eared Grebe	Podicipedidae	1999	Diet		"Palmer, R. S. 1962. Handbook of North Amer
 Horned Grebe	Podicipedidae	2000	Feeding	Food Capture And Consumption	"King, B. 1971. Group feeding by Slavonian Grebe. Br. Birds 64:372."											
 Horned Grebe	Podicipedidae	2000	Diet	Major Food Items	"Witherby, H. F., F. C. R. Jourdain, N. F. Ticehurst, and B. W. Tucker. 1940. The handbook of British birds. Vol. 4. H. F. & G. Witherby, Ltd. London, U.K."											
 Horned Grebe	Podicipedidae	2000	Feeding	Food Capture And Consumption	"Cramp, S. and K. E. L. Simmons. 1977. The birds of the Western Palearctic, Vol. 1: ostrich to ducks. Oxford Univ. Press, Oxford."											
-Horned Grebe	Podicipedidae	2000	Diet	Major Food Items	"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dep. Agric. Bull. no. 1196."	y	y	in progress								
+Horned Grebe	Podicipedidae	2000	Diet	Major Food Items	"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dep. Agric. Bull. no. 1196."	y	y	entered								
 Horned Grebe	Podicipedidae	2000	Feeding	Food Capture And Consumption	"Aldrich, J. W. 1929. Observations of the Horned Grebe in captivity. Auk 46:527-529."											
 Horned Grebe	Podicipedidae	2000	Nutrition And Energetics		"Hodgson, K. Y. 1979. Operation Horned Grebe. N. Am. Bird Bander 4:110."											
 Horned Grebe	Podicipedidae	2000	Food Selection And Storage		"Fjelds????, J. 1973a. Distribution and geographic variation of the Horned Grebe Podiceps auritus (Linnaeus, 1758). Ornis Scand. 4:55-86."											
@@ -8482,7 +8482,7 @@ Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Fjelds????, J. 198
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Ulenaers, P., J. van Vessem, and A. A. Dhondt. 1992. Foraging of the Great Crested Grebe in relation to food supply. J. Anim. Ecol. 61:659-667."											
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Feeding Associations	"Leck, C. F. 1971. Cooperative feeding inLeucophoyx thula and Podylimbus podiceps (Aves). Am. Midl. Nat. 86:241-242."											
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Foraging Behavior	"King, B. 1985. Pied-billed Grebe feeding on bread. Fla. Field Nat. 13:19."											
-Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dep. Agr., Dep. Bull. 1196:1-23."	y	y	in progress								
+Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dep. Agr., Dep. Bull. 1196:1-23."	y	y	entered								
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Mcallister, N. M. 1963. Ontogeny of behavior in five species of grebes. Ph.D. thesis. Univ. of British Columbia, Vancouver."											
 Pied-billed Grebe	Podicipedidae	1999	Metabolism And Temperature Regulation		"Storer, R. W., W. R. Siegfried, and J. Kinahan. 1976. Sunbathing in grebes. Living Bird 14:45-57."											
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Fjelds????, J. 1983a. Ecological character displacement and character release in grebes Podicipedidae. Ibis 125:463-481."											
