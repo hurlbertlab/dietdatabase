@@ -227,7 +227,7 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
   
   probbirdnames = bird_name_clean(diet)
   
-  if (nrow(probbirdnames) > 0) {
+  if (class(probbirdnames) == 'data.frame') {
     probbirdtext = "some of the bird names as well as in"
   } else {
     probbirdtext = ""
