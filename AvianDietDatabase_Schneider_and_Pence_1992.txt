@@ -29,3 +29,29 @@ Least Bittern	Ixobrychus exilis		Ardeidae	eBird Clements Checklist v2018						Un
 Least Bittern	Ixobrychus exilis		Ardeidae	eBird Clements Checklist v2018						United States	Florida								Animalia	Chordata	Crustacea						yes					crustaceans	0.1	Items		93	1	Stomach contents		GG	"Schneider, K. J. and Pence, D. M. 1992. Migratory nongame birds of management concern in the Northeast."
 Black Tern	Childonias niger		Laridae	eBird Clements Checklist v2018						United States	New York								Animalia	Chordata	Teleostei	Cypriniformes					yes					minnows	0.41	Items		376	1	behvioral observation	"Based on data from Goodwin 1960, not directly available"	GG	"Schneider, K. J. and Pence, D. M. 1992. Migratory nongame birds of management concern in the Northeast."
 Black Tern	Childonias niger		Laridae	eBird Clements Checklist v2018						United States	New York								Animalia	Arthropoda	Insecta						yes					insects	0.59	Items		376	1	behvioral observation		GG	"Schneider, K. J. and Pence, D. M. 1992. Migratory nongame birds of management concern in the Northeast."
+																																									
+																																									
+																																									
+Birds with Usable Data			Other papers?																																						
+Common Loon		n	y																																						
+Pied-Billed Grebe		y?																																							
+American Bittern		y 																																							
+Least Bittern		y 																																							
+Northern Harrier		n	y																																						
+Black Rail		n	y																																						
+Gull-Billed Tern		n	y																																						
+Black Tern		y 																																							
+Short-Eared Owl		y 																																							
+Sedge Wren		n	m																																						
+Seaside Sparrow		y 																																							
+																																									
+Upland Sandpiper		n	y																																						
+Barn Owl		y																																							
+Loggerhead Shrike		n 	y																																						
+Bachman's Sparrow		y																																							
+Henslow's Sparrow		y																																							
+																																									
+Red-Shouldered Hawk																																									
+Olive-Sided Flycatcher																																									
+Golden-Winged Warbler																																									
+Cerulean Warbler																																									
