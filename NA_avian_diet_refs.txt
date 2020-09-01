@@ -8445,8 +8445,8 @@ Horned Grebe	Podicipedidae	2000	Diet	Major Food Items	"Wetmore, A. 1924. Food an
 Horned Grebe	Podicipedidae	2000	Feeding	Food Capture And Consumption	"Aldrich, J. W. 1929. Observations of the Horned Grebe in captivity. Auk 46:527-529."	y	n									
 Horned Grebe	Podicipedidae	2000	Nutrition And Energetics		"Hodgson, K. Y. 1979. Operation Horned Grebe. N. Am. Bird Bander 4:110."	y	n									
 Horned Grebe	Podicipedidae	2000	Food Selection And Storage		"Fjelds????, J. 1973a. Distribution and geographic variation of the Horned Grebe Podiceps auritus (Linnaeus, 1758). Ornis Scand. 4:55-86."	y	n									
-Horned Grebe	Podicipedidae	2000	Feeding	Food Capture And Consumption	"Fjelds????, J. 1973b. Feeding and habitat selection of the Horned Grebe, Podiceps auritus (Aves), in the breeding season. Vidensk. Meddr dansk naturh. Foren. 136:57-95."			requested								
-Horned Grebe	Podicipedidae	2000	Diet	Major Food Items	"Madon, P. 1931. Le Secret du Grebe. Alauda 3:264-310."			requested								
+Horned Grebe	Podicipedidae	2000	Feeding	Food Capture And Consumption	"Fjelds????, J. 1973b. Feeding and habitat selection of the Horned Grebe, Podiceps auritus (Aves), in the breeding season. Vidensk. Meddr dansk naturh. Foren. 136:57-95."	y	y	in progress								
+Horned Grebe	Podicipedidae	2000	Diet	Major Food Items	"Madon, P. 1931. Le Secret du Grebe. Alauda 3:264-310."	y	y	up next								
 Horned Grebe	Podicipedidae	2000	Feeding	Food Capture And Consumption	"Storer, R. W. 1969. The behavior of the Horned Grebe in spring. Condor 71:180-205."	y	n									
 Horned Grebe	Podicipedidae	2000	Diet	Major Food Items	"Preble, E. A. and W. L. McAtee. 1923. A biological survey of the Pribilof Islands, Alaska. N. Am. Fauna no. 46. U.S. Dep. Agric. Washington, D.C."	y	n									
 Horned Grebe	Podicipedidae	2000	Diet	Major Food Items	"Piersma, T. 1988. Body size, nutrient reserves and diet of Red-necked and Slavonian Grebes Podiceps grisegena and P. auritus on Lake IJsselmeer, The Netherlands. Bird Study 35:13-24."	y	y	entered								
