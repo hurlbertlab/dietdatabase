@@ -51,7 +51,7 @@ Loggerhead Shrike		n 	y
 Bachman's Sparrow		y																																							
 Henslow's Sparrow		y																																							
 																																									
-Red-Shouldered Hawk																																									
-Olive-Sided Flycatcher																																									
-Golden-Winged Warbler																																									
-Cerulean Warbler																																									
+Red-Shouldered Hawk		n	y																																						
+Olive-Sided Flycatcher		"yes (beal, check if info has been entered)"																																							
+Golden-Winged Warbler		n																																							
+Cerulean Warbler		y 																																							
