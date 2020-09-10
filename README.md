@@ -130,6 +130,8 @@ of these fields, and how data should be entered. Further instructions about how 
         +urban
 	+tundra  
 	+mudflats  
+	+marine  
+	+lake  
         E.g. "deciduous forest; woodland"
         </td>
   </tr>
