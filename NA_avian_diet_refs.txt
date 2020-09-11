@@ -395,7 +395,7 @@ Osprey	Accipitridae	2002	Metabolism And Temperature Regulation	Metabolism	"Wasse
 Osprey	Accipitridae	2002	Diet	Major Food Items	"Van Daele, L. J. and H. A. Van Daele. 1982. Factors affecting the productivity of Ospreys nesting in west-central Idaho. Condor 84:292-299."	y	y	entered								
 Osprey	Accipitridae	2002	Diet	Major Food Items	"King, M. M. 1988. Osprey preys on tiger salamander. J. Raptor Res. 22:121."	y	y									
 Osprey	Accipitridae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	entered								
-Osprey	Accipitridae	1989	Diet	Major Food Items	"Forbes, L. S. 1989. Prey defences and predator handling behaviour: the dangerous prey hypothesis. Oikos 55:155-158."	y	y	in progress								
+Osprey	Accipitridae	1989	Diet	Major Food Items	"Forbes, L. S. 1989. Prey defences and predator handling behaviour: the dangerous prey hypothesis. Oikos 55:155-158."	y	y	entered								
 Red-shouldered hawk	Accipitridae	2000	Diet		"Bosakowski, T. and D. G. Smith. 1992. Comparative diets of sympatric nesting raptors in the eastern deciduous forest biome. Can. J. Zool. 70:984-992."	y	y	entered								
 Red-shouldered hawk	Accipitridae				"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above								
 Red-shouldered hawk	Accipitridae	Found in Rosenfield and Bielefeldt 1993			Janik and Mosher 1982	n		unavailable								
@@ -8479,7 +8479,7 @@ Least Grebe	Podicipedidae	25-Oct-11	Feeding	"Manner Of Finding, Taking, And Cons
 Least Grebe	Podicipedidae	25-Oct-11	Feeding	"Manner Of Finding, Taking, And Consuming Food"	"Storer, R. W., W. R. Siegfried, and J. Kinahan. 1976. Sunbathing in grebes. Living Bird. 14:45-56."	n		unavailable								
 Least Grebe	Podicipedidae	25-Oct-11	Diet		"Dickey, D. R. and A. J. van Rossem. 1938. The birds of El Salvador. Field Mus. Nat. Hist., Zool. series 23."	n		unavailable								
 Least Grebe	Podicipedidae	25-Oct-11	Diet		"Wetmore, A. 1965. The birds of the Republic of Panama. Smithson. Misc. Coll. 150. Part l."	y	n									
-Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Fjeldsa, J. 1988. Comparative ecology of the Australasian grebes (Aves: Podicipedidae). RAOU report no. 54. R. Australasian Ornithol. Union, Victoria."			requested								
+Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Fjeldsa, J. 1988. Comparative ecology of the Australasian grebes (Aves: Podicipedidae). RAOU report no. 54. R. Australasian Ornithol. Union, Victoria."	y	n									
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Ulenaers, P., J. van Vessem, and A. A. Dhondt. 1992. Foraging of the Great Crested Grebe in relation to food supply. J. Anim. Ecol. 61:659-667."	y	n									
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Feeding Associations	"Leck, C. F. 1971. Cooperative feeding inLeucophoyx thula and Podylimbus podiceps (Aves). Am. Midl. Nat. 86:241-242."	n		unavailable								
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Foraging Behavior	"King, B. 1985. Pied-billed Grebe feeding on bread. Fla. Field Nat. 13:19."	n		unavailable								
@@ -8500,7 +8500,7 @@ Pied-billed Grebe	Podicipedidae	1999	Diet	Major Food Items	"Storer, R. W. 2000. 
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Zusi, R. L. and R. W. Storer. 1969. Osteology and myology of the head and neck of the Pied-billed Grebes (Podilymbus). Misc. Publs. Mus. Zool., Univ. of Michigan no. 139."	y	n									
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Food-Processing	"Storer, R. W. 1971. The behavior of the New Zealand Dabchick. Notornis 18:175-186."	n		unavailable								
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Foraging Behavior	"Jackson, J. A. 1985. A mutualistic feeding association between Boat-tailed Grackles and Pied-billed Grebes. Condor 87:147-148."	y	n									
-Pied-billed Grebe	Podicipedidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Mather, J. R. 1967. Pied-billed Grebe in Yorkshire. Br. Birds 60:290-295."			requested								
+Pied-billed Grebe	Podicipedidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Mather, J. R. 1967. Pied-billed Grebe in Yorkshire. Br. Birds 60:290-295."	y	n									
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Kleptoparasitism	"Muller, M. J. 1995. Pied-billed Grebes nesting on Green Lake, Seattle, Washington. Wash. Birds 4:35-59."											
 Pied-billed Grebe	Podicipedidae	1999	Feeding	Kleptoparasitism	"Bowes, M. A. L. 1969. The life history, ecology, and management of the Giant Pied-billed Grebe (Podilymbus gigas), Lake Atitl????n, Guatemala. Phd Thesis. Cornell Univ. Ithaca, NY."	n		unavailable								
 Pied-billed Grebe	Podicipedidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Piersma, T. and M. R. Van Eerden. 1989. Feather eating in Great Crested Grebes Podiceps cristatus: a unique solution to the problems of debris and gastric parasites in fish-eating birds. Ibis 131:477-486."	y	n									
@@ -8508,7 +8508,7 @@ Pied-billed Grebe	Podicipedidae	1999	"Drinking, Pellet-Casting, And Defecation"	
 Pied-billed Grebe	Podicipedidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Piersma, T. 1988. The annual moult cycle of Great Crested Grebes. Ardea 76:82-95."	y	n									
 Pied-billed Grebe	Podicipedidae	1999	Food Selection And Storage		"Forbes, L. S. 1989. Prey defences and predator handling behaviour: the dangerous prey hypothesis. Oikos 55:155-158."	y	n									
 Pied-billed Grebe	Podicipedidae	1999	"Drinking, Pellet-Casting, And Defecation"		"Storer, R. W. and G. L. Nuechterlein. 1985. An analysis of plumage and morphological characters of the two color forms of the Western Grebe (Aechmorphorus). Auk 102:102-119."	y	n									
-Pied-billed Grebe	Podicipedidae	1999	Diet	Major Food Items	"Forbes, L. S. 1989. Prey defences and predator handling behaviour: the dangerous prey hypothesis. Oikos 55:155-158."	y	y	in progress								
+Pied-billed Grebe	Podicipedidae	1999	Diet	Major Food Items	"Forbes, L. S. 1989. Prey defences and predator handling behaviour: the dangerous prey hypothesis. Oikos 55:155-158."	y	y	entered								
 Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Storer, R. W. 1969. The behavior of the Horned Grebe in spring. Condor 71:180-205."	y	n									
 Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Piersma, T. and M. R. Van Eerden. 1989. Feather eating in Great Crested Grebes Podiceps cristatus: a unique solution to the problems of debris and gastric parasites in fish-eating birds. Ibis 131:477-486."	y	n									
 Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Palmer, R. S. 1962. Handbook of North American birds. Vol. 1. Yale Univ. Press, New Haven, CT."	n		unavailable								
@@ -8525,22 +8525,22 @@ Red-necked Grebe	Podicipedidae	1999	Feeding	Microhabitat For Foraging	"Pihl, S. 
 Red-necked Grebe	Podicipedidae	1999	Feeding	Microhabitat For Foraging	"Byrkjedal, I., S. Eldoy, S. Grundetjern, and M. K. Loyning. 1997. Feeding associations between Red-necked Grebes Podiceps griseigena [sic] and Velvet Scoters Melanitta fusca in winter. Ibis 139:45-50."	y	y	entered								
 Red-necked Grebe	Podicipedidae	1999	Feeding	Food Capture And Consumption	"Wobus, V. 1964. Der Rothalstaucher (Podiceps grisegena Boddaert). A. Ziemsen Verlag, Wittenberg Lutherstadt."	n		unavailable								
 Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Cramp, S. and K. E. L. Simmons. 1977. The birds of the western Palearctic. Vol. 1. Oxford Univ. Press, Oxford."	y	n									
-Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Forbes, L. S. 1989. Prey defences and predator handling behaviour: the dangerous prey hypothesis. Oikos 55:155-158."	y	y	in progress								
-Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Fjelds????, J. 1982. The adaptive significance of local variations in the bill and jaw anatomy of North European Red-necked Grebes Podiceps grisegena. Ornis Fenn. 59:84-98."											
-Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dep. Agric. Dep. Bull. 1196."											
-Red-necked Grebe	Podicipedidae	1999	Feeding	Microhabitat For Foraging	"Stout, B. E. 1995. Fall migration of Red-necked Grebes in the Great Lakes Region. Master's Thesis. North Dakota State Univ., Fargo."											
-Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Ohanjanian, I. A. 1986. Effects of a man-made dyke on the reproductive behavior and nesting success of Red-necked Grebes. Master's Thesis. Simon Fraser Univ., Burnaby, British Columbia."											
-Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Ohanjanian, I. A. 1989. Food flights of Red-necked Grebes during the breeding season. J. Field Ornithol. 60:143-153."											
-Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Madsen, F. J. 1957. On the food habits of some fish eating birds in Denmark. Danish Rev. of Game Biol. 3:19-83."											
-Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Vlug, J. J. 1993. Habitatwahl des Rothalstauchers (Podiceps grisegena) in Schleswig-Holstein, in Zusammenhang mit seiner Nahrungs????kologie. Corax 15:91-117."											
-Western Grebe	Podicipedidae	1992	Feeding	Food Capture And Consumption	"Lawrence, G. E. 1950. The diving and feeding activity of the Western Grebe on the breeding grounds. Condor 52:3-16."											
-Western Grebe	Podicipedidae	1992	Feeding	Food Capture And Consumption	"Nuechterlein, G. L. and R. W. Storer. 1989a. Mate feeding by Western and Clark's grebes. Condor 91:37-42."											
-Western Grebe	Podicipedidae	1992	Feeding	Food Capture And Consumption	"James, Jr., R. A. 1989. Mate feeding in wintering Western Grebes. J. Field Ornithol. 60:358-360."											
-Western Grebe	Podicipedidae	1992	Diet	Major Food Items	"Palmer, R. S. 1962. Handbook of North American birds. Vol. 1. Yale Univ. Press, New Haven, CT."											
-Western Grebe	Podicipedidae	1992	Diet	Major Food Items	"Piersma, T. and M. R. Van Eerden. 1989. Feather eating in Great Crested Grebes Podiceps cristatus: a unique solution to the problem of debris and gastric parasites in fish-eating birds. Ibis 131:477-486."											
-Western Grebe	Podicipedidae	1992	Diet	Quantitative Analysis	"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dept. Agric. Dept. Bull. 1196."											
-Western Grebe	Podicipedidae	1992	"Drinking, Pellet-Casting, And Defecation"		"Ratti, J. T. 1977. Reproductive separation and isolating mechanisms between sympatric dark-and light-phase Western Grebes. Ph.D. thesis. Utah State Univ., Logan."											
-Western Grebe	Podicipedidae	1992	Diet	Major Food Items	"Forbes, L. S. 1989. Prey defences and predator handling behaviour: the dangerous prey hypothesis. Oikos 55:155-158."	y	y	in progress								
+Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Forbes, L. S. 1989. Prey defences and predator handling behaviour: the dangerous prey hypothesis. Oikos 55:155-158."	y	y	entered								
+Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Fjeldsa, J. 1982. The adaptive significance of local variations in the bill and jaw anatomy of North European Red-necked Grebes Podiceps grisegena. Ornis Fenn. 59:84-98."	y	n									
+Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dep. Agric. Dep. Bull. 1196."	y	n									
+Red-necked Grebe	Podicipedidae	1999	Feeding	Microhabitat For Foraging	"Stout, B. E. 1995. Fall migration of Red-necked Grebes in the Great Lakes Region. Master's Thesis. North Dakota State Univ., Fargo."	n		unavailable								
+Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Ohanjanian, I. A. 1986. Effects of a man-made dyke on the reproductive behavior and nesting success of Red-necked Grebes. Master's Thesis. Simon Fraser Univ., Burnaby, British Columbia."	y	n									
+Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Ohanjanian, I. A. 1989. Food flights of Red-necked Grebes during the breeding season. J. Field Ornithol. 60:143-153."	y	n									
+Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Madsen, F. J. 1957. On the food habits of some fish eating birds in Denmark. Danish Rev. of Game Biol. 3:19-83."			requested								
+Red-necked Grebe	Podicipedidae	1999	Diet	Major Food Items	"Vlug, J. J. 1993. Habitatwahl des Rothalstauchers (Podiceps grisegena) in Schleswig-Holstein, in Zusammenhang mit seiner Nahrungs????kologie. Corax 15:91-117."	n		unavailable								
+Western Grebe	Podicipedidae	1992	Feeding	Food Capture And Consumption	"Lawrence, G. E. 1950. The diving and feeding activity of the Western Grebe on the breeding grounds. Condor 52:3-16."	y	y	entered								
+Western Grebe	Podicipedidae	1992	Feeding	Food Capture And Consumption	"Nuechterlein, G. L. and R. W. Storer. 1989a. Mate feeding by Western and Clark's grebes. Condor 91:37-42."	y	n									
+Western Grebe	Podicipedidae	1992	Feeding	Food Capture And Consumption	"James, Jr., R. A. 1989. Mate feeding in wintering Western Grebes. J. Field Ornithol. 60:358-360."	y	n									
+Western Grebe	Podicipedidae	1992	Diet	Major Food Items	"Palmer, R. S. 1962. Handbook of North American birds. Vol. 1. Yale Univ. Press, New Haven, CT."	n		unavailable								
+Western Grebe	Podicipedidae	1992	Diet	Major Food Items	"Piersma, T. and M. R. Van Eerden. 1989. Feather eating in Great Crested Grebes Podiceps cristatus: a unique solution to the problem of debris and gastric parasites in fish-eating birds. Ibis 131:477-486."	y	n									
+Western Grebe	Podicipedidae	1992	Diet	Quantitative Analysis	"Wetmore, A. 1924. Food and economic relations of North American grebes. U.S. Dept. Agric. Dept. Bull. 1196."	y	n									
+Western Grebe	Podicipedidae	1992	"Drinking, Pellet-Casting, And Defecation"		"Ratti, J. T. 1977. Reproductive separation and isolating mechanisms between sympatric dark-and light-phase Western Grebes. Ph.D. thesis. Utah State Univ., Logan."	y	n									
+Western Grebe	Podicipedidae	1992	Diet	Major Food Items	"Forbes, L. S. 1989. Prey defences and predator handling behaviour: the dangerous prey hypothesis. Oikos 55:155-158."	y	y	entered								
 Black-tailed Gnatcatcher	Polioptilidae	2002	Feeding	Main Foods Taken	"Russell, S. M. and G. Monson. 1998. The birds of Sonora. Univ. of Arizona Press, Tucson."	y	n									
 Black-tailed Gnatcatcher	Polioptilidae	2002	Feeding	Microhabitat For Foraging	"Root, T. 1988a. Energy constraints on avian distribution and abundances. Ecology 69:330-339."	y	n									
 Black-tailed Gnatcatcher	Polioptilidae	2002	Feeding	Main Foods Taken	"Walsberg, G. E. 1990. Communal roosting in a very small bird: consequences for the thermal and respiratory gas environments. Condor 92:795-798."	y	n									
