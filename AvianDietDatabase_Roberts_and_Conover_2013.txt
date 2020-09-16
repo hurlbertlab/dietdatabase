@@ -1,0 +1,16 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Eared Grebe	Podiceps nigricollis		Podicipedidae	eBird Clements Checklist v2019	NA	NA	NA	1280	NA	Utah	Great Salt Lake	wetland	10	2010	12	2011			Animalia							Artemia franciscana	yes			egg	NA	Brine shrimp	0.203	Occurrence		69		esophagus contents	Data collected from Oct to Dec only	MMS	
+																			Animalia							Artemia franciscana	yes			adult	NA	Brine shrimp	0.812	Occurrence							
+																			Animalia							Ephydra hians	yes			larva	NA	Brine fly	0.203	Occurrence							
+																			Animalia								no			NA	NA	Wetland invertebrates	0.029	Occurrence							
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
