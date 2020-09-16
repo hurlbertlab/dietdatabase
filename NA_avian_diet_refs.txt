@@ -8439,6 +8439,7 @@ Eared Grebe	Podicipedidae	1999	Diet		"Tershy, B. R., E. Van Gelder, and D. Brees
 Eared Grebe	Podicipedidae	1999	Diet		"Winkler, D. W. and S. D. Cooper. 1986. Ecology of migrant Black-necked Grebes Podiceps nigricollis at Mono Lake, California. Ibis 128:483-491."	y	y	entered								
 Eared Grebe	Podicipedidae	1999	Feeding	Food Capture And Consumption	"Van Ijzendoorn, A. L. J. 1944. Some remarks on the life-history of the Blacknecked Grebe (Podiceps n. nigricollis Brehm). Limosa 17:8-13."	n		unavailable								
 Eared Grebe	Podicipedidae	1999	Diet		"Palmer, R. S. 1962. Handbook of North American Birds, Vol. 1: Loons through Flamingos. Yale Univ. Press, New Haven."	n		unavailable								
+Eared Grebe	Podicipedidae	2013	Diet		"Roberts, A. J. and M. R. Conover. 2013. Eared Grebe Diet on Great Salt Lake, Utah, and Competition with the Commercial Harvest of Brine Shrimp Cysts. J. Wildl. Manage. 77:1380-1385."	y	y	in progress								
 Horned Grebe	Podicipedidae	2000	Feeding	Food Capture And Consumption	"King, B. 1971. Group feeding by Slavonian Grebe. Br. Birds 64:372."	n		unavailable								
 Horned Grebe	Podicipedidae	2000	Diet	Major Food Items	"Witherby, H. F., F. C. R. Jourdain, N. F. Ticehurst, and B. W. Tucker. 1940. The handbook of British birds. Vol. 4. H. F. & G. Witherby, Ltd. London, U.K."	n		unavailable								
 Horned Grebe	Podicipedidae	2000	Feeding	Food Capture And Consumption	"Cramp, S. and K. E. L. Simmons. 1977. The birds of the Western Palearctic, Vol. 1: ostrich to ducks. Oxford Univ. Press, Oxford."	n		unavailable								
