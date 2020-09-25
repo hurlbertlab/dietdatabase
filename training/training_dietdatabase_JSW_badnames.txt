@@ -1,0 +1,6 @@
+"level"	"name"	"condition"
+"Family"	"Scarabeidae"	"unmatched"
+"Family"	"Scolytidae"	"unmatched"
+"Family"	"Corizidae"	"unmatched"
+"Family"	"Bombidae"	"unmatched"
+"Family"	"Chalcidoidea"	"wrong rank; too low"
