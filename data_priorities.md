@@ -96,6 +96,12 @@ Note that Families for which I know that data remain to be entered are highlight
 ### Phaethontiformes
 --Phaethontidae  
 
+### Podicipediformes
+--Podicipedidae  
+
+### Suliformes
+--Sulidae  
+
 ----------
 
 A secondary set of Orders to enter after the above are finished. When they have been completed, move them into the section above.  
@@ -110,9 +116,6 @@ A secondary set of Orders to enter after the above are finished. When they have 
 --Recurvirostridae  
 --Stercorariidae   
 
-### Podicipediformes
---Podicipedidae  (Melissa)  
-
 ### Procellariiformes
 --Diomedeidae  
 --Procellariidae  
@@ -120,5 +123,4 @@ A secondary set of Orders to enter after the above are finished. When they have 
 
 ### Suliformes
 --Anhingidae  
---Fregatidae  
---Sulidae (check)  
+--Fregatidae (Jayne)   
