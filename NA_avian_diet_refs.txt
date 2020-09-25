@@ -4482,7 +4482,7 @@ Prairie Falcon	Falconidae	1998	Feeding	Food Capture And Consumption	"Kaiser, T. 
 Prairie Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			Ogden and Hornocker. 1977. Journal of Wildlife Management 41 1-11	n										
 Prairie Falcon	Falconidae	1996	Feeding		"Toland, B. 1986. Hunting success of some Missouri raptors. Wilson Bull. 98:116-125."	y	y	above								
 Prairie Falcon	Falconidae	from Palmer. 1988. Handbook of North American Birds			"V.T. Ogden. 1973. Nesting Density and Reproduct. Success of Prairie Falcon in Sw. Idaho, U of Idaho, Moscow, M.S. Thesis"	n										
-Great Frigatebird	Fregatidae	2002	Diet	Food Availability	"Schreiber, R. W. and E. A. Schreiber. 1984. Central Pacific seabirds and the El Ni????o Southern Oscillation: 1982 to 1983 perspectives. Science 225:713-716."											
+Great Frigatebird	Fregatidae	2002	Diet	Food Availability	"Schreiber, R. W. and E. A. Schreiber. 1984. Central Pacific seabirds and the El Ni????o Southern Oscillation: 1982 to 1983 perspectives. Science 225:713-716."	n										
 Great Frigatebird	Fregatidae	2002	Metabolism And Temperature Regulation	Metabolism	"Birt-Friesen, V. L., W. A. Montevecchi, D. K. Cairns, and S. A. Macko. 1989. Activity specific metabolic rates of free living Northern Gannets and other seabirds. Ecology 70:357-367."											
 Great Frigatebird	Fregatidae	2002	Feeding	Food Capture And Consumption	"Nelson, J. B. 1968. Galapagos, islands of birds. William Morrow and Co. New York."											
 Great Frigatebird	Fregatidae	2002	Metabolism And Temperature Regulation	Diurnal Cycle Of Body Temperature	"Whittow, G. C., C. T. Araki, and R. L. Pepper. 1978. Body temperature of the Great Frigatebird Fregata minor. Ibis 120:358-360."											
