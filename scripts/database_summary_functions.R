@@ -8,39 +8,34 @@ library(tidyr)
 #################
 
 dbSummary = function(diet = NULL) {
+  # Silence dplyr summarize warning
+  options(dplyr.summarise.inform = FALSE)
   
   if (is.null(diet)) {
     diet = read.table('aviandietdatabase.txt', header=T, sep = '\t', quote = "\"",
                       fill=T, stringsAsFactors = F)
   }
-  refs = read.table('NA_avian_diet_refs.txt', header=T, sep = '\t', quote = '\"',
-                    fill=T, stringsAsFactors = F)
-  orders = read.csv('birdtaxonomy/orders.csv', header = T, stringsAsFactors = F)
-  species = unique(diet[, c('Common_Name', 'Family')])
-  allspecies = unique(refs[, c('common_name', 'family')])
-  numSpecies = nrow(species)
+  speciesList = read.csv('birdtaxonomy/NA_specieslist.csv', header = T, quote = '\"')
+  
+  dbSpecies = unique(diet[, c('Common_Name', 'Family')])
+  dbSpecies$db = 1
+  numSpecies = nrow(dbSpecies)
   numStudies = length(unique(diet$Source))
   numRecords = nrow(diet)
-  recordsPerSpecies = data.frame(count(diet, Common_Name))
-  spCountByFamily = data.frame(table(species$Family))
-  noDataSpecies = subset(allspecies, !common_name %in% species$Common_Name)
-  noDataSpCountByFamily = data.frame(table(noDataSpecies$family))
-  spCountByFamily2 = merge(spCountByFamily, noDataSpCountByFamily, by = "Var1", all = T)
-  names(spCountByFamily2) = c('Family', 'SpeciesWithData', 'WithoutData')
-  spCountByFamily2$Family = as.character(spCountByFamily2$Family)
-  spCountByFamily2$WithoutData[is.na(spCountByFamily2$WithoutData)] = 0
-  spCountByFamily2 = spCountByFamily2[spCountByFamily2$Family != "", ]
-  spCountByFamily2$SpeciesWithData[is.na(spCountByFamily2$SpeciesWithData)] = 0
-  spCountByFamily3 = spCountByFamily2 %>% 
-    inner_join(orders, by = 'Family') %>%
-    mutate(PercentComplete = round(100*SpeciesWithData/(SpeciesWithData + WithoutData))) %>%
-    select(Order, Family, SpeciesWithData, PercentComplete) %>%
-    arrange(Order)
+  recordsPerSpecies = count(diet, Common_Name) %>% as_tibble()
+  
+  familyCoverage = left_join(speciesList, dbSpecies, by = c('common_name' = 'Common_Name', 'family' = 'Family')) %>%
+    group_by(order, family) %>%
+    summarize(SpeciesWithData = sum(db, na.rm = TRUE),
+              SpeciesWithoutData = sum(is.na(db)),
+              PercentComplete = round(100*SpeciesWithData/(SpeciesWithData + SpeciesWithoutData))) %>%
+    rename(Order = order, Family = family)
+  
   return(list(numRecords=numRecords,
               numSpecies=numSpecies, 
               numStudies=numStudies, 
               recordsPerSpecies=recordsPerSpecies,
-              speciesPerFamily = spCountByFamily3))
+              speciesPerFamily = familyCoverage))
 }
 
 
