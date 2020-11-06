@@ -1,27 +1,27 @@
-common_name.aba,sci_name.aba,common_name.ebird,sci_name.ebird
-Dark-billed Cuckoo,Cuculus melacoryphus,Dark-billed Cuckoo,Coccyzus melacoryphus
-Fork-tailed Swift,Apus pacificus,Pacific Swift,Apus pacificus
-Paint-billed Crake,Neocrex erythrops,Paint-billed Crake,Mustelirallus erythrops
-Purple Gallinule,Porphyrio martinicus,Purple Gallinule,Porphyrio martinica
-Purple Swamphen,Porphyrio porphyrio,Western Swamphen,Porphyrio porphyrio
-Common Moorhen,Gallinula chloropus,Eurasian Moorhen,Gallinula chloropus
-Spoon-billed Sandpiper,Calidris pygmea,Spoon-billed Sandpiper,Calidris pygmaea
-Fork-tailed Storm-Petrel,Hydrobates furcatus,Fork-tailed Storm-Petrel,Oceanodroma furcata
-Ringed Storm-Petrel,Hydrobates hornbyi,Ringed Storm-Petrel,Oceanodroma hornbyi
-Swinhoe's Storm-Petrel,Hydrobates monorhis,Swinhoe's Storm-Petrel,Oceanodroma monorhis
-Leach's Storm-Petrel,Hydrobates leucorhous,Leach's Storm-Petrel,Oceanodroma leucorhoa
-Townsend's Storm-Petrel,Hydrobates socorroensis,Townsend's Storm-Petrel,Oceanodroma socorroensis
-Ashy Storm-Petrel,Hydrobates homochroa,Ashy Storm-Petrel,Oceanodroma homochroa
-Band-rumped Storm-Petrel,Hydrobates castro,Band-rumped Storm-Petrel,Oceanodroma castro
-Wedge-rumped Storm-Petrel,Hydrobates tethys,Wedge-rumped Storm-Petrel,Oceanodroma tethys
-Black Storm-Petrel,Hydrobates melania,Black Storm-Petrel,Oceanodroma melania
-Tristram's Storm-Petrel,Hydrobates tristrami,Tristram's Storm-Petrel,Oceanodroma tristrami
-Least Storm-Petrel,Hydrobates microsoma,Least Storm-Petrel,Oceanodroma microsoma
-Japanese Bush-Warbler,Horornis diphone,Japanese Bush Warbler,Horornis diphone
-Japanese White-eye,Zosterops japonicus,Warbling White-eye,Zosterops japonicus
-Greater Necklaced Laughingthrush,Garrulax pectoralis,Greater Necklaced Laughingthrush,Ianthocincla pectoralis
-Hwamei,Garrulax canorus,Chinese Hwamei,Garrulax canorus
-Thick-billed Warbler,Arudinax aedon,Thick-billed Warbler,Arundinax aedon
-Bluethroat,Cyanecula svecica,Bluethroat,Luscinia svecica
-Stonechat,Saxicola torquatus,African Stonechat,Saxicola torquatus
-Dusky Thrush,Turdus naumanni,Dusky Thrush,Turdus eunomus
+common_name.aba,sci_name.aba,common_name.ebird,sci_name.ebird,code
+Dark-billed Cuckoo,Cuculus melacoryphus,Dark-billed Cuckoo,Coccyzus melacoryphus,5
+Fork-tailed Swift,Apus pacificus,Pacific Swift,Apus pacificus,4
+Paint-billed Crake,Neocrex erythrops,Paint-billed Crake,Mustelirallus erythrops,5
+Purple Gallinule,Porphyrio martinicus,Purple Gallinule,Porphyrio martinica,1
+Purple Swamphen,Porphyrio porphyrio,Western Swamphen,Porphyrio porphyrio,2
+Common Moorhen,Gallinula chloropus,Eurasian Moorhen,Gallinula chloropus,5
+Spoon-billed Sandpiper,Calidris pygmea,Spoon-billed Sandpiper,Calidris pygmaea,4
+Fork-tailed Storm-Petrel,Hydrobates furcatus,Fork-tailed Storm-Petrel,Oceanodroma furcata,2
+Ringed Storm-Petrel,Hydrobates hornbyi,Ringed Storm-Petrel,Oceanodroma hornbyi,5
+Swinhoe's Storm-Petrel,Hydrobates monorhis,Swinhoe's Storm-Petrel,Oceanodroma monorhis,5
+Leach's Storm-Petrel,Hydrobates leucorhous,Leach's Storm-Petrel,Oceanodroma leucorhoa,1
+Townsend's Storm-Petrel,Hydrobates socorroensis,Townsend's Storm-Petrel,Oceanodroma socorroensis,3
+Ashy Storm-Petrel,Hydrobates homochroa,Ashy Storm-Petrel,Oceanodroma homochroa,2
+Band-rumped Storm-Petrel,Hydrobates castro,Band-rumped Storm-Petrel,Oceanodroma castro,2
+Wedge-rumped Storm-Petrel,Hydrobates tethys,Wedge-rumped Storm-Petrel,Oceanodroma tethys,4
+Black Storm-Petrel,Hydrobates melania,Black Storm-Petrel,Oceanodroma melania,2
+Tristram's Storm-Petrel,Hydrobates tristrami,Tristram's Storm-Petrel,Oceanodroma tristrami,3
+Least Storm-Petrel,Hydrobates microsoma,Least Storm-Petrel,Oceanodroma microsoma,3
+Japanese Bush-Warbler,Horornis diphone,Japanese Bush Warbler,Horornis diphone,2
+Japanese White-eye,Zosterops japonicus,Warbling White-eye,Zosterops japonicus,2
+Greater Necklaced Laughingthrush,Garrulax pectoralis,Greater Necklaced Laughingthrush,Ianthocincla pectoralis,3
+Hwamei,Garrulax canorus,Chinese Hwamei,Garrulax canorus,2
+Thick-billed Warbler,Arudinax aedon,Thick-billed Warbler,Arundinax aedon,5
+Bluethroat,Cyanecula svecica,Bluethroat,Luscinia svecica,2
+Stonechat,Saxicola torquatus,African Stonechat,Saxicola torquatus,4
+Dusky Thrush,Turdus naumanni,Dusky Thrush,Turdus eunomus,4
