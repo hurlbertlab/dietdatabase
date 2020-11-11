@@ -1,0 +1,53 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Harlequin Duck	Histrionicus histrionicus	NA	Anatidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	British Columbia	Cortes Island	wetland	3	1977	3	1977	winter		Animalia							Amphissa versicolor	yes			NA	NA		0.004	Wt_or_Vol	NA	54	NA	stomach contents; esophagus contents	54 ducks for the whole study	MMS	"Vermeer, K. 1983. Diet of the Harlequin Duck in the Strait of Georgia, British Columbia. Murrelet 64:54-57."
+																			Animalia							Lacuna vincta	yes			NA	NA		0.0005	Wt_or_Vol							
+																			Animalia							Lirularia lirulata	yes			NA	NA		0.011	Wt_or_Vol							
+																			Animalia							Littorina scutulata	yes			NA	NA		0.198	Wt_or_Vol							
+																			Animalia							Littorina sitkana	yes			NA	NA		0.01	Wt_or_Vol							
+																			Animalia							Mitrella carinata	yes			NA	NA		0.004	Wt_or_Vol							
+																			Animalia							Mitrella gouldi	yes			NA	NA		0.0005	Wt_or_Vol							
+																			Animalia							Collisella pelta	yes			NA	NA		0.031	Wt_or_Vol							
+																			Animalia							Notoacmea persona	yes			NA	NA		0.012	Wt_or_Vol							
+																			Animalia							Notoacmea scutum	yes			NA	NA		0.015	Wt_or_Vol							
+																			Animalia					Pholidae			yes			NA	NA	Gunnel	0.003	Wt_or_Vol							
+																			Animalia		Teleostei						no			egg	NA	Fish spawn	0.011	Wt_or_Vol							
+																			Animalia							Hemigrapsus oregonensis	yes			NA	NA		0.006	Wt_or_Vol							
+																			Animalia						Pagurus		yes			NA	NA		0.019	Wt_or_Vol					Includes hermit crabs with snail shells		
+																			Animalia			Decapoda					no			NA	NA	Crab fragments	0.015	Wt_or_Vol							
+																			Animalia							Tonicella lineata	yes			NA	NA		0.013	Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia															Wt_or_Vol							
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
