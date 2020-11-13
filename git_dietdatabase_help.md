@@ -40,6 +40,18 @@ $ git push origin master
 Enter your github userid and password if prompted. Now your up-to-date files are available for incorporation into GloBI and
 for others to add to!
 
+## Managing Git through RStudio
+Assuming you have Git installed, you can clone the *Diet Database* repository by opening RStudio and clicking on _File_ > _New Project_ > _Version Control_ > _Git_. Under _Repository URL_ enter `https://github.com/hurlbertlab/dietdatabase`, leave _Project directory name_ blank, and then specify where on your local machine you would like to install the project folder. Then click _Create Project_.
+
+From now on, when you want to work on this project, navigate to the local folder you just created above, and open the `dietdatabase.Rproj` file which will open up in RStudio.
+
+* Click on the _Git_ tab in the upper right.  
+* When working with this repo, ALWAYS begin your session by clicking _Pull_ (the equivalent of `git pull origin master`) to make sure you have the most up-to-date version of the repo on your local machine.  
+* Anytime you modify a file in the repository, it will be listed in this _Git_ panel.  
+* Checking the box next to the filename is the equivalent of `git add`.  
+* Once you've checked the boxes of the modified files you want to add, click the _Commit_ and provide a brief description of your edits.  Click the _Commit_ button.  
+* Finally, click _Push_ (the equivalent of `git push origin master`). If there are no error messages, your changes have been pushed to the master version on Github!
+
 ## Potential Problems
 Occasionally, when you try to push your latest changes, you will get an error like this:
 
