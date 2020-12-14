@@ -136,7 +136,7 @@ speciesSummary = function(commonName, by = 'Order') {
   }
   
   analysesPerDietType = dietsp %>%
-    select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+    select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Analysis_Number,
            Bird_Sample_Size, Habitat_type, Location_Region, Location_Specific, Item_Sample_Size, Diet_Type, Study_Type) %>%
     distinct() %>%
     count(Diet_Type)
@@ -145,7 +145,7 @@ speciesSummary = function(commonName, by = 'Order') {
   #  variation in sample size)
   preySummary_nonOccurrence = dietsp %>% filter(Diet_Type != "Occurrence") %>%
 
-    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Analysis_Number,
              Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
     
     summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
@@ -162,7 +162,7 @@ speciesSummary = function(commonName, by = 'Order') {
   # We then average occurrence values across studies/analyses.
   preySummary_Occurrence = dietsp %>% filter(Diet_Type == "Occurrence") %>%
     
-    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+    group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Analysis_Number,
              Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Taxon, Diet_Type) %>%
     
     summarize(Max_Diet = max(Fraction_Diet, na.rm = T)) %>%
@@ -305,7 +305,7 @@ dietSummary = function(commonName,
   #  variation in sample size)
   
   numAnalyses = dietsp %>%
-    select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+    select(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Analysis_Number,
            Bird_Sample_Size, Habitat_type, Location_Region, Location_Specific, Item_Sample_Size, Diet_Type, Study_Type) %>%
     distinct() %>%
     nrow()
@@ -317,7 +317,7 @@ dietSummary = function(commonName,
     # We then average occurrence values across studies/analyses.
     preySummary = dietsp %>% filter(Diet_Type == "Occurrence") %>%
       
-      group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+      group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Analysis_Number,
                Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Taxon) %>%
       
       summarize(Max_Diet = max(Fraction_Diet, na.rm = T)) %>%
@@ -331,7 +331,7 @@ dietSummary = function(commonName,
   } else {
     preySummary = dietsp %>% filter(Diet_Type == dietType) %>%
       
-      group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, 
+      group_by(Source, Observation_Year_Begin, Observation_Month_Begin, Observation_Season, Analysis_Number,
                Bird_Sample_Size, Habitat_type, Location_Region, Item_Sample_Size, Taxon) %>%
       
       summarize(Sum_Diet = sum(Fraction_Diet, na.rm = T)) %>%
