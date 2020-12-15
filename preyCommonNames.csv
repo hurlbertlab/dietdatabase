@@ -1,0 +1,2115 @@
+"taxon","rank","commonName","Prey_Kingdom","Prey_Stage"
+"Annelida","Prey_Phylum","annelids","Animalia",NA
+"Arthropoda","Prey_Phylum","arthropods","Animalia",NA
+"Ascomycota","Prey_Phylum","sac fungi","Fungi",NA
+"Basidiomycota","Prey_Phylum","basidiomycete fungi","Fungi",NA
+"Bryophyta","Prey_Phylum","mosses","Plantae",NA
+"Bryozoa","Prey_Phylum","bryozoans","Animalia",NA
+"Charophyta","Prey_Phylum","charophyte algae","Plantae",NA
+"Chlorophyta","Prey_Phylum","green algae","Plantae",NA
+"Chordata","Prey_Phylum","chordates","Animalia",NA
+"Ciliophora","Prey_Phylum","ciliates","Protozoa",NA
+"Cnidaria","Prey_Phylum","cnidarians","Animalia",NA
+"Echinodermata","Prey_Phylum","echinoderms","Animalia",NA
+"Mollusca","Prey_Phylum","molluscs","Animalia",NA
+"Nematoda","Prey_Phylum","nematodes","Animalia",NA
+"Nemertea","Prey_Phylum","ribbon worms","Animalia",NA
+"Phaeophyceae","Prey_Phylum","brown algae","Chromista",NA
+"Platyhelminthes","Prey_Phylum","flatworms","Animalia",NA
+"Porifera","Prey_Phylum","sponges","Animalia",NA
+"Protozoa","Prey_Phylum","protozoans","Protozoa",NA
+"Rhodophyta","Prey_Phylum","red algae","Plantae",NA
+"Tracheophyta","Prey_Phylum","vascular plants","Plantae",NA
+"Agaricomycetes","Prey_Class","agaricomycetes","Fungi",NA
+"Amphibia","Prey_Class","amphibians","Animalia",NA
+"Anthozoa","Prey_Class","sea anemones and corals","Animalia",NA
+"Arachnida","Prey_Class","arachnids","Animalia",NA
+"Asteroidea","Prey_Class","sea stars","Animalia",NA
+"Aves","Prey_Class","birds","Animalia",NA
+"Bivalvia","Prey_Class","bivalves","Animalia",NA
+"Branchiopoda","Prey_Class","branchiopods","Animalia",NA
+"Bryopsida","Prey_Class","true mosses","Plantae",NA
+"Cephalaspidomorphi","Prey_Class","lampreys","Animalia",NA
+"Cephalopoda","Prey_Class","cephalopods","Animalia",NA
+"Chilopoda","Prey_Class","centipedes","Animalia",NA
+"Chlorophyceae","Prey_Class","chlorophycean green algae","Plantae",NA
+"Clitellata","Prey_Class","clitellates","Animalia",NA
+"Collembola","Prey_Class","springtails","Animalia",NA
+"Demospongiae","Prey_Class","demosponges","Animalia",NA
+"Diplopoda","Prey_Class","millipedes","Animalia",NA
+"Echinoidea","Prey_Class","sea urchins, sand dollars, and heart urchins","Animalia",NA
+"Gastropoda","Prey_Class","gastropods","Animalia",NA
+"Gnetopsida","Prey_Class","gnetophytes","Plantae",NA
+"Holothuroidea","Prey_Class","sea cucumbers","Animalia",NA
+"Hydrozoa","Prey_Class","hydrozoans","Animalia",NA
+"Insecta","Prey_Class","insects","Animalia",NA
+"Liliopsida","Prey_Class","monocots","Plantae",NA
+"Lycopodiopsida","Prey_Class","lycophytes","Plantae",NA
+"Magnoliopsida","Prey_Class","dicots","Plantae",NA
+"Malacostraca","Prey_Class","malacostracans","Animalia",NA
+"Mammalia","Prey_Class","mammals","Animalia",NA
+"Maxillopoda","Prey_Class","maxillopods","Animalia",NA
+"Ostracoda","Prey_Class","ostracods","Animalia",NA
+"Phaeophyceae","Prey_Class","brown algae","Chromista",NA
+"Phylactolaemata","Prey_Class","freshwater bryozoans","Animalia",NA
+"Pinopsida","Prey_Class","conifers","Plantae",NA
+"Polychaeta","Prey_Class","polychaete worms","Animalia",NA
+"Polyplacophora","Prey_Class","chitons","Animalia",NA
+"Polypodiopsida","Prey_Class","ferns","Plantae",NA
+"Reptilia","Prey_Class","reptiles","Animalia",NA
+"Scyphozoa","Prey_Class","true jellies","Animalia",NA
+"Teleostei","Prey_Class","teleost fishes","Animalia",NA
+"Thaliacea","Prey_Class","thaliaceans","Animalia",NA
+"Ulvophyceae","Prey_Class","sea lettuces and single-celled algae","Plantae",NA
+"Accipitriformes","Prey_Order","hawks, eagles, kites, and allies","Animalia",NA
+"Acipenseriformes","Prey_Order","sturgeons and paddlefishes","Animalia",NA
+"Acorales","Prey_Order","sweet flag and allies","Plantae",NA
+"Actiniaria","Prey_Order","sea anemones","Animalia",NA
+"Agaricales","Prey_Order","gilled mushrooms","Fungi",NA
+"Alismatales","Prey_Order","water plantains and allies","Plantae",NA
+"Amiiformes","Prey_Order","bowfins","Animalia",NA
+"Amphipoda","Prey_Order","amphipods","Animalia",NA
+"Anguilliformes","Prey_Order","true eels","Animalia",NA
+"Anostraca","Prey_Order","fairy shrimp","Animalia",NA
+"Anseriformes","Prey_Order","waterfowl","Animalia",NA
+"Anura","Prey_Order","frogs and toads","Animalia",NA
+"Apiales","Prey_Order","carrots, ivies, and allies","Plantae",NA
+"Aquifoliales","Prey_Order","hollies and allies","Plantae",NA
+"Araneae","Prey_Order","spiders","Animalia",NA
+"Archaeognatha","Prey_Order","bristletails","Animalia",NA
+"Architaenioglossa","Prey_Order","architaenioglossan snails","Animalia",NA
+"Arecales","Prey_Order","palms, bullanocks, and allies","Plantae",NA
+"Artiodactyla","Prey_Order","even-toed ungulates","Animalia",NA
+"Asparagales","Prey_Order","agaves, orchids, irises, and allies","Plantae",NA
+"Asterales","Prey_Order","asters, bellflowers, fanflowers, and allies","Plantae",NA
+"Atheriniformes","Prey_Order","silversides","Animalia",NA
+"Aulopiformes","Prey_Order","grinners, lizardfishes, and allies","Animalia",NA
+"Batrachoidiformes","Prey_Order","toadfishes","Animalia",NA
+"Beloniformes","Prey_Order","needlefishes, halfbeaks, and allies","Animalia",NA
+"Beryciformes","Prey_Order","sawbellies","Animalia",NA
+"Blattodea","Prey_Order","cockroaches and termites","Animalia",NA
+"Brassicales","Prey_Order","mustards, capers, and allies","Plantae",NA
+"Calanoida","Prey_Order","calanoid copepods","Animalia",NA
+"Caprimulgiformes","Prey_Order","nightjars, swifts, hummingbirds, and allies","Animalia",NA
+"Carcharhiniformes","Prey_Order","ground sharks","Animalia",NA
+"Carnivora","Prey_Order","carnivorans","Animalia",NA
+"Caryophyllales","Prey_Order","pinks, cactuses, and allies","Plantae",NA
+"Caudata","Prey_Order","salamanders","Animalia",NA
+"Celastrales","Prey_Order","staff-vines and allies","Plantae",NA
+"Cephalaspidea","Prey_Order","headshield slugs","Animalia",NA
+"Ceratophyllales","Prey_Order","coontails","Plantae",NA
+"Characiformes","Prey_Order","characins","Animalia",NA
+"Charadriiformes","Prey_Order","shorebirds and allies","Animalia",NA
+"Chiroptera","Prey_Order","bats","Animalia",NA
+"Ciconiiformes","Prey_Order","storks","Animalia",NA
+"Cingulata","Prey_Order","armadillos","Animalia",NA
+"Clupeiformes","Prey_Order","herrings","Animalia",NA
+"Clypeasteroida","Prey_Order","sand dollars","Animalia",NA
+"Coleoptera","Prey_Order","beetles","Animalia",NA
+"Collembola","Prey_Order","springtails","Animalia",NA
+"Columbiformes","Prey_Order","pigeons and doves","Animalia",NA
+"Commelinales","Prey_Order","spiderworts and allies","Plantae",NA
+"Coraciiformes","Prey_Order","kingfishers and allies","Animalia",NA
+"Cornales","Prey_Order","dogwoods, hydrangeas, and allies","Plantae",NA
+"Cuculiformes","Prey_Order","cuckoos","Animalia",NA
+"Cyclopoida","Prey_Order","cyclopoid copepods","Animalia",NA
+"Cypriniformes","Prey_Order","minnows, suckers, carps, and loaches","Animalia",NA
+"Cyprinodontiformes","Prey_Order","rivulines, killifishes, and livebearers","Animalia",NA
+"Decapoda","Prey_Order","decapods","Animalia",NA
+"Dermaptera","Prey_Order","earwigs","Animalia",NA
+"Didelphimorphia","Prey_Order","opossums","Animalia",NA
+"Diplostraca","Prey_Order","clam shrimps and water fleas","Animalia",NA
+"Dipsacales","Prey_Order","honeysuckles, moschatels, and allies","Plantae",NA
+"Diptera","Prey_Order","flies","Animalia",NA
+"Elopiformes","Prey_Order","tarpons and tenpounders","Animalia",NA
+"Ephedrales","Prey_Order","jointfirs","Plantae",NA
+"Ephemeroptera","Prey_Order","mayflies","Animalia",NA
+"Equisetales","Prey_Order","horsetails","Plantae",NA
+"Ericales","Prey_Order","heathers, balsams, primroses, and allies","Plantae",NA
+"Euphausiacea","Prey_Order","krill","Animalia",NA
+"Fabales","Prey_Order","legumes, milkworts, and allies","Plantae",NA
+"Fagales","Prey_Order","beeches, oaks, walnuts, and allies","Plantae",NA
+"Falconiformes","Prey_Order","falcons and caracaras","Animalia",NA
+"Forcipulatida","Prey_Order","forcipulatidan sea stars","Animalia",NA
+"Gadiformes","Prey_Order","cods","Animalia",NA
+"Galliformes","Prey_Order","landfowl","Animalia",NA
+"Gasterosteiformes","Prey_Order","sticklebacks and seamoths","Animalia",NA
+"Gaviiformes","Prey_Order","loons","Animalia",NA
+"Gentianales","Prey_Order","gentians, dogbanes, madders, and allies","Plantae",NA
+"Geraniales","Prey_Order","geraniums, bridal wreaths, and allies","Plantae",NA
+"Gruiformes","Prey_Order","cranes, rails, and allies","Animalia",NA
+"Hemiptera","Prey_Order","true bugs, hoppers, aphids, and allies","Animalia",NA
+"Hymenoptera","Prey_Order","ants, bees, wasps, and sawflies","Animalia",NA
+"Isoetales","Prey_Order","quillworts","Plantae",NA
+"Isopoda","Prey_Order","isopods","Animalia",NA
+"Ixodida","Prey_Order","ticks","Animalia",NA
+"Lagomorpha","Prey_Order","lagomorphs","Animalia",NA
+"Lamiales","Prey_Order","mints, plantains, olives, and allies","Plantae",NA
+"Laurales","Prey_Order","laurels, spicebushes, and allies","Plantae",NA
+"Lepidoptera","Prey_Order","butterflies and moths","Animalia","adult"
+"Lepisosteiformes","Prey_Order","gars","Animalia",NA
+"Liliales","Prey_Order","lilies, supplejacks, and allies","Plantae",NA
+"Lithobiomorpha","Prey_Order","stone centipedes","Animalia",NA
+"Littorinimorpha","Prey_Order","littorinimorph snails","Animalia",NA
+"Lophiiformes","Prey_Order","anglerfishes","Animalia",NA
+"Lycopodiales","Prey_Order","clubmosses and firmosses","Plantae",NA
+"Magnoliales","Prey_Order","magnolias, nutmegs, and allies","Plantae",NA
+"Malpighiales","Prey_Order","nances, willows, and allies","Plantae",NA
+"Malvales","Prey_Order","mallows, rock-roses, and allies","Plantae",NA
+"Mantodea","Prey_Order","mantises","Animalia",NA
+"Mecoptera","Prey_Order","scorpionflies, hangingflies, and allies","Animalia",NA
+"Megaloptera","Prey_Order","alderflies, dobsonflies, and fishflies","Animalia",NA
+"Mesostigmata","Prey_Order","mesostigs","Animalia",NA
+"Mugiliformes","Prey_Order","mullets","Animalia",NA
+"Myctophiformes","Prey_Order","lanternfishes","Animalia",NA
+"Myrtales","Prey_Order","myrtles, evening primroses, and allies","Plantae",NA
+"Mysida","Prey_Order","opossum shrimps","Animalia",NA
+"Neogastropoda","Prey_Order","neogastropod snails","Animalia",NA
+"Neuroptera","Prey_Order","antlions, lacewings, and allies","Animalia",NA
+"Notostraca","Prey_Order","tadpole shrimps","Animalia",NA
+"Nymphaeales","Prey_Order","water-lilies, fanworts, and allies","Plantae",NA
+"Octopoda","Prey_Order","octopuses","Animalia",NA
+"Odonata","Prey_Order","dragonflies and damselflies","Animalia",NA
+"Ophidiiformes","Prey_Order","cusk-eels","Animalia",NA
+"Ophioglossales","Prey_Order","adder's-tongues and allies","Plantae",NA
+"Opiliones","Prey_Order","harvestmen","Animalia",NA
+"Orthoptera","Prey_Order","grasshoppers, crickets, and katydids","Animalia",NA
+"Osmeriformes","Prey_Order","smelts and allies","Animalia",NA
+"Otidiformes","Prey_Order","bustards","Animalia",NA
+"Oxalidales","Prey_Order","woodsorrels, quandongs, and allies","Plantae",NA
+"Pandanales","Prey_Order","screwpines, stemona, and allies","Plantae",NA
+"Passeriformes","Prey_Order","perching birds","Animalia",NA
+"Patellogastropoda","Prey_Order","true limpets","Animalia",NA
+"Pedunculata","Prey_Order","gooseneck barnacles","Animalia",NA
+"Pelecaniformes","Prey_Order","pelicans, herons, ibises, and allies","Animalia",NA
+"Perciformes","Prey_Order","perch-like fishes","Animalia",NA
+"Percopsiformes","Prey_Order","trout-perches, pirate perches, and cavefishes","Animalia",NA
+"Perissodactyla","Prey_Order","odd-toed ungulates","Animalia",NA
+"Petromyzontiformes","Prey_Order","lampreys","Animalia",NA
+"Phasmida","Prey_Order","stick insects","Animalia",NA
+"Piciformes","Prey_Order","woodpeckers, barbets, and allies","Animalia",NA
+"Pinales","Prey_Order","conifers","Plantae",NA
+"Plecoptera","Prey_Order","stoneflies","Animalia",NA
+"Pleuronectiformes","Prey_Order","flatfishes","Animalia",NA
+"Poales","Prey_Order","grasses, sedges, and allies","Plantae",NA
+"Podicipediformes","Prey_Order","grebes","Animalia",NA
+"Polydesmida","Prey_Order","flat-backed millipedes","Animalia",NA
+"Procellariiformes","Prey_Order","tubenoses","Animalia",NA
+"Proteales","Prey_Order","proteas, lotuses, planes, and allies","Plantae",NA
+"Pseudoscorpiones","Prey_Order","pseudoscorpions","Animalia",NA
+"Psittaciformes","Prey_Order","parrots","Animalia",NA
+"Psocodea","Prey_Order","barklice, booklice, and parasitic lice","Animalia",NA
+"Rajiformes","Prey_Order","skates","Animalia",NA
+"Ranunculales","Prey_Order","buttercups, poppies, and allies","Plantae",NA
+"Raphidioptera","Prey_Order","snakeflies","Animalia",NA
+"Rodentia","Prey_Order","rodents","Animalia",NA
+"Rosales","Prey_Order","roses, elms, figs, and allies","Plantae",NA
+"Salmoniformes","Prey_Order","salmons, trouts, and whitefishes","Animalia",NA
+"Santalales","Prey_Order","sandalwoods, mistletoes, and allies","Plantae",NA
+"Sapindales","Prey_Order","soapberries, cashews, mahoganies, and allies","Plantae",NA
+"Saxifragales","Prey_Order","saxifrages, stonecrops, and allies","Plantae",NA
+"Scolopendromorpha","Prey_Order","tropical centipedes","Animalia",NA
+"Scorpaeniformes","Prey_Order","mail-cheeked fishes","Animalia",NA
+"Scorpiones","Prey_Order","scorpions","Animalia",NA
+"Selaginellales","Prey_Order","spikemosses","Plantae",NA
+"Sessilia","Prey_Order","sessile barnacles","Animalia",NA
+"Siluriformes","Prey_Order","catfishes","Animalia",NA
+"Siphonophorae","Prey_Order","siphonophores","Animalia",NA
+"Siphonostomatoida","Prey_Order","siphon-mouth copepods","Animalia",NA
+"Solanales","Prey_Order","nightshades, bindweeds, gooseweeds, and allies","Plantae",NA
+"Solifugae","Prey_Order","solifuges","Animalia",NA
+"Squaliformes","Prey_Order","squaliform sharks","Animalia",NA
+"Squamata","Prey_Order","squamates","Animalia",NA
+"Stomatopoda","Prey_Order","mantis shrimps","Animalia",NA
+"Strigiformes","Prey_Order","owls","Animalia",NA
+"Stylommatophora","Prey_Order","common land snails and slugs","Animalia",NA
+"Suliformes","Prey_Order","gannets, cormorants, and allies","Animalia",NA
+"Tanaidacea","Prey_Order","tanaids","Animalia",NA
+"Testudines","Prey_Order","turtles and tortoises","Animalia",NA
+"Tetraodontiformes","Prey_Order","puffers and filefishes","Animalia",NA
+"Thysanoptera","Prey_Order","thrips","Animalia",NA
+"Trichoptera","Prey_Order","caddisflies","Animalia",NA
+"Trogoniformes","Prey_Order","trogons and quetzals","Animalia",NA
+"Trombidiformes","Prey_Order","trombidiforms","Animalia",NA
+"Ulvales","Prey_Order","sea lettuces and allies","Plantae",NA
+"Unionoida","Prey_Order","freshwater mussels","Animalia",NA
+"Valvatida","Prey_Order","valvatidan sea stars","Animalia",NA
+"Xiphosurida","Prey_Order","horseshoe crabs","Animalia",NA
+"Zingiberales","Prey_Order","gingers, bananas, and allies","Plantae",NA
+"Zygnematales","Prey_Order","desmid","Plantae",NA
+"Zygophyllales","Prey_Order","calthrops and ratanies","Plantae",NA
+"Adephaga","Prey_Suborder","ground and water beetles","Animalia",NA
+"Amphisbaenia","Prey_Suborder","amphisbaenians","Animalia",NA
+"Anisoptera","Prey_Suborder","dragonflies","Animalia",NA
+"Apocrita","Prey_Suborder","narrow-waisted hymenopterans","Animalia",NA
+"Araneomorphae","Prey_Suborder","typical spiders","Animalia",NA
+"Archostemata","Prey_Suborder","reticulated and telephone-pole beetles","Animalia",NA
+"Auchenorrhyncha","Prey_Suborder","cicadas, hoppers, and spittlebugs","Animalia",NA
+"Balanomorpha","Prey_Suborder","symmetrical sessile barnacles","Animalia",NA
+"Blennioidei","Prey_Suborder","blennies","Animalia",NA
+"Brachycera","Prey_Suborder","brachyceran flies","Animalia",NA
+"Caelifera","Prey_Suborder","grasshoppers, locusts, and allies","Animalia",NA
+"Castorimorpha","Prey_Suborder","beavers, pocket gophers, and allies","Animalia",NA
+"Cladocera","Prey_Suborder","water fleas","Animalia",NA
+"Dendrobranchiata","Prey_Suborder","prawns","Animalia",NA
+"Ensifera","Prey_Suborder","long-horned orthopterans","Animalia",NA
+"Gekkota","Prey_Suborder","geckos","Animalia",NA
+"Hemerobiiformia","Prey_Suborder","lacewings, mantidflies, and allies","Animalia",NA
+"Heteroptera","Prey_Suborder","true bugs","Animalia",NA
+"Littorinoidea","Prey_Suborder","periwinkle snails and allies","Animalia",NA
+"Mantodea","Prey_Suborder","mantises","Animalia",NA
+"Myomorpha","Prey_Suborder","mice, rats, and hamsters","Animalia",NA
+"Nematocera","Prey_Suborder","nematoceran flies","Animalia",NA
+"Oniscidea","Prey_Suborder","woodlice and pillbugs","Animalia",NA
+"Pleocyemata","Prey_Suborder","crabs, lobsters, and allies","Animalia",NA
+"Polyphaga","Prey_Suborder","water, rove, scarab, long-horned, leaf, and snout beetles","Animalia",NA
+"Prostigmata","Prey_Suborder","prostigs","Animalia",NA
+"Rhynchobdellida","Prey_Suborder","jawless leeches","Animalia",NA
+"Sciuromorpha","Prey_Suborder","squirrels, dormice, and mountain beavers","Animalia",NA
+"Serpentes","Prey_Suborder","snakes","Animalia",NA
+"Sternorrhyncha","Prey_Suborder","plant-parasitic hemipterans","Animalia",NA
+"Symphypleona","Prey_Suborder","globular springtails","Animalia",NA
+"Symphyta","Prey_Suborder","sawflies, horntails, and wood wasps","Animalia",NA
+"Yangochiroptera","Prey_Suborder","yangochiropteran bats","Animalia",NA
+"Zygoptera","Prey_Suborder","damselflies","Animalia",NA
+"Abrocomidae","Prey_Family","chinchilla rats","Animalia",NA
+"Acanthaceae","Prey_Family","acanthus family","Plantae",NA
+"Acanthosomatidae","Prey_Family","shield bugs","Animalia",NA
+"Acanthuridae","Prey_Family","surgeonfishes, tangs, and unicornfishes","Animalia",NA
+"Acaridae","Prey_Family","stored products mites","Animalia",NA
+"Accipitridae","Prey_Family","hawks, eagles, and kites","Animalia",NA
+"Achilidae","Prey_Family","achilid planthoppers","Animalia",NA
+"Achiridae","Prey_Family","american soles","Animalia",NA
+"Acipenseridae","Prey_Family","sturgeons","Animalia",NA
+"Acoraceae","Prey_Family","sweet flags","Plantae",NA
+"Acrididae","Prey_Family","short-horned grasshoppers","Animalia",NA
+"Acroceridae","Prey_Family","small-headed flies","Animalia",NA
+"Actiniidae","Prey_Family","sea anemones","Animalia",NA
+"Adelgidae","Prey_Family","spruce aphids","Animalia",NA
+"Aderidae","Prey_Family","ant-like leaf beetles","Animalia",NA
+"Adoxaceae","Prey_Family","moschatel family","Plantae",NA
+"Aegithalidae","Prey_Family","long-tailed tits","Animalia",NA
+"Aeshnidae","Prey_Family","darners","Animalia",NA
+"Agamidae","Prey_Family","dragons","Animalia",NA
+"Agelenidae","Prey_Family","funnel weavers","Animalia",NA
+"Agonidae","Prey_Family","poachers","Animalia",NA
+"Agromyzidae","Prey_Family","leaf-miner flies","Animalia",NA
+"Aizoaceae","Prey_Family","stone plants","Plantae",NA
+"Alaudidae","Prey_Family","larks","Animalia",NA
+"Alcedinidae","Prey_Family","kingfishers","Animalia",NA
+"Alcidae","Prey_Family","auks, murres, guillemots, and puffins","Animalia",NA
+"Alismataceae","Prey_Family","water-plantains","Plantae",NA
+"Alpheidae","Prey_Family","snapping shrimp","Animalia",NA
+"Alseuosmiaceae","Prey_Family","toropapa family","Plantae",NA
+"Altingiaceae","Prey_Family","sweetgums and allies","Plantae",NA
+"Alydidae","Prey_Family","broad-headed bugs","Animalia",NA
+"Alytidae","Prey_Family","disc-tongued frogs","Animalia",NA
+"Amaranthaceae","Prey_Family","amaranths","Plantae",NA
+"Amaryllidaceae","Prey_Family","amaryllis family","Plantae",NA
+"Ambystomatidae","Prey_Family","mole salamanders","Animalia",NA
+"Ammodytidae","Prey_Family","sand lances","Animalia",NA
+"Ampullariidae","Prey_Family","apple snails","Animalia",NA
+"Anablepidae","Prey_Family","four-eyed fishes, onesided livebearers, and white-eye","Animalia",NA
+"Anacardiaceae","Prey_Family","cashew family","Plantae",NA
+"Anatidae","Prey_Family","ducks, geese, and swans","Animalia",NA
+"Andrenidae","Prey_Family","mining bees","Animalia",NA
+"Anguidae","Prey_Family","glass and alligator lizards","Animalia",NA
+"Anguillidae","Prey_Family","freshwater eels","Animalia",NA
+"Anhingidae","Prey_Family","darters","Animalia",NA
+"Anisopodidae","Prey_Family","wood gnats","Animalia",NA
+"Annonaceae","Prey_Family","custard-apples","Plantae",NA
+"Antennariidae","Prey_Family","frogfishes","Animalia",NA
+"Anthicidae","Prey_Family","ant-like flower beetles","Animalia",NA
+"Anthocoridae","Prey_Family","minute pirate bugs","Animalia",NA
+"Anthomyiidae","Prey_Family","root-maggot flies","Animalia",NA
+"Anthribidae","Prey_Family","fungus weevils","Animalia",NA
+"Antilocapridae","Prey_Family","pronghorns","Animalia",NA
+"Anyphaenidae","Prey_Family","ghost spiders","Animalia",NA
+"Aphididae","Prey_Family","typical aphids","Animalia",NA
+"Aphredoderidae","Prey_Family","pirate perches","Animalia",NA
+"Aphrophoridae","Prey_Family","true spittlebugs","Animalia",NA
+"Apiaceae","Prey_Family","carrot family","Plantae",NA
+"Apidae","Prey_Family","honey bees, bumble bees, and allies","Animalia",NA
+"Apocynaceae","Prey_Family","dogbane family","Plantae",NA
+"Apodidae","Prey_Family","swifts","Animalia",NA
+"Apogonidae","Prey_Family","cardinalfishes","Animalia",NA
+"Aquifoliaceae","Prey_Family","holly family","Plantae",NA
+"Araceae","Prey_Family","aroids","Plantae",NA
+"Aradidae","Prey_Family","flat bugs","Animalia",NA
+"Araliaceae","Prey_Family","ivy family","Plantae",NA
+"Araneidae","Prey_Family","orbweavers","Animalia",NA
+"Araucariaceae","Prey_Family","araucarians","Plantae",NA
+"Ardeidae","Prey_Family","herons, egrets, and bitterns","Animalia",NA
+"Arecaceae","Prey_Family","palms","Plantae",NA
+"Argasidae","Prey_Family","softbacked ticks","Animalia",NA
+"Argidae","Prey_Family","argid sawflies","Animalia",NA
+"Argonautidae","Prey_Family","argonauts","Animalia",NA
+"Ariidae","Prey_Family","sea catfishes","Animalia",NA
+"Artemiidae","Prey_Family","brine shrimp","Animalia",NA
+"Asilidae","Prey_Family","robber flies","Animalia",NA
+"Asparagaceae","Prey_Family","asparagus family","Plantae",NA
+"Asteraceae","Prey_Family","sunflowers, daisies, asters, and allies","Plantae",NA
+"Asteriidae","Prey_Family","asteriid sea stars","Animalia",NA
+"Atherinidae","Prey_Family","old world silversides","Animalia",NA
+"Atherinopsidae","Prey_Family","neotropical silversides","Animalia",NA
+"Attelabidae","Prey_Family","leaf rolling weevils","Animalia",NA
+"Atyidae","Prey_Family","atyid shrimps","Animalia",NA
+"Atypidae","Prey_Family","purseweb spiders","Animalia",NA
+"Baetidae","Prey_Family","small mayflies","Animalia",NA
+"Balistidae","Prey_Family","triggerfishes","Animalia",NA
+"Balitoridae","Prey_Family","river loaches","Animalia",NA
+"Balsaminaceae","Prey_Family","balsam family","Plantae",NA
+"Batrachoididae","Prey_Family","toadfishes","Animalia",NA
+"Belonidae","Prey_Family","needlefishes","Animalia",NA
+"Belostomatidae","Prey_Family","giant water bugs","Animalia",NA
+"Berberidaceae","Prey_Family","barberry family","Plantae",NA
+"Berytidae","Prey_Family","stilt bugs","Animalia",NA
+"Bethylidae","Prey_Family","flat wasps","Animalia",NA
+"Betulaceae","Prey_Family","birch family","Plantae",NA
+"Bibionidae","Prey_Family","march flies","Animalia",NA
+"Bignoniaceae","Prey_Family","bignonia family","Plantae",NA
+"Bittacidae","Prey_Family","hangingflies","Animalia",NA
+"Blaberidae","Prey_Family","giant cockroaches","Animalia",NA
+"Blattidae","Prey_Family","household cockroaches","Animalia",NA
+"Blenniidae","Prey_Family","combtooth blennies","Animalia",NA
+"Blephariceridae","Prey_Family","net-winged midges","Animalia",NA
+"Blissidae","Prey_Family","chinch bugs and allies","Animalia",NA
+"Bombycillidae","Prey_Family","waxwings","Animalia",NA
+"Bombyliidae","Prey_Family","bee flies","Animalia",NA
+"Boraginaceae","Prey_Family","borage family","Plantae",NA
+"Boridae","Prey_Family","conifer bark beetles","Animalia",NA
+"Bostrichidae","Prey_Family","auger beetles","Animalia",NA
+"Bothidae","Prey_Family","lefteye flounders","Animalia",NA
+"Bovidae","Prey_Family","bovids","Animalia",NA
+"Braconidae","Prey_Family","braconid wasps","Animalia",NA
+"Bramidae","Prey_Family","pomfrets","Animalia",NA
+"Brassicaceae","Prey_Family","mustard family","Plantae",NA
+"Brentidae","Prey_Family","straight-snouted weevils","Animalia",NA
+"Bromeliaceae","Prey_Family","bromeliads","Plantae",NA
+"Buccinidae","Prey_Family","true whelks","Animalia",NA
+"Bufonidae","Prey_Family","true toads","Animalia",NA
+"Buprestidae","Prey_Family","metallic wood-boring beetles","Animalia",NA
+"Burseraceae","Prey_Family","torchwoods","Plantae",NA
+"Buthidae","Prey_Family","arrowbreasted scorpions","Animalia",NA
+"Byrrhidae","Prey_Family","moss beetles","Animalia",NA
+"Cabombaceae","Prey_Family","fanwort family","Plantae",NA
+"Cactaceae","Prey_Family","cactuses","Plantae",NA
+"Caeciliusidae","Prey_Family","lizard barklice","Animalia",NA
+"Caesionidae","Prey_Family","fusiliers","Animalia",NA
+"Calcariidae","Prey_Family","longspurs and snow buntings","Animalia",NA
+"Callianassidae","Prey_Family","ghost shrimps","Animalia",NA
+"Calliphoridae","Prey_Family","blow flies","Animalia",NA
+"Calopterygidae","Prey_Family","broad-winged damselflies","Animalia",NA
+"Cambaridae","Prey_Family","cambarid crayfishes","Animalia",NA
+"Campanulaceae","Prey_Family","bellflower family","Plantae",NA
+"Cancridae","Prey_Family","rock crabs","Animalia",NA
+"Canidae","Prey_Family","canines","Animalia",NA
+"Cannabaceae","Prey_Family","hemp family","Plantae",NA
+"Cantharidae","Prey_Family","soldier beetles","Animalia",NA
+"Capparaceae","Prey_Family","caper family","Plantae",NA
+"Caprifoliaceae","Prey_Family","honeysuckle family","Plantae",NA
+"Caprimulgidae","Prey_Family","nightjars and nighthawks","Animalia",NA
+"Carabidae","Prey_Family","ground beetles","Animalia",NA
+"Carangidae","Prey_Family","jacks","Animalia",NA
+"Cardiidae","Prey_Family","cockles","Animalia",NA
+"Cardinalidae","Prey_Family","cardinals and allies","Animalia",NA
+"Caricaceae","Prey_Family","papaya family","Plantae",NA
+"Caryophyllaceae","Prey_Family","pink family","Plantae",NA
+"Castoridae","Prey_Family","beavers","Animalia",NA
+"Casuarinaceae","Prey_Family","sheoaks","Plantae",NA
+"Cathartidae","Prey_Family","new world vultures","Animalia",NA
+"Catostomidae","Prey_Family","suckers","Animalia",NA
+"Cecidomyiidae","Prey_Family","gall and forest midges","Animalia",NA
+"Celastraceae","Prey_Family","staff-vine family","Plantae",NA
+"Centrarchidae","Prey_Family","sunfishes","Animalia",NA
+"Centrolophidae","Prey_Family","medusafishes","Animalia",NA
+"Centropomidae","Prey_Family","snooks","Animalia",NA
+"Cephidae","Prey_Family","stem sawflies","Animalia",NA
+"Cerambycidae","Prey_Family","longhorn beetles","Animalia",NA
+"Ceratophyllaceae","Prey_Family","coontails","Plantae",NA
+"Ceratopogonidae","Prey_Family","biting midges","Animalia",NA
+"Cercopidae","Prey_Family","froghoppers","Animalia",NA
+"Cerithiidae","Prey_Family","ceriths","Animalia",NA
+"Cerithiopsidae","Prey_Family","cerithiopsid snails","Animalia",NA
+"Certhiidae","Prey_Family","treecreepers","Animalia",NA
+"Cervidae","Prey_Family","deer","Animalia",NA
+"Chaetodontidae","Prey_Family","butterflyfishes","Animalia",NA
+"Chalcididae","Prey_Family","chalcidid wasps","Animalia",NA
+"Chamaemyiidae","Prey_Family","aphid flies","Animalia",NA
+"Chanidae","Prey_Family","milkfishes","Animalia",NA
+"Channidae","Prey_Family","snakeheads","Animalia",NA
+"Chaoboridae","Prey_Family","phantom midges","Animalia",NA
+"Characidae","Prey_Family","characids","Animalia",NA
+"Charadriidae","Prey_Family","plovers and lapwings","Animalia",NA
+"Cheilodactylidae","Prey_Family","morwongs","Animalia",NA
+"Chelydridae","Prey_Family","snapping turtles","Animalia",NA
+"Chinchillidae","Prey_Family","chinchillas and viscachas","Animalia",NA
+"Chironomidae","Prey_Family","non-biting midges","Animalia",NA
+"Chloropidae","Prey_Family","grass flies","Animalia",NA
+"Chrysididae","Prey_Family","cuckoo wasps","Animalia",NA
+"Chrysobalanaceae","Prey_Family","coco plum family","Plantae",NA
+"Chrysomelidae","Prey_Family","leaf beetles","Animalia",NA
+"Chrysopidae","Prey_Family","green lacewings","Animalia",NA
+"Chthoniidae","Prey_Family","chthoniid pseudoscorpions","Animalia",NA
+"Chyromyidae","Prey_Family","golden flies","Animalia",NA
+"Cicadellidae","Prey_Family","typical leafhoppers","Animalia",NA
+"Cicadidae","Prey_Family","typical cicadas","Animalia",NA
+"Cichlidae","Prey_Family","cichlids","Animalia",NA
+"Ciconiidae","Prey_Family","storks","Animalia",NA
+"Ciidae","Prey_Family","shelf fungus beetles","Animalia",NA
+"Cirrhitidae","Prey_Family","hawkfishes","Animalia",NA
+"Cixiidae","Prey_Family","cixiid planthoppers","Animalia",NA
+"Cladoniaceae","Prey_Family","spindles and structured lichens","Fungi",NA
+"Clastopteridae","Prey_Family","clastopterid spittlebugs","Animalia",NA
+"Cleridae","Prey_Family","checkered beetles","Animalia",NA
+"Clubionidae","Prey_Family","sac spiders","Animalia",NA
+"Clupeidae","Prey_Family","shads, sardines, and menhadens","Animalia",NA
+"Clusiaceae","Prey_Family","attorney family","Plantae",NA
+"Cobitidae","Prey_Family","true loaches","Animalia",NA
+"Coccidae","Prey_Family","tortoise scales","Animalia",NA
+"Coccinellidae","Prey_Family","lady beetles","Animalia",NA
+"Coelopidae","Prey_Family","kelp flies","Animalia",NA
+"Coenagrionidae","Prey_Family","narrow-winged damselflies","Animalia",NA
+"Colletidae","Prey_Family","plasterer bees","Animalia",NA
+"Colubridae","Prey_Family","colubrid snakes","Animalia",NA
+"Columbellidae","Prey_Family","dove snails","Animalia",NA
+"Columbidae","Prey_Family","pigeons and doves","Animalia",NA
+"Combretaceae","Prey_Family","bushwillow family","Plantae",NA
+"Commelinaceae","Prey_Family","spiderworts","Plantae",NA
+"Congridae","Prey_Family","congers and garden eels","Animalia",NA
+"Conopidae","Prey_Family","thick-headed flies","Animalia",NA
+"Convolvulaceae","Prey_Family","bindweed family","Plantae",NA
+"Corduliidae","Prey_Family","emerald dragonflies","Animalia",NA
+"Coreidae","Prey_Family","leaf-footed bugs","Animalia",NA
+"Corixidae","Prey_Family","water boatmen","Animalia",NA
+"Cornaceae","Prey_Family","dogwood family","Plantae",NA
+"Corvidae","Prey_Family","crows, jays, and magpies","Animalia",NA
+"Corydalidae","Prey_Family","dobsonflies and fishflies","Animalia",NA
+"Corylophidae","Prey_Family","minute hooded beetles","Animalia",NA
+"Coryphaenidae","Prey_Family","dolphinfishes","Animalia",NA
+"Cossidae","Prey_Family","carpenter and leopard moths","Animalia",NA
+"Cottidae","Prey_Family","typical sculpins","Animalia",NA
+"Crabronidae","Prey_Family","crabronid wasps","Animalia",NA
+"Cracidae","Prey_Family","guans, chachalacas, and curassows","Animalia",NA
+"Crambidae","Prey_Family","crambid snout moths","Animalia",NA
+"Cranchiidae","Prey_Family","cranch squids","Animalia",NA
+"Crassulaceae","Prey_Family","stonecrop family","Plantae",NA
+"Cricetidae","Prey_Family","hamsters, voles, lemmings, and allies","Animalia",NA
+"Crotaphytidae","Prey_Family","collared lizards","Animalia",NA
+"Cryptocercidae","Prey_Family","brown-hooded cockroaches","Animalia",NA
+"Cryptophagidae","Prey_Family","silken fungus beetles","Animalia",NA
+"Ctenizidae","Prey_Family","cork-lid trapdoor spiders","Animalia",NA
+"Cucujidae","Prey_Family","flat bark beetles","Animalia",NA
+"Cuculidae","Prey_Family","cuckoos","Animalia",NA
+"Cucurbitaceae","Prey_Family","gourd family","Plantae",NA
+"Culicidae","Prey_Family","mosquitoes","Animalia",NA
+"Cupedidae","Prey_Family","reticulated beetles","Animalia",NA
+"Cupressaceae","Prey_Family","cypress family","Plantae",NA
+"Curculionidae","Prey_Family","true weevils","Animalia",NA
+"Curimatidae","Prey_Family","toothless characins","Animalia",NA
+"Cyclopteridae","Prey_Family","lumpfishes","Animalia",NA
+"Cydnidae","Prey_Family","burrowing bugs","Animalia",NA
+"Cymodoceaceae","Prey_Family","manatee-grass family","Plantae",NA
+"Cynipidae","Prey_Family","gall wasps","Animalia",NA
+"Cynoglossidae","Prey_Family","tonguefishes","Animalia",NA
+"Cyperaceae","Prey_Family","sedges","Plantae",NA
+"Cyprinidae","Prey_Family","minnows and carps","Animalia",NA
+"Cyprinodontidae","Prey_Family","pupfishes","Animalia",NA
+"Dactyloidae","Prey_Family","anoles","Animalia",NA
+"Dactylopteridae","Prey_Family","flying gurnards","Animalia",NA
+"Dascillidae","Prey_Family","soft-bodied plant beetles","Animalia",NA
+"Dasypodidae","Prey_Family","long-nosed armadillos","Animalia",NA
+"Delphacidae","Prey_Family","delphacid planthoppers","Animalia",NA
+"Depressariidae","Prey_Family","flat-bodied moths","Animalia",NA
+"Dermestidae","Prey_Family","skin beetles","Animalia",NA
+"Diaspididae","Prey_Family","armored scale insects","Animalia",NA
+"Dictyopharidae","Prey_Family","dictyopharid planthoppers","Animalia",NA
+"Didelphidae","Prey_Family","opossums","Animalia",NA
+"Diodontidae","Prey_Family","porcupinefishes","Animalia",NA
+"Dipodidae","Prey_Family","jerboas","Animalia",NA
+"Diprionidae","Prey_Family","conifer sawflies","Animalia",NA
+"Dolichopodidae","Prey_Family","long-legged flies","Animalia",NA
+"Drepanidae","Prey_Family","hooktip & false owlet moths","Animalia",NA
+"Drosophilidae","Prey_Family","vinegar and fruit flies","Animalia",NA
+"Dryinidae","Prey_Family","pincer wasps","Animalia",NA
+"Dryopidae","Prey_Family","long-toed water beetles","Animalia",NA
+"Dryopteridaceae","Prey_Family","shieldfern family","Plantae",NA
+"Dytiscidae","Prey_Family","predaceous diving beetles","Animalia",NA
+"Ebenaceae","Prey_Family","persimmon family","Plantae",NA
+"Echeneidae","Prey_Family","remoras","Animalia",NA
+"Elaeagnaceae","Prey_Family","oleaster family","Plantae",NA
+"Elapidae","Prey_Family","elapid snakes","Animalia",NA
+"Elassomatidae","Prey_Family","pygmy sunfishes","Animalia",NA
+"Elateridae","Prey_Family","click beetles","Animalia",NA
+"Eleotridae","Prey_Family","sleepers","Animalia",NA
+"Eleutherodactylidae","Prey_Family","rain frogs","Animalia",NA
+"Ellobiidae","Prey_Family","hollow-shelled snails","Animalia",NA
+"Elmidae","Prey_Family","riffle beetles","Animalia",NA
+"Elopidae","Prey_Family","tenpounders","Animalia",NA
+"Emberizidae","Prey_Family","old world buntings","Animalia",NA
+"Embiotocidae","Prey_Family","surfperches","Animalia",NA
+"Empididae","Prey_Family","dance flies","Animalia",NA
+"Emydidae","Prey_Family","pond and box turtles","Animalia",NA
+"Encyrtidae","Prey_Family","encyrtid wasps","Animalia",NA
+"Engraulidae","Prey_Family","anchovies","Animalia",NA
+"Ephedraceae","Prey_Family","jointfir family","Plantae",NA
+"Ephemerellidae","Prey_Family","midboreal mayflies","Animalia",NA
+"Ephemeridae","Prey_Family","common burrower mayflies","Animalia",NA
+"Ephydridae","Prey_Family","shore flies","Animalia",NA
+"Epialtidae","Prey_Family","kelp crabs","Animalia",NA
+"Equidae","Prey_Family","equines","Animalia",NA
+"Equisetaceae","Prey_Family","horsetail family","Plantae",NA
+"Erebidae","Prey_Family","underwing, tiger, tussock, and allied moths","Animalia",NA
+"Erethizontidae","Prey_Family","new world porcupines","Animalia",NA
+"Ericaceae","Prey_Family","heathers","Plantae",NA
+"Erotylidae","Prey_Family","pleasing fungus beetles","Animalia",NA
+"Erythrinidae","Prey_Family","trahiras","Animalia",NA
+"Erythroxylaceae","Prey_Family","coca family","Plantae",NA
+"Esocidae","Prey_Family","pikes","Animalia",NA
+"Eucnemidae","Prey_Family","false click beetles","Animalia",NA
+"Euphausiidae","Prey_Family","euphotic krill","Animalia",NA
+"Euphorbiaceae","Prey_Family","spurge family","Plantae",NA
+"Evaniidae","Prey_Family","ensign wasps","Animalia",NA
+"Exocoetidae","Prey_Family","flyingfishes","Animalia",NA
+"Fabaceae","Prey_Family","legumes","Plantae",NA
+"Fagaceae","Prey_Family","beech family","Plantae",NA
+"Falconidae","Prey_Family","falcons and caracaras","Animalia",NA
+"Felidae","Prey_Family","felines","Animalia",NA
+"Fistulariidae","Prey_Family","cornetfishes","Animalia",NA
+"Flatidae","Prey_Family","flatid planthoppers","Animalia",NA
+"Formicidae","Prey_Family","ants","Animalia",NA
+"Fouquieriaceae","Prey_Family","ocotillo family","Plantae",NA
+"Fringillidae","Prey_Family","finches, euphonias, and allies","Animalia",NA
+"Fucaceae","Prey_Family","rockweeds","Chromista",NA
+"Fulgoridae","Prey_Family","fulgorid planthoppers","Animalia",NA
+"Fundulidae","Prey_Family","topminnows","Animalia",NA
+"Gadidae","Prey_Family","cods and haddocks","Animalia",NA
+"Galatheidae","Prey_Family","galatheid squat lobsters","Animalia",NA
+"Galaxiidae","Prey_Family","galaxiids","Animalia",NA
+"Gasterosteidae","Prey_Family","sticklebacks and allies","Animalia",NA
+"Gaviidae","Prey_Family","loons","Animalia",NA
+"Gekkonidae","Prey_Family","typical geckos","Animalia",NA
+"Gelechiidae","Prey_Family","twirler moths","Animalia",NA
+"Gentianaceae","Prey_Family","gentian family","Plantae",NA
+"Geocoridae","Prey_Family","big-eyed bugs","Animalia",NA
+"Geometridae","Prey_Family","geometer moths","Animalia",NA
+"Geomyidae","Prey_Family","pocket gophers","Animalia",NA
+"Geoplanidae","Prey_Family","land planarians","Animalia",NA
+"Geotrupidae","Prey_Family","earth-boring scarab beetles","Animalia",NA
+"Geraniaceae","Prey_Family","geranium family","Plantae",NA
+"Gerreidae","Prey_Family","mojarras","Animalia",NA
+"Gerridae","Prey_Family","water striders","Animalia",NA
+"Glaphyridae","Prey_Family","bumble bee scarab beetles","Animalia",NA
+"Glycymerididae","Prey_Family","bittersweet clams","Animalia",NA
+"Gnaphosidae","Prey_Family","ground spiders","Animalia",NA
+"Gobiesocidae","Prey_Family","clingfishes","Animalia",NA
+"Gobiidae","Prey_Family","gobies","Animalia",NA
+"Gonorynchidae","Prey_Family","beaked salmons","Animalia",NA
+"Gonostomatidae","Prey_Family","bristlemouths","Animalia",NA
+"Gracillariidae","Prey_Family","leaf blotch miner moths","Animalia",NA
+"Grapsidae","Prey_Family","shore crabs","Animalia",NA
+"Griseliniaceae","Prey_Family","griselinia family","Plantae",NA
+"Grossulariaceae","Prey_Family","gooseberry family","Plantae",NA
+"Gryllacrididae","Prey_Family","raspy crickets","Animalia",NA
+"Gryllidae","Prey_Family","true crickets","Animalia",NA
+"Gryllotalpidae","Prey_Family","mole crickets","Animalia",NA
+"Gyrinidae","Prey_Family","whirligig beetles","Animalia",NA
+"Haemodoraceae","Prey_Family","blood roots","Plantae",NA
+"Haemulidae","Prey_Family","grunts","Animalia",NA
+"Halictidae","Prey_Family","sweat bees","Animalia",NA
+"Haliplidae","Prey_Family","crawling water beetles","Animalia",NA
+"Haloragaceae","Prey_Family","water milfoil family","Plantae",NA
+"Hamamelidaceae","Prey_Family","witch-hazel family","Plantae",NA
+"Helicidae","Prey_Family","helicid land snails","Animalia",NA
+"Heliconiaceae","Prey_Family","heliconia family","Plantae",NA
+"Hemerobiidae","Prey_Family","brown lacewings","Animalia",NA
+"Hemiramphidae","Prey_Family","halfbeaks","Animalia",NA
+"Hepialidae","Prey_Family","swift moths","Animalia",NA
+"Heptageniidae","Prey_Family","stream mayflies","Animalia",NA
+"Heptapteridae","Prey_Family","three-barbeled catfishes","Animalia",NA
+"Hesperiidae","Prey_Family","skippers","Animalia",NA
+"Heteroceridae","Prey_Family","variegated mud-loving beetles","Animalia",NA
+"Heteromyidae","Prey_Family","kangaroo rats and pocket mice","Animalia",NA
+"Hexagrammidae","Prey_Family","greenlings","Animalia",NA
+"Hippoboscidae","Prey_Family","louse flies","Animalia",NA
+"Hippolytidae","Prey_Family","hump-backed shrimps","Animalia",NA
+"Hirundinidae","Prey_Family","swallows and martins","Animalia",NA
+"Histeridae","Prey_Family","hister beetles","Animalia",NA
+"Hodotermitidae","Prey_Family","harvester termites","Animalia",NA
+"Holocentridae","Prey_Family","squirrelfishes and soldierfishes","Animalia",NA
+"Hydraenidae","Prey_Family","cascade beetles","Animalia",NA
+"Hydrangeaceae","Prey_Family","hydrangea family","Plantae",NA
+"Hydrobatidae","Prey_Family","storm-petrels","Animalia",NA
+"Hydrobiidae","Prey_Family","hydrobiid mudsnails","Animalia",NA
+"Hydrocharitaceae","Prey_Family","tape-grasses","Plantae",NA
+"Hydrometridae","Prey_Family","water measurers","Animalia",NA
+"Hydrophilidae","Prey_Family","water scavenger beetles","Animalia",NA
+"Hydropsychidae","Prey_Family","net-spinning caddisflies","Animalia",NA
+"Hydroptilidae","Prey_Family","microcaddisflies","Animalia",NA
+"Hydroscaphidae","Prey_Family","skiff beetles","Animalia",NA
+"Hylidae","Prey_Family","tree frogs and allies","Animalia",NA
+"Hypericaceae","Prey_Family","st. john's wort family","Plantae",NA
+"Hyperoliidae","Prey_Family","african reed frogs","Animalia",NA
+"Hypoxidaceae","Prey_Family","stargrass family","Plantae",NA
+"Ichneumonidae","Prey_Family","ichneumonid wasps","Animalia",NA
+"Ictaluridae","Prey_Family","north american freshwater catfishes","Animalia",NA
+"Icteridae","Prey_Family","new world blackbirds and orioles","Animalia",NA
+"Iguanidae","Prey_Family","iguanas and chuckwallas","Animalia",NA
+"Iridaceae","Prey_Family","iris family","Plantae",NA
+"Isonychiidae","Prey_Family","brush-legged mayflies","Animalia",NA
+"Istiophoridae","Prey_Family","billfishes","Animalia",NA
+"Ixodidae","Prey_Family","hard-backed ticks","Animalia",NA
+"Juglandaceae","Prey_Family","walnut family","Plantae",NA
+"Juncaceae","Prey_Family","rushes","Plantae",NA
+"Juncaginaceae","Prey_Family","arrowgrass family","Plantae",NA
+"Kalotermitidae","Prey_Family","drywood termites","Animalia",NA
+"Kateretidae","Prey_Family","short-winged flower beetles","Animalia",NA
+"Keroplatidae","Prey_Family","predatory fungus gnats","Animalia",NA
+"Kinosternidae","Prey_Family","american mud and musk turtles","Animalia",NA
+"Krameriaceae","Prey_Family","ratany family","Plantae",NA
+"Kyphosidae","Prey_Family","sea chubs","Animalia",NA
+"Labiduridae","Prey_Family","striped earwigs","Animalia",NA
+"Labridae","Prey_Family","wrasses","Animalia",NA
+"Labrisomidae","Prey_Family","scaly blennies","Animalia",NA
+"Lacertidae","Prey_Family","wall lizards","Animalia",NA
+"Lamiaceae","Prey_Family","mint family","Plantae",NA
+"Lampyridae","Prey_Family","firefly beetles","Animalia",NA
+"Laniidae","Prey_Family","shrikes","Animalia",NA
+"Laridae","Prey_Family","gulls, terns, and skimmers","Animalia",NA
+"Lasiocampidae","Prey_Family","lappet moths","Animalia",NA
+"Latridiidae","Prey_Family","minute brown scavenger beetles","Animalia",NA
+"Lauraceae","Prey_Family","laurels","Plantae",NA
+"Lauxaniidae","Prey_Family","lauxaniid flies","Animalia",NA
+"Lebiasinidae","Prey_Family","pencilfishes","Animalia",NA
+"Leiodidae","Prey_Family","round fungus beetles","Animalia",NA
+"Lentibulariaceae","Prey_Family","bladderwort family","Plantae",NA
+"Lepadidae","Prey_Family","goose barnacles","Animalia",NA
+"Lepisosteidae","Prey_Family","gars","Animalia",NA
+"Leporidae","Prey_Family","hares and rabbits","Animalia",NA
+"Leptoceridae","Prey_Family","long-horned caddisflies","Animalia",NA
+"Leptodactylidae","Prey_Family","southern frogs","Animalia",NA
+"Leptophlebiidae","Prey_Family","prong-gilled mayflies","Animalia",NA
+"Lestidae","Prey_Family","spread-winged damselflies","Animalia",NA
+"Lethrinidae","Prey_Family","emperor breams","Animalia",NA
+"Leuctridae","Prey_Family","rolled-winged stoneflies","Animalia",NA
+"Libellulidae","Prey_Family","skimmers","Animalia",NA
+"Ligiidae","Prey_Family","rock lice, sea slaters, and allies","Animalia",NA
+"Liliaceae","Prey_Family","lilies","Plantae",NA
+"Limacodidae","Prey_Family","slug caterpillar moths","Animalia",NA
+"Limnephilidae","Prey_Family","northern caddisflies","Animalia",NA
+"Limnichidae","Prey_Family","minute marsh-loving beetles","Animalia",NA
+"Limoniidae","Prey_Family","limoniid crane flies","Animalia",NA
+"Limulidae","Prey_Family","horseshoe crabs","Animalia",NA
+"Linaceae","Prey_Family","flax family","Plantae",NA
+"Linyphiidae","Prey_Family","sheetweb and dwarf weavers","Animalia",NA
+"Liolaemidae","Prey_Family","liolaemids","Animalia",NA
+"Lithodidae","Prey_Family","king crabs","Animalia",NA
+"Littorinidae","Prey_Family","periwinkle snails","Animalia",NA
+"Loliginidae","Prey_Family","pencil squids","Animalia",NA
+"Lonchaeidae","Prey_Family","lance flies","Animalia",NA
+"Lonchopteridae","Prey_Family","spear-winged flies","Animalia",NA
+"Loranthaceae","Prey_Family","showy mistletoes","Plantae",NA
+"Lucanidae","Prey_Family","stag beetles","Animalia",NA
+"Lumbricidae","Prey_Family","earthworms","Animalia",NA
+"Lutjanidae","Prey_Family","snappers","Animalia",NA
+"Lycaenidae","Prey_Family","gossamer-winged butterflies","Animalia",NA
+"Lycidae","Prey_Family","net-winged beetles","Animalia",NA
+"Lycopodiaceae","Prey_Family","clubmosses","Plantae",NA
+"Lycosidae","Prey_Family","wolf spiders","Animalia",NA
+"Lygaeidae","Prey_Family","seed bugs","Animalia",NA
+"Lymnaeidae","Prey_Family","pond and melantho snails","Animalia",NA
+"Lythraceae","Prey_Family","lythrum family","Plantae",NA
+"Macrouridae","Prey_Family","grenadiers","Animalia",NA
+"Mactridae","Prey_Family","duck clams","Animalia",NA
+"Magnoliaceae","Prey_Family","magnolia family","Plantae",NA
+"Majidae","Prey_Family","typical spider crabs","Animalia",NA
+"Malpighiaceae","Prey_Family","nance family","Plantae",NA
+"Malvaceae","Prey_Family","mallow family","Plantae",NA
+"Mantidae","Prey_Family","mantids","Animalia",NA
+"Mantispidae","Prey_Family","mantidflies","Animalia",NA
+"Marantaceae","Prey_Family","arrowroots","Plantae",NA
+"Margarodidae","Prey_Family","cottony cushion scales","Animalia",NA
+"Mecicobothriidae","Prey_Family","dwarf tarantulas","Animalia",NA
+"Megachilidae","Prey_Family","mason, leafcutter, carder, and resin bees","Animalia",NA
+"Megalopodidae","Prey_Family","megalopodid leaf beetles","Animalia",NA
+"Megascolecidae","Prey_Family","giant earthworms","Animalia",NA
+"Meinertellidae","Prey_Family","rock bristletails","Animalia",NA
+"Melandryidae","Prey_Family","false darkling beetles","Animalia",NA
+"Melanthiaceae","Prey_Family","trillium family","Plantae",NA
+"Melastomataceae","Prey_Family","melastome family","Plantae",NA
+"Meliaceae","Prey_Family","mahogany family","Plantae",NA
+"Melitidae","Prey_Family","bivalve scuds","Animalia",NA
+"Meloidae","Prey_Family","blister beetles","Animalia",NA
+"Melyridae","Prey_Family","soft-winged flower beetles","Animalia",NA
+"Membracidae","Prey_Family","typical treehoppers","Animalia",NA
+"Menyanthaceae","Prey_Family","bogbean family","Plantae",NA
+"Mephitidae","Prey_Family","skunks and stink-badgers","Animalia",NA
+"Microdesmidae","Prey_Family","wormfishes and dartfishes","Animalia",NA
+"Microhylidae","Prey_Family","narrowmouth toads","Animalia",NA
+"Milichiidae","Prey_Family","freeloader flies","Animalia",NA
+"Mimetidae","Prey_Family","pirate spiders","Animalia",NA
+"Mimidae","Prey_Family","mockingbirds and thrashers","Animalia",NA
+"Miridae","Prey_Family","plant bugs","Animalia",NA
+"Molannidae","Prey_Family","hood casemakers","Animalia",NA
+"Molidae","Prey_Family","molas","Animalia",NA
+"Molluginaceae","Prey_Family","carpetweed family","Plantae",NA
+"Molossidae","Prey_Family","free-tailed bats","Animalia",NA
+"Monacanthidae","Prey_Family","filefishes","Animalia",NA
+"Monotomidae","Prey_Family","root-eating beetles","Animalia",NA
+"Montiaceae","Prey_Family","pussypaw family","Plantae",NA
+"Moraceae","Prey_Family","fig family","Plantae",NA
+"Mordellidae","Prey_Family","tumbling flower beetles","Animalia",NA
+"Moronidae","Prey_Family","temperate basses","Animalia",NA
+"Motacillidae","Prey_Family","wagtails and pipits","Animalia",NA
+"Mugilidae","Prey_Family","mullets","Animalia",NA
+"Mullidae","Prey_Family","goatfishes","Animalia",NA
+"Muricidae","Prey_Family","murex snails","Animalia",NA
+"Muridae","Prey_Family","old world mice and rats","Animalia",NA
+"Musaceae","Prey_Family","banana family","Plantae",NA
+"Muscicapidae","Prey_Family","old world flycatchers","Animalia",NA
+"Muscidae","Prey_Family","house flies and allies","Animalia",NA
+"Mustelidae","Prey_Family","mustelids","Animalia",NA
+"Mutillidae","Prey_Family","velvet ants","Animalia",NA
+"Mycetophagidae","Prey_Family","hairy fungus beetles","Animalia",NA
+"Mycetophilidae","Prey_Family","fungus gnats","Animalia",NA
+"Mycteridae","Prey_Family","palm and flower beetles","Animalia",NA
+"Myctophidae","Prey_Family","lanternfishes","Animalia",NA
+"Mydidae","Prey_Family","mydas flies","Animalia",NA
+"Myidae","Prey_Family","gapers","Animalia",NA
+"Mymaridae","Prey_Family","fairy wasps","Animalia",NA
+"Myobatrachidae","Prey_Family","australian ground frogs","Animalia",NA
+"Myricaceae","Prey_Family","wax trees and shrubs","Plantae",NA
+"Myrmeleontidae","Prey_Family","antlions and owlflies","Animalia",NA
+"Myrtaceae","Prey_Family","myrtle family","Plantae",NA
+"Mytilidae","Prey_Family","true mussels","Animalia",NA
+"Nabidae","Prey_Family","damsel bugs","Animalia",NA
+"Nassariidae","Prey_Family","nassa mudsnails","Animalia",NA
+"Naticidae","Prey_Family","moon snails","Animalia",NA
+"Naucoridae","Prey_Family","creeping water bugs","Animalia",NA
+"Nemonychidae","Prey_Family","pine flower snout beetles","Animalia",NA
+"Nemouridae","Prey_Family","forestflies","Animalia",NA
+"Nephropidae","Prey_Family","lobsters","Animalia",NA
+"Nepidae","Prey_Family","waterscorpions","Animalia",NA
+"Nitidulidae","Prey_Family","sap-feeding beetles","Animalia",NA
+"Noctuidae","Prey_Family","cutworm moths and allies","Animalia",NA
+"Nomeidae","Prey_Family","driftfishes","Animalia",NA
+"Noteridae","Prey_Family","burrowing water beetles","Animalia",NA
+"Notodontidae","Prey_Family","prominent moths","Animalia",NA
+"Notonectidae","Prey_Family","backswimmers","Animalia",NA
+"Nuculidae","Prey_Family","nut clams","Animalia",NA
+"Nyctaginaceae","Prey_Family","four o'clocks","Plantae",NA
+"Nymphaeaceae","Prey_Family","water-lily family","Plantae",NA
+"Nymphalidae","Prey_Family","brush-footed butterflies","Animalia",NA
+"Nyssaceae","Prey_Family","tupelo family","Plantae",NA
+"Ochotonidae","Prey_Family","pikas","Animalia",NA
+"Octodontidae","Prey_Family","octodonts and degus","Animalia",NA
+"Octopodidae","Prey_Family","typical octopuses","Animalia",NA
+"Octopoteuthidae","Prey_Family","octopus-squids","Animalia",NA
+"Ocypodidae","Prey_Family","ghost and fiddler crabs","Animalia",NA
+"Odontophoridae","Prey_Family","new world quails","Animalia",NA
+"Oedemeridae","Prey_Family","false blister beetles","Animalia",NA
+"Oestridae","Prey_Family","bot flies","Animalia",NA
+"Oleaceae","Prey_Family","olive family","Plantae",NA
+"Ommastrephidae","Prey_Family","flying squids","Animalia",NA
+"Onagraceae","Prey_Family","evening primrose family","Plantae",NA
+"Oniscidae","Prey_Family","sow bugs","Animalia",NA
+"Ophidiidae","Prey_Family","cusk-eels","Animalia",NA
+"Ophioglossaceae","Prey_Family","adder's-tongue family","Plantae",NA
+"Orchidaceae","Prey_Family","orchid family","Plantae",NA
+"Oreasteridae","Prey_Family","cushion stars and allies","Animalia",NA
+"Orobanchaceae","Prey_Family","broomrape family","Plantae",NA
+"Orsodacnidae","Prey_Family","ravenous leaf beetles","Animalia",NA
+"Orussidae","Prey_Family","parasitic wood wasps","Animalia",NA
+"Osmeridae","Prey_Family","smelts","Animalia",NA
+"Osphronemidae","Prey_Family","gouramis","Animalia",NA
+"Ostraciidae","Prey_Family","boxfishes","Animalia",NA
+"Ostreidae","Prey_Family","true oysters","Animalia",NA
+"Otididae","Prey_Family","bustards","Animalia",NA
+"Oxalidaceae","Prey_Family","woodsorrel family","Plantae",NA
+"Oxyopidae","Prey_Family","lynx spiders","Animalia",NA
+"Paguridae","Prey_Family","pagurid hermit crabs","Animalia",NA
+"Pallopteridae","Prey_Family","flutter-wing flies","Animalia",NA
+"Pamphagidae","Prey_Family","shieldback locusts","Animalia",NA
+"Pamphiliidae","Prey_Family","web-spinning sawflies","Animalia",NA
+"Pandanaceae","Prey_Family","screwpine family","Plantae",NA
+"Pandionidae","Prey_Family","ospreys","Animalia",NA
+"Panopeidae","Prey_Family","mud crabs","Animalia",NA
+"Panorpidae","Prey_Family","scorpionflies","Animalia",NA
+"Papaveraceae","Prey_Family","poppy family","Plantae",NA
+"Papilionidae","Prey_Family","swallowtails and parnassians","Animalia",NA
+"Paralepididae","Prey_Family","barracudinas","Animalia",NA
+"Paralichthyidae","Prey_Family","large-tooth flounders","Animalia",NA
+"Parastacidae","Prey_Family","southern hemisphere crayfishes","Animalia",NA
+"Paridae","Prey_Family","tits, chickadees, and titmice","Animalia",NA
+"Parulidae","Prey_Family","new world warblers","Animalia",NA
+"Passalidae","Prey_Family","bess beetles","Animalia",NA
+"Passeridae","Prey_Family","old world sparrows","Animalia",NA
+"Passifloraceae","Prey_Family","passionfruit family","Plantae",NA
+"Patellidae","Prey_Family","patella limpets and allies","Animalia",NA
+"Pectinidae","Prey_Family","scallops","Animalia",NA
+"Pedaliaceae","Prey_Family","pedalium family","Plantae",NA
+"Pelecanidae","Prey_Family","pelicans","Animalia",NA
+"Pelodryadidae","Prey_Family","australasian tree frogs","Animalia",NA
+"Penaeidae","Prey_Family","penaeid shrimps","Animalia",NA
+"Pentatomidae","Prey_Family","stink bugs","Animalia",NA
+"Percidae","Prey_Family","perches, darters, and allies","Animalia",NA
+"Perlidae","Prey_Family","common stoneflies","Animalia",NA
+"Perlodidae","Prey_Family","stripetail and springfly stoneflies","Animalia",NA
+"Petromyzontidae","Prey_Family","northern lampreys","Animalia",NA
+"Phalacridae","Prey_Family","shining flower beetles","Animalia",NA
+"Phalacrocoracidae","Prey_Family","cormorants and shags","Animalia",NA
+"Phasianidae","Prey_Family","pheasants, grouse, and allies","Animalia",NA
+"Phasmatidae","Prey_Family","phasmatids","Animalia",NA
+"Phengodidae","Prey_Family","glowworm beetles","Animalia",NA
+"Philodromidae","Prey_Family","running crab spiders","Animalia",NA
+"Phlaeothripidae","Prey_Family","tube-tailed thrips","Animalia",NA
+"Pholidae","Prey_Family","gunnels","Animalia",NA
+"Phoridae","Prey_Family","humpbacked flies","Animalia",NA
+"Phosichthyidae","Prey_Family","lightfishes","Animalia",NA
+"Phrymaceae","Prey_Family","lopseed family","Plantae",NA
+"Phrynobatrachidae","Prey_Family","puddle frogs","Animalia",NA
+"Phrynosomatidae","Prey_Family","phrynosomatid lizards","Animalia",NA
+"Phylloscopidae","Prey_Family","leaf warblers","Animalia",NA
+"Physidae","Prey_Family","bladder snails","Animalia",NA
+"Phytolaccaceae","Prey_Family","pokeweed family","Plantae",NA
+"Picidae","Prey_Family","woodpeckers","Animalia",NA
+"Pieridae","Prey_Family","whites, yellows, and sulphurs","Animalia",NA
+"Pimelodidae","Prey_Family","long-whiskered catfishes","Animalia",NA
+"Pinaceae","Prey_Family","pine family","Plantae",NA
+"Pinnotheridae","Prey_Family","bivalve pea crabs","Animalia",NA
+"Piophilidae","Prey_Family","cheese skipper flies and allies","Animalia",NA
+"Pipidae","Prey_Family","clawed frogs","Animalia",NA
+"Pipunculidae","Prey_Family","big-headed flies","Animalia",NA
+"Pisauridae","Prey_Family","nursery web spiders","Animalia",NA
+"Pittosporaceae","Prey_Family","cheesewood family","Plantae",NA
+"Planorbidae","Prey_Family","ramshorn snails","Animalia",NA
+"Plantaginaceae","Prey_Family","plantain family","Plantae",NA
+"Platypezidae","Prey_Family","flat-footed flies","Animalia",NA
+"Pleidae","Prey_Family","pygmy backswimmers","Animalia",NA
+"Pleocomidae","Prey_Family","rain beetles","Animalia",NA
+"Pleuroceridae","Prey_Family","pleurocerids","Animalia",NA
+"Pleuronectidae","Prey_Family","righteye flounders","Animalia",NA
+"Ploceidae","Prey_Family","weavers and allies","Animalia",NA
+"Poaceae","Prey_Family","grasses","Plantae",NA
+"Podicipedidae","Prey_Family","grebes","Animalia",NA
+"Poeciliidae","Prey_Family","livebearers and lampeyes","Animalia",NA
+"Polemoniaceae","Prey_Family","phlox family","Plantae",NA
+"Polycentropodidae","Prey_Family","tube maker caddisflies","Animalia",NA
+"Polygalaceae","Prey_Family","milkworts","Plantae",NA
+"Polygonaceae","Prey_Family","knotweed family","Plantae",NA
+"Polygyridae","Prey_Family","polygyrid snails","Animalia",NA
+"Polynemidae","Prey_Family","threadfins","Animalia",NA
+"Polypodiaceae","Prey_Family","polypody family","Plantae",NA
+"Polytrichaceae","Prey_Family","aloe-mosses","Plantae",NA
+"Pomacentridae","Prey_Family","damselfishes and anemonefishes","Animalia",NA
+"Pomatomidae","Prey_Family","bluefishes","Animalia",NA
+"Pompilidae","Prey_Family","spider wasps","Animalia",NA
+"Portulacaceae","Prey_Family","purslane family","Plantae",NA
+"Portunidae","Prey_Family","swimming crabs","Animalia",NA
+"Potamogetonaceae","Prey_Family","pondweed family","Plantae",NA
+"Priacanthidae","Prey_Family","bigeyes","Animalia",NA
+"Primulaceae","Prey_Family","primroses","Plantae",NA
+"Procellariidae","Prey_Family","shearwaters and petrels","Animalia",NA
+"Procyonidae","Prey_Family","raccoons and allies","Animalia",NA
+"Proteaceae","Prey_Family","proteas","Plantae",NA
+"Pseudococcidae","Prey_Family","mealybugs","Animalia",NA
+"Psittacidae","Prey_Family","new world and african parrots","Animalia",NA
+"Psocidae","Prey_Family","common barklice","Animalia",NA
+"Psychidae","Prey_Family","bagworm moths","Animalia",NA
+"Psychodidae","Prey_Family","moth flies and sand flies","Animalia",NA
+"Pteronarcyidae","Prey_Family","giant stoneflies","Animalia",NA
+"Ptinidae","Prey_Family","deathwatch, spider, and wood-borer beetles","Animalia",NA
+"Pyralidae","Prey_Family","pyralid snout moths","Animalia",NA
+"Pyramidellidae","Prey_Family","pyramid snails","Animalia",NA
+"Pyrgomorphidae","Prey_Family","gaudy grasshoppers","Animalia",NA
+"Pyrochroidae","Prey_Family","fire-colored beetles","Animalia",NA
+"Pyrosomatidae","Prey_Family","pyrosomes","Animalia",NA
+"Pyrrhocoridae","Prey_Family","red bugs","Animalia",NA
+"Pythidae","Prey_Family","dead log beetles","Animalia",NA
+"Rajidae","Prey_Family","hardnose skates","Animalia",NA
+"Rallidae","Prey_Family","rails, gallinules, and coots","Animalia",NA
+"Ranidae","Prey_Family","typical frogs","Animalia",NA
+"Ranunculaceae","Prey_Family","buttercup family","Plantae",NA
+"Recurvirostridae","Prey_Family","stilts and avocets","Animalia",NA
+"Reduviidae","Prey_Family","assassin bugs","Animalia",NA
+"Regulidae","Prey_Family","kinglets","Animalia",NA
+"Restionaceae","Prey_Family","restiads","Plantae",NA
+"Rhagionidae","Prey_Family","snipe flies","Animalia",NA
+"Rhamnaceae","Prey_Family","buckthorn family","Plantae",NA
+"Rhaphidophoridae","Prey_Family","camel crickets, cave crickets, and cave weta","Animalia",NA
+"Rhinocryptidae","Prey_Family","tapaculos","Animalia",NA
+"Rhinotermitidae","Prey_Family","subterranean termites","Animalia",NA
+"Rhopalidae","Prey_Family","scentless plant bugs","Animalia",NA
+"Rhyparochromidae","Prey_Family","dirt-colored seed bugs","Animalia",NA
+"Ricaniidae","Prey_Family","ricaniid planthoppers","Animalia",NA
+"Ripiphoridae","Prey_Family","wedge-shaped beetles","Animalia",NA
+"Romaleidae","Prey_Family","lubber grasshoppers","Animalia",NA
+"Rosaceae","Prey_Family","rose family","Plantae",NA
+"Rubiaceae","Prey_Family","madder family","Plantae",NA
+"Ruppiaceae","Prey_Family","widgeonweeds","Plantae",NA
+"Rutaceae","Prey_Family","rue family","Plantae",NA
+"Salamandridae","Prey_Family","newts","Animalia",NA
+"Saldidae","Prey_Family","shore bugs","Animalia",NA
+"Salicaceae","Prey_Family","willow family","Plantae",NA
+"Salmonidae","Prey_Family","salmons, trouts, and whitefishes","Animalia",NA
+"Salpingidae","Prey_Family","narrow-waisted bark beetles","Animalia",NA
+"Salticidae","Prey_Family","jumping spiders","Animalia",NA
+"Santalaceae","Prey_Family","sandalwood family","Plantae",NA
+"Sapindaceae","Prey_Family","soapberry family","Plantae",NA
+"Sapotaceae","Prey_Family","sapodilla family","Plantae",NA
+"Sarcophagidae","Prey_Family","flesh flies","Animalia",NA
+"Sargassaceae","Prey_Family","sargassum and allies","Chromista",NA
+"Saturniidae","Prey_Family","emperor, royal, moon, and giant silk moths","Animalia",NA
+"Saxifragaceae","Prey_Family","saxifrage family","Plantae",NA
+"Scaphiopodidae","Prey_Family","american spadefoot toads","Animalia",NA
+"Scarabaeidae","Prey_Family","scarabs","Animalia",NA
+"Scaridae","Prey_Family","parrotfishes","Animalia",NA
+"Scathophagidae","Prey_Family","dung flies","Animalia",NA
+"Scatopsidae","Prey_Family","minute black scavenger flies","Animalia",NA
+"Scenopinidae","Prey_Family","window flies","Animalia",NA
+"Sciaenidae","Prey_Family","drums","Animalia",NA
+"Sciaridae","Prey_Family","dark-winged fungus gnats","Animalia",NA
+"Scincidae","Prey_Family","skinks","Animalia",NA
+"Sciomyzidae","Prey_Family","marsh flies","Animalia",NA
+"Scirtidae","Prey_Family","marsh beetles","Animalia",NA
+"Sciuridae","Prey_Family","squirrels","Animalia",NA
+"Scoliidae","Prey_Family","scoliid wasps","Animalia",NA
+"Scolopacidae","Prey_Family","sandpipers and allies","Animalia",NA
+"Scomberesocidae","Prey_Family","sauries","Animalia",NA
+"Scombridae","Prey_Family","mackerels, tunas, and bonitos","Animalia",NA
+"Scophthalmidae","Prey_Family","turbots","Animalia",NA
+"Scorpaenidae","Prey_Family","scorpionfishes","Animalia",NA
+"Scorpionidae","Prey_Family","largeclaw scorpions","Animalia",NA
+"Scraptiidae","Prey_Family","false flower beetles","Animalia",NA
+"Scrophulariaceae","Prey_Family","figwort family","Plantae",NA
+"Scutelleridae","Prey_Family","jewel bugs","Animalia",NA
+"Sepsidae","Prey_Family","black scavenger flies","Animalia",NA
+"Sericostomatidae","Prey_Family","bushtailed caddisflies","Animalia",NA
+"Serranidae","Prey_Family","groupers and sea basses","Animalia",NA
+"Sesarmidae","Prey_Family","sesarmid marsh crabs","Animalia",NA
+"Sesiidae","Prey_Family","clearwing moths","Animalia",NA
+"Sialidae","Prey_Family","alderflies","Animalia",NA
+"Sillaginidae","Prey_Family","smelt-whitings","Animalia",NA
+"Silphidae","Prey_Family","burying and carrion beetles","Animalia",NA
+"Siluridae","Prey_Family","sheatfishes","Animalia",NA
+"Simaroubaceae","Prey_Family","quassia family","Plantae",NA
+"Simuliidae","Prey_Family","black flies","Animalia",NA
+"Sirenidae","Prey_Family","sirens","Animalia",NA
+"Siricidae","Prey_Family","horntails","Animalia",NA
+"Sittidae","Prey_Family","nuthatches","Animalia",NA
+"Smilacaceae","Prey_Family","greenbrier family","Plantae",NA
+"Solanaceae","Prey_Family","nightshade family","Plantae",NA
+"Soleidae","Prey_Family","true soles","Animalia",NA
+"Soricidae","Prey_Family","shrews","Animalia",NA
+"Sparassidae","Prey_Family","huntsman spiders","Animalia",NA
+"Sparidae","Prey_Family","sea breams and porgies","Animalia",NA
+"Sphaeroceridae","Prey_Family","lesser dung flies","Animalia",NA
+"Sphaerodactylidae","Prey_Family","sphaeros and allies","Animalia",NA
+"Sphecidae","Prey_Family","thread-waisted wasps","Animalia",NA
+"Sphingidae","Prey_Family","sphinx moths","Animalia",NA
+"Sphyraenidae","Prey_Family","barracudas","Animalia",NA
+"Sphyrnidae","Prey_Family","hammerhead and winghead sharks","Animalia",NA
+"Squalidae","Prey_Family","dogfish sharks","Animalia",NA
+"Squillidae","Prey_Family","squillid mantis shrimps","Animalia",NA
+"Staphylinidae","Prey_Family","rove beetles","Animalia",NA
+"Stenopelmatidae","Prey_Family","jerusalem crickets","Animalia",NA
+"Stenotrachelidae","Prey_Family","false longhorn beetles","Animalia",NA
+"Stephanidae","Prey_Family","crown wasps","Animalia",NA
+"Stercorariidae","Prey_Family","skuas and jaegers","Animalia",NA
+"Sternoptychidae","Prey_Family","marine hatchetfishes","Animalia",NA
+"Stichaeidae","Prey_Family","pricklebacks","Animalia",NA
+"Stratiomyidae","Prey_Family","soldier flies","Animalia",NA
+"Strigidae","Prey_Family","typical owls","Animalia",NA
+"Stromateidae","Prey_Family","butterfishes","Animalia",NA
+"Sturnidae","Prey_Family","starlings","Animalia",NA
+"Styracaceae","Prey_Family","snowbell family","Plantae",NA
+"Succineidae","Prey_Family","ambersnails","Animalia",NA
+"Suidae","Prey_Family","swines","Animalia",NA
+"Sylviidae","Prey_Family","sylviid warblers","Animalia",NA
+"Symplocaceae","Prey_Family","symplocos family","Plantae",NA
+"Synchroidae","Prey_Family","synchroa bark beetles","Animalia",NA
+"Syngnathidae","Prey_Family","pipefishes and seahorses","Animalia",NA
+"Synodontidae","Prey_Family","lizardfishes","Animalia",NA
+"Syrphidae","Prey_Family","hover flies","Animalia",NA
+"Tabanidae","Prey_Family","horse and deer flies","Animalia",NA
+"Tachinidae","Prey_Family","tachinid flies","Animalia",NA
+"Talinaceae","Prey_Family","fameflower family","Plantae",NA
+"Talitridae","Prey_Family","sandhoppers and landhoppers","Animalia",NA
+"Talpidae","Prey_Family","moles and desmans","Animalia",NA
+"Taxaceae","Prey_Family","yew family","Plantae",NA
+"Tayassuidae","Prey_Family","peccaries","Animalia",NA
+"Teiidae","Prey_Family","whiptails and tegus","Animalia",NA
+"Tellinidae","Prey_Family","tellins and allies","Animalia",NA
+"Tenebrionidae","Prey_Family","darkling beetles","Animalia",NA
+"Tenthredinidae","Prey_Family","common sawflies","Animalia",NA
+"Tephritidae","Prey_Family","fruit flies","Animalia",NA
+"Terebellidae","Prey_Family","spaghetti worms","Animalia",NA
+"Termitidae","Prey_Family","higher termites","Animalia",NA
+"Testudinidae","Prey_Family","tortoises","Animalia",NA
+"Tetragnathidae","Prey_Family","long-jawed orbweavers","Animalia",NA
+"Tetranychidae","Prey_Family","spider mites","Animalia",NA
+"Tetraodontidae","Prey_Family","pufferfishes","Animalia",NA
+"Tetratomidae","Prey_Family","polypore fungus beetles","Animalia",NA
+"Tetrigidae","Prey_Family","pygmy grasshoppers","Animalia",NA
+"Tettigoniidae","Prey_Family","katydids","Animalia",NA
+"Thelypteridaceae","Prey_Family","marsh fern family","Plantae",NA
+"Theraphosidae","Prey_Family","tarantulas","Animalia",NA
+"Therevidae","Prey_Family","stiletto flies","Animalia",NA
+"Theridiidae","Prey_Family","cobweb spiders","Animalia",NA
+"Thomisidae","Prey_Family","crab spiders","Animalia",NA
+"Thraupidae","Prey_Family","tanagers and allies","Animalia",NA
+"Threskiornithidae","Prey_Family","ibises and spoonbills","Animalia",NA
+"Throscidae","Prey_Family","small false click beetles","Animalia",NA
+"Thymelaeaceae","Prey_Family","stringbarks","Plantae",NA
+"Thynnidae","Prey_Family","thynnid wasps","Animalia",NA
+"Thyreocoridae","Prey_Family","ebony bugs","Animalia",NA
+"Tineidae","Prey_Family","fungus moths, clothes moths, & allies","Animalia",NA
+"Tingidae","Prey_Family","lace bugs","Animalia",NA
+"Tiphiidae","Prey_Family","tiphiid wasps","Animalia",NA
+"Tipulidae","Prey_Family","large crane flies","Animalia",NA
+"Tortricidae","Prey_Family","tortricid leafroller moths","Animalia",NA
+"Trichiuridae","Prey_Family","cutlassfishes","Animalia",NA
+"Tridactylidae","Prey_Family","pygmy mole crickets","Animalia",NA
+"Triglidae","Prey_Family","searobins","Animalia",NA
+"Trigonidiidae","Prey_Family","trigs, sword-tailed crickets, and ground crickets","Animalia",NA
+"Triopsidae","Prey_Family","tadpole shrimp","Animalia",NA
+"Trochidae","Prey_Family","top snails","Animalia",NA
+"Trochilidae","Prey_Family","hummingbirds","Animalia",NA
+"Trogidae","Prey_Family","hide beetles","Animalia",NA
+"Troglodytidae","Prey_Family","wrens","Animalia",NA
+"Trogonidae","Prey_Family","trogons","Animalia",NA
+"Trogossitidae","Prey_Family","bark-gnawing beetles","Animalia",NA
+"Tropiduridae","Prey_Family","neotropical ground lizards","Animalia",NA
+"Turdidae","Prey_Family","thrushes","Animalia",NA
+"Typhaceae","Prey_Family","bulrushes, cattails, and allies","Plantae",NA
+"Tyrannidae","Prey_Family","tyrant flycatchers","Animalia",NA
+"Tytonidae","Prey_Family","barn-owls","Animalia",NA
+"Ulmaceae","Prey_Family","elm family","Plantae",NA
+"Ulvaceae","Prey_Family","sea lettuces","Plantae",NA
+"Unionidae","Prey_Family","river mussels","Animalia",NA
+"Urticaceae","Prey_Family","nettle family","Plantae",NA
+"Vaejovidae","Prey_Family","devil scorpions","Animalia",NA
+"Veneridae","Prey_Family","venus clams","Animalia",NA
+"Verbenaceae","Prey_Family","verbena family","Plantae",NA
+"Vespertilionidae","Prey_Family","vesper bats","Animalia",NA
+"Vespidae","Prey_Family","hornets, paper wasps, potter wasps, and allies","Animalia",NA
+"Violaceae","Prey_Family","violet family","Plantae",NA
+"Viperidae","Prey_Family","vipers","Animalia",NA
+"Vireonidae","Prey_Family","vireos, shrike-babblers, and erpornis","Animalia",NA
+"Vitaceae","Prey_Family","grape family","Plantae",NA
+"Viviparidae","Prey_Family","river snails","Animalia",NA
+"Vochysiaceae","Prey_Family","vochysia family","Plantae",NA
+"Volutidae","Prey_Family","volutes","Animalia",NA
+"Xiphiidae","Prey_Family","swordfishes","Animalia",NA
+"Xiphydriidae","Prey_Family","xiphydriid wood wasps","Animalia",NA
+"Xyelidae","Prey_Family","xyelid sawflies","Animalia",NA
+"Xylomyidae","Prey_Family","wood soldier flies","Animalia",NA
+"Xylophagidae","Prey_Family","awl-flies","Animalia",NA
+"Xyridaceae","Prey_Family","yellow-eyed grasses","Plantae",NA
+"Zoarcidae","Prey_Family","eelpouts","Animalia",NA
+"Zonitidae","Prey_Family","true glass snails","Animalia",NA
+"Zopheridae","Prey_Family","ironclad beetles","Animalia",NA
+"Zosteraceae","Prey_Family","eelgrasses and surfgrasses","Plantae",NA
+"Zygaenidae","Prey_Family","burnet moths","Animalia",NA
+"Zygophyllaceae","Prey_Family","calthrops","Plantae",NA
+"Abies","Prey_Genus","firs","Plantae",NA
+"Abrothrix","Prey_Genus","altiplano mice","Animalia",NA
+"Abutilon","Prey_Genus","indian mallows","Plantae",NA
+"Acacia","Prey_Genus","wattles","Plantae",NA
+"Acaena","Prey_Genus","bidibid","Plantae",NA
+"Acalypha","Prey_Genus","three-seeded mercuries","Plantae",NA
+"Acanthis","Prey_Genus","redpolls","Animalia",NA
+"Acanthocephala","Prey_Genus","thorny-headed worms","Animalia",NA
+"Acanthus","Prey_Genus","acanthus","Plantae",NA
+"Accipiter","Prey_Genus","accipiters","Animalia",NA
+"Acer","Prey_Genus","maples","Plantae",NA
+"Achillea","Prey_Genus","yarrows","Plantae",NA
+"Acilius","Prey_Genus","small flat diving beetles","Animalia",NA
+"Acmaeodera","Prey_Genus","yellow-marked buprestid beetles","Animalia",NA
+"Acmispon","Prey_Genus","deervetch","Plantae",NA
+"Acris","Prey_Genus","cricket frogs","Animalia",NA
+"Acronicta","Prey_Genus","dagger moths","Animalia",NA
+"Actaea","Prey_Genus","baneberries and cohoshes","Plantae",NA
+"Aechmophorus","Prey_Genus","western and clark's grebes","Animalia",NA
+"Aeshna","Prey_Genus","hawkers and typical darners","Animalia",NA
+"Agapostemon","Prey_Genus","striped sweat bees","Animalia",NA
+"Agathis","Prey_Genus","kauris","Plantae",NA
+"Agave","Prey_Genus","century plants","Plantae",NA
+"Agelenopsis","Prey_Genus","grass spiders","Animalia",NA
+"Agkistrodon","Prey_Genus","copperheads, moccasins, and cottonmouths","Animalia",NA
+"Agoseris","Prey_Genus","mountain dandelion","Plantae",NA
+"Agrimonia","Prey_Genus","agrimonies","Plantae",NA
+"Agrostis","Prey_Genus","bent grass","Plantae",NA
+"Aira","Prey_Genus","hair grass","Plantae",NA
+"Aix","Prey_Genus","wood and mandarin ducks","Animalia",NA
+"Alauda","Prey_Genus","skylarks","Animalia",NA
+"Alchemilla","Prey_Genus","lady's-mantles","Plantae",NA
+"Alectoris","Prey_Genus","rock partridges","Animalia",NA
+"Alisma","Prey_Genus","water plantain","Plantae",NA
+"Allium","Prey_Genus","onions","Plantae",NA
+"Alnus","Prey_Genus","alders","Plantae",NA
+"Alopecurus","Prey_Genus","foxtail grasses","Plantae",NA
+"Alosa","Prey_Genus","anadromous shads","Animalia",NA
+"Altica","Prey_Genus","metallic flea beetles","Animalia",NA
+"Amara","Prey_Genus","sun beetles","Animalia",NA
+"Amaranthus","Prey_Genus","amaranths","Plantae",NA
+"Ambloplites","Prey_Genus","rock basses","Animalia",NA
+"Ambrosia","Prey_Genus","ragweeds","Plantae",NA
+"Ambystoma","Prey_Genus","mole salamanders","Animalia",NA
+"Ameiurus","Prey_Genus","bullheads","Animalia",NA
+"Ameiva","Prey_Genus","jungle-runners","Animalia",NA
+"Amelanchier","Prey_Genus","serviceberries","Plantae",NA
+"Ammodramus","Prey_Genus","grass sparrows","Animalia",NA
+"Ammophila","Prey_Genus","marram grasses","Plantae",NA
+"Ammophila","Prey_Genus","thread-waisted sand wasps","Animalia",NA
+"Ammospermophilus","Prey_Genus","antelope squirrels","Animalia",NA
+"Amsinckia","Prey_Genus","fiddlenecks","Plantae",NA
+"Anacardium","Prey_Genus","cashews","Plantae",NA
+"Anas","Prey_Genus","mallards, pintails, and allies","Animalia",NA
+"Anasa","Prey_Genus","squash bugs","Animalia",NA
+"Anatis","Prey_Genus","giant lady beetles","Animalia",NA
+"Anax","Prey_Genus","emperors and green darners","Animalia",NA
+"Anaxyrus","Prey_Genus","north american toads","Animalia",NA
+"Andrena","Prey_Genus","mining bees","Animalia",NA
+"Andricus","Prey_Genus","oak apple gall wasps","Animalia",NA
+"Andropogon","Prey_Genus","bluestems","Plantae",NA
+"Anemone","Prey_Genus","anemones, thimbleweeds, and windflowers","Plantae",NA
+"Anguilla","Prey_Genus","river eels","Animalia",NA
+"Anguispira","Prey_Genus","tigersnails","Animalia",NA
+"Anolis","Prey_Genus","anoles","Animalia",NA
+"Anomala","Prey_Genus","pale and green leaf chafers","Animalia",NA
+"Anoplius","Prey_Genus","blue-black spider wasps","Animalia",NA
+"Anser","Prey_Genus","grey geese","Animalia",NA
+"Antennaria","Prey_Genus","pussytoes","Plantae",NA
+"Anthemis","Prey_Genus","chamomiles","Plantae",NA
+"Anthophora","Prey_Genus","common digger bees","Animalia",NA
+"Anthus","Prey_Genus","pipits","Animalia",NA
+"Aphaenogaster","Prey_Genus","collared ants","Animalia",NA
+"Aphelocoma","Prey_Genus","scrub-jays and allies","Animalia",NA
+"Apis","Prey_Genus","honey bees","Animalia",NA
+"Apium","Prey_Genus","celery and marshwort","Plantae",NA
+"Apodemus","Prey_Genus","old world field mice","Animalia",NA
+"Aralia","Prey_Genus","spikenards","Plantae",NA
+"Araneus","Prey_Genus","angulate and roundshouldered orbweavers","Animalia",NA
+"Arborimus","Prey_Genus","tree voles","Animalia",NA
+"Arbutus","Prey_Genus","madrones","Plantae",NA
+"Arceuthobium","Prey_Genus","dwarf mistletoe","Plantae",NA
+"Arctium","Prey_Genus","burdocks","Plantae",NA
+"Arctostaphylos","Prey_Genus","bearberries and manzanitas","Plantae",NA
+"Arctous","Prey_Genus","alpine bearberries","Plantae",NA
+"Ardea","Prey_Genus","great herons","Animalia",NA
+"Argemone","Prey_Genus","prickly poppies","Plantae",NA
+"Argia","Prey_Genus","dancers","Animalia",NA
+"Argiope","Prey_Genus","garden orbweavers","Animalia",NA
+"Argonauta","Prey_Genus","argonauts","Animalia",NA
+"Argyrodes","Prey_Genus","dewdrop spiders","Animalia",NA
+"Arisaema","Prey_Genus","jack-in-the-pulpits and cobra lilies","Plantae",NA
+"Aronia","Prey_Genus","chokeberries","Plantae",NA
+"Artemisia","Prey_Genus","wormwoods and sagebrushes","Plantae",NA
+"Artemisiospiza","Prey_Genus","sage sparrows","Animalia",NA
+"Arundinaria","Prey_Genus","canes","Plantae",NA
+"Arvicola","Prey_Genus","water voles","Animalia",NA
+"Asclepias","Prey_Genus","milkweeds","Plantae",NA
+"Asio","Prey_Genus","eared owls and allies","Animalia",NA
+"Asparagus","Prey_Genus","asparagus","Plantae",NA
+"Aster","Prey_Genus","asters","Plantae",NA
+"Astragalus","Prey_Genus","milkvetches","Plantae",NA
+"Athene","Prey_Genus","little owls and allies","Animalia",NA
+"Atheta","Prey_Genus","vexing rove beetles","Animalia",NA
+"Atlanticus","Prey_Genus","eastern shieldbacks","Animalia",NA
+"Atriplex","Prey_Genus","saltbushes","Plantae",NA
+"Avena","Prey_Genus","oats","Plantae",NA
+"Axonopus","Prey_Genus","carpetgrasses","Plantae",NA
+"Aythya","Prey_Genus","scaups and allies","Animalia",NA
+"Baeolophus","Prey_Genus","titmice","Animalia",NA
+"Baptisia","Prey_Genus","wild indigos","Plantae",NA
+"Barbarea","Prey_Genus","wintercresses","Plantae",NA
+"Barbus","Prey_Genus","typical barbs","Animalia",NA
+"Barisia","Prey_Genus","alligator lizards","Animalia",NA
+"Bassariscus","Prey_Genus","ringtails","Animalia",NA
+"Bellis","Prey_Genus","daisies","Plantae",NA
+"Berberis","Prey_Genus","barberries","Plantae",NA
+"Betula","Prey_Genus","birches","Plantae",NA
+"Bibio","Prey_Genus","saint mark's flies","Animalia",NA
+"Bidens","Prey_Genus","bur marigolds","Plantae",NA
+"Bignonia","Prey_Genus","bignonias","Plantae",NA
+"Bipalium","Prey_Genus","broadhead planarians","Animalia",NA
+"Bistorta","Prey_Genus","bistorts","Plantae",NA
+"Bittium","Prey_Genus","needle-whelks","Animalia",NA
+"Blarina","Prey_Genus","short-tailed shrews","Animalia",NA
+"Blissus","Prey_Genus","chinch bugs","Animalia",NA
+"Boana","Prey_Genus","gladiator tree frogs","Animalia",NA
+"Boechera","Prey_Genus","rockcresses","Plantae",NA
+"Boehmeria","Prey_Genus","false nettles and allies","Plantae",NA
+"Boisea","Prey_Genus","boxelder bugs","Animalia",NA
+"Bombus","Prey_Genus","bumble bees","Animalia",NA
+"Bombycilla","Prey_Genus","waxwings","Animalia",NA
+"Bombylius","Prey_Genus","greater bee flies","Animalia",NA
+"Bos","Prey_Genus","cattle","Animalia",NA
+"Botrychium","Prey_Genus","moonworts","Plantae",NA
+"Bouteloua","Prey_Genus","gramas","Plantae",NA
+"Brachiacantha","Prey_Genus","spurleg lady beetles","Animalia",NA
+"Brachinus","Prey_Genus","bombardier beetles","Animalia",NA
+"Branta","Prey_Genus","black geese","Animalia",NA
+"Brassica","Prey_Genus","cabbages and mustards","Plantae",NA
+"Brevoortia","Prey_Genus","menhaden","Animalia",NA
+"Brickellia","Prey_Genus","brickellbushes","Plantae",NA
+"Brochymena","Prey_Genus","rough stink bugs","Animalia",NA
+"Brodiaea","Prey_Genus","brodiaeas","Plantae",NA
+"Bromus","Prey_Genus","bromes","Plantae",NA
+"Bubo","Prey_Genus","eagle-owls and horned owls","Animalia",NA
+"Bucephala","Prey_Genus","goldeneyes and bufflehead","Animalia",NA
+"Buteo","Prey_Genus","buteos","Animalia",NA
+"Butorides","Prey_Genus","green-backed herons","Animalia",NA
+"Caenocara","Prey_Genus","puffball beetles","Animalia",NA
+"Cajanus","Prey_Genus","cajanuses","Plantae",NA
+"Calidris","Prey_Genus","calidrids","Animalia",NA
+"Calliandra","Prey_Genus","stickpeas","Plantae",NA
+"Callicarpa","Prey_Genus","beautyberry","Plantae",NA
+"Calligrapha","Prey_Genus","calligrapher beetles","Animalia",NA
+"Callipepla","Prey_Genus","crested quails","Animalia",NA
+"Callisia","Prey_Genus","roselings","Plantae",NA
+"Callitriche","Prey_Genus","water starwort","Plantae",NA
+"Callospermophilus","Prey_Genus","mountain striped ground squirrels","Animalia",NA
+"Calochortus","Prey_Genus","mariposa lilies","Plantae",NA
+"Calosoma","Prey_Genus","caterpillar-hunter beetles","Animalia",NA
+"Calotes","Prey_Genus","oriental forest lizards","Animalia",NA
+"Camponotus","Prey_Genus","carpenter and sugar ants","Animalia",NA
+"Campylorhynchus","Prey_Genus","large wrens","Animalia",NA
+"Canis","Prey_Genus","wolves, jackals, and allies","Animalia",NA
+"Canthigaster","Prey_Genus","tobies","Animalia",NA
+"Canthon","Prey_Genus","tumblebugs","Animalia",NA
+"Capsella","Prey_Genus","shepherd's-purses","Plantae",NA
+"Capsicum","Prey_Genus","peppers","Plantae",NA
+"Carabus","Prey_Genus","worm and slug hunters","Animalia",NA
+"Caragana","Prey_Genus","peashrubs","Plantae",NA
+"Carassius","Prey_Genus","crucian carps","Animalia",NA
+"Carcinus","Prey_Genus","green crabs","Animalia",NA
+"Cardamine","Prey_Genus","bittercresses","Plantae",NA
+"Cardinalis","Prey_Genus","typical cardinals","Animalia",NA
+"Cardiocondyla","Prey_Genus","sneaking ants","Animalia",NA
+"Cardiospermum","Prey_Genus","heartseed","Plantae",NA
+"Carex","Prey_Genus","true sedges","Plantae",NA
+"Carpinus","Prey_Genus","hornbeams","Plantae",NA
+"Carpiodes","Prey_Genus","carpsuckers","Animalia",NA
+"Carpodacus","Prey_Genus","typical rosefinches","Animalia",NA
+"Carya","Prey_Genus","hickories","Plantae",NA
+"Cassytha","Prey_Genus","dodder laurel","Plantae",NA
+"Castanea","Prey_Genus","chestnuts","Plantae",NA
+"Castilleja","Prey_Genus","paintbrushes","Plantae",NA
+"Castor","Prey_Genus","beavers","Animalia",NA
+"Cataglyphis","Prey_Genus","sahara ants","Animalia",NA
+"Catharus","Prey_Genus","brown thrushes and nightingale-thrushes","Animalia",NA
+"Catocala","Prey_Genus","underwing moths","Animalia",NA
+"Catostomus","Prey_Genus","common suckers","Animalia",NA
+"Celastrus","Prey_Genus","bittersweets","Plantae",NA
+"Celtis","Prey_Genus","hackberries","Plantae",NA
+"Cenchrus","Prey_Genus","sandburs","Plantae",NA
+"Centaurea","Prey_Genus","knapweeds","Plantae",NA
+"Centrocercus","Prey_Genus","sage-grouses","Animalia",NA
+"Cepphus","Prey_Genus","true guillemots","Animalia",NA
+"Ceratina","Prey_Genus","small carpenter bees","Animalia",NA
+"Ceratophyllum","Prey_Genus","hornworts","Plantae",NA
+"Cerceris","Prey_Genus","weevil wasps","Animalia",NA
+"Cercocarpus","Prey_Genus","mountain mahoganies","Plantae",NA
+"Ceresa","Prey_Genus","buffalo treehoppers","Animalia",NA
+"Certhia","Prey_Genus","typical treecreepers","Animalia",NA
+"Channa","Prey_Genus","asian snakeheads","Animalia",NA
+"Chara","Prey_Genus","stoneworts","Plantae",NA
+"Charadrius","Prey_Genus","typical plovers","Animalia",NA
+"Chelydra","Prey_Genus","typical snapping turtles","Animalia",NA
+"Chenopodium","Prey_Genus","goosefoots","Plantae",NA
+"Chilina","Prey_Genus","chilina snails","Animalia",NA
+"Chilocorus","Prey_Genus","twice-stabbed lady beetles","Animalia",NA
+"Chilomycterus","Prey_Genus","burrfishes","Animalia",NA
+"Chimaphila","Prey_Genus","wintergreens","Plantae",NA
+"Chinchilla","Prey_Genus","chinchillas","Animalia",NA
+"Chlaenius","Prey_Genus","vivid metallic ground beetles","Animalia",NA
+"Chlamisus","Prey_Genus","cloaked warty leaf beetles","Animalia",NA
+"Chloroceryle","Prey_Genus","american green kingfishers","Animalia",NA
+"Chordeiles","Prey_Genus","typical nighthawks","Animalia",NA
+"Chroicocephalus","Prey_Genus","masked gulls","Animalia",NA
+"Chromis","Prey_Genus","chromis","Animalia",NA
+"Chrysanthemum","Prey_Genus","chrysanthemums","Plantae",NA
+"Chrysemys","Prey_Genus","painted turtles","Animalia",NA
+"Chrysoperla","Prey_Genus","common green lacewings","Animalia",NA
+"Cicer","Prey_Genus","cicers","Plantae",NA
+"Cicindela","Prey_Genus","common tiger beetles","Animalia",NA
+"Circus","Prey_Genus","harriers","Animalia",NA
+"Cirsium","Prey_Genus","thistles","Plantae",NA
+"Citrullus","Prey_Genus","watermelons","Plantae",NA
+"Citrus","Prey_Genus","citruses","Plantae",NA
+"Cladium","Prey_Genus","sawgrasses","Plantae",NA
+"Cladonia","Prey_Genus","pixie cup lichens","Fungi",NA
+"Claviceps","Prey_Genus","ergots","Fungi",NA
+"Claytonia","Prey_Genus","spring beauties","Plantae",NA
+"Clubiona","Prey_Genus","leafcurling sac spiders","Animalia",NA
+"Coccothrinax","Prey_Genus","silver palms","Plantae",NA
+"Coelioxys","Prey_Genus","cuckoo leaf-cutter bees","Animalia",NA
+"Colaptes","Prey_Genus","flickers","Animalia",NA
+"Colinus","Prey_Genus","bobwhites","Animalia",NA
+"Colletes","Prey_Genus","cellophane bees","Animalia",NA
+"Collinsia","Prey_Genus","blue-eyed marys","Plantae",NA
+"Colpomenia","Prey_Genus","puff-ball algae","Chromista",NA
+"Coluber","Prey_Genus","common racers","Animalia",NA
+"Columba","Prey_Genus","old world pigeons","Animalia",NA
+"Columbina","Prey_Genus","columbina ground-doves","Animalia",NA
+"Commelina","Prey_Genus","dayflowers","Plantae",NA
+"Conepatus","Prey_Genus","hog-nosed skunks","Animalia",NA
+"Conocephalus","Prey_Genus","lesser meadow katydids","Animalia",NA
+"Contopus","Prey_Genus","pewees","Animalia",NA
+"Convolvulus","Prey_Genus","bindweeds","Plantae",NA
+"Copaifera","Prey_Genus","copaiferas","Plantae",NA
+"Coprosma","Prey_Genus","coprosma","Plantae",NA
+"Coptis","Prey_Genus","goldthread","Plantae",NA
+"Coregonus","Prey_Genus","whitefishes","Animalia",NA
+"Cornus","Prey_Genus","dogwoods","Plantae",NA
+"Corokia","Prey_Genus","korokio","Plantae",NA
+"Cortaderia","Prey_Genus","pampas grasses","Plantae",NA
+"Corvus","Prey_Genus","crows and ravens","Animalia",NA
+"Corydalus","Prey_Genus","dobsonflies","Animalia",NA
+"Corylus","Prey_Genus","hazels","Plantae",NA
+"Corymbia","Prey_Genus","bloodgums","Plantae",NA
+"Coryphaena","Prey_Genus","dolphinfishes","Animalia",NA
+"Cotinis","Prey_Genus","green june beetles","Animalia",NA
+"Cotoneaster","Prey_Genus","cotoneasters","Plantae",NA
+"Cottus","Prey_Genus","freshwater sculpins","Animalia",NA
+"Cotula","Prey_Genus","buttons","Plantae",NA
+"Crabro","Prey_Genus","shield-handed square-headed wasps","Animalia",NA
+"Crassula","Prey_Genus","stonecrops","Plantae",NA
+"Crataegus","Prey_Genus","hawthorns","Plantae",NA
+"Cremastocheilus","Prey_Genus","anteater scarab beetles","Animalia",NA
+"Crematogaster","Prey_Genus","acrobat ants","Animalia",NA
+"Crepidodera","Prey_Genus","studded flea beetles","Animalia",NA
+"Crepis","Prey_Genus","hawksbeard","Plantae",NA
+"Crocidura","Prey_Genus","musk shrews","Animalia",NA
+"Crocothemis","Prey_Genus","scarlet skimmers","Animalia",NA
+"Crotalaria","Prey_Genus","rattlepods","Plantae",NA
+"Crotalus","Prey_Genus","rattlesnakes","Animalia",NA
+"Crotaphytus","Prey_Genus","collared lizards","Animalia",NA
+"Croton","Prey_Genus","crotons","Plantae",NA
+"Crotophaga","Prey_Genus","anis","Animalia",NA
+"Cryptantha","Prey_Genus","catseyes","Plantae",NA
+"Cryptotis","Prey_Genus","small-eared shrews","Animalia",NA
+"Ctenophora","Prey_Genus","comb jellies","Animalia",NA
+"Ctenotus","Prey_Genus","ctenotus skinks","Animalia",NA
+"Cuphea","Prey_Genus","cigar plants","Plantae",NA
+"Curculio","Prey_Genus","nut and acorn weevils","Animalia",NA
+"Cuscuta","Prey_Genus","dodders","Plantae",NA
+"Cuterebra","Prey_Genus","glire bot flies","Animalia",NA
+"Cyanocitta","Prey_Genus","blue jay and steller's jay","Animalia",NA
+"Cyanocorax","Prey_Genus","cyanocorax jays","Animalia",NA
+"Cycloneda","Prey_Genus","spotless lady beetles","Animalia",NA
+"Cygnus","Prey_Genus","swans","Animalia",NA
+"Cylindera","Prey_Genus","rounded-thorax tiger beetles","Animalia",NA
+"Cynoglossum","Prey_Genus","hound's-tongues","Plantae",NA
+"Cynomys","Prey_Genus","prairie dogs","Animalia",NA
+"Cynoscion","Prey_Genus","weakfishes","Animalia",NA
+"Cyperus","Prey_Genus","flatsedges","Plantae",NA
+"Cyprinella","Prey_Genus","satinfin shiners","Animalia",NA
+"Cyprinodon","Prey_Genus","pupfish","Animalia",NA
+"Cyprinus","Prey_Genus","typical carps","Animalia",NA
+"Cytisus","Prey_Genus","brooms","Plantae",NA
+"Dactylis","Prey_Genus","cocks-foot and orchard grasses","Plantae",NA
+"Dactyloctenium","Prey_Genus","crowsfoot grasses","Plantae",NA
+"Dalea","Prey_Genus","prairie clovers","Plantae",NA
+"Dasylirion","Prey_Genus","sotols","Plantae",NA
+"Dasypus","Prey_Genus","long-nosed armadillos","Animalia",NA
+"Datura","Prey_Genus","devil's trumpets","Plantae",NA
+"Daucus","Prey_Genus","carrots","Plantae",NA
+"Delphinium","Prey_Genus","larkspurs","Plantae",NA
+"Dendragapus","Prey_Genus","blue grouses","Animalia",NA
+"Dendrocygna","Prey_Genus","whistling-ducks","Animalia",NA
+"Deschampsia","Prey_Genus","hair grass","Plantae",NA
+"Descurainia","Prey_Genus","tansy mustards","Plantae",NA
+"Desmodium","Prey_Genus","ticktrefoils","Plantae",NA
+"Diceroprocta","Prey_Genus","scrub cicadas","Animalia",NA
+"Dichanthelium","Prey_Genus","rosette-panicgrasses","Plantae",NA
+"Dichrostachys","Prey_Genus","dichrostachyses","Plantae",NA
+"Dicrostonyx","Prey_Genus","collared lemmings","Animalia",NA
+"Didelphis","Prey_Genus","large american opossums","Animalia",NA
+"Digitaria","Prey_Genus","crabgrasses","Plantae",NA
+"Diogmites","Prey_Genus","hanging thieves","Animalia",NA
+"Diospyros","Prey_Genus","persimmons","Plantae",NA
+"Dipodomys","Prey_Genus","kangaroo rats","Animalia",NA
+"Dipsacus","Prey_Genus","teasels","Plantae",NA
+"Dipsosaurus","Prey_Genus","desert iguanas","Animalia",NA
+"Discoglossus","Prey_Genus","painted frogs","Animalia",NA
+"Dolichovespula","Prey_Genus","aerial yellowjackets","Animalia",NA
+"Dolomedes","Prey_Genus","fishing spiders","Animalia",NA
+"Dorytomus","Prey_Genus","willow weevils","Animalia",NA
+"Draeculacephala","Prey_Genus","sharpshooters","Animalia",NA
+"Dreissena","Prey_Genus","dreissena mussels","Animalia",NA
+"Drosophila","Prey_Genus","small fruit flies","Animalia",NA
+"Dryopteris","Prey_Genus","wood ferns","Plantae",NA
+"Duttaphrynus","Prey_Genus","asian toads","Animalia",NA
+"Echinochloa","Prey_Genus","barnyard grasses","Plantae",NA
+"Echium","Prey_Genus","viper's-buglosses","Plantae",NA
+"Ectropis","Prey_Genus","engrailed moths","Animalia",NA
+"Elanus","Prey_Genus","elanus kites","Animalia",NA
+"Elaphe","Prey_Genus","ratsnakes","Animalia",NA
+"Elaphrus","Prey_Genus","marsh ground beetles","Animalia",NA
+"Elassoma","Prey_Genus","pygmy sunfishes","Animalia",NA
+"Elatine","Prey_Genus","waterworts","Plantae",NA
+"Eleocharis","Prey_Genus","spikerushes","Plantae",NA
+"Eleodes","Prey_Genus","desert stink beetles","Animalia",NA
+"Eleutherodactylus","Prey_Genus","rain frogs","Animalia",NA
+"Elgaria","Prey_Genus","western alligator lizards","Animalia",NA
+"Ellychnia","Prey_Genus","diurnal fireflies","Animalia",NA
+"Elodea","Prey_Genus","waterweeds","Plantae",NA
+"Elymus","Prey_Genus","wild ryes and wheat grasses","Plantae",NA
+"Emberiza","Prey_Genus","old world buntings","Animalia",NA
+"Empetrum","Prey_Genus","crowberries","Plantae",NA
+"Empidonax","Prey_Genus","empidonax flycatchers","Animalia",NA
+"Encelia","Prey_Genus","brittlebushes","Plantae",NA
+"Enneacanthus","Prey_Genus","banded sunfishes","Animalia",NA
+"Epeolus","Prey_Genus","variegated cuckoo bees","Animalia",NA
+"Ephemera","Prey_Genus","green drakes","Animalia",NA
+"Ephemerella","Prey_Genus","hendricksons, sulphurs, and pale duns","Animalia",NA
+"Epicauta","Prey_Genus","burning blister beetles","Animalia",NA
+"Epilobium","Prey_Genus","willowherbs","Plantae",NA
+"Eptesicus","Prey_Genus","house bats","Animalia",NA
+"Equisetum","Prey_Genus","horsetails","Plantae",NA
+"Equus","Prey_Genus","horses, asses, and zebras","Animalia",NA
+"Eragrostis","Prey_Genus","lovegrasses","Plantae",NA
+"Ericameria","Prey_Genus","goldenbushes","Plantae",NA
+"Erigeron","Prey_Genus","fleabanes and horseweeds","Plantae",NA
+"Eriogonum","Prey_Genus","wild buckwheats","Plantae",NA
+"Eriophorum","Prey_Genus","cottongrass","Plantae",NA
+"Eristalinus","Prey_Genus","lagoon flies","Animalia",NA
+"Erodium","Prey_Genus","stork's-bills","Plantae",NA
+"Erythrina","Prey_Genus","coral trees","Plantae",NA
+"Erythroxylum","Prey_Genus","coca trees","Plantae",NA
+"Estigmene","Prey_Genus","ermines","Animalia",NA
+"Euconocephalus","Prey_Genus","euconocephalus katydids","Animalia",NA
+"Eunemobius","Prey_Genus","even-spurred ground crickets","Animalia",NA
+"Euonymus","Prey_Genus","spindles","Plantae",NA
+"Eupatorium","Prey_Genus","bonesets","Plantae",NA
+"Euphorbia","Prey_Genus","spurges","Plantae",NA
+"Eupithecia","Prey_Genus","pug moths","Animalia",NA
+"Euxesta","Prey_Genus","cornsilk flies","Animalia",NA
+"Fagus","Prey_Genus","beeches","Plantae",NA
+"Falco","Prey_Genus","typical falcons","Animalia",NA
+"Ferocactus","Prey_Genus","barrel cacti","Plantae",NA
+"Festuca","Prey_Genus","fescues","Plantae",NA
+"Ficus","Prey_Genus","figs","Plantae",NA
+"Fimbristylis","Prey_Genus","fringe rush","Plantae",NA
+"Fissidens","Prey_Genus","pocket mosses","Plantae",NA
+"Forestiera","Prey_Genus","swampprivet","Plantae",NA
+"Formica","Prey_Genus","wood, mound, and field ants","Animalia",NA
+"Fragaria","Prey_Genus","strawberries","Plantae",NA
+"Fratercula","Prey_Genus","puffins","Animalia",NA
+"Fraxinus","Prey_Genus","ashes","Plantae",NA
+"Fringilla","Prey_Genus","chaffinches and brambling","Animalia",NA
+"Fucellia","Prey_Genus","seaweed flies","Animalia",NA
+"Fucus","Prey_Genus","vesicled rockweeds","Chromista",NA
+"Fulica","Prey_Genus","coots","Animalia",NA
+"Fulmarus","Prey_Genus","fulmars","Animalia",NA
+"Fumaria","Prey_Genus","fumitories","Plantae",NA
+"Galaxias","Prey_Genus","galaxias","Animalia",NA
+"Galium","Prey_Genus","bedstraws","Plantae",NA
+"Gallinago","Prey_Genus","typical snipes","Animalia",NA
+"Gallinula","Prey_Genus","moorhens","Animalia",NA
+"Gallus","Prey_Genus","junglefowl","Animalia",NA
+"Gambusia","Prey_Genus","mosquitofishes","Animalia",NA
+"Garrulus","Prey_Genus","old world jays","Animalia",NA
+"Gasterosteus","Prey_Genus","threespine sticklebacks","Animalia",NA
+"Gastrophryne","Prey_Genus","north american narrow-mouthed toads","Animalia",NA
+"Gaultheria","Prey_Genus","snowberries","Plantae",NA
+"Gavia","Prey_Genus","loons","Animalia",NA
+"Gaylussacia","Prey_Genus","huckleberries","Plantae",NA
+"Gentiana","Prey_Genus","gentians","Plantae",NA
+"Geococcyx","Prey_Genus","roadrunners","Animalia",NA
+"Geolycosa","Prey_Genus","burrowing wolf spiders","Animalia",NA
+"Geomys","Prey_Genus","eastern pocket gophers","Animalia",NA
+"Geothlypis","Prey_Genus","yellowthroats and allies","Animalia",NA
+"Geranium","Prey_Genus","geraniums and cranesbills","Plantae",NA
+"Gerrhonotus","Prey_Genus","eastern alligator lizards","Animalia",NA
+"Geum","Prey_Genus","avens","Plantae",NA
+"Gladicosa","Prey_Genus","sword wolf spiders","Animalia",NA
+"Glaucomys","Prey_Genus","new world flying squirrels","Animalia",NA
+"Glyceria","Prey_Genus","sweet grass","Plantae",NA
+"Glycine","Prey_Genus","soybeans","Plantae",NA
+"Glycymeris","Prey_Genus","bittersweets","Animalia",NA
+"Gonatus","Prey_Genus","gonate squids","Animalia",NA
+"Gonocephalum","Prey_Genus","dusty surface beetles","Animalia",NA
+"Gopherus","Prey_Genus","gopher and desert tortoises","Animalia",NA
+"Grevillea","Prey_Genus","grevilleas","Plantae",NA
+"Grindelia","Prey_Genus","gumplants","Plantae",NA
+"Gutierrezia","Prey_Genus","matchweeds and snakeweeds","Plantae",NA
+"Gynacantha","Prey_Genus","double-spined darners and duskhawkers","Animalia",NA
+"Gyraulus","Prey_Genus","gyro snails","Animalia",NA
+"Habropoda","Prey_Genus","mountain-digger bees","Animalia",NA
+"Haemorhous","Prey_Genus","american rosefinches","Animalia",NA
+"Haliaeetus","Prey_Genus","sea-eagles and fish-eagles","Animalia",NA
+"Halictus","Prey_Genus","furrow bees","Animalia",NA
+"Halobates","Prey_Genus","sea skaters","Animalia",NA
+"Hamamelis","Prey_Genus","witch hazels","Plantae",NA
+"Helianthus","Prey_Genus","sunflowers","Plantae",NA
+"Heliconia","Prey_Genus","heliconias","Plantae",NA
+"Heliotropium","Prey_Genus","heliotrope","Plantae",NA
+"Hemichromis","Prey_Genus","jewel cichlids","Animalia",NA
+"Hentzia","Prey_Genus","hentz jumping spiders","Animalia",NA
+"Heterodon","Prey_Genus","hognose snakes","Animalia",NA
+"Heuchera","Prey_Genus","alumroots","Plantae",NA
+"Hexagenia","Prey_Genus","giant mayflies","Animalia",NA
+"Hibiscus","Prey_Genus","hibiscuses","Plantae",NA
+"Hieracium","Prey_Genus","hawkweeds","Plantae",NA
+"Hilara","Prey_Genus","balloon flies","Animalia",NA
+"Hilaria","Prey_Genus","galleta grass","Plantae",NA
+"Himantopus","Prey_Genus","typical stilts","Animalia",NA
+"Hippodamia","Prey_Genus","oblong ladybird beetles","Animalia",NA
+"Hoffmannseggia","Prey_Genus","rushpeas","Plantae",NA
+"Hordeum","Prey_Genus","barley and allies","Plantae",NA
+"Hydrangea","Prey_Genus","hydrangeas","Plantae",NA
+"Hydrocotyle","Prey_Genus","water pennyworts","Plantae",NA
+"Hyla","Prey_Genus","holarctic tree frogs","Animalia",NA
+"Hylaeus","Prey_Genus","masked bees","Animalia",NA
+"Hyperaspis","Prey_Genus","sigil lady beetles","Animalia",NA
+"Hypericum","Prey_Genus","st. john's worts","Plantae",NA
+"Hyperstrotia","Prey_Genus","graylet moths","Animalia",NA
+"Hypochaeris","Prey_Genus","cat's-ears","Plantae",NA
+"Hypophthalmichthys","Prey_Genus","bighead carps","Animalia",NA
+"Hypoxis","Prey_Genus","stargrasses","Plantae",NA
+"Icterus","Prey_Genus","new world orioles","Animalia",NA
+"Ictidomys","Prey_Genus","lined ground squirrels","Animalia",NA
+"Ilex","Prey_Genus","hollies","Plantae",NA
+"Illex","Prey_Genus","shortfin squids","Animalia",NA
+"Impatiens","Prey_Genus","jewelweeds","Plantae",NA
+"Indigofera","Prey_Genus","indigos","Plantae",NA
+"Ipomoea","Prey_Genus","morning-glories","Plantae",NA
+"Iris","Prey_Genus","irises","Plantae",NA
+"Ischnura","Prey_Genus","forktails","Animalia",NA
+"Isoetes","Prey_Genus","quillworts","Plantae",NA
+"Isonychia","Prey_Genus","slate drakes","Animalia",NA
+"Istiophorus","Prey_Genus","sailfishes","Animalia",NA
+"Janthina","Prey_Genus","violet snails","Animalia",NA
+"Jasione","Prey_Genus","sheep's bit","Plantae",NA
+"Junco","Prey_Genus","juncos","Animalia",NA
+"Juncus","Prey_Genus","rushes","Plantae",NA
+"Juniperus","Prey_Genus","junipers","Plantae",NA
+"Kalmia","Prey_Genus","mountain-laurels","Plantae",NA
+"Kassina","Prey_Genus","kassina frogs","Animalia",NA
+"Kinosternon","Prey_Genus","mud turtles","Animalia",NA
+"Krameria","Prey_Genus","ratanies","Plantae",NA
+"Krigia","Prey_Genus","dwarf dandelions","Plantae",NA
+"Kyphosus","Prey_Genus","chubs","Animalia",NA
+"Lactuca","Prey_Genus","lettuces","Plantae",NA
+"Lacuna","Prey_Genus","lacuna snails","Animalia",NA
+"Lagocephalus","Prey_Genus","pelagic pufferfishes","Animalia",NA
+"Lagopus","Prey_Genus","ptarmigans","Animalia",NA
+"Lamium","Prey_Genus","deadnettles","Plantae",NA
+"Lampropeltis","Prey_Genus","kingsnakes and milk snakes","Animalia",NA
+"Lampropholis","Prey_Genus","australian sunskinks","Animalia",NA
+"Lanius","Prey_Genus","typical shrikes","Animalia",NA
+"Laphria","Prey_Genus","bee-mimic robber flies","Animalia",NA
+"Larix","Prey_Genus","larches","Plantae",NA
+"Larrea","Prey_Genus","creosote bushes","Plantae",NA
+"Larus","Prey_Genus","large white-headed gulls","Animalia",NA
+"Lasiurus","Prey_Genus","hairy-tailed bats","Animalia",NA
+"Lasius","Prey_Genus","citronella ants","Animalia",NA
+"Lathyrus","Prey_Genus","sweet peas and vetchlings","Plantae",NA
+"Latrodectus","Prey_Genus","widow spiders","Animalia",NA
+"Lebia","Prey_Genus","colorful foliage ground beetles","Animalia",NA
+"Lemmus","Prey_Genus","tundra lemmings","Animalia",NA
+"Lemna","Prey_Genus","duckweeds","Plantae",NA
+"Leontodon","Prey_Genus","hawkbit","Plantae",NA
+"Lepas","Prey_Genus","goose barnacles","Animalia",NA
+"Lepidium","Prey_Genus","peppergrasses","Plantae",NA
+"Leptinotarsa","Prey_Genus","potato beetles","Animalia",NA
+"Leptodactylus","Prey_Genus","neotropical grass frogs","Animalia",NA
+"Lepus","Prey_Genus","hares and jackrabbits","Animalia",NA
+"Lespedeza","Prey_Genus","bush clovers and lespedezas","Plantae",NA
+"Lestes","Prey_Genus","pond spreadwings","Animalia",NA
+"Leucaena","Prey_Genus","leadtrees","Plantae",NA
+"Leucophaeus","Prey_Genus","hooded gulls","Animalia",NA
+"Leucopogon","Prey_Genus","beard-heath","Plantae",NA
+"Leucosticte","Prey_Genus","rosy-finches and mountain-finches","Animalia",NA
+"Libellula","Prey_Genus","chasers and king skimmers","Animalia",NA
+"Ligia","Prey_Genus","sea slaters","Animalia",NA
+"Lignyodes","Prey_Genus","ash seed weevils","Animalia",NA
+"Limnodromus","Prey_Genus","dowitchers","Animalia",NA
+"Limnophila","Prey_Genus","limnophila crane flies","Animalia",NA
+"Lindera","Prey_Genus","spicebushes","Plantae",NA
+"Linnaea","Prey_Genus","abelias","Plantae",NA
+"Linum","Prey_Genus","flaxes","Plantae",NA
+"Liodytes","Prey_Genus","swampsnakes","Animalia",NA
+"Liometopum","Prey_Genus","velvety tree ants","Animalia",NA
+"Liquidambar","Prey_Genus","sweetgums","Plantae",NA
+"Liriodendron","Prey_Genus","tulip trees","Plantae",NA
+"Lithobates","Prey_Genus","american water frogs","Animalia",NA
+"Lithophragma","Prey_Genus","woodland-star","Plantae",NA
+"Lithospermum","Prey_Genus","stoneseeds, puccoons, and gromwells","Plantae",NA
+"Litoria","Prey_Genus","australasian treefrogs","Animalia",NA
+"Lolium","Prey_Genus","ryegrass","Plantae",NA
+"Lolliguncula","Prey_Genus","brief squids","Animalia",NA
+"Lomatium","Prey_Genus","biscuitroots","Plantae",NA
+"Lonicera","Prey_Genus","honeysuckles","Plantae",NA
+"Lottia","Prey_Genus","lottia limpets","Animalia",NA
+"Lotus","Prey_Genus","bird's-foot-trefoils","Plantae",NA
+"Loxia","Prey_Genus","crossbills","Animalia",NA
+"Lucilia","Prey_Genus","greenbottle flies","Animalia",NA
+"Ludwigia","Prey_Genus","primrose-willows","Plantae",NA
+"Lupinus","Prey_Genus","lupines","Plantae",NA
+"Lutjanus","Prey_Genus","common snappers","Animalia",NA
+"Luzula","Prey_Genus","woodrushes","Plantae",NA
+"Lycianthes","Prey_Genus","lycianthes","Plantae",NA
+"Lycium","Prey_Genus","boxthorns","Plantae",NA
+"Lycopodium","Prey_Genus","ground and creeping clubmosses","Plantae",NA
+"Lycopus","Prey_Genus","water horehounds","Plantae",NA
+"Lygus","Prey_Genus","lygus bugs","Animalia",NA
+"Lynx","Prey_Genus","lynxes","Animalia",NA
+"Lyssomanes","Prey_Genus","translucent green jumping spiders","Animalia",NA
+"Lythrum","Prey_Genus","lythrums","Plantae",NA
+"Macrodactylus","Prey_Genus","american rose chafers","Animalia",NA
+"Macroptilium","Prey_Genus","bushbeans","Plantae",NA
+"Madia","Prey_Genus","tarweeds","Plantae",NA
+"Magicicada","Prey_Genus","periodical cicadas","Animalia",NA
+"Magnolia","Prey_Genus","magnolias","Plantae",NA
+"Maianthemum","Prey_Genus","mayflowers and false solomon's seals","Plantae",NA
+"Makaira","Prey_Genus","blue marlins","Animalia",NA
+"Malaclemys","Prey_Genus","diamondback terrapins","Animalia",NA
+"Malus","Prey_Genus","apples","Plantae",NA
+"Mangifera","Prey_Genus","mangoes","Plantae",NA
+"Margarites","Prey_Genus","globe snails","Animalia",NA
+"Marmota","Prey_Genus","marmots","Animalia",NA
+"Mazzaella","Prey_Genus","iridescent algae","Plantae",NA
+"Medicago","Prey_Genus","medicks","Plantae",NA
+"Megacerus","Prey_Genus","large-horned bruchids","Animalia",NA
+"Megachile","Prey_Genus","leafcutter, mortar, and resin bees","Animalia",NA
+"Megascops","Prey_Genus","screech-owls","Animalia",NA
+"Melanitta","Prey_Genus","scoters","Animalia",NA
+"Meleagris","Prey_Genus","turkeys","Animalia",NA
+"Melilotus","Prey_Genus","melilots and sweetclovers","Plantae",NA
+"Meloe","Prey_Genus","oil beetles","Animalia",NA
+"Melospiza","Prey_Genus","melospiza sparrows","Animalia",NA
+"Membranipora","Prey_Genus","lacy crust bryozoans","Animalia",NA
+"Menticirrhus","Prey_Genus","kingcroakers","Animalia",NA
+"Mephitis","Prey_Genus","striped and hooded skunks","Animalia",NA
+"Mergus","Prey_Genus","typical mergansers","Animalia",NA
+"Merhynchites","Prey_Genus","rose weevils","Animalia",NA
+"Messor","Prey_Genus","smooth harvester ants","Animalia",NA
+"Metopium","Prey_Genus","poisonwoods","Plantae",NA
+"Microcentrum","Prey_Genus","angle-winged katydids","Animalia",NA
+"Micropterus","Prey_Genus","black basses","Animalia",NA
+"Microseris","Prey_Genus","silverpuffs","Plantae",NA
+"Microtus","Prey_Genus","meadow voles","Animalia",NA
+"Mimosa","Prey_Genus","sensitive plants","Plantae",NA
+"Mimulus","Prey_Genus","monkeyflowers","Plantae",NA
+"Mimus","Prey_Genus","typical mockingbirds","Animalia",NA
+"Minuartia","Prey_Genus","sandwort","Plantae",NA
+"Mirabilis","Prey_Genus","umbrellaworts","Plantae",NA
+"Misgurnus","Prey_Genus","weatherfishes","Animalia",NA
+"Misumena","Prey_Genus","flower crab spiders","Animalia",NA
+"Mollugo","Prey_Genus","carpetweeds","Plantae",NA
+"Molothrus","Prey_Genus","cowbirds","Animalia",NA
+"Monochamus","Prey_Genus","sawyer beetles","Animalia",NA
+"Monomorium","Prey_Genus","pharaoh ants and timid ants","Animalia",NA
+"Morella","Prey_Genus","bayberries","Plantae",NA
+"Morone","Prey_Genus","western atlantic temperate basses","Animalia",NA
+"Morus","Prey_Genus","mulberries","Plantae",NA
+"Motacilla","Prey_Genus","wagtails","Animalia",NA
+"Moxostoma","Prey_Genus","redhorse suckers","Animalia",NA
+"Muhlenbergia","Prey_Genus","muhly","Plantae",NA
+"Mus","Prey_Genus","typical old world mice","Animalia",NA
+"Musa","Prey_Genus","bananas","Plantae",NA
+"Mustela","Prey_Genus","weasels","Animalia",NA
+"Myadestes","Prey_Genus","typical solitaires and hawaiian thrushes","Animalia",NA
+"Myodes","Prey_Genus","red-backed voles","Animalia",NA
+"Myodocha","Prey_Genus","long-necked seed bugs","Animalia",NA
+"Myolepta","Prey_Genus","pegleg flies","Animalia",NA
+"Myosotis","Prey_Genus","forget-me-nots","Plantae",NA
+"Myotis","Prey_Genus","mouse-eared bats","Animalia",NA
+"Myriophyllum","Prey_Genus","milfoils","Plantae",NA
+"Myrmecocystus","Prey_Genus","honeypot ants","Animalia",NA
+"Najas","Prey_Genus","naiads","Plantae",NA
+"Necturus","Prey_Genus","mudpuppies and waterdogs","Animalia",NA
+"Nematus","Prey_Genus","willow sawflies","Animalia",NA
+"Neochetina","Prey_Genus","water hyacinth weevils","Animalia",NA
+"Neoconocephalus","Prey_Genus","common coneheads","Animalia",NA
+"Neomys","Prey_Genus","eurasian water shrews","Animalia",NA
+"Neoscona","Prey_Genus","spotted orbweavers","Animalia",NA
+"Neotibicen","Prey_Genus","dog day cicadas","Animalia",NA
+"Neotoma","Prey_Genus","woodrats","Animalia",NA
+"Nepeta","Prey_Genus","catnip","Plantae",NA
+"Nephrotoma","Prey_Genus","tiger crane flies","Animalia",NA
+"Nicotiana","Prey_Genus","tobacco","Plantae",NA
+"Nicrophorus","Prey_Genus","burying beetles","Animalia",NA
+"Nigronia","Prey_Genus","dark fishflies","Animalia",NA
+"Nitella","Prey_Genus","stonewort","Plantae",NA
+"Nomada","Prey_Genus","nomad bees","Animalia",NA
+"Notiosorex","Prey_Genus","gray shrews","Animalia",NA
+"Noturus","Prey_Genus","madtoms","Animalia",NA
+"Nucula","Prey_Genus","nut-shells","Animalia",NA
+"Numenius","Prey_Genus","curlews","Animalia",NA
+"Nuphar","Prey_Genus","yellow pond-lilies","Plantae",NA
+"Nycticeius","Prey_Genus","evening bats","Animalia",NA
+"Nymphaea","Prey_Genus","water-lilies","Plantae",NA
+"Nyssa","Prey_Genus","tupelo","Plantae",NA
+"Ochotona","Prey_Genus","pikas","Animalia",NA
+"Odocoileus","Prey_Genus","white-tailed and mule deer","Animalia",NA
+"Odontomachus","Prey_Genus","trap-jaw ants","Animalia",NA
+"Oecanthus","Prey_Genus","common tree crickets","Animalia",NA
+"Oenanthe","Prey_Genus","water-dropworts","Animalia",NA
+"Oenanthe","Prey_Genus","wheatears","Animalia",NA
+"Oenothera","Prey_Genus","evening-primroses","Plantae",NA
+"Olea","Prey_Genus","olives","Plantae",NA
+"Oligoryzomys","Prey_Genus","pygmy rice rats","Animalia",NA
+"Omophron","Prey_Genus","round sand beetles","Animalia",NA
+"Oncorhynchus","Prey_Genus","pacific salmons and trouts","Animalia",NA
+"Onychomys","Prey_Genus","grasshopper mice","Animalia",NA
+"Onychoprion","Prey_Genus","brown-backed terns","Animalia",NA
+"Onykia","Prey_Genus","giant hooked squids","Animalia",NA
+"Opheodrys","Prey_Genus","green snakes","Animalia",NA
+"Ophion","Prey_Genus","ophion wasps","Animalia",NA
+"Opuntia","Prey_Genus","prickly pears","Plantae",NA
+"Oreohelix","Prey_Genus","mountainsnails","Animalia",NA
+"Ornithodoros","Prey_Genus","mammal soft ticks","Animalia",NA
+"Orobanche","Prey_Genus","broomrapes","Plantae",NA
+"Ortalis","Prey_Genus","chachalacas","Animalia",NA
+"Ostrea","Prey_Genus","oysters","Animalia",NA
+"Ostrya","Prey_Genus","hop-hornbeams","Plantae",NA
+"Otospermophilus","Prey_Genus","north american rock squirrels","Animalia",NA
+"Ovis","Prey_Genus","sheep","Animalia",NA
+"Oxalis","Prey_Genus","woodsorrels","Plantae",NA
+"Oxya","Prey_Genus","rice grasshoppers","Animalia",NA
+"Oxytropis","Prey_Genus","locoweed","Plantae",NA
+"Oxyura","Prey_Genus","stiff-tailed ducks","Animalia",NA
+"Pachybrachis","Prey_Genus","scriptured leaf beetles","Animalia",NA
+"Pachyrhinus","Prey_Genus","pine needle weevils","Animalia",NA
+"Palpada","Prey_Genus","plushback flies","Animalia",NA
+"Palystes","Prey_Genus","rain spiders","Animalia",NA
+"Panicum","Prey_Genus","panicgrasses","Plantae",NA
+"Papaver","Prey_Genus","poppies","Plantae",NA
+"Papilio","Prey_Genus","common swallowtails","Animalia",NA
+"Parachromis","Prey_Genus","guapotes","Animalia",NA
+"Pardosa","Prey_Genus","thin-legged wolf spiders","Animalia",NA
+"Parkinsonia","Prey_Genus","palo verde","Plantae",NA
+"Parus","Prey_Genus","great tits and allies","Animalia",NA
+"Paspalum","Prey_Genus","paspalum","Plantae",NA
+"Passer","Prey_Genus","true sparrows","Animalia",NA
+"Passerina","Prey_Genus","north american buntings","Animalia",NA
+"Passerina","Prey_Genus","gonnas","Animalia",NA
+"Passiflora","Prey_Genus","passionflowers","Plantae",NA
+"Patagioenas","Prey_Genus","new world pigeons","Animalia",NA
+"Pediomelum","Prey_Genus","breadroots and scurfpeas","Plantae",NA
+"Pelecanus","Prey_Genus","pelicans","Animalia",NA
+"Pelegrina","Prey_Genus","white-cheeked jumping spiders","Animalia",NA
+"Pelocoris","Prey_Genus","alligator fleas","Animalia",NA
+"Pelophylax","Prey_Genus","water frogs","Animalia",NA
+"Penstemon","Prey_Genus","beardtongues","Plantae",NA
+"Perca","Prey_Genus","perches","Animalia",NA
+"Percina","Prey_Genus","roughbelly darters","Animalia",NA
+"Peromyscus","Prey_Genus","north american deer mice","Animalia",NA
+"Persicaria","Prey_Genus","knotweeds, smartweeds, and waterpeppers","Plantae",NA
+"Petrochelidon","Prey_Genus","cliff-swallows and allies","Animalia",NA
+"Petrosaurus","Prey_Genus","california rock lizards","Animalia",NA
+"Phalacrocorax","Prey_Genus","typical cormorants and shags","Animalia",NA
+"Phalaris","Prey_Genus","canarygrasses","Plantae",NA
+"Phalaropus","Prey_Genus","phalaropes","Animalia",NA
+"Phaseolus","Prey_Genus","beans","Plantae",NA
+"Pheidole","Prey_Genus","big-headed ants","Animalia",NA
+"Pheucticus","Prey_Genus","typical cardinal-grosbeaks","Animalia",NA
+"Phidippus","Prey_Genus","phid jumping spiders","Animalia",NA
+"Phleum","Prey_Genus","timothies","Plantae",NA
+"Phlox","Prey_Genus","phloxes","Plantae",NA
+"Phoradendron","Prey_Genus","leafy mistletoes","Plantae",NA
+"Phrynobatrachus","Prey_Genus","puddle frogs","Animalia",NA
+"Phrynosoma","Prey_Genus","horned lizards","Animalia",NA
+"Phyllophaga","Prey_Genus","may beetles","Animalia",NA
+"Phylloscopus","Prey_Genus","leaf warblers","Animalia",NA
+"Phyllotis","Prey_Genus","leaf-eared mice","Animalia",NA
+"Phymata","Prey_Genus","jagged ambush bugs","Animalia",NA
+"Physa","Prey_Genus","physas","Animalia",NA
+"Physalis","Prey_Genus","groundcherries","Plantae",NA
+"Physocarpus","Prey_Genus","ninebarks","Plantae",NA
+"Phytolacca","Prey_Genus","pokeberries","Plantae",NA
+"Pica","Prey_Genus","typical magpies","Animalia",NA
+"Picea","Prey_Genus","spruces","Plantae",NA
+"Picoides","Prey_Genus","three-toed woodpeckers","Animalia",NA
+"Picus","Prey_Genus","green woodpeckers and allies","Animalia",NA
+"Pimephales","Prey_Genus","bluntnose minnows","Animalia",NA
+"Pinus","Prey_Genus","pines","Plantae",NA
+"Pipilo","Prey_Genus","typical towhees","Animalia",NA
+"Pipistrellus","Prey_Genus","pipistrelles","Animalia",NA
+"Piptochaetium","Prey_Genus","needlegrass","Plantae",NA
+"Piranga","Prey_Genus","northern tanagers","Animalia",NA
+"Pirata","Prey_Genus","pirate wolf spiders","Animalia",NA
+"Pisidium","Prey_Genus","pill clams","Animalia",NA
+"Pissodes","Prey_Genus","pine weevils","Animalia",NA
+"Pisum","Prey_Genus","peas","Plantae",NA
+"Pitangus","Prey_Genus","kiskadees","Animalia",NA
+"Pituophis","Prey_Genus","pine, gopher, and bullsnakes","Animalia",NA
+"Plagiobothrys","Prey_Genus","popcorn flowers","Plantae",NA
+"Plagiolepis","Prey_Genus","restless ants","Animalia",NA
+"Plantago","Prey_Genus","plantain","Plantae",NA
+"Platalea","Prey_Genus","spoonbills","Animalia",NA
+"Platypedia","Prey_Genus","wing-tapping cicadas","Animalia",NA
+"Plectrophenax","Prey_Genus","snow and mckay's buntings","Animalia",NA
+"Pleocoma","Prey_Genus","rain beetles","Animalia",NA
+"Pleurodeles","Prey_Genus","ribbed newts","Animalia",NA
+"Pleurogrammus","Prey_Genus","atka mackerels","Animalia",NA
+"Pluvialis","Prey_Genus","golden plovers and black-bellied plover","Animalia",NA
+"Poa","Prey_Genus","meadow-grasses","Plantae",NA
+"Poecile","Prey_Genus","chickadees and allies","Animalia",NA
+"Poecilia","Prey_Genus","mollies","Animalia",NA
+"Pogonomyrmex","Prey_Genus","harvester ants","Animalia",NA
+"Polistes","Prey_Genus","umbrella paper wasps","Animalia",NA
+"Pollenia","Prey_Genus","cluster flies","Animalia",NA
+"Polygonatum","Prey_Genus","solomon's-seals","Plantae",NA
+"Polygonum","Prey_Genus","knotweeds","Plantae",NA
+"Polygyra","Prey_Genus","flatcoils","Animalia",NA
+"Polyphylla","Prey_Genus","lined june beetles","Animalia",NA
+"Polystichum","Prey_Genus","shield ferns","Plantae",NA
+"Polytrichum","Prey_Genus","haircap mosses","Plantae",NA
+"Pomoxis","Prey_Genus","crappies","Animalia",NA
+"Populus","Prey_Genus","poplars, cottonwoods, and aspens","Plantae",NA
+"Porichthys","Prey_Genus","midshipmen","Animalia",NA
+"Porphyra","Prey_Genus","nori","Plantae",NA
+"Portulaca","Prey_Genus","purslanes","Plantae",NA
+"Potamogeton","Prey_Genus","pondweed","Plantae",NA
+"Potentilla","Prey_Genus","cinquefoils","Plantae",NA
+"Prenanthes","Prey_Genus","purple lettuce","Plantae",NA
+"Prenolepis","Prey_Genus","false honey ants","Animalia",NA
+"Prionotus","Prey_Genus","sea robins","Animalia",NA
+"Procyon","Prey_Genus","raccoons","Animalia",NA
+"Progne","Prey_Genus","new world martins","Animalia",NA
+"Promachus","Prey_Genus","giant robber flies","Animalia",NA
+"Prosopis","Prey_Genus","mesquites","Plantae",NA
+"Prosopium","Prey_Genus","freshwater whitefishes","Animalia",NA
+"Prunus","Prey_Genus","plums, cherries, and allies","Plantae",NA
+"Pseudacris","Prey_Genus","chorus frogs","Animalia",NA
+"Pseudemys","Prey_Genus","cooters","Animalia",NA
+"Pseudopanax","Prey_Genus","lancewoods and five fingers","Plantae",NA
+"Pseudotsuga","Prey_Genus","douglas-firs","Plantae",NA
+"Psidium","Prey_Genus","guavas","Plantae",NA
+"Psoralea","Prey_Genus","fountainbushes","Plantae",NA
+"Psorothamnus","Prey_Genus","indigo bushes and smoke trees","Plantae",NA
+"Psychotria","Prey_Genus","wild coffees","Plantae",NA
+"Psyllobora","Prey_Genus","fungus-eating lady beetles","Animalia",NA
+"Pterodroma","Prey_Genus","gadfly petrels","Animalia",NA
+"Pteronarcys","Prey_Genus","giant stoneflies and salmonflies","Animalia",NA
+"Pterostichus","Prey_Genus","common black ground beetles","Animalia",NA
+"Ptilinus","Prey_Genus","death-watch beetles","Animalia",NA
+"Puccinellia","Prey_Genus","salt grass","Plantae",NA
+"Puffinus","Prey_Genus","small shearwaters","Animalia",NA
+"Pyrola","Prey_Genus","wintergreens","Plantae",NA
+"Pyrus","Prey_Genus","pears","Plantae",NA
+"Quelea","Prey_Genus","queleas","Animalia",NA
+"Quercus","Prey_Genus","oaks","Plantae",NA
+"Quiscalus","Prey_Genus","grackles","Animalia",NA
+"Rallus","Prey_Genus","typical rails","Animalia",NA
+"Rana","Prey_Genus","pond frogs","Animalia",NA
+"Ranunculus","Prey_Genus","buttercups","Plantae",NA
+"Ratibida","Prey_Genus","coneflowers","Plantae",NA
+"Rattus","Prey_Genus","old world rats","Animalia",NA
+"Recurvirostra","Prey_Genus","avocets","Animalia",NA
+"Regulus","Prey_Genus","kinglets","Animalia",NA
+"Reithrodontomys","Prey_Genus","american harvest mice","Animalia",NA
+"Rhamnus","Prey_Genus","buckthorns","Plantae",NA
+"Rhinella","Prey_Genus","beaked toads","Animalia",NA
+"Rhinichthys","Prey_Genus","riffle daces","Animalia",NA
+"Rhinocheilus","Prey_Genus","long-nosed snakes","Animalia",NA
+"Rhodeus","Prey_Genus","typical bitterlings","Animalia",NA
+"Rhododendron","Prey_Genus","rhododendrons and azaleas","Plantae",NA
+"Rhus","Prey_Genus","sumacs","Plantae",NA
+"Rhynchospora","Prey_Genus","beaksedges","Plantae",NA
+"Ribes","Prey_Genus","currants","Plantae",NA
+"Riparia","Prey_Genus","sand martins","Animalia",NA
+"Robinia","Prey_Genus","locusts","Plantae",NA
+"Rorippa","Prey_Genus","yellowcresses","Plantae",NA
+"Rosa","Prey_Genus","roses","Plantae",NA
+"Rubus","Prey_Genus","brambles","Plantae",NA
+"Rumex","Prey_Genus","docks","Plantae",NA
+"Ruppia","Prey_Genus","horse's mane weed","Plantae",NA
+"Sagittaria","Prey_Genus","arrowheads","Plantae",NA
+"Salicornia","Prey_Genus","pickleweeds","Plantae",NA
+"Salix","Prey_Genus","willows","Plantae",NA
+"Salmo","Prey_Genus","atlantic salmons and trouts","Animalia",NA
+"Salsola","Prey_Genus","russian thistles","Plantae",NA
+"Saltator","Prey_Genus","saltators","Animalia",NA
+"Salticus","Prey_Genus","zebra spiders","Animalia",NA
+"Salvadora","Prey_Genus","patch-nosed snakes","Animalia",NA
+"Salvelinus","Prey_Genus","chars","Animalia",NA
+"Sambucus","Prey_Genus","elders","Plantae",NA
+"Sander","Prey_Genus","pikeperches","Animalia",NA
+"Sargassum","Prey_Genus","sargassum","Chromista",NA
+"Sauromalus","Prey_Genus","chuckwallas","Animalia",NA
+"Saxifraga","Prey_Genus","saxifrages","Plantae",NA
+"Sayornis","Prey_Genus","phoebes","Animalia",NA
+"Scapanus","Prey_Genus","western moles","Animalia",NA
+"Scaphinotus","Prey_Genus","snail-eating beetles","Animalia",NA
+"Scaphiopus","Prey_Genus","southern spadefoot toads","Animalia",NA
+"Sceloporus","Prey_Genus","spiny lizards","Animalia",NA
+"Schinus","Prey_Genus","peppertrees","Plantae",NA
+"Schistocerca","Prey_Genus","bird grasshoppers","Animalia",NA
+"Schizachyrium","Prey_Genus","bluestems","Plantae",NA
+"Schizaea","Prey_Genus","comb ferns","Plantae",NA
+"Schizocosa","Prey_Genus","brush-legged spiders","Animalia",NA
+"Scincella","Prey_Genus","ground skinks","Animalia",NA
+"Scirpus","Prey_Genus","club-rushes and bulrushes","Plantae",NA
+"Sciurus","Prey_Genus","tree squirrels","Animalia",NA
+"Sclerophrys","Prey_Genus","african toads","Animalia",NA
+"Scolopax","Prey_Genus","woodcocks","Animalia",NA
+"Scutellaria","Prey_Genus","skullcaps","Plantae",NA
+"Sedum","Prey_Genus","stonecrops","Plantae",NA
+"Selaginella","Prey_Genus","spikemosses","Plantae",NA
+"Selasphorus","Prey_Genus","rufous, allen's, and allied hummingbirds","Animalia",NA
+"Selene","Prey_Genus","lookdowns and moonfishes","Animalia",NA
+"Semotilus","Prey_Genus","creek chubs","Animalia",NA
+"Senecio","Prey_Genus","groundsels","Plantae",NA
+"Senna","Prey_Genus","sennas","Plantae",NA
+"Seriola","Prey_Genus","amberjacks","Animalia",NA
+"Sesamum","Prey_Genus","sesames","Plantae",NA
+"Sesbania","Prey_Genus","riverhemps","Plantae",NA
+"Sesuvium","Prey_Genus","sea-purslanes","Plantae",NA
+"Setaria","Prey_Genus","foxtails and bristlegrasses","Plantae",NA
+"Sialia","Prey_Genus","bluebirds","Animalia",NA
+"Sideroxylon","Prey_Genus","bully trees","Plantae",NA
+"Sigesbeckia","Prey_Genus","st paul's-worts","Plantae",NA
+"Sigmodon","Prey_Genus","cotton rats","Animalia",NA
+"Silene","Prey_Genus","catchflies","Plantae",NA
+"Sitta","Prey_Genus","nuthatches","Animalia",NA
+"Smilax","Prey_Genus","greenbriers","Plantae",NA
+"Solanum","Prey_Genus","nightshades","Plantae",NA
+"Solenopsis","Prey_Genus","fire ants","Animalia",NA
+"Solidago","Prey_Genus","goldenrods","Plantae",NA
+"Somateria","Prey_Genus","eiders","Animalia",NA
+"Sonchus","Prey_Genus","sow thistles","Plantae",NA
+"Sorbus","Prey_Genus","rowans, service-trees, and whitebeams","Plantae",NA
+"Sorex","Prey_Genus","long-tailed shrews","Animalia",NA
+"Sparganium","Prey_Genus","bur-reeds","Plantae",NA
+"Spartina","Prey_Genus","rice grasses","Plantae",NA
+"Spea","Prey_Genus","western spadefoot toads","Animalia",NA
+"Spergula","Prey_Genus","spurreys","Plantae",NA
+"Spermophilus","Prey_Genus","old world ground squirrels","Animalia",NA
+"Sphaeralcea","Prey_Genus","globemallows","Plantae",NA
+"Sphaerium","Prey_Genus","fingernail clams","Animalia",NA
+"Sphaerodactylus","Prey_Genus","sphaeros","Animalia",NA
+"Sphecius","Prey_Genus","cicada-killer wasps","Animalia",NA
+"Sphenophorus","Prey_Genus","billbug weevils","Animalia",NA
+"Sphyraena","Prey_Genus","barracudas","Animalia",NA
+"Sphyrapicus","Prey_Genus","sapsuckers","Animalia",NA
+"Sphyrna","Prey_Genus","hammerhead sharks","Animalia",NA
+"Spilogale","Prey_Genus","spotted skunks","Animalia",NA
+"Spinus","Prey_Genus","siskins and new world goldfinches","Animalia",NA
+"Spiraea","Prey_Genus","meadowsweet","Plantae",NA
+"Spirodela","Prey_Genus","duckweeds","Plantae",NA
+"Spodoptera","Prey_Genus","armyworm moths","Animalia",NA
+"Sporobolus","Prey_Genus","dropseeds, cordgrasses, and sandreeds","Plantae",NA
+"Spratelloides","Prey_Genus","sprats","Animalia",NA
+"Squalus","Prey_Genus","spurdogs","Animalia",NA
+"Stachys","Prey_Genus","hedgenettles","Plantae",NA
+"Stellaria","Prey_Genus","chickweeds","Plantae",NA
+"Stenolophus","Prey_Genus","seedcorn beetles","Animalia",NA
+"Stenopelmatus","Prey_Genus","jerusalem crickets","Animalia",NA
+"Stercorarius","Prey_Genus","skuas and jaegers","Animalia",NA
+"Sterna","Prey_Genus","typical terns","Animalia",NA
+"Sternotherus","Prey_Genus","musk turtles","Animalia",NA
+"Stipa","Prey_Genus","needle grasses","Plantae",NA
+"Storeria","Prey_Genus","american brown snakes","Animalia",NA
+"Streptopelia","Prey_Genus","turtle doves and collared doves","Animalia",NA
+"Streptopus","Prey_Genus","twistedstalk","Plantae",NA
+"Strophostyles","Prey_Genus","fuzzybeans","Plantae",NA
+"Strumigenys","Prey_Genus","snappy detritus ants","Animalia",NA
+"Sturnella","Prey_Genus","eastern and western meadowlarks","Animalia",NA
+"Styrax","Prey_Genus","snowbells","Plantae",NA
+"Succinea","Prey_Genus","typical ambersnails","Animalia",NA
+"Sus","Prey_Genus","boars and warty pigs","Animalia",NA
+"Sylvilagus","Prey_Genus","cottontail rabbits","Animalia",NA
+"Symphoricarpos","Prey_Genus","snowberries","Plantae",NA
+"Symphytum","Prey_Genus","comfrey","Plantae",NA
+"Synaptomys","Prey_Genus","bog lemmings","Animalia",NA
+"Tabanus","Prey_Genus","true horse flies","Animalia",NA
+"Tamiasciurus","Prey_Genus","pine squirrels","Animalia",NA
+"Tantilla","Prey_Genus","centipede snakes","Animalia",NA
+"Taraxacum","Prey_Genus","dandelions","Plantae",NA
+"Taxodium","Prey_Genus","baldcypresses","Plantae",NA
+"Taxus","Prey_Genus","yews","Plantae",NA
+"Temnostoma","Prey_Genus","falsehorn flies","Animalia",NA
+"Tephrosia","Prey_Genus","hoarypeas","Plantae",NA
+"Terrapene","Prey_Genus","box turtles","Animalia",NA
+"Tetracis","Prey_Genus","slant-lines","Animalia",NA
+"Tetramorium","Prey_Genus","fierce ants","Animalia",NA
+"Tetrao","Prey_Genus","capercaillies and black grouses","Animalia",NA
+"Tetraopes","Prey_Genus","milkweed longhorn beetles","Animalia",NA
+"Thalasseus","Prey_Genus","crested terns","Animalia",NA
+"Thalictrum","Prey_Genus","meadow-rues","Plantae",NA
+"Thamnophis","Prey_Genus","garter snakes","Animalia",NA
+"Thelypteris","Prey_Genus","maiden ferns","Plantae",NA
+"Thlaspi","Prey_Genus","penny cress","Plantae",NA
+"Thomomys","Prey_Genus","western pocket gophers","Animalia",NA
+"Thuja","Prey_Genus","thujas","Plantae",NA
+"Thunnus","Prey_Genus","bluefin tunas","Animalia",NA
+"Thymallus","Prey_Genus","graylings","Animalia",NA
+"Tiarella","Prey_Genus","foamflowers","Plantae",NA
+"Tiaris","Prey_Genus","typical grassquits","Animalia",NA
+"Tibellus","Prey_Genus","slender crab spiders","Animalia",NA
+"Tilapia","Prey_Genus","typical tilapias","Animalia",NA
+"Tomarus","Prey_Genus","carrot beetles","Animalia",NA
+"Tomopterna","Prey_Genus","sand frogs","Animalia",NA
+"Toxicodendron","Prey_Genus","poison ivies and oaks","Plantae",NA
+"Toxostoma","Prey_Genus","typical thrashers","Animalia",NA
+"Trachinotus","Prey_Genus","pompanos","Animalia",NA
+"Tradescantia","Prey_Genus","spiderworts","Plantae",NA
+"Tragia","Prey_Genus","noseburns","Plantae",NA
+"Tragopogon","Prey_Genus","salsifies","Plantae",NA
+"Tremoctopus","Prey_Genus","blanket octopuses","Animalia",NA
+"Trichiotinus","Prey_Genus","bee-like flower scarab beetles","Animalia",NA
+"Trichonephila","Prey_Genus","banded orbweavers","Animalia",NA
+"Trichostema","Prey_Genus","bluecurls","Plantae",NA
+"Trifolium","Prey_Genus","clovers","Plantae",NA
+"Triglochin","Prey_Genus","arrow grass","Plantae",NA
+"Tringa","Prey_Genus","shanks, tattlers, and allies","Animalia",NA
+"Trithemis","Prey_Genus","dropwings","Animalia",NA
+"Triticum","Prey_Genus","wheats","Plantae",NA
+"Trogon","Prey_Genus","new world trogons","Animalia",NA
+"Tsuga","Prey_Genus","hemlocks","Plantae",NA
+"Turdus","Prey_Genus","typical thrushes","Animalia",NA
+"Tympanuchus","Prey_Genus","prairie-chickens and sharp-tailed grouse","Animalia",NA
+"Typha","Prey_Genus","bulrushes and cattails","Plantae",NA
+"Tyrannus","Prey_Genus","kingbirds","Animalia",NA
+"Tyto","Prey_Genus","barn, masked, grass, and sooty owls","Animalia",NA
+"Uca","Prey_Genus","fiddler crabs","Animalia",NA
+"Ulmus","Prey_Genus","elms","Plantae",NA
+"Ulva","Prey_Genus","sea lettuces","Plantae",NA
+"Uria","Prey_Genus","murres","Animalia",NA
+"Urocyon","Prey_Genus","gray foxes","Animalia",NA
+"Urosaurus","Prey_Genus","tree and bush lizards","Animalia",NA
+"Uta","Prey_Genus","side-blotched lizards","Animalia",NA
+"Utricularia","Prey_Genus","bladderworts","Plantae",NA
+"Vaccinium","Prey_Genus","blueberries, cranberries, and allies","Plantae",NA
+"Vachellia","Prey_Genus","thorn trees","Plantae",NA
+"Vallonia","Prey_Genus","grass-snails","Animalia",NA
+"Vanellus","Prey_Genus","lapwings","Animalia",NA
+"Vanessa","Prey_Genus","ladies and related admirals","Animalia",NA
+"Verbena","Prey_Genus","vervain","Plantae",NA
+"Verbesina","Prey_Genus","crownbeard","Plantae",NA
+"Vespa","Prey_Genus","hornets","Animalia",NA
+"Vespula","Prey_Genus","ground yellowjackets","Animalia",NA
+"Viburnum","Prey_Genus","viburnums","Plantae",NA
+"Vicia","Prey_Genus","vetches","Plantae",NA
+"Vinca","Prey_Genus","periwinkles","Plantae",NA
+"Viola","Prey_Genus","violets","Plantae",NA
+"Vireo","Prey_Genus","vireos","Animalia",NA
+"Vitis","Prey_Genus","grapevines","Plantae",NA
+"Vulpes","Prey_Genus","typical foxes","Animalia",NA
+"Wahlenbergia","Prey_Genus","capebells","Plantae",NA
+"Wolffia","Prey_Genus","watermeals","Plantae",NA
+"Xanthium","Prey_Genus","cockleburs","Plantae",NA
+"Xenopus","Prey_Genus","platannas","Animalia",NA
+"Xerospermophilus","Prey_Genus","pygmy ground squirrels","Animalia",NA
+"Xyleborus","Prey_Genus","xyleborus ambrosia beetles","Animalia",NA
+"Xylocopa","Prey_Genus","large carpenter bees","Animalia",NA
+"Xyris","Prey_Genus","yellow-eyed grasses","Plantae",NA
+"Xysticus","Prey_Genus","ground crab spiders","Animalia",NA
+"Yucca","Prey_Genus","yuccas","Plantae",NA
+"Zanthoxylum","Prey_Genus","prickly-ash","Plantae",NA
+"Zizania","Prey_Genus","wild rice","Plantae",NA
+"Ziziphus","Prey_Genus","jujube","Plantae",NA
+"Zonitoides","Prey_Genus","gloss snails","Animalia",NA
+"Zonotrichia","Prey_Genus","zonotrichia sparrows","Animalia",NA
+"Zootermopsis","Prey_Genus","rottenwood termites","Animalia",NA
+"Zostera","Prey_Genus","eelgrasses","Plantae",NA
+"Zygoballus","Prey_Genus","hammer-jawed jumping spiders","Animalia",NA
+"Lepidoptera","Prey_Order","caterpillars","Animalia","larva"

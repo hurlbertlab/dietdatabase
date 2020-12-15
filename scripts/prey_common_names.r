@@ -145,5 +145,5 @@ commonNamesList = rbind(phylumNames, classNames, orderNames, suborderNames, fami
 commonNamesList$Prey_Stage[commonNamesList$taxon == "Lepidoptera" & 
                              commonNamesList$commonName == "butterflies and moths"] = "adult"
 
-write.csv(commonNamesList, preyCommonNames.csv)  
+write.csv(commonNamesList, 'preyCommonNames.csv', row.names = F)  
 
