@@ -36,7 +36,7 @@ phylumNames = dietnames %>%
   left_join(commNames, by = c('Prey_Phylum' = 'scientific_name', 'Prey_Kingdom' = 'Prey_Kingdom')) %>%
   filter(!is.na(common_name),
          common_name != 'Mosses') %>% # leaving Bryophyta = mosses, deleting duplicate Bryophyta = Mosses
-  mutate(rank = 'Prey_Phylum') %>%
+  mutate(taxonomic_rank = 'Prey_Phylum') %>%
   rename(taxon = Prey_Phylum) %>%
   arrange(taxon)
 
@@ -45,7 +45,7 @@ classNames = dietnames %>%
   filter(Prey_Class != "", !is.na(Prey_Class)) %>% 
   left_join(commNames, by = c('Prey_Class' = 'scientific_name', 'Prey_Kingdom' = 'Prey_Kingdom')) %>%
   filter(!is.na(common_name)) %>%
-  mutate(rank = 'Prey_Class') %>%
+  mutate(taxonomic_rank = 'Prey_Class') %>%
   rename(taxon = Prey_Class) %>%
   arrange(taxon)
 
@@ -55,7 +55,7 @@ orderNames = dietnames %>%
   left_join(commNames, by = c('Prey_Order' = 'scientific_name', 'Prey_Kingdom' = 'Prey_Kingdom')) %>%
   filter(!is.na(common_name),
          !common_name %in% c('Even-toed Ungulates and Cetaceans', 'pinks, cacti, and allies')) %>%
-  mutate(rank = 'Prey_Order') %>%
+  mutate(taxonomic_rank = 'Prey_Order') %>%
   rename(taxon = Prey_Order) %>%
   arrange(taxon)
 
@@ -66,7 +66,7 @@ suborderNames = dietnames %>%
   left_join(commNames, by = c('Prey_Suborder' = 'scientific_name', 'Prey_Kingdom' = 'Prey_Kingdom')) %>%
   filter(!is.na(common_name),
          !common_name %in% c('')) %>%
-  mutate(rank = 'Prey_Suborder') %>%
+  mutate(taxonomic_rank = 'Prey_Suborder') %>%
   rename(taxon = Prey_Suborder) %>%
   arrange(taxon)
 
@@ -80,7 +80,7 @@ familyNames = dietnames %>%
                              'ratanies', 
                              '<U+8568><U+985E>', 
                              'Tiphiid Flower Wasps')) %>%
-  mutate(rank = 'Prey_Family') %>%
+  mutate(taxonomic_rank = 'Prey_Family') %>%
   rename(taxon = Prey_Family) %>%
   arrange(taxon)
 
@@ -119,13 +119,13 @@ genusNames = dietnames %>%
                              'Narrow-fronted Fiddler Crabs'),
          !(Prey_Kingdom == 'Animalia' & common_name == 'marram grasses'),
          !(Prey_Kingdom == 'Plantae' & common_name == 'Thread-waisted Sand Wasps')) %>%  
-  mutate(rank = 'Prey_Genus') %>%
+  mutate(taxonomic_rank = 'Prey_Genus') %>%
   rename(taxon = Prey_Genus) %>%
   arrange(taxon)
 
 genusNames$common_name[genusNames$taxon == "Limnophila" & genusNames$Prey_Kingdom == "Plantae"] = "marshweed"
-genusNames$Prey_Kingdom[genusNames$taxon == "Oenanthe" & genusNames$iconic_taxon_name == "Water-dropworts"] = "Plantae"
-genusNames$Prey_Kingdom[genusNames$taxon == "Passerina" & genusNames$iconic_taxon_name == "Gonnas"] = "Plantae"
+genusNames$Prey_Kingdom[genusNames$taxon == "Oenanthe" & tolower(genusNames$iconic_taxon_name) == "water-dropworts"] = "Plantae"
+genusNames$Prey_Kingdom[genusNames$taxon == "Passerina" & tolower(genusNames$iconic_taxon_name) == "gonnas"] = "Plantae"
 
 # Currently there are 4 homonymns where the genus name is present in both Animalia and Plantae:
 #  Limnophila, Oenanthe, Passerina, and Ammophila
