@@ -225,7 +225,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Diet_Type</td>
-	<td>4 possible values. <b>Wt_or_Vol</b>: Fraction of the diet as measured by weight or volume. E.g., all beetles in the stomach 
+	<td>Use one of 4 possible terms: <b>Wt_or_Vol</b>: Fraction of the diet as measured by weight or volume. E.g., all beetles in the stomach 
     contents were weighed, and this value was divided by the mass of all stomach contents. <b>Items</b>: Fraction of the diet as
     measured by a count of the number of prey items. E.g., the number of beetles in the stomach contents were counted, and this 
     value was divided by the total number of unique prey items in the stomach contents. <b>Occurrence</b>: Fraction of the birds examined that contained at least one individual of this prey type. <b>Unspecified</b>: Fraction of the diet of the prey item based on a
