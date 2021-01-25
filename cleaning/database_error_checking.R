@@ -459,15 +459,15 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
                 Fraction_sum_check = fraction_sum_check)
   
   if (write) {
-    writetext = paste("A cleaned database file with standardized upper/lower cases and trimmed white space was saved as '", filename, "'. Be sure to use this file rather than the original for further cleaning.", sep = "")
+    writetext = paste("* A cleaned database file with standardized upper/lower cases and trimmed white space was saved as '", filename, "'. Be sure to use this file rather than the original for further cleaning.", sep = "")
   } else {
     writetext = ""
   }
   
   if (length(problemFields) > 0) {
-    cat(paste("Problems were identified in", probbirdtext, "the following fields:", paste0(problemFields, collapse = ", "), 
-                ".  Refer to the output below (or in the saved object) for details. Pay particular attention to any fields in the QA/QC output that are not 'OK'.  ", writetext, 
-              "\n\n"))
+    cat(paste("* Problems were identified in ", probbirdtext, " the following fields: ", paste0(problemFields, collapse = ", "), 
+                ".  \n* Refer to the output below (or in the saved object) for details. Pay particular attention to any fields in the QA/QC output that are not 'OK'.\n", writetext, 
+              "\n\n", sep = ""))
   }
   return(output)
 }
