@@ -149,11 +149,11 @@ standardizing_case_and_whitespace = function(diet, write = FALSE, filename = NUL
   }
 
   dietOut = diet
-  dietOut$Common_Name = trimws(taxize_capwords(diet$Common_Name))
-  dietOut$Scientific_Name = taxize_capwords(trimws(diet$Scientific_Name), onlyfirst = TRUE)
+  dietOut$Common_Name = trimws(taxize_capwords0(diet$Common_Name))
+  dietOut$Scientific_Name = taxize_capwords0(trimws(diet$Scientific_Name), onlyfirst = TRUE)
   dietOut$Subspecies = trimws(tolower(diet$Subspecies))
-  dietOut$Family = trimws(taxize_capwords(diet$Family))
-  dietOut$Location_Region = trimws(taxize_capwords(diet$Location_Region))
+  dietOut$Family = trimws(taxize_capwords0(diet$Family))
+  dietOut$Location_Region = trimws(taxize_capwords0(diet$Location_Region))
   dietOut$Location_Region = gsub(",", ";", dietOut$Location_Region)
   dietOut$Location_Region = gsub("; ", ";", dietOut$Location_Region)
   dietOut$Location_Specific = gsub("Multiple", "multiple", diet$Location_Specific)
@@ -190,7 +190,7 @@ standardizing_case_and_whitespace = function(diet, write = FALSE, filename = NUL
   dietOut$Prey_Part = trimws(tolower(diet$Prey_Part))
   dietOut$Prey_Part = gsub(",", ";", dietOut$Prey_Part)
   dietOut$Prey_Part = gsub("; ", ";", dietOut$Prey_Part)
-  dietOut$Diet_Type = trimws(taxize_capwords(diet$Diet_Type))
+  dietOut$Diet_Type = trimws(taxize_capwords0(diet$Diet_Type))
   dietOut$Diet_Type = gsub("vol", "Vol", dietOut$Diet_Type)
   dietOut$Diet_Type = gsub("_Or_", "_or_", dietOut$Diet_Type)
   dietOut$Study_Type = trimws(tolower(diet$Study_Type))
