@@ -258,7 +258,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Source</td>
-    <td>The complete citation of the study from which the diet information comes.</td>
+    <td>The complete citation of the study from which the diet information comes. Please format as in this example:  LastName, F. I. 2010. Article name here. Journal of Awesome 23: 223-231.</td>
   </tr>
 </table>
 
