@@ -303,8 +303,8 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
       table() %>%
       data.frame() %>%
       # List of acceptable values here
-      filter(!tolower(.) %in% c('agriculture', 'coniferous forest', 'deciduous forest', 'desert',
-                                'forest', 'grassland', 'mangrove forest', 'marine', 'multiple', 'shrubland', 
+      filter(!tolower(.) %in% c('agriculture', 'broadleaf evergreen forest', 'coniferous forest', 'deciduous forest', 'desert', 'estuary',
+                                'forest', 'grassland', 'lake', 'mangrove', 'marine', 'multiple', 'river', 'shrubland', 
                                 'urban', 'wetland', 'woodland', 'tundra', 'mudflat'))
     if (nrow(habitat) == 0) {
       habitat = "OK"
