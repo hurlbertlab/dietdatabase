@@ -408,11 +408,11 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
                      'Central North America', 'Eastern North America', 'United Kingdom',
                      'Alberta', 'British Columbia', 'Manitoba', 'New Brunswick', 'Nova Scotia', 
                      'Northwest Territories', 'Ontario', 'Quebec', 'Saskatchewan',
-                     'Newfoundland', 'Nunavut', 'Chesapeake Bay', 'Lake Ontario', 'Lake Erie',
+                     'Newfoundland and Labrador', 'Nunavut', 'Chesapeake Bay', 'Lake Ontario', 'Lake Erie',
                      'Lake Michigan', 'Great Plains', 'New South Wales', 'Queensland', 'Victoria',
                      'Northern Territory', 'Fennoscandia', 'Siberia', 'Svalbard', 
                      'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles', 'Washington D.C.',
-                     'England', 'Scotland', 'Northern Ireland'))
+                     'England', 'Scotland', 'Northern Ireland', 'US Virgin Islands', 'French West Indies'))
     if (nrow(region) == 0) {
       region = "OK"
     } else {
