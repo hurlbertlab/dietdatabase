@@ -45,7 +45,7 @@ outlierCheck = function(diet) {
     
     mon_end = outlier(diet$Observation_Month_End, 0, 12),
     
-    year_beg = outlier(diet$Observation_Year_Begin, 1900, 2017),
+    year_beg = outlier(diet$Observation_Year_Begin, 1870, 2017),
     
     year_end = outlier(diet$Observation_Year_End, 0, 2017),
     
@@ -324,7 +324,7 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
     table() %>%
     data.frame() %>%
     # List of acceptable values here
-    filter(!tolower(.) %in% c('adult', 'egg', 'juvenile', 'larva', 'nymph', 'pupa', 'teneral'))
+    filter(!tolower(.) %in% c('adult', 'egg', 'juvenile', 'larva', 'nymph', 'pupa', 'teneral', 'unspecified'))
     if (nrow(stage) == 0) {
       stage = "OK"
     } else {
