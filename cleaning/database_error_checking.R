@@ -31,9 +31,9 @@ outlier = function(field, min, max) {
 
 outlierCheck = function(diet) {
   out = list(
-    long = outlier(diet$Longitude_dd, -190, 190),
+    long = outlier(diet$Longitude_dd, 0, 180),
     
-    lat = outlier(diet$Latitude_dd, -190, 190),
+    lat = outlier(diet$Latitude_dd, -180, 180),
     
     alt_min = outlier(diet$Altitude_min_m, -100, 10000),
     
