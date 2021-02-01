@@ -250,7 +250,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Notes</td>
-    <td>Any useful information about the nature of the study or the diet information that does not fit in the previous fields.</td>
+    <td>Any useful information about the nature of the study or the diet information that does not fit in the previous fields. If the sum of the diet as reported in an original study differs from 100% by more than 3% (expected from summing rounding errors), then the Notes field will include the following text: "values as reported do not sum to 100%"</td>
   </tr>
   <tr>
     <td>Entered_By</td>
