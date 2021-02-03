@@ -251,7 +251,7 @@ entered (so compare values to the original paper), but it is so small it could a
 errors. *I recommend setting `fracsum_accuracy = 0.03` as the default to minimize these types of false positives.
 
 **If the values in a reported study have been double-checked and do not sum to a value between 0.97 and 1.03, please enter this exact phrase in the Notes field:
-"values as reported do not sum to 100%".**
+"values as reported do not sum to 100%".** (This can come before or after any other notes that need to be specified, separated by a semi-colon.)
 
 ## Cleaning taxonomic names of prey
 This is a big task, so we've got a separate page on it [here](https://github.com/hurlbertlab/dietdatabase/blob/master/cleaning/name_cleaning_instructions.md). 
