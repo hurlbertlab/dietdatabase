@@ -6,6 +6,7 @@ library(taxize)
 library(maps)
 library(stringr)
 
+options(dplyr.summarise.inform = FALSE) #suppress dplyr warnings when using summarise()
 
 source('scripts/database_summary_functions.R')
 
@@ -31,7 +32,7 @@ outlier = function(field, min, max) {
 
 outlierCheck = function(diet) {
   out = list(
-    long = outlier(diet$Longitude_dd, 0, 180),
+    long = outlier(diet$Longitude_dd, -180, 0),
     
     lat = outlier(diet$Latitude_dd, -180, 180),
     
