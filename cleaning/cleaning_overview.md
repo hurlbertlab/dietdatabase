@@ -103,7 +103,7 @@ the printed results.
 
 By default this function will write a new file using a name you specify with automatically standardized text fields. It is this new file that you will follow up with to correct any further errors that were identified.
 ```
-> qa_qc(dietdb, write = TRUE, filename = 'cleaned_dietdb.txt', fracsum_accuracy = 0.02)
+> qa_qc(dietdb, write = TRUE, filename = 'cleaned_dietdb.txt', fracsum_accuracy = 0.03)
 Problems were identified in some of the bird names as well as in the following fields: Taxonomy, Habitat_type, Prey_Stage, Prey_Part, Location_Region .  Refer to the output below (or in the saved object) for details. Pay particular attention to any fields in the QA/QC output that are not 'OK'.   A cleaned database file with standardized upper/lower cases and trimmed white space was saved as 'cleaned_dietdb.txt'. Be sure to use this file rather than the original for further cleaning.
 
 $Problem_bird_names
@@ -232,13 +232,13 @@ $Fraction_sum_check
 2   test White-throated Sparrow                   1993                       8             summer               38    shrubland
   Location_Region Item_Sample_Size Diet_Type Sum_Diet
 1    Rhode Island               NA Wt_or_Vol  176.300
-2    Rhode Island               NA Wt_or_Vol    1.021
+2    Rhode Island               NA Wt_or_Vol    1.031
 ```
 The final check is whether, for each diet analysis (i.e. combination of study, bird species, date, location, and habitat), the 
 diet values of the different prey in the analysis sum to close to 1. Summing to 1 is only expected for Wt_or_Vol, Items, or 
 Unspecified diet types, but not for Occurrence data. The `fracsum_accuracy` argument when calling `qa_qc()` specifies how
-close to 1 that sum should be. In this example, it was set to 0.02, which means any analyses where the sum of diet fractions is
-<0.98 or >1.02 will be listed here.
+close to 1 that sum should be. In this example, it was set to 0.03, which means any analyses where the sum of diet fractions is
+<0.97 or >1.03 will be listed here.
 
 In the first study , the Sum_Diet value is 176.3, way above 1. Something is clearly wrong with the Fraction_Diet data entered 
 for this study. As we already noted above, someone probably entered %s instead of fractions, but even after that is corrected,
