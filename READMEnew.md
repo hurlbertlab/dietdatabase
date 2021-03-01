@@ -7,14 +7,12 @@ This is a quantitative summary of the published literature on the diets of bird 
 
 ## Interactive Website  
 
-[https://aviandiet.unc.edu](https://aviandiet.unc.edu)  
-
-This website allows users to explore the most up-to-date database information, and to generate basic summaries by diet or prey item.
+This website ([https://aviandiet.unc.edu](https://aviandiet.unc.edu)) allows users to explore the most up-to-date database information, and to generate basic summaries by diet or prey item.
 
 ## R Package
-An developmental **R package** is available [here](https://github.com/ahhurlbert/aviandietdb) for exploring, summarizing, and filtering the database in the R environment.
+A developmental **R package** is available [here](https://github.com/ahhurlbert/aviandietdb) for exploring, summarizing, and filtering the database in the R environment.
 
-Note that the `dietdb` database object loaded with this package may be out of date relative to the `AvianDietDatabase.txt` file in this repository.
+Note that the `dietdb` database object loaded with this package may be slightly out of date relative to the `AvianDietDatabase.txt` file in this repository.
 
 ## Data Entry  
 
