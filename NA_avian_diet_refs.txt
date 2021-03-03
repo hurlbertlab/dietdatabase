@@ -6744,7 +6744,7 @@ Black-throated Gray Warbler	Parulidae	2012	Feeding	Food Capture And Consumption	
 Black-throated Gray Warbler	Parulidae	2012	Diet	Major Food Items	"Bowles, C. W. 1902. Notes on the Black-throated Gray Warbler. Condor 4:82-85."	y	n									
 Black-throated Gray Warbler	Parulidae	2012	Diet	Major Food Items	"Wheelock, I. G. 1904. The birds of California. Chicago, IL: A. C. McClurg and Co."	n	unavailable									
 Black-throated Gray Warbler	Parulidae	2012	Diet	Major Food Items	"Erwin, C. 1975a. The Black-throated Gray Warbler: A new record for Georgia. Oriole 40:37-40."		requested									
-Black-throated Gray Warbler	Parulidae	2012	Diet	Quantitative Analysis	"Dahlsten, D. L., M. L. Morrison, D. L. Rowney, M. Wilson and Y. Cohen. 1985. Bird diets and prey availability in the western Sierra Nevada, California. Calif. Fish Game 71:172-178."		requested									
+Black-throated Gray Warbler	Parulidae	2012	Diet	Quantitative Analysis	"Dahlsten, D. L., M. L. Morrison, D. L. Rowney, M. Wilson and Y. Cohen. 1985. Bird diets and prey availability in the western Sierra Nevada, California. Calif. Fish Game 71:172-178."	y	y	in progress								
 Black-throated Gray Warbler	Parulidae	2001	Feeding		"Pavlacky Jr., D. C. and S. H. Anderson. 2001. Habitat preferences of pinyon-juniper specialists near the limit of their geographic range. Condor 103:322-331."	y	n									
 Black-throated Gray Warbler	Parulidae	2004	Feeding		"Hendricks, P. 2004. First nesting record of Black-throated Gray Warbler (Dendroica nigrescens) for Montana. West. N. Am. Nat. 64:548-550."	y	n									
 Black-throated Gray Warbler	Parulidae	2000	Feeding		"Dinsmore, S. J. 2000. Black-throated Gray Warbler at Oliver Reservoir. Nebraska Bird Review 68:46."	y	n									
