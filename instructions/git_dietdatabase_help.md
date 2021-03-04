@@ -27,7 +27,7 @@ this using `git add` like this:
 $ git add AvianDietDatabase_Beaver_and_Baldwin_1975.txt
 ```
 
-You can now begin entering data as described on the [main page](README.md). When you are finished with data entry for the day, be sure to Save As a tab-delimited .txt file (with the same name, in the same folder).
+You can now begin entering data as described on the [main Instructions page](https://github.com/hurlbertlab/dietdatabase/blob/master/instructions/instructions.md). When you are finished with data entry for the day, be sure to Save As a tab-delimited .txt file (with the same name, in the same folder).
 
 Now you need to stage your committed changes, add a descriptive message of what you've added, and 'push' the new version
 to the master repository.
