@@ -1,7 +1,7 @@
 Instructions for Data Entry
 ===========================
 
-This repository is the temporary home for the Avian Diet Database being built
+This repository is the home for the Avian Diet Database being built
 by the Hurlbert Lab at the University of North Carolina.    
 
 The goal is to organize all available information (from published studies, gray literature, etc) on the diets 
