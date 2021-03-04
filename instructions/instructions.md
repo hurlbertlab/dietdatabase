@@ -269,10 +269,10 @@ of these fields, and how data should be entered. Further instructions about how 
 We use a version control system called Git to manage so that we can easily go back to previous states, it's automatically
 backed up, and many people can access it and add records simultaneously from different computers.
 
-See [this page](~/instructions/git_dietdatabase_help.md) for instructions on how to use Git to manage the Avian Diet Database.
+See [this page](https://github.com/hurlbertlab/dietdatabase/edit/master/instructions/git_dietdatabase_help.md) for instructions on how to use Git to manage the Avian Diet Database.
 
 ### Data cleaning
-See [this page](~/cleaning/cleaning_overview.md) for instructions on cleaning newly entered data.
+See [this page](https://github.com/hurlbertlab/dietdatabase/edit/master/cleaning/cleaning_overview.md) for instructions on cleaning newly entered data.
 
 ### Summarizing data
 Use the `dbSummary()` function to get summary statistics for the diet database as a whole.
