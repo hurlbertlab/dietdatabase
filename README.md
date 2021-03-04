@@ -3,7 +3,7 @@ Avian Diet Database
 
 [![DOI](https://zenodo.org/badge/22651884.svg)](https://zenodo.org/badge/latestdoi/22651884)
 
-This is a quantitative summary of the published literature on the diets of bird species. 
+This database is a quantitative summary of the published literature on the diets of bird species. 
 
 ## Interactive Website  
 
@@ -20,7 +20,7 @@ Instructions for entering and cleaning new diet data information can be found [h
 
 Did you find an error in the database? Do you know of a published study with quantitative diet information that is not included in our database?  
 
-Let us know! Post an issue by clicking the green ‘New Issue’ button at the top right (requires a Github account), or send an email to aviandietdb@gmail.com.
+Let us know! Post an issue by clicking ‘Issues’ near the top left (requires a Github account), or send an email to aviandietdb@gmail.com.
 
 ## Citation
 

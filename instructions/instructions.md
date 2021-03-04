@@ -1,7 +1,7 @@
 Instructions for Data Entry
 ===========================
 
-This repository is the temporary home for the Avian Diet Database being built
+This repository is the home for the Avian Diet Database being built
 by the Hurlbert Lab at the University of North Carolina.    
 
 The goal is to organize all available information (from published studies, gray literature, etc) on the diets 
@@ -269,10 +269,10 @@ of these fields, and how data should be entered. Further instructions about how 
 We use a version control system called Git to manage so that we can easily go back to previous states, it's automatically
 backed up, and many people can access it and add records simultaneously from different computers.
 
-See [this page](instructions/git_dietdatabase_help.md) for instructions on how to use Git to manage the Avian Diet Database.
+See [this page](https://github.com/hurlbertlab/dietdatabase/blob/master/instructions/git_dietdatabase_help.md) for instructions on how to use Git to manage the Avian Diet Database.
 
 ### Data cleaning
-See [this page](cleaning/cleaning_overview.md) for instructions on cleaning newly entered data.
+See [this page](https://github.com/hurlbertlab/dietdatabase/blob/master/cleaning/cleaning_overview.md) for instructions on cleaning newly entered data.
 
 ### Summarizing data
 Use the `dbSummary()` function to get summary statistics for the diet database as a whole.
