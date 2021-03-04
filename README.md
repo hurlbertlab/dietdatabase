@@ -16,7 +16,7 @@ Note that the `dietdb` database object loaded with this package may be slightly 
 
 ## Data Entry  
 
-Instructions for entering and cleaning new diet data information can be found [here](instructions.md).
+Instructions for entering and cleaning new diet data information can be found [here](instructions/instructions.md).
 
 Did you find an error in the database? Do you know of a published study with quantitative diet information that is not included in our database?  
 

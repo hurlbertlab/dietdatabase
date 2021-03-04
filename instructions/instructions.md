@@ -48,7 +48,7 @@ much of the information described below as you can ascertain from the study.
 To maximize the utility of the data, we need to record many types of information describing the what, when, where, and how 
 of its collection, and so our database has many fields. In the table below we explain what exactly is characterized in each
 of these fields, and how data should be entered. Further instructions about how to enter data in the database are provided 
-[here](https://github.com/hurlbertlab/dietdatabase/blob/master/training_instructions.md).
+[here](https://github.com/hurlbertlab/dietdatabase/blob/master/instructions/training_instructions.md).
 
 
 <table>
@@ -269,7 +269,7 @@ of these fields, and how data should be entered. Further instructions about how 
 We use a version control system called Git to manage so that we can easily go back to previous states, it's automatically
 backed up, and many people can access it and add records simultaneously from different computers.
 
-See [this page](git_dietdatabase_help.md) for instructions on how to use Git to manage the Avian Diet Database.
+See [this page](instructions/git_dietdatabase_help.md) for instructions on how to use Git to manage the Avian Diet Database.
 
 ### Data cleaning
 See [this page](cleaning/cleaning_overview.md) for instructions on cleaning newly entered data.
