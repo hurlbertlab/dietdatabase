@@ -2,6 +2,7 @@ Avian Diet Database
 ===================
 
 [![DOI](https://zenodo.org/badge/22651884.svg)](https://zenodo.org/badge/latestdoi/22651884)
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 This database is a quantitative summary of the published literature on the diets of bird species. 
 
