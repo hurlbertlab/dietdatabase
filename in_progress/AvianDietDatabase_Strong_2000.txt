@@ -1,0 +1,21 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Ovenbird	Seiurus aurocapilla		Parulidae	eBird Clements Checklist v2019	-77.44999915	18.033333	5	327.5	635	Jamaica	multiple	multiple	11	1993	3	1997	fall; winter		Animalia					Formicidae			yes			NA	NA		0.62	Items	2137	53	6	emetic	Data not collected in January	MMS	
+																			Plantae		Magnoliopsida						yes			NA	seed		0.18	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.09	Items							
+																			Animalia		Insecta						no			larva	NA		0.03	Items					holometabolous larvae		
+																			Animalia		Gastropoda						yes			NA	NA	snails	0.02	Items							
+																			Animalia			Araneae					yes			NA	NA		0.01	Items							
+																			Animalia			Hymenoptera					no			NA	NA		0.01	Items							
+																			Animalia			Orthoptera					yes			NA	NA		0.01	Items							
+																			Animalia		Insecta						no			NA	NA		0.005	Items					Dermaptera and Blattodea		
+																			Animalia			Hemiptera					yes			NA	NA		0.01	Items							
+																			Animalia		Euchelicerata						no			NA	NA	mites	0.005	Items							
+																			Animalia			Diptera					yes			NA	NA		0.005	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.005	Items							
+																			Animalia			Odonata					yes			NA	NA		0.005	Items							
+																			Animalia			Isoptera					yes			NA	NA		0.005	Items							
+																			Animalia	Arthropoda							no			egg	NA		0.005	Items							
+																			Animalia			Psocodea					yes			NA	NA		0.005	Items							
+																			Animalia			Pseudoscorpiones					yes			NA	NA			Items							
+																			Animalia							Sphaerodactylus goniorhynchus	yes			NA	NA	gecko		Items							
+																			Animalia								no			NA	NA		0.01	Items							
