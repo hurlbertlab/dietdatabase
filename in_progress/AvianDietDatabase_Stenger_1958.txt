@@ -1,0 +1,73 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Ovenbird	Seiurus aurocapilla		Parulidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	Ontario	Algonquin Park	forest	NA	NA	NA	1958	summer	1	Animalia						Otiorhynchus		yes			NA	NA		0.199	Wt_or_Vol	NA	34		stomach contents	This set of data collected over an unspecified period of 11 years	MMS	
+																		1	Animalia					Carabidae			yes			NA	NA		0.207	Wt_or_Vol							
+																		1	Animalia					Staphylinidae			yes			NA	NA		0.006	Wt_or_Vol							
+																		1	Animalia			Coleoptera					no			adult	NA		0.251	Wt_or_Vol							
+																		1	Animalia			Coleoptera					no			larva	NA		0.016	Wt_or_Vol							
+																		1	Animalia			Lepidoptera					yes			larva	NA		0.029	Wt_or_Vol							
+																		1	Animalia			Diptera					yes			larva	NA			Wt_or_Vol							
+																		1	Animalia								no			larva	NA	invertebrates	0.24	Wt_or_Vol							
+																		1	Animalia		Gastropoda						yes			NA	NA		0.022	Wt_or_Vol							
+																		1	Animalia		Diplopoda						yes			NA	NA		0.009	Wt_or_Vol							
+																		1	Animalia		Chilopoda						yes			NA	NA			Wt_or_Vol							
+																		1	Animalia					Formicidae			yes			NA	NA		0.123	Wt_or_Vol							
+																		1	Animalia			Hymenoptera					no			NA	NA		0.017	Wt_or_Vol							
+																		1	Animalia			Diptera					yes			adult	NA		0.003	Wt_or_Vol							
+																		1	Animalia			Hemiptera					yes			NA	NA		0.017	Wt_or_Vol							
+																		1	Animalia			Araneae					yes			NA	NA		0.061	Wt_or_Vol							
+																		1	Animalia		Insecta						no			pupa	NA			Wt_or_Vol					Lepidoptera and Diptera		
+																		1	Animalia			Lepidoptera					yes			adult	NA			Wt_or_Vol							
+													8	1955	9	1955	summer	2	Animalia						Otiorhynchus		yes			NA	NA			Wt_or_Vol		40					
+																		2	Animalia					Carabidae			yes			NA	NA			Wt_or_Vol							
+																		2	Animalia					Staphylinidae			yes			NA	NA			Wt_or_Vol							
+																		2	Animalia			Coleoptera					no			adult	NA			Wt_or_Vol							
+																		2	Animalia			Coleoptera					no			larva	NA			Wt_or_Vol							
+																		2	Animalia			Lepidoptera					yes			larva	NA			Wt_or_Vol							
+																		2	Animalia			Diptera					yes			larva	NA			Wt_or_Vol							
+																		2	Animalia								no			larva	NA	invertebrates		Wt_or_Vol							
+																		2	Animalia		Gastropoda						yes			NA	NA			Wt_or_Vol							
+																		2	Animalia		Diplopoda						yes			NA	NA			Wt_or_Vol							
+																		2	Animalia		Chilopoda						yes			NA	NA			Wt_or_Vol							
+																		2	Animalia					Formicidae			yes			NA	NA			Wt_or_Vol							
+																		2	Animalia			Hymenoptera					no			NA	NA			Wt_or_Vol							
+																		2	Animalia			Diptera					yes			adult	NA			Wt_or_Vol							
+																		2	Animalia			Hemiptera					yes			NA	NA			Wt_or_Vol							
+																		2	Animalia			Araneae					yes			NA	NA			Wt_or_Vol							
+																		2	Animalia		Insecta						no			pupa	NA			Wt_or_Vol							
+																		2	Animalia			Lepidoptera					yes			adult	NA			Wt_or_Vol							
+													6	1956	8	1956	summer	3	Animalia						Otiorhynchus		yes			NA	NA			Wt_or_Vol		24			Adults; bird sample size reflects both adults and nestlings		
+																		3	Animalia					Carabidae			yes			NA	NA			Wt_or_Vol							
+																		3	Animalia					Staphylinidae			yes			NA	NA			Wt_or_Vol							
+																		3	Animalia			Coleoptera					no			adult	NA			Wt_or_Vol							
+																		3	Animalia			Coleoptera					no			larva	NA			Wt_or_Vol							
+																		3	Animalia			Lepidoptera					yes			larva	NA			Wt_or_Vol							
+																		3	Animalia			Diptera					yes			larva	NA			Wt_or_Vol							
+																		3	Animalia								no			larva	NA	invertebrates		Wt_or_Vol							
+																		3	Animalia		Gastropoda						yes			NA	NA			Wt_or_Vol							
+																		3	Animalia		Diplopoda						yes			NA	NA			Wt_or_Vol							
+																		3	Animalia		Chilopoda						yes			NA	NA			Wt_or_Vol							
+																		3	Animalia					Formicidae			yes			NA	NA			Wt_or_Vol							
+																		3	Animalia			Hymenoptera					no			NA	NA			Wt_or_Vol							
+																		3	Animalia			Diptera					yes			adult	NA			Wt_or_Vol							
+																		3	Animalia			Hemiptera					yes			NA	NA			Wt_or_Vol							
+																		3	Animalia			Araneae					yes			NA	NA			Wt_or_Vol							
+																		3	Animalia		Insecta						no			pupa	NA			Wt_or_Vol							
+																		3	Animalia			Lepidoptera					yes			adult	NA			Wt_or_Vol							
+																		4	Animalia						Otiorhynchus		yes			NA	NA			Wt_or_Vol					Nestlings		
+																		4	Animalia					Carabidae			yes			NA	NA			Wt_or_Vol							
+																		4	Animalia					Staphylinidae			yes			NA	NA			Wt_or_Vol							
+																		4	Animalia			Coleoptera					no			adult	NA			Wt_or_Vol							
+																		4	Animalia			Coleoptera					no			larva	NA			Wt_or_Vol							
+																		4	Animalia			Lepidoptera					yes			larva	NA			Wt_or_Vol							
+																		4	Animalia			Diptera					yes			larva	NA			Wt_or_Vol							
+																		4	Animalia								no			larva	NA	invertebrates		Wt_or_Vol							
+																		4	Animalia		Gastropoda						yes			NA	NA			Wt_or_Vol							
+																		4	Animalia		Diplopoda						yes			NA	NA			Wt_or_Vol							
+																		4	Animalia		Chilopoda						yes			NA	NA			Wt_or_Vol							
+																		4	Animalia					Formicidae			yes			NA	NA			Wt_or_Vol							
+																		4	Animalia			Hymenoptera					no			NA	NA			Wt_or_Vol							
+																		4	Animalia			Diptera					yes			adult	NA			Wt_or_Vol							
+																		4	Animalia			Hemiptera					yes			NA	NA			Wt_or_Vol							
+																		4	Animalia			Araneae					yes			NA	NA			Wt_or_Vol							
+																		4	Animalia		Insecta						no			pupa	NA			Wt_or_Vol							
+																		4	Animalia			Lepidoptera					yes			adult	NA			Wt_or_Vol							
