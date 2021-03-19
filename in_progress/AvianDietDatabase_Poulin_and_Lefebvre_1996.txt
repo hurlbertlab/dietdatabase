@@ -1,0 +1,76 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Little Hermit	Phaethornis longuemareus		Trochilidae	eBird Clements Checklist v2019	-79.1166667	9.1666667	NA	NA	NA	Panama	Soberania National Park	forest	9	1993	11	1994	multiple		Animalia			Araneae					yes			NA	NA		0.184	Items	9			emetic		MMS	
+																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.857	Items							
+Eastern Long-tailed Hermi	Phaethornis superciliosus																		Animalia			Hymenoptera					no			NA	NA	wasps	0.009	Items	352						
+																			Animalia	Arthropoda							no			NA	NA		0.003	Items							
+																			Animalia			Araneae					yes			NA	NA		0.281	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.003	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.006	Items							
+																			Animalia		Insecta						no			larva	NA		0.006	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.006	Items							
+																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.688	Items							
+Violet-crowned Woodnymph	Thalurania colombica																		Animalia			Hymenoptera					no			NA	NA	wasps	0.107	Items	28						
+																			Animalia	Arthropoda							no			NA	NA		0.036	Items							
+																			Animalia			Araneae					yes			NA	NA		0.571	Items							
+																			Animalia		Insecta						no			larva	NA		0.036	Items							
+																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.25	Items							
+Blue-chested Hummingbird	Amazilia amabilis																		Animalia			Orthoptera					yes			NA	NA		0.004	Items	285						
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.154	Items							
+																			Animalia	Arthropoda							no			NA	NA		0.081	Items							
+																			Animalia			Araneae					yes			NA	NA		0.467	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.014	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.004	Items							
+																			Animalia		Insecta						no			larva	NA		0.018	Items							
+																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.26	Items							
+Violet-bellied Hummingbird	Damophila julie																		Animalia			Orthoptera					yes			NA	NA		0.006	Items	308						
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.198	Items							
+																			Animalia	Arthropoda							no			NA	NA		0.088	Items							
+																			Animalia			Araneae					yes			NA	NA		0.445	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.013	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.003	Items							
+																			Animalia		Insecta						no			larva	NA		0.023	Items							
+																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.224	Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
+																																		Items							
