@@ -2,7 +2,7 @@ Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	
 Little Hermit	Phaethornis longuemareus		Trochilidae	eBird Clements Checklist v2019	-79.1166667	9.1666667	NA	NA	NA	Panama	Soberania National Park	forest	9	1993	11	1994	multiple		Animalia			Araneae					yes			NA	NA		0.184	Items	9			emetic		MMS	
 																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.857	Items							
 Eastern Long-tailed Hermi	Phaethornis superciliosus																		Animalia			Hymenoptera					no			NA	NA	wasps	0.009	Items	352						
-																			Animalia	Arthropoda							no			NA	NA		0.003	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.003	Items							
 																			Animalia			Araneae					yes			NA	NA		0.281	Items							
 																			Animalia			Coleoptera					yes			NA	NA		0.003	Items							
 																			Animalia					Formicidae			yes			NA	NA		0.006	Items							
@@ -10,13 +10,13 @@ Eastern Long-tailed Hermi	Phaethornis superciliosus																		Animalia			
 																			Plantae		Magnoliopsida						yes			NA	fruit		0.006	Items							
 																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.688	Items							
 Violet-crowned Woodnymph	Thalurania colombica																		Animalia			Hymenoptera					no			NA	NA	wasps	0.107	Items	28						
-																			Animalia	Arthropoda							no			NA	NA		0.036	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.036	Items							
 																			Animalia			Araneae					yes			NA	NA		0.571	Items							
 																			Animalia		Insecta						no			larva	NA		0.036	Items							
 																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.25	Items							
 Blue-chested Hummingbird	Amazilia amabilis																		Animalia			Orthoptera					yes			NA	NA		0.004	Items	285						
 																			Animalia			Hymenoptera					no			NA	NA	wasps	0.154	Items							
-																			Animalia	Arthropoda							no			NA	NA		0.081	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.081	Items							
 																			Animalia			Araneae					yes			NA	NA		0.467	Items							
 																			Animalia			Coleoptera					yes			NA	NA		0.014	Items							
 																			Animalia					Formicidae			yes			NA	NA		0.004	Items							
@@ -24,12 +24,166 @@ Blue-chested Hummingbird	Amazilia amabilis																		Animalia			Orthopter
 																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.26	Items							
 Violet-bellied Hummingbird	Damophila julie																		Animalia			Orthoptera					yes			NA	NA		0.006	Items	308						
 																			Animalia			Hymenoptera					no			NA	NA	wasps	0.198	Items							
-																			Animalia	Arthropoda							no			NA	NA		0.088	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.088	Items							
 																			Animalia			Araneae					yes			NA	NA		0.445	Items							
 																			Animalia			Coleoptera					yes			NA	NA		0.013	Items							
 																			Animalia					Formicidae			yes			NA	NA		0.003	Items							
 																			Animalia		Insecta						no			larva	NA		0.023	Items							
 																			Plantae		Magnoliopsida						yes			NA	NA	pollen	0.224	Items							
+Golden-collared Manakin	Manacus vitellinus		Pipridae																Animalia					Formicidae			yes			NA	NA		0.027	Items	37						
+																			Plantae		Magnoliopsidae						yes			NA	fruit		0.973	Items							
+Blue-crowned Manakin	Lepidothrix coronata																		Animalia			Orthoptera					yes			NA	NA		0.016	Items	190						
+																			Animalia			Hemiptera					yes			NA	NA		0.011	Items							
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.016	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.021	Items							
+																			Animalia			Araneae					yes			NA	NA		0.1	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.137	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.005	Items							
+																			Animalia		Insecta						yes			larva	NA		0.032	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.011	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.653	Items							
+Red-capped Manakin	Pipra mentalis																		Animalia			Hymenoptera					no			NA	NA	wasps	0.005	Items	420						
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.002	Items							
+																			Animalia			Araneae					yes			NA	NA		0.079	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.019	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.005	Items							
+																			Animalia		Insecta						no			larva	NA		0.04	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.012	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.838	Items							
+Ochre-bellied Flycatcher	Mionectes oleagineus		Tyrannidae																Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.003	Items	341						
+																			Animalia			Araneae					yes			NA	NA		0.648	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.006	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.006	Items							
+																			Animalia		Insecta						no			larva	NA		0.003	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.326	Items							
+																			Animalia		Magnoliopsida						yes			NA	NA	pollen	0.009	Items							
+Ruddy-tailed Flycatcher	Terenotriccus erythrurus																		Animalia			Orthoptera					yes			NA	NA		0.095	Items	63						
+																			Animalia			Hemiptera					yes			NA	NA		0.016	Items							
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.016	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.238	Items							
+																			Animalia			Araneae					yes			NA	NA		0.048	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.286	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.286	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.016	Items							
+Southern Bentbill	Oncostoma olivaceum																		Animalia			Orthoptera					yes			NA	NA		0.031	Items	223						
+																			Animalia			Hemiptera					yes			NA	NA		0.018	Items							
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.013	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.121	Items							
+																			Animalia			Araneae					yes			NA	NA		0.058	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.422	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.031	Items							
+																			Animalia		Insecta						no			larva	NA		0.031	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.26	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.013	Items							
+Acadian Flycatcher	Empidonax virescens																		Animalia			Hemiptera					yes			NA	NA		0.05	Items	100						
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.07	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.04	Items							
+																			Animalia			Araneae					yes			NA	NA		0.06	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.41	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.3	Items							
+																			Animalia		Insecta						no			larva	NA		0.02	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.01	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.01	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.03	Items							
+Bright-rumped Attila	Attila spadiceus																		Animalia			Orthoptera					yes			NA	NA		0.045	Items	22						
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.045	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.136	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.091	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.091	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.455	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.136	Items							
+Northern Waterthrush	Parkesia noveboracensis		Parulidae																Animalia			Hemiptera					yes			NA	NA		0.01	Items	102						
+																			Animalia			Araneae					yes			NA	NA		0.039	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.245	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.608	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.078	Items							
+																			Animalia		Gastropoda						yes			NA	NA	snails	0.02	Items							
+Kentucky Warbler	Geothlypis formosa																		Animalia			Orthoptera					yes			NA	NA		0.027	Items	223						
+																			Animalia			Hemiptera					yes			NA	NA		0.009	Items							
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.022	Items							
+																			Animalia	Arthropoda							no			NA	NA		0.009	Items							
+																			Animalia			Araneae					yes			NA	NA		0.054	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.211	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.484	Items							
+																			Animalia		Insecta						no			larva	NA		0.018	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.099	Items							
+																			Animalia		Gastropoda						yes			NA	NA	snails	0.04	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.018	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.004	Items							
+Canada Warbler	Cardellina canadensis																		Animalia			Orthoptera					yes			NA	NA		0.034	Items	29						
+																			Animalia			Hemiptera					yes			NA	NA		0.138	Items							
+																			Animalia			Hymenoptera					no			NA	NA		0.207	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.552	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.069	Items							
+Plain Xenops	Xenops minutus		Furnariidae																Animalia			Orthoptera					yes			NA	NA		0.118	Items	68						
+																			Animalia			Hymenoptera					no			NA	NA		0.015	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.029	Items							
+																			Animalia			Araneae					yes			NA	NA		0.044	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.118	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.618	Items							
+																			Animalia		Insecta						no			larva	NA		0.015	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.044	Items							
+Spotted Antbird	Hylophylax naevioides		Thamnophilidae																Animalia			Orthoptera					yes			NA	NA		0.021	Items	193						
+																			Animalia			Hemiptera					yes			NA	NA		0.016	Items							
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.016	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.047	Items							
+																			Animalia			Araneae					yes			NA	NA		0.036	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.539	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.047	Items							
+																			Animalia		Insecta						no			larva	NA		0.031	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.15	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.021	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.005	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.073	Items							
+White-flanked Antwren	Myrmotherula axillaris																		Animalia			Orthopera					yes			NA	NA		0.111	Items	36						
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.028	Items							
+																			Animalia			Araneae					yes			NA	NA		0.417	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.333	Items							
+																			Animalia		Insecta						no			larva	NA		0.056	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.056	Items							
+Blue-black Grosbeak	Cyanocompsa cyanoides		Cardinalidae																Animalia			Araneae					yes			NA	NA		0.077	Items	52						
+																			Animalia			Coleoptera					yes			NA	NA		0.212	Items							
+																			Animalia		Insecta						no			larva	NA		0.019	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.692	Items							
+Gray-headed Tanager	Eucometic penicillata	Thraupidae																	Animalia			Orthopera					yes			NA	NA		0.106	Items	47						
+																			Animalia			Hemiptera					yes			NA	NA		0.043	Items							
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.043	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.021	Items							
+																			Animalia			Araneae					yes			NA	NA		0.106	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.213	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.106	Items							
+																			Animalia		Insecta						no			larva	NA		0.043	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.021	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.021	Items							
+Checker-throated Antwren	Epinecrophylla fulviventris		Thamnophilidae																Animalia			Orthoptera					yes			NA	NA		0.152	Items	230						
+																			Animalia			Hemiptera					yes			NA	NA		0.017	Items							
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.004	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.009	Items							
+																			Animalia			Araneae					yes			NA	NA		0.317	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.187	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.048	Items							
+																			Animalia		Insecta						no			larva	NA		0.009	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.23	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.009	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.017	Items							
+White-shouldered Tanager	Tachyphonus luctuosus		Thraupidae																Animalia			Orthoptera					yes			NA	NA		0.152	Items	46						
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.022	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.087	Items							
+																			Animalia			Araneae					yes			NA	NA		0.043	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.196	Items							
+																			Animalia		Insecta						no			larva	NA		0.065	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.022	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.413	Items							
+Northern Slaty Antshrike	Thamnophilus punctatus		Thamnophilidae																Animalia			Orthoptera					yes			NA	NA		0.12	Items	346						
+																			Animalia			Hemiptera					yes			NA	NA		0.139	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.049	Items							
+																			Animalia			Araneae					yes			NA	NA		0.055	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.142	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.026	Items							
+																			Animalia		Insecta						no			larva	NA		0.13	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.315	Items							
+																			Animalia		Gastropoda						yes			NA	NA	snails	0.006	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.026	Items							
 																			Animalia															Items							
 																			Animalia															Items							
 																			Animalia															Items							
@@ -66,11 +220,28 @@ Violet-bellied Hummingbird	Damophila julie																		Animalia			Orthopter
 																			Animalia															Items							
 																			Animalia															Items							
 																			Animalia															Items							
-																																		Items							
-																																		Items							
-																																		Items							
-																																		Items							
-																																		Items							
-																																		Items							
-																																		Items							
-																																		Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia															Items							
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
