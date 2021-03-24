@@ -184,6 +184,98 @@ Northern Slaty Antshrike	Thamnophilus punctatus		Thamnophilidae																A
 																			Animalia		Insecta						no			egg; pupa	NA		0.315	Items							
 																			Animalia		Gastropoda						yes			NA	NA	snails	0.006	Items							
 																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.026	Items							
+Chestnut-backed Antbird	Myrmeciza exsul																		Animalia			Orthoptera					yes			NA	NA		0.116	Items							
+																			Animalia			Hemiptera					yes			NA	NA		0.047	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.023	Items							
+																			Animalia			Araneae					yes			NA	NA		0.093	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.14	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.047	Items							
+																			Animalia		Insecta						no			larva	NA		0.186	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.186	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.047	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.14	Items							
+Thrush-like Schiffornis	Schiffornis turdina		Cotingidae																Animalia			Orthoptera					yes			NA	NA		0.013	Items	75						
+																			Animalia			Coleoptera					yes			NA	NA		0.013	Items							
+																			Animalia		Insecta						no			larva	NA		0.587	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.387	Items							
+Ruddy Woodcreeper	Dendrocicla homochroa		Furnariidae																Animalia			Orthoptera					yes			NA	NA		0.147	Items	34						
+																			Animalia			Hemiptera					yes			NA	NA		0.029	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.059	Items							
+																			Animalia			Araneae					yes			NA	NA		0.353	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.294	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.029	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.059	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.059	Items							
+Plain-brown Woodcreeper	Dendrocincla fuliginosa																		Animalia			Orthoptera					yes			NA	NA		0.129	Items	139						
+																			Animalia			Hemiptera					yes			NA	NA		0.108	Items							
+																			Animalia			Hymenoptera					no			NA	NA	wasps	0.069	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.068	Items							
+																			Animalia			Araneae					yes			NA	NA		0.252	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.302	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.094	Items							
+																			Animalia		Insecta						no			larva	NA		0.007	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.532	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.007	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.029	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.115	Items							
+Xiphorhynchus guttatus	Buff-throated Woodcreeper																		Animalia			Orthoptera					yes			NA	NA		0.08	Items	87						
+																			Animalia			Hemiptera					yes			NA	NA		0.115	Items							
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.023	Items							
+																			Animalia			Araneae					yes			NA	NA		0.08	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.08	Items							
+																			Animalia		Insecta						no			larva	NA		0.287	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.31	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.023	Items							
+Veery	Catharus fuscescens		Turdidae																Animalia			Hemiptera					yes			NA	NA		0.015	Items	67						
+																			Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.015	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.119	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.03	Items							
+																			Animalia			Blattodea					yes			NA	NA	termites	0.224	Items							
+																			Animalia		Insecta						no			larva	NA		0.015	Items							
+																			Animalia		Gastropoda						yes			NA	NA	snails	0.03	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.164	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.03	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.403	Items							
+Swainson's Thrush	Catharus ustulatus																		Animalia	Arthropoda							no			NA	NA	flying air or foliage arthropods	0.011	Items	181						
+																			Animalia			Coleoptera					yes			NA	NA		0.083	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.083	Items							
+																			Animalia			Blattodea					yes			NA	NA	termites	0.16	Items							
+																			Animalia		Insecta						no			larva	NA		0.11	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.006	Items							
+																			Animalia		Gastropoda						yes			NA	NA	snails	0.017	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.083	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.011	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.448	Items							
+Gray-cheeked Thrush	Catharus minimus																		Animalia			Orthoptera					yes			NA	NA		0.006	Items	157						
+																			Animalia			Coleoptera					yes			NA	NA		0.146	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.057	Items							
+																			Animalia			Blattodea					yes			NA	NA	termites	0.452	Items							
+																			Animalia		Insecta						no			larva	NA		0.115	Items							
+																			Animalia		Gastropoda						yes			NA	NA	snails	0.025	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.146	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.006	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.006	Items							
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.089	Items							
+Scaly-throated Leaftosser	Sclerurus guatemalensis		Furnariidae																Animalia			Orthoptera					yes			NA	NA		0.042	Items	96						
+																			Animalia			Araneae					yes			NA	NA		0.156	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.563	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.01	Items							
+																			Animalia		Insecta						no			larva	NA		0.063	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.031	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.083	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.042	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.042	Items							
+Black-faced Antthrush	Formicarius analis		Formicariidae																Animalia			Orthoptera					yes			NA	NA		0.054	Items	149						
+																			Animalia			Hemiptera					yes			NA	NA		0.02	Items							
+																			Animalia	Arthropoda							no			NA	NA		0.007	Items							
+																			Animalia			Araneae					yes			NA	NA		0.027	Items							
+																			Animalia			Coleoptera					yes			NA	NA		0.256	Items							
+																			Animalia					Formicidae			yes			NA	NA		0.336	Items							
+																			Animalia		Insecta						no			larva	NA		0.06	Items							
+																			Animalia		Insecta						no			egg; pupa	NA		0.074	Items							
+																			Animalia		Diplopoda						yes			NA	NA		0.074	Items							
+																			Animalia	Arthropoda							no			NA	NA	ground-dwelling arthropods	0.034	Items							
+																			Animalia	Chordata							yes			NA	NA	lizards and frogs	0.054	Items							
 																			Animalia															Items							
 																			Animalia															Items							
 																			Animalia															Items							
@@ -214,34 +306,5 @@ Northern Slaty Antshrike	Thamnophilus punctatus		Thamnophilidae																A
 																			Animalia															Items							
 																			Animalia															Items							
 																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia															Items							
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
 																			Animalia																						
 																			Animalia																						
