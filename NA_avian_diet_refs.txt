@@ -6959,6 +6959,8 @@ Ovenbird	Parulidae	2011	Nutrition And Energetics		"Strong, A. M. and T. W. Sherr
 Ovenbird	Parulidae	2011	Nutrition And Energetics		"Brown, D. R. and T. W. Sherry. 2006. Food supply controls the body condition of a migrant bird wintering in the tropics. Oecologia 149 (1):22-32."	y	n									
 Ovenbird	Parulidae	2011	Metabolism And Temperature Regulation		"Mulvihill, R. S. and R. C. Leberman. 1997. Factors affecting the survival of Ovenbirds wintering in the Northeast. Wilson Bulletin 109:161-166."	y	n									
 Ovenbird	Parulidae	2011	"Drinking, Pellet-Casting, And Defecation"		"Zach, R. and J. B. Falls. 1977a. Ejection of pellets by captive Ovenbirds. Auk 94:145-146."	y	n									
+Ovenbird	Parulidae				"Martinez del Rio, C., P. Sabat, R. Anderson-Sprecher and S. P. Gonzalez. 2009. Dietary and isotopic specialization: the isotopic niche of three Cinclodes ovenbirds. Oecologia 161:149-159."	y	n									
+Ovenbird	Parulidae				"Zach, R. and J. B. Falls. 1976. Bias and mortality in the use of tartar emetic to determine the diet of ovenbirds (Aves: Parulidae). Can. J. Zool. 54:1599-1603."	y	n									
 Painted Redstart	Parulidae	2000	Feeding	Main Foods Taken	"Spofford, S. H. and L. H. Fisk. 1977. Additions to the list of nectar feeding birds. West. Birds 8:109-112."	y	n									
 Painted Redstart	Parulidae	2000	Feeding	Microhabitat For Foraging	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Game Fish, Santa Fe."	y	n									
 Painted Redstart	Parulidae	2000	Feeding	Food Capture And Consumption	"Wibble, M. 1967. Wing and tail flashing of Painted Redstart. Wilson Bull. 79:246."	y	n									
@@ -11081,6 +11083,7 @@ Swainson's Thrush	Turdidae	2000	Feeding	Food Capture And Consumption	"Dilger, W.
 Swainson's Thrush	Turdidae	2000	Feeding	Microhabitat For Foraging	"Sabo, S. R. 1980. Niche and habitat relations in subalpine bird communities of the White Mountains of New Hampshire. Ecol. Monogr. 50:241-259."	y	n									
 Swainson's Thrush	Turdidae	2000	Food Selection And Storage		"Willson, M. F., D. A. Graff, and C. J. Whelan. 1990. Color preferences of frugivorous birds in relation to the colors of fleshy fruits. Condor 92:545-555."	y	n									
 Swainson's Thrush	Turdidae	2000	Food Selection And Storage		"Fitzpatrick, J. W. 1982. Northern birds at home in the Tropics. Nat. Hist. 91:40-46."	y	n									
+Swainson's Thrush	Turdidae				"Poulin, B. and G. Lefebvre. 1996. Dietary Relationships of Migrant and Resident Birds from a Humid Forest in Central Panama. Auk 113:277-287."	y	y	entered								
 Townsend's Solitaire	Turdidae	1997	Diet		"Bowen, R. V. 1995. Behavioral ecology of Townsend's Solitaire: field studies of territorial competition and nest predation. Phd Thesis. Univ. of California, Davis."	y	n									
 Townsend's Solitaire	Turdidae	1997	Diet		"Beal, F. E. L. 1915. Food habits of the thrushes of the United States. U.S. Dept. Agricul. Bull. no. 280."	y	y	beal papers already entered								
 Townsend's Solitaire	Turdidae	1997	Diet		"Bent, A. C. 1949. Life histories of North American thrushes, kinglets, and their allies. U.S. Nat. Mus. Bull. no. 196."	n		unavailable								
