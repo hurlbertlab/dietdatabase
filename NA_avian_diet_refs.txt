@@ -6961,6 +6961,8 @@ Ovenbird	Parulidae	2011	Metabolism And Temperature Regulation		"Mulvihill, R. S.
 Ovenbird	Parulidae	2011	"Drinking, Pellet-Casting, And Defecation"		"Zach, R. and J. B. Falls. 1977a. Ejection of pellets by captive Ovenbirds. Auk 94:145-146."	y	n									
 Ovenbird	Parulidae				"Martinez del Rio, C., P. Sabat, R. Anderson-Sprecher and S. P. Gonzalez. 2009. Dietary and isotopic specialization: the isotopic niche of three Cinclodes ovenbirds. Oecologia 161:149-159."	y	n									
 Ovenbird	Parulidae				"Zach, R. and J. B. Falls. 1976. Bias and mortality in the use of tartar emetic to determine the diet of ovenbirds (Aves: Parulidae). Can. J. Zool. 54:1599-1603."	y	n									
+Ovenbird	Parulidae				"Kresnik, R. J. 2012. Arrival ecology and behavior of wintering Ovenbirds (Seiurus aurocapilla): Understanding territory acquisition and space use strategies. Master's Thesis. York Univ. Toronto, ON."	y	y	entered								
+Ovenbird	Parulidae				"Arnold, L. L. 1993. Use of Invertebrates by Birds in Red Maple Forested Wetlands and Contiguous Forested Uplands in Southern Rhode Island. Master's Thesis. Univ. of Rhode Island, South Kingstown, RI."	y	y	entered								
 Painted Redstart	Parulidae	2000	Feeding	Main Foods Taken	"Spofford, S. H. and L. H. Fisk. 1977. Additions to the list of nectar feeding birds. West. Birds 8:109-112."	y	n									
 Painted Redstart	Parulidae	2000	Feeding	Microhabitat For Foraging	"Bailey, F. M. 1928. Birds of New Mexico. New Mexico Dep. Game Fish, Santa Fe."	y	n									
 Painted Redstart	Parulidae	2000	Feeding	Food Capture And Consumption	"Wibble, M. 1967. Wing and tail flashing of Painted Redstart. Wilson Bull. 79:246."	y	n									
