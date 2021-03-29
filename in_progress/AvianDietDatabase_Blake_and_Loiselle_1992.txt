@@ -1,0 +1,50 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Yellow-bellied Flycatcher	Empidonax flaviventris		Tyrannidae	eBird Clements Checklist v2019	-84.05	10.333333	500	NA	1000	Costa Rica	multiple	forest	1	1985	4	1988	winter; spring		Animalia		Insecta						yes			NA	NA		1	Occurrence	NA	1	6	fecal contents	data collected generally Jan-Apr; bird sample size reflects number of fecal samples	MMS	
+Acadian Flycatcher	Empidonax virescens																		Animalia		Insecta						yes			NA	NA		1	Occurrence		23					
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.26	Occurrence							
+Great Crested Flycatcher	Myiarchus crinitus																		Animalia		Insecta						yes			NA	NA		1	Occurrence		10					
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.6	Occurrence							
+Eastern Kingbird	Tyrannus tyrannus																		Animalia		Insecta						yes			NA	NA		0.11	Occurrence		9					
+																			Plantae		Magnoliopsida						yes			NA	fruit		1	Occurrence							
+Veery	Catharus fuscescens		Turdidae																Animalia		Insecta						yes			NA	NA		1	Occurrence		1					
+																			Plantae		Magnoliopsida						yes			NA	fruit		1	Occurrence							
+Gray-cheeked Thrush	Catharus minimus																		Animalia		Insecta						yes			NA	NA		0.87	Occurrence	23						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.96	Occurrence							
+Swainson's Thrush	Catharus ustulatus																		Animalia		Insecta						yes			NA	NA		0.53	Occurrence	199						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.98	Occurrence							
+Wood Thrush	Hylocichla mustelina																		Animalia		Insecta						yes			NA	NA		0.93	Occurrence	259						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.59	Occurrence							
+Gray Catbird	Dumetella carolinensis		Mimidae																Animalia		Insecta						yes			NA	NA		0.63	Occurrence	43						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.95	Occurrence							
+Red-eyed Vireo	Vireo olivaceus		Vireonidae																Animalia		Insecta						yes			NA	NA		0.5	Occurrence	2						
+																			Plantae		Magnoliopsida						yes			NA	fruit		1	Occurrence							
+Blue-winged Warbler	Setophaga pinus		Parulidae																Animalia		Insecta						yes			NA	NA		1	Occurrence	3						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.33	Occurrence							
+Golden-cheeked Warbler	Vermivora chrysoptera																		Animalia		Insecta						yes			NA	NA		1	Occurrence	4						
+Chestnut-sided Warbler	Setophaga pensylvanica																		Animalia		Insecta						yes			NA	NA		1	Occurrence	44						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.18	Occurrence							
+Magnolia Warbler	Setophaga magnolia																		Animalia		Insecta						yes			NA	NA		1	Occurrence	1						
+Blackburnian Warbler	Setophaga fusca																		Animalia		Insecta						yes			NA	NA		1	Occurrence	2						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.5	Occurrence							
+Bay-breasted Warbler	Setophaga castanea																		Animalia		Insecta						yes			NA	NA		1	Occurrence	3						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.67	Occurrence							
+Black-and-white Warbler	Mniotilta varia																		Animalia		Insecta						yes			NA	NA		1	Occurrence	3						
+Worm-eating Warbler	Helmitheros vermivorum																		Animalia		Insecta						yes			NA	NA		1	Occurrence	14						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.21	Occurrence							
+Ovenbird	Seiurus aurocapilla																		Animalia		Insecta						yes			NA	NA		1	Occurrence	81						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.22	Occurrence							
+Northern Waterthrush	Parkesia noveboracensis																		Animalia		Insecta						yes			NA	NA		1	Occurrence	2						
+Louisiana Waterthrush	Parkesia motacilla																		Animalia		Insecta						yes			NA	NA		1	Occurrence	4						
+Kentucky Warbler	Geothlypis formosa																		Animalia		Insecta						yes			NA	NA		1	Occurrence	86						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.12	Occurrence							
+Mourning Warbler	Geothlypis philadelphia																		Animalia		Insecta						yes			NA	NA		1	Occurrence	9						
+Hooded Warbler	Setophaga citrina																		Animalia		Insecta						yes			NA	NA		1	Occurrence	1						
+Canada Warbler	Cardellina canadensis																		Animalia		Insecta						yes			NA	NA		1	Occurrence	6						
+Summer Tanager	Piranga rubra		Cardinalidae																Animalia		Insecta						yes			NA	NA		0.86	Occurrence	7						
+																			Plantae		Magnoliopsida						yes			NA	fruit		0.57	Occurrence							
+Scarlet Tanager	Piranga oliveacea																		Animalia		Insecta						yes			NA	NA		1	Occurrence	2						
+																			Plantae		Magnoliopsida						yes			NA	fruit		1	Occurrence							
+Rose-breasted Grosbeak	Pheucticus ludovicianus																		Animalia		Insecta						yes			NA	NA		1	Occurrence	1						
+																			Plantae		Magnoliopsida						yes			NA	fruit		1	Occurrence							
+Northern Oriole	Icterus galbula		Icteridae																Animalia		Insecta						yes			NA	NA		1	Occurrence	1						
+																			Plantae		Magnoliopsida						yes			NA	fruit		1	Occurrence							
