@@ -27,8 +27,52 @@ Gray-cheeked Thrush	Catharus minimus																		Animalia		Insecta						yes
 																			Plantae							Psychotria grandis	yes			NA	fruit		0.043	Occurrence							
 																			Plantae							Psychotria officinalis	yes			NA	fruit		0.043	Occurrence							
 																			Plantae						Psychotria		no			NA	fruit		0.13	Occurrence					listed as Psychotria pittieri		
+																			Plantae							Psychotria psychotriifolia	yes			NA	fruit		0.261	Occurrence							
+																			Plantae							Sabicea villosa	yes			NA	fruit		0.043	Occurrence							
+																			Plantae							Cestrum racemosum	yes			NA	fruit		0.043	Occurrence							
+																			Plantae							Witheringia asterotricha	yes			NA	fruit		0.043	Occurrence							
+																			Plantae							Urera baccifera	yes			NA	fruit		0.043	Occurrence							
 Swainson's Thrush	Catharus ustulatus																		Animalia		Insecta						yes			NA	NA		0.53	Occurrence		199					
-																			Plantae		Magnoliopsida						yes			NA	fruit		0.98	Occurrence							
+																			Plantae							Dendropanax arboreus	yes			NA	fruit		0.05	Occurrence							
+																			Plantae							Schefflera systyla	yes			NA	fruit		0.01	Occurrence							
+																			Plantae							Clibadium surinamense	yes			NA	fruit		0.005	Occurrence							
+																			Plantae							Doliocarpus dentatus	yes			NA	fruit		0.015	Occurrence							
+																			Plantae							Pinzona coriacea	yes			NA	fruit		0.02	Occurrence							
+																			Plantae							Nectandra membranacea	yes			NA	fruit		0.06	Occurrence							
+																			Plantae						Clidemia		yes			NA	fruit		0.03	Occurrence					listed as Clidemia dentata		
+																			Plantae							Conostegia subcrustulata	yes			NA	fruit		0.2	Occurrence							
+																			Plantae							Miconia affinis	yes			NA	fruit		0.246	Occurrence					includes subspecies smaragdina		
+																			Plantae							Miconia appendiculata	yes			NA	fruit		0.005	Occurrence							
+																			Plantae							Miconia prasina	yes			NA	fruit		0.015	Occurrence							
+																			Plantae							Miconia barbinervis	yes			NA	fruit		0.005	Occurrence							
+																			Plantae							Miconia brenesii	yes			NA	fruit		0.01	Occurrence							
+																			Plantae							Miconia centrodesma	yes			NA	fruit		0.02	Occurrence							
+																			Plantae							Miconia multispicata	yes			NA	fruit		0.025	Occurrence							
+																			Plantae							Miconia nervosa	yes			NA	fruit		0.02	Occurrence							
+																			Plantae							Miconia simplex	yes			NA	fruit		0.005	Occurrence							
+																			Plantae						Miconia		no			NA	fruit		0.03	Occurrence							
+																			Plantae						Ossaea		no			NA	fruit		0.01	Occurrence							
+																			Plantae						Cissampelos		yes			NA	fruit		0.015	Occurrence							
+																			Plantae						Ficus		yes			NA	fruit		0.045	Occurrence							
+																			Plantae							Ardisia nigropunctata	yes			NA	fruit		0.035	Occurrence							
+																			Plantae							Passiflora auriculata	yes			NA	fruit		0.01	Occurrence							
+																			Plantae							Phytolacca rivinoides	yes			NA	fruit		0.01	Occurrence							
+																			Plantae							Trichostigma polyandrum	yes			NA	fruit		0.01	Occurrence							
+																			Plantae							Bertiera guianensis	yes			NA	fruit		0.01	Occurrence							
+																			Plantae							Palicourea elata	yes			NA	fruit		0.015	Occurrence							
+																			Plantae							Hamelia patens	yes			NA	fruit		0.005	Occurrence							
+																			Plantae							Psychotria brachiata	yes			NA	fruit		0.015	Occurrence							
+																			Plantae							Ditrichanthus seemannii	yes			NA	fruit		0.025	Occurrence							
+																			Plantae							Psychotria grandis	yes			NA	fruit		0.01	Occurrence							
+																			Plantae							Notopleura epiphytica	yes			NA	fruit		0.005	Occurrence							
+																			Plantae							Psychotria officinalis	yes			NA	fruit		0.03	Occurrence							
+																			Plantae						Psychotria		no			NA	fruit		0.005	Occurrence					listed as Psychotria pittieri		
+																			Plantae							Sabicea villosa	yes			NA	fruit		0.025	Occurrence							
+																			Plantae						Sabicea		no			NA	fruit		0.015	Occurrence							
+																			Plantae							Cestrum racemosum	yes			NA	fruit		0.015	Occurrence							
+																			Plantae							Witheringia asterotricha	yes			NA	fruit		0.01	Occurrence							
+																			Plantae						Citrus		yes			NA	fruit	orange pulp	0.005	Occurrence							
+																			Plantae		Magnoliopsida						no			NA	fruit	"unknown fruit, pulp, and juice"	0.191	Occurrence							
 Wood Thrush	Hylocichla mustelina																		Animalia		Insecta						yes			NA	NA		0.93	Occurrence		259					
 																			Plantae		Magnoliopsida						yes			NA	fruit		0.59	Occurrence							
 Gray Catbird	Dumetella carolinensis		Mimidae																Animalia		Insecta						yes			NA	NA		0.63	Occurrence		43					
