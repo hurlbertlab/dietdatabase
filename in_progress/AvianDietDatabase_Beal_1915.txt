@@ -1,0 +1,30 @@
+Common_Name	Scientific_Name	Subspecies	Family	Taxonomy	Longitude_dd	Latitude_dd	Altitude_min_m	Altitude_mean_m	Altitude_max_m	Location_Region	Location_Specific	Habitat_type	Observation_Month_Begin	Observation_Year_Begin	Observation_Month_End	Observation_Year_End	Observation_Season	Analysis_Number	Prey_Kingdom	Prey_Phylum	Prey_Class	Prey_Order	Prey_Suborder	Prey_Family	Prey_Genus	Prey_Scientific_Name	Inclusive_Prey_Taxon	Prey_Name_ITIS_ID	Prey_Name_Status	Prey_Stage	Prey_Part	Prey_Common_Name	Fraction_Diet	Diet_Type	Item_Sample_Size	Bird_Sample_Size	Sites	Study_Type	Notes	Entered_By	Source
+Townsend's Solitaire	Myadestes townsendi		Turdidae	eBird Clements Checklist v2019	NA	NA	NA	NA	NA	North America	Western US	NA	1	NA	12	1915	multiple		Animalia			Coleoptera					no			NA	NA		0.0485	Wt_or_Vol	NA	41		stomach contents		MMS	
+																			Animalia					Carabidae			yes			NA	NA		0.0589	Wt_or_Vol							
+																			Animalia			Lepidoptera					yes			larva	NA		0.1295	Wt_or_Vol							
+																			Animalia					Formicidae			yes			NA	NA		0.0471	Wt_or_Vol							
+																			Animalia			Hymenoptera					no			NA	NA	bees and wasps	0.0025	Wt_or_Vol							
+																			Animalia			Diptera					yes			NA	NA		0.00125	Wt_or_Vol							
+																			Animalia			Hemiptera					yes			NA	NA		0.0351	Wt_or_Vol							
+																			Animalia			Orthoptera					yes			NA	NA	grasshoppers	0.005	Wt_or_Vol							
+																			Animalia		Insecta						no			NA	NA		0.00125	Wt_or_Vol							
+																			Animalia			Araneae					yes			NA	NA		0.0294	Wt_or_Vol							
+																			Animalia						Gordius		yes			NA	NA		0.00125	Wt_or_Vol					likely a parasite that was living in an insect ingested by bird		
+																			Plantae		Magnoliopsida						no			NA	fruit		0.587	Wt_or_Vol							
+																			Plantae						Juniperus		no			NA	NA	cedar	0.054	Wt_or_Vol							
+																			Plantae							Juniperus scopulorum	yes			NA	NA	Rocky Mountain cedar	0.073	Occurrence							
+																			Plantae							Juniperus monospermum	yes			NA	NA	western cedar	0.024	Occurrence							
+																			Plantae						Juniperus		no			NA	NA	cedar	0.049	Occurrence							
+																			Plantae							Celtis occidentalis	yes			NA	fruit	hackberries	0.024	Occurrence							
+																			Plantae							Celtis douglasii	yes			NA	fruit	Douglas hackberries	0.024	Occurrence							
+																			Plantae						Amelanchier		yes			NA	fruit	service berries	0.024	Occurrence							
+																			Plantae						Rosa		yes			NA	fruit		0.049	Occurrence							
+																			Plantae						Prunus		yes			NA	fruit	wild cherries	0.024	Occurrence							
+																			Plantae						Rhus		no			NA	fruit	sumac	0.024	Occurrence							
+																			Plantae							Rhus toxicodendron	yes			NA	fruit	poison ivy	0.024	Occurrence							
+																			Plantae						Celastrus		yes			NA	fruit	waxwork	0.024	Occurrence							
+																			Plantae							Arbutus menziesii	yes			NA	fruit	madrona	0.102	Occurrence							
+																			Plantae						Lonicera		yes			NA	fruit	honeysuckle	0.024	Occurrence							
+																			Plantae						Sambucus		yes			NA	fruit	elderberries	0.024	Occurrence							
+																			Plantae		Magnoliopsida						no			NA	fruit		0.073	Occurrence							
+																																		Occurrence							
