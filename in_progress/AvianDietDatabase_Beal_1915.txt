@@ -27,4 +27,48 @@ Townsend's Solitaire	Myadestes townsendi		Turdidae	eBird Clements Checklist v201
 																			Plantae						Lonicera		yes			NA	fruit	honeysuckle	0.024	Occurrence							
 																			Plantae						Sambucus		yes			NA	fruit	elderberries	0.024	Occurrence							
 																			Plantae		Magnoliopsida						no			NA	fruit		0.073	Occurrence							
+Wood Thrush	Hylocichla mustelina									North America	NA		4	NA	10	1915	multiple		Animalia					Carabidae			yes			NA	NA		0.0223	Wt_or_Vol		169					
+																			Animalia					Scarabaeidae			yes			NA	NA		0.1017	Wt_or_Vol							
+																			Animalia					Curculionidae			yes			NA	NA		0.0216	Wt_or_Vol							
+																			Animalia					Elateridae			yes			NA	NA		0.0213	Wt_or_Vol							
+																			Animalia			Coleoptera					no			NA	NA		0.0371	Wt_or_Vol							
+																			Animalia			Lepidoptera					yes			larva	NA		0.0942	Wt_or_Vol							
+																			Animalia					Formicidae			yes			NA	NA		0.0889	Wt_or_Vol							
+																			Animalia			Hymenoptera					no			NA	NA		0.0386	Wt_or_Vol							
+																			Animalia			Diptera					yes			adult; larva	NA		0.027	Wt_or_Vol							
+																			Animalia			Hemiptera					yes			NA	NA		0.0133	Wt_or_Vol							
+																			Animalia			Orthoptera					yes			NA	NA	grasshoppers	0.0228	Wt_or_Vol							
+																			Animalia		Insecta						no			NA	NA		0.005	Wt_or_Vol							
+																			Animalia	Arthropoda							no			NA	NA	spiders and myriapods	0.0849	Wt_or_Vol							
+																			Animalia								no			NA	NA	"sowbugs, snails, earthworms"	0.0183	Wt_or_Vol							
+																			Plantae		Magnoliopsida						yes			NA	seed; fruit		0.4041	Wt_or_Vol							
+																			Animalia						Tiphia		yes			NA	NA		0.006	Occurrence					listed as Tiphia inornata		
+																			Animalia							Nicrophorus tomentosus	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Philonthus lomatus	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Hister abbreviatus	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Hister depurator	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Hister		no			NA	NA		0.012	Occurrence					listed as Hister americanus		
+																			Animalia							Glischrochilus quadriguttatus	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Melanotus americanus	yes			NA	NA		0.006	Occurrence							
+																			Animalia			Coleoptera					no			NA	NA		0.006	Occurrence					listed as Corymbites cylindriformis		
+																			Animalia							Agrilus bilineatus	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Cantharis		yes			NA	NA		0.006	Occurrence					listed as Telephorus carolinus		
+																			Animalia							Onthophagus striatulus	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Onthophagus tuberculifrons	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Onthophagus		no			NA	NA		0.018	Occurrence							
+																			Animalia						Ataenius		yes			NA	NA		0.012	Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
 																																		Occurrence							
