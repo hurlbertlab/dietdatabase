@@ -57,16 +57,122 @@ Wood Thrush	Hylocichla mustelina									North America	NA		4	NA	10	1915	multiple
 																			Animalia							Onthophagus tuberculifrons	yes			NA	NA		0.006	Occurrence							
 																			Animalia						Onthophagus		no			NA	NA		0.018	Occurrence							
 																			Animalia						Ataenius		yes			NA	NA		0.012	Occurrence							
+																			Animalia							Calamosternus granarius	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Calamosternus		no			NA	NA		0.006	Occurrence							
+																			Animalia							Dichelonyx elongatula	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Dichelonyx		no			NA	NA		0.006	Occurrence							
+																			Animalia						Phyllophaga		yes			NA	NA		0.16	Occurrence							
+																			Animalia						Tomarus		yes			NA	NA		0.006	Occurrence							
+																			Animalia						Allorrhina		yes			NA	NA		0.006	Occurrence					listed as Allorrhina nitida		
+																			Animalia							Euphoria fulgida	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Euphoria		no			NA	NA		0.012	Occurrence							
+																			Animalia						Chrysomela		yes			NA	NA		0.006	Occurrence					listed as Chrysomela pulchra		
+																			Animalia							Leptinotarsa decemlineata	yes			NA	NA		0.012	Occurrence							
+																			Animalia						Odontota		yes			NA	NA		0.006	Occurrence							
+																			Animalia						Coptocycla		yes			NA	NA		0.006	Occurrence					includes Coptocylca signifera and Coptocycla sp.		
+																			Animalia							Anametis granulata	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Phyxelis rigidus	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Otiorhynchus ovatus	yes			NA	NA		0.012	Occurrence							
+																			Animalia							Tanymecus confusus	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Pandeleteius hilaris	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Barypeithes pellucidus	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Listronotus		yes			NA	NA		0.006	Occurrence							
+																			Animalia							Conotrachelus posticatus	yes			NA	NA		0.012	Occurrence							
+																			Animalia							Acalles carinatus	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Curculio		yes			NA	NA		0.012	Occurrence							
+																			Animalia							Arrenodes minutus	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Sphenophorus parvulus	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Nezara		yes			NA	NA		0.012	Occurrence					listed as Nezara hilaris		
+																			Animalia							Diapheromera femorata	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Reticulitermes flavipus	yes			NA	NA		0.006	Occurrence							
+																			Plantae							Taxus canadensis	yes			NA	fruit; seed	yew berries	0.006	Occurrence							
+																			Plantae							Maianthemum racemosum	yes			NA	fruit; seed	false Solomon's seal	0.006	Occurrence							
+																			Plantae							Morella caroliniensis	yes			NA	fruit; seed	bayberries	0.006	Occurrence							
+																			Plantae						Morus		yes			NA	fruit; seed	mulberries	0.059	Occurrence							
+																			Plantae							Lindera benzoin	yes			NA	fruit; seed	spiceberries	0.03	Occurrence							
+																			Plantae							Amelanchier canadensis	yes			NA	fruit; seed	service berries	0.012	Occurrence							
+																			Plantae						Rubus		yes			NA	fruit; seed	blackberries or raspberries	0.101	Occurrence							
+																			Plantae						Rosa		yes			NA	fruit; seed	rose haws	0.006	Occurrence							
+																			Plantae							Prunus serotina	yes			NA	fruit; seed	chokeberries	0.041	Occurrence							
+																			Plantae						Croton		yes			NA	fruit; seed	croton	0.006	Occurrence							
+																			Plantae							Ilex opaca	yes			NA	fruit; seed	American holly	0.012	Occurrence							
+																			Plantae							Parthenocissus quinquefolia	yes			NA	fruit; seed	woodbine berries	0.006	Occurrence							
+																			Plantae							Vitis cordifolia	yes			NA	fruit; seed	frost grapes	0.024	Occurrence							
+																			Plantae							Aralia nudicaulis	yes			NA	fruit; seed	wild sasparilla	0.006	Occurrence							
+																			Plantae							Cornus florida	yes			NA	fruit; seed	flowering dogwood	0.018	Occurrence							
+																			Plantae							Cornus asperifolia	yes			NA	fruit; seed	rough-leaved dogwood	0.024	Occurrence							
+																			Plantae						Cornus		no			NA	fruit; seed	dogwood	0.006	Occurrence							
+																			Plantae							Nyssa sylvatica	yes			NA	fruit; seed	black gum	0.006	Occurrence							
+																			Plantae						Gaylussacia		yes			NA	fruit; seed	huckleberries	0.006	Occurrence							
+																			Plantae						Vaccinium		yes			NA	fruit; seed	blueberries	0.036	Occurrence							
+																			Plantae							Callicarpa americana	yes			NA	fruit; seed	French mulberry	0.006	Occurrence							
+																			Plantae							Sambucus nigra	yes			NA	fruit; seed	black elderberries	0.006	Occurrence							
+																			Plantae						Sambucus		no			NA	fruit; seed	elderberries	0.018	Occurrence							
+																			Plantae		Magnoliopsida						no			NA	fruit	fruit pulp	0.071	Occurrence							
+										Florida	NA		1	NA	1	1915	winter		Plantae		Magnoliopsida						no			NA	fruit		0.93	Wt_or_Vol		1			stomach of one bird taken separately from the rest in Jan in FL		
+																			Animalia	Arthropoda							no			NA	NA	"weevils, wasps, spiders"	0.07	Wt_or_Vol							
+										Alabama	NA		2	NA	2	1915	winter		Animalia			Lepidoptera					yes			larva	NA		0.88	Wt_or_Vol					stomach of one bird taken separately from the rest in Feb in AL		
+																			Animalia						Phyllophaga		yes			NA	NA	may beetles	0.05	Wt_or_Vol							
+																			Animalia			Hemiptera					no			NA	NA		0.06	Wt_or_Vol							
+																			Animalia			Araneae					yes			NA	NA		0.01	Wt_or_Vol							
+Veery	Catharus fuscescens	fuscescens; salicicola								North America	NA		4	NA	10	1915	multiple		Animalia					Carabidae			yes			NA	NA		0.0082	Wt_or_Vol		176					
+																			Animalia			Coleoptera					no			NA	NA		0.1136	Wt_or_Vol							
+																			Animalia					Curculionidae			yes			NA	NA		0.0249	Wt_or_Vol							
+																			Animalia					Formicidae			yes			NA	NA		0.1035	Wt_or_Vol							
+																			Animalia			Hymenoptera					no			NA	NA		0.0326	Wt_or_Vol							
+																			Animalia			Hemiptera					yes			NA	NA		0.013	Wt_or_Vol							
+																			Animalia			Diptera					no			NA	NA		0.0085	Wt_or_Vol							
+																			Animalia			Lepidoptera					yes			larva	NA		0.1191	Wt_or_Vol							
+																			Animalia			Orthoptera					yes			NA	NA	grasshoppers	0.0491	Wt_or_Vol							
+																			Animalia		Insecta						no			NA	NA		0.0098	Wt_or_Vol							
+																			Animalia			Araneae					yes			NA	NA		0.0634	Wt_or_Vol							
+																			Animalia								no			NA	NA	sowbugs and snails	0.027	Wt_or_Vol							
+																			Plantae		Magnoliopsida						no			NA	fruit; seed		0.4273	Wt_or_Vol							
+																			Animalia						Tiphia		yes			NA	NA		0.006	Occurrence					listed as Tiphia inornata		
+																			Animalia							Elaphrus ruscarius	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Anisodactylys harrisii	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Anisodactylus		no			NA	NA		0.006	Occurrence							
+																			Animalia							Poecilus lucublandus	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Hydrobius fuscipes	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Ips		yes			NA	NA		0.006	Occurrence					listed as Ipa fasciata		
+																			Animalia							Porcinolus murinus	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Cardiophorus		yes			NA	NA		0.011	Occurrence					listed as Dolopius lateralis		
+																			Animalia							Limonius aeger	yes			NA	NA		0.006	Occurrence							
+																			Animalia			Coleoptera					no			NA	NA		0.006	Occurrence					"listed as Corymbites cylindriformis, C. spinosus, and C. tarsalin"		
+																			Animalia							Podabrus flavicollis	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Cantharis		yes			NA	NA		0.011	Occurrence					includes Telephorus bilineatus and Telephorus sp.		
+																			Animalia						Onthophagus		yes			NA	NA		0.011	Occurrence							
+																			Animalia							Ataenius cognatus	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Aphodius		yes			NA	NA		0.017	Occurrence							
+																			Animalia						Dichelonyx		yes			NA	NA		0.011	Occurrence							
+																			Animalia							Serica sericea	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Phyllophaga hirticula	yes			NA	NA		0.006	Occurrence							
+																			Animalia						Phyllophaga		no			NA	NA		0.074	Occurrence							
 																			Animalia															Occurrence							
 																			Animalia															Occurrence							
 																			Animalia															Occurrence							
 																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
 																																		Occurrence							
 																																		Occurrence							
 																																		Occurrence							
