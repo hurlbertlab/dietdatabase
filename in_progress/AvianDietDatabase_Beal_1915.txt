@@ -203,3 +203,51 @@ Veery	Catharus fuscescens	fuscescens; salicicola								North America	NA		4	NA	1
 																			Plantae							Sambucus racemosa	yes			NA	fruit; seed	red elderberries	0.023	Occurrence							
 																			Plantae						Sambucus		no			NA	fruit; seed	elderberries	0.017	Occurrence							
 																			Plantae		Magnoliopsida						no			NA	fruit; seed	fruit pulp	0.023	Occurrence							
+Swainson's Thrush	Catharus ustulatus	swainsoni; ustulatus								North America	NA		3	NA	11	1915	multiple		Animalia			Coleoptera					no			NA	NA		0.0786	Wt_or_Vol		403					
+																			Animalia					Carabidae			yes			NA	NA		0.0314	Wt_or_Vol							
+																			Animalia					Curculionidae			yes			NA	NA		0.0529	Wt_or_Vol							
+																			Animalia			Hymenoptera					no			NA	NA	bees and wasps	0.063	Wt_or_Vol							
+																			Animalia					Formicidae			yes			NA	NA		0.152	Wt_or_Vol							
+																			Animalia			Lepidoptera					yes			larva	NA		0.103	Wt_or_Vol							
+																			Animalia			Orthoptera					yes			NA	NA		0.0242	Wt_or_Vol							
+																			Animalia			Diptera					yes			NA	NA		0.0623	Wt_or_Vol							
+																			Animalia			Hemiptera					yes			NA	NA	"stinkbugs, shield bugs, tree hoppers, leafhoppers, cicadas"	0.0376	Wt_or_Vol							
+																			Animalia		Insecta						no			NA	NA		0.0048	Wt_or_Vol							
+																			Animalia	Arthropoda							no			NA	NA	spiders and millipedes	0.0222	Wt_or_Vol							
+																			Animalia								no			NA	NA	"snails, sowbugs, angleworms"	0.0032	Wt_or_Vol							
+																			Plantae		Magnoliopsida						no			NA	fruit; seed		0.3648	Wt_or_Vol							
+																			Animalia							Camponotus pennsylvanicus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Tiphia		yes			NA	NA		0.002	Occurrence					listed as Tiphia inornata		
+																			Animalia						Cychrus		yes			NA	NA		0.004	Occurrence							
+																			Animalia							Notiophilus aeneus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Poecilus chalcites	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Pterostichus lustrans	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Amara interstitialis	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Amara longula	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Stenolophus lecontei	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Platydracus cinnamopterus	yes			NA	NA		0.002	Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
+																			Animalia																						
