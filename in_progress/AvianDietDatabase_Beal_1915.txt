@@ -134,7 +134,7 @@ Veery	Catharus fuscescens	fuscescens; salicicola								North America	NA		4	NA	1
 																			Animalia						Anisodactylus		no			NA	NA		0.006	Occurrence							
 																			Animalia							Poecilus lucublandus	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Hydrobius fuscipes	yes			NA	NA		0.006	Occurrence							
-																			Animalia						Ips		yes			NA	NA		0.006	Occurrence					listed as Ipa fasciata		
+																			Animalia						Ips		yes			NA	NA		0.006	Occurrence					listed as Ips fasciata		
 																			Animalia							Porcinolus murinus	yes			NA	NA		0.006	Occurrence							
 																			Animalia						Cardiophorus		yes			NA	NA		0.011	Occurrence					listed as Dolopius lateralis		
 																			Animalia							Limonius aeger	yes			NA	NA		0.006	Occurrence							
@@ -218,7 +218,7 @@ Swainson's Thrush	Catharus ustulatus	swainsoni; ustulatus								North America	N
 																			Plantae		Magnoliopsida						no			NA	fruit; seed		0.3648	Wt_or_Vol							
 																			Animalia							Camponotus pennsylvanicus	yes			NA	NA		0.002	Occurrence							
 																			Animalia						Tiphia		yes			NA	NA		0.002	Occurrence					listed as Tiphia inornata		
-																			Animalia						Cychrus		yes			NA	NA		0.004	Occurrence							
+																			Animalia						Cychrus		yes			NA	NA		0.005	Occurrence							
 																			Animalia							Notiophilus aeneus	yes			NA	NA		0.002	Occurrence							
 																			Animalia							Poecilus chalcites	yes			NA	NA		0.002	Occurrence							
 																			Animalia							Pterostichus lustrans	yes			NA	NA		0.002	Occurrence							
@@ -226,28 +226,66 @@ Swainson's Thrush	Catharus ustulatus	swainsoni; ustulatus								North America	N
 																			Animalia							Amara longula	yes			NA	NA		0.002	Occurrence							
 																			Animalia							Stenolophus lecontei	yes			NA	NA		0.002	Occurrence							
 																			Animalia							Platydracus cinnamopterus	yes			NA	NA		0.002	Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
-																			Animalia																						
+																			Animalia							Heterosilpha ramosa	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Tachyporus californicus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Chilocorus orbus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Scymnus		yes			NA	NA		0.002	Occurrence							
+																			Animalia						Hister		yes			NA	NA		0.002	Occurrence					listed as Hister americanus		
+																			Animalia							Glischrochilus quadriguttatus	yes			NA	NA		0.01	Occurrence							
+																			Animalia							Cytilus sericeus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Agriotes stabilis	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Podabrus flavicollis	yes			NA	NA		0.005	Occurrence							
+																			Animalia							Podabrus modestus	yes			NA	NA		0.005	Occurrence							
+																			Animalia							Silis lutea	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Cantharis		yes			NA	NA		0.02	Occurrence					"listed as Telephorus carolinus, T. bilineatus, and T. divisus"		
+																			Animalia							Onthophagus hecate	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Onthophagus striatulus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Onthophagus tuberculifrons	yes			NA	NA		0.005	Occurrence							
+																			Animalia							Ataenius abditus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Onthophagus		no			NA	NA		0.01	Occurrence							
+																			Animalia							Diapterna hamata	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Aphodius fimetarius	yes			NA	NA		0.015	Occurrence							
+																			Animalia							Chilothorax distinctus	yes			NA	NA		0.017	Occurrence							
+																			Animalia						Aphodius		no			NA	NA		0.015	Occurrence							
+																			Animalia						Geotrupes		yes			NA	NA		0.002								
+																			Animalia							Dichelonyx elongatula	yes			NA	NA		0.005								
+																			Animalia							Phyllophaga hirticula	yes			NA	NA		0.002								
+																			Animalia						Phyllophaga		no			NA	NA		0.03								
+																										Anomala undulata	yes			NA	NA		0.002								
+																									Anomala		no			NA	NA		0.002								
+																										Euphoria fulgida	yes			NA	NA		0.002								
+																										Plateumaris nitida	yes			NA	NA		0.002								
+																										Neohaemonia nigricornis	yes			NA	NA		0.002								
+																									Syneta		yes			NA	NA		0.002						listed as Syneta pallida		
+																										Leptinotarsa decemlineata	yes			NA	NA		0.002								
+																									Gastrophysa		yes			NA	NA		0.002								
+																									Galerucella		yes			NA	NA		0.002						listed as Galerucella decora		
+																										Diabrotica soror	yes			NA	NA		0.002								
+																									Diabrotica		no			NA	NA		0.002								
+																										Gonioctena pallida	yes			NA	NA		0.002								
+																									Luperodes		yes			NA	NA		0.002								
+																									Opatrinus		yes			NA	NA		0.002								
+																										Blapstinus metallicus	yes			NA	NA		0.002								
+																										Blapstinus moestus	yes			NA	NA		0.002								
+																									Blapstinus		no			NA	NA		0.002								
+																										Otiorhynchus ovatus	yes			NA	NA		0.002								
+																									Thinoxenus		yes			NA	NA		0.002								
+																										Cercopeus chrysorrhoeus	yes			NA	NA		0.002								
+																										Barypeithes pellucidus	yes			NA	NA		0.002								
+																										Sitona lepidus	yes			NA	NA		0.002								
+																									Sitona		no			NA	NA		0.002								
+																										Brachypera zoilus	yes			NA	NA		0.005								
+																										Pachylobius picivorus	yes			NA	NA		0.002								
+																										Conotrachelus posticatus	yes			NA	NA		0.002								
+																									Micromastus		yes			NA	NA		0.002						listed as Micromastus elegans		
+																										Acalles clavatus	yes			NA	NA		0.002								
+																										Cryptorhynchus bisignatus	yes			NA	NA		0.002								
+																										Campylirhynchus pyrrhopus	yes			NA	NA		0.002								
+																									Curculio		yes			NA	NA		0.007								
+																										Sphenophorus parvulus	yes			NA	NA		0.002								
+																									Sphenophorus		no			NA	NA		0.002								
+																										Scolytus muticus	yes			NA	NA		0.002								
+																									Anisota		yes			larva	NA		0.002						listed as Edema albifrons		
+																										Yphria californica	yes			NA	NA		0.002								
+																										Myodocha serripes	yes			NA	NA		0.002								
+																										Sinea diadema	yes			NA	NA		0.002								
