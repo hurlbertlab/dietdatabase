@@ -130,7 +130,7 @@ Veery	Catharus fuscescens	fuscescens; salicicola								North America	NA		4	NA	1
 																			Plantae		Magnoliopsida						no			NA	fruit; seed		0.4273	Wt_or_Vol							
 																			Animalia						Tiphia		yes			NA	NA		0.006	Occurrence					listed as Tiphia inornata		
 																			Animalia							Elaphrus ruscarius	yes			NA	NA		0.006	Occurrence							
-																			Animalia							Anisodactylys harrisii	yes			NA	NA		0.006	Occurrence							
+																			Animalia							Anisodactylus harrisii	yes			NA	NA		0.006	Occurrence							
 																			Animalia						Anisodactylus		no			NA	NA		0.006	Occurrence							
 																			Animalia							Poecilus lucublandus	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Hydrobius fuscipes	yes			NA	NA		0.006	Occurrence							
@@ -345,3 +345,70 @@ Swainson's Thrush	Catharus ustulatus	swainsoni; ustulatus								North America	N
 																			Animalia			Araneae					yes			NA	NA	"mostly harvestmen, daddy longlegs"	0.12	Wt_or_Vol					food of nestlings		
 																			Animalia		Insecta						no			NA	NA		0.06	Wt_or_Vol					food of nestlings		
 																			Plantae		Magnoliopsida						no			NA	fruit; seed		0.068	Wt_or_Vol					food of nestlings		
+Hermit Thrush	Catharus guttatus									North America	NA		1	NA	12	1915			Animalia			Coleoptera					no			NA	NA		0.0558	Wt_or_Vol		551					
+																			Animalia					Carabidae			yes			NA	NA		0.0298	Wt_or_Vol							
+																			Animalia					Curculionidae			yes			NA	NA		0.0313	Wt_or_Vol							
+																			Animalia					Scarabaeidae			yes			NA	NA		0.0344	Wt_or_Vol							
+																			Animalia					Formicidae			yes			NA	NA		0.1246	Wt_or_Vol							
+																			Animalia			Hymenoptera					no			NA	NA	bees and wasps	0.0541	Wt_or_Vol							
+																			Animalia			Lepidoptera					yes			larva	NA		0.0954	Wt_or_Vol							
+																			Animalia			Hemiptera					no			NA	NA		0.0363	Wt_or_Vol							
+																			Animalia			Diptera					yes			NA	NA		0.0302	Wt_or_Vol							
+																			Animalia			Orthoptera					no			NA	NA	grasshoppers and crickets	0.0632	Wt_or_Vol							
+																			Animalia		Insecta						no			NA	NA		0.0027	Wt_or_Vol							
+																			Animalia	Arthropoda							no			NA	NA	spiders and myriapods	0.0747	Wt_or_Vol							
+																			Animalia								no			NA	NA	"sowbugs, snails, angleworms"	0.0126	Wt_or_Vol							
+																			Plantae		Magnoliopsida						no			NA	fruit; seed		0.3549	Wt_or_Vol							
+																			Animalia						Tiphia		yes			NA	NA		0.004	Occurrence					listed as Tiphia inornata		
+																			Animalia						Elaphrus		yes			NA	NA		0.002	Occurrence							
+																			Animalia							Notiophilus semistriatus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Scarites subterraneus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Dyschirius pumilus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Pterostichus patruelis	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Pterostichus		no			NA	NA		0.002	Occurrence							
+																			Animalia						Amara		yes			NA	NA		0.002	Occurrence							
+																			Animalia							Chlaenius pennsylvanicus	yes			NA	NA		0.004	Occurrence							
+																			Animalia						Stenolophus		yes			NA	NA		0.002	Occurrence							
+																			Animalia						Anisodactylus		yes			NA	NA		0.002	Occurrence					listed as Anisodactylus agilis		
+																			Animalia						Tropisternus		yes			NA	NA		0.004	Occurrence					listed as Tropisternus limbalis		
+																			Animalia							Hydrochara obtusata	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Dactylosternum		yes			NA	NA		0.002	Occurrence					listed as Sphoeridum lecontei		
+																			Animalia							Ptomaphagus consobrinus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Leiodes valida	yes			NA	NA		0.002	Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																			Animalia															Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
+																																		Occurrence							
