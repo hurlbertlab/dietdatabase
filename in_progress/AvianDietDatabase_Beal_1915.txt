@@ -400,15 +400,39 @@ Hermit Thrush	Catharus guttatus									North America	NA		1	NA	12	1915			Animali
 																			Animalia							Onthophagus tuberculifrons	yes			NA	NA		0.002	Occurrence							
 																			Animalia						Onthophagus		no			NA	NA		0.005	Occurrence							
 																			Animalia							Aegialia lacustris	yes			NA	NA		0.002	Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
-																																		Occurrence							
+																			Animalia							Rhyssemus scaber	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Ataenius abditus	yes			NA	NA		0.002	Occurrence							
+																										Ataenius cognatus	yes			NA	NA		0.002	Occurrence							
+																									Ataenius		no			NA	NA		0.002	Occurrence							
+																										Aphodius fimetarius	yes			NA	NA		0.02	Occurrence							
+																										Aphodius granarius	yes			NA	NA		0.002	Occurrence							
+																										Rugaphodius rugatus	yes			NA	NA		0.002	Occurrence							
+																										Chilothorax distinctus	yes			NA	NA		0.016	Occurrence							
+																										Aphodius pardalis	yes			NA	NA		0.002	Occurrence							
+																										Aphodius prodromus	yes			NA	NA		0.007	Occurrence							
+																									Aphodius		no			NA	NA		0.02	Occurrence					includes Aphodius crassiusculus and Aphodius sp.		
+																									Geotrupes		yes			NA	NA		0.002	Occurrence					listed as Geotrupes semipunctata		
+																									Dichelonyx		yes			NA	NA		0.002								
+																									Phyllophaga		yes			NA	NA		0.031								
+																									Chrysomela		yes			NA	NA		0.005								
+																										Lema nigrovittata	yes			NA	NA		0.002								
+																										Chlamys plicata	yes			NA	NA		0.002								
+																										Myochrous denticollis	yes			NA	NA		0.004								
+																										Xanthonia decemnotata	yes			NA	NA		0.002								
+																										Calligrapha scalaris	yes			NA	NA		0.002								
+																										Leptinotarsa decemlineata	yes			NA	NA		0.002								
+																										Phaedon viridis	yes			NA	NA		0.002								
+																										Diabrotica vittata	yes			NA	NA		0.002								
+																									Odontota		yes			NA	NA		0.004						includes Odontota rubra and Odontota sp.		
+																										Haltica torquata	yes			NA	NA		0.002								
+																										Crepidodera helxines	yes			NA	NA		0.002								
+																										Syneta ferruginea	yes			NA	NA		0.002								
+																										Systena elongata	yes			NA	NA		0.002								
+																										Chaetocnema pulicaria	yes			NA	NA		0.002								
+																										Psylliodes punctulata	yes			NA	NA		0.002								
+																										Chelymorpha cribraria	yes			NA	NA		0.002								
+																										Opatrinus notus	yes			NA	NA		0.002								
+																										Opatrinus aciculatus	yes			NA	NA		0.002								
+																										Blapstinus metallicus	yes			NA	NA		0.002								
+																										Blapstinus rufipes	yes			NA	NA		0.002								
+																									Salpingus		yes			NA	NA		0.002						listed as Salpingus virescens		
