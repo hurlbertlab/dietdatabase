@@ -375,31 +375,31 @@ Hermit Thrush	Catharus guttatus									North America	NA		1	NA	12	1915			Animali
 																			Animalia						Dactylosternum		yes			NA	NA		0.002	Occurrence					listed as Sphoeridum lecontei		
 																			Animalia							Ptomaphagus consobrinus	yes			NA	NA		0.002	Occurrence							
 																			Animalia							Leiodes valida	yes			NA	NA		0.002	Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
-																			Animalia															Occurrence							
+																			Animalia							Coleomegilla maculata				NA	NA		0.002	Occurrence							
+																			Animalia						Anatis		yes			NA	NA		0.002	Occurrence					listed as Anatis 15-maculata		
+																			Animalia						Psyllobora		yes			NA	NA		0.002	Occurrence					listed as Psyllobora taedata		
+																			Animalia							Brachiacantha ursina	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Endomychus biguttatus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Cryptophagus		yes			NA	NA		0.002	Occurrence							
+																			Animalia							Hister marginicollis	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Hister americanus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Xerosaprinus fimbriatus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Carpophilus hemipterus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Perthalycra murrayi	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Glischrochilus		yes			NA	NA		0.005	Occurrence							
+																			Animalia							Cytilus sericeus	yes			NA	NA		0.004	Occurrence							
+																			Animalia						Cytilus		no			NA	NA		0.002	Occurrence							
+																			Animalia							Byrrhus kirbyi	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Byrrhus cyclophorus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Cryptohypnus bicolor	yes			NA	NA		0.004	Occurrence							
+																			Animalia							Drasterius dorsalis	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Dolopius lateralis	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Melanotus		yes			NA	NA		0.004	Occurrence							
+																			Animalia							Podabrus tomentosus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Canthon		yes			NA	NA		0.002	Occurrence							
+																			Animalia							Onthophagus tuberculifrons	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Onthophagus		no			NA	NA		0.005	Occurrence							
+																			Animalia							Aegialia lacustris	yes			NA	NA		0.002	Occurrence							
 																			Animalia															Occurrence							
 																			Animalia															Occurrence							
 																																		Occurrence							
