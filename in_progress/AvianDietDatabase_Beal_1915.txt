@@ -42,17 +42,17 @@ Wood Thrush	Hylocichla mustelina									North America	NA		4	NA	10	1915	multiple
 																			Animalia	Arthropoda							no			NA	NA	spiders and myriapods	0.0849	Wt_or_Vol							
 																			Animalia								no			NA	NA	"sowbugs, snails, earthworms"	0.0183	Wt_or_Vol							
 																			Plantae		Magnoliopsida						yes			NA	seed; fruit		0.4041	Wt_or_Vol							
-																			Animalia						Tiphia		yes			NA	NA		0.006	Occurrence					listed as Tiphia inornata		
+																			Animalia							Tiphia inornata	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Nicrophorus tomentosus	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Philonthus lomatus	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Hister abbreviatus	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Hister depurator	yes			NA	NA		0.006	Occurrence							
-																			Animalia						Hister		no			NA	NA		0.012	Occurrence					listed as Hister americanus		
+																			Animalia							Hister americanus	no			NA	NA		0.012	Occurrence							
 																			Animalia							Glischrochilus quadriguttatus	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Melanotus americanus	yes			NA	NA		0.006	Occurrence							
-																			Animalia			Coleoptera					no			NA	NA		0.006	Occurrence					listed as Corymbites cylindriformis		
+																			Animalia							Corymbites cylindriformis	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Agrilus bilineatus	yes			NA	NA		0.006	Occurrence							
-																			Animalia						Cantharis		yes			NA	NA		0.006	Occurrence					listed as Telephorus carolinus		
+																			Animalia							Cantharis carolinus	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Onthophagus striatulus	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Onthophagus tuberculifrons	yes			NA	NA		0.006	Occurrence							
 																			Animalia						Onthophagus		no			NA	NA		0.018	Occurrence							
@@ -63,10 +63,10 @@ Wood Thrush	Hylocichla mustelina									North America	NA		4	NA	10	1915	multiple
 																			Animalia						Dichelonyx		no			NA	NA		0.006	Occurrence							
 																			Animalia						Phyllophaga		yes			NA	NA		0.16	Occurrence							
 																			Animalia						Tomarus		yes			NA	NA		0.006	Occurrence							
-																			Animalia						Allorrhina		yes			NA	NA		0.006	Occurrence					listed as Allorrhina nitida		
+																			Animalia							Cotinis nitida	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Euphoria fulgida	yes			NA	NA		0.006	Occurrence							
 																			Animalia						Euphoria		no			NA	NA		0.012	Occurrence							
-																			Animalia						Chrysomela		yes			NA	NA		0.006	Occurrence					listed as Chrysomela pulchra		
+																			Animalia							Chrysomela pulcra	yes			NA	NA		0.006	Occurrence							
 																			Animalia							Leptinotarsa decemlineata	yes			NA	NA		0.012	Occurrence							
 																			Animalia						Odontota		yes			NA	NA		0.006	Occurrence							
 																			Animalia						Coptocycla		yes			NA	NA		0.006	Occurrence					includes Coptocylca signifera and Coptocycla sp.		
@@ -402,37 +402,136 @@ Hermit Thrush	Catharus guttatus									North America	NA		1	NA	12	1915			Animali
 																			Animalia							Aegialia lacustris	yes			NA	NA		0.002	Occurrence							
 																			Animalia							Rhyssemus scaber	yes			NA	NA		0.002	Occurrence							
 																			Animalia							Ataenius abditus	yes			NA	NA		0.002	Occurrence							
-																										Ataenius cognatus	yes			NA	NA		0.002	Occurrence							
-																									Ataenius		no			NA	NA		0.002	Occurrence							
-																										Aphodius fimetarius	yes			NA	NA		0.02	Occurrence							
-																										Aphodius granarius	yes			NA	NA		0.002	Occurrence							
-																										Rugaphodius rugatus	yes			NA	NA		0.002	Occurrence							
-																										Chilothorax distinctus	yes			NA	NA		0.016	Occurrence							
-																										Aphodius pardalis	yes			NA	NA		0.002	Occurrence							
-																										Aphodius prodromus	yes			NA	NA		0.007	Occurrence							
-																									Aphodius		no			NA	NA		0.02	Occurrence					includes Aphodius crassiusculus and Aphodius sp.		
-																									Geotrupes		yes			NA	NA		0.002	Occurrence					listed as Geotrupes semipunctata		
-																									Dichelonyx		yes			NA	NA		0.002								
-																									Phyllophaga		yes			NA	NA		0.031								
-																									Chrysomela		yes			NA	NA		0.005								
-																										Lema nigrovittata	yes			NA	NA		0.002								
-																										Chlamys plicata	yes			NA	NA		0.002								
-																										Myochrous denticollis	yes			NA	NA		0.004								
-																										Xanthonia decemnotata	yes			NA	NA		0.002								
-																										Calligrapha scalaris	yes			NA	NA		0.002								
-																										Leptinotarsa decemlineata	yes			NA	NA		0.002								
-																										Phaedon viridis	yes			NA	NA		0.002								
-																										Diabrotica vittata	yes			NA	NA		0.002								
-																									Odontota		yes			NA	NA		0.004						includes Odontota rubra and Odontota sp.		
-																										Haltica torquata	yes			NA	NA		0.002								
-																										Crepidodera helxines	yes			NA	NA		0.002								
-																										Syneta ferruginea	yes			NA	NA		0.002								
-																										Systena elongata	yes			NA	NA		0.002								
-																										Chaetocnema pulicaria	yes			NA	NA		0.002								
-																										Psylliodes punctulata	yes			NA	NA		0.002								
-																										Chelymorpha cribraria	yes			NA	NA		0.002								
-																										Opatrinus notus	yes			NA	NA		0.002								
-																										Opatrinus aciculatus	yes			NA	NA		0.002								
-																										Blapstinus metallicus	yes			NA	NA		0.002								
-																										Blapstinus rufipes	yes			NA	NA		0.002								
-																									Salpingus		yes			NA	NA		0.002						listed as Salpingus virescens		
+																			Animalia							Ataenius cognatus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Ataenius		no			NA	NA		0.002	Occurrence							
+																			Animalia							Aphodius fimetarius	yes			NA	NA		0.02	Occurrence							
+																			Animalia							Aphodius granarius	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Rugaphodius rugatus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Chilothorax distinctus	yes			NA	NA		0.016	Occurrence							
+																			Animalia							Aphodius pardalis	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Aphodius prodromus	yes			NA	NA		0.007	Occurrence							
+																			Animalia						Aphodius		no			NA	NA		0.02	Occurrence					includes Aphodius crassiusculus and Aphodius sp.		
+																			Animalia						Geotrupes		yes			NA	NA		0.002	Occurrence					listed as Geotrupes semipunctata		
+																			Animalia						Dichelonyx		yes			NA	NA		0.002	Occurrence							
+																			Animalia						Phyllophaga		yes			NA	NA		0.031	Occurrence							
+																			Animalia						Chrysomela		yes			NA	NA		0.005	Occurrence							
+																			Animalia							Lema nigrovittata	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Chlamys plicata	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Myochrous denticollis	yes			NA	NA		0.004	Occurrence							
+																			Animalia							Xanthonia decemnotata	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Calligrapha scalaris	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Leptinotarsa decemlineata	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Phaedon viridis	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Diabrotica vittata	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Odontota		yes			NA	NA		0.004	Occurrence					includes Odontota rubra and Odontota sp.		
+																			Animalia							Haltica torquata	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Crepidodera helxines	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Syneta ferruginea	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Systena elongata	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Chaetocnema pulicaria	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Psylliodes punctulata	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Chelymorpha cribraria	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Opatrinus notus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Opatrinus aciculatus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Blapstinus metallicus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Blapstinus rufipes	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Salpingus		yes			NA	NA		0.002	Occurrence					listed as Salpingus virescens		
+																			Animalia							Anthicus pubescens	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Notoxus monodon	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Notoxus denudatus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Notoxus		no			NA	NA		0.002	Occurrence							
+																			Animalia							Attelabus rhois	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Rhigopsis effracta	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Cercopeus chrysorrhoeus	yes			NA	NA		0.007	Occurrence							
+																			Animalia							Pandeleteius hilaris	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Barypeithes pellucidus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Sitona hispidulus	yes			NA	NA		0.007	Occurrence							
+																			Animalia							Sitona flavescens	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Trichalophus alternatus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Apion		yes			NA	NA		0.002	Occurrence							
+																			Animalia							Listronotus latiusculus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Listronotus squamiger	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Listronotus		no			NA	NA		0.004	Occurrence							
+																			Animalia							Smicronyx corniculatus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Trachodes ptinoides	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Conotrachelus nenuphar	yes			NA	NA		0.004	Occurrence							
+																			Animalia							Conotrachelus posticatus	yes			NA	NA		0.009	Occurrence							
+																			Animalia							Conotrachelus erinaceus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Campylirhynchus pyrrhopus	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Onychobaris insidiosa	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Balaninus nasicus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Balaninus		no			NA	NA		0.002	Occurrence							
+																			Animalia							Sphenophorus parvulus	yes			NA	NA		0.002	Occurrence							
+																			Animalia						Sphenophorus		no			NA	NA		0.002	Occurrence							
+																			Animalia							Dendroctonus terebrans	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Amaurochrous cinctipes	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Chinavia hilaris	yes			NA	NA		0.011	Occurrence							
+																			Animalia							Arhaphe cicindeloides	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Galgupha denudata	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Myodocha serripes	yes			NA	NA		0.004	Occurrence							
+																			Animalia							Amblycorypha rotundifolia	yes			NA	NA		0.002	Occurrence							
+																			Animalia							Oecanthus niveus	yes			NA	NA		0.002	Occurrence							
+																			Plantae							Juniperus virginiana	yes			NA	fruit; seed	cedar berries	0.004	Occurrence							
+																			Plantae							Maianthemum racemosum	yes			NA	fruit; seed	false Solomon's seal	0.007	Occurrence							
+																			Plantae						Maianthemum		no			NA	fruit; seed	false spikenard	0.002	Occurrence							
+																			Plantae							Smilax walteri	yes			NA	fruit; seed	cat brier	0.004	Occurrence							
+																			Plantae							Smilax laurifolia	yes			NA	fruit; seed	laurel-leaved greenbrier	0.002	Occurrence							
+																			Plantae						Smilax		no			NA	fruit; seed	greenbriers	0.02	Occurrence							
+																			Plantae							Morella cerifera	yes			NA	fruit; seed	wax myrtle	0.002	Occurrence							
+																			Plantae							Morella caroliniensis	yes			NA	fruit; seed	bayberries	0.013	Occurrence							
+																			Plantae							Castanea pumila	yes			NA	fruit; seed	chinquapin	0.002	Occurrence							
+																			Plantae							Celtis occidentalis	yes			NA	fruit; seed	western hackberries	0.009	Occurrence							
+																			Plantae						Celtis		no			NA	fruit; seed	hackberries	0.005	Occurrence							
+																			Plantae						Ficus		yes			NA	fruit; seed	figs	0.002	Occurrence							
+																			Plantae						Morus		yes			NA	fruit; seed	mulberries	0.002	Occurrence							
+																			Plantae							Phoradendron villosum	yes			NA	fruit; seed	mistletoe berries	0.004	Occurrence							
+																			Plantae							Phytolacca americana	yes			NA	fruit; seed	poke berries	0.029	Occurrence							
+																			Plantae							Claytonia perfoliata	yes			NA	fruit; seed	miner's lettuce	0.002	Occurrence							
+																			Plantae							Sassafras albiudum	yes			NA	fruit; seed	sassafras berries	0.004	Occurrence							
+																			Plantae							Lindera benzoin	yes			NA	fruit; seed	spice berries	0.002	Occurrence							
+																			Plantae						Ribes		yes			NA	fruit; seed	currants	0.005	Occurrence							
+																			Plantae							Liquidambar styraciflua	yes			NA	fruit; seed	sweet gum	0.004	Occurrence							
+																			Plantae							Aronia arbutifolia	yes			NA	fruit; seed	chokeberries	0.002	Occurrence							
+																			Plantae							Amelanchier canadensis	yes			NA	fruit; seed	service berries	0.016	Occurrence							
+																			Plantae						Crataegus		yes			NA	fruit; seed	hawthorn	0.002	Occurrence							
+																			Plantae						Fragaria		yes			NA	fruit; seed	strawberries	0.002	Occurrence							
+																			Plantae						Rubus		yes			NA	fruit; seed	blackberries or raspberries	0.009	Occurrence							
+																			Plantae						Rosa		yes			NA	fruit; seed	rose haws	0.002	Occurrence							
+																			Plantae							Prunus serotina	yes			NA	fruit; seed	wild black cherries	0.005	Occurrence							
+																			Plantae							Acalypha virginica	yes			NA	fruit; seed	three-seeded mercury	0.002	Occurrence							
+																			Plantae							Rhus typhina	yes			NA	fruit; seed	staghorn sumac	0.009	Occurrence							
+																			Plantae							Rhus glabra	yes			NA	fruit; seed	smooth sumac	0.009	Occurrence							
+																			Plantae							Rhus copallinum	yes			NA	fruit; seed	dwarf sumac	0.013	Occurrence							
+																			Plantae							Toxicodendron radicans	yes			NA	fruit; seed	poison ivy	0.005	Occurrence							
+																			Plantae							Toxicodendron diversilobum	yes			NA	fruit; seed	poison oak	0.027	Occurrence							
+																			Plantae							Malosma laurina	yes			NA	fruit; seed	laurel-leaved sumac	0.004	Occurrence							
+																			Plantae						Rhus		no			NA	fruit; seed	sumac	0.022	Occurrence							
+																			Plantae							Schinus molle	yes			NA	fruit; seed	pepper berries	0.027	Occurrence							
+																			Plantae							Ilex opaca	yes			NA	fruit; seed	American holly	0.016	Occurrence							
+																			Plantae							Ilex verticillata	yes			NA	fruit; seed	black alder	0.022	Occurrence							
+																			Plantae							Ilex glabra	yes			NA	fruit; seed	ink berries	0.016	Occurrence							
+																			Plantae						Ilex		no			NA	fruit; seed	hollies	0.013	Occurrence							
+																			Plantae							Euonymus americanus	yes			NA	fruit; seed	strawberry bush	0.002	Occurrence							
+																			Plantae							Celastrus scandens	yes			NA	fruit; seed	roxbury waxwork	0.002	Occurrence							
+																			Plantae							Berchemia volubilis	yes			NA	fruit; seed	supple-jack	0.004	Occurrence							
+																			Plantae							Rhamnus californica	yes			NA	fruit; seed	coffe berries	0.002	Occurrence							
+																			Plantae							Parthenocissus quinquefolia	yes			NA	fruit; seed	woodbine	0.018	Occurrence							
+																			Plantae							Vitis cordifolia	yes			NA	fruit; seed	frost grapes	0.004	Occurrence							
+																			Plantae						Vitis		no			NA	fruit; seed	wild grapes	0.002	Occurrence							
+																			Plantae							Aralia nudicaulis	yes			NA	fruit; seed	wild sasparilla	0.002	Occurrence							
+																			Plantae							Cornus florida	yes			NA	fruit; seed	flowering dogwood	0.058	Occurrence							
+																			Plantae							Cornus asperifolia	yes			NA	fruit; seed	rough-leaved dogwood	0.004	Occurrence							
+																			Plantae							Nyssa sylvatica	yes			NA	fruit; seed	black gum	0.004	Occurrence							
+																			Plantae							Gaultheria procumbens	yes			NA	fruit; seed	checkerberry	0.002	Occurrence							
+																			Plantae						Gaylussacia		yes			NA	fruit; seed	huckleberries	0.002	Occurrence							
+																			Plantae						Vaccinium		yes			NA	fruit; seed	blueberries	0.022	Occurrence							
+																			Plantae							Solanum ptycanthum	yes			NA	fruit; seed	black nightshade	0.007	Occurrence							
+																			Plantae							Galium aparine	yes			NA	fruit; seed	goose grass	0.002	Occurrence							
+																			Plantae						Solanum		no			NA	fruit; seed	bittersweet	0.007	Occurrence							
+																			Plantae						Lonicera		yes			NA	fruit; seed	honeysuckle	0.004	Occurrence							
+																			Plantae							Symphoricarpos orbiculatus	yes			NA	fruit; seed	Indian currant	0.002	Occurrence							
+																			Plantae							Viburnum dentatum	yes			NA	fruit; seed	downy arrowwood	0.002	Occurrence							
+																			Plantae							Viburunum lentago	yes			NA	fruit; seed	nanny berries	0.004	Occurrence							
+																			Plantae							Sambucus nigra	yes			NA	fruit; seed	black elderberries	0.007	Occurrence							
+																			Plantae							Sambucus racemosa	yes			NA	fruit; seed	red elderberries	0.005	Occurrence							
+																			Plantae		Magnoliopsida						no			NA	fruit		0.109	Occurrence							
