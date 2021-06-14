@@ -116,11 +116,11 @@ A secondary set of Orders to enter after the above are finished. When they have 
 --Recurvirostridae  
 --Stercorariidae   
 
-### Procellariiformes
+### Procellariiformes (Colleen)  
 --Diomedeidae  
 --Procellariidae  
 --Hydrobatidae  
 
 ### Suliformes
---Anhingidae  
---Fregatidae (Jayne)   
+--Anhingidae (Indigo)   
+--Fregatidae (Indigo)   

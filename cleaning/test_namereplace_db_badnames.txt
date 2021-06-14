@@ -1,0 +1,8 @@
+"level"	"name"	"condition"
+"Order"	"Acarina"	"wrong rank; too high"
+"Class"	"Rodentia"	"wrong rank; too high"
+"Class"	"Reptilia/Amphibia"	"unmatched"
+"Phylum"	"Streptophyta"	"wrong rank; too low"
+"Phylum"	"Foraminifera"	"unmatched"
+"Phylum"	"Bacillariophyta"	"unmatched"
+"Kingdom"	NA	"unaccepted name"
