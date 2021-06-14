@@ -2088,9 +2088,9 @@ Wood Duck	Anatidae	1995	Diet	Major Food Items	"Landers, J. L., T. T. Fendley, an
 Wood Duck	Anatidae	1995	Diet	Major Food Items	"Delnicki, Jr., D. and K. J. Reinecke. 1986. Mid-winter food use and body weights of Mallards and Wood Ducks in Mississippi. J. Wildl. Manage. 50:43-51."											
 Wood Duck	Anatidae	1995	Diet	Quantitative Analysis	"Swanson, G. A., G. L. Krapu, J. C. Bartonek, J. R. Serie, and D. H. Johnson. 1974. Advantages in mathematically weighting waterfowl food habits data. J. Wildl. Manage. 38:302-307."											
 Wood Duck	Anatidae	1995	Nutrition And Energetics		"Drobney, R. D. 1977. The feeding ecology, nutrition, and reproductive bioenergetics of Wood Ducks. Phd Thesis. Univ. of Missouri, Columbia."											
-Anhinga	Anhingidae	2000	Diet	Quantitative Analysis	"Sprunt, Jr., A. 1954. Florida bird life. Coward-McCann, New York."											
-Anhinga	Anhingidae	2000	Diet	Major Food Items	"Palmer, R. S. 1962. Handbook of North American birds. Vol. I. Yale Univ. Press, New Haven, CT."											
-Anhinga	Anhingidae	2000	Feeding	Food Capture And Consumption	"Owre, O. T. 1967. Adaptations for locomotion and feeding in the Anhinga and the Double-crested Cormorant. Ornithol. Monogr. 6:1-138."											
+Anhinga	Anhingidae	2000	Diet	Quantitative Analysis	"Sprunt, Jr., A. 1954. Florida bird life. Coward-McCann, New York."	y	n	Requested via ILL								
+Anhinga	Anhingidae	2000	Diet	Major Food Items	"Palmer, R. S. 1962. Handbook of North American birds. Vol. I. Yale Univ. Press, New Haven, CT."	yes	no									
+Anhinga	Anhingidae	2000	Feeding	Food Capture And Consumption	"Owre, O. T. 1967. Adaptations for locomotion and feeding in the Anhinga and the Double-crested Cormorant. Ornithol. Monogr. 6:1-138."	yes	yes									
 Anhinga	Anhingidae	2000	Feeding	Food Capture And Consumption	"Lee, B. B. and D. S. Lee. 1977. Daily activity patterns of central Florida Anhingas. Assoc. Southeast. Biol. Bull. 24:65."											
 Anhinga	Anhingidae	2000	Diet	Major Food Items	"Imhof, T. A. 1962. Alabama birds. Univ. of Alabama Press, Montgomery."											
 Anhinga	Anhingidae	2000	Diet	Quantitative Analysis	"Hopkins, Jr., M. 1970. Identified food items in the diets of nestling Little Blue Heron, Cattle Egret and Anhinga. Oriole 35:30-32."											
