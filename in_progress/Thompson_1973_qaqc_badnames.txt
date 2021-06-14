@@ -1,4 +1,0 @@
-"level"	"name"	"condition"
-"Scientific_Name"	"Amnicola lacustris"	"unmatched"
-"Scientific_Name"	"Somatogyrus isogonus"	"unmatched"
-"Class"	"Arachnida"	"wrong rank; too high"
