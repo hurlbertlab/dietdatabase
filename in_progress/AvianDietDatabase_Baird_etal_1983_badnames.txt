@@ -1,3 +1,0 @@
-level	name	condition	replacewith	notes
-Scientific_Name	Neoclanaus cristatus	unmatched	Neocalanus cristatus	
-Family	Myctophinae	wrong rank; too high	Myctophidae	
