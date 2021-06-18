@@ -1,0 +1,2 @@
+"level"	"name"	"condition"
+"Genus"	"Anoyx"	"unmatched"
