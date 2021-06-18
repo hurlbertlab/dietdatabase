@@ -415,7 +415,7 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
                      'Lake Michigan', 'Great Plains', 'New South Wales', 'Queensland', 'Victoria',
                      'Northern Territory', 'Fennoscandia', 'Siberia', 'Svalbard', 
                      'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles', 'Washington D.C.',
-                     'England', 'Scotland', 'Northern Ireland', 'US Virgin Islands', 'French West Indies'))
+                     'England', 'Scotland', 'Northern Ireland', 'US Virgin Islands', 'French West Indies','Seychelles'))
     if (nrow(region) == 0) {
       region = "OK"
     } else {
