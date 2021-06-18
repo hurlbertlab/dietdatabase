@@ -308,7 +308,7 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
       # List of acceptable values here
       filter(!tolower(.) %in% c('agriculture', 'broadleaf evergreen forest', 'coniferous forest', 'deciduous forest', 'desert', 'estuary',
                                 'forest', 'grassland', 'lake', 'mangrove', 'marine', 'multiple', 'river', 'shrubland', 
-                                'urban', 'wetland', 'woodland', 'tundra', 'mudflat'))
+                                'urban', 'wetland', 'woodland', 'tundra', 'mudflat', 'rock'))
     if (nrow(habitat) == 0) {
       habitat = "OK"
     } else {
