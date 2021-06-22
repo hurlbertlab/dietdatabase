@@ -1,3 +1,0 @@
-"level"	"name"	"condition"
-"Scientific_Name"	"Crustaceans"	"wrong rank; too low"
-"Family"	"Sebastes"	"wrong rank; too high"
