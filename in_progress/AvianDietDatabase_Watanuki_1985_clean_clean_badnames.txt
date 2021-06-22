@@ -1,3 +1,0 @@
-"level"	"name"	"condition"
-"Family"	"Synoppidae"	"unmatched"
-"Kingdom"	""	"unaccepted name"
