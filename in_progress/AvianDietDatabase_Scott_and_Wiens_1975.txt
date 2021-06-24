@@ -36,3 +36,4 @@ Common Murre	Uria aalge		Alcidae	eBird Clements Checklist v2019									9		4				
 Common Murre	Uria aalge		Alcidae	eBird Clements Checklist v2019									9		4				Animalia	Chordata	Teleostei	Gadiformes		Gadidae			yes						0.2					stomach contents	Table 3	file:///C:/Users/cw17/Downloads/ScottJamesM1973.pdf	
 Common Murre	Uria aalge		Alcidae	eBird Clements Checklist v2019									9		4				Animalia	Chordata	Teleostei	Scorpaeniformes	Scorpaenoidei	Scorpaenidae			yes						0.12					stomach contents	Table 3	file:///C:/Users/cw17/Downloads/ScottJamesM1973.pdf	
 Common Murre	Uria aalge		Alcidae	eBird Clements Checklist v2019									9		4				Animalia	Chordata	Teleostei	Scorpaeniformes	Cottoidei	Cottidae			yes						0.03					stomach contents	Table 3	file:///C:/Users/cw17/Downloads/ScottJamesM1973.pdf	
+																																							Table 4		
