@@ -1,3 +1,0 @@
-"level"	"name"	"condition"
-"Scientific_Name"	"Icthyococcus ovatus"	"unmatched"
-"Family"	"Enopolteuthidae"	"unmatched"
