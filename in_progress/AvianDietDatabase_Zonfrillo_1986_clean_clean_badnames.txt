@@ -1,0 +1,2 @@
+"level"	"name"	"condition"
+"Family"	"Parathemisto"	"wrong rank; too high"
