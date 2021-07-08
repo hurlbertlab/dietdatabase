@@ -1,0 +1,4 @@
+"level"	"name"	"condition"
+"Family"	"Euphasiidae"	"unmatched"
+"Class"	"Arthropoda"	"wrong rank; too low"
+"Class"	"Decapoda"	"wrong rank; too high"
