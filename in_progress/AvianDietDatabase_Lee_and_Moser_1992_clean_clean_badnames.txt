@@ -1,2 +1,0 @@
-"level"	"name"	"condition"
-"Phylum"	"Athropoda"	"unmatched"
