@@ -1,0 +1,7 @@
+"level"	"name"	"condition"
+"Scientific_Name"	"Gonatus antarticus"	"unmatched"
+"Scientific_Name"	"Chrioteuthis veranyi"	"unmatched"
+"Scientific_Name"	"Chrioteuthis joubini"	"unmatched"
+"Scientific_Name"	"Oplophorus novaezeelandiae"	"unmatched"
+"Genus"	"Stellaspsi Debilis"	"unmatched"
+"Kingdom"	"Biological"	"unaccepted name"
