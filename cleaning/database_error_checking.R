@@ -32,7 +32,7 @@ outlier = function(field, min, max) {
 
 outlierCheck = function(diet) {
   out = list(
-    long = outlier(diet$Longitude_dd, -180, 0),
+    long = outlier(diet$Longitude_dd, -180, 180),
     
     lat = outlier(diet$Latitude_dd, -90, 90),
     
@@ -52,7 +52,7 @@ outlierCheck = function(diet) {
     
     frac_diet = outlier(diet$Fraction_Diet, 0, 1),
     
-    item_sampsize = outlier(diet$Item_Sample_Size, 0, 64000), # max recorded is 63767
+    item_sampsize = outlier(diet$Item_Sample_Size, 0, 68000), # max recorded is 67248
     
     bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 4900), # max recorded is 4848
     
