@@ -8885,7 +8885,7 @@ Dark-rumped Petrel	Procellariidae	1998	Diet		"Warham, J. 1977a. The incidence, f
 Dark-rumped Petrel	Procellariidae	1998	Feeding	Food Capture And Consumption	"Simons, T. R. 1985. Biology and behavior of the endangered Hawaiian Dark-rumped Petrel. Condor 87:229-245."	y	y									
 Dark-rumped Petrel	Procellariidae	1998	Diet		"Wheeler, A. 1975. Fishes of the world. Van Nostran Reinhold, New York."	n		unavailable								
 Dark-rumped Petrel	Procellariidae	1998	Diet		"Imber, M. J., J. B. Cruz, J. S. Grove, R. J. Lavenberg, C. C. Swift, and F. Cruz. 1992. Feeding ecology of the Dark-rumped Petrel in the Galapagos Islands. Condor 94:437-447."	y	y									
-Dark-rumped Petrel	Procellariidae	1998	Diet		"George, J. D. and J. J. George. 1979. Marine life: an illustrated encyclopedia of invertebrates in the sea. John Wiley and Sons, New York."			can request from UNC library								
+Dark-rumped Petrel	Procellariidae	1998	Diet		"George, J. D. and J. J. George. 1979. Marine life: an illustrated encyclopedia of invertebrates in the sea. John Wiley and Sons, New York."	y	n	can request from UNC library								
 Dark-rumped Petrel	Procellariidae	1998	Diet		"Nelson, J. S. 1976. Fishes of the world. Wiley, New York."			temporary access online through UNC library								
 Dark-rumped Petrel	Procellariidae	1998	Feeding	Microhabitat For Foraging	"Spear, L. B., D. G. Ainley, N. Nur, and S. N. G. Howell. 1995. Population size and factors affecting at-sea distributions of four endangered Procellariids in the tropical pacific. Condor 97:613-638."	y	n									
 Manx Shearwater	Procellariidae	1996	Diet		"Palmer, R. S. 1962. Handbook of North American birds. Vol. 1. Loons through flamingos. Yale Univ. Press, New Haven, CT."			library								
