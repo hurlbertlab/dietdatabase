@@ -418,7 +418,7 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
                      'England', 'Scotland', 'Northern Ireland', 'US Virgin Islands', 'French West Indies',
                      'Seychelles','Northern Pacific Ocean','South Atlantic Ocean', 'Galapagos Islands', 
                      'Antarctica', 'Northern Bering Sea', 'Indian Ocean', 'South Pacific Ocean',
-                     'Norwegian Sea'))
+                     'Norwegian Sea', 'Nunavut'))
     if (nrow(region) == 0) {
       region = "OK"
     } else {
