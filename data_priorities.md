@@ -101,6 +101,7 @@ Note that Families for which I know that data remain to be entered are highlight
 
 ### Suliformes
 --Sulidae  
+--Anhingidae  
 
 ----------
 
@@ -121,6 +122,5 @@ A secondary set of Orders to enter after the above are finished. When they have 
 --Procellariidae  
 --Hydrobatidae  
 
-### Suliformes
---Anhingidae (Indigo)   
+### Suliformes  
 --Fregatidae (Indigo)   
