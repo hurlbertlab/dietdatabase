@@ -52,7 +52,7 @@ outlierCheck = function(diet) {
     
     frac_diet = outlier(diet$Fraction_Diet, 0, 1),
     
-    item_sampsize = outlier(diet$Item_Sample_Size, 0, 64000), # max recorded is 63767
+    item_sampsize = outlier(diet$Item_Sample_Size, 0, 186000), # max recorded is 185780
     
     bird_sampsize = outlier(diet$Bird_Sample_Size, 0, 4900), # max recorded is 4848
     
@@ -416,7 +416,9 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
                      'Northern Territory', 'Fennoscandia', 'Siberia', 'Svalbard', 
                      'Sonora', 'Jalisco', 'Sinaloa', 'Lesser Antilles', 'Washington D.C.',
                      'England', 'Scotland', 'Northern Ireland', 'US Virgin Islands', 'French West Indies',
-                     'Seychelles','Northern Pacific Ocean','South Atlantic Ocean', 'Galapagos Islands', 'Antarctica', 'Northern Bering Sea'))
+                     'Seychelles','Northern Pacific Ocean','South Atlantic Ocean', 'Galapagos Islands', 
+                     'Antarctica', 'Northern Bering Sea', 'Indian Ocean', 'South Pacific Ocean',
+                     'Norwegian Sea', 'Nunavut'))
     if (nrow(region) == 0) {
       region = "OK"
     } else {

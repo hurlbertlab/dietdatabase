@@ -1,4 +1,4 @@
-ï»¿TAXON_ORDER,CATEGORY,SPECIES_CODE,PRIMARY_COM_NAME,SCI_NAME,ORDER1,FAMILY,SPECIES_GROUP,REPORT_AS
+TAXON_ORDER,CATEGORY,SPECIES_CODE,PRIMARY_COM_NAME,SCI_NAME,ORDER1,FAMILY,SPECIES_GROUP,REPORT_AS
 1,species,ostric2,Common Ostrich,Struthio camelus,Struthioniformes,Struthionidae (Ostriches),Ostriches,
 6,species,ostric3,Somali Ostrich,Struthio molybdophanes,Struthioniformes,Struthionidae (Ostriches),,
 7,slash,y00934,Common/Somali Ostrich,Struthio camelus/molybdophanes,Struthioniformes,Struthionidae (Ostriches),,
@@ -1444,7 +1444,7 @@
 2848,issf,whbbus3,White-bellied Bustard (Barrow's),Eupodotis senegalensis barrowii/mackenziei,Otidiformes,Otididae (Bustards),,whbbus2
 2851,species,blubus1,Blue Bustard,Eupodotis caerulescens,Otidiformes,Otididae (Bustards),,
 2852,species,karbus1,Karoo Bustard,Eupodotis vigorsii,Otidiformes,Otididae (Bustards),,
-2855,species,ruebus1,RÃ¼ppell's Bustard,Eupodotis rueppelii,Otidiformes,Otididae (Bustards),,
+2855,species,ruebus1,Rüppell's Bustard,Eupodotis rueppelii,Otidiformes,Otididae (Bustards),,
 2858,species,libbus1,Little Brown Bustard,Eupodotis humilis,Otidiformes,Otididae (Bustards),,
 2859,species,savbus1,Savile's Bustard,Eupodotis savilei,Otidiformes,Otididae (Bustards),,
 2860,species,bucbus1,Buff-crested Bustard,Eupodotis gindiana,Otidiformes,Otididae (Bustards),,
@@ -4160,11 +4160,11 @@
 7454,species,whrvul1,White-rumped Vulture,Gyps bengalensis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
 7455,species,indvul1,Indian Vulture,Gyps indicus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
 7456,species,slbvul1,Slender-billed Vulture,Gyps tenuirostris,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
-7457,species,ruegri1,RÃ¼ppell's Griffon,Gyps rueppelli,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
-7460,slash,y00634,White-backed Vulture/RÃ¼ppell's Griffon,Gyps africanus/rueppelli,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
+7457,species,ruegri1,Rüppell's Griffon,Gyps rueppelli,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
+7460,slash,y00634,White-backed Vulture/Rüppell's Griffon,Gyps africanus/rueppelli,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
 7461,species,himgri1,Himalayan Griffon,Gyps himalayensis,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
 7462,species,eurgri1,Eurasian Griffon,Gyps fulvus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
-7465,slash,y00837,RÃ¼ppell's/Eurasian Griffon,Gyps rueppelli/fulvus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
+7465,slash,y00837,Rüppell's/Eurasian Griffon,Gyps rueppelli/fulvus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
 7466,slash,y00838,Himalayan/Eurasian Griffon,Gyps himalayensis/fulvus,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
 7467,species,capgri1,Cape Griffon,Gyps coprotheres,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
 7468,slash,y00942,White-backed Vulture/Cape Griffon,Gyps africanus/coprotheres,Accipitriformes,"Accipitridae (Hawks, Eagles, and Kites)",,
@@ -4749,7 +4749,7 @@
 8549,issf,recowl2,Red-chested Owlet (Western),Glaucidium tephronotum tephronotum,Strigiformes,Strigidae (Owls),,recowl1
 8550,issf,recowl3,Red-chested Owlet (Pycraft's),Glaucidium tephronotum pycrafti,Strigiformes,Strigidae (Owls),,recowl1
 8551,issf,recowl4,Red-chested Owlet (Eastern),Glaucidium tephronotum medje,Strigiformes,Strigidae (Owls),,recowl1
-8552,species,sjoowl1,SjÃ¶stedt's Owlet,Glaucidium sjostedti,Strigiformes,Strigidae (Owls),,
+8552,species,sjoowl1,Sjöstedt's Owlet,Glaucidium sjostedti,Strigiformes,Strigidae (Owls),,
 8553,species,asbowl1,Asian Barred Owlet,Glaucidium cuculoides,Strigiformes,Strigidae (Owls),,
 8562,species,javowl1,Javan Owlet,Glaucidium castanopterum,Strigiformes,Strigidae (Owls),,
 8563,species,junowl1,Jungle Owlet,Glaucidium radiatum,Strigiformes,Strigidae (Owls),,
@@ -5302,7 +5302,7 @@
 9754,issf,grnbee1,Green Bee-eater (Yellow-throated),Merops orientalis [viridissimus Group],Coraciiformes,Meropidae (Bee-eaters),,grbeat1
 9758,issf,grnbee2,Green Bee-eater (Arabian),Merops orientalis cyanophrys/najdanus,Coraciiformes,Meropidae (Bee-eaters),,grbeat1
 9761,issf,grnbee3,Green Bee-eater (Russet-crowned),Merops orientalis [orientalis Group],Coraciiformes,Meropidae (Bee-eaters),,grbeat1
-9765,species,bobeat1,BÃ¶hm's Bee-eater,Merops boehmi,Coraciiformes,Meropidae (Bee-eaters),,
+9765,species,bobeat1,Böhm's Bee-eater,Merops boehmi,Coraciiformes,Meropidae (Bee-eaters),,
 9766,species,btbeat2,Blue-throated Bee-eater,Merops viridis,Coraciiformes,Meropidae (Bee-eaters),,
 9767,species,rucbee1,Rufous-crowned Bee-eater,Merops americanus,Coraciiformes,Meropidae (Bee-eaters),,
 9768,species,bcbeat1,Blue-cheeked Bee-eater,Merops persicus,Coraciiformes,Meropidae (Bee-eaters),,
@@ -6471,7 +6471,7 @@
 12117,issf,refpar6,Red-fronted Parrot (Guinean),Poicephalus gulielmi fantiensis,Psittaciformes,Psittacidae (New World and African Parrots),,refpar5
 12118,issf,refpar7,Red-fronted Parrot (Red-fronted),Poicephalus gulielmi gulielmi/massaicus,Psittaciformes,Psittacidae (New World and African Parrots),,refpar5
 12121,species,meypar1,Meyer's Parrot,Poicephalus meyeri,Psittaciformes,Psittacidae (New World and African Parrots),,
-12128,species,ruepar1,RÃ¼ppell's Parrot,Poicephalus rueppellii,Psittaciformes,Psittacidae (New World and African Parrots),,
+12128,species,ruepar1,Rüppell's Parrot,Poicephalus rueppellii,Psittaciformes,Psittacidae (New World and African Parrots),,
 12129,species,brhpar2,Brown-headed Parrot,Poicephalus cryptoxanthus,Psittaciformes,Psittacidae (New World and African Parrots),,
 12132,species,ninpar1,Niam-Niam Parrot,Poicephalus crassus,Psittaciformes,Psittacidae (New World and African Parrots),,
 12133,species,rebpar1,Red-bellied Parrot,Poicephalus rufiventris,Psittaciformes,Psittacidae (New World and African Parrots),,
@@ -7158,7 +7158,7 @@
 13436,issf,colcre2,Collared Crescentchest (Double-collared),Melanopareia torquata bitorquata,Passeriformes,Melanopareiidae (Crescentchests),,colcre1
 13437,issf,colcre3,Collared Crescentchest (Collared),Melanopareia torquata torquata/rufescens,Passeriformes,Melanopareiidae (Crescentchests),,colcre1
 13440,species,olccre1,Olive-crowned Crescentchest,Melanopareia maximiliani,Passeriformes,Melanopareiidae (Crescentchests),,
-13444,species,marcre1,MaraÃ±on Crescentchest,Melanopareia maranonica,Passeriformes,Melanopareiidae (Crescentchests),,
+13444,species,marcre1,Marañon Crescentchest,Melanopareia maranonica,Passeriformes,Melanopareiidae (Crescentchests),,
 13445,species,elecre1,Elegant Crescentchest,Melanopareia elegans,Passeriformes,Melanopareiidae (Crescentchests),,
 13448,species,blcant1,Black-crowned Antpitta,Pittasoma michleri,Passeriformes,Conopophagidae (Gnateaters),Gnateaters and Antpittas,
 13451,species,rucant3,Rufous-crowned Antpitta,Pittasoma rufopileatum,Passeriformes,Conopophagidae (Gnateaters),,
@@ -7300,7 +7300,7 @@
 13701,species,stitap1,Stiles's Tapaculo,Scytalopus stilesi,Passeriformes,Rhinocryptidae (Tapaculos),,
 13702,species,ecutap1,Ecuadorian Tapaculo,Scytalopus robbinsi,Passeriformes,Rhinocryptidae (Tapaculos),,
 13703,species,alptap1,Tatama Tapaculo,Scytalopus alvarezlopezi,Passeriformes,Rhinocryptidae (Tapaculos),,
-13704,species,nartap2,NariÃ±o Tapaculo,Scytalopus vicinior,Passeriformes,Rhinocryptidae (Tapaculos),,
+13704,species,nartap2,Nariño Tapaculo,Scytalopus vicinior,Passeriformes,Rhinocryptidae (Tapaculos),,
 13705,species,brrtap1,Brown-rumped Tapaculo,Scytalopus latebricola,Passeriformes,Rhinocryptidae (Tapaculos),,
 13706,species,pertap1,Perija Tapaculo,Scytalopus perijanus,Passeriformes,Rhinocryptidae (Tapaculos),,
 13707,species,mertap1,Merida Tapaculo,Scytalopus meridanus,Passeriformes,Rhinocryptidae (Tapaculos),,
@@ -7793,7 +7793,7 @@
 14826,species,whlspi1,White-lored Spinetail,Synallaxis albilora,Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),,
 14827,issf,whlspi2,White-lored Spinetail (White-lored),Synallaxis albilora albilora,Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),,whlspi1
 14828,issf,whlspi3,White-lored Spinetail (Araguaia),Synallaxis albilora simoni,Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),,whlspi1
-14829,species,marspi3,MaraÃ±on Spinetail,Synallaxis maranonica,Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),,
+14829,species,marspi3,Marañon Spinetail,Synallaxis maranonica,Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),,
 14830,species,grespi2,Great Spinetail,Synallaxis hypochondriaca,Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),,
 14831,species,necspi1,Necklaced Spinetail,Synallaxis stictothorax,Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),,
 14832,issf,necspi2,Necklaced Spinetail (Necklaced),Synallaxis stictothorax stictothorax/maculata,Passeriformes,Furnariidae (Ovenbirds and Woodcreepers),,necspi1
@@ -8264,7 +8264,7 @@
 15847,issf,moctyr7,Mouse-colored Tyrannulet (Northern),Phaeomyias murina incomta/eremonoma,Passeriformes,Tyrannidae (Tyrant Flycatchers),,moctyr1
 15850,issf,moctyr3,Mouse-colored Tyrannulet (Amazonian),Phaeomyias murina murina/wagae,Passeriformes,Tyrannidae (Tyrant Flycatchers),,moctyr1
 15853,issf,moctyr6,Mouse-colored Tyrannulet (Tumbes),Phaeomyias murina tumbezana/inflava,Passeriformes,Tyrannidae (Tyrant Flycatchers),,moctyr1
-15856,issf,moctyr4,Mouse-colored Tyrannulet (MaraÃ±on),Phaeomyias murina maranonica,Passeriformes,Tyrannidae (Tyrant Flycatchers),,moctyr1
+15856,issf,moctyr4,Mouse-colored Tyrannulet (Marañon),Phaeomyias murina maranonica,Passeriformes,Tyrannidae (Tyrant Flycatchers),,moctyr1
 15857,species,cocfly1,Cocos Flycatcher,Nesotriccus ridgwayi,Passeriformes,Tyrannidae (Tyrant Flycatchers),,
 15858,species,yeltyr1,Yellow Tyrannulet,Capsiempis flaveola,Passeriformes,Tyrannidae (Tyrant Flycatchers),,
 15864,species,beatac1,Bearded Tachuri,Polystictus pectoralis,Passeriformes,Tyrannidae (Tyrant Flycatchers),,
@@ -9734,7 +9734,7 @@
 19209,spuh,tchagr1,Tchagra sp.,Tchagra sp.,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
 19210,species,renbus1,Red-naped Bushshrike,Laniarius ruficeps,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
 19214,species,sombou1,Coastal Boubou,Laniarius nigerrimus,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
-19215,species,luebus1,LÃ¼hder's Bushshrike,Laniarius luehderi,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
+19215,species,luebus1,Lühder's Bushshrike,Laniarius luehderi,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
 19216,species,brabus1,Braun's Bushshrike,Laniarius brauni,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
 19217,species,gabbus1,Gabela Bushshrike,Laniarius amboimensis,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
 19218,species,turbou1,Turati's Boubou,Laniarius turatii,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
@@ -9757,9 +9757,9 @@
 19251,issf,mosbou2,Western Boubou (Cameroon),Laniarius poensis camerunensis,Passeriformes,Malaconotidae (Bushshrikes and Allies),,mosbou1
 19252,issf,mosbou3,Western Boubou (Bioko),Laniarius poensis poensis,Passeriformes,Malaconotidae (Bushshrikes and Allies),,mosbou1
 19253,species,mosbou4,Albertine Boubou,Laniarius holomelas,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
-19254,species,fuebou1,FÃ¼lleborn's Boubou,Laniarius fuelleborni,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
-19255,issf,fuebou2,FÃ¼lleborn's Boubou (Usambara),Laniarius fuelleborni usambaricus,Passeriformes,Malaconotidae (Bushshrikes and Allies),,fuebou1
-19256,issf,fuebou3,FÃ¼lleborn's Boubou (FÃ¼lleborn's),Laniarius fuelleborni fuelleborni,Passeriformes,Malaconotidae (Bushshrikes and Allies),,fuebou1
+19254,species,fuebou1,Fülleborn's Boubou,Laniarius fuelleborni,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
+19255,issf,fuebou2,Fülleborn's Boubou (Usambara),Laniarius fuelleborni usambaricus,Passeriformes,Malaconotidae (Bushshrikes and Allies),,fuebou1
+19256,issf,fuebou3,Fülleborn's Boubou (Fülleborn's),Laniarius fuelleborni fuelleborni,Passeriformes,Malaconotidae (Bushshrikes and Allies),,fuebou1
 19257,spuh,boubou1,boubou sp.,Laniarius sp.,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
 19258,species,ropbus1,Rosy-patched Bushshrike,Rhodophoneus cruentus,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
 19263,species,bokmak1,Bokmakierie,Telophorus zeylonus,Passeriformes,Malaconotidae (Bushshrikes and Allies),,
@@ -11463,7 +11463,7 @@
 23364,species,joygre1,Joyful Greenbul,Chlorocichla laetissima,Passeriformes,Pycnonotidae (Bulbuls),,
 23367,species,prigre1,Prigogine's Greenbul,Chlorocichla prigoginei,Passeriformes,Pycnonotidae (Bulbuls),,
 23368,species,hongre1,Honeyguide Greenbul,Baeopogon indicator,Passeriformes,Pycnonotidae (Bulbuls),,
-23371,species,sjogre1,SjÃ¶stedt's Greenbul,Baeopogon clamans,Passeriformes,Pycnonotidae (Bulbuls),,
+23371,species,sjogre1,Sjöstedt's Greenbul,Baeopogon clamans,Passeriformes,Pycnonotidae (Bulbuls),,
 23372,species,yetgre1,Yellow-throated Greenbul,Atimastillas flavicollis,Passeriformes,Pycnonotidae (Bulbuls),,
 23373,issf,yetgre2,Yellow-throated Greenbul (flavicollis),Atimastillas flavicollis flavicollis,Passeriformes,Pycnonotidae (Bulbuls),,yetgre1
 23374,issf,yetgre3,Yellow-throated Greenbul (soror),Atimastillas flavicollis soror,Passeriformes,Pycnonotidae (Bulbuls),,yetgre1
@@ -11725,8 +11725,8 @@
 23913,species,biawar1,Bianchi's Warbler,Phylloscopus valentini,Passeriformes,Phylloscopidae (Leaf Warblers),,
 23916,slash,y00650,Gray-crowned/Bianchi's Warbler,Phylloscopus tephrocephalus/valentini,Passeriformes,Phylloscopidae (Leaf Warblers),,
 23917,species,marwar4,Martens's Warbler,Phylloscopus omeiensis,Passeriformes,Phylloscopidae (Leaf Warblers),,
-23918,species,pltwar1,AlstrÃ¶m's Warbler,Phylloscopus soror,Passeriformes,Phylloscopidae (Leaf Warblers),,
-23919,slash,y00995,Bianchi's/Martens's/AlstrÃ¶m's Warbler,Phylloscopus valentini/omeiensis/soror,Passeriformes,Phylloscopidae (Leaf Warblers),,
+23918,species,pltwar1,Alström's Warbler,Phylloscopus soror,Passeriformes,Phylloscopidae (Leaf Warblers),,
+23919,slash,y00995,Bianchi's/Martens's/Alström's Warbler,Phylloscopus valentini/omeiensis/soror,Passeriformes,Phylloscopidae (Leaf Warblers),,
 23920,spuh,seicer2,Phylloscopus sp. (Golden-spectacled Warbler complex),Phylloscopus sp. (burkii complex),Passeriformes,Phylloscopidae (Leaf Warblers),,
 23921,species,grnwar1,Green Warbler,Phylloscopus nitidus,Passeriformes,Phylloscopidae (Leaf Warblers),,
 23922,species,grewar3,Greenish Warbler,Phylloscopus trochiloides,Passeriformes,Phylloscopidae (Leaf Warblers),,
@@ -11905,7 +11905,7 @@
 24325,species,menwar1,Menetries's Warbler,Sylvia mystacea,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",,
 24326,issf,menwar2,Menetries's Warbler (mystacea),Sylvia mystacea mystacea,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",,menwar1
 24327,issf,menwar3,Menetries's Warbler (rubescens/turcmenica),Sylvia mystacea rubescens/turcmenica,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",,menwar1
-24330,species,ruewar1,RÃ¼ppell's Warbler,Sylvia ruppeli,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",,
+24330,species,ruewar1,Rüppell's Warbler,Sylvia ruppeli,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",,
 24331,species,subwar1,Subalpine Warbler,Sylvia cantillans,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",,
 24332,issf,subwar5,Subalpine Warbler (cantillans),Sylvia cantillans cantillans,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",,subwar1
 24333,issf,subwar6,Subalpine Warbler (inornata),Sylvia cantillans inornata,Passeriformes,"Sylviidae (Sylviid Warblers, Parrotbills, and Allies)",,subwar1
@@ -12522,7 +12522,7 @@
 25895,issf,bnhnut2,Brown-headed Nuthatch (Grand Bahama),Sitta pusilla insularis,Passeriformes,Sittidae (Nuthatches),,bnhnut
 25896,species,cornut1,Corsican Nuthatch,Sitta whiteheadi,Passeriformes,Sittidae (Nuthatches),,
 25897,species,algnut1,Algerian Nuthatch,Sitta ledanti,Passeriformes,Sittidae (Nuthatches),,
-25898,species,krunut1,KrÃ¼per's Nuthatch,Sitta krueperi,Passeriformes,Sittidae (Nuthatches),,
+25898,species,krunut1,Krüper's Nuthatch,Sitta krueperi,Passeriformes,Sittidae (Nuthatches),,
 25899,species,snbnut1,Snowy-browed Nuthatch,Sitta villosa,Passeriformes,Sittidae (Nuthatches),,
 25902,species,yunnut1,Yunnan Nuthatch,Sitta yunnanensis,Passeriformes,Sittidae (Nuthatches),,
 25903,species,rocnut1,Western Rock Nuthatch,Sitta neumayer,Passeriformes,Sittidae (Nuthatches),,
@@ -12575,7 +12575,7 @@
 26056,species,whlgna3,Yucatan Gnatcatcher,Polioptila albiventris,Passeriformes,Polioptilidae (Gnatcatchers),,
 26057,species,trogna1,Tropical Gnatcatcher,Polioptila plumbea,Passeriformes,Polioptilidae (Gnatcatchers),,
 26058,issf,trogna2,Tropical Gnatcatcher (White-browed),Polioptila plumbea [bilineata Group],Passeriformes,Polioptilidae (Gnatcatchers),,trogna1
-26064,issf,trogna3,Tropical Gnatcatcher (MaraÃ±on),Polioptila plumbea maior,Passeriformes,Polioptilidae (Gnatcatchers),,trogna1
+26064,issf,trogna3,Tropical Gnatcatcher (Marañon),Polioptila plumbea maior,Passeriformes,Polioptilidae (Gnatcatchers),,trogna1
 26065,issf,trogna9,Tropical Gnatcatcher (plumbiceps/anteocularis),Polioptila plumbea plumbiceps/anteocularis,Passeriformes,Polioptilidae (Gnatcatchers),,trogna1
 26068,issf,trogna6,Tropical Gnatcatcher (innotata),Polioptila plumbea innotata,Passeriformes,Polioptilidae (Gnatcatchers),,trogna1
 26069,issf,trogna8,Tropical Gnatcatcher (plumbea),Polioptila plumbea plumbea,Passeriformes,Polioptilidae (Gnatcatchers),,trogna1
@@ -12705,7 +12705,7 @@
 26431,species,spbwre2,Speckle-breasted Wren,Pheugopedius sclateri,Passeriformes,Troglodytidae (Wrens),,
 26432,issf,spbwre5,Speckle-breasted Wren (Colombian),Pheugopedius sclateri columbianus,Passeriformes,Troglodytidae (Wrens),,spbwre2
 26433,issf,spbwre3,Speckle-breasted Wren (Speckle-breasted),Pheugopedius sclateri paucimaculatus,Passeriformes,Troglodytidae (Wrens),,spbwre2
-26434,issf,spbwre4,Speckle-breasted Wren (MaraÃ±on),Pheugopedius sclateri sclateri,Passeriformes,Troglodytidae (Wrens),,spbwre2
+26434,issf,spbwre4,Speckle-breasted Wren (Marañon),Pheugopedius sclateri sclateri,Passeriformes,Troglodytidae (Wrens),,spbwre2
 26435,species,hapwre1,Happy Wren,Pheugopedius felix,Passeriformes,Troglodytidae (Wrens),,
 26442,species,bltwre1,Black-throated Wren,Pheugopedius atrogularis,Passeriformes,Troglodytidae (Wrens),,
 26443,spuh,pheugo1,Pheugopedius sp.,Pheugopedius sp.,Passeriformes,Troglodytidae (Wrens),,
@@ -12918,7 +12918,7 @@
 26860,species,hilsta1,Hildebrandt's Starling,Lamprotornis hildebrandti,Passeriformes,Sturnidae (Starlings),,
 26861,species,shesta1,Shelley's Starling,Lamprotornis shelleyi,Passeriformes,Sturnidae (Starlings),,
 26862,species,bugsta1,Burchell's Starling,Lamprotornis australis,Passeriformes,Sturnidae (Starlings),,
-26863,species,ruegls1,RÃ¼ppell's Starling,Lamprotornis purpuroptera,Passeriformes,Sturnidae (Starlings),,
+26863,species,ruegls1,Rüppell's Starling,Lamprotornis purpuroptera,Passeriformes,Sturnidae (Starlings),,
 26866,species,ltgsta1,Long-tailed Glossy Starling,Lamprotornis caudatus,Passeriformes,Sturnidae (Starlings),,
 26867,species,megsta1,Meves's Starling,Lamprotornis mevesii,Passeriformes,Sturnidae (Starlings),,
 26868,issf,mevgls1,Meves's Starling (Meves's),Lamprotornis mevesii mevesii,Passeriformes,Sturnidae (Starlings),,megsta1
@@ -12984,7 +12984,7 @@
 26991,species,bahmoc,Bahama Mockingbird,Mimus gundlachii,Passeriformes,Mimidae (Mockingbirds and Thrashers),,
 26994,species,galmoc1,Galapagos Mockingbird,Mimus parvulus,Passeriformes,Mimidae (Mockingbirds and Thrashers),,
 27001,species,chamoc1,Floreana Mockingbird,Mimus trifasciatus,Passeriformes,Mimidae (Mockingbirds and Thrashers),,
-27002,species,hoomoc1,EspaÃ±ola Mockingbird,Mimus macdonaldi,Passeriformes,Mimidae (Mockingbirds and Thrashers),,
+27002,species,hoomoc1,Española Mockingbird,Mimus macdonaldi,Passeriformes,Mimidae (Mockingbirds and Thrashers),,
 27003,species,chamoc2,San Cristobal Mockingbird,Mimus melanotis,Passeriformes,Mimidae (Mockingbirds and Thrashers),,
 27004,species,lotmoc1,Long-tailed Mockingbird,Mimus longicaudatus,Passeriformes,Mimidae (Mockingbirds and Thrashers),,
 27009,species,socmoc1,Socorro Mockingbird,Mimus graysoni,Passeriformes,Mimidae (Mockingbirds and Thrashers),,
@@ -13122,7 +13122,7 @@
 27275,species,crgthr1,Crossley's Ground-Thrush,Geokichla crossleyi,Passeriformes,Turdidae (Thrushes and Allies),,
 27276,issf,crogrt1,Crossley's Ground-Thrush (Crossley's),Geokichla crossleyi crossleyi,Passeriformes,Turdidae (Thrushes and Allies),,crgthr1
 27277,issf,crogrt2,Crossley's Ground-Thrush (Itombwe),Geokichla crossleyi pilettei,Passeriformes,Turdidae (Thrushes and Allies),,crgthr1
-27278,species,obgthr1,OberlÃ¤nder's Ground-Thrush,Geokichla oberlaenderi,Passeriformes,Turdidae (Thrushes and Allies),,
+27278,species,obgthr1,Oberländer's Ground-Thrush,Geokichla oberlaenderi,Passeriformes,Turdidae (Thrushes and Allies),,
 27279,species,abgthr1,Abyssinian Ground-Thrush,Geokichla piaggiae,Passeriformes,Turdidae (Thrushes and Allies),,
 27280,issf,abygrt1,Abyssinian Ground-Thrush (Abyssinian),Geokichla piaggiae [piaggiae Group],Passeriformes,Turdidae (Thrushes and Allies),,abgthr1
 27286,issf,kigthr1,Abyssinian Ground-Thrush (Kivu),Geokichla piaggiae tanganjicae,Passeriformes,Turdidae (Thrushes and Allies),,abgthr1
@@ -13219,7 +13219,7 @@
 27495,species,bkbthr3,Campina Thrush,Turdus arthuri,Passeriformes,Turdidae (Thrushes and Allies),,
 27496,slash,y01159,Pantepui/Campina Thrush,Turdus murinus/arthuri,Passeriformes,Turdidae (Thrushes and Allies),,
 27497,slash,y01160,Black-billed/Campina Thrush,Turdus ignobilis/arthuri,Passeriformes,Turdidae (Thrushes and Allies),,
-27498,species,marthr2,MaraÃ±on Thrush,Turdus maranonicus,Passeriformes,Turdidae (Thrushes and Allies),,
+27498,species,marthr2,Marañon Thrush,Turdus maranonicus,Passeriformes,Turdidae (Thrushes and Allies),,
 27499,species,chbthr2,Chestnut-bellied Thrush,Turdus fulviventris,Passeriformes,Turdidae (Thrushes and Allies),,
 27500,species,blhthr1,Black-hooded Thrush,Turdus olivater,Passeriformes,Turdidae (Thrushes and Allies),,
 27509,species,grethr1,Great Thrush,Turdus fuscater,Passeriformes,Turdidae (Thrushes and Allies),,
@@ -13336,7 +13336,7 @@
 27699,species,swafly3,Swamp Flycatcher,Muscicapa aquatica,Passeriformes,Muscicapidae (Old World Flycatchers),,
 27704,species,casfly1,Cassin's Flycatcher,Muscicapa cassini,Passeriformes,Muscicapidae (Old World Flycatchers),,
 27705,spuh,muscic1,Muscicapa sp.,Muscicapa sp.,Passeriformes,Muscicapidae (Old World Flycatchers),,
-27706,species,boefly1,BÃ¶hm's Flycatcher,Bradornis boehmi,Passeriformes,Muscicapidae (Old World Flycatchers),,
+27706,species,boefly1,Böhm's Flycatcher,Bradornis boehmi,Passeriformes,Muscicapidae (Old World Flycatchers),,
 27707,species,ussfly1,Ussher's Flycatcher,Bradornis ussheri,Passeriformes,Muscicapidae (Old World Flycatchers),,
 27708,species,soofly1,Sooty Flycatcher,Bradornis fuliginosus,Passeriformes,Muscicapidae (Old World Flycatchers),,
 27711,species,dubfly2,Dusky-blue Flycatcher,Bradornis comitatus,Passeriformes,Muscicapidae (Old World Flycatchers),,
@@ -13425,7 +13425,7 @@
 27918,species,blffly1,Blue-fronted Flycatcher,Cyornis hoevelli,Passeriformes,Muscicapidae (Old World Flycatchers),,
 27919,species,tibfly2,Timor Blue Flycatcher,Cyornis hyacinthinus,Passeriformes,Muscicapidae (Old World Flycatchers),,
 27922,species,whtfly2,White-tailed Flycatcher,Cyornis concretus,Passeriformes,Muscicapidae (Old World Flycatchers),,
-27926,species,rubfly1,RÃ¼ck's Blue Flycatcher,Cyornis ruckii,Passeriformes,Muscicapidae (Old World Flycatchers),,
+27926,species,rubfly1,Rück's Blue Flycatcher,Cyornis ruckii,Passeriformes,Muscicapidae (Old World Flycatchers),,
 27927,species,blbfly3,Blue-breasted Flycatcher,Cyornis herioti,Passeriformes,Muscicapidae (Old World Flycatchers),,
 27928,issf,bubfly1,Blue-breasted Flycatcher (Blue-breasted),Cyornis herioti herioti,Passeriformes,Muscicapidae (Old World Flycatchers),,blbfly3
 27929,issf,bubfly2,Blue-breasted Flycatcher (Rufous-breasted),Cyornis herioti camarinensis,Passeriformes,Muscicapidae (Old World Flycatchers),,blbfly3
@@ -13516,7 +13516,7 @@
 28086,species,gywroc1,Gray-winged Robin-Chat,Cossypha polioptera,Passeriformes,Muscicapidae (Old World Flycatchers),,
 28087,issf,gywroc2,Gray-winged Robin-Chat (Black-capped),Cossypha polioptera nigriceps/tessmanni,Passeriformes,Muscicapidae (Old World Flycatchers),,gywroc1
 28090,issf,gywroc3,Gray-winged Robin-Chat (Gray-winged),Cossypha polioptera polioptera,Passeriformes,Muscicapidae (Old World Flycatchers),,gywroc1
-28091,species,rurcha1,RÃ¼ppell's Robin-Chat,Cossypha semirufa,Passeriformes,Muscicapidae (Old World Flycatchers),,
+28091,species,rurcha1,Rüppell's Robin-Chat,Cossypha semirufa,Passeriformes,Muscicapidae (Old World Flycatchers),,
 28095,species,wbrcha2,White-browed Robin-Chat,Cossypha heuglini,Passeriformes,Muscicapidae (Old World Flycatchers),,
 28099,species,rcrcha1,Red-capped Robin-Chat,Cossypha natalensis,Passeriformes,Muscicapidae (Old World Flycatchers),,
 28103,species,chrcha1,Chorister Robin-Chat,Cossypha dichroa,Passeriformes,Muscicapidae (Old World Flycatchers),,
@@ -13779,7 +13779,7 @@
 28617,species,soacha1,Southern Anteater-Chat,Myrmecocichla formicivora,Passeriformes,Muscicapidae (Old World Flycatchers),,
 28618,species,conmoo1,Congo Moor Chat,Myrmecocichla tholloni,Passeriformes,Muscicapidae (Old World Flycatchers),,
 28619,species,mouwhe1,Mountain Wheatear,Myrmecocichla monticola,Passeriformes,Muscicapidae (Old World Flycatchers),,
-28624,species,ruecha1,RÃ¼ppell's Chat,Myrmecocichla melaena,Passeriformes,Muscicapidae (Old World Flycatchers),,
+28624,species,ruecha1,Rüppell's Chat,Myrmecocichla melaena,Passeriformes,Muscicapidae (Old World Flycatchers),,
 28625,species,whbcha2,Arnot's Chat,Myrmecocichla arnotti,Passeriformes,Muscicapidae (Old World Flycatchers),,
 28626,issf,arncha1,Arnot's Chat (Angola),Myrmecocichla arnotti harterti,Passeriformes,Muscicapidae (Old World Flycatchers),,whbcha2
 28627,issf,arncha2,Arnot's Chat (Arnot's),Myrmecocichla arnotti arnotti,Passeriformes,Muscicapidae (Old World Flycatchers),,whbcha2
@@ -14230,7 +14230,7 @@
 29642,issf,katmaw2,Katanga Masked-Weaver (Katanga),Ploceus katangae katangae,Passeriformes,Ploceidae (Weavers and Allies),,kamwea1
 29643,species,lalmaw1,Lake Lufira Masked-Weaver,Ploceus ruweti,Passeriformes,Ploceidae (Weavers and Allies),,
 29644,species,hemwea1,Heuglin's Masked-Weaver,Ploceus heuglini,Passeriformes,Ploceidae (Weavers and Allies),,
-29645,species,ruewea1,RÃ¼ppell's Weaver,Ploceus galbula,Passeriformes,Ploceidae (Weavers and Allies),,
+29645,species,ruewea1,Rüppell's Weaver,Ploceus galbula,Passeriformes,Ploceidae (Weavers and Allies),,
 29646,species,spewea2,Speke's Weaver,Ploceus spekei,Passeriformes,Ploceidae (Weavers and Allies),,
 29647,species,foxwea1,Fox's Weaver,Ploceus spekeoides,Passeriformes,Ploceidae (Weavers and Allies),,
 29648,species,viewea1,Vieillot's Weaver,Ploceus nigerrimus,Passeriformes,Ploceidae (Weavers and Allies),,
@@ -14733,7 +14733,7 @@
 30715,species,shalon1,Sharpe's Longclaw,Hemimacronyx sharpei,Passeriformes,Motacillidae (Wagtails and Pipits),,
 30716,species,ortlon1,Orange-throated Longclaw,Macronyx capensis,Passeriformes,Motacillidae (Wagtails and Pipits),,
 30720,species,yetlon1,Yellow-throated Longclaw,Macronyx croceus,Passeriformes,Motacillidae (Wagtails and Pipits),,
-30721,species,fuelon2,FÃ¼lleborn's Longclaw,Macronyx fuelleborni,Passeriformes,Motacillidae (Wagtails and Pipits),,
+30721,species,fuelon2,Fülleborn's Longclaw,Macronyx fuelleborni,Passeriformes,Motacillidae (Wagtails and Pipits),,
 30724,species,abylon1,Abyssinian Longclaw,Macronyx flavicollis,Passeriformes,Motacillidae (Wagtails and Pipits),,
 30725,species,panlon1,Pangani Longclaw,Macronyx aurantiigula,Passeriformes,Motacillidae (Wagtails and Pipits),,
 30726,species,rotlon1,Rosy-throated Longclaw,Macronyx ameliae,Passeriformes,Motacillidae (Wagtails and Pipits),,
@@ -15247,7 +15247,7 @@
 31803,issf,orbspa4,Orange-billed Sparrow (spectabilis),Arremon aurantiirostris spectabilis,Passeriformes,Passerellidae (New World Sparrows),,orbspa1
 31804,species,blcspa2,Black-capped Sparrow,Arremon abeillei,Passeriformes,Passerellidae (New World Sparrows),,
 31805,issf,bkcspa1,Black-capped Sparrow (Black-capped),Arremon abeillei abeillei,Passeriformes,Passerellidae (New World Sparrows),,blcspa2
-31806,issf,bkcspa2,Black-capped Sparrow (MaraÃ±on),Arremon abeillei nigriceps,Passeriformes,Passerellidae (New World Sparrows),,blcspa2
+31806,issf,bkcspa2,Black-capped Sparrow (Marañon),Arremon abeillei nigriceps,Passeriformes,Passerellidae (New World Sparrows),,blcspa2
 31807,species,gowspa1,Golden-winged Sparrow,Arremon schlegeli,Passeriformes,Passerellidae (New World Sparrows),,
 31811,species,pecspa1,Pectoral Sparrow,Arremon taciturnus,Passeriformes,Passerellidae (New World Sparrows),,
 31812,issf,pecspa2,Pectoral Sparrow (Yellow-mandibled),Arremon taciturnus axillaris,Passeriformes,Passerellidae (New World Sparrows),,pecspa1
@@ -16485,7 +16485,7 @@
 34416,species,shbgrf3,Sharp-beaked Ground-Finch,Geospiza difficilis,Passeriformes,Thraupidae (Tanagers and Allies),,
 34417,species,cocfin3,Common Cactus-Finch,Geospiza scandens,Passeriformes,Thraupidae (Tanagers and Allies),,
 34422,species,megfin1,Medium Ground-Finch,Geospiza fortis,Passeriformes,Thraupidae (Tanagers and Allies),,
-34423,species,larcaf2,EspaÃ±ola Ground-Finch,Geospiza conirostris,Passeriformes,Thraupidae (Tanagers and Allies),,
+34423,species,larcaf2,Española Ground-Finch,Geospiza conirostris,Passeriformes,Thraupidae (Tanagers and Allies),,
 34424,species,gencaf1,Genovesa Cactus-Finch,Geospiza propinqua,Passeriformes,Thraupidae (Tanagers and Allies),,
 34427,spuh,geospi1,Geospiza sp.,Geospiza sp.,Passeriformes,Thraupidae (Tanagers and Allies),,
 34428,spuh,galfin1,galapagos finch sp.,Geospiza/Camarhynchus/Platyspiza/Certhidea sp.,Passeriformes,Thraupidae (Tanagers and Allies),,
