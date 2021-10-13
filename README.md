@@ -34,3 +34,9 @@ Hurlbert, A. H., Olsen, A. M., Sawyer, M. M., and Winner, P. M. 2021. Avian Diet
 ## Acknowledgments
 
 Many individuals contributed to this compilation of diet records. Specifically we would like to thank M. Auriemma, J. Barnes, M. Blawas, C. Bridges, J. Cook, R. Cooper, A. Duprey, J. Fox, G. Glass, T. Hennessey, J. Knowlton, E. Kremer, W. Larsen, E. McGeady, T. McKinnon, G. Ni, L. Peeler, R. Quindlen, A. Richards, D. Ryu, M. Sandoval, C. Seyfried, S. Swinea, and J. Willard, A. Zachman. M. Pan, T. Randby, and T. Le developed the web interface for exploring the database. AHH also acknowledges support from NSF DEB-1354563 and NSF EF-1702708.
+
+## Indexing
+[![GloBI Index Status](https://api.globalbioticinteractions.org/interaction.svg?interactionType=ecologicallyRelatedTo&accordingTo=globi:hurlbertlab/dietdatabase&refutes=true&refutes=false)](https://www.globalbioticinteractions.org/?interactionType=ecologicallyRelatedTo&accordingTo=globi:hurlbertlab/dietdatabase&refutes=true&refutes=false)
+[![GloBI Review](https://depot.globalbioticinteractions.org/reviews/hurlbertlab/dietdatabase/review.svg)](https://depot.globalbioticinteractions.org/reviews/hurlbertlab/dietdatabase/README.txt)
+
+The Avian Diet Database is configured to be indexed by https://globalbioticinteractions.org .
