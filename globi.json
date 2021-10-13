@@ -1,7 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "format": "hurlbert",
-  "citation": "Allen Hurlbert. 2017. Avian Diet Database.",
+  "citation": "Hurlbert, A. H., Olsen, A. M., Sawyer, M. M., and Winner, P. M. 2021. Avian Diet Database. https://doi.org/10.5281/zenodo.5151056",
   "resources": {
     "AvianDietDatabase.txt": "AvianDietDatabase.txt"
   }
