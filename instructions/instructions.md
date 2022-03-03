@@ -117,23 +117,25 @@ of these fields, and how data should be entered. Further instructions about how 
   <tr>
     <td>Habitat_type</td>
     <td>List one or more of the following habitat designations describing the habitat in which the study was conducted. 
-        * forest  
-	* broadleaf evergreen forest  
-        * deciduous forest  
-        * coniferous forest  
-        * woodland  
-        * scrubland  
-        + grassland  
-        + desert  
-        +wetland  
-        +agriculture  
-        +urban
-	+tundra  
-	+mudflats  
-	+marine  
-	+lake  
-	+mangrove  
-        If listing multiple habitat types, use a ";" to separate them.E.g. "deciduous forest; woodland"
+        <ul>
+	<li>forest</li>
+	<li>broadleaf evergreen forest</li>  
+        <li>deciduous forest</li>  
+        <li>coniferous forest</li>  
+        <li>woodland</li>  
+        <li>mangrove</li>  
+        <li>scrubland</li>  
+        <li>grassland</li>  
+        <li>desert</li>  
+        <li>wetland</li>  
+        <li>agriculture</li>  
+        <li>urban</li>
+	<li>tundra</li>  
+	<li>mudflats</li>  
+	<li>marine</li>  
+	<li>lake</li>
+	</ul>
+	If listing multiple habitat types, use a ";" to separate them.E.g. "deciduous forest; woodland"
         </td>
   </tr>
   <tr>
@@ -271,7 +273,15 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>age_class</td>
-    <td>If the diet data refer to a particular age class, enter 'adult', 'juvenile/immature' (young birds that have fledged and are no longer in the nest), or 'chick/nestling' (birds still in the nest).</td>
+    <td>If the diet data refer to a particular age class, specify it here. Possibilities include:
+	    <ul>
+		    <li>"chick", any young bird still in the nest, or that has not yet acquired its juvenal plumage</li>
+		    <li>"HY", a hatch year bird post-fledging</li>
+		    <li>"AHY", after hatch year, the most common classification to designate an adult</li>
+		    <li>"SY", a bird in its second year of life, i.e. it hatched the year before</li>
+		    <li>"ASY", after second year, a bird that is known to have been born two or more years ago</li>
+	    </ul>
+    </td>
   </tr>
   <tr>
     <td>within_study_data_source</td>
