@@ -274,11 +274,11 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>within_study_data_source</td>
-    <td></td>
+    <td>Describe whether the diet data in the source came from a 'Table', 'Figure', or 'in the text' (if numeric values were summarized within paragraphs).</td>
   </tr>
   <tr>
     <td>table_fig_number</td>
-    <td>The specific table or figure from which the data came. E.g., "Table 5" or "Figure 1".</td>
+    <td>The specific table or figure number from which the data came. E.g., "5" if the data were in Table 5.</td>
   </tr>
   <tr>
     <td>title</td>
@@ -297,10 +297,6 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>Journal name of the literature source.</td>
   </tr>
 </table>
-
-
-within_study_data_source	table_fig_number	title	lastname_author	source_year	journal
-
 
 
 ## Other tasks
