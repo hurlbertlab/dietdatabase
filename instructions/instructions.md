@@ -260,7 +260,47 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>Source</td>
     <td>The complete citation of the study from which the diet information comes. Please format as in this example:  LastName, F. I. 2010. Article name here. Journal of Awesome 23: 223-231.</td>
   </tr>
+  <tr>
+    <td>doi</td>
+    <td>The digital object identifier of the primary source if available. E.g., ...</td>
+  </tr>
+  <tr>
+    <td>sex</td>
+    <td>If the diet data refer to a particular sex, enter 'm' (male) or 'f' (female). Otherwise, leave blank.</td>
+  </tr>
+  <tr>
+    <td>age_class</td>
+    <td>The digital object identifier of the primary source if available. E.g., ...</td>
+  </tr>
+  <tr>
+    <td>within_study_data_source</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>table_fig_number</td>
+    <td>The specific table or figure from which the data came. E.g., "Table 5" or "Figure 1".</td>
+  </tr>
+  <tr>
+    <td>title</td>
+    <td>The title of the literature source (i.e. article title or book title).</td>
+  </tr>
+  <tr>
+    <td>lastname_author</td>
+    <td>Last name of the first author of the literature source.</td>
+  </tr>
+  <tr>
+    <td>source_year</td>
+    <td>Publication year of the literature source.</td>
+  </tr>
+  <tr>
+    <td>journal</td>
+    <td>Journal name of the literature source.</td>
+  </tr>
 </table>
+
+
+within_study_data_source	table_fig_number	title	lastname_author	source_year	journal
+
 
 
 ## Other tasks
