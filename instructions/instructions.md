@@ -270,7 +270,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>age_class</td>
-    <td>The digital object identifier of the primary source if available. E.g., ...</td>
+    <td>If the diet data refer to a particular age class, enter 'adult', 'juvenile/immature' (young birds that have fledged and are no longer in the nest), or 'chick/nestling' (birds still in the nest).</td>
   </tr>
   <tr>
     <td>within_study_data_source</td>
