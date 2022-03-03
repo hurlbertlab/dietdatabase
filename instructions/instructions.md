@@ -119,6 +119,7 @@ of these fields, and how data should be entered. Further instructions about how 
     <td>List one or more of the following habitat designations describing the habitat in which the study was conducted. If listing 
     multiple habitat types, use a ";" to separate them.
         +forest  
+	+broadleaf evergreen forest  
         +deciduous forest  
         +coniferous forest  
         +woodland  
