@@ -132,6 +132,7 @@ of these fields, and how data should be entered. Further instructions about how 
 	+mudflats  
 	+marine  
 	+lake  
+	+mangrove  
         E.g. "deciduous forest; woodland"
         </td>
   </tr>
