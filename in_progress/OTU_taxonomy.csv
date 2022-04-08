@@ -1,0 +1,746 @@
+OTU_ID,kingdom,phylum,class,order,family,genus,species
+OTU17,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Buprestidae,N/A,N/A
+OTU59,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Monochamus,s:Monochamus notatus
+OTU7,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Buprestidae,g:Buprestis,s:Buprestis lyrata
+OTU8,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU13,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Acanthocinus,s:Acanthocinus obliquus
+OTU144,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU14,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,s:Myrmica detritinodis
+OTU1779,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,s:Myrmica detritinodis
+OTU22,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU2,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Hadromorphus,s:Hadromorphus callidus
+OTU113,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Rhagium,s:Rhagium inquisitor
+OTU42,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Formica,s:Formica lasioides
+OTU128,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Euxoa,N/A
+OTU74,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU65,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU131,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU1470,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU34,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Psychodidae,g:Pressatia,s:Pressatia choti
+OTU984,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Throscidae,g:Trixagus,s:Trixagus meybohmi
+OTU303,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Amaurobiidae,g:Callobius,s:Callobius nomeus
+OTU156,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,s:Myrmica cf fracticornis
+OTU171,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU569,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,N/A
+OTU521,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1669,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,s:Myrmica detritinodis
+OTU718,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Euxoa,s:Euxoa satis
+OTU1617,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Buprestidae,g:Buprestis,s:Buprestis laeviventris
+OTU4,k:Animalia,p:Arthropoda,c:Malacostraca,o:Isopoda,N/A,N/A,N/A
+OTU421,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU19,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Acanthocinus,s:Acanthocinus princeps
+OTU9,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU87,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Amaurobiidae,g:Callobius,s:Callobius bennetti
+OTU80,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Temnothorax,N/A
+OTU174,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU848,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Xyelidae,g:Xyela,N/A
+OTU922,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,s:Myrmica tahoensis
+OTU545,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1721,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Monochamus,s:Monochamus notatus
+OTU1355,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Euxoa,s:Euxoa messoria
+OTU1817,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Hadromorphus,s:Hadromorphus callidus
+OTU54,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU252,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU457,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU494,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU300,k:Animalia,p:Arthropoda,c:Branchiopoda,o:Diplostraca,N/A,N/A,N/A
+OTU27,k:Animalia,p:Arthropoda,c:Collembola,o:Entomobryomorpha,N/A,N/A,N/A
+OTU5,k:Animalia,p:Arthropoda,c:Insecta,o:Siphonaptera,f:Ceratophyllus,N/A,N/A
+OTU11,k:Animalia,p:Arthropoda,c:Insecta,o:Blattodea,f:Archotermopsidae,g:Zootermopsis,s:Zootermopsis nevadensis
+OTU38,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU285,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Camponotus,s:Camponotus modoc
+OTU276,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU673,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Buprestidae,g:Buprestis,s:Buprestis lineata
+OTU809,k:Animalia,p:Arthropoda,c:Insecta,o:Siphonaptera,f:Ceratophyllidae,g:Ceratophyllus,N/A
+OTU782,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU631,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1530,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Euxoa,N/A
+OTU1388,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Euxoa,s:Euxoa brevipennis
+OTU866,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Tachinidae,N/A,N/A
+OTU1191,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,N/A
+OTU1657,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Rhagium,s:Rhagium inquisitor
+OTU1042,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1823,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Xyelidae,g:Xyela,s:Xyela pini
+OTU1443,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,N/A
+OTU1814,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU637,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Theridiidae,g:Euryopis,s:Euryopis formosa
+OTU181,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1568,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Amaurobiidae,g:Callobius,s:Callobius nomeus
+OTU1039,k:Animalia,p:Arthropoda,c:Collembola,o:Entomobryomorpha,N/A,N/A,N/A
+OTU46,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU49,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Ampedus,s:Ampedus apicatus
+OTU56,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Camponotus,N/A
+OTU148,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Formica,s:Formica planipilis
+OTU106,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Formica,s:Formica neorufibarbis
+OTU138,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Aphrophoridae,g:Aphrophora,s:Aphrophora fulva
+OTU152,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,N/A,N/A
+OTU168,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Annaphila,s:Annaphila arvalis
+OTU225,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU195,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU307,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Aphididae,g:Cinara,s:Cinara pseudotaxifoliae
+OTU280,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU342,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Formica,N/A
+OTU175,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU418,k:Animalia,p:Arthropoda,c:Insecta,o:Raphidioptera,f:Inocelliidae,g:Negha,s:Negha longicornis
+OTU390,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU464,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU233,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+OTU603,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU571,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU676,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Camponotus,s:Camponotus vicinus
+OTU706,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU683,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU781,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU785,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1162,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Buprestidae,g:Buprestis,N/A
+OTU1406,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Formica,N/A
+OTU996,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU759,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Ortholeptura,s:Ortholeptura valida
+OTU1097,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Tachinidae,g:Billaea,s:Billaea nipigonensis
+OTU1719,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1735,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Temnothorax,N/A
+OTU1548,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1618,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Monochamus,s:Monochamus notatus
+OTU1607,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Rhagium,s:Rhagium inquisitor
+OTU1531,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Braconidae,g:Glyptapanteles,N/A
+OTU1768,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1709,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Temnothorax,N/A
+OTU1760,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1783,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Rhagium,s:Rhagium inquisitor
+OTU1787,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Temnothorax,N/A
+OTU176,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Amaurobiidae,g:Callobius,s:Callobius severus
+OTU241,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Thomisidae,g:Xysticus,s:Xysticus locuples
+OTU433,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Agelenidae,g:Novalena,s:Novalena intermedia
+OTU348,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU337,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU367,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU378,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU647,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU686,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU732,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Linyphiidae,g:Pityohyphantes,s:Pityohyphantes alticeps
+OTU740,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU873,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU846,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU956,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU964,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Gnaphosidae,g:Sergiolus,s:Sergiolus montanus
+OTU929,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1159,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1015,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1338,k:Animalia,p:Arthropoda,c:Arachnida,o:Mesostigmata,N/A,N/A,N/A
+OTU861,k:Animalia,p:Arthropoda,c:Branchiopoda,o:Diplostraca,N/A,N/A,N/A
+OTU365,k:Animalia,p:Arthropoda,c:Collembola,o:Entomobryomorpha,N/A,N/A,N/A
+OTU267,k:Animalia,p:Arthropoda,c:Diplopoda,o:Julida,N/A,N/A,N/A
+OTU16,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Ceratopogonidae,N/A,N/A
+MockIM5 _pident=100.0_OTU36,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Aphididae,g:Aphis,s:Aphis asclepiadis
+OTU23,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Buprestidae,g:Anthaxia,N/A
+OTU72,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Curculionidae,g:Dendroctonus,s:Dendroctonus ponderosae
+OTU61,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU363,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Rhagium,s:Rhagium inquisitor
+OTU99,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU88,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU97,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU118,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU218,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU268,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU326,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Curculionidae,g:Dendroctonus,s:Dendroctonus valens
+OTU345,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU344,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU261,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU379,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU401,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU371,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU394,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1488,k:Animalia,p:Arthropoda,c:Insecta,N/A,N/A,N/A,N/A
+OTU537,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU450,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU428,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU471,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU458,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+OTU481,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU632,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU626,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Semanotus,s:Semanotus litigiosus
+OTU564,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU560,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Asemum,s:Asemum striatum
+OTU540,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU563,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU548,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU579,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Pleromelloida,s:Pleromelloida cinerea
+OTU582,k:Animalia,p:Arthropoda,c:Insecta,o:Siphonaptera,N/A,N/A,N/A
+OTU736,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Oecophoridae,g:Oecophora,s:Oecophora bractella
+OTU951,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU762,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU838,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU679,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Ampedus,s:Ampedus phoenicopterus
+OTU747,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU705,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU714,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1807,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Ampedus,s:Ampedus apicatus
+OTU783,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Pyralidae,g:Dioryctria,s:Dioryctria albovittella
+OTU752,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU739,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,s:Myrmica incompleta
+OTU773,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Cicadellidae,g:Koebelia,s:Koebelia inyoensis
+OTU808,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Aphididae,g:Aphis,s:Aphis holodisci
+OTU1031,k:Animalia,p:Arthropoda,c:Insecta,o:Siphonaptera,N/A,N/A,N/A
+OTU1007,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU880,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1058,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Formica,s:Formica lasioides
+OTU931,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Acmaeops,s:Acmaeops proteus
+OTU973,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1041,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1195,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1018,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1117,k:Animalia,p:Arthropoda,c:Insecta,o:Dermaptera,N/A,N/A,N/A
+OTU1665,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Cicadidae,g:Cystosoma,s:Cystosoma nr saundersii
+OTU1075,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Tabanidae,g:Hybomitra,N/A
+OTU1086,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1822,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU934,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1155,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1109,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1122,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Aphaenogaster,s:Aphaenogaster occidentalis
+OTU1503,k:Animalia,p:Arthropoda,c:Insecta,o:Siphonaptera,N/A,N/A,N/A
+OTU1369,k:Animalia,p:Arthropoda,c:Insecta,o:Siphonaptera,N/A,N/A,N/A
+OTU1383,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Aphididae,N/A,N/A
+OTU1359,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1182,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1176,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1801,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Bibionidae,g:Bibio,s:Bibio xanthopus
+OTU1307,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Muscidae,g:Helina,N/A
+OTU1167,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1475,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Aphididae,g:Macrosiphum,N/A
+OTU1362,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1630,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Brentidae,g:Betulapion,s:Betulapion simile
+OTU1465,k:Animalia,p:Arthropoda,c:Insecta,o:Blattodea,N/A,N/A,N/A
+OTU1451,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Protorthodes,s:Protorthodes curtica
+OTU1636,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Annaphila,s:Annaphila arvalis
+OTU1553,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1812,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1686,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1784,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1688,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1642,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1788,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Acanthocinus,s:Acanthocinus princeps
+OTU1728,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Hadromorphus,s:Hadromorphus callidus
+OTU1794,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU526,k:Animalia,p:Arthropoda,c:Malacostraca,o:Amphipoda,N/A,N/A,N/A
+OTU205,k:Animalia,p:Arthropoda,c:Malacostraca,o:Isopoda,N/A,N/A,N/A
+OTU822,k:Animalia,p:Arthropoda,c:Malacostraca,o:Decapoda,N/A,N/A,N/A
+OTU69,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU75,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU200,k:Animalia,p:Arthropoda,c:Arachnida,o:Mesostigmata,N/A,N/A,N/A
+OTU159,k:Animalia,p:Arthropoda,c:Arachnida,o:Trombidiformes,N/A,N/A,N/A
+OTU155,k:Animalia,p:Arthropoda,c:Arachnida,o:Trombidiformes,N/A,N/A,N/A
+OTU193,k:Animalia,p:Arthropoda,c:Arachnida,o:Mesostigmata,N/A,N/A,N/A
+OTU198,k:Animalia,p:Arthropoda,c:Arachnida,o:Scorpiones,N/A,N/A,N/A
+OTU277,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Theridiidae,g:Platnickina,s:Platnickina tincta
+OTU286,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU334,k:Animalia,p:Arthropoda,c:Arachnida,o:Trombidiformes,N/A,N/A,N/A
+OTU327,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU170,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+MockIM42 _pident=100.0_OTU353,k:Animalia,p:Arthropoda,c:Arachnida,o:Opiliones,f:Phalangiidae,g:Phalangium,s:Phalangium opilio
+OTU336,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU357,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Agelenidae,g:Hololena,s:Hololena curta
+OTU431,k:Animalia,p:Arthropoda,c:Arachnida,o:Trombidiformes,N/A,N/A,N/A
+OTU395,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU438,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU243,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU529,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU501,k:Animalia,p:Arthropoda,c:Arachnida,o:Trombidiformes,N/A,N/A,N/A
+OTU555,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Anyphaenidae,g:Anyphaena,s:Anyphaena pacifica
+OTU495,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU386,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU524,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU685,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU674,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+MockIM41 _pident=100.0_OTU659,k:Animalia,p:Arthropoda,c:Arachnida,o:Opiliones,f:Phalangiidae,g:Phalangium,s:Phalangium opilio
+OTU629,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU694,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU725,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Philodromidae,g:Philodromus,s:Philodromus spectabilis
+OTU713,k:Animalia,p:Arthropoda,c:Arachnida,o:Scorpiones,N/A,N/A,N/A
+OTU760,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU741,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Linyphiidae,g:Helophora,s:Helophora reducta
+OTU766,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU799,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU780,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU793,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Araneidae,g:Cyclosa,s:Cyclosa conica
+OTU814,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU968,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU896,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU906,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1080,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1064,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Philodromidae,g:Apollophanes,s:Apollophanes margareta
+OTU836,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU992,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU953,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU986,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1023,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1022,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1059,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1043,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1111,k:Animalia,p:Arthropoda,c:Arachnida,o:Trombidiformes,N/A,N/A,N/A
+OTU902,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1099,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Dictynidae,g:Mallos,s:Mallos pallidus
+OTU1135,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1149,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1143,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1178,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1253,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1241,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Thomisidae,g:Xysticus,s:Xysticus montanensis
+OTU1268,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1350,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1095,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1327,k:Animalia,p:Arthropoda,c:Arachnida,o:Scorpiones,N/A,N/A,N/A
+OTU1440,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Amaurobiidae,g:Callobius,N/A
+OTU1342,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU847,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1385,k:Animalia,p:Arthropoda,c:Arachnida,o:Sarcoptiformes,N/A,N/A,N/A
+OTU1433,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Theridiidae,g:Theridion,s:Theridion murarium
+OTU1444,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1447,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1534,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Dictynidae,g:Mallos,s:Mallos pallidus
+OTU1527,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Theridiidae,g:Steatoda,N/A
+OTU1707,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1565,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1641,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1726,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Amaurobiidae,g:Callobius,s:Callobius bennetti
+OTU1716,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,N/A,N/A,N/A
+OTU1749,k:Animalia,p:Arthropoda,c:Arachnida,o:Trombidiformes,N/A,N/A,N/A
+OTU1769,k:Animalia,p:Arthropoda,c:Arachnida,o:Araneae,f:Salticidae,g:Pelegrina,s:Pelegrina aeneola
+OTU1743,k:Animalia,p:Arthropoda,c:Arachnida,o:Trombidiformes,f:Anystidae,N/A,N/A
+OTU794,k:Animalia,p:Arthropoda,c:Branchiopoda,o:Diplostraca,N/A,N/A,N/A
+OTU1139,k:Animalia,p:Arthropoda,c:Branchiopoda,o:Diplostraca,N/A,N/A,N/A
+OTU1092,k:Animalia,p:Arthropoda,c:Branchiopoda,o:Diplostraca,N/A,N/A,N/A
+OTU1518,k:Animalia,p:Arthropoda,c:Branchiopoda,o:Diplostraca,N/A,N/A,N/A
+OTU1799,k:Animalia,p:Arthropoda,c:Branchiopoda,o:Diplostraca,N/A,N/A,N/A
+OTU191,k:Animalia,p:Arthropoda,c:Collembola,o:Entomobryomorpha,N/A,N/A,N/A
+OTU994,k:Animalia,p:Arthropoda,c:Collembola,o:Entomobryomorpha,f:Entomobryidae,N/A,N/A
+OTU1329,k:Animalia,p:Arthropoda,c:Collembola,o:Entomobryomorpha,N/A,N/A,N/A
+OTU1343,k:Animalia,p:Arthropoda,c:Collembola,o:Entomobryomorpha,N/A,N/A,N/A
+OTU1375,k:Animalia,p:Arthropoda,c:Collembola,o:Entomobryomorpha,N/A,N/A,N/A
+OTU1552,k:Animalia,p:Arthropoda,c:Collembola,o:Entomobryomorpha,N/A,N/A,N/A
+OTU1668,k:Animalia,p:Arthropoda,c:Collembola,o:Symphypleona,N/A,N/A,N/A
+OTU283,k:Animalia,p:Arthropoda,c:Diplopoda,o:Polydesmida,N/A,N/A,N/A
+OTU749,k:Animalia,p:Arthropoda,c:Diplopoda,o:Julida,N/A,N/A,N/A
+OTU1298,k:Animalia,p:Arthropoda,c:Diplopoda,o:Polydesmida,N/A,N/A,N/A
+OTU1304,k:Animalia,p:Arthropoda,c:Diplopoda,o:Polydesmida,N/A,N/A,N/A
+OTU1259,k:Animalia,p:Arthropoda,c:Diplopoda,o:Polydesmida,N/A,N/A,N/A
+OTU1361,k:Animalia,p:Arthropoda,c:Diplopoda,o:Polydesmida,N/A,N/A,N/A
+OTU1513,k:Animalia,p:Arthropoda,c:Diplopoda,o:Polydesmida,N/A,N/A,N/A
+OTU1499,k:Animalia,p:Arthropoda,c:Diplopoda,o:Julida,N/A,N/A,N/A
+OTU1772,k:Animalia,p:Arthropoda,c:Diplopoda,o:Polydesmida,N/A,N/A,N/A
+OTU681,k:Animalia,p:Arthropoda,c:Hexanauplia,o:Cyclopoida,N/A,N/A,N/A
+OTU1153,k:Animalia,p:Arthropoda,c:Hexanauplia,N/A,N/A,N/A,N/A
+OTU20,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU58,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,f:Hydropsychidae,g:Arctopsyche,s:Arctopsyche grandis
+OTU30,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Nitidulidae,g:Epuraea,N/A
+OTU25,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU77,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Carnidae,N/A,N/A
+OTU79,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU169,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU93,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Rhagionidae,N/A,N/A
+OTU180,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Arhopalus,s:Arhopalus productus
+OTU114,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Geometridae,g:Stenoporpia,s:Stenoporpia pulmonaria
+OTU102,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU120,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU127,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU115,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU125,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Ceratopogonidae,g:Dasyhelea,N/A
+OTU687,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Buprestidae,g:Buprestis,s:Buprestis laeviventris
+OTU158,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Hemicrepidius,s:Hemicrepidius morio
+OTU81,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU134,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU96,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU141,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU163,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU164,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU179,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU107,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU189,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Temnothorax,s:Temnothorax rugatulus
+OTU98,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+MockIM32 _pident=100.0_OTU209,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,f:Heptageniidae,g:Leucrocuta,s:Leucrocuta maculipennis
+OTU207,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU216,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU214,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU232,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Simuliidae,g:Simulium,s:Simulium fontinale
+OTU223,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU108,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Oecophoridae,N/A,N/A
+OTU105,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU244,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU161,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU242,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+MockIM46 _pident=100.0_OTU262,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Scarabaeidae,g:Euphoria,s:Euphoria fulgida
+OTU173,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Hesperiidae,g:Astraptes,s:Astraptes favilla
+OTU273,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Dolichopodidae,N/A,N/A
+OTU279,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU294,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU311,k:Animalia,p:Arthropoda,c:Insecta,N/A,N/A,N/A,N/A
+MockIM47 _pident=99.4_OTU304,k:Animalia,p:Arthropoda,c:Insecta,o:Orthoptera,f:Tettigoniidae,g:Scudderia,s:Scudderia curvicauda
+OTU320,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Muscidae,g:Potamia,s:Potamia littoralis
+OTU356,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Asilidae,g:Cyrtopogon,s:Cyrtopogon montanus
+OTU338,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU323,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU389,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Geometridae,g:Enypia,s:Enypia packardata
+OTU351,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Ichneumonidae,N/A,N/A
+OTU352,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU248,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU383,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU557,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU398,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Curculionidae,g:Dendroctonus,s:Dendroctonus valens
+MockIM52 _pident=100.0_OTU402,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Tabanidae,g:Hybomitra,s:Hybomitra trepida
+MockIM16 _pident=100.0_OTU456,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Crambidae,g:Elophila,s:Elophila obliteralis
+OTU426,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU407,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU419,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU375,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU514,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU6,k:Animalia,p:Arthropoda,c:Insecta,o:Blattodea,N/A,N/A,N/A
+OTU443,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU391,k:Animalia,p:Arthropoda,c:Insecta,o:Mantodea,N/A,N/A,N/A
+OTU396,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU408,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU447,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU422,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU416,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU551,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+MockIM23 _pident=100.0_OTU617,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Geometridae,g:Comibaena,s:Comibaena bajularia
+OTU437,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+MockIM27 _pident=100.0_OTU470,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Hydrophilidae,g:Cercyon,s:Cercyon praetextatus
+OTU445,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Braconidae,g:Lysiphlebus,s:Lysiphlebus testaceipes
+MockIM49 _pident=100.0_OTU442,k:Animalia,p:Arthropoda,c:Insecta,o:Blattodea,f:Ectobiidae,g:Supella,s:Supella longipalpa
+OTU492,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU452,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU316,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU453,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+MockIM39 _pident=100.0_OTU509,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Chrysomelidae,g:Paria,s:Paria fragariae
+MockIM28 _pident=100.0_OTU536,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Erebidae,g:Hyphantria,s:Hyphantria cunea
+OTU317,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+MockIM20 _pident=100.0_OTU562,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Geometridae,g:Haematopis,s:Haematopis grataria
+OTU28,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Carabidae,g:Stenolophus,s:Stenolophus lecontei
+OTU805,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+MockIM29 _pident=100.0_OTU609,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Erebidae,g:Hypena,s:Hypena scabra
+OTU490,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+MockIM40 _pident=100.0_OTU542,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU491,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+OTU340,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU500,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU499,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU701,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU518,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU520,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU572,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU549,k:Animalia,p:Arthropoda,c:Insecta,o:Plecoptera,f:Perlodidae,N/A,N/A
+OTU523,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Curculionidae,g:Dendroctonus,s:Dendroctonus valens
+OTU586,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU583,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU547,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+MockIM6 _pident=100.0_OTU587,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Apidae,g:Apis,s:Apis mellifera
+OTU575,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU657,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Lasius,s:Lasius niger
+MockIM44 _pident=100.0_OTU680,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Chironomidae,g:Procladius,N/A
+OTU599,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU655,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Curculionidae,g:Dendroctonus,N/A
+OTU596,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+OTU690,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Megachilidae,g:Osmia,s:Osmia densa
+OTU650,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+MockIM33 _pident=100.0_OTU724,k:Animalia,p:Arthropoda,c:Insecta,o:Neuroptera,f:Mantispidae,g:Dicromantispa,s:Dicromantispa sayi
+OTU654,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU610,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU658,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU627,k:Animalia,p:Arthropoda,c:Insecta,o:Odonata,N/A,N/A,N/A
+OTU474,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU722,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU646,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU663,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+MockIM7 _pident=100.0_OTU692,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,f:Leptoceridae,g:Ceraclea,s:Ceraclea maculata
+OTU682,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU700,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU744,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Chironomidae,g:Micropsectra,N/A
+MockIM15 _pident=99.5_OTU837,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Bombyliidae,g:Lepidophora,s:Lepidophora lutea
+OTU825,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Rhyparochromidae,g:Plinthisus,s:Plinthisus brevipennis
+OTU439,k:Animalia,p:Arthropoda,c:Insecta,o:Odonata,N/A,N/A,N/A
+OTU761,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Tipulidae,g:Tipula,N/A
+OTU818,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU710,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU715,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU204,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU716,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU881,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Braconidae,g:Aspilota,s:Aspilota albertica
+OTU719,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU824,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+MockIM2 _pident=100.0_OTU834,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Culicidae,g:Aedes,s:Aedes albopictus
+OTU535,k:Animalia,p:Arthropoda,c:Insecta,o:Psocodea,N/A,N/A,N/A
+MockIM26 _pident=99.4_OTU775,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,f:Hydroptilidae,g:Orthotrichia,s:Orthotrichia aegerfasciella
+MockIM36 _pident=100.0_OTU867,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Tipulidae,g:Nephrotoma,s:Nephrotoma ferruginea
+MockIM10 _pident=100.0_OTU883,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Tortricidae,g:Choristoneura,s:Choristoneura rosaceana
+OTU903,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU727,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Formica,s:Formica argentea
+OTU753,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU857,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU770,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+OTU639,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU743,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU553,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+MockIM3 _pident=100.0_OTU915,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Culicidae,g:Aedes,s:Aedes vexans
+MockIM30 _pident=100.0_OTU965,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Erebidae,g:Idia,s:Idia concisa
+OTU802,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU774,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU831,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,N/A,N/A
+OTU778,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU132,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU810,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU786,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU862,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+OTU871,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU863,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+MockIM4 _pident=100.0_OTU1019,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Agrotis,s:Agrotis ipsilon
+OTU948,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+MockIM11 _pident=100.0_OTU1025,k:Animalia,p:Arthropoda,c:Insecta,o:Neuroptera,f:Chrysopidae,g:Chrysopa,s:Chrysopa oculata
+OTU851,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU597,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU908,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Bibionidae,g:Bibio,s:Bibio xanthopus
+OTU877,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU900,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+MockIM53 _pident=100.0_OTU1071,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Crambidae,g:Udea,s:Udea rubigalis
+OTU1076,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU868,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU893,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU730,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU886,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU927,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU966,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Sciaridae,g:Cratyna,N/A
+OTU928,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+OTU935,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Aphididae,g:Cinara,s:Cinara schwarzii
+OTU913,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU1010,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Miridae,g:Pilophorus,s:Pilophorus diffusus
+OTU938,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU985,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU940,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU905,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU990,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1163,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU963,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU988,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+OTU944,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU930,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU933,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU961,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU987,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Zopheridae,g:Phellopsis,s:Phellopsis porcata
+OTU954,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Chironomidae,N/A,N/A
+OTU1274,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Erebidae,g:Pelosia,s:Pelosia muscerda
+OTU969,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU789,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1070,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Culicidae,g:Aedes,s:Aedes tahoensis
+OTU1775,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Geometridae,g:Androchela,s:Androchela fucosa
+OTU1001,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+MockIM12 _pident=100.0_OTU1168,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Crambidae,g:Crambus,s:Crambus agitatellus
+MockIM34 _pident=100.0_OTU1087,k:Animalia,p:Arthropoda,c:Insecta,o:Orthoptera,f:Acrididae,g:Melanoplus,s:Melanoplus packardii
+OTU1124,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Pyralidae,g:Dioryctria,s:Dioryctria auranticella
+OTU449,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1074,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU991,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1034,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1079,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Braconidae,g:Wroughtonia,N/A
+OTU1196,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1024,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1145,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Megachilidae,g:Osmia,s:Osmia californica
+OTU885,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1207,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Spaelotis,s:Spaelotis clandestina
+OTU1069,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1227,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1089,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1130,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Braconidae,g:Pauesia,N/A
+OTU1066,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1144,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Chironomidae,g:Smittia,N/A
+OTU1205,k:Animalia,p:Arthropoda,c:Insecta,o:Siphonaptera,N/A,N/A,N/A
+OTU1148,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1180,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1110,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1142,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1084,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1134,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Dichagyris,s:Dichagyris variabilis
+OTU1119,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1260,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU427,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1100,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1250,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1151,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Pyralidae,g:Sarata,s:Sarata pullatella
+OTU1174,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU962,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1128,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU1126,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1136,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1165,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,N/A,N/A,N/A
+OTU1767,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Ampedus,s:Ampedus apicatus
+OTU1158,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU222,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1198,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Siricidae,g:Sirex,s:Sirex varipes
+OTU1285,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1279,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Euxoa,s:Euxoa lillooet
+OTU678,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1200,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Aphididae,g:Mindarus,s:Mindarus obliquus
+OTU1223,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU1296,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1206,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1292,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Keroplatidae,N/A,N/A
+OTU1360,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU1347,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU1389,k:Animalia,p:Arthropoda,c:Insecta,o:Siphonaptera,N/A,N/A,N/A
+OTU1280,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1281,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1305,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1267,k:Animalia,p:Arthropoda,c:Insecta,o:Orthoptera,f:Prophalangopsidae,g:Cyphoderris,s:Cyphoderris buckelli
+OTU1284,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU1278,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Neospondylis,s:Neospondylis upiformis
+OTU1314,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1291,k:Animalia,p:Arthropoda,c:Insecta,o:Blattodea,N/A,N/A,N/A
+OTU1316,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU1218,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1308,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1340,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Curculionidae,g:Dendroctonus,N/A
+OTU1322,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1344,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1325,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1384,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1489,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Gelechiidae,g:Caryocolum,N/A
+OTU1437,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Tortricidae,g:Zeiraphera,s:Zeiraphera cf pacifica
+OTU1364,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Platypolia,s:Platypolia loda
+OTU1368,k:Animalia,p:Arthropoda,c:Insecta,o:Plecoptera,N/A,N/A,N/A
+OTU1366,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU1377,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1339,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1382,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1431,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1353,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1569,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Oecophoridae,N/A,N/A
+OTU1397,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1352,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1405,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Tipulidae,g:Tipula,s:Tipula limbata
+OTU1400,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1378,k:Animalia,p:Arthropoda,c:Insecta,o:Odonata,N/A,N/A,N/A
+OTU1414,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Cecidomyiidae,N/A,N/A
+OTU1432,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1439,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Ceratopogonidae,g:Forcipomyia,N/A
+OTU1504,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1480,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1501,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Tachinidae,g:Periscepsia,s:Periscepsia clesides
+OTU1403,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1410,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU1419,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Syrphidae,g:Syrphus,N/A
+OTU1435,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Gelechiidae,g:Bryotropha,s:Bryotropha similis
+OTU1459,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Sesiidae,g:Synanthedon,s:Synanthedon sequoiae
+OTU1502,k:Animalia,p:Arthropoda,c:Insecta,o:Siphonaptera,f:Ceratophyllidae,N/A,N/A
+OTU1479,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1421,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Phoridae,g:Pseudacteon,N/A
+OTU1493,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1412,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1560,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1741,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1481,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,f:Aphididae,g:Cinara,s:Cinara lyallii
+OTU1525,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Ampedus,N/A
+OTU1616,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1331,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1507,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1505,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1519,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1740,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1510,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU1575,k:Animalia,p:Arthropoda,c:Insecta,o:Orthoptera,N/A,N/A,N/A
+OTU576,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1506,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1536,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1585,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1538,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1567,k:Animalia,p:Arthropoda,c:Insecta,o:Megaloptera,N/A,N/A,N/A
+OTU1647,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1710,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Xyelidae,g:Xyela,N/A
+OTU1526,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1640,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1664,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1551,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Cecidomyiidae,N/A,N/A
+OTU1803,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Culicidae,g:Aedes,s:Aedes increpitus
+OTU1571,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1601,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Arhopalus,s:Arhopalus asperatus
+OTU1643,k:Animalia,p:Arthropoda,c:Insecta,o:Trichoptera,f:Hydropsychidae,g:Arctopsyche,s:Arctopsyche grandis
+OTU852,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1742,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Myrmica,s:Myrmica detritinodis
+OTU1649,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Simuliidae,g:Simulium,s:Simulium emarginatum
+OTU1739,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1631,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1695,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Camponotus,N/A
+OTU1819,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1621,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Caradrina,s:Caradrina meralis
+OTU1632,k:Animalia,p:Arthropoda,c:Insecta,N/A,N/A,N/A,N/A
+OTU1661,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1800,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Acanthocinus,s:Acanthocinus obliquus
+OTU1591,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1748,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Hemicrepidius,N/A
+OTU1627,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU1663,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1704,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Ampedus,N/A
+OTU1720,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1730,k:Animalia,p:Arthropoda,c:Insecta,o:Dermaptera,f:Forficulidae,g:Forficula,s:Forficula auricularia-B
+OTU1744,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1694,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1699,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1729,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,f:Formicidae,g:Tapinoma,N/A
+OTU1755,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1780,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Ampedus,N/A
+OTU1824,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU1700,k:Animalia,p:Arthropoda,c:Insecta,N/A,N/A,N/A,N/A
+OTU1708,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1725,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1731,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1771,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Tachinidae,N/A,N/A
+OTU1811,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1764,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1746,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,f:Phoridae,N/A,N/A
+OTU1750,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1752,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Chrysomelidae,g:Syneta,s:Syneta simplex
+OTU1765,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Noctuidae,g:Euxoa,s:Euxoa infracta
+OTU1832,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1620,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Elateridae,g:Hadromorphus,s:Hadromorphus callidus
+OTU1737,k:Animalia,p:Arthropoda,c:Insecta,o:Ephemeroptera,N/A,N/A,N/A
+OTU1790,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1723,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,f:Cerambycidae,g:Rhagium,s:Rhagium inquisitor
+OTU1804,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1827,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,f:Oecophoridae,N/A,N/A
+OTU1542,k:Animalia,p:Arthropoda,c:Insecta,o:Hymenoptera,N/A,N/A,N/A
+OTU1829,k:Animalia,p:Arthropoda,c:Insecta,o:Coleoptera,N/A,N/A,N/A
+OTU1820,k:Animalia,p:Arthropoda,c:Insecta,o:Diptera,N/A,N/A,N/A
+OTU1658,k:Animalia,p:Arthropoda,c:Insecta,o:Lepidoptera,N/A,N/A,N/A
+OTU1815,k:Animalia,p:Arthropoda,c:Insecta,o:Hemiptera,N/A,N/A,N/A
+OTU145,k:Animalia,p:Arthropoda,c:Malacostraca,o:Decapoda,N/A,N/A,N/A
+OTU240,k:Animalia,p:Arthropoda,c:Malacostraca,o:Amphipoda,N/A,N/A,N/A
+OTU1017,k:Animalia,p:Arthropoda,c:Malacostraca,o:Amphipoda,N/A,N/A,N/A
+OTU999,k:Animalia,p:Arthropoda,c:Malacostraca,o:Isopoda,N/A,N/A,N/A
+OTU1300,k:Animalia,p:Arthropoda,c:Malacostraca,o:Cumacea,N/A,N/A,N/A
+OTU1197,k:Animalia,p:Arthropoda,c:Malacostraca,o:Decapoda,N/A,N/A,N/A
+OTU1806,k:Animalia,p:Arthropoda,c:Malacostraca,o:Amphipoda,N/A,N/A,N/A
+OTU68,k:Animalia,p:Chordata,c:Actinopterygii,o:Cyprinodontiformes,N/A,N/A,N/A
+OTU274,k:Animalia,p:Chordata,c:Amphibia,o:Anura,N/A,N/A,N/A
+OTU228,k:Animalia,p:Chordata,c:Amphibia,o:Anura,N/A,N/A,N/A
+OTU29,k:Animalia,p:Chordata,c:Aves,o:Piciformes,f:Picidae,g:Picoides,s:Picoides albolarvatus
+OTU1711,k:Animalia,p:Chordata,c:Amphibia,o:Anura,N/A,N/A,N/A
+OTU1020,k:Animalia,p:Chordata,c:Reptilia,o:Squamata,N/A,N/A,N/A
+OTU561,k:Animalia,p:Chordata,c:Mammalia,o:Artiodactyla,f:Cervidae,g:Cervus,s:Cervus canadensis
+OTU920,k:Animalia,p:Chordata,c:Actinopterygii,o:Cyprinodontiformes,N/A,N/A,N/A
+OTU1550,k:Animalia,p:Chordata,c:Actinopterygii,o:Perciformes,N/A,N/A,N/A
+OTU84,k:Animalia,p:Chordata,c:Aves,o:Piciformes,f:Picidae,g:Picoides,s:Picoides villosus
+OTU1085,k:Animalia,p:Chordata,c:Aves,o:Piciformes,f:Picidae,g:Picoides,s:Picoides arcticus
+OTU301,k:Animalia,p:Chordata,c:Mammalia,o:Chiroptera,N/A,N/A,N/A
+OTU1116,k:Animalia,p:Chordata,c:Mammalia,o:Chiroptera,N/A,N/A,N/A
+OTU440,k:Animalia,p:Chordata,c:Actinopterygii,o:Characiformes,N/A,N/A,N/A
+OTU550,k:Animalia,p:Chordata,c:Actinopterygii,o:Perciformes,N/A,N/A,N/A
+OTU630,k:Animalia,p:Chordata,c:Actinopterygii,o:Labriformes,N/A,N/A,N/A
+OTU841,k:Animalia,p:Chordata,c:Actinopterygii,o:Myctophiformes,N/A,N/A,N/A
+OTU1032,k:Animalia,p:Chordata,c:Actinopterygii,o:Myctophiformes,N/A,N/A,N/A
+OTU1125,k:Animalia,p:Chordata,c:Actinopterygii,o:Trachiniformes,N/A,N/A,N/A
+OTU1554,k:Animalia,p:Chordata,c:Actinopterygii,o:Pleuronectiformes,N/A,N/A,N/A
+OTU315,k:Animalia,p:Chordata,c:Amphibia,o:Anura,N/A,N/A,N/A
+OTU299,k:Animalia,p:Chordata,c:Amphibia,o:Anura,N/A,N/A,N/A
+OTU1492,k:Animalia,p:Chordata,c:Amphibia,o:Anura,N/A,N/A,N/A
+OTU1598,k:Animalia,p:Chordata,c:Amphibia,o:Anura,N/A,N/A,N/A
+OTU41,k:Animalia,p:Chordata,c:Aves,o:Passeriformes,f:Rhinocryptidae,g:Pteroptochos,s:Pteroptochos tarnii
+OTU1676,k:Animalia,p:Chordata,c:Aves,o:Piciformes,f:Picidae,g:Picoides,s:Picoides arcticus
+OTU1263,k:Animalia,p:Chordata,c:Elasmobranchii,o:Squaliformes,N/A,N/A,N/A
+OTU733,k:Animalia,p:Chordata,c:Reptilia,o:Squamata,N/A,N/A,N/A
