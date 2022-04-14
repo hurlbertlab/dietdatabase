@@ -1,0 +1,6 @@
+"level"	"name"	"condition"
+"Suborder"	"Fulgoroidea"	"wrong rank; too high"
+"Suborder"	"Muscamorpha"	"unmatched"
+"Order"	"Phthiraptera"	"unmatched"
+"Order"	"Opilliones"	"unmatched"
+"Class"	"Arachnida"	"wrong rank; too high"
