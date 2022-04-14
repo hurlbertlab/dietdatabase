@@ -277,9 +277,8 @@ of these fields, and how data should be entered. Further instructions about how 
 	    <ul>
 		    <li>"chick", any young bird still in the nest, or that has not yet acquired its juvenal plumage</li>
 		    <li>"HY", a hatch year bird post-fledging</li>
-		    <li>"AHY", after hatch year, the most common classification to designate an adult</li>
-		    <li>"SY", a bird in its second year of life, i.e. it hatched the year before</li>
-		    <li>"ASY", after second year, a bird that is known to have been born two or more years ago</li>
+		    <li>"juvenile", this should be used for birds that are not HY birds, but that have not yet attained full adult plumage (e.g. hawks, waterbirds, etc.)</li>
+		    <li>"adult", a bird that is at least an After Hatch Year bird, or one that has attained full adult plumage</li>
 	    </ul>
     </td>
   </tr>
