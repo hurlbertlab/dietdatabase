@@ -27,7 +27,7 @@ Let us know! Post an issue by clicking ‘Issues’ near the top left (requires 
 
 Please cite this dataset as:
 
-Hurlbert, A. H., Olsen, A. M., Sawyer, M. M., and Winner, P. M. 2021. Avian Diet Database. Scientific Data 8: 260. https://doi.org/10.5281/zenodo.5151056
+Hurlbert, A. H., Olsen, A. M., Sawyer, M. M., and Winner, P. M. 2021. Avian Diet Database. Scientific Data 8: 260. https://www.nature.com/articles/s41597-021-01049-9
 
 
 
