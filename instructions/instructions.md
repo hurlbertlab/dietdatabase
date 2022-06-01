@@ -76,7 +76,7 @@ of these fields, and how data should be entered. Further instructions about how 
   </tr>
   <tr>
     <td>Taxonomy</td>
-    <td>The taxonomic authority for the scientific name. Currently, the most up to date taxonomy being used is "eBird Clements checklist v2019".</td>
+    <td>The taxonomic authority for the scientific name. Currently, the most up to date taxonomy being used is "eBird Clements checklist v2021".</td>
   </tr>
   <tr>
     <td>Longitude_dd</td>
