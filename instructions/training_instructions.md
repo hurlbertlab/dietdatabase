@@ -14,7 +14,7 @@ but this should be rare.
 names (both common names and scientific names) have changed over time, so older
 studies in particular may be using one that is out of date. Check whether the 
 common and scientific names of your bird are listed in the [most recent eBird
-taxonomy checklist](birdtaxonomy/eBird_Taxonomy_V2016.csv) in the `birdtaxonomy` 
+taxonomy checklist](birdtaxonomy/eBird_Taxonomy_V2021.csv) in the `birdtaxonomy` 
 folder (try using Ctrl-F or Cmd-F to search for a name). If both names are present
 in the eBird checklist then you can enter them as is into the database file.
 
