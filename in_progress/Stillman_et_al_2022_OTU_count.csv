@@ -1,0 +1,243 @@
+"kingdom","phylum","class","order","family","genus","species","n"
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","N/A","N/A","N/A",140
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","N/A","N/A","N/A",66
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","N/A","N/A","N/A",61
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","N/A","N/A","N/A",46
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","N/A","N/A","N/A",41
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","N/A","N/A","N/A",17
+"k:Animalia","p:Arthropoda","c:Insecta","o:Ephemeroptera","N/A","N/A","N/A",13
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Sarcoptiformes","N/A","N/A","N/A",11
+"k:Animalia","p:Arthropoda","c:Insecta","o:Trichoptera","N/A","N/A","N/A",10
+"k:Animalia","p:Arthropoda","c:Collembola","o:Entomobryomorpha","N/A","N/A","N/A",8
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Trombidiformes","N/A","N/A","N/A",7
+"k:Animalia","p:Arthropoda","c:Branchiopoda","o:Diplostraca","N/A","N/A","N/A",7
+"k:Animalia","p:Arthropoda","c:Diplopoda","o:Polydesmida","N/A","N/A","N/A",7
+"k:Animalia","p:Chordata","c:Amphibia","o:Anura","N/A","N/A","N/A",7
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Rhagium","s:Rhagium inquisitor",6
+"k:Animalia","p:Arthropoda","c:Insecta","o:Siphonaptera","N/A","N/A","N/A",6
+"k:Animalia","p:Arthropoda","c:Insecta","N/A","N/A","N/A","N/A",4
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Elateridae","g:Hadromorphus","s:Hadromorphus callidus",4
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Myrmica","s:Myrmica detritinodis",4
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Temnothorax","N/A",4
+"k:Animalia","p:Arthropoda","c:Malacostraca","o:Amphipoda","N/A","N/A","N/A",4
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Mesostigmata","N/A","N/A","N/A",3
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Scorpiones","N/A","N/A","N/A",3
+"k:Animalia","p:Arthropoda","c:Diplopoda","o:Julida","N/A","N/A","N/A",3
+"k:Animalia","p:Arthropoda","c:Insecta","o:Blattodea","N/A","N/A","N/A",3
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Monochamus","s:Monochamus notatus",3
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Curculionidae","g:Dendroctonus","s:Dendroctonus valens",3
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Elateridae","g:Ampedus","N/A",3
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Elateridae","g:Ampedus","s:Ampedus apicatus",3
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Myrmica","N/A",3
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Oecophoridae","N/A","N/A",3
+"k:Animalia","p:Arthropoda","c:Insecta","o:Odonata","N/A","N/A","N/A",3
+"k:Animalia","p:Arthropoda","c:Malacostraca","o:Decapoda","N/A","N/A","N/A",3
+"k:Animalia","p:Arthropoda","c:Malacostraca","o:Isopoda","N/A","N/A","N/A",3
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Amaurobiidae","g:Callobius","s:Callobius bennetti",2
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Amaurobiidae","g:Callobius","s:Callobius nomeus",2
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Dictynidae","g:Mallos","s:Mallos pallidus",2
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Opiliones","f:Phalangiidae","g:Phalangium","s:Phalangium opilio",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Buprestidae","g:Buprestis","s:Buprestis laeviventris",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Acanthocinus","s:Acanthocinus obliquus",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Acanthocinus","s:Acanthocinus princeps",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Curculionidae","g:Dendroctonus","N/A",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Bibionidae","g:Bibio","s:Bibio xanthopus",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Cecidomyiidae","N/A","N/A",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Tachinidae","N/A","N/A",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Camponotus","N/A",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Formica","N/A",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Formica","s:Formica lasioides",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","N/A","N/A",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Xyelidae","g:Xyela","N/A",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Annaphila","s:Annaphila arvalis",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Euxoa","N/A",2
+"k:Animalia","p:Arthropoda","c:Insecta","o:Trichoptera","f:Hydropsychidae","g:Arctopsyche","s:Arctopsyche grandis",2
+"k:Animalia","p:Chordata","c:Actinopterygii","o:Cyprinodontiformes","N/A","N/A","N/A",2
+"k:Animalia","p:Chordata","c:Actinopterygii","o:Myctophiformes","N/A","N/A","N/A",2
+"k:Animalia","p:Chordata","c:Actinopterygii","o:Perciformes","N/A","N/A","N/A",2
+"k:Animalia","p:Chordata","c:Aves","o:Piciformes","f:Picidae","g:Picoides","s:Picoides arcticus",2
+"k:Animalia","p:Chordata","c:Mammalia","o:Chiroptera","N/A","N/A","N/A",2
+"k:Animalia","p:Chordata","c:Reptilia","o:Squamata","N/A","N/A","N/A",2
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Agelenidae","g:Hololena","s:Hololena curta",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Agelenidae","g:Novalena","s:Novalena intermedia",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Amaurobiidae","g:Callobius","N/A",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Amaurobiidae","g:Callobius","s:Callobius severus",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Anyphaenidae","g:Anyphaena","s:Anyphaena pacifica",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Araneidae","g:Cyclosa","s:Cyclosa conica",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Gnaphosidae","g:Sergiolus","s:Sergiolus montanus",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Linyphiidae","g:Helophora","s:Helophora reducta",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Linyphiidae","g:Pityohyphantes","s:Pityohyphantes alticeps",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Philodromidae","g:Apollophanes","s:Apollophanes margareta",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Philodromidae","g:Philodromus","s:Philodromus spectabilis",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Salticidae","g:Pelegrina","s:Pelegrina aeneola",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Theridiidae","g:Euryopis","s:Euryopis formosa",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Theridiidae","g:Platnickina","s:Platnickina tincta",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Theridiidae","g:Steatoda","N/A",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Theridiidae","g:Theridion","s:Theridion murarium",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Thomisidae","g:Xysticus","s:Xysticus locuples",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Araneae","f:Thomisidae","g:Xysticus","s:Xysticus montanensis",1
+"k:Animalia","p:Arthropoda","c:Arachnida","o:Trombidiformes","f:Anystidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Collembola","o:Entomobryomorpha","f:Entomobryidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Collembola","o:Symphypleona","N/A","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Hexanauplia","N/A","N/A","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Hexanauplia","o:Cyclopoida","N/A","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Blattodea","f:Archotermopsidae","g:Zootermopsis","s:Zootermopsis nevadensis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Blattodea","f:Ectobiidae","g:Supella","s:Supella longipalpa",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Brentidae","g:Betulapion","s:Betulapion simile",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Buprestidae","g:Anthaxia","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Buprestidae","g:Buprestis","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Buprestidae","g:Buprestis","s:Buprestis lineata",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Buprestidae","g:Buprestis","s:Buprestis lyrata",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Buprestidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Carabidae","g:Stenolophus","s:Stenolophus lecontei",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Acmaeops","s:Acmaeops proteus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Arhopalus","s:Arhopalus asperatus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Arhopalus","s:Arhopalus productus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Asemum","s:Asemum striatum",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Neospondylis","s:Neospondylis upiformis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Ortholeptura","s:Ortholeptura valida",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Cerambycidae","g:Semanotus","s:Semanotus litigiosus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Chrysomelidae","g:Paria","s:Paria fragariae",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Chrysomelidae","g:Syneta","s:Syneta simplex",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Curculionidae","g:Dendroctonus","s:Dendroctonus ponderosae",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Elateridae","g:Ampedus","s:Ampedus phoenicopterus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Elateridae","g:Hemicrepidius","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Elateridae","g:Hemicrepidius","s:Hemicrepidius morio",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Hydrophilidae","g:Cercyon","s:Cercyon praetextatus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Nitidulidae","g:Epuraea","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Scarabaeidae","g:Euphoria","s:Euphoria fulgida",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Throscidae","g:Trixagus","s:Trixagus meybohmi",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Coleoptera","f:Zopheridae","g:Phellopsis","s:Phellopsis porcata",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Dermaptera","f:Forficulidae","g:Forficula","s:Forficula auricularia-B",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Dermaptera","N/A","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Asilidae","g:Cyrtopogon","s:Cyrtopogon montanus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Bombyliidae","g:Lepidophora","s:Lepidophora lutea",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Carnidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Ceratopogonidae","g:Dasyhelea","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Ceratopogonidae","g:Forcipomyia","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Ceratopogonidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Chironomidae","g:Micropsectra","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Chironomidae","g:Procladius","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Chironomidae","g:Smittia","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Chironomidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Culicidae","g:Aedes","s:Aedes albopictus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Culicidae","g:Aedes","s:Aedes increpitus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Culicidae","g:Aedes","s:Aedes tahoensis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Culicidae","g:Aedes","s:Aedes vexans",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Dolichopodidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Keroplatidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Muscidae","g:Helina","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Muscidae","g:Potamia","s:Potamia littoralis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Phoridae","g:Pseudacteon","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Phoridae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Psychodidae","g:Pressatia","s:Pressatia choti",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Rhagionidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Sciaridae","g:Cratyna","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Simuliidae","g:Simulium","s:Simulium emarginatum",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Simuliidae","g:Simulium","s:Simulium fontinale",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Syrphidae","g:Syrphus","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Tabanidae","g:Hybomitra","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Tabanidae","g:Hybomitra","s:Hybomitra trepida",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Tachinidae","g:Billaea","s:Billaea nipigonensis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Tachinidae","g:Periscepsia","s:Periscepsia clesides",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Tipulidae","g:Nephrotoma","s:Nephrotoma ferruginea",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Tipulidae","g:Tipula","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Diptera","f:Tipulidae","g:Tipula","s:Tipula limbata",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Ephemeroptera","f:Heptageniidae","g:Leucrocuta","s:Leucrocuta maculipennis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Aphididae","g:Aphis","s:Aphis asclepiadis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Aphididae","g:Aphis","s:Aphis holodisci",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Aphididae","g:Cinara","s:Cinara lyallii",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Aphididae","g:Cinara","s:Cinara pseudotaxifoliae",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Aphididae","g:Cinara","s:Cinara schwarzii",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Aphididae","g:Macrosiphum","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Aphididae","g:Mindarus","s:Mindarus obliquus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Aphididae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Aphrophoridae","g:Aphrophora","s:Aphrophora fulva",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Cicadellidae","g:Koebelia","s:Koebelia inyoensis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Cicadidae","g:Cystosoma","s:Cystosoma nr saundersii",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Miridae","g:Pilophorus","s:Pilophorus diffusus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hemiptera","f:Rhyparochromidae","g:Plinthisus","s:Plinthisus brevipennis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Apidae","g:Apis","s:Apis mellifera",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Braconidae","g:Aspilota","s:Aspilota albertica",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Braconidae","g:Glyptapanteles","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Braconidae","g:Lysiphlebus","s:Lysiphlebus testaceipes",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Braconidae","g:Pauesia","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Braconidae","g:Wroughtonia","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Aphaenogaster","s:Aphaenogaster occidentalis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Camponotus","s:Camponotus modoc",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Camponotus","s:Camponotus vicinus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Formica","s:Formica argentea",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Formica","s:Formica neorufibarbis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Formica","s:Formica planipilis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Lasius","s:Lasius niger",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Myrmica","s:Myrmica cf fracticornis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Myrmica","s:Myrmica incompleta",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Myrmica","s:Myrmica tahoensis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Tapinoma","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Formicidae","g:Temnothorax","s:Temnothorax rugatulus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Ichneumonidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Megachilidae","g:Osmia","s:Osmia californica",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Megachilidae","g:Osmia","s:Osmia densa",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Siricidae","g:Sirex","s:Sirex varipes",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Hymenoptera","f:Xyelidae","g:Xyela","s:Xyela pini",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Crambidae","g:Crambus","s:Crambus agitatellus",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Crambidae","g:Elophila","s:Elophila obliteralis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Crambidae","g:Udea","s:Udea rubigalis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Erebidae","g:Hypena","s:Hypena scabra",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Erebidae","g:Hyphantria","s:Hyphantria cunea",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Erebidae","g:Idia","s:Idia concisa",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Erebidae","g:Pelosia","s:Pelosia muscerda",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Gelechiidae","g:Bryotropha","s:Bryotropha similis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Gelechiidae","g:Caryocolum","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Geometridae","g:Androchela","s:Androchela fucosa",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Geometridae","g:Comibaena","s:Comibaena bajularia",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Geometridae","g:Enypia","s:Enypia packardata",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Geometridae","g:Haematopis","s:Haematopis grataria",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Geometridae","g:Stenoporpia","s:Stenoporpia pulmonaria",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Hesperiidae","g:Astraptes","s:Astraptes favilla",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Agrotis","s:Agrotis ipsilon",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Caradrina","s:Caradrina meralis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Dichagyris","s:Dichagyris variabilis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Euxoa","s:Euxoa brevipennis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Euxoa","s:Euxoa infracta",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Euxoa","s:Euxoa lillooet",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Euxoa","s:Euxoa messoria",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Euxoa","s:Euxoa satis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Platypolia","s:Platypolia loda",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Pleromelloida","s:Pleromelloida cinerea",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Protorthodes","s:Protorthodes curtica",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Noctuidae","g:Spaelotis","s:Spaelotis clandestina",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Oecophoridae","g:Oecophora","s:Oecophora bractella",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Pyralidae","g:Dioryctria","s:Dioryctria albovittella",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Pyralidae","g:Dioryctria","s:Dioryctria auranticella",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Pyralidae","g:Sarata","s:Sarata pullatella",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Sesiidae","g:Synanthedon","s:Synanthedon sequoiae",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Tortricidae","g:Choristoneura","s:Choristoneura rosaceana",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Lepidoptera","f:Tortricidae","g:Zeiraphera","s:Zeiraphera cf pacifica",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Mantodea","N/A","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Megaloptera","N/A","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Neuroptera","f:Chrysopidae","g:Chrysopa","s:Chrysopa oculata",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Neuroptera","f:Mantispidae","g:Dicromantispa","s:Dicromantispa sayi",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Orthoptera","f:Acrididae","g:Melanoplus","s:Melanoplus packardii",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Orthoptera","f:Prophalangopsidae","g:Cyphoderris","s:Cyphoderris buckelli",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Orthoptera","f:Tettigoniidae","g:Scudderia","s:Scudderia curvicauda",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Orthoptera","N/A","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Plecoptera","f:Perlodidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Plecoptera","N/A","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Psocodea","N/A","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Raphidioptera","f:Inocelliidae","g:Negha","s:Negha longicornis",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Siphonaptera","f:Ceratophyllidae","g:Ceratophyllus","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Siphonaptera","f:Ceratophyllidae","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Siphonaptera","f:Ceratophyllus","N/A","N/A",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Trichoptera","f:Hydroptilidae","g:Orthotrichia","s:Orthotrichia aegerfasciella",1
+"k:Animalia","p:Arthropoda","c:Insecta","o:Trichoptera","f:Leptoceridae","g:Ceraclea","s:Ceraclea maculata",1
+"k:Animalia","p:Arthropoda","c:Malacostraca","o:Cumacea","N/A","N/A","N/A",1
+"k:Animalia","p:Chordata","c:Actinopterygii","o:Characiformes","N/A","N/A","N/A",1
+"k:Animalia","p:Chordata","c:Actinopterygii","o:Labriformes","N/A","N/A","N/A",1
+"k:Animalia","p:Chordata","c:Actinopterygii","o:Pleuronectiformes","N/A","N/A","N/A",1
+"k:Animalia","p:Chordata","c:Actinopterygii","o:Trachiniformes","N/A","N/A","N/A",1
+"k:Animalia","p:Chordata","c:Aves","o:Passeriformes","f:Rhinocryptidae","g:Pteroptochos","s:Pteroptochos tarnii",1
+"k:Animalia","p:Chordata","c:Aves","o:Piciformes","f:Picidae","g:Picoides","s:Picoides albolarvatus",1
+"k:Animalia","p:Chordata","c:Aves","o:Piciformes","f:Picidae","g:Picoides","s:Picoides villosus",1
+"k:Animalia","p:Chordata","c:Elasmobranchii","o:Squaliformes","N/A","N/A","N/A",1
+"k:Animalia","p:Chordata","c:Mammalia","o:Artiodactyla","f:Cervidae","g:Cervus","s:Cervus canadensis",1
