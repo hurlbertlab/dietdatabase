@@ -22,7 +22,21 @@ dbSummary = function(diet = NULL) {
   numSpecies = nrow(dbSpecies)
   numStudies = length(unique(diet$Source))
   numRecords = nrow(diet)
-  recordsPerSpecies = count(diet, Common_Name) %>% as_tibble()
+  
+  analysesPerSpecies = diet %>%
+    group_by(Common_Name) %>%
+    summarize(analyses = n_distinct(Longitude_dd,
+                                    Latitude_dd, Altitude_min_m, Altitude_mean_m, Altitude_max_m,
+                                    Location_Region, Location_Specific, Habitat_type,
+                                    Observation_Month_Begin, Observation_Year_Begin,
+                                    Observation_Month_End, Observation_Year_End, Observation_Season,
+                                    Analysis_Number, Source))
+  
+  recordsPerSpecies = count(diet, Common_Name) %>% 
+    as_tibble() %>%
+    left_join(analysesPerSpecies, by = 'Common_Name') %>%
+    rename(records = n)
+  
   
   familyCoverage = left_join(speciesList, dbSpecies, by = c('common_name' = 'Common_Name', 'family' = 'Family')) %>%
     group_by(order, family) %>%
