@@ -1,0 +1,7 @@
+"level"	"name"	"condition"
+"Scientific_Name"	"Rana pipiens"	"unmatched"
+"Scientific_Name"	"Eutamias minimus"	"unmatched"
+"Scientific_Name"	"Capella gallinago"	"unmatched"
+"Scientific_Name"	"Circotettix verruculatus"	"unmatched"
+"Family"	"Cicindelidae"	"unmatched"
+"Order"	"Gastropoda"	"wrong rank; too low"
