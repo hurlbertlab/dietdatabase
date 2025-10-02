@@ -249,7 +249,7 @@ qa_qc = function(dietdb, write = TRUE, filename = NULL, fracsum_accuracy = .03) 
   
   
   taxonomy = count(diet, Taxonomy) %>% 
-    filter(!Taxonomy %in% c('eBird Clements Checklist v2018', 'eBird Clements Checklist v2019')) %>%
+    filter(!Taxonomy %in% c('eBird Clements Checklist v2024')) %>%
     data.frame()
   if (nrow(taxonomy) == 0) {
     taxonomy = "OK"
