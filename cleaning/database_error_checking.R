@@ -78,7 +78,6 @@ bird_name_clean = function(diet) {
   # Load most recent taxonomy file 
   filenames = list.files('birdtaxonomy', pattern = 'eBird_Taxonomy_v20[0-9][0-9].csv') %>%
     sort(decreasing = TRUE)
-  
   tax = read.table(paste('birdtaxonomy/', filenames[1], sep = ''), header = T,
                    sep = ',', quote = '\"', stringsAsFactors = F)
   tax$Family = word(tax$FAMILY, 1)
