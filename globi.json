@@ -1,8 +1,229 @@
-{ 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "hurlbert",
-  "citation": "Hurlbert, A. H., Olsen, A. M., Sawyer, M. M., and Winner, P. M. 2021. Avian Diet Database. https://doi.org/10.5281/zenodo.5151056",
-  "resources": {
-    "AvianDietDatabase.txt": "AvianDietDatabase.txt"
-  }
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "AvianDietDatabase.txt",
+    "dcterms:bibliographicCitation" : "Hurlbert, A. H., Olsen, A. M., Sawyer, M. M., and Winner, P. M. 2021. Avian Diet Database. Scientific Data 8: 260. https://www.nature.com/articles/s41597-021-01049-9",
+    "delimiter" : "\t",
+    "headerRowCount" : 1,
+    "null" : [ "NA" ],
+    "interactionTypeName": "eats",
+    "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002470",
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "sourceTaxonCommonName",
+        "titles" : "Common_Name",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "Scientific_Name",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonSubspecificEpithet",
+        "titles" : "Subspecies",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonFamilyName",
+        "titles" : "Family",
+        "datatype" : "string"
+      }, {
+        "name" : "Taxonomy",
+        "titles" : "Taxonomy",
+        "datatype" : "string"
+      }, {
+        "name" : "decimalLongitude",
+        "titles" : "Longitude_dd",
+        "datatype" : "string"
+      }, {
+        "name" : "decimalLatitude",
+        "titles" : "Latitude_dd",
+        "datatype" : "string"
+      }, {
+        "name" : "Altitude_min_m",
+        "titles" : "Altitude_min_m",
+        "datatype" : "string"
+      }, {
+        "name" : "Altitude_mean_m",
+        "titles" : "Altitude_mean_m",
+        "datatype" : "string"
+      }, {
+        "name" : "Altitude_max_m",
+        "titles" : "Altitude_max_m",
+        "datatype" : "string"
+      }, {
+        "name" : "localityName",
+        "titles" : "Location_Region",
+        "datatype" : "string"
+      }, {
+        "name" : "Location_Specific",
+        "titles" : "Location_Specific",
+        "datatype" : "string"
+      }, {
+        "name" : "habitatName",
+        "titles" : "Habitat_type",
+        "datatype" : "string"
+      }, {
+        "name" : "http://rs.tdwg.org/dwc/terms/month",
+        "titles" : "Observation_Month_Begin",
+        "datatype" : "string"
+      }, {
+        "name" : "http://rs.tdwg.org/dwc/terms/year",
+        "titles" : "Observation_Year_Begin",
+        "datatype" : "string"
+      }, {
+        "name" : "Observation_Month_End",
+        "titles" : "Observation_Month_End",
+        "datatype" : "string"
+      }, {
+        "name" : "Observation_Year_End",
+        "titles" : "Observation_Year_End",
+        "datatype" : "string"
+      }, {
+        "name" : "Observation_Season",
+        "titles" : "Observation_Season",
+        "datatype" : "string"
+      }, {
+        "name" : "Analysis_Number",
+        "titles" : "Analysis_Number",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonKingdomName",
+        "titles" : "Prey_Kingdom",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonPhylumName",
+        "titles" : "Prey_Phylum",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonClassName",
+        "titles" : "Prey_Class",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonOrderName",
+        "titles" : "Prey_Order",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonSuborderName",
+        "titles" : "Prey_Suborder",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonFamilyName",
+        "titles" : "Prey_Family",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonGenusName",
+        "titles" : "Prey_Genus",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "Prey_Scientific_Name",
+        "datatype" : "string"
+      }, {
+        "name" : "Inclusive_Prey_Taxon",
+        "titles" : "Inclusive_Prey_Taxon",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonId",
+        "titles" : "Prey_Name_ITIS_ID",
+        "datatype" : {
+           "base": "string",
+           "valueUrl": "ITIS:{targetTaxonId}"
+         }
+      }, {
+        "name" : "Prey_Name_Status",
+        "titles" : "Prey_Name_Status",
+        "datatype" : "string"
+      }, {
+        "name" : "targetLifeStageName",
+        "titles" : "Prey_Stage",
+        "datatype" : "string"
+      }, {
+        "name" : "targetBodyPartName",
+        "titles" : "Prey_Part",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonCommonName",
+        "titles" : "Prey_Common_Name",
+        "datatype" : "string"
+      }, {
+        "name" : "Fraction_Diet",
+        "titles" : "Fraction_Diet",
+        "datatype" : "string"
+      }, {
+        "name" : "Diet_Type",
+        "titles" : "Diet_Type",
+        "datatype" : "string"
+      }, {
+        "name" : "Item_Sample_Size",
+        "titles" : "Item_Sample_Size",
+        "datatype" : "string"
+      }, {
+        "name" : "Bird_Sample_Size",
+        "titles" : "Bird_Sample_Size",
+        "datatype" : "string"
+      }, {
+        "name" : "Sites",
+        "titles" : "Sites",
+        "datatype" : "string"
+      }, {
+        "name" : "basisOfRecordName",
+        "titles" : "Study_Type",
+        "datatype" : "string"
+      }, {
+        "name" : "Notes",
+        "titles" : "Notes",
+        "datatype" : "string"
+      }, {
+        "name" : "Entered_By",
+        "titles" : "Entered_By",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceCitation",
+        "titles" : "Source",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceDoi",
+        "titles" : "doi",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceSexName",
+        "titles" : "sex",
+        "datatype" : "string"
+      }, {
+        "name" : "age_class",
+        "titles" : "age_class",
+        "datatype" : "string"
+      }, {
+        "name" : "within_study_data_source",
+        "titles" : "within_study_data_source",
+        "datatype" : "string"
+      }, {
+        "name" : "table_fig_number",
+        "titles" : "table_fig_number",
+        "datatype" : "string"
+      }, {
+        "name" : "title",
+        "titles" : "title",
+        "datatype" : "string"
+      }, {
+        "name" : "author",
+        "titles" : "lastname_author",
+        "datatype" : "string"
+      }, {
+        "name" : "year",
+        "titles" : "source_year",
+        "datatype" : "string"
+      }, {
+        "name" : "journal",
+        "titles" : "journal",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
 }
