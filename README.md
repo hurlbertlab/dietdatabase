@@ -1,4 +1,4 @@
-Avian Diet Database 
+Avian Diet Database    
 ===================
 
 [![DOI](https://zenodo.org/badge/22651884.svg)](https://zenodo.org/badge/latestdoi/22651884)
