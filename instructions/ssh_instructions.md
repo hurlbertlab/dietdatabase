@@ -3,7 +3,7 @@
 1. In a git bash window, type:
 
  ```
- $ ssh-keygen -t rsa -C "your_email@example.com"
+ $ ssh-keygen -t ed25519 -C "your_email@example.com"
  ```
 
 2. You'll be asked to enter your ssh directory and a passphrase. Just leave these blank and hit enter for each selection. The location of your ssh key and the key fingerprint are printed. The location should be in your home directory.
