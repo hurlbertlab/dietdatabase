@@ -124,7 +124,7 @@ of these fields, and how data should be entered. Further instructions about how 
         <li>coniferous forest</li>  
         <li>woodland</li>  
         <li>mangrove</li>  
-        <li>scrubland</li>  
+        <li>shrubland</li>  
         <li>grassland</li>  
         <li>desert</li>  
         <li>wetland</li>  
